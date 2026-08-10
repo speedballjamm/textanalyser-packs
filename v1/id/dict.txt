@@ -1,0 +1,7093 @@
+# Auto-extracted from indonesian-text-analyser_6.jsx (RAW_DICT, lines 17-7040).
+# Format: word|band|gloss[|from[|pos]]
+#
+# The band column is empty for any word ranks.txt ranks: the band is computed
+# from the rank there. It is filled only for words the corpus never ranked.
+#
+# Glosses on this file only are generated with an LLM and are not derived from
+# any licensed corpus. See NOTICE at the repo root.
+yang||that, which
+dan||and
+di||in, at
+ke||to, toward
+dari||from
+ini||this
+itu||that
+dengan||with
+untuk||for
+diperuntukkan|5|intended for, designated for|untuk|v.
+pada||at, on
+kepada||to (a person)|pada
+oleh||by (agent)
+adalah||is, to be|ada
+ada||to exist; there is
+tidak||no, not
+bukan||not, is not (of nouns)
+bukankan|4|isn't it?, didn't you? (= bukankah)
+ya||yes
+iya||yes (colloq.)
+mengiyakan|5|to say yes to, to agree to|iya|v.
+saya||I, me (formal)
+aku||I, me
+kamu||you
+anda||you (formal)
+dia||he, she
+ia||he, she
+kami||we (excluding you)
+kita||we (including you)
+mereka||they
+kalian||you (plural)
+orang||person, people
+apa||what
+apakan|5|to do what with|apa|v.
+siapa||who
+mana||which, where
+bagaimana||how
+mengapa||why|apa
+kenapa||why|napa
+kapan||when
+berapa||how much, how many|apa
+satu||one
+menyatu|5|to unite, to merge|satu|v.
+satukan|5|to unite, to bring together|satu|v.
+disatukan|5|to be united|satu|v.
+dua||two
+tiga||three
+sepertiga|5|a third|tiga
+pertiga|5|third (in sepertiga)|tiga
+empat||four
+seperempat|5|a quarter|empat
+perempat|5|quarter|empat
+seperlima|5|a fifth|lima
+sepersepuluh|5|a tenth|sepuluh
+lima||five
+enam||six
+tujuh||seven
+delapan||eight
+sembilan||nine
+sepuluh||ten|puluh
+belas||-teen
+puluh||ten(s)
+ratus||hundred
+peratus|5|percent (Malay)|ratus
+ribu||thousand
+juta||million
+nol||zero
+setengah||half|tengah
+hari||day
+minggu||week; Sunday
+bulan||month; moon
+tahun||year
+jam||hour; clock, watch
+menit||minute
+detik||second (of time)
+waktu||time
+saat||moment; when||n.;conj.
+sekarang||now
+nanti||later
+tadi||just now, earlier
+besok||tomorrow
+kemarin||yesterday
+dulu||before, first (in time)
+dahulu||before, formerly
+sudah||already
+sudahi|5|to end, to stop|sudah|v.
+sudahkan|5|have you already...? (= sudahkah)
+berkesudahan|5|coming to an end (usu. tak berkesudahan, endless)|sudah
+telah||already (formal)
+belum||not yet
+sedang||currently, in the middle of
+masih||still
+akan||will, going to
+baru||new; just now||adj.;adv.
+lagi||again, more
+pernah||ever, once
+sering||often
+selalu||always
+jarang||seldom, rare
+kadang||sometimes
+segera||immediately, soon
+bisa||can, able to
+dapat||can; to get||aux.;v.
+boleh||may, allowed
+harus||must, have to
+perlu||to need
+mau||to want
+ingin||to want, to wish
+suka||to like
+tahu||to know; tofu||v.;n.
+kenal||to know (a person)
+paham||to understand
+mengerti||to understand|ngerti
+arti||meaning
+juga||also, too
+hanya||only
+saja||just, only
+sangat||very
+sekali||very; once|kali
+sama sekali|3|(not) at all
+amat||very
+amati|5|to observe, to watch closely|amat|v.
+diamati|5|to be observed|amat|v.
+terlalu||too (excessively)
+cukup||enough, sufficient
+memadai|5|adequate, sufficient||adj.
+kurang||less; lacking||adv.;adj.
+lebih||more
+melebih|5|to exaggerate (in melebih-lebihkan)|lebih|v.
+melebihkan|5|to overdo, to put too much on|lebih|v.
+berlebihan|4|excessive, too much|lebih|adj.
+berlebih|5|excessive, in excess|lebih|adj.
+paling||most
+memalingkan|5|to turn away (the face)|paling|v.
+palingkan|5|turn (your face) away|paling|v.
+banyak||many, much
+sedikit||a little, few|dikit
+semua||all
+seluruh||whole, entire
+setiap||every|tiap
+tiap||each
+beberapa||several, some|berapa
+masing||each (masing-masing)
+lain||other, different
+sama||same
+menyamakan|5|to equate, to make the same|sama|v.
+menyamai|5|to equal, to match|sama|v.
+samakan|5|make it the same, equate|sama|v.
+disamakan|5|to be equated with|sama|v.
+beda||different
+seperti||like, as
+sebagai||as, in the role of
+bahwa||that (conjunction)
+kalau||if
+jika||if
+andai|4|if, supposing
+seandainya|4|supposing, if only|andai
+andaikan|5|suppose, if|andai|v.
+karena||because
+sebab||cause; because||n.;conj.
+jadi||so; to become||conj.;v.
+maka||then, therefore
+tetapi||but
+tapi||but
+namun||however
+atau||or
+serta||as well as
+disertai|5|accompanied by|serta|v.
+menyertakan|5|to include, to enclose|serta|v.
+sertakan|5|include it, enclose it|serta|v.
+disertakan|5|to be included, to be enclosed|serta|v.
+sertai|5|to accompany, to join|serta|v.
+berserta|5|together with|serta
+agar||so that
+supaya||so that
+sehingga||so that, to the point that|hingga
+ketika||when (past)
+sementara||while, meanwhile
+sebelum||before|belum
+sesudah||after|sudah
+setelah||after|telah
+sejak||since
+sampai||until; to arrive||prep.;v.
+hingga||until
+tentang||about, concerning
+antara||between, among
+dalam||in, inside; deep||prep.;adj.
+luar||outside
+atas||above, top
+bawah||below, under
+depan||front; next||n.;adj.
+belakang||back, behind
+tengah||middle, center
+samping||side, beside
+dekat||near
+jauh||far
+sini||here
+sinikan|5|hand it over, bring it here (colloq.)|sini|v.
+situ||there
+sana||over there
+mari||let's
+ayo||come on, let's
+jangan||don't
+jangankan|5|let alone, never mind
+silakan||please (go ahead)
+tolong||please; to help||interj.;v.
+maaf||sorry
+terima||to receive, to accept
+kasih||to give; affection||v.;n.
+terima kasih||thank you
+selamat||safe; congratulations||adj.;interj.
+nama||name
+rumah||house, home
+jalan||road, street; to walk||n.;v.
+kota||city
+negara||country, state
+negeri||land, country
+tempat||place
+dunia||world
+daerah||region, area
+pergi||to go
+datang||to come
+pulang||to go home
+masuk||to enter, go in
+keluar||to go out, exit|luar
+naik||to go up; to ride
+turun||to go down, descend
+duduk||to sit
+diri||self
+tidur||to sleep
+bangun||to wake up; to build
+makan||to eat
+minum||to drink
+tenggak|5|to gulp down, to swig||v.
+menenggak|5|to gulp down, to swig|tenggak|v.
+lihat||to see, look
+dengar||to hear, listen
+bicara||to speak
+kata||word; to say||n.;v.
+tanya||to ask
+jawab||to answer
+minta||to ask for, request
+pikir||to think
+rasa||feeling, taste; to feel||n.;v.
+ingat||to remember
+lupa||to forget
+harap||to hope
+tunggu||to wait
+cari||to look for, seek
+temu||to meet, to find
+ambil||to take
+beri||to give
+bawa||to bring, carry
+kirim||to send
+taruh||to put, place
+letak||position; to put||n.;v.
+buka||to open
+tutup||to close, shut
+mulai||to begin, start|mula
+selesai||finished, done
+habis||used up, finished
+terus||to continue; keep on||v.;adv.
+lanjut||to continue
+henti||to stop
+coba||to try
+pakai||to use, to wear
+guna||use, purpose
+buat||to make; for||v.;prep.
+bikin||to make (colloq.)
+kerja||work; to work||n.;v.
+main||to play
+ajar||to teach (belajar: to learn)
+baca||to read
+tulis||to write
+hitung||to count, calculate
+beli||to buy
+jual||to sell
+bayar||to pay
+uang||money
+harga||price
+mahal||expensive
+murah||cheap
+gratis||free of charge
+baik||good, kind
+bagus||good, nice
+buruk||bad
+jelek||bad, ugly
+benar||true, correct
+betul||correct, right
+salah||wrong; mistake||adj.;n.
+besar||big, large
+kecil||small
+panjang||long
+pendek||short
+tinggi||tall, high
+rendah||low
+luas||wide, spacious
+sempit||narrow
+berat||heavy; serious
+ringan||light (in weight)
+tebal||thick
+tipis||thin
+cepat||fast, quick
+lambat||slow
+pelan||slow, soft
+mudah||easy
+gampang||easy (colloq.)
+sulit||difficult
+susah||difficult, hard
+sederhana||simple, modest
+rumit||complicated
+penting||important
+lama||a long time; old||n.;adj.
+muda||young
+tua||old; parent (orang tua)||adj.;n.
+cantik||beautiful, pretty
+tampan||handsome
+ganteng||handsome (colloq.)
+indah||beautiful (of scenery)
+bersih||clean
+kotor||dirty
+panas||hot
+dingin||cold
+hangat||warm
+sejuk||cool (of air)
+kering||dry
+basah||wet
+penuh||full
+kosong||empty
+kuat||strong
+lemah||weak
+keras||hard; loud
+lembut||soft, gentle
+sehat||healthy
+sakit||sick, ill; pain||adj.;n.
+senang||happy, glad
+gembira||glad, joyful
+bahagia||happy
+sedih||sad
+marah||angry
+takut||afraid
+berani||brave
+malu||ashamed, shy
+bosan||bored
+capek||tired (colloq.)
+lelah||tired
+lapar||hungry
+haus||thirsty
+kenyang||full (after eating)
+enak||tasty; pleasant
+lezat||delicious
+manis||sweet
+pahit||bitter
+asin||salty
+asam||sour; acid||adj.;n.
+pedas||spicy
+gurih||savoury
+anak||child
+ibu||mother; ma'am
+bapak||father; sir
+ayah||father
+kakak||older sibling
+adik||younger sibling
+kakek||grandfather
+nenek||grandmother
+suami||husband
+istri||wife
+keluarga||family
+saudara||sibling, relative
+teman||friend
+kawan||friend
+sahabat||close friend
+tamu||guest
+tetangga||neighbour
+guru||teacher
+murid||pupil, student
+siswa||student
+dokter||doctor
+polisi||police
+tentara||soldier, army
+tani||farming, agriculture
+dagang||to trade
+air||water
+api||fire
+tanah||land, soil
+udara||air
+angin||wind
+hujan||rain
+awan||cloud
+langit||sky
+matahari||sun
+bintang||star
+bumi||earth
+laut||sea
+pantai||beach, coast
+sungai||river
+danau||lake
+gunung||mountain
+bukit||hill
+hutan||forest
+belantara|5|wilderness, dense jungle||n.
+pohon||tree
+daun||leaf
+bunga||flower; interest
+buah||fruit; piece (classifier)||n.;cl.
+akar||root
+rumput||grass
+batu||stone, rock
+semen|4|cement||n.
+pasir||sand
+emas||gold
+perak||silver
+besi||iron
+kayu||wood
+kaca||glass (material)
+hewan||animal
+kucing||cat
+anjing||dog
+ayam||chicken
+sapi||cow
+kambing||goat
+kuda||horse
+ikan||fish
+burung||bird
+ular||snake
+tikus||mouse, rat
+gajah||elephant
+harimau||tiger
+monyet||monkey
+semut||ant
+nyamuk||mosquito
+nasi||cooked rice
+beras||uncooked rice
+roti||bread
+mi||noodles
+mie||noodles
+daging||meat
+telur||egg
+susu||milk
+gula||sugar
+garam||salt
+minyak||cooking oil
+sayur||vegetable
+bawang||onion, garlic
+cabai||chilli
+sambal||chilli paste
+kopi||coffee
+teh||tea
+es||ice
+kue||cake, cookie
+pisang||banana
+jeruk||orange, citrus
+kelapa||coconut
+sarapan||breakfast
+warna||colour
+merah||red
+putih||white
+hitam||black
+biru||blue
+hijau||green
+kuning||yellow
+coklat||brown; chocolate||adj.;n.
+ungu||purple
+pagi||morning
+siang||midday
+sore||afternoon
+malam||night
+sambil||while (doing)
+lalu||then; last, past||adv.;adj.
+kemudian||then, afterwards
+hal||thing, matter
+cara||way, method
+buku||book
+sekolah||school
+nomor||number
+angka||number, digit
+huruf||letter (of alphabet)
+kalimat||sentence
+bahasa||language
+cerita||story
+sejarah||history
+lagu||song
+musik||music
+suara||voice, sound; vote
+kabar||news (how are you: apa kabar)
+berita||news
+surat||letter (mail)
+koran||newspaper
+foto||photo
+film||film, movie
+gambar||picture; to draw||n.;v.
+contoh||example
+soal||question, problem
+masalah||problem
+macam||kind, sort
+jenis||kind, type
+bentuk||form, shape
+ukur||to measure (ukuran: size)
+isi||contents; to fill||n.;v.
+arah||direction
+peta||map
+pulau||island
+desa||village
+kampung||village; hometown
+sendiri||alone; own, self||adj.;pron.
+punya||to have, to own
+milik||possession, belonging to
+hidup||to live; life; alive||v.;n.;adj.
+mati||dead; to die||adj.;v.
+lahir||to be born
+tumbuh||to grow
+nikah||to marry
+cinta||love
+sayang||dear; affection; a pity||adj.;n.;interj.
+benci||to hate
+percaya||to believe, trust
+yakin||sure, convinced
+ragu||doubtful, hesitant
+bohong||to lie
+jujur||honest
+janji||promise; appointment
+kelompok||group
+para||(plural marker for people)
+memang||indeed, in fact
+langsung||direct(ly), immediately
+segar||fresh
+ekor||tail; (classifier for animals)||n.;cl.
+belanja||to shop; shopping||v.;n.
+yaitu||namely, that is
+musim||season
+hampir||almost
+tepat||exact, precise; on time||adj.;adv.
+utama||main, primary
+dasar||base, foundation
+asal||origin; as long as||n.;conj.
+pokok||main; staple||adj.;n.
+sumber||source
+kanan||right (side)
+kiri||left (side)
+lurus||straight
+mandi||to bathe
+cuci||to wash
+masak||to cook
+goreng||fried; to fry||adj.;v.
+rebus||boiled; to boil||adj.;v.
+bakar||to burn; grilled||v.;adj.
+potong||to cut
+belah||to split; side||v.;n.
+iris||to slice
+sapu||broom; to sweep||n.;v.
+sikat||brush
+sabun||soap
+simpan||to keep, store
+buang||to throw away
+sampah||garbage, rubbish
+pilih||to choose
+tentu||certain, sure
+tunjuk||to point, to show
+tanda||sign, mark
+bukti||proof, evidence
+butuh||to need
+manfaat||benefit, use
+untung||profit; lucky||n.;adj.
+rugi||loss
+biaya||cost, expense
+gaji||salary
+usaha||effort; business
+umum||general, public
+khusus||special, specific
+pribadi||personal, private
+masyarakat||society, community
+rakyat||the people
+warga||citizen, resident
+perintah||order, command
+pemerintah||government|perintah
+presiden||president
+menteri||minister (government)
+politik||politics
+ekonomi||economy
+sosial||social
+budaya||culture
+seni||art
+agama||religion
+sekitar||around, surroundings|kitar
+batas||limit, border
+jarak||distance
+pusat||center
+akhir||end
+awal||beginning, early
+daftar||list; to register||n.;v.
+catat||to note down
+pesan||message; to order||n.;v.
+acara||event, programme
+pesta||party, celebration
+ulang||to repeat
+ulang tahun||birthday
+raya||great (hari raya: holiday)
+hadiah||gift, prize
+biasa||usual, ordinary
+aneh||strange, odd
+hebat||great, awesome
+istimewa||special
+sibuk||busy
+santai||relaxed
+serius||serious
+lucu||funny; cute
+seru||exciting (colloq.)
+tugas||task, assignment
+ilmu||knowledge, science
+alat||tool, device
+bahan||material, ingredient
+rencana||plan
+kelas||class
+kantor||office
+pasar||market
+toko||shop, store
+warung||small shop, food stall
+gedung||building
+kamar||room
+ruang||room, space
+dapur||kitchen
+pintu||door
+jendela||window
+lantai||floor; storey
+dinding||wall
+atap||roof
+kunci||key; to lock||n.;v.
+lampu||lamp, light
+listrik||electricity
+mesin||machine, engine
+mobil||car
+motor||motorcycle
+sepeda||bicycle
+bus||bus
+kereta||train; carriage
+kereta api||train
+pesawat||aeroplane
+kapal||ship
+meja||table
+kursi||chair
+gelas||drinking glass
+piring||plate
+sendok||spoon
+garpu||fork
+pisau||knife
+botol||bottle
+baju||shirt, clothes
+celana||trousers
+sepatu||shoe(s)
+topi||hat
+kain||cloth, fabric
+tas||bag
+kertas||paper
+pensil||pencil
+badan||body
+tubuh||body
+kepala||head; chief
+rambut||hair
+mata||eye
+hidung||nose
+mulut||mouth
+telinga||ear
+gigi||tooth
+lidah||tongue
+tangan||hand, arm
+kaki||foot, leg
+jari||finger
+kulit||skin; leather
+hati||heart (figurative); liver
+perut||stomach, belly
+darah||blood
+wajah||face
+dahi|5|forehead||n.
+senyum||smile
+tawa||laughter
+tangis||crying
+lari||to run
+renang||swimming
+terbang||to fly
+tiba||to arrive
+kembali||to return; again||v.;adv.
+balik||to return, reverse
+pindah||to move (house etc.)
+diam||silent; to stay still||adj.;v.
+tinggal||to stay, live; to leave behind
+berangkat||to depart|angkat
+lewat||to pass by; via||v.;prep.
+ikut||to follow, to join
+antar||to escort, deliver
+jemput||to pick up
+bantu||to help
+dukung||to support
+lawan||opponent; to oppose||n.;v.
+menang||to win
+kalah||to lose
+juara||champion
+lomba||competition, race
+tanding||to compete; match||v.;n.
+latih||to train (latihan: exercise)
+didik||to educate
+uji||to test (ujian: exam)
+nilai||value; grade, score
+tingkat||level, degree
+jaga||to guard, watch over
+rawat||to care for, nurse
+obat||medicine
+sembuh||to recover, heal
+luka||wound, injury
+jiwa||soul, spirit
+mimpi||dream
+sadar||aware, conscious
+kaya||rich
+miskin||poor
+hukum||law
+atur||to arrange, regulate
+larang||to forbid
+izin||permission
+setuju||to agree|tuju
+tolak||to refuse, push away
+dorong||to push
+tarik||to pull; to attract
+angkat||to lift, raise
+pegang||to hold
+lempar||to throw
+tangkap||to catch
+lepas||loose; to release||adj.;v.
+ikat||to tie
+gantung||to hang
+pasang||to install, put up; pair||v.;n.
+tekan||to press
+bunuh||to kill
+curi||to steal
+perang||war
+damai||peace, peaceful
+aman||safe, secure
+bahaya||danger
+tanam||to plant
+kebun||garden, plantation
+sawah||rice field
+taman||park, garden
+laku||behaviour; to sell well||n.;v.
+kira||to guess, think
+rapi||neat, tidy
+ramai||crowded, lively
+sepi||quiet, deserted
+gelap||dark
+terang||bright, clear
+jelas||clear, obvious
+muncul||to appear, emerge
+hilang||lost, to disappear
+tampak||visible, to appear
+kumpul||to gather
+pisah||to separate
+gabung||to join, combine
+hubung||to connect (hubungan: relationship)
+sambung||to connect, continue
+putus||to break off
+pecah||to break, shatter
+rusak||broken, damaged
+hancur||destroyed, shattered
+tambah||to add
+ganti||to replace, change
+ubah||to change
+merubah|4|to change (nonstandard spelling of mengubah)|ubah|v.
+kali||time(s), occurrence
+perkalian|5|multiplication|kali|n.
+jumlah||amount, total
+hasil||result, product
+akibat||result, consequence
+tuju||to head toward (tujuan: goal, purpose)
+maksud||intention, meaning
+istirahat||rest, break
+siap||ready
+sedia||ready; to provide||adj.;v.
+ternyata||it turns out that|nyata
+nyata||real, evident
+sesuai||suitable, in accordance
+urus||to manage, take care of
+sempat||to have the chance to
+sempurna||perfect
+lengkap||complete
+olahraga||sport(s)
+bola||ball
+sepak bola||football, soccer
+tim||team
+rumah sakit||hospital
+orang tua||parents
+kamar mandi||bathroom
+tempat tidur||bed
+mungkin||maybe, possible
+pasti||certain, definitely
+adil||fair, just
+sebut||to mention, to call
+panggil||to call (someone)
+pukul||to hit; o'clock||v.;n.
+masa||period, time
+sebentar||a moment, a little while|bentar
+umur||age
+usia||age
+bayi||baby
+remaja||teenager
+dewasa||adult
+bahkan||even, in fact
+apalagi||moreover, let alone
+pula||also, too
+pun||even; also (particle)
+meski||although
+walau||although
+biar||let; so that (colloq.)||v.;conj.
+padahal||whereas, even though
+justru||precisely, on the contrary
+sungguh||truly, really
+entah||(I) don't know; whether||interj.;conj.
+barangkali||perhaps
+daripada||than (in comparison)
+sebelah||side; next to|belah|n.;prep.
+hadap||to face
+hadir||present, to attend
+tawar||to offer; to bargain; bland||v.;v.;adj.
+serah||to hand over
+tonton||to watch
+nyanyi||to sing
+tari||dance
+pandang||to gaze, to view
+sambut||to welcome, greet
+puji||to praise
+bayam||spinach
+ucap||to say, utter
+teriak||to shout
+bisik||to whisper
+sapa||to greet
+salam||greeting(s)
+jumpa||to meet
+sampai jumpa||see you later
+pamit||to take one's leave
+suruh||to order (someone to do)
+ajak||to invite (someone along)
+mengajaku|5|to invite me, to ask me along|ajak|v.
+saran||suggestion
+usul||proposal, suggestion
+nasihat||advice
+kritik||criticism
+keluh||to complain
+protes||to protest
+bahas||to discuss
+diskusi||discussion
+debat||debate
+ancam||to threaten
+tipu||to deceive
+sumpah||oath; to swear||n.;v.
+gosip||gossip
+humor||humour
+canda||joke, banter
+anggap||to consider, assume
+duga||to suspect, guess
+ramal||to predict
+bayang||shadow
+khayal||imagination, fantasy
+fokus||focus
+teliti||careful, thorough
+riset||research
+simpul||knot
+analisis||analysis
+rumus||formula
+misal||example (misalnya: for example)
+yakni||namely
+demikian||thus, such
+kesan||impression
+alasan||reason
+alas||base, mat
+syarat||requirement, condition
+wajib||obligatory
+hak||right (entitlement)
+tanggung||to bear, be responsible for
+tanggung jawab||responsibility
+luar biasa||extraordinary
+risiko||risk
+luang||free, spare
+jamin||to guarantee
+asuransi||insurance
+kebetulan||coincidence; by chance|betul|n.;adv.
+sengaja||deliberately
+capai||to reach, achieve; tired||v.;adj.
+raih||to attain
+peroleh||to obtain|oleh
+laksana||to carry out (melaksanakan)
+wujud||form (mewujudkan: to realise)
+susun||to arrange, compile
+tata||to arrange, put in order
+acak||random
+kacau||chaotic
+berantakan||messy
+bongkar||to dismantle, unload
+runtuh||to collapse
+bangkit||to rise, get up
+geser||to shift
+titip||to entrust to
+tunda||to postpone
+batal||cancelled
+hindar||to avoid
+cegah||to prevent
+lindung||to protect
+serang||to attack
+bela||to defend
+senjata||weapon
+tembak||to shoot
+tendang||to kick
+sentuh||to touch
+genggam||to grip
+peluk||to hug
+cium||to kiss; to smell
+gigit||to bite
+telan||to swallow
+napas||breath
+nafas||breath
+hirup||to inhale
+tiup||to blow
+keringat||sweat
+gosok||to rub, scrub
+jemur||to dry in the sun
+setrika||to iron
+jahit||to sew
+paksa||to force
+desak||to press, urge
+kejar||to chase
+buru||to hunt, chase
+lompat||to jump
+langkah||step
+belok||to turn (direction)
+putar||to turn, rotate
+seberang||across, opposite side
+lintas||to cross (lalu lintas: traffic)
+lalu lintas||traffic
+tumpang||to ride along
+angkut||to transport
+muat||to contain, to load
+beban||burden, load
+kemas||to pack
+bungkus||to wrap; package||v.;n.
+kado||gift, present
+amplop||envelope
+pos||post, mail
+jembatan||bridge
+stasiun||station
+bandara||airport
+terminal||terminal, bus station
+pelabuhan||harbour, port|labuh
+halte||bus stop
+tiket||ticket
+sopir||driver
+bensin||petrol, gasoline
+parkir||to park
+macet||(traffic) jam; stuck||n.;adj.
+ban||tyre
+roda||wheel
+layar||screen; sail
+kondisi||condition
+situasi||situation
+posisi||position
+lokasi||location
+suasana||atmosphere, mood
+peran||role
+tokoh||figure, character
+sifat||character, trait
+ciri||characteristic
+gaya||style; force
+pihak||side, party (in a matter)
+segi||aspect, side
+unsur||element
+faktor||factor
+sistem||system
+proses||process
+program||programme
+metode||method
+teori||theory
+fakta||fact
+data||data
+informasi||information
+teknologi||technology
+teknik||technique; engineering
+komputer||computer
+laptop||laptop
+internet||internet
+situs||website
+aplikasi||application, app
+ponsel||mobile phone
+telepon||telephone; to phone||n.;v.
+televisi||television
+radio||radio
+media||media
+jaring||net (jaringan: network)
+sinyal||signal
+baterai||battery
+tombol||button
+klik||to click
+ketik||to type
+cetak||to print
+salin||to copy
+tempel||to stick, paste
+hapus||to erase, delete
+unduh||to download
+unggah||to upload
+akun||account
+sandi||code (kata sandi: password)
+berkas||file, document
+email||email
+wartawan||journalist
+siar||to broadcast (siaran)
+salur||to channel (saluran)
+hibur||to entertain (hiburan)
+panggung||stage
+artis||celebrity, performer
+gitar||guitar
+wayang||shadow puppetry
+lambang||symbol
+bendera||flag
+patung||statue
+batik|5|batik
+kaus||t-shirt
+sarung||sarong; sheath
+upacara||ceremony
+adat||custom, tradition
+suku||ethnic group; tribe
+bangsa||nation, people
+provinsi||province
+wilayah||territory, region
+ibu kota||capital city
+penduduk||resident, population|duduk
+gang||alley
+lorong||corridor, lane
+arus||current, flow
+lingkung|5|to surround (lingkungan: environment)
+alam||nature
+cuaca||weather
+iklim||climate
+suhu||temperature
+derajat||degree
+banjir||flood
+gempa||earthquake
+bencana||disaster
+korban||victim
+badai||storm
+ombak||(sea) wave
+gelombang||wave
+kabut||fog, mist
+salju||snow
+kemarau||dry season
+kilat||lightning; express||n.;adj.
+asap||smoke
+debu||dust
+lumpur||mud
+padi||rice plant
+jagung||corn, maize
+kentang||potato
+kacang||nut, bean
+tomat||tomato
+wortel||carrot
+kangkung|5|water spinach
+mangga||mango
+apel||apple
+anggur||grape
+semangka||watermelon
+pepaya||papaya
+nanas||pineapple
+durian||durian
+jambu||guava
+tempe||tempeh
+sate||satay
+bakso||meatball (soup)
+soto||(traditional soup)
+rendang|5|(spiced beef dish)
+kerupuk||(fried) cracker
+kecap||(sweet) soy sauce
+santan|5|coconut milk
+bumbu||spice mix, seasoning
+resep||recipe; prescription
+nasi goreng||fried rice
+restoran||restaurant
+hotel||hotel
+menu||menu
+layan||to serve
+masjid||mosque
+gereja||church
+candi||(ancient) temple
+istana||palace
+menara||tower
+museum||museum
+kampus||campus
+universitas||university
+kuliah||university study; lecture
+jurus||direction; move, technique
+matematika||mathematics
+fisika||physics
+kimia||chemistry
+biologi||biology
+geografi||geography
+pustaka||literature, books
+kamus||dictionary
+istilah||term, expression
+eja||to spell
+terjemah||to translate
+lulus||to pass, graduate
+gagal||to fail
+sukses||success(ful)
+gelar||title, degree
+sarjana||bachelor's degree; scholar
+beasiswa||scholarship
+karya||work, creation
+karyawan||employee
+pegawai||employee, official
+jabat||to hold (office); shake (hands)
+pimpin||to lead
+ketua||chairperson, head|tua
+wakil||deputy, representative
+anggota||member
+panitia||committee
+rapat||meeting
+lembur||overtime
+cuti||(work) leave
+lamar||to apply (job); to propose
+wawancara||interview
+ahli||expert
+terampil||skilled
+profesi||profession
+karier||career
+bos||boss
+direktur||director
+manajer||manager
+pabrik||factory
+industri||industry
+produk||product
+proyek||project
+bisnis||business
+modal||capital (funds)
+pajak||tax
+bank||bank
+tabung||tube
+pinjam||to borrow
+utang||debt
+hutang||debt
+dompet||wallet
+kartu||card
+tunai||cash
+rekening||bank account
+diskon||discount
+langgan||to subscribe
+iklan||advertisement
+promosi||promotion
+merek||brand
+kualitas||quality
+mutu||quality
+undang||to invite (undang-undang: law)
+bijak||wise
+hakim||judge
+saksi||witness
+penjara||prison, jail
+denda||fine (penalty)
+calon||candidate
+partai||(political) party
+gubernur||governor
+wali||guardian (wali kota: mayor)
+dewan||council
+lembaga||institution
+organisasi||organisation
+yayasan||foundation
+komunitas||community
+kampanye||campaign
+demo||demonstration, protest
+konflik||conflict
+krisis||crisis
+korupsi||corruption
+tuhan||God
+allah||God (Islam)
+doa||prayer
+sembah||to worship
+puasa||to fast; fasting||v.;n.
+salat|5|(Islamic) prayer
+shalat||(Islamic) prayer
+ibadah||worship
+haji||hajj; pilgrim
+surga||heaven
+neraka||hell
+dosa||sin
+pahala||(spiritual) reward
+iman||faith
+makam||grave
+kubur||grave; to bury||n.;v.
+demam||fever
+batuk||cough
+pilek||head cold
+flu||flu
+pusing||dizzy; headache||adj.;n.
+mual||nauseous
+muntah||to vomit
+gatal||itchy
+alergi||allergy
+suntik||to inject
+vaksin||vaccine
+virus||virus
+kuman||germ
+gejala||symptom
+pasien||patient
+apotek||pharmacy
+klinik||clinic
+operasi||operation, surgery
+darurat||emergency
+gizi||nutrition
+vitamin||vitamin
+lemak||fat
+gemuk||fat (of a person)
+kurus||thin, skinny
+langsing||slim
+hamil||pregnant
+peduli||to care about
+hormat||respect
+setia||loyal, faithful
+ikhlas||sincere
+tulus||sincere
+niat||intention
+semangat||spirit, enthusiasm
+malas||lazy
+rajin||diligent
+sopan||polite
+ramah||friendly
+sombong||arrogant
+tenang||calm
+sabar||patient
+kecewa||disappointed
+kaget||startled
+kejut||surprise, shock
+heran||amazed, puzzled
+bangga||proud
+iri||envious
+cemburu||jealous
+khawatir||worried
+cemas||anxious
+stres||stress(ed)
+rindu||to miss, long for
+kangen||to miss (colloq.)
+kesal||annoyed
+ngeri||horrifying
+seram||scary
+kagum||to admire
+kasur||mattress
+bantal||pillow
+selimut||blanket
+handuk||towel
+cermin||mirror
+sisir||comb
+lemari||wardrobe, cupboard
+rak||shelf
+laci||drawer
+kipas||fan
+kulkas||refrigerator
+kompor||stove
+panci||pot, saucepan
+wajan||wok
+mangkuk||bowl
+cangkir||cup
+ember||bucket
+paku||nail (hardware)
+palu||hammer
+tangga||stairs, ladder
+pagar||fence
+halaman||yard; page
+gerbang||gate
+cat||paint
+kabel||cable
+kolam||pool, pond
+lapang||spacious (lapangan: field)
+mal||shopping mall
+bengkel||repair shop
+salon||salon
+kios||kiosk
+gudang||warehouse
+ladang||(dry) field
+lembah||valley
+puncak||peak, summit
+gua||cave; I, me (slang)||n.;pron.
+air terjun||waterfall
+benua||continent
+gurun||desert
+zaman||era, age
+abad||century
+jadwal||schedule
+lusa||day after tomorrow
+senja||dusk
+fajar||dawn
+subuh||dawn (prayer time)
+persen||percent
+persis||exactly
+pas||exactly right, fitting (colloq.)
+ganjil||odd (number)
+genap||even (number)
+ganda||double
+tunggal||single
+rata||flat, even (rata-rata: average)
+inti||core, essence
+bab||chapter
+babi|3|pig||n.
+ayat||verse
+pasal||article, clause
+judul||title
+tema||theme
+topik||topic
+isu||issue
+rupa||form, appearance (rupanya: apparently)
+sosok||figure, silhouette
+gagah||dashing, strong
+kokoh||sturdy
+licin||slippery, smooth
+kasar||rough, rude
+halus||smooth, refined
+tajam||sharp
+bulat||round
+kotak||box; square
+garis||line
+titik||point, dot; full stop
+koma||comma
+sudut||corner, angle
+pojok||corner
+tepi||edge
+pinggir||edge, side
+ujung||tip, end
+lubang||hole
+gali||to dig
+tumpuk||to stack, pile
+olah||to process
+seolah||as if
+seolah-olah||as if
+pekan||week; market day
+alamat||address
+ampun||mercy
+himpun||to gather, collect
+jamu||herbal medicine drink
+gaul||sociable; slang (bahasa gaul)||adj.;n.
+turut||to join in, follow along
+absen||absent; roll call||adj.;n.
+lebah||bee
+lalat||fly (insect)
+cicak||house gecko
+katak||frog
+kelinci||rabbit
+bebek||duck
+kerbau||water buffalo
+rusa||deer
+singa||lion
+beruang||bear (animal)
+buaya||crocodile
+hiu||shark
+paus||whale; pope
+udang||shrimp, prawn
+kepiting||crab
+kerang||shellfish, clam
+leher||neck
+bahu||shoulder
+dada||chest
+punggung||back (of body)
+pinggang||waist
+lutut||knee
+bibir||lips
+pipi||cheek
+kuku||fingernail
+tulang||bone
+otot||muscle
+otak||brain
+jantung||heart (organ)
+paman||uncle
+bibi||aunt
+sepupu||cousin
+cucu||grandchild
+mertua||parent-in-law
+mas||(address: older brother, Javanese)
+mbak||(address: older sister, Javanese)
+pak||sir (short for bapak)
+bu||ma'am (short for ibu)
+kak||(address: older sibling)
+om||uncle (address)
+tante||aunt (address)
+bang||(address: older brother)
+tuan||sir, master
+nyonya||madam
+gak||not (colloq.)
+nggak||not (colloq.)
+ga||not (colloq.)
+udah||already (colloq.)
+aja||just, only (colloq.)
+banget||very (colloq.)
+gitu||like that (colloq.)
+gini||like this (colloq.)
+gimana||how (colloq.)
+kok||(particle: surprise, how come)
+sih||(softening particle)
+dong||(emphasising particle)
+deh||(emphasising particle)
+kan||right?, you know (particle)
+nih||here, this (colloq.)
+tuh||there, that (colloq.)
+lho||(surprise particle)
+loh||(surprise particle)
+wah||wow
+aduh||ouch, oh dear
+oke||okay
+hai||hi
+halo||hello
+yuk||come on, let's (colloq.)
+mantap||solid, great (colloq.)
+keren||cool (colloq.)
+asyik||fun, engrossed (colloq.)
+galau||confused, moody (colloq.)
+ribet||complicated (colloq.)
+obrol||to chat
+yg||= yang (text abbreviation)
+dgn||= dengan (text abbreviation)
+utk||= untuk (text abbreviation)
+tdk||= tidak (text abbreviation)
+krn||= karena (text abbreviation)
+sdh||= sudah (text abbreviation)
+blm||= belum (text abbreviation)
+dll||= dan lain-lain (etc.)
+dsb||= dan sebagainya (and so on)
+senin||Monday
+selasa||Tuesday
+rabu||Wednesday
+kamis||Thursday
+jumat||Friday
+sabtu||Saturday
+januari||January
+februari||February
+maret||March
+april||April
+mei||May
+juni||June
+juli||July
+agustus||August
+september||September
+oktober||October
+november||November
+desember||December
+luar negeri||abroad, overseas
+dalam negeri||domestic
+tanda tangan||signature
+tiba-tiba||suddenly
+kadang-kadang||sometimes
+hati-hati||careful; be careful||adj.;interj.
+oleh-oleh||souvenir (from a trip)
+jalan-jalan||to go out for a stroll
+mata-mata||spy
+kupu-kupu||butterfly
+kura-kura||turtle, tortoise
+laba-laba||spider
+lumba-lumba||dolphin
+cumi-cumi||squid
+abu-abu||grey
+abu||ash
+gado-gado|5|(vegetable dish, peanut sauce)
+sayur-mayur||vegetables (assorted)
+macam-macam||all sorts, various
+kira-kira||approximately
+masing-masing||each (one)
+sehari-hari||everyday, daily
+buru-buru||in a hurry
+kau||you (informal)
+engkau||you (literary)
+tak||not (short for tidak)
+takkan|2|will not, won't|tak
+tidakkan|5|will not (tidak akan)|tidak
+cuma||only, just (colloq.)
+kayak||like, as if (colloq.)
+emang||indeed (colloq., = memang)
+sesuatu||something|suatu
+bilang||say, tell (colloq.)
+pria||man
+wanita||woman
+ku||I, me (informal/poetic)
+tetap||stay, remain; still||v.;adv.
+pertama||first
+gadis||girl
+tanpa||without
+gila||crazy
+sial||damn, unlucky
+mu||you, your (informal)
+bagian||part, section|bagi
+bodoh||stupid
+sialan||damn it|sial
+manusia||human, mankind
+bagi||for; to divide||prep.;v.
+oh||oh
+si||the (informal name marker, e.g. si Budi)
+ok||okay
+suatu||a certain, some
+bergerak||move|gerak
+astaga||good grief, oh my god
+tau||know (colloq. for tahu)
+nak||dear, kid (term of address; short for anak)
+nah||there you go; well then
+nya||him, her, it (informal 3rd-person clitic)
+jatuh||fall
+eh||hey, oh (interjection)
+raja||king
+bajingan||bastard, scoundrel (vulgar)
+demi||for the sake of
+kasus||case, instance
+amerika||America
+permisi||excuse me
+wow||wow
+ide||idea
+kecuali||except
+kapten||captain
+rahasia||secret
+agen||agent
+nona||miss, young lady
+mulia||noble, honorable
+semakin||increasingly|makin
+bung||bro, pal (informal address)
+silahkan||please, go ahead
+okay||okay
+segalanya||everything|segala
+bertahan||survive, endure, hold out|tahan
+putri||princess, daughter
+omong||talk, chat (informal)
+semoga||hopefully
+brengsek||damn, jerk (vulgar)
+bila||if, when
+tahan||endure, hold, withstand
+sang||the (honorific article, e.g. sang raja)
+jahat||evil, wicked
+pasukan||troops, forces
+perempuan||woman, female
+segala||all, every kind of
+mundur||retreat, move back
+barang||thing, object; goods
+agak||rather, somewhat
+awak||I, me (regional); crew||pron.;n.
+benda||object, thing
+mengenai||about, concerning, regarding|kena
+saling||each other, mutually
+betapa||how (+ adj., exclamatory)
+sisi||side
+bebas||free
+menyesal||regret|sesal
+inggris||England, English
+pintar||smart, clever
+mampu||able, capable
+dolar||dollar
+musuh||enemy
+mohon||please, beg, request
+akal||reason, mind, sense
+kecelakaan||accident|celaka
+makhluk||creature, being
+kabur||flee, escape; blurry||v.;adj.
+kini||now, at present
+hantu||ghost
+cocok||fit, match, suitable
+mabuk||drunk
+planet||planet
+periksa||check, examine
+utara||north
+kamera||camera
+dewa||god, deity
+cahaya||light
+pantas||proper, appropriate; no wonder||adj.;adv.
+pahlawan||hero
+terlibat||involved|libat
+kejahatan||crime|jahat
+misi||mission
+gue||I, me (Jakarta slang)
+mengganggu||disturb, bother|ganggu
+pistol||gun, pistol
+laporan||report|lapor
+detektif||detective
+nyaman||comfortable
+layak||worthy, proper, deserving
+persetan||to hell with, damn (vulgar)|setan
+penyihir||witch, sorcerer|sihir
+dah||already (colloq., short for sudah)
+monster||monster
+mayat||corpse
+bom||bomb
+pacar||boyfriend, girlfriend
+asing||foreign, strange
+bau||smell
+normal||normal
+prajurit||soldier
+selatan||south
+sebagian||some, a portion|bagian
+kerajaan||kingdom|raja
+maju||advance, progress
+tersisa||remaining|sisa
+tewas||killed, died
+keparat||damn, bastard (vulgar)
+kesepakatan||agreement, deal|sepakat
+lu||you (Jakarta slang)
+pelacur||prostitute (vulgar)
+pangeran||prince
+peluru||bullet
+binatang||animal
+pedang||sword
+bertarung||fight, battle|tarung
+iblis||devil
+penjahat||criminal|jahat
+sobat||friend, buddy
+bertindak||act, take action|tindak
+menderita||suffer|derita
+terimakasih||thank you (alt. spelling of terima kasih)
+palsu||fake, counterfeit
+bersembunyi||hide|sembunyi
+menikmati||enjoy|nikmat
+mama||mom
+terjebak||trapped|jebak
+menahan||hold back, restrain|tahan
+usah||need to (in tidak usah = no need)
+seks||sex
+mirip||similar, resembling
+berjuang||struggle, fight for|juang
+truk||truck
+dendam||grudge, revenge
+militer||military
+kode||code
+sihir||magic, sorcery
+minggir||move aside, get out of the way
+kisah||story, tale
+alih||shift, transfer
+asli||original, genuine, authentic
+menakjubkan||amazing
+awas||watch out, beware
+konyol||silly, ridiculous
+sisa||remainder, leftover
+klub||club
+natal||Christmas
+jepang||Japan
+putra||son, prince
+kencan||date, dating
+timur||east
+barat||west
+menciptakan||create|cipta
+tukang||tradesman, worker (occupation suffix, e.g. tukang kayu)
+nyawa||life, soul
+kemampuan||ability|mampu
+sersan||sergeant
+bir||beer
+jerman||Germany
+bersikap||behave, act|sikap
+rekaman||recording|rekam
+menyembunyikan||hide (something)|sembunyi
+darimana||from where
+telpon||phone (colloq. spelling of telepon)
+mantan||ex- (former partner)
+idiot||idiot
+setan||devil, demon
+malah||instead, on the contrary
+pertempuran||battle|tempur
+lelaki||man, male
+super||super
+target||target
+jenderal||general (military)
+jalang||wild; bitch, slut (vulgar)||adj.;n.
+rusia||Russia
+india||India
+letnan||lieutenant
+yesus||Jesus
+kena||hit, affected by, get in trouble
+tanggal||date (calendar)
+bro||bro (slang)
+lelucon||joke
+vampir||vampire
+malaikat||angel
+jalur||lane, path, route
+parah||severe, terrible
+naga||dragon
+cerdas||smart, intelligent
+berbagi||share|bagi
+seksi||sexy
+energi||energy
+kuno||ancient, old-fashioned
+tersangka||suspect|sangka
+sejati||true, genuine|jati
+narkoba||drugs, narcotics
+unit||unit
+papa||dad, papa
+cincin||ring
+kang||term of address for older man/craftsman
+suci||holy, sacred, pure
+mustahil||impossible
+perahu||boat
+sebal||annoyed, fed up
+ledak||explode
+komandan||commander
+korea||Korea
+profesor||professor
+angkasa||space, sky
+bocah||kid, child
+melanggar||violate, break (a rule)|langgar
+jejak||trace, footprint, track
+lagipula||besides, moreover
+daya||power, energy, ability
+serigala||wolf
+pengecut||coward
+penasaran||curious
+resmi||official
+pertarungan||fight, contest|tarung
+kendali||control
+nakal||naughty
+won||won (Korean currency)
+cina||China, Chinese
+kolonel||colonel
+kemudi||steer, helm
+liar||wild
+balas||reply, respond; retaliate
+perancis||France
+bingung||confused
+lolos||pass, escape, get through
+sekarat||dying, near death
+medis||medical
+lacak||track, trace
+kenang||remember fondly, recall
+buta||blind
+sel||cell (biology/prison)
+roh||spirit, soul
+gugup||nervous
+gerak||motion, movement
+patah||broken, snapped
+takdir||destiny, fate
+departemen||department
+apartemen||apartment
+semesta||universe
+kontak||contact
+meter||meter (unit)
+sma||high school (abbrev. for Sekolah Menengah Atas)
+dana||fund, funding
+rokok||cigarette
+area||area
+rekan||colleague, partner
+gas||gas
+pendeta||pastor, priest, clergyman
+bapa||father (formal/religious address)
+raksasa||giant
+malang||unfortunate, pitiful
+tenaga||energy, power, workforce
+spesial||special
+stop||stop
+ajaib||magical, miraculous
+episode||episode
+panik||panic
+sheriff||sheriff
+tenggelam||drown, sink
+darat||land, ground
+robot||robot
+bekas||former, used, trace
+tiada||nonexistent, there isn't
+kunjung||visit
+nasional||national
+libur||day off, holiday
+beres||settled, done, in order
+taksi||taxi
+budak||slave
+tebak||guess
+boss||boss
+pecundang||loser
+boneka||doll
+game||game
+teroris||terrorist
+kelahi||fight, brawl
+lukis||paint, draw
+bersulang||toast (raise a glass)
+alien||alien
+tali||rope, string, cord
+toilet||toilet
+lapor||report
+pantat||butt, buttocks
+fungsi||function
+akses||access
+baby||baby
+ajukan||propose, submit, put forward
+cek||cheque; to check||n.;v.
+sekedar||just, merely
+nasib||fate, luck
+sesat||astray, misguided
+cewek||girl, chick (informal)
+kagak||not, no (very colloq.)
+lumayan||fairly good, decent, not bad
+kendaraan||vehicle|kendara
+kalo||if (colloq. for kalau)
+kuasa||power, authority
+jaksa||prosecutor
+harta||wealth, property, treasure
+syukur||gratitude, thank goodness
+telanjang||naked
+racun||poison
+klien||client
+selidik||investigate
+gaun||gown, dress
+baring||lie down
+krim||cream
+campur||mix
+singkir||move aside, get rid of
+kriminal||criminal
+bangsat||bastard, scum (vulgar)
+payah||weak, pathetic, hopeless
+tongkat||stick, cane, staff
+pingsan||faint, pass out
+kontrak||contract
+yahudi||Jewish, Jew
+band||band (music)
+bertengkar||quarrel, argue|tengkar
+mahkota||crown
+serikat||union, federation
+singkat||brief, short
+markas||headquarters, base
+profesional||professional
+jijik||disgust
+permen||candy
+ganggu||bother, disturb
+rock||rock (music)
+kontrol||control
+tipe||type
+model||model
+kutuk||curse
+tolol||stupid, idiot
+trik||trick
+bakat||talent
+beliau||he, she (formal, respectful)
+muka||face
+ni||this (colloq., short for ini)
+lokal||local
+jenius||genius
+lab||lab
+blok||block
+ketat||tight, strict
+pandai||clever, skilled
+walikota||mayor
+sembunyi||hide
+lo||you (Jakarta slang)
+ilmuwan||scientist
+mantra||spell, incantation
+legenda||legend
+sebar||spread, scatter
+eropa||Europe
+pengkhianat||traitor|khianat
+identitas||identity
+gay||gay
+dokumen||document
+sinar||ray, beam of light
+terowongan||tunnel
+mampir||stop by, drop in
+barusan||just now
+mom||mom
+nikmat||enjoyable, delicious; pleasure||adj.;n.
+fisik||physical
+helikopter||helicopter
+berbagai||various, all kinds of
+publik||public
+mayor||major (military rank)
+senapan||rifle
+komunikasi||communication
+lengan||arm (limb)
+nuklir||nuclear
+saham||stock, shares (finance)
+file||file
+senator||senator
+berkembang||develop, grow|kembang
+sewa||rent, hire
+puas||satisfied
+papan||board, plank
+sepakat||agree
+peri||fairy
+percakapan||conversation|cakap
+penggemar||fan (of something)|gemar
+sanggup||capable, willing, able
+bakal||going to, will (colloq.)
+berkat||thanks to, by virtue of
+impian||dream, aspiration
+sayap||wing
+resiko||risk
+spanyol||Spain
+china||China (alt. to cina)
+emosi||emotion
+nyala||flame, ignite
+dollar||dollar (alt. spelling)
+banding||compare
+dna||DNA
+romantis||romantic
+geng||gang
+sasaran||target
+kaisar||emperor
+derita||suffer, suffering
+kuil||temple
+perlahan||slowly|lahan
+pensiun||retire, pension
+senior||senior
+duka||grief, sorrow
+efek||effect
+madu||honey
+dansa||dance
+tingkah||behavior, attitude
+kuatir||worried (alt. spelling of khawatir)
+afrika||Africa
+alkohol||alcohol
+lancar||smooth, fluent
+pilot||pilot
+aksi||action
+poin||point
+muak||fed up, disgusted
+oppa||older brother, boyfriend (Korean term, common in K-drama context)
+culik||kidnap
+seragam||uniform|ragam
+peristiwa||event, incident
+sidik||fingerprint
+murni||pure
+meksiko||Mexico
+pil||pill
+rampok||rob, plunder
+ilegal||illegal
+balap||race
+aktif||active
+agung||grand, great, majestic
+federal||federal
+stabil||stable
+zombie||zombie
+makin||increasingly (colloq. for semakin)
+italia||Italy
+generasi||generation
+satelit||satellite
+misteri||mystery
+halang||block, obstruct
+sup||soup
+rekam||record
+kompetisi||competition
+berlian||diamond
+timbang||weigh, consider
+mahasiswa||university student
+cadangan||reserve, backup
+tkp||crime scene (abbrev. for tempat kejadian perkara)
+sikap||attitude
+tambang||mine (mining)
+asisten||assistant
+pancing||fish, angle; provoke
+tiarap||lie face down, get down
+lingkar||circle, ring
+abai||neglect, ignore
+kristus||Christ
+pizza||pizza
+khianat||betray, treachery
+grup||group
+alarm||alarm
+alir||flow
+sipil||civil, civilian
+kru||crew
+tangguh||tough, resilient
+selinap||sneak
+berontak||rebel, revolt
+kanker||cancer
+rebut||seize, grab
+telat||late (colloq.)
+rumor||rumor
+kencing||urinate, pee
+karakter||character
+tembok||wall
+nonton||watch (colloq. for menonton)
+drama||drama
+adegan||scene
+kantong||pocket, bag
+tuduh||accuse
+peti||box, chest, crate
+benteng||fort, fortress
+cowok||guy, boyfriend (informal)
+penis||penis
+kredit||credit
+bidang||field, area (of study/work)
+waspada||alert, cautious, wary
+sms||text message
+fasilitas||facility
+maya||virtual, illusory
+tuntut||demand, sue, prosecute
+inspektur||inspector
+busuk||rotten
+tampil||appear, perform
+keju||cheese
+ganja||marijuana
+hallo||hello (alt. spelling of halo)
+puisi||poem, poetry
+zona||zone
+sandera||hostage
+tempur||fight, combat
+libat||involve
+pipa||pipe
+simbol||symbol
+kostum||costume
+misterius||mysterious
+favorit||favorite
+kamp||camp
+giliran||turn (one's turn)
+langgar||violate
+perdana||premier, first, primary
+sekretaris||secretary
+pengaruh||influence
+tantang||challenge
+jebak||trap
+panah||arrow, bow
+domba||sheep
+ksatria||knight
+momen||moment
+umat||people, community (religious)
+indonesia||Indonesia
+ungkap||reveal, express
+kaum||group, community, class of people
+bulu||fur, feather, body hair
+sabuk||belt
+bijaksana||wise
+puteri||princess (alt. spelling of putri)
+negatif||negative
+hadirin||audience, attendees
+cerah||bright, sunny
+trims||thanks (colloq., short for terima kasih)
+jaket||jacket
+kembar||twin
+egois||selfish
+kandang||cage, pen, stable
+majalah||magazine
+topeng||mask
+alpha||alpha
+pola||pattern
+tabrak||crash, collide
+baris||line, row
+tradisi||tradition
+baja||steel
+ngomong||talk, speak (colloq.)
+samar||vague, disguised
+total||total
+tahap||stage, phase
+perduli||care about (alt. spelling of peduli)
+sarang||nest, den
+solusi||solution
+juri||jury, judge (competition)
+larut||dissolve; late at night||v.;adj.
+tagih||bill, demand payment
+divisi||division
+perangkap||trap
+sekaligus||at the same time, simultaneously
+internasional||international
+keliling||around, circumference
+mesir||Egypt
+ketuk||knock
+mesti||must, should
+insiden||incident
+laboratorium||laboratory
+langka||rare, scarce
+jendral||general (alt. spelling of jenderal)
+yunani||Greece
+aktor||actor
+prancis||France (alt. spelling of perancis)
+ritual||ritual
+hamba||servant, slave (humble self-reference)
+rute||route
+karna||because (colloq., alt. spelling of karena)
+lipat||fold
+infeksi||infection
+sidang||trial, session, hearing
+tato||tattoo
+singgung||touch on, offend
+positif||positive
+online||online
+seksual||sexual
+nampak||appear, seem (colloq., alt. of tampak)
+unik||unique
+berisik||noisy
+setir||steering wheel; to drive||n.;v.
+bajak||pirate, hijack
+serangga||insect
+inap||stay overnight
+kendara||ride, drive
+umpan||bait
+sangka||suspect, presume
+suster||nurse; nun
+perilaku||behavior
+reporter||reporter
+aigoo||oh dear, oh no (Korean interjection, common in K-drama subtitles)
+pejuang||fighter, warrior|juang
+ijin||permission (alt. spelling of izin)
+sensitif||sensitive
+cerai||divorce
+teknis||technical
+jerit||scream, shriek
+klasik||classic
+jet||jet
+pidato||speech
+level||level
+gelisah||anxious, restless
+amin||amen
+hajar||beat up, thrash
+payudara||breast
+pecandu||addict|candu
+artikel||article
+akrab||close, familiar (friendship)
+sejenak||for a moment
+modern||modern
+tembus||penetrate, pierce through
+wabah||epidemic, outbreak
+cacat||defect, disabled
+liat||see, look (colloq. for lihat)
+bravo||bravo
+status||status
+petualang||adventurer
+petualangan||adventure|petualang
+cokelat||chocolate, brown
+curang||cheating, unfair
+tarung||fight
+kalung||necklace
+sampel||sample
+sok||pretentious, acting like (colloq.)
+reaksi||reaction
+nyenyak||sound, deeply (asleep)
+logam||metal
+karir||career
+pirang||blonde
+curiga||suspicious
+kait||hook, connect
+nada||tone, pitch
+giat||active, diligent
+kristen||Christian
+gendut||fat, chubby
+usir||drive away, expel
+bangsawan||noble, aristocrat
+narator||narrator
+tunduk||bow down, submit
+ternak||livestock
+memori||memory
+kacamata||glasses, spectacles
+babak||round, act (of a play/match)
+tur||tour
+koin||coin
+hendak||intend to, about to
+padang||field, plain
+spesies||species
+separuh||half|paruh
+standar||standard
+lilin||candle
+nyaris||almost, nearly
+mahu||want (Malay variant of mau)
+galaksi||galaxy
+bersikeras||insist
+jarum||needle
+terobos||break through
+properti||property
+pers||press, media
+gravitasi||gravity
+protokol||protocol
+prosedur||procedure
+asia||Asia
+rantai||chain
+goda||tempt, tease
+tepuk||clap
+investigasi||investigation
+emosional||emotional
+piano||piano
+selera||taste, appetite
+strategi||strategy
+kandung||contain; womb||v.;n.
+badut||clown
+lenyap||vanish, disappear
+oksigen||oxygen
+rela||willing
+kembang||bloom, develop, flower
+bis||bus (alt. spelling)
+robek||torn, rip
+mendadak||suddenly
+tinju||boxing, punch
+hyung||older brother/male senior (Korean term, common in K-drama subtitles)
+info||info
+orangtua||parents
+licik||cunning, sly
+patroli||patrol
+populer||popular
+latar||background, setting
+sah||valid, legitimate
+versi||version
+marinir||marine (military)
+konferensi||conference
+timbul||arise, emerge
+wajar||reasonable, natural
+petir||lightning, thunder
+garasi||garage
+bedah||surgery
+intelijen||intelligence (agency/info)
+ambulans||ambulance
+final||final
+lega||relieved
+ngobrol||chat (colloq.)
+sinting||crazy, insane
+peradaban||civilization
+jus||juice
+bunyi||sound
+mental||mental
+bergegas||hurry, rush
+ialah||is, namely (formal copula)
+sofa||sofa
+pop||pop (music)
+urut||in order, sequence
+ipar||sibling-in-law
+ilmiah||scientific
+global||global
+koneksi||connection
+pulih||recover, heal
+siksa||torture
+siluman||phantom, invisible spirit
+jengkel||annoyed
+terbit||published, rise (of the sun)
+original||original (borrowed, alt. to asli)
+terobsesi||obsessed|obsesi
+upaya||effort, attempt
+semenjak||since, ever since
+tukar||exchange, swap
+kutu||louse, flea; nerd (kutu buku)
+bagaikan||like, as if
+dongeng||fairy tale, folklore
+buronan||fugitive
+otomatis||automatic
+pangkalan||base (military/naval)
+terjun||jump, dive, plunge
+pakistan||Pakistan
+lebar||wide
+cacing||worm
+perhiasan||jewelry|hiasan
+plastik||plastic
+dewi||goddess
+seniman||artist
+ceo||CEO
+pemadam||fire department/extinguisher|padam
+ceroboh||careless, reckless
+aset||asset
+tamat||finished, ended (of a story/show)
+syuting||filming, shooting (a movie)
+fikir||think (alt. spelling of pikir)
+utuh||intact, whole
+karet||rubber
+studio||studio
+koper||suitcase
+kanada||Canada
+keliru||mistaken, wrong
+panggang||roast, grill, bake
+perwira||officer (military)
+asrama||dormitory
+runduk||crouch, duck down
+cair||liquid, melt
+ras||race (ethnicity)
+festival||festival
+hina||insult, despise
+ronde||round (of a match/fight)
+bak||like, as (colloq.); water tub||prep.;n.
+amunisi||ammunition
+grand||grand
+show||show
+porno||porn, pornographic
+audisi||audition
+bokong||butt, backside
+cipta||create
+saraf||nerve
+motel||motel
+wenang|5|authority
+gugur||fall (in battle), fail (an exam)
+panti||institution, home (e.g. panti asuhan)
+tusuk||stab, pierce
+pena||pen
+fantastis||fantastic
+inci||inch
+mitra||partner
+komando||command
+hisap||suck, inhale
+sekutu||ally
+pergelangan||wrist/ankle (joint)|gelang
+kristal||crystal
+miliar||billion
+kerana||because (Malay spelling variant of karena)
+ribut||noisy, commotion
+tragedi||tragedy
+radiasi||radiation
+yatim||orphan
+arab||Arab, Arabic
+elang||eagle
+madam||madam
+thailand||Thailand
+konsentrasi||concentration
+mula||beginning, origin
+memulakan|5|to begin, to start (Malay)|mula|v.
+konser||concert
+saus||sauce
+dering||ring, ringing
+tangki||tank (container)
+republik||republic
+brilian||brilliant
+liga||league
+buddha||Buddha
+bangkrut||bankrupt
+tengkorak||skull
+kitab||holy book, scripture
+saku||pocket
+komisaris||commissioner
+celaka||unlucky, damn it
+keledai||donkey
+aroma||aroma, smell
+jantan||male (of animals), macho
+reputasi||reputation
+cakap||capable, competent; talk||adj.;v.
+jago||champion, expert
+kongres||congress
+tiang||pole, post
+beneran||really, for real (colloq.)|bener
+dermaga||dock, pier
+kiamat||doomsday, apocalypse
+mawar||rose
+klan||clan
+nazi||Nazi
+gagasan||idea, concept
+evakuasi||evacuation
+organ||organ
+meriam||cannon
+benam||sink, submerge
+remeh||trivial, insignificant
+mafia||mafia
+asuh||nurture, raise
+mantel||coat, mantle
+nomer||number (colloq. spelling of nomor)
+ramu||concoct, brew
+firasat||premonition, hunch
+cedera||injury
+karun||treasure (as in harta karun)
+efektif||effective
+sekejap||a moment, instant
+sangkal||deny
+ekstra||extra
+susul||follow up, catch up
+juru||skilled person, agent (juru bicara)
+sandwich||sandwich
+teks||text
+esok||tomorrow
+roket||rocket
+jangka||term, period; compass
+nafsu||desire, lust, appetite
+bagasi||luggage, baggage
+rinci||detail, itemize
+andal||reliable
+sains||science
+waris||heir, inheritance
+perisai||shield
+koleksi||collection
+laki||male, man
+transaksi||transaction
+manual||manual
+lencana||badge
+banteng||bull, ox
+trauma||trauma
+prioritas||priority
+sesi||session
+terdakwa||defendant, accused|dakwa
+sirkus||circus
+gelang||bracelet
+sektor||sector
+patut||proper, fitting
+detail||detail
+hidang||serve food
+identifikasi||identification
+kilometer||kilometer
+forensik||forensic
+panjat||climb
+luncur||slide, launch
+revolusi||revolution
+desain||design
+struktur||structure
+piala||trophy, cup
+era||era
+moral||moral
+gelandangan||homeless person, vagrant|gelandang
+semula||originally, at first|mula
+duta||ambassador, envoy
+pandu||guide
+cabang||branch
+celah||gap, crevice
+sutradara||film director
+kontes||contest
+tenda||tent
+romawi||Roman
+kencang||fast, tight, strong
+vagina||vagina
+sekian||that's all, so much
+jas||suit (clothing)
+jubah||robe
+daki||climb, ascend
+patuh||obedient
+koboi||cowboy
+kokain||cocaine
+detak||beat, tick (heartbeat)
+kabin||cabin
+potensi||potential
+konfirmasi||confirmation
+ngapain||doing what (colloq.)
+sorak||cheer, shout
+skor||score
+motif||motive
+cenderung||tend to, inclined to
+swasta||private (sector)
+dini||early
+salib||cross, crucifix
+jimat||amulet, charm
+imbang||balanced
+amal||charity, good deed
+irlandia||Ireland
+saudari||sister (formal)
+rancang||design, plan
+subjek||subject
+beku||frozen
+gps||GPS
+frekuensi||frequency
+erat||close, tight (bond)
+pink||pink
+burger||burger
+cabut||pull out, revoke, leave
+incar||target, aim at
+rudal||missile
+klaim||claim
+investasi||investment
+supir||driver (alt. spelling of sopir)
+australia||Australia
+prihatin||concerned, worried
+bedebah||damn, scoundrel (vulgar)
+tahta||throne
+tuli||deaf
+nyali||guts, courage
+lapis||layer
+album||album
+peringkat||rank, ranking
+picu||trigger
+spesifik||specific
+seri||series; draw (tie)
+kaleng||can, tin
+selam||dive
+undur||withdraw, step back
+enyahlah||go away, get lost (vulgar)
+maha||great, supreme
+kera||monkey, ape
+dengus||snort, grunt
+biro||bureau, agency
+meleset||miss (target), off the mark
+rekor||record (achievement)
+akademi||academy
+tragis||tragic
+produksi||production
+abang||older brother (term of address)
+komentar||comment
+balon||balloon
+depresi||depression
+skala||scale
+tebing||cliff
+dinosaurus||dinosaur
+intel||intel, intelligence
+elemen||element
+partner||partner
+atom||atom
+teluk||gulf, bay
+kaku||stiff, rigid
+hp||cellphone (abbrev. for handphone)
+saing||rival, compete
+rangkak||crawl
+alkitab||Bible
+layang||fly, soar, kite
+siaga||alert, ready, standby
+tombak||spear
+transportasi||transportation
+selingkuh||cheat on a partner
+sesal||regret
+server||server
+helm||helmet
+insinyur||engineer
+dek||deck
+psikopat||psychopath
+latin||Latin
+koordinat||coordinate
+jamur||mushroom, fungus
+genetik||genetic
+arena||arena
+dasi||necktie
+kastil||castle
+canggung||awkward
+usai||finished, over
+meteor||meteor
+dimensi||dimension
+bantai||slaughter
+landas||takeoff (landasan pacu)
+retas||hack (computer)
+perkara||matter, case, issue
+novel||novel (book)
+paspor||passport
+mitos||myth
+jangkau||reach
+teater||theater
+buas||wild, ferocious
+juang||struggle, fight for
+edar||circulate, distribute
+pon||pound (weight)
+kutub||pole (geographic)
+irak||Iraq
+halloween||Halloween
+seret||drag
+granat||grenade
+skotlandia||Scotland
+botak||bald
+armada||fleet
+kasino||casino
+ulah||mischief, prank, behavior
+jitu||accurate, on target
+waras||sane
+psikiater||psychiatrist
+biksu||monk (Buddhist)
+aktivitas||activity
+bubuk||powder
+desah||sigh
+betina||female (animal)
+sampanye||champagne
+tunangan||fiancé, fiancée, engagement
+bonus||bonus
+kawin||marry, mate
+kaos||t-shirt
+aula||hall, auditorium
+terkekeh||chuckle, giggle
+teknisi||technician
+basket||basketball
+surya||sun (tata surya)
+jurang||ravine, chasm
+imut||cute (colloq.)
+gen||gene
+konsep||concept
+tenggorokan||throat
+respon||response
+ngga||not (very colloq., alt. of enggak)
+laser||laser
+magnet||magnet
+eksperimen||experiment
+segel||seal
+visi||vision
+soda||soda
+kelelawar||bat (animal)
+dramatis||dramatic
+astronot||astronaut
+bioskop||cinema, movie theater
+padat||solid, dense, crowded
+tawan||capture
+elektronik||electronic
+distrik||district
+canggih||sophisticated, advanced
+lumpuh||paralyzed
+kudus||holy (Roh Kudus)
+pelihara||take care of, raise
+semester||semester
+materi||material, subject matter
+kritis||critical
+permanen||permanent
+kawat||wire
+retak||crack
+bocor||leak
+agresif||aggressive
+imbalan||reward, compensation
+banci||effeminate man, drag queen (informal, can be pejorative)
+utusan||envoy, messenger|utus
+skenario||scenario
+komite||committee
+catur||chess
+brutal||brutal
+massa||mass, crowd
+purnama||full moon
+karpet||carpet
+buntu||dead end, stuck
+sulap||magic (tukang sulap)
+intip||peek, spy
+muslim||Muslim
+maut||death, deadly
+ekspresi||expression
+pondok||hut, cottage; boarding school
+afghanistan||Afghanistan
+pompa||pump
+sultan||sultan
+kompleks||complex
+apabila||if, when (formal)
+mahir||skilled, proficient
+gairah||passion, desire
+dampak||impact
+gemetar||tremble, shake
+privasi||privacy
+lampau||past, exceed
+nabi||prophet
+kala||time, when (poetic)
+ninja||ninja
+transfer||transfer
+matang||ripe, mature, cooked
+konstruksi||construction
+prinsip||principle
+tiru||imitate, copy
+sensor||censor, sensor
+kandidat||candidate
+inspirasi||inspiration
+mentega||butter
+biji||seed
+borgol||handcuffs
+janda||widow
+instruksi||instruction
+islam||Islam
+magang||internship
+keponakan||nephew, niece
+candu||opium, addiction
+lonceng||bell
+bel|4|bell||n.
+cctv||CCTV
+kedai||shop, stall
+teror||terror
+fantasi||fantasy
+intai||spy on, stalk
+paruh||beak; half (paruh baya)
+profil||profile
+pameran||exhibition|pamer
+rangka||framework, skeleton
+ketimbang||rather than, compared to|timbang
+sembarangan||careless, random
+induk||parent (of animal), main/host
+negosiasi||negotiation
+kombinasi||combination
+joker||joker
+bungkuk||bent, stooped
+tatap||stare, gaze
+musa||Moses
+gol||goal (sports)
+disiplin||discipline
+arsip||archive
+transmisi||transmission
+asumsi||assumption
+salad||salad
+pencar||scatter
+denyut||pulse, throb
+kelola||manage
+kesalahpahaman||misunderstanding
+macan||tiger
+cabul||obscene, indecent
+belati||dagger
+lahan||land, plot; slow (archaic, as in perlahan)
+preman||thug, gangster
+injak||step on
+memar||bruise
+arwah||spirit, soul (of the deceased)
+faham||understand (alt. spelling of paham)
+laksamana||admiral
+turnamen||tournament
+simpang||branch off, intersection
+susup||infiltrate
+informan||informant
+bisbol||baseball
+objek||object
+deputi||deputy
+taktik||tactic
+gunting||scissors
+opsir||officer (alt. of perwira)
+konsekuensi||consequence
+jasad||corpse, body
+pendamping||companion, escort|damping
+bandar||dealer, bookmaker; port city
+periode||period
+hemat||thrifty, save
+rayu||flatter, seduce
+ilusi||illusion
+tegas||firm, assertive
+takluk||submit, conquer
+dekade||decade
+kerumunan||crowd|kerumun
+bubar||disperse, adjourn
+mode||mode, fashion
+lekas||quickly, soon
+kelak||later, in the future
+gangster||gangster
+pemilu||election (abbrev. for pemilihan umum)
+judi||gambling
+karunia||blessing, grace, gift
+turki||Turkey
+batang||stick, stalk, trunk
+wiski||whiskey
+pesona||charm, fascination
+konspirasi||conspiracy
+mesum||obscene, dirty (behavior)
+aktris||actress
+timpa||fall upon, hit
+kemah||tent, camp
+suri||queen consort; role model (suri teladan)
+kelamin||genitals, sex (biological)
+label||label
+regu||team, squad
+wahai||oh! (vocative interjection)
+jasa||service, merit
+hasrat||desire, longing
+produser||producer
+imam||imam
+pucat||pale
+rawa||swamp, marsh
+biara||monastery, convent
+anu||what's-it, thingamajig (filler word)
+dosis||dose
+doktor||doctor (academic title)
+repot||busy, troubled
+studi||study
+vodka||vodka
+tanduk||horn (animal)
+alternatif||alternative
+plat||license plate
+praktek||practice (professional)
+komik||comic
+kopral||corporal (military rank)
+benang||thread
+deteksi||detection
+tuntun||guide, lead by hand
+israel||Israel
+seiring||along with, as|iring
+soviet||Soviet
+khas||distinctive, characteristic
+naskah||manuscript, script
+gym||gym
+imajinasi||imagination
+antik||antique
+rapuh||fragile
+bandit||bandit
+komunis||communist
+baku||standard, raw (bahan baku)
+lunak||soft
+tega||have the heart to (do something)
+naif||naive
+kapak||axe
+tradisional||traditional
+evolusi||evolution
+keranjang||basket
+bius||anesthesia, sedative
+zat||substance
+otoritas||authority
+padu||fused, united
+cakar||claw
+gagak||crow (bird)
+akting||acting (performance)
+kedip||blink
+ekstrim||extreme
+getar||vibrate, tremble
+panda||panda
+orbit||orbit
+merpati||dove, pigeon
+generator||generator
+kondom||condom
+pastor||priest (Catholic)
+piatu||orphan (yatim piatu)
+kurung||cage, confine
+noda||stain
+eksekutif||executive
+partikel||particle
+haram||forbidden (religious)
+ejek||mock, tease
+merdeka||independent, free
+sepadan||equivalent, matching
+agensi||agency
+politisi||politician
+korek||matches; to scratch, dig||n.;v.
+editor||editor
+populasi||population
+karang||coral
+bala||troops, forces (bala bantuan)
+payung||umbrella
+angsa||goose, swan
+mood||mood
+padam||extinguished, go out
+laju||speed, pace
+pasok||supply
+pembuluh||vessel (pembuluh darah)
+interogasi||interrogation
+sumur||well (water)
+katolik||Catholic
+paranoid||paranoid
+duyung||mermaid
+isyarat||signal, gesture
+cerdik||clever, cunning
+internal||internal
+pendekar||warrior, martial artist
+ceria||cheerful
+jernih||clear (water, sound)
+kaset||cassette tape
+individu||individual
+delta||delta
+rutin||routine
+rok||skirt
+web||web (internet)
+makna||meaning
+santun||polite, courteous
+kawasan||area, zone
+susur||trace along
+sd||elementary school (abbrev. for Sekolah Dasar)
+moyang||ancestor (nenek moyang)
+plus||plus
+nongkrong||hang out (colloq.)
+lantas||then, subsequently
+brankas||safe (vault)
+tumpah||spill
+praktis||practical
+panel||panel
+tindak||act, action
+steak||steak
+rekrut||recruit
+karbon||carbon
+rentan||vulnerable, susceptible
+nelayan||fisherman
+sosis||sausage
+rel||rail, track
+tengkar||quarrel
+kerabat||relative, kin
+cukur||shave
+spesialis||specialist
+traktir||treat (pay for someone)
+koridor||corridor
+perimeter||perimeter
+opera||opera
+tupai||squirrel
+tampung||accommodate, shelter
+komisi||commission
+manajemen||management
+pasta||pasta
+busur||bow (weapon), arc
+kargo||cargo
+skandal||scandal
+olimpiade||Olympics
+hantam||hit, smash
+lemon||lemon
+parfum||perfume
+tengok||look, visit (colloq.)
+perkosa||rape
+kampret||damn (mild vulgar exclamation)
+mall||mall
+kreatif||creative
+fans||fans
+fiksi||fiction
+jurnal||journal
+kentut||fart
+koloni||colony
+meleleh||melt
+hobi||hobby
+biskuit||biscuit, cookie
+cita||aspiration (cita-cita)
+segitiga||triangle
+eksekusi||execution
+monitor||monitor
+sekilas||briefly, at a glance
+psikologi||psychology
+keji||cruel, vile
+cabe||chili pepper (colloq. spelling of cabai)
+terpencil||remote, isolated
+fatal||fatal
+pipis||pee (colloq., children's term)
+bincang||chat, discuss
+pita||ribbon, tape
+tirai||curtain
+bata||brick
+donat||donut
+database||database
+visual||visual
+digital||digital
+perkasa||mighty, powerful
+reuni||reunion
+pengemis||beggar
+dvd||DVD
+pintas||shortcut (jalan pintas)
+metropolis||metropolis
+samurai||samurai
+turis||tourist
+peras||squeeze, extort
+sukarela||voluntary
+aksen||accent
+heroin||heroin
+predator||predator
+pantau||monitor, observe
+kadal||lizard
+rusuh||chaotic, riotous
+pramuka||scouts (boy/girl scouts)
+amatir||amateur
+gulung||roll up
+pake||use (colloq., short for pakai)
+isteri||wife (alt. spelling of istri)
+panen||harvest
+zoom||zoom
+serum||serum
+ngerti||understand (colloq., short for mengerti)
+leluhur||ancestors
+rompi||vest
+amarah||anger, wrath
+sipir||prison guard
+huni||inhabit
+loteng||attic, upper floor
+organik||organic
+smp||junior high school (abbrev.)
+ambisi||ambition
+punk||punk
+jelajah||explore
+serakah||greedy
+mutiara||pearl
+relevan||relevant
+werewolf||werewolf
+ventilasi||ventilation
+harfiah||literal
+komitmen||commitment
+poster||poster
+hacker||hacker
+mini||mini
+naluri||instinct
+formulir||form (document)
+labu||pumpkin, squash
+ski||ski
+legal||legal
+wine||wine
+mekanik||mechanic
+sari||essence, extract (sari buah)
+manipulasi||manipulation
+bilik||chamber, cubicle
+pbb||UN (abbrev. for Perserikatan Bangsa-Bangsa)
+rangkai||series, string together
+sita||confiscate
+royal||generous, lavish
+pepatah||proverb, saying|patah
+usus||intestine
+narapidana||convict, inmate
+lembar||sheet (of paper)
+anggaran||budget
+cap||stamp, seal
+pasifik||Pacific
+kuba||Cuba
+prestasi||achievement
+poker||poker (card game)
+sangkut||hang, involve
+ganas||fierce, malignant
+masturbasi||masturbation
+pijat||massage
+gelincir|5|slip
+lobi||lobby
+longgar||loose
+bual||boast, brag
+geli||ticklish, amused
+formula||formula
+lem||glue
+musnah||destroyed, extinct
+nurani||conscience (hati nurani)
+pengertian||understanding|ngerti
+pelangi||rainbow
+ayuh||come on! (colloq., alt. of ayo)
+mangsa||prey
+erang||groan
+rampas||seize
+memudar||fade|pudar
+kunyah||chew
+kafe||cafe
+sepatah||a word (sepatah kata)|patah
+oceh||babble, chatter
+ranjau||landmine
+atlet||athlete
+smu||senior high school (older abbrev.)
+gores||scratch
+bujuk||persuade
+kantung||pouch, bag (alt. of kantong)
+bunker||bunker
+sensasi||sensation
+uap||steam, vapor
+gandum||wheat
+berlagak||act pretentiously
+radius||radius
+simpati||sympathy
+empati|5|empathy||n.
+berempati|5|to empathise|empati|v.
+selai||jam (food)
+jerami||straw
+mayday||mayday
+superhero||superhero
+reaktor||reactor
+yoga||yoga
+lesbian||lesbian
+alias||alias
+berjaya||triumphant, victorious|jaya
+suap||bribe; a mouthful (of food)
+meriah||festive, lively
+jati||teak; true self (jati diri)
+piramida||pyramid
+euro||euro (currency)
+konsultan||consultant
+partisipasi||participation
+ginjal||kidney
+musisi||musician
+parasit||parasite
+raga||body, physical form (jiwa raga)
+realitas||reality
+tersanjung||flattered|sanjung
+insting||instinct
+bareng||together (colloq., alt. of bersama)
+limbah||waste, sewage
+kembara||wander, roam
+presentasi||presentation
+demokrasi||democracy
+sutra||silk
+sandung|5|trip, stumble
+kalkun||turkey (bird)
+logis||logical
+ayun||swing
+bising||noisy
+renggut||snatch
+dinasti||dynasty
+pelatuk||trigger
+dinas||official duty, service
+pamer||show off
+kebal||immune, invulnerable
+tetes||drop (liquid)
+kursus||course (class)
+hambat||hinder, obstruct
+unggul||superior, excel
+sesak||tight, cramped, breathless
+polos||plain, innocent, naive
+terengah||panting, out of breath
+asosiasi||association
+spiritual||spiritual
+tiri||step- (ibu tiri)
+tampar||slap
+vip||VIP
+menantu||son/daughter-in-law
+interpol||Interpol
+uskup||bishop
+argumen||argument
+masker||mask (face mask)
+loker||locker
+pengen||want (very colloq., slang for ingin)
+kekal||eternal
+setara||equivalent
+tinta||ink
+otopsi||autopsy
+mencolok||conspicuous, striking
+selusin||a dozen|lusin
+maksimal||maximal
+labirin||labyrinth, maze
+mekar||bloom
+fenomena||phenomenon
+geram||growl, furious
+amuk||rampage, run amok
+aliansi||alliance
+balai||hall, building (public)
+mutan||mutant
+panglima||commander-in-chief
+korup||corrupt
+punah||extinct
+stress||stress
+gelembung||bubble
+tumor||tumor
+idap||suffer from (illness)
+sengsara||suffering, misery
+rengek||whine
+ungsi||flee, take refuge
+lajang||single (unmarried)
+ambang||threshold
+dukun||shaman, witch doctor
+cemerlang||brilliant, outstanding
+riwayat||history, record
+kontraktor||contractor
+selokan||gutter, drain
+galeri||gallery
+siklus||cycle
+jaya||victorious, glorious
+julukan||nickname|juluk
+jurnalis||journalist
+kerdil||dwarf, stunted
+gertak||bluff, intimidate
+kumis||mustache
+gonggong||bark (dog)
+lisensi||license
+tol||toll (road)
+gerobak||cart, pushcart
+fashion||fashion
+misil||missile (alt. of rudal)
+tabib||healer, doctor (traditional)
+investor||investor
+atmosfer||atmosphere
+formal||formal
+referensi||reference
+invasi||invasion
+rekomendasi||recommendation
+tisu||tissue
+datar||flat
+singgah||stop by, drop in
+pangkat||rank, grade
+protein||protein
+fotografer||photographer
+penjuru||corner, direction|juru
+abdi||servant, devote
+bubur||porridge
+pelecehan||harassment|leceh
+tempo||tempo, pace
+mempelai||bride/groom
+bakteri||bacteria
+parade||parade
+administrasi||administration
+hela||pull, drag; sigh||v.;n.
+serap||absorb
+penggal||behead, cut off
+sukacita||joy
+piknik||picnic
+molekul||molecule
+percik||splash, spark
+manja||spoiled, pampered
+logika||logic
+swedia||Sweden
+karantina||quarantine
+kantuk||sleepy, drowsy
+minat||interest (in something)
+lekat||stick, adhere
+venus||Venus (planet)
+adaptasi||adaptation
+rintang||obstruct
+mutlak||absolute
+vatikan||Vatican
+ego||ego
+saji||serve food, present
+komet||comet
+alibi||alibi
+rahmat||grace, mercy (divine)
+massal||mass, en masse
+fase||phase
+gaib||supernatural, invisible
+sketsa||sketch
+mogok||go on strike; break down (car)
+suram||gloomy, dim
+jilat||lick
+perompak||pirate, robber
+kasim||eunuch
+usang||worn out, outdated
+biarawati||nun
+vegetarian||vegetarian
+kurir||courier
+dayung||paddle, oar
+sadis||sadistic
+kapsul||capsule
+dandan||dress up, put on makeup
+ulur||extend, stretch out
+selebriti||celebrity
+telapak||palm (of hand), sole (of foot)
+rasional||rational
+goyang||shake, sway
+tenis||tennis
+personil||personnel
+frustasi||frustrated (alt. spelling of frustrasi)
+dungu||stupid, dumb
+eksklusif||exclusive
+penyair||poet
+buruh||laborer, worker
+tornado||tornado
+bener||correct, right (very colloq.)
+teras||terrace, porch
+beranda|5|veranda, porch||n.
+wadah||container, vessel
+dampar|5|stranded, washed ashore
+signifikan||significant
+jorok||dirty, filthy
+todong||point a weapon at
+stadion||stadium
+gencatan||ceasefire (gencatan senjata)
+karate||karate
+sandar||lean, rest against
+samudera||ocean
+anugerah||gift, blessing
+berkah||blessing
+proposal||proposal
+kilau||shine, sparkle
+kejang||seizure, convulsion
+tuna||tuna; without, disabled (prefix)||n.;pref.
+kurcaci||dwarf, gnome
+mister||mister
+hoki||hockey; luck (colloq.)
+sepele||trivial
+ideal||ideal
+wisata||tourism
+sertifikat||certificate
+kompi||company (military unit)
+peluit||whistle
+semak||bush, shrub
+simulasi||simulation
+biologis||biological
+elit||elite
+familiar||familiar
+dangkal||shallow
+sebanding||comparable|banding
+teler||stoned, drunk (colloq.)
+mampus||die (vulgar exclamation)
+wangi||fragrant
+gemas|5|adorable, endearingly annoying
+maniak||maniac
+trailer||trailer (movie/vehicle)
+bisu||mute
+serbu||attack, storm
+visa||visa
+gerombolan||gang, mob
+mendidih||boil
+bidik||aim, target
+duit||money (colloq.)
+mengemis||beg
+efisien||efficient
+orgasme||orgasm
+tequila||tequila
+karung||sack
+cerewet||nagging, fussy
+popok||diaper
+software||software
+hening||silent, quiet
+sekop||shovel
+cekik||strangle
+horor||horror
+enggak||not (colloq., alt. of nggak)
+potret||photo, portrait
+impas||even, break-even
+karma||karma
+supernatural||supernatural
+kungfu||kung fu
+bartender||bartender
+geledah||search, frisk
+indra||senses (panca indra)
+senter||flashlight
+edisi||edition
+sirkuit||circuit
+tablet||tablet
+unta||camel
+gulat||wrestling
+megah||grand, magnificent
+tahi||feces, dung (vulgar/colloq.)
+kardinal||cardinal (church rank)
+keesokan||the following (day)|esok
+asma||asthma
+drone||drone
+deskripsi||description
+cicip||taste, sample
+kumbang||beetle
+sumbang||donate
+basis||base
+arsitek||architect
+adopsi||adoption
+utus||send, dispatch
+irama||rhythm
+taat||obedient, devout
+balet||ballet
+kapasitas||capacity
+parlemen||parliament
+password||password
+tenar||famous
+akuntan||accountant
+kolektor||collector
+gugat||sue, lawsuit
+optimis||optimistic
+polandia||Poland
+prediksi||prediction
+tuang||pour
+kartun||cartoon
+kutipan||quote, citation|kutip
+bahawa||that (conjunction, Malay spelling of bahwa)
+stroke||stroke (medical)
+parit||ditch, trench
+tunawisma||homeless person
+upah||wage
+elegan||elegant
+rasis||racist
+gerhana||eclipse
+bankir||banker
+lobster||lobster
+sepakbola||soccer, football
+sunyi||quiet, silent
+kolom||column
+ironis||ironic
+ala||style, in the manner of
+kafir||infidel, non-believer
+pm||PM (prime minister, abbrev.)
+lusin||dozen (alt. of selusin)
+penguntit||stalker
+injil||Gospel (Bible)
+komersial||commercial
+teleskop||telescope
+altar||altar
+sastra||literature
+halusinasi||hallucination
+parasut||parachute
+belaka||merely, only
+lelang||auction
+obsesi||obsession
+tenggara||southeast
+bimbing||guide, mentor
+sekongkol||conspire
+bolos||skip (school/work), play truant
+golong||categorize, group
+pidana||criminal (legal)
+rasuk||possess, enter
+uni||union; older sister (Minang)
+bowling||bowling
+mineral||mineral
+baur||mix, blend
+dialog||dialogue
+paranormal||paranormal
+almarhum||the late, deceased
+instrumen||instrument
+admiral||admiral (alt. of laksamana)
+debar||throb, beat
+lancang||insolent, presumptuous
+obor||torch
+lengah||careless, off guard
+kompensasi||compensation
+dam||dam
+veteran||veteran
+menjelang||approaching, as (time) draws near
+mentah||raw, uncooked
+naksir||have a crush on (colloq.)
+minimal||minimal
+psikologis||psychological
+lensa||lens
+majikan||employer, master
+hampa||empty, void
+kompas||compass
+jalin||weave, forge (a relationship)
+aspek||aspect
+maksimum||maximum
+loncat||jump, leap
+isolasi||isolation
+narkotika||narcotics
+selang||hose; interval
+jenggot||beard
+bangkai||carcass
+kumuh||slum, squalid
+metro||metro
+hormon||hormone
+rileks||relax
+hamburger||hamburger
+bara||ember (bara api)
+ludah||saliva, spit
+yakuza||yakuza
+sukar||difficult
+arang||charcoal
+sengat||sting
+permaisuri||queen consort
+merinding||goosebumps, creeped out
+terangsang||aroused|rangsang
+cerutu||cigar
+wasiat||will, testament
+konsisten||consistent
+skema||scheme
+sushi||sushi
+kancing||button
+lunas||paid off
+lirik||lyrics
+pemirsa||viewer, audience
+supermarket||supermarket
+biola||violin
+duh||ugh, oh dear (colloq. interjection)
+radikal||radical
+suar||flare, beacon
+ekspedisi||expedition
+balkon||balcony
+website||website
+kinerja||performance
+cengeng||crybaby, whiny
+resimen||regiment
+kriket||cricket (sport)
+lamban||slow, sluggish
+unicorn||unicorn
+motivasi||motivation
+citra||image (public image)
+gergaji||saw (tool)
+klakson||car horn
+sandiwara||drama, pretense
+rehabilitasi||rehabilitation
+terkemuka||prominent, leading|muka
+pencerahan||enlightenment|cerah
+kalender||calendar
+gw||I, me (Jakarta slang, alt. spelling of gue)
+berkabung||mourn
+jenazah||corpse, body (formal)
+hawa||air, atmosphere; feeling
+basi||stale, spoiled (food)
+cambuk||whip
+perspektif||perspective
+bangsal||ward (hospital)
+biarawan||monk (male, Catholic)
+gerbong||train car, carriage
+paramedis||paramedic
+patriot||patriot
+organisme||organism
+paha||thigh
+agenda||agenda
+kepung||surround, besiege
+beranjak||move, shift (position)
+kategori||category
+demonstrasi||demonstration
+karat||rust
+norma||norm
+guncang||shake, shock
+kantin||canteen, cafeteria
+teguh||firm, steadfast
+oven||oven
+mandiri||independent, self-reliant
+martabat||dignity
+tekad||determination, will
+maestro||maestro
+murka||wrath, fury
+apung||float
+primitif||primitive
+tinjau||review, survey
+rombongan||group, entourage
+gegabah||reckless, rash
+sponsor||sponsor
+astronomi||astronomy
+relatif||relative
+hama||pest
+pincang||limp, lame
+nyeri||pain, ache
+federasi||federation
+sadap||tap, intercept
+kaliber||caliber
+sejahtera||prosperous, welfare
+dadu||dice
+terapis||therapist
+ambisius||ambitious
+blokir||block
+sperma||sperm
+siul||whistle
+jempol||thumb
+bentur||collide, bump
+statistik||statistics
+minus||minus
+frustrasi||frustrated
+persik||peach
+puting||nipple
+bendung||dam, block
+sampul||cover (book/envelope)
+antena||antenna
+bobol||break into
+desainer||designer
+nangis||cry (colloq., short for menangis)
+koktail||cocktail
+etika||ethics
+lubuk||depths (lubuk hati)
+seksama||thorough, careful
+cakup||cover, encompass
+binasa||destroyed, perish
+rutinitas||routine
+ultah||birthday (colloq., abbrev. for ulang tahun)
+intim||intimate
+kodok||frog, toad
+adu||compete, pit against
+kasir||cashier
+nadi||pulse (nadi jantung)
+sembrono||careless, reckless
+cenayang||psychic, medium
+barak||barracks
+dokumenter||documentary
+kelana||wander, roam
+kontribusi||contribution
+tunggang||ride, mount
+fitur||feature
+tunjang||support, allowance
+kerah||collar
+yerusalem||Jerusalem
+argentina||Argentina
+sungkan||reluctant, shy (out of respect)
+gagap||stutter
+antibiotik||antibiotic
+singapura||Singapore
+wahyu||divine revelation
+kosmos||cosmos
+genetika||genetics
+semprot||spray
+gembala||shepherd
+batin||inner self, heart
+anjungan||deck (ship); ATM booth
+organisir||organize
+gorok||slit, cut throat
+sandal||sandal
+karnaval||carnival
+buntut||tail
+iring||accompany
+mendiang||the late (deceased)
+pulpen||pen (ballpoint)
+prototipe||prototype
+jeruji||bars (of a cage/cell)
+identik||identical
+basmi||exterminate
+kuyup||soaked, drenched
+tengik||rancid
+bimbang||hesitant, torn
+hipotek||mortgage
+pion||pawn (chess)
+pancar||emit, radiate
+subur||fertile
+histeris||hysterical
+batalion||battalion
+manuver||maneuver
+lemas||weak, limp
+empuk||soft, tender (food)
+monumen||monument
+dinamit||dynamite
+teladan||role model, example
+petik||pick, pluck
+platform||platform
+spekulasi||speculation
+badak||rhinoceros
+eksotis||exotic
+kompromi||compromise
+opini||opinion
+jarah||loot, plunder
+villa||villa
+kalori||calorie
+definisi||definition
+norwegia||Norway
+aura||aura
+garuk||scratch
+sejajar||parallel, level with
+gigih||persistent
+guling||roll
+sindrom||syndrome
+ulas||review, comment on
+inisiatif||initiative
+kloning||cloning
+satpam||security guard
+sentimental||sentimental
+ukir||carve
+tikam||stab
+personal||personal
+imigrasi||immigration
+hangus||burnt, scorched
+kitar|5|circle, around
+ktp||Indonesian ID card (abbrev. for Kartu Tanda Penduduk)
+setimpal||commensurate, fitting
+operasional||operational
+kocok||shake, shuffle
+rakit||raft; assemble||n.;v.
+kelopak||petal, eyelid
+keping||piece, fragment
+netral||neutral
+instan||instant
+traktor||tractor
+sedot||suck, vacuum
+magis||magical
+kapur||chalk, lime
+ongkos||cost, fare
+stroberi||strawberry
+diplomatik||diplomatic
+angkuh||arrogant
+sajak||poem, rhyme
+alur||plot, flow
+saudi||Saudi
+material||material
+akhirat||afterlife
+pribumi||indigenous, native
+klise||cliche
+sambar||swoop, snatch, struck by lightning
+labuh||anchor, dock
+stiker||sticker
+kualifikasi||qualification
+heboh||commotion, uproar
+interaksi||interaction
+pemukiman||settlement
+liter||liter
+arteri||artery
+mentolerir||tolerate
+omega||omega
+sekoci||lifeboat
+tegar||tough, resilient
+karaoke||karaoke
+zaitun||olive
+acu||refer, aim
+enggan||reluctant
+geologi||geology
+filipina||Philippines
+pusar||navel; whirl||n.;v.
+galon||gallon
+berkenan||pleased, willing (formal)|kenan
+bandel||naughty, stubborn
+dedikasi||dedication
+perabotan||furniture
+lowongan||job vacancy
+jenguk||visit (someone sick)
+cakrawala||horizon
+iq||IQ
+fotografi||photography
+politikus||politician
+gulir||roll, scroll
+hipnotis||hypnosis, hypnotize
+bengkak||swollen
+selir||concubine
+dominasi||domination
+minimum||minimum
+kincir||windmill, waterwheel
+haluan||bow (of a ship); direction
+riang||cheerful
+asik||fun, enjoyable (colloq., alt. of asyik)
+kelam||dark, gloomy
+anomali||anomaly
+tular||contagious, spread
+banting||slam, throw hard
+tumit||heel (foot)
+helium||helium
+mumi||mummy (Egyptian)
+seminar||seminar
+modus||mode, method (modus operandi)
+pilar||pillar
+oral||oral
+direksi||board of directors
+antisipasi||anticipation
+indikasi||indication
+religius||religious
+kavaleri||cavalry
+susut||shrink, diminish
+adonan||dough, batter
+rangkul||embrace
+broker||broker
+ukraina||Ukraine
+cemilan||snack (colloq. spelling of camilan)
+plasma||plasma
+anggun||graceful, elegant
+arsitektur||architecture
+hindu||Hindu
+sepeser||a single cent (tak sepeser pun)
+lumur||smear
+mesiu||gunpowder
+resepsionis||receptionist
+liput||cover, report on
+produktif||productive
+tertib||orderly
+koreksi||correction
+mayoritas||majority
+kidal||left-handed
+kompeten||competent
+lobak||radish
+cacar||smallpox, chickenpox
+logo||logo
+busa||foam
+kalajengking||scorpion
+legiun||legion
+ramen||ramen
+hirau||heed, care
+distribusi||distribution
+alangkah||how (+ adj., exclamatory)
+guci||jar, vase
+publisitas||publicity
+stok||stock (inventory)
+poros||axis
+letih||tired, weary
+sirup||syrup
+taiwan||Taiwan
+antah||unknown (antah berantah)
+sulung||firstborn
+dusta||lie, falsehood
+bentar||a moment (colloq., short for sebentar)
+lintah||leech
+kiasan||metaphor, figure of speech
+ereksi||erection
+leceh||harass, belittle
+mamalia||mammal
+gelitik||tickle
+arak||alcohol, liquor (traditional)
+kewalahan||overwhelmed
+kabinet||cabinet (government)
+enkripsi||encryption
+stempel||stamp, seal
+pinus||pine
+takhayul||superstition
+kapel||chapel
+oli||motor oil
+dobel||double (colloq.)
+merk||brand (alt. spelling of merek)
+rintih||moan, whimper
+norak||tacky, gaudy
+keran||faucet, tap
+tiram||oyster
+keputusasaan||despair, hopelessness
+disko||disco
+alis||eyebrow
+kilap||shine, gloss
+syok||shocked (colloq., alt. of shock)
+suplai||supply
+tobat||repent
+mercusuar||lighthouse
+analisa||analysis
+strategis||strategic
+resepsi||reception
+kontestan||contestant
+kambuh||relapse (illness)
+topan||typhoon
+reservasi||reservation
+antem|5|fight, hit
+dakwa||accuse, charge
+radioaktif||radioactive
+petang||late afternoon, evening
+salut||salute, respect
+voodoo||voodoo
+tropis||tropical
+lambai||wave
+serbet||napkin
+selundup||smuggle
+kanibal||cannibal
+bibit||seed, seedling
+pindai||scan
+anonim||anonymous
+janggal||odd, awkward
+iseng||just for fun, on a whim
+aduk||stir, mix
+metafora||metaphor
+giring||herd, drive
+formalitas||formality
+kuartal||quarter (of a year)
+paten||patent
+menggigil||shiver
+musikal||musical
+dagu||chin
+menguntit||stalk, follow secretly
+endus||sniff
+barel||barrel
+barikade||barricade
+cukai||tax, duty
+babu||maid, servant (dated/pejorative term)
+modifikasi||modification
+negri||country, land (alt. spelling of negeri)
+suriah||Syria
+skuadron||squadron
+arkeolog||archaeologist
+berpose||pose
+reptil||reptile
+kedap||airtight, watertight
+martir||martyr
+implan||implant
+luput||escape notice, miss
+cemberut||sulky, pouting
+baut||bolt (hardware)
+teropong||telescope, binoculars
+hipotesis||hypothesis
+barbekyu||barbecue
+lembab||humid, damp
+iga||rib
+sparta||Sparta
+modul||module
+tangkal||ward off
+arogan||arrogant
+tandu||stretcher
+hafal||memorize
+hektar||hectare
+maraton||marathon
+idola||idol
+nisan||gravestone
+galang||rally, raise support
+kedelai||soybean
+kawah||crater
+akuarium||aquarium
+lucut||strip off
+porsi||portion
+terlanjur||already done, too late to undo
+undi||draw lots
+saru||vague, ambiguous (regional)
+perunggu||bronze
+bambu||bamboo
+detektor||detector
+lamun||daydream
+puja||worship
+kudeta||coup
+interior||interior
+sorot||spotlight, beam
+fakultas||faculty (university)
+jinak||tame
+kontaminasi||contamination
+turbo||turbo
+konselor||counselor
+hadang||block, intercept
+filosofi||philosophy
+aborsi||abortion
+tumpul||blunt, dull
+letus||erupt
+macho||macho
+peka||sensitive, perceptive
+statis||static
+penyalahgunaan||abuse, misuse
+psiko||psycho
+filsafat||philosophy
+toleransi||tolerance
+transisi||transition
+hembus||blow
+siuman||regain consciousness
+institut||institute
+dadar||omelette
+haru||touched, moved (emotionally)
+ekstraksi||extraction
+sangkar||cage
+antri||queue, line up
+konsumsi||consumption
+feri||ferry
+terpuruk||fallen into despair, ruined
+rangsang||stimulate
+konsulat||consulate
+batubara||coal
+wastafel||sink, wash basin
+kilang||refinery, mill
+surel||email (formal term)
+elak||dodge, avoid
+bor||drill
+komplikasi||complication
+gema||echo
+akut||acute
+mitologi||mythology
+refleks||reflex
+regang||stretch taut
+sarana||facility, means
+galak||fierce, stern
+benjol||bump, swelling
+raut||facial expression, features
+vas||vase
+akselerator||accelerator
+ulat||caterpillar
+bolong||hole, perforated
+radang||inflammation
+copot||come off, detached
+diagnosa||diagnosis (alt. spelling of diagnosis)
+tayang||broadcast, air
+dominan||dominant
+janin||fetus
+ledeng||plumbing (tukang ledeng)
+jangkrik||cricket (insect)
+gipsi||gypsy
+kupu||butterfly (kupu-kupu)
+sahaja||just, merely (poetic, alt. of saja)
+bidadari||angel, celestial nymph
+pungut||collect, pick up
+diplomat||diplomat
+intervensi||intervention
+elektrik||electric
+resolusi||resolution
+begadang||stay up all night
+mandarin||Mandarin (language)
+dapet||get (colloq., short for dapat)
+ngebut||speed, drive fast (colloq.)
+wc||toilet, restroom (abbrev.)
+mistis||mystical
+puitis||poetic
+figur||figure
+kompetitif||competitive
+mutasi||mutation
+liur||saliva
+anting||earring
+melodi||melody
+reda||subside, calm
+temperatur||temperature
+kabupaten||regency (administrative division)
+konseling||counseling
+geladak||deck (of a ship)
+tertera||printed, stated
+cegat||intercept
+variasi||variation
+bekal||provisions, supplies
+kental||thick, viscous
+jomblo||single, unmarried (colloq. slang)
+lonjak||jump, surge
+balistik||ballistic
+gurau||joke around
+gendong||carry (a child, on back/hip)
+kafein||caffeine
+konsul||consul
+asasi||fundamental (hak asasi)
+ragam||variety, type
+kardus||cardboard box
+keramat||sacred
+spesifikasi||specification
+prostitusi||prostitution
+palang||barrier, crossbar
+bungsu||youngest child
+hantar||deliver, convey
+antartika||Antarctica
+garda||guard (garda depan)
+pura||pretend
+komposisi||composition
+jenewa||Geneva
+rakus||greedy (for food)
+sabit||sickle
+cerna||digest
+dilema||dilemma
+jepit||clip, clamp
+tungku||furnace, stove
+gamma||gamma
+esai||essay
+milisi||militia
+cilik||little, small (child)
+renovasi||renovation
+pusaka||heirloom
+gigolo||gigolo
+tindas||oppress
+juluk||call by nickname
+makelar||broker, middleman
+jompo||elderly, frail
+lampias||vent, release
+oper||pass, transfer
+sudi||willing (formal)
+senandung|5|hum, tune
+tren||trend
+projek||project (alt. spelling of proyek)
+gawang||goal (soccer)
+dosen||lecturer, professor
+ngasih||give (colloq., short for kasih)
+pedal||pedal
+konsumen||consumer
+komplotan||gang, conspiracy
+ironi||irony
+lahap||devour, eat eagerly
+pelampung||buoy, life jacket
+kusut||messy, tangled
+klinis||clinical
+sergap||ambush
+limpah||overflow, abundant
+diktator||dictator
+edan||crazy, insane (colloq.)
+tilang||traffic ticket
+remas||squeeze, knead
+terjang||charge, kick
+fasis||fascist
+butir||grain, item
+ngawur||reckless, talking nonsense (colloq.)
+duniawi||worldly
+belot||defect
+cuplikan||excerpt, clip
+camilan||snack
+evaluasi||evaluation
+domestik||domestic
+onar||commotion, disturbance
+dengung||buzz, hum
+ibrani||Hebrew
+ingkar||deny, renege
+skeptis||skeptical
+telepati||telepathy
+slogan||slogan
+tirani||tyranny
+otorisasi||authorization
+tunas||shoot, sprout
+ramping||slim, slender
+nirkabel||wireless
+ibarat||like, as if
+kedok||disguise, mask (figurative)
+hungaria||Hungary
+pinguin||penguin
+pantul||bounce, reflect
+keriput||wrinkled
+terkilir||sprained
+cepet||fast (colloq., short for cepat)
+prospek||prospect
+kelenjar||gland
+urat||vein, tendon
+kanji||starch; kanji (script)
+triliun||trillion
+impor||import
+deklarasi||declaration
+kontol||penis (vulgar slang)
+sekuriti||security (job title)
+pamrih||ulterior motive
+lecet||scraped, blistered
+komplain||complain
+omel||grumble, nag
+produsen||producer, manufacturer
+paralel||parallel
+cakep||handsome, pretty (colloq.)
+nutrisi||nutrition
+lincah||agile, nimble
+ringkuk||curl up
+rekreasi||recreation
+umpat||curse, swear
+kolega||colleague
+delegasi||delegation
+gagang||handle
+laundry||laundry
+kongo||Congo
+testis||testicle
+proyeksi||projection
+awam||layperson, ordinary
+cemar||dirty, polluted
+camkan||keep in mind, take note (imperative)
+prima||prime, excellent
+limun||lemonade, soda (old-fashioned)
+tarif||tariff, rate
+atletik||athletic
+lereng||slope, hillside
+sentiasa||always (Malay spelling of senantiasa)
+tumbang||fall down, collapse
+nobel||Nobel (Nobel Prize)
+siram||pour, water
+resor||resort
+pedih||stinging pain, anguish
+amir||prince, commander (Islamic title)
+seruling||flute
+enzim||enzyme
+renung||ponder, contemplate
+virtual||virtual
+acuh||indifferent, care (tak acuh)
+steroid||steroid
+orientasi||orientation
+obeng||screwdriver
+beruntun||in a row, consecutive
+atraksi||attraction (performance)
+popularitas||popularity
+prasangka||prejudice
+curah||pour, downpour
+sindikat||syndicate
+lengkung||curve, arch
+diare||diarrhea
+rumania||Romania
+venezuela||Venezuela
+brosur||brochure
+penyu||turtle (sea turtle)
+genit||flirtatious
+anut||follow, adhere to belief
+lihai||skilled, cunning
+jodoh||soulmate, match (marriage)
+portugis||Portuguese
+refleksi||reflection (thought)
+pasca||post- (pascasarjana)
+intimidasi||intimidation
+majelis||council, assembly
+rias||makeup, adorn
+titanium||titanium
+vulgar||vulgar
+diagnosis||diagnosis
+jerapah||giraffe
+jagal||butcher
+ampuh||potent, effective
+vertikal||vertical
+alumni||alumni
+homoseksual||homosexual
+kanvas||canvas
+ejakulasi||ejaculation
+propaganda||propaganda
+tabah||steadfast, resilient
+sianida||cyanide
+oposisi||opposition
+sabotase||sabotage
+restu||blessing (parental)
+konglomerat||conglomerate
+detonator||detonator
+tapak||footprint, sole
+hias||decorate
+tabir||veil, screen
+pornografi||pornography
+donasi||donation
+perihal||regarding, about (formal)
+renyah||crispy
+upeti||tribute (historical payment)
+seluler||cellular
+klon||clone
+selada||lettuce
+pikul||carry, bear
+sanjung||flatter, praise
+genting||critical, urgent; roof tile||adj.;n.
+improvisasi||improvisation
+amandemen||amendment
+aniaya||persecute, mistreat
+epik||epic
+sosialisasi||socialization
+delusi||delusion
+selongsong||casing, sleeve
+lantang||loud, resounding
+teoritis||theoretical
+dikit||a little (colloq., short for sedikit)
+sosiopat||sociopath
+rezim||regime
+jihad||jihad
+plester||plaster, band-aid
+selaras||harmonious, in line with
+imperial||imperial
+milimeter||millimeter
+tenggat||deadline
+hanyut||carried away, adrift
+wawasan||insight, perspective
+pedoman||guideline
+receh||small change (coins), petty
+tempuh||travel, traverse
+migrasi||migration
+fitnah||slander
+sirat||imply, weave
+merajut||knit
+redam||dampen, muffle
+birokrasi||bureaucracy
+pelana||saddle
+privat||private
+nampan||tray
+gandeng||hold hands, link
+dupa||incense
+papah||support someone while walking
+embun||dew
+yurisdiksi||jurisdiction
+sensasional||sensational
+wafel||waffle
+rongga||cavity
+lobang||hole (alt. spelling of lubang)
+lolong||howl
+hasut||incite
+saturnus||Saturn
+purba||ancient
+curhat||vent, share feelings (colloq.)
+damba||long for, yearn
+jangkit||infect, contagious
+konservatif||conservative
+jerat||snare, trap
+sintetis||synthetic
+curam||steep
+lotre||lottery (alt. of lotere)
+spiral||spiral
+transformasi||transformation
+etis||ethical
+kritikus||critic
+polusi||pollution
+senam||gymnastics, exercise
+suvenir||souvenir
+maling||thief (colloq.)
+nitrogen||nitrogen
+ruam||rash (skin)
+urin||urine
+pikun||senile
+pikat||attract, captivate
+ngompol||wet the bed (colloq.)
+kerudung||headscarf
+kemaren||yesterday (colloq., alt. of kemarin)
+sumpit||chopsticks
+bedak||powder (cosmetic)
+pacuan||racing, race|pacu
+campak||throw away, discard
+bule||foreigner (colloq., esp. Westerner)
+ayahanda||father (formal/honorific)
+ziarah||pilgrimage
+minoritas||minority
+lazim||common, customary
+merkuri||mercury
+reinkarnasi||reincarnation
+anatomi||anatomy
+kayuh||paddle, pedal
+ungkit||bring up, pry
+bintik||spot, speck
+binatu||laundry (formal term)
+kuis||quiz
+islandia||Iceland
+sumsum||marrow
+loyal||loyal
+kepsek||school principal (abbrev. for kepala sekolah)
+numpang||hitch a ride, stay temporarily (colloq.)
+teleportasi||teleportation
+furnitur||furniture
+sedap||delicious, tasty
+bungkam||silent, mute
+terik||scorching, blazing (sun)
+lembu||cow, ox
+marga||clan name, surname
+cincang||mince, chop
+verifikasi||verification
+fleksibel||flexible
+vokal||vocal
+bundar||round
+optik||optic
+pukau||captivate
+resume||resume
+igau||delirious, rave
+resah||restless, anxious
+kondominium||condominium
+sarden||sardine
+tancap||stick into
+gulma||weed
+bentang||stretch, span
+tameng||shield
+lesat||dart, zoom
+sindir||insinuate, mock
+genang||pool, stagnant water
+logat||accent, dialect
+ngengat||moth
+moralitas||morality
+konteks||context
+fusi||fusion
+gapai||reach for
+pawai||parade
+hambar||bland, tasteless
+fasih||fluent
+gerangan||perhaps, whatever (poetic)
+ekstasi||ecstasy (drug)
+khotbah||sermon
+puri||palace, fort
+selenggara||organize, hold an event
+perkakas||tools, hardware
+selfie||selfie
+hologram||hologram
+puzzle||puzzle
+kamuflase||camouflage
+siasat||strategy, tactic
+runcing||sharp, pointed
+bakti||devotion, service
+ritme||rhythm (alt. of irama)
+alamiah||natural
+algojo||executioner
+awet||durable, long-lasting
+pudar||fade
+singgasana||throne
+kabul||grant, accept
+karakteristik||characteristic
+kilogram||kilogram
+cumi||squid
+tafsir||interpretation
+celoteh||chatter, prattle
+derit||creak
+katedral||cathedral
+seka||wipe
+maklum||understand, of course
+persentase||percentage
+selip||slip in, insert
+lingkup||scope
+keyboard||keyboard
+doang||only, just (colloq.)
+klasifikasi||classification
+penalti||penalty (sports)
+kadaluarsa||expired
+transfusi||transfusion
+brigade||brigade
+kecoak||cockroach
+intensif||intensive
+hibrida||hybrid
+jerawat||acne, pimple
+tiongkok||China (formal term)
+tandus||barren, arid
+realita||reality (alt. of realitas)
+meteorit||meteorite
+udik||rural, backwater (pejorative)
+wisuda||graduation ceremony
+agresi||aggression
+unjuk||show, demonstrate (unjuk rasa)
+reguler||regular
+mumpung||while there's still a chance
+papas||pass by
+baptis||baptism
+fisikawan||physicist
+urai||describe, elaborate
+skuter||scooter
+intuisi||intuition
+alamak||oh my (colloq. interjection)
+entri||entry
+presisi||precision
+malaria||malaria
+ijazah||diploma, certificate
+duet||duet
+pulsa||phone credit
+kicau||chirp
+kompartemen||compartment
+sangga||support, prop
+dobrak||break down, force open
+sanksi||sanction, penalty
+sentimen||sentiment
+pantang||taboo, forbidden
+kosmetik||cosmetic
+eksploitasi||exploitation
+aspal||asphalt
+keluyuran||wander aimlessly
+betis||calf (leg)
+pasif||passive
+kepompong||cocoon
+sekunder||secondary
+pancang||stake, pole
+pasrah||resigned, accepting (fate)
+kawal||guard, escort
+katering||catering
+lendir||mucus, slime
+puing||debris, rubble
+kontroversial||controversial
+infrastruktur||infrastructure
+sumbu||wick, fuse
+pekik||shriek, scream
+variabel||variable
+daur||cycle (daur ulang)
+laris||best-selling, popular (goods)
+terlantar||neglected, abandoned|lantar
+tercela||disgraceful|cela
+inframerah||infrared
+jajaran||array, row, ranks
+marsekal||marshal (military rank)
+espresso||espresso
+belut||eel
+hamster||hamster
+tamak||greedy
+sakral||sacred
+finlandia||Finland
+posting||post online
+belasungkawa||condolences
+antariksa||outer space
+sembur||spurt, spray
+paru||lung
+ikon||icon
+infanteri||infantry
+ratap||wail, lament
+tuntas||complete, resolved
+aparat||apparatus, officials
+gembel||homeless, vagrant
+aktivis||activist
+salep||ointment
+dinamis||dynamic
+melenceng||deviate, go off course
+usik||disturb, provoke
+moneter||monetary
+vonis||verdict, sentence
+impoten||impotent
+lintang||latitude (garis lintang)
+filsuf||philosopher
+tikar||mat
+panutan||role model
+peron||platform (train station)
+rasio||ratio
+menstruasi||menstruation
+mendingan||better, preferably (colloq.)
+sumbat||plug, block
+stabilitas||stability
+selubung||veil, cover
+gembok||padlock
+maklumat||announcement, proclamation
+konvensional||conventional
+lambung||stomach; to soar||n.;v.
+pijak||step on
+gede||big (colloq., alt. of besar)
+deposito||deposit (bank)
+publikasi||publication
+lalai||negligent
+kurva||curve
+picik||narrow-minded
+parameter||parameter
+sayat||slice, cut
+akuisisi||acquisition
+kolot||old-fashioned, conservative
+gunduk||mound, pile
+durasi||duration
+seteguk||a sip, gulp|teguk
+pangkas||trim, cut
+alzheimer||Alzheimer's
+cangkang||shell (egg/nut)
+liberal||liberal
+abis||finished, all gone (colloq.)
+pertapa||hermit
+pelumas||lubricant
+suaka||asylum
+karibia||Caribbean
+silinder||cylinder
+tonik||tonic
+temen||friend (colloq., short for teman)
+dioksida||dioxide
+gendang||drum
+dokumentasi||documentation
+granit||granite
+pancur||spout, shower
+demokrat||democrat
+pergok||catch in the act
+maskot||mascot
+klimaks||climax
+impuls||impulse
+waduh||oh no, uh oh (colloq. interjection)
+kriteria||criteria
+karbohidrat||carbohydrate
+ntar||later (colloq., short for sebentar)
+epilepsi||epilepsy
+keramik||ceramic
+pleton||platoon
+proton||proton
+asbak||ashtray
+astrologi||astrology
+lantar||neglect
+bina||build, develop
+eksternal||external
+sinkron||synchronized
+injeksi||injection
+observatorium||observatory
+surfing||surfing
+miras||alcohol (abbrev. for minuman keras)
+konstelasi||constellation
+venesia||Venice
+cumbu||caress, flirt
+mangkok||bowl (alt. of mangkuk)
+royalti||royalty (payment)
+sirna||vanished, disappeared
+bugar||fit, healthy
+geliat||stretch, writhe
+residu||residue
+gaduh||noisy, commotion
+spektrum||spectrum
+anal||anal
+ketel||kettle
+tumbuk||pound, crush
+eksplorasi||exploration
+remuk||crushed, shattered
+senjang||gap, disparity
+jajah||colonize
+belang||stripe, spots (pattern)
+kendala||obstacle, constraint
+pangsit||dumpling
+insulin||insulin
+barter||barter
+epidemi||epidemic
+pondasi||foundation
+lestari||preserved, sustainable
+gusar||annoyed, irritated
+eksentrik||eccentric
+keseleo||sprained (alt. of terkilir)
+esensi||essence
+berhala||idol (religious)
+bosnia||Bosnia
+printer||printer
+ekstradisi||extradition
+redup||dim
+diagram||diagram
+artistik||artistic
+transponder||transponder
+faksi||faction
+merica||pepper (spice)
+asah||sharpen
+manjur||effective, potent (medicine)
+buyut||great-grandparent
+reproduksi||reproduction
+telusur||trace through
+usil||mischievous, meddlesome
+selendang||scarf, shawl
+kadet||cadet
+lentur||flexible, pliable
+manggung||perform on stage (colloq.)
+jelata||commoner (rakyat jelata)
+akomodasi||accommodation
+longsor||landslide
+mendung||overcast, cloudy
+supervisor||supervisor
+akta||deed, certificate
+tanggap||responsive
+orde||order (regime, era)
+biokimia||biochemistry
+jemaat||congregation
+blokade||blockade
+setel||set, tune
+karavan||caravan
+kobar||blaze, flare
+bumerang||boomerang
+diskualifikasi||disqualification
+kamboja||Cambodia; frangipani flower
+simpanse||chimpanzee
+efisiensi||efficiency
+koalisi||coalition
+runding||negotiate, discuss
+regenerasi||regeneration
+maki||curse, swear at
+anestesi||anesthesia
+deportasi||deportation
+gelandang||midfielder (soccer); vagrant
+konfrontasi||confrontation
+paprika||paprika, bell pepper
+ulung||expert, skilled
+paradoks||paradox
+propinsi||province (alt. spelling of provinsi)
+cuka||vinegar
+replika||replica
+manset||cuff (sleeve)
+kisar||range, revolve
+pacu||spur, race
+antusiasme||enthusiasm
+aluminium||aluminum
+rontok||fall out (hair/leaves)
+sedar||aware, conscious (Malay spelling of sadar)
+mesra||intimate, affectionate
+glamor||glamour
+pangan||food, foodstuff
+skizofrenia||schizophrenia
+pangkuan||lap (sitting on someone's lap)
+bertekuk||surrender (bertekuk lutut)|tekuk
+ubi||sweet potato, tuber
+setapak||narrow path (jalan setapak)|tapak
+ngotot||insist stubbornly (colloq.)
+harmonis||harmonious
+merana||suffer, languish
+belenggu||shackle, chain (figurative)
+pembalut||sanitary pad; bandage
+gerilyawan||guerrilla fighter
+masehi||AD/CE (calendar era)
+insomnia||insomnia
+jakarta||Jakarta (Indonesia's capital)
+sembari||while, at the same time
+gesek||rub, friction
+kredibilitas||credibility
+inovasi||innovation
+talenta||talent
+merger||merger
+sentral||central
+derak||creak, crack
+buram||blurry, opaque
+blus||blouse
+simpel||simple (colloq.)
+antivirus||antivirus
+cemara||pine tree
+terpapar||exposed|papar
+seronok||lewd, indecent
+setrum||electric shock, current
+selat||strait (geography)
+kikuk||awkward, clumsy
+dayang||lady-in-waiting, maidservant
+mandor||foreman, overseer
+nominasi||nomination
+saldo||balance (bank account)
+raba||grope, feel
+gentar||afraid, timid
+senonoh||decent, proper (tidak senonoh)
+duplikat||duplicate
+konon||allegedly, reportedly
+abnormal||abnormal
+segelintir||a handful, a few
+psikotik||psychotic
+mekkah||Mecca
+marmer||marble
+vakum||vacuum
+sikit||a little (colloq., Malay spelling of sedikit)
+andil||contribution, share
+kaktus||cactus
+deru||roar, drone
+cegukan||hiccup
+lisan||oral, verbal
+enteng||light, easy (colloq.)
+spionase||espionage
+sarkasme||sarcasm
+kronis||chronic
+kuadrat||square, quadratic
+antibodi||antibody
+fobia||phobia
+gapapa||it's okay (very colloq.)
+supernova||supernova
+turbin||turbine
+bruder||brother (religious, Catholic monk)
+tesis||thesis
+kerucut||cone
+perangko||postage stamp
+otentik||authentic
+seteru||feud, rival
+kultus||cult
+bahama||Bahamas
+wahana||vehicle, ride (amusement park)
+akuntansi||accounting
+piara||raise, keep as pet
+kasta||caste
+humas||public relations (abbrev.)
+toples||jar (glass container)
+transparan||transparent
+lasagna||lasagna
+mutilasi||mutilation
+hibernasi||hibernation
+feminin||feminine
+tempa||forge
+kompak||compact, close-knit
+larva||larva
+bejat||depraved, corrupt (moral)
+garang||fierce, ferocious
+kelontong||grocery (toko kelontong)
+prasejarah||prehistoric
+edit||edit
+mekanika||mechanics
+akademik||academic
+kontraksi||contraction
+gugus||cluster, group
+primata||primate
+sirkulasi||circulation
+momentum||momentum
+rahib||monk
+rehat||rest, break
+kontroversi||controversy
+ekstrak||extract
+linggis||crowbar
+taik||feces (vulgar, alt. of tahi)
+headphone||headphones
+psk||prostitute (abbrev.)
+merosot||decline, deteriorate
+informal||informal
+konfederasi||confederation
+permadani||carpet, rug
+gosong||burnt, charred
+mengenaskan||pitiful, tragic
+logistik||logistics
+fiji||Fiji
+buritan||stern (of a ship)
+jadul||old-fashioned (colloq.)
+sisih||set aside
+atlas||atlas
+korporasi||corporation
+senyap||silent, quiet
+temperamen||temperament
+tudung||veil, cover
+impulsif||impulsive
+timbal||lead (metal); reciprocal||n.;adj.
+gerogot||gnaw
+karachi||Karachi
+gedor||pound, bang
+tebu||sugarcane
+nubuat||prophecy
+hidrolik||hydraulic
+objektif||objective
+waria||transgender woman
+simak||listen carefully
+rektor||university rector
+endap||settle, precipitate
+bumper||bumper (car)
+maen||play (colloq., short for main)
+combo||combo
+selangkangan||crotch
+gembong||kingpin, ringleader
+getah||sap, resin
+ajal||death, fated end
+silikon||silicone
+rasul||prophet, apostle (Islamic)
+gemar||fond of, keen on
+dekorasi||decoration
+dentang||clang, chime
+obsesif||obsessive
+mekanis||mechanical
+napa||why (colloq., short for kenapa)
+instal||install
+kecoh||trick, deceive
+rembulan||moon (poetic)
+ingusan||snotty, inexperienced (as insult)
+topang||support, prop up
+silsilah||lineage, genealogy
+nobat||crown, coronate
+nikel||nickel
+kemoterapi||chemotherapy
+instalasi||installation
+sujud||prostrate (in prayer)
+cela||flaw, criticize
+jikalau||if (formal, alt. of jika)
+antek||lackey, stooge
+ngarai||canyon, ravine
+terumbu||reef (terumbu karang)
+spesialisasi||specialization
+pundak||shoulder
+paragraf||paragraph
+kementrian||ministry (alt. spelling of kementerian)
+entitas||entity
+gading||ivory
+rekonstruksi||reconstruction
+steril||sterile
+terbengkalai||abandoned, neglected
+rimba||jungle, forest
+semenanjung||peninsula
+teguk||gulp, sip
+mahakarya||masterpiece
+ubin||floor tile
+palestina||Palestine
+indeks||index
+waralaba||franchise
+plutonium||plutonium
+suspensi||suspension
+joki||jockey
+salip||overtake
+karamel||caramel
+senar||string (guitar/racket)
+kail||fishhook
+lebam||bruise, bruised
+damping||close by, accompany
+acung||raise, point
+geometri||geometry
+limpa||spleen
+habitat||habitat
+yaman||Yemen
+rentetan||series, string of (events)
+aksesoris||accessories
+tumbal||sacrifice, scapegoat
+gorilla||gorilla
+silat||martial art (pencak silat)
+segan||reluctant, hesitant (out of respect)
+insya||God willing (Insya Allah)
+nitrat||nitrate
+pelopor||pioneer
+cekatan||adept, skillful
+elektron||electron
+ceramah||lecture, sermon
+paranoia||paranoia
+boros||wasteful, extravagant
+karcis||ticket
+audit||audit
+segmen||segment
+syair||poem, verse
+tekun||diligent
+kemping||camping
+kempes||deflated
+proyektor||projector
+kurator||curator
+gemuruh||rumble, roar
+tabloid||tabloid
+mandat||mandate
+mosi||motion (parliamentary)
+metropolitan||metropolitan
+minivan||minivan
+rendam||soak, submerge
+defensif||defensive
+voli||volleyball
+bagel||bagel
+pesimis||pessimistic
+rotasi||rotation
+protektif||protective
+nuansa||nuance
+cicit||squeak; great-grandchild
+spons||sponge
+babysitter||babysitter
+salsa||salsa
+iba||pity, compassion
+alfabet||alphabet
+bangkang||defy, rebel
+kutip||quote, cite
+baso||meatball (alt. spelling of bakso)
+landa||strike, hit
+miniatur||miniature
+duda||widower
+aljabar||algebra
+bongkah||chunk, lump
+sentak||jolt, jerk
+militan||militant
+konstantinopel||Constantinople
+mortir||mortar (weapon)
+literatur||literature
+gengsi||prestige, pride
+rawan||vulnerable, prone to
+nostalgia||nostalgia
+rekat||stick, adhesive
+flora||flora
+orkestra||orchestra
+vektor||vector
+kerut||wrinkle
+gadai||pawn (pawnshop)
+degup||heartbeat
+menyalak||bark (dog)
+usap||wipe, stroke
+wisma||building, residence, guesthouse
+luap||overflow
+kolektif||collective
+kismis||raisin
+serdadu||soldier
+streaming||streaming
+reformasi||reformation
+gejolak||turmoil, upheaval
+ion||ion
+kuas||paintbrush
+mesias||messiah
+cabik||tear, rip
+wapres||vice president (abbrev.)
+nitro||nitro
+ginseng||ginseng
+silau||dazzle, glare
+pel||mop
+abstrak||abstract
+spora||spore
+kucil||ostracize
+tegap||sturdy, upright (posture)
+platinum||platinum
+golok||machete
+jogging||jogging
+probabilitas||probability
+lesu||listless, lethargic
+mucikari||pimp
+emisi||emission
+kopling||clutch (car)
+ganjaran||reward, punishment
+lempeng||plate (tectonic), flat
+patriotik||patriotic
+pestisida||pesticide
+dialek||dialect
+postur||posture
+komoditas||commodity
+kecup||peck, kiss
+deret||row, series
+nota||note, memo
+celcius||Celsius
+neutron||neutron
+seksualitas||sexuality
+pulas||twist, sound asleep
+pemulung||scavenger, trash picker
+artifak||artifact
+grafis||graphic
+kiper||goalkeeper
+bintara||non-commissioned officer
+sedekah||alms, charity
+minggat||run away (colloq.)
+oval||oval
+diameter||diameter
+transkrip||transcript
+mendikte||dictate
+bidak||pawn (chess, alt. of pion)
+etnis||ethnic
+saring||filter, sieve
+filem||film (Malay spelling)
+onani||masturbation (alt. term)
+moncong||snout, muzzle
+sekujur||throughout (the body)
+perih||painful, stinging
+kelvin||Kelvin (unit)
+hangar||hangar
+inovatif||innovative
+metana||methane
+fenomenal||phenomenal
+sekap||confine, hold captive
+seprai||bedsheet
+copet||pickpocket
+mikroba||microbe
+struktural||structural
+lakban||duct tape
+cengkeram||grip, clutch
+lontar||throw, launch
+hibah||grant, donation
+varietas||variety
+koyak||torn, ripped
+buncis||green beans
+tamasya||excursion, outing
+cuat||stick out, protrude
+diskriminasi||discrimination
+timbun||hoard, pile up
+animasi||animation
+apresiasi||appreciation
+yoghurt||yogurt
+raket||racket (sports)
+aborigin||aboriginal
+tribun||grandstand, tribune
+relativitas||relativity
+basuh||wash
+prasasti||inscription (historical)
+vulkanik||volcanic
+tercantum||listed, stated
+diplomasi||diplomacy
+wijen||sesame
+sistematis||systematic
+hipotetis||hypothetical
+gelegar||boom, roar
+mahjong||mahjong
+lelap||sound asleep
+jenuh||saturated, bored/fed up
+tempurung||shell (coconut shell, kneecap)
+kompresi||compression
+britania||Britain
+sebutir||a grain, single unit of|butir
+kelar||finished, done (colloq.)
+sembelih||slaughter
+orangutan||orangutan
+ganggang||algae
+rizki||fortune, sustenance (alt. spelling of rezeki)
+meringkik||neigh (horse)|ringkik
+resesi||recession
+ideologi||ideology
+sekuel||sequel
+konten||content
+turbulensi||turbulence
+ajang||event, arena (competition)
+kibar||flutter, wave
+eksis||exist (colloq.)
+pubertas||puberty
+interpretasi||interpretation
+jungkir||flip, somersault
+unggas||poultry
+merajuk||sulk
+denah||floor plan, map
+rabun||poor eyesight (rabun jauh)
+kloset||toilet (fixture)
+kremasi||cremation
+biang||source, cause (biang kerok)
+karuan||certain, definite (tak karuan)
+pamflet||pamphlet
+sesepuh||elder, senior figure
+insentif||incentive
+culun||nerdy, dorky (colloq.)
+kuadran||quadrant
+lusuh||worn out, shabby
+kontra||against, contra
+tawon||wasp
+bujur||longitude (garis bujur)
+tekuk||bend, fold
+saking||because of, so much that (colloq.)
+striptis||striptease
+tentakel||tentacle
+berantas||eradicate
+tukik||dive, swoop
+milenium||millennium
+oles||apply, smear
+mediterania||Mediterranean
+imun||immune
+zakar||penis (clinical term)
+khalifah||caliph
+grogi||nervous, jittery (colloq.)
+merdu||melodious, sweet (sound)
+coret||scribble, cross out
+pengap||stuffy, stale (air)
+empedu||bile, gallbladder
+ketiak||armpit
+gemilang||brilliant, glorious
+finalis||finalist
+maharaja||great king, maharaja
+idealis||idealist
+puntung||cigarette butt
+rugby||rugby
+puyuh||quail
+melotot||glare, bulge eyes
+simfoni||symphony
+jagat||world, universe (jagat raya)
+sodium||sodium
+laos||Laos
+zina||adultery
+kasut||shoes (formal/poetic)
+termos||thermos
+ekspos||expose
+progresif||progressive
+tindih||overlap, press down
+elok||beautiful, fine
+juragan||boss, owner (business)
+luhur||noble, lofty
+firdaus||paradise (Islamic term)
+tegur||reprimand, greet
+landak||porcupine
+tuah||luck, charm
+pajang||display
+prasmanan||buffet
+yakub||Jacob
+bollywood||Bollywood
+pialang||broker
+gesit||agile, nimble
+bobot||weight
+silet||razor blade
+perumpamaan||parable, analogy
+diagnostik||diagnostic
+mujarab||effective (remedy)
+bentak||snap, yell at
+bokep||porn (very colloq. slang)
+antarmuka||interface
+skors||suspension (school/sports)
+lancong||travel, tour
+kubu||camp, faction
+misionaris||missionary
+pekat||thick, concentrated
+penghujung||the very end
+miring||tilted, sloped
+koordinasi||coordination
+hajat||wish, need; celebration
+rukun||harmonious; pillar (of faith)||adj.;n.
+booming||boom (colloq.)
+butik||boutique
+gombal||flattery, sweet talk (colloq.)
+lobus||lobe
+angker||haunted, spooky
+persuasif||persuasive
+prosesor||processor
+reparasi||repair
+biometrik||biometric
+anjur||recommend, suggest
+terap||apply, implement
+melati||jasmine
+itikad||intention, good faith
+matematis||mathematical
+piagam||charter, certificate
+saputangan||handkerchief
+harpa||harp
+brokoli||broccoli
+vegan||vegan
+libya||Libya
+retina||retina
+matriks||matrix
+gender||gender
+ultimatum||ultimatum
+kemo||chemo (abbrev.)
+rayap||termite
+secarik||a piece, scrap of (paper)
+karnivora||carnivore
+momok||bogeyman, dread
+buket||bouquet
+gerilya||guerrilla (warfare)
+porselen||porcelain
+intensitas||intensity
+giling||grind
+senggang||free time, leisure
+satwa||wildlife, fauna
+tabur||sprinkle, scatter
+registrasi||registration
+terkam||pounce
+ekspor||export
+ringkas||concise, brief
+yordania||Jordan
+safari||safari
+arsenal||arsenal
+jajak||poll, survey (jajak pendapat)
+pencet||press, push (a button)
+ulama||Islamic scholar
+sengketa||dispute
+bacot||mouth, talk (vulgar slang)
+radiator||radiator
+rentang||range, stretch
+sigma||sigma
+hambur||scatter
+cecer||scatter, drop
+jamaika||Jamaica
+sulfur||sulfur
+mandul||infertile
+kreativitas||creativity
+terpana||stunned, amazed
+aktual||actual, current
+substansi||substance
+kapitalis||capitalist
+eksperimental||experimental
+sodok||poke, jab
+magnesium||magnesium
+lekuk||curve, dent
+parsial||partial
+metabolisme||metabolism
+maskulin||masculine
+demonstran||demonstrator, protester
+albino||albino
+bidan||midwife
+idaman||dream, ideal (wanita idaman)
+lapak||stall, vendor spot
+labil||unstable, volatile (emotionally)
+konversi||conversion
+papar||expose, explain
+visioner||visionary
+fraksi||faction (political)
+bebal||stupid, dense
+telekinesis||telekinesis
+kuah||broth, gravy
+mimisan||nosebleed
+kooperatif||cooperative
+portabel||portable
+gemerincing||jingling, clinking sound
+diari||diary (alt. spelling)
+bayonet||bayonet
+biografi||biography
+sembelit||constipation
+condong||lean toward, inclined
+migrain||migraine
+lini||line (lini masa)
+najis||filth, impurity (religious term)
+bujang||bachelor, unmarried man
+neuron||neuron
+bendahara||treasurer
+kalsium||calcium
+jerih||toil, effort (jerih payah)
+katalis||catalyst
+kimono||kimono
+patogen||pathogen
+notaris||notary
+duel||duel
+ilham||inspiration
+restorasi||restoration
+lanskap||landscape
+atribut||attribute
+julang||tower, soar
+afirmatif||affirmative
+ekspres||express
+santap||eat, dine
+konsol||console
+vanila||vanilla (alt. spelling of vanili)
+wamil||military conscription (abbrev.)
+neptunus||Neptune
+struk||receipt
+tambal||patch, mend
+cuek||indifferent, aloof (colloq.)
+tipikal||typical
+bengis||cruel, ruthless
+kapitalisme||capitalism
+lampir||attach
+lunar||lunar
+sanak||relative, kin
+administrator||administrator
+junjung||uphold
+beritahu||tell, inform, let know
+sahara||Sahara (desert)
+jangkar||anchor
+sampan||small boat, skiff
+musang||civet, weasel
+bulbul||nightingale
+jala||fishing net
+sia-sia||futile, in vain
+belalang||grasshopper
+deras||swift, heavy (of flowing water)
+saudagar||merchant, trader (literary)
+singsing||break (of dawn), rise
+telundakan|5|staircase, steps (regional/archaic)
+aum||roar (of a lion)
+kaka||older sibling (colloq., dialectal spelling of kakak)
+parau||hoarse (of voice)
+ranum|5|ripe, luscious (fruit)
+dusun||hamlet, small village
+semayam||reside, dwell (formal/archaic)
+patuk||peck
+kubah||dome
+hempas||fling, hurl, crash
+gelora||surge, passion
+kafilah||caravan
+bilah||blade, piece (classifier)
+benderang||blazing, brightly lit
+hilir||downstream
+hulu||upstream, headwaters
+harum||fragrant
+rempah||spice
+tebar||scatter, cast (a net)
+ronta||struggle, writhe
+caci||insult, revile
+semena-mena|5|arbitrarily, unjustly
+hikmah||wisdom, moral lesson
+kokok||crow (rooster's call)
+sebrang||across (colloq., dropped-vowel variant of seberang)
+laras||gun barrel
+rusuk||rib
+geletak|5|sprawled, lying prone
+ringkik|5|neigh, bray (of a horse/donkey)
+termenung||lost in thought, pensive
+ancang-ancang|5|run-up, preparation (before an action)
+hinggap||perch, alight (of a bird)
+gumam||mutter, murmur
+ratu||queen
+lebat||dense, thick (forest/rain)
+senantiasa||always, continuously (formal)
+bongkok|5|hunched, stooped
+bengkok||bent, crooked
+solek||primp, dress up
+kayangan|5|heavenly abode, celestial realm
+angguk||nod
+niscaya|5|surely, certainly (formal)
+jelma||transform into, incarnate as
+sela||gap, interval, crevice
+gelung|5|coil, curl
+kenan||willing, consent
+meraung-raung||howl, wail repeatedly
+tercebur||fall, plunge into (water)
+mega||cloud (poetic/literary)
+oase|5|oasis
+kurma||date (fruit)
+desis||hiss
+merajalela||run rampant, rage unchecked
+serempet||graze, sideswipe
+tengger||perch
+talang|5|gutter
+gersang||arid, barren
+derap||galloping sound, hoofbeats
+serentak||simultaneously, all at once
+kepul||billow, puff
+decit||creak, squeak
+telentang||lying on one's back, supine
+gabus||cork
+tengadah||look up, tilt back
+secuil||a tiny bit, sliver
+gong||gong
+jurai|5|dangle, hang down
+stalaktit|5|stalactite
+aneka||various, assorted
+remang|5|dim, hazy
+bubung||soar, rise; ridge (of a roof)||v.;n.
+buih||foam, froth
+torpedo||torpedo
+kalang-kabut||in a panic, flustered
+kerumun||crowd, throng
+raung||roar, howl
+desing||whiz, hiss (of something fast-moving)
+jingkat|5|tiptoe
+gembur|5|loose, crumbly (soil)
+kerikil||gravel, pebbles
+ufuk|5|horizon
+girang||delighted, joyful
+gembung||bloated, inflated
+ambrol|5|collapse, cave in (colloq.)
+ransel||backpack
+terali||bars, grille
+belit||coil, wind around
+terpa||buffet, lash (of wind or rain)
+huyung||stagger
+kuping||ear (colloq.)
+ah||ah (interjection)
+alpen||the Alps (mountain range)
+kelep|5|valve (mechanical)
+ac||air conditioner (AC)
+siput||snail
+rubah||fox
+pental||bounce, fling
+hentak||stomp, pound; jolt||v.;n.
+petani||farmer|tani|n.
+pedagang||trader, merchant|dagang|n.
+berenang||to swim|renang|v.
+pendidikan||education|didik|n.
+terhadap||towards, regarding|hadap|prep.
+pemandangan||view, scenery|pandang|n.
+membayangkan||to imagine, picture|bayang|v.
+penelitian||research|teliti|n.
+peluang||opportunity, chance|luang|n.
+penumpang||passenger|tumpang|n.
+kemasan||packaging|kemas|n.
+pelayan||waiter, attendant|layan|n.
+perpustakaan||library|pustaka|n.
+pelanggan||customer, subscriber|langgan|n.
+kebijakan||policy|bijak|n.
+terkejut||surprised, startled|kejut|adj.
+melakukan||to do, carry out|laku|v.
+jurusan||major, department; direction|jurus
+mengaku||to admit, confess|aku|v.
+mengakui|4|to admit, acknowledge|aku|v.
+akui|4|to admit, acknowledge|aku|v.
+diakui|5|to be acknowledged, admitted|aku|v.
+mengamati||to observe, watch closely|amat|v.
+bersama||together, along with|sama|adv.
+berdiri||to stand; to be founded|diri
+berhenti||to stop, halt|henti|v.
+mengumumkan||to announce|umum|v.
+keputusan||decision|putus|n.
+kesimpulan||conclusion|simpul|n.
+mengalami||to experience, undergo|alam|v.
+menabung||to save money|tabung|v.
+mengolah||to process, work on|olah|v.
+mengobrol||to chat|obrol|v.
+mengarang||to compose, write, make up|karang|v.
+kehilangan||loss; to lose|hilang
+kesempatan||opportunity, chance|sempat
+kehidupan||life|hidup
+kekuatan||strength, power|kuat
+kematian||death|mati
+kesalahan||mistake, error|salah
+keadaan||situation, condition|ada
+keamanan||security, safety|aman
+keberatan||objection|berat
+ketakutan||fear, terror|takut
+kemungkinan||possibility|mungkin
+kejadian||event, incident|jadi
+kebenaran||truth|benar
+kelihatan||to appear, seem, be visible|lihat
+kehormatan||honour|hormat
+kebanyakan||most of, the majority|banyak
+kegelapan||darkness|gelap
+kesulitan||difficulty, trouble|sulit
+kenyataan||reality, fact|nyata
+kecepatan||speed|cepat
+keinginan||desire, wish|ingin
+kehabisan||to run out of|habis
+kekacauan||chaos, disorder|kacau
+kemenangan||victory|menang
+kebaikan||kindness, goodness|baik
+keuntungan||profit, advantage|untung
+kebakaran||fire, blaze|bakar
+kebohongan||a lie|bohong
+kekerasan||violence|keras
+keajaiban||miracle, wonder|ajaib
+keberanian||courage|berani
+kelaparan||famine; starving|lapar
+kepercayaan||belief, trust|percaya
+kerusakan||damage|rusak
+keadilan||justice|adil
+kesepian||loneliness|sepi
+kekuasaan||power, authority|kuasa
+kebebasan||freedom|bebas
+kepolisian||the police force|polisi
+kebahagiaan||happiness|bahagia
+kesehatan||health|sehat
+kesenangan||pleasure, enjoyment|senang
+keselamatan||safety, salvation|selamat
+keturunan||descendant; descent|turun
+kebiasaan||habit, custom|biasa
+keyakinan||conviction, belief|yakin
+kedatangan||arrival|datang
+kemarahan||anger|marah
+ketinggalan||to be left behind; to miss|tinggal
+kekurangan||shortage, lack|kurang
+kemajuan||progress|maju
+keuangan||finance|uang
+kebutuhan||need, necessity|butuh
+kedamaian||peace|damai
+kepentingan||interest, importance|penting
+kesedihan||sadness|sedih
+kegagalan||failure|gagal
+kedinginan||to be cold, freezing|dingin
+ketahuan||to get found out, be caught|tahu
+kelemahan||weakness|lemah
+kegiatan||activity|giat
+kehancuran||destruction|hancur
+keseluruhan||the whole, entirety|seluruh
+kebencian||hatred|benci
+kesakitan||to be in pain|sakit
+keterlaluan||outrageous, going too far|terlalu
+keahlian||expertise, skill|ahli
+ketinggian||height; too high|tinggi
+kegilaan||madness|gila
+kekayaan||wealth|kaya
+kecantikan||beauty|cantik
+keraguan||doubt|ragu
+kelahiran||birth|lahir
+keributan||commotion, racket|ribut
+keindahan||beauty|indah
+kejuaraan||championship|juara
+kesamaan||similarity|sama
+keterampilan||skill|terampil
+kelelahan||exhaustion|lelah
+kedutaan||embassy|duta
+kepribadian||personality|pribadi
+kehadiran||presence, attendance|hadir
+kerugian||loss|rugi
+kebanggaan||pride|bangga
+kesetiaan||loyalty|setia
+kemanusiaan||humanity|manusia
+kesadaran||consciousness, awareness|sadar
+kekalahan||defeat|kalah
+kebingungan||confusion|bingung
+kesabaran||patience|sabar
+kecerdasan||intelligence|cerdas
+kecanduan||addiction|candu
+ketenangan||calm, composure|tenang
+kesaksian||testimony|saksi
+kebocoran||leak|bocor
+kewajiban||obligation, duty|wajib
+kesatuan||unit; unity|satu
+kekaisaran||empire|kaisar
+kediaman||residence|diam
+kedokteran||medicine, medical science|dokter
+kegembiraan||joy|gembira
+kedalaman||depth|dalam
+kemerdekaan||independence|merdeka
+kemuliaan||glory|mulia
+kejujuran||honesty|jujur
+kelebihan||advantage; excess|lebih
+kebodohan||stupidity|bodoh
+kebijaksanaan||wisdom|bijaksana
+kebangkitan||rise, resurrection|bangkit
+kedengaran||to be heard, to sound|dengar
+kerusuhan||riot|rusuh
+kekhawatiran||worry, concern|khawatir
+kenyamanan||comfort|nyaman
+kelulusan||graduation|lulus
+kebisingan||noise|bising
+kemaluan||genitals; shame|malu
+kesuksesan||success|sukses
+keterangan||information, statement|terang
+kejayaan||glory, heyday|jaya
+kenaikan||rise, increase|naik
+kebersihan||cleanliness|bersih
+kehamilan||pregnancy|hamil
+kecurigaan||suspicion|curiga
+kesukaan||favourite; liking|suka
+kejaksaan||prosecutor's office|jaksa
+kelewatan||excessive, too much|lewat
+kelangsungan||continuity|langsung
+keheningan||silence|hening
+keanehan||oddity, strangeness|aneh
+kekebalan||immunity|kebal
+keramaian||crowd, festivity|ramai
+ketenaran||fame|tenar
+keperluan||need, requirement|perlu
+kepuasan||satisfaction|puas
+kerasukan||to be possessed|rasuk
+keterlibatan||involvement|terlibat
+kenikmatan||pleasure, enjoyment|nikmat
+keracunan||poisoning|racun
+kemauan||will, willingness|mau
+kehangatan||warmth|hangat
+kejauhan||distance; too far|jauh
+kesayangan||favourite, beloved|sayang
+kesejahteraan||welfare, prosperity|sejahtera
+kekosongan||emptiness, vacancy|kosong
+kecemasan||anxiety|cemas
+kepanasan||to be too hot|panas
+keserakahan||greed|serakah
+kesengsaraan||misery|sengsara
+kepanikan||panic|panik
+kemurahan||generosity; cheapness|murah
+kelainan||abnormality, disorder|lain
+kemiskinan||poverty|miskin
+kecenderungan||tendency|cenderung
+kesempurnaan||perfection|sempurna
+kelakuan||behaviour, conduct|laku
+kecurangan||cheating, fraud|curang
+keburukan||badness, flaw|buruk
+kekecewaan||disappointment|kecewa
+kesopanan||politeness|sopan
+kepastian||certainty|pasti
+kebudayaan||culture|budaya
+kejiwaan||mental, psychological|jiwa
+keberangkatan||departure|berangkat
+kepunahan||extinction|punah
+ketiduran||to fall asleep unintentionally|tidur
+kesombongan||arrogance|sombong
+kedudukan||position, standing|duduk
+kengerian||horror|ngeri
+kecocokan||compatibility, suitability|cocok
+kerahasiaan||secrecy|rahasia
+kehebatan||greatness|hebat
+kemalangan||misfortune|malang
+kerajinan||diligence; handicraft|rajin
+kewenangan||authority|wenang
+ketertiban||order, orderliness|tertib
+kehakiman||judiciary|hakim
+kebersamaan||togetherness|bersama
+kemacetan||traffic jam|macet
+ketentuan||provision, rule|tentu
+kesusahan||hardship|susah
+kepergian||departure|pergi
+kemiripan||resemblance|mirip
+kemunduran||decline, setback|mundur
+kepulauan||archipelago|pulau
+kementerian||ministry|menteri
+kebalikan||the opposite|balik
+kesucian||purity, sanctity|suci
+kepikiran||to have on one's mind|pikir
+kekeringan||drought|kering
+kesunyian||solitude, silence|sunyi
+keliatan||to appear, seem (colloq.)|liat
+kebesaran||greatness; too big|besar
+kehausan||thirst|haus
+kesendirian||solitude|sendiri
+kecemburuan||jealousy|cemburu
+kepunyaan||belonging, property|punya
+ketagihan||to be addicted, hooked|tagih
+kegelisahan||restlessness|gelisah
+keunggulan||superiority, advantage|unggul
+kekeliruan||error|keliru
+kerinduan||longing|rindu
+pembunuh||killer, murderer|bunuh
+petugas||officer, official|tugas
+penjaga||guard, keeper|jaga
+pengacara||lawyer|acara
+pemimpin||leader|pimpin
+petunjuk||instruction, clue|tunjuk
+pemain||player|main
+penyakit||disease, illness|sakit
+pencuri||thief|curi
+pemilik||owner|milik
+pelatih||coach, trainer|latih
+pemburu||hunter|buru
+pembohong||liar|bohong
+pekerja||worker|kerja
+pendapat||opinion|dapat
+penulis||writer|tulis
+pengantin||bride, groom
+pemuda||young man, youth|muda
+pemenang||winner|menang
+penyebab||cause|sebab
+pengawal||guard, escort|kawal
+penembak||shooter, gunman|tembak
+pemberontak||rebel|berontak
+penonton||spectator, viewer|tonton
+penipu||swindler, cheat|tipu
+pelindung||protector|lindung
+penari||dancer|tari
+penutup||cover, closing|tutup
+penerjemah||translator|terjemah
+pembuat||maker|buat
+penyelamat||saviour, rescuer|selamat
+pejabat||official|jabat
+penguasa||ruler|kuasa
+petarung||fighter|tarung
+pengawasan||supervision, surveillance|awas
+pemberani||brave person|berani
+pengawas||supervisor|awas
+pembantu||helper, maid|bantu
+penyanyi||singer|nyanyi
+peledak||explosive|ledak
+penjual||seller|jual
+pengunjung||visitor|kunjung
+pengaman||safety device|aman
+pengganti||replacement, substitute|ganti
+pembawa||carrier, bearer|bawa
+pengasuh||caregiver, nanny|asuh
+pemandu||guide|pandu
+pewaris||heir|waris
+pemabuk||drunkard|mabuk
+pengendali||controller|kendali
+pengedar||distributor, dealer|edar
+pengusaha||entrepreneur, businessman|usaha
+pemula||beginner|mula
+pembeli||buyer|beli
+pengemudi||driver|kemudi
+pengintai||scout, lookout|intai
+penyusup||infiltrator|susup
+pendukung||supporter|dukung
+pengikut||follower|ikut
+pembalap||racer|balap
+penawar||antidote; bidder|tawar
+penakut||coward|takut
+pelaut||sailor|laut
+pecinta||lover, devotee|cinta
+peserta||participant|serta
+pemegang||holder|pegang
+penunggang||rider|tunggang
+penghalang||obstacle|halang
+pembersih||cleaner|bersih
+penyerang||attacker|serang
+penghuni||occupant, resident|huni
+pembuka||opener|buka
+penjelajah||explorer|jelajah
+penasihat||adviser|nasihat
+pendingin||cooler|dingin
+penghubung||connector, liaison|hubung
+penenang||tranquiliser, sedative|tenang
+penghancur||destroyer|hancur
+pemalu||shy|malu
+pengembara||wanderer|kembara
+pemukul||bat, club; hitter|pukul
+pembaca||reader|baca
+pencipta||creator|cipta
+pembela||defender|bela
+pesulap||magician|sulap
+pemarah||bad-tempered|marah
+pembangkit||generator|bangkit
+pengungsi||refugee|ungsi
+pemakan||eater|makan
+penculik||kidnapper|culik
+pengantar||courier; introduction|antar
+petinju||boxer|tinju
+penerima||recipient|terima
+pengganggu||nuisance, pest|ganggu
+pendiri||founder|diri
+pengenal||identifier|kenal
+pengurus||administrator, manager|urus
+pendatang||newcomer, immigrant|datang
+pemicu||trigger|picu
+penuntut||prosecutor; claimant|tuntut
+pemanah||archer|panah
+pengguna||user|guna
+pemeran||actor, one playing a role|peran
+pelari||runner|lari
+pengacau||troublemaker|kacau
+peneliti||researcher|teliti
+pendiam||quiet, reserved person|diam
+pemancar||transmitter|pancar
+pengingat||reminder|ingat
+pemotong||cutter|potong
+penghianat||traitor|khianat
+pesisir||coast, shoreline
+pendorong||driving force, motivator|dorong
+pecat||to dismiss, fire
+pemalas||lazy person|malas
+pelukis||painter|lukis
+pesiar||cruise, pleasure trip|siar
+pengendara||rider, motorist|kendara
+penyidik||investigator|sidik
+pemerkosa||rapist|perkosa
+pemilih||voter|pilih
+penanda||marker|tanda
+pendengar||listener|dengar
+penyelundup||smuggler|selundup
+pencuci||washer|cuci
+penyelidik||investigator|selidik
+pesaing||competitor|saing
+pemindai||scanner|pindai
+penyelam||diver|selam
+penyembuh||healer|sembuh
+penemu||inventor, discoverer|temu
+penyewa||tenant, renter|sewa
+pemanas||heater|panas
+penghilang||remover|hilang
+pemberi||giver|beri
+pengiring||escort, accompanist|iring
+pembatas||divider, barrier|batas
+penjudi||gambler|judi
+pengatur||regulator|atur
+petak||plot, square, compartment
+penerus||successor|terus
+pegulat||wrestler|gulat
+pemangsa||predator|mangsa
+peniru||imitator|tiru
+penderita||sufferer, patient|derita
+penyendiri||loner|sendiri
+pemeriksa||inspector|periksa
+pengalih||diverter|alih
+penyadap||wiretapper|sadap
+pembicara||speaker|bicara
+pejalan||pedestrian|jalan
+petinggi||high official|tinggi
+pembagian||division, distribution|bagi
+pengamat||observer|amat
+penangkap||catcher|tangkap
+penangkal||antidote, deterrent|tangkal
+pentas||stage
+pendosa||sinner|dosa
+penata||arranger, stylist|tata
+pebisnis||businessperson|bisnis
+pemasok||supplier|pasok
+penyiar||broadcaster, announcer|siar
+penghisap||smoker; sucker|hisap
+penahan||restraint, support|tahan
+penambang||miner|tambang
+pembantai||slaughterer|bantai
+pemecah||breaker|pecah
+penjepit||clip, tongs|jepit
+penyayang||affectionate, loving|sayang
+pembasmi||exterminator|basmi
+peminum||drinker|minum
+pemutar||player (device)|putar
+penjilat||bootlicker|jilat
+penerbit||publisher|terbit
+peternak||breeder, farmer|ternak
+pengagum||admirer|kagum
+pelamar||applicant|lamar
+penantang||challenger|tantang
+pelempar||thrower|lempar
+pengirim||sender|kirim
+pemimpi||dreamer|mimpi
+penghibur||entertainer|hibur
+pengadilan||court, trial|adil
+penerbangan||flight, aviation|terbang
+pengalaman||experience|alam
+pemakaman||funeral, cemetery|makam
+pemikiran||thinking, thought|pikir
+penghargaan||award; appreciation|harga
+penjelasan||explanation|jelas
+penampilan||appearance, performance|tampil
+pegunungan||mountain range|gunung
+pengorbanan||sacrifice|korban
+pengobatan||treatment, medication|obat
+pengakuan||confession, admission|aku
+peperangan||warfare|perang
+penyimpanan||storage|simpan
+penglihatan||eyesight, vision|lihat
+pembayaran||payment|bayar
+peluncuran||launch|luncur
+pengumuman||announcement|umum
+penghinaan||insult, humiliation|hina
+penyesalan||regret, remorse|sesal
+pengampunan||pardon, forgiveness|ampun
+pendarahan||bleeding, haemorrhage|darah
+penilaian||assessment, evaluation|nilai
+pemberitahuan||notification|beritahu
+pembalasan||retaliation, revenge|balas
+pengecualian||exception|kecuali
+pendaratan||landing|darat
+penyamaran||disguise|samar
+pembuangan||disposal; exile|buang
+pembebasan||liberation, release|bebas
+penyiksaan||torture|siksa
+peningkatan||increase, improvement|tingkat
+pembangunan||development, construction|bangun
+penginapan||lodging, inn|inap
+pendekatan||approach|dekat
+penampungan||shelter|tampung
+penghormatan||tribute, honouring|hormat
+pencegahan||prevention|cegah
+pemahaman||understanding|paham
+pepohonan||trees, foliage|pohon
+pengembangan||development|kembang
+pemulihan||recovery|pulih
+pembakaran||burning, combustion|bakar
+pemerasan||extortion, blackmail|peras
+pemberhentian||dismissal; stop|berhenti
+penampakan||apparition, sighting|tampak
+penolakan||rejection, refusal|tolak
+pengejaran||pursuit, chase|kejar
+pengujian||testing|uji
+pengunduran||resignation, postponement|undur
+penurunan||decrease, decline|turun
+pengambilan||taking, collection|ambil
+pendaftaran||registration|daftar
+pedesaan||rural area, countryside|desa
+penghasilan||income, earnings|hasil
+pengusiran||expulsion|usir
+penyergapan||ambush|sergap
+pengangguran||unemployment
+penyelesaian||solution, settlement|selesai
+pemboman||bombing|bom
+peninggalan||legacy, remains|tinggal
+penyebaran||spread, distribution|sebar
+pemindahan||transfer, relocation|pindah
+pengeboman||bombing|bom
+pengeluaran||expenditure, output|keluar
+pemasaran||marketing|pasar
+pengasingan||exile, isolation|asing
+penyesuaian||adjustment|sesuai
+penundaan||postponement, delay|tunda
+pemeliharaan||maintenance, upkeep|pelihara
+penggeledahan||search, raid|geledah
+penyimpangan||deviation, irregularity|simpang
+penghakiman||judgement|hakim
+penguncian||locking, lockdown|kunci
+pelayaran||voyage, sailing|layar
+pengembalian||return, refund|kembali
+pengarahan||briefing, direction|arah
+pembedahan||surgery|bedah
+penyerahan||handover, surrender|serah
+pemesanan||booking, ordering|pesan
+penggalangan||rallying, fundraising|galang
+pengisian||filling, charging|isi
+pemujaan||worship, adoration|puja
+pembatalan||cancellation|batal
+pengeboran||drilling|bor
+penyatuan||unification|satu
+pencapaian||achievement|capai
+pembajakan||piracy, hijacking|bajak
+pengumpulan||collection, gathering|kumpul
+pemisahan||separation|pisah
+pemotretan||photo shoot|potret
+pengabdian||devotion, service|abdi
+pelepasan||release, discharge|lepas
+pemungutan||collection (of votes, fees)|pungut
+pemandian||bathing place|mandi
+pengepungan||siege|kepung
+pemalsuan||forgery, counterfeiting|palsu
+pencernaan||digestion|cerna
+pedalaman||interior, hinterland|dalam
+penindasan||oppression|tindas
+penggelapan||embezzlement|gelap
+pendanaan||funding|dana
+penyambutan||welcome, reception|sambut
+pertanyaan||question|tanya
+perjalanan||journey, trip|jalan
+perusahaan||company, firm|usaha
+permainan||game|main
+pernikahan||wedding, marriage|nikah
+perasaan||feeling, emotion|rasa
+perhatian||attention|hati
+pertemuan||meeting|temu
+perubahan||change|ubah
+pertandingan||match, contest|tanding
+permintaan||request, demand|minta
+pertunjukan||show, performance|tunjuk
+pelajaran||lesson, subject|ajar
+peringatan||warning; commemoration|ingat
+perlindungan||protection|lindung
+perjanjian||agreement, treaty|janji
+perbedaan||difference|beda
+peraturan||rule, regulation|atur
+peralatan||equipment|alat
+percobaan||experiment, attempt|coba
+pertahanan||defence|tahan
+perbatasan||border|batas
+pernyataan||statement|nyata
+perawat||nurse|rawat
+perawatan||care, treatment|rawat
+perangkat||device, set|angkat
+perbuatan||deed, act|buat
+perdamaian||peace|damai
+permukaan||surface|muka
+perampokan||robbery|rampok
+pelaku||perpetrator, doer|laku
+persahabatan||friendship|sahabat
+pelanggaran||violation, offence|langgar
+perayaan||celebration|raya
+perbuat||to do, commit|buat
+perguruan||educational institution|guru
+perkelahian||fight, brawl|kelahi
+perdagangan||trade, commerce|dagang
+perpisahan||farewell, parting|pisah
+perawan||virgin
+pertolongan||help, aid|tolong
+persediaan||supply, stock|sedia
+persiapan||preparation|siap
+pertukaran||exchange|tukar
+pertanda||sign, omen|tanda
+perlawanan||resistance|lawan
+perampok||robber|rampok
+persetujuan||approval, consent|setuju
+perkembangan||development, progress|kembang
+pertanian||agriculture|tani
+perkataan||words, utterance|kata
+permata||gem, jewel
+permulaan||beginning|mula
+pelacak||tracker|lacak
+permohonan||application, plea|mohon
+perbaikan||repair, improvement|baik
+pergerakan||movement|gerak
+perlengkapan||gear, equipment|lengkap
+perjuangan||struggle|juang
+pelajar||student, pupil|ajar
+pertengahan||middle, mid-|tengah
+perhitungan||calculation|hitung
+perkumpulan||association, club|kumpul
+persembunyian||hiding place|sembunyi
+perlombaan||race, competition|lomba
+persidangan||court session, hearing|sidang
+perceraian||divorce|cerai
+persimpangan||intersection, junction|simpang
+percuma||in vain, useless|cuma
+perkiraan||estimate, forecast|kira
+perburuan||hunt|buru
+pertunangan||engagement|tunangan
+perkawinan||marriage|kawin
+persamaan||similarity; equation|sama
+persaudaraan||brotherhood|saudara
+perkemahan||camp, campsite|kemah
+pertengkaran||quarrel, argument|tengkar
+perairan||waters|air
+peramal||fortune teller|ramal
+perumahan||housing|rumah
+persegi||square|segi
+persembahan||offering, tribute|sembah
+perwakilan||representation, delegation|wakil
+permasalahan||problem, issue|masalah
+pertumbuhan||growth|tumbuh
+pertumpahan||spilling, shedding|tumpah
+perlakuan||treatment|laku
+persaingan||competition, rivalry|saing
+persenjataan||armament, weaponry|senjata
+perbudakan||slavery|budak
+perencanaan||planning|rencana
+perban||bandage
+pertimbangan||consideration|timbang
+persoalan||issue, problem|soal
+pelacakan||tracking|lacak
+perkebunan||plantation|kebun
+pertemanan||friendship|teman
+perapian||fireplace|api
+persatuan||unity, union|satu
+persyaratan||requirements|syarat
+perdebatan||debate|debat
+persatu||to unite|satu
+pertambangan||mining|tambang
+perusak||destroyer, vandal|rusak
+perantara||intermediary, go-between|antara
+perselingkuhan||affair, infidelity|selingkuh
+persekutuan||alliance, partnership|sekutu
+pergantian||change, replacement|ganti
+permusuhan||hostility|musuh
+perhentian||stop, halt|henti
+perjelas||to clarify|jelas
+pernapasan||breathing, respiration|napas
+percepat||to speed up|cepat
+perjudian||gambling|judi
+pergeseran||shift, displacement|geser
+perenang||swimmer|renang
+perbesar||to enlarge|besar
+percintaan||romance, love affair|cinta
+peretas||hacker|retas
+perjamuan||banquet, feast|jamu
+perkenalan||introduction|kenal
+pelawak||comedian|lawak
+perbandingan||comparison|banding
+perbincangan||discussion, talk|bincang
+peregangan||stretching|regang
+perekam||recorder|rekam
+lawak||joke, comedy
+pekerjaan||job, work, occupation|pekerja
+makanan||food|makan
+bantuan||help, aid, assistance|bantu
+sendirian||alone, by oneself|sendiri
+pilihan||choice, option|pilih
+pembunuhan||murder, killing|pembunuh
+hubungan||relationship, connection|hubung
+pikiran||mind, thought|pikir
+serangan||attack|serang
+pakaian||clothing|pakai
+ruangan||room|ruang
+catatan||note, record|catat
+tujuan||goal, purpose, destination|tuju
+panggilan||call, summons|panggil
+minuman||drink, beverage|minum
+harapan||hope, expectation|harap
+urusan||affair, business|urus
+latihan||exercise, practice, training|latih
+tembakan||gunshot|tembak
+jawaban||answer|jawab
+aturan||rule|atur
+tindakan||action, measure|tindak
+kotoran||dirt, filth, faeces|kotor
+pasangan||partner, pair|pasang
+kejutan||surprise|kejut
+lapangan||field, ground|lapang
+duluan||first, ahead (colloq.)|dulu
+jalanan||the streets|jalan
+tekanan||pressure|tekan
+tahanan||detainee; detention|tahan
+ledakan||explosion|ledak
+hukuman||punishment, sentence|hukum
+ancaman||threat|ancam
+ujian||exam, test|uji
+ribuan||thousands of|ribu
+bangunan||building|bangun
+kenangan||memory, remembrance|kenang
+gerakan||movement|gerak
+tambahan||addition, supplement|tambah
+pukulan||blow, punch, stroke|pukul
+kasihan||pity; poor thing|kasih
+lingkungan||environment, surroundings|lingkung
+liburan||holiday, vacation|libur
+jaringan||network, tissue|jaring
+lukisan||painting|lukis
+ciuman||kiss|cium
+angkatan||batch, generation; armed forces|angkat
+ukuran||size, measurement|ukur
+penyelidikan||investigation|penyelidik
+ratusan||hundreds of|ratus
+pembicaraan||conversation, discussion|pembicara
+gangguan||disturbance, disorder|ganggu
+kutukan||curse|kutuk
+jutaan||millions of|juta
+saluran||channel, duct|salur
+sungguhan||for real, genuine|sungguh
+mainan||toy|main
+pemeriksaan||examination, inspection|pemeriksa
+ingatan||memory|ingat
+bayangan||shadow, reflection|bayang
+apaan||what? (colloq.)|apa
+pandangan||view, outlook|pandang
+potongan||piece, cut, discount|potong
+pelatihan||training|pelatih
+bayaran||pay, fee|bayar
+tanaman||plant, crop|tanam
+taruhan||bet, stake|taruh
+penderitaan||suffering|penderita
+layanan||service|layan
+lautan||ocean|laut
+tawaran||offer, bid|tawar
+belakangan||lately, recently|belakang
+buatan||made by, of make|buat
+balapan||race|balap
+jaminan||guarantee, collateral|jamin
+lingkaran||circle|lingkar
+sekalian||all at once; as well|sekali
+dukungan||support|dukung
+menyalakan||to turn on, light|nyala
+tuduhan||accusation|tuduh
+hitungan||count, calculation|hitung
+putaran||round, rotation|putar
+tantangan||challenge|tantang
+jebakan||trap|jebak
+tulisan||writing, article|tulis
+pengiriman||delivery, shipment|pengirim
+kuburan||grave, cemetery|kubur
+tumpangan||a lift, ride|tumpang
+tagihan||bill, invoice|tagih
+tarian||dance|tari
+penjualan||sale, sales|penjual
+pemerintahan||administration, governance|pemerintah
+pegangan||grip, handle|pegang
+ucapan||utterance, greeting|ucap
+ikatan||bond, tie|ikat
+bersamaan||simultaneous|bersama
+aliran||flow, current; stream|alir
+penyerangan||assault, attack|penyerang
+kunjungan||visit|kunjung
+peternakan||farm, ranch|peternak
+penemuan||discovery, invention|penemu
+pimpinan||leadership, management|pimpin
+undangan||invitation|undang
+siaran||broadcast|siar
+pujian||praise, compliment|puji
+penculikan||kidnapping|penculik
+tuntutan||demand, lawsuit|tuntut
+masukan||input, feedback|masuk
+penawaran||offer, bid|penawar
+pesanan||order (goods)|pesan
+pacaran||to date, go out|pacar
+tunjukan||to show (variant of tunjukkan)|tunjuk
+salinan||copy|salin
+pencurian||theft|pencuri
+penangkapan||arrest, capture|penangkap
+urutan||order, sequence|urut
+pinjaman||loan|pinjam
+pemilihan||election, selection|pemilih
+pelayanan||service|pelayan
+murahan||cheap, tacky|murah
+barisan||row, line, ranks|baris
+baikan||to make up, reconcile (colloq.)|baik
+cairan||liquid, fluid|cair
+hiburan||entertainment|hibur
+pelukan||hug, embrace|peluk
+tipuan||trick, deception|tipu
+hadapan||front, presence|hadap
+kerjaan||job, work (colloq.)|kerja
+jaman||era, age
+gambaran||picture, description|gambar
+penipuan||fraud, deception|penipu
+tumpukan||pile, stack|tumpuk
+gigitan||bite|gigit
+pengkhianatan||betrayal, treason|pengkhianat
+jagoan||champion, hero|jago
+campuran||mixture|campur
+daratan||land, mainland|darat
+ramuan||concoction, mixture|ramu
+rincian||details, breakdown|rinci
+warisan||inheritance, heritage|waris
+penyelamatan||rescue|penyelamat
+sentuhan||touch|sentuh
+hidangan||dish, course|hidang
+harian||daily|hari
+masakan||cooking, dish|masak
+pembukaan||opening|pembuka
+penembakan||shooting|penembak
+pemberontakan||rebellion, uprising|pemberontak
+teriakan||shout, scream|teriak
+lapisan||layer, coating|lapis
+setelan||suit; setting|setel
+pemanasan||heating; warm-up|pemanas
+keluhan||complaint|keluh
+atasan||superior, boss|atas
+tahunan||annual|tahun
+pembantaian||massacre|pembantai
+terjemahan||translation|terjemah
+jangkauan||reach, range|jangkau
+tampilan||appearance, display|tampil
+kawanan||herd, flock, gang|kawan
+pelarian||escape; fugitive|pelari
+dorongan||push, urge, encouragement|dorong
+ramalan||prediction, forecast|ramal
+kumpulan||collection, group|kumpul
+asuhan||upbringing, care|asuh
+penahanan||detention|penahan
+puluhan||dozens of|puluh
+tawanan||captive, prisoner|tawan
+peliharaan||pet, kept animal|pelihara
+sayuran||vegetables|sayur
+jeritan||scream|jerit
+dugaan||suspicion, presumption|duga
+jabatan||position, office|jabat
+penggunaan||use, usage|pengguna
+pengaturan||arrangement, setting|pengatur
+balasan||reply; retaliation|balas
+obrolan||chat, conversation|obrol
+suntikan||injection|suntik
+tatapan||gaze, stare|tatap
+landasan||foundation; runway|landas
+pecahan||fragment; fraction|pecah
+tendangan||kick|tendang
+paduan||blend, combination|padu
+khayalan||fantasy, illusion|khayal
+pasokan||supply|pasok
+pengendalian||control|pengendali
+sambutan||welcome, reception speech|sambut
+curian||stolen goods|curi
+bakalan||going to (colloq.)|bakal
+tabrakan||collision, crash|tabrak
+kenalan||acquaintance|kenal
+panduan||guide, manual|pandu
+getaran||vibration|getar
+lintasan||track, path|lintas
+kiriman||delivery, parcel|kirim
+pinggiran||outskirts, fringe|pinggir
+gulungan||roll, coil|gulung
+batasan||limit, boundary|batas
+lompatan||jump, leap|lompat
+belahan||half, split|belah
+sebutan||title, term|sebut
+pemberian||gift, grant|pemberi
+rancangan||design, draft|rancang
+erangan||groan, moan|erang
+muatan||load, cargo|muat
+lulusan||graduate|lulus
+senyuman||smile|senyum
+goresan||scratch, streak|gores
+pengalihan||diversion, transfer|pengalih
+lagian||besides, anyway (colloq.)|lagi
+rendahan||low-grade, menial|rendah
+ayunan||swing|ayun
+penerimaan||acceptance, admission|penerima
+hambatan||obstacle, barrier|hambat
+lemparan||throw|lempar
+pembersihan||cleaning, purge|pembersih
+pembelaan||defence|pembela
+gabungan||combination, merger|gabung
+pendapatan||income, revenue|pendapat
+simpanan||savings; stash|simpan
+penyembuhan||healing, cure|penyembuh
+tabungan||savings|tabung
+sambungan||connection, extension|sambung
+pembuatan||making, production|pembuat
+pengamatan||observation|pengamat
+percikan||splash, spark|percik
+pengintaian||surveillance, stakeout|pengintai
+rintangan||obstacle, hurdle|rintang
+buruan||prey, quarry|buru
+dataran||plain, plateau|datar
+satuan||unit|satu
+nyanyian||song, singing|nyanyi
+rangkaian||series, chain|rangkai
+letakan||to place (variant of letakkan)|letak
+ajaran||teaching, doctrine|ajar
+sumbangan||donation, contribution|sumbang
+ungkapan||expression, phrase|ungkap
+terobosan||breakthrough|terobos
+miliaran||billions of|miliar
+gugatan||lawsuit, claim|gugat
+cetakan||print, edition, mould|cetak
+kurungan||cage; confinement|kurung
+lembaran||sheet, page|lembar
+karangan||essay, composition|karang
+golongan||group, category|golong
+jahitan||stitch, sewing|jahit
+tiruan||imitation, fake|tiru
+saingan||rival, competition|saing
+pemotongan||cutting, deduction|pemotong
+malahan||on the contrary, in fact|malah
+tebakan||guess|tebak
+tusukan||stab, jab|tusuk
+penjagaan||guarding, security|penjaga
+pemerkosaan||rape|pemerkosa
+tingkatan||level, tier|tingkat
+godaan||temptation|goda
+siksaan||torture, torment|siksa
+pengenalan||introduction, recognition|pengenal
+bimbingan||guidance, mentoring|bimbing
+penutupan||closing, closure|penutup
+pembelian||purchase|pembeli
+tumbuhan||plant|tumbuh
+bendungan||dam|bendung
+penghancuran||destruction|penghancur
+tangkapan||catch, capture|tangkap
+kandungan||content; womb, pregnancy|kandung
+tangisan||crying, weeping|tangis
+tanggapan||response, reaction|tanggap
+samaran||disguise, alias|samar
+lamaran||application; proposal|lamar
+bujangan||bachelor|bujang
+larangan||prohibition, ban|larang
+ketukan||knock|ketuk
+tontonan||show, spectacle|tonton
+bawaan||innate; belongings|bawa
+gantungan||hanger, hook|gantung
+antrian||queue, line|antri
+pengamanan||securing, safeguarding|pengaman
+hiasan||decoration, ornament|hias
+penciptaan||creation|pencipta
+arahan||direction, guidance|arah
+benturan||collision, clash|bentur
+halangan||obstacle, hindrance|halang
+pencucian||washing, laundering|pencuci
+pendengaran||hearing|pendengar
+omongan||talk, words (colloq.)|omong
+sekolahan||school (colloq.)|sekolah
+pindahan||move, relocation|pindah
+sengatan||sting, shock|sengat
+dekan||dean
+ciptaan||creation, work|cipta
+cucian||laundry, washing|cuci
+batuan||rock, rock formation|batu
+tunjangan||allowance, benefit|tunjang
+pensiunan||pensioner, retiree|pensiun
+pancaran||emission, radiance|pancar
+tamparan||slap|tampar
+lanjutan||continuation, sequel|lanjut
+semprotan||spray|semprot
+lusinan||dozens of|lusin
+manisan||sweets, candied fruit|manis
+gemetaran||trembling, shaking|gemetar
+bawahan||subordinate|bawah
+parkiran||car park|parkir
+ulasan||review, commentary|ulas
+pemadaman||blackout, extinguishing|pemadam
+dakwaan||charge, indictment|dakwa
+kepingan||fragment, piece|keping
+ukiran||carving, engraving|ukir
+putusan||decision, verdict|putus
+bantalan||pad, cushion, bearing|bantal
+cobaan||trial, ordeal|coba
+pusaran||whirl, vortex|pusar
+bisikan||whisper|bisik
+kaitan||link, connection|kait
+bacaan||reading, reading matter|baca
+sampingan||side, sideline|samping
+jamuan||banquet, reception|jamu
+singkatan||abbreviation|singkat
+bulanan||monthly|bulan
+penyelundupan||smuggling|penyelundup
+pemindaian||scanning|pemindai
+undian||lottery, draw|undi
+hembusan||gust, puff|hembus
+temuan||finding, discovery|temu
+ejekan||mockery, taunt|ejek
+sewaan||rental|sewa
+susunan||arrangement, structure|susun
+sorotan||spotlight, highlight|sorot
+pasaran||market, market price|pasar
+bualan||boasting, tall tale|bual
+genggaman||grip, grasp|genggam
+belokan||bend, turn|belok
+benjolan||lump, bump|benjol
+tayangan||broadcast, showing|tayang
+tetesan||drop, drip|tetes
+lonjakan||surge, spike|lonjak
+gurauan||joke, banter|gurau
+candaan||joke, banter|canda
+anggapan||assumption, notion|anggap
+pembacaan||reading, recitation|pembaca
+pemukulan||beating, assault|pemukul
+rumahan||home-based, domestic|rumah
+pengetahuan||knowledge|tahu
+kepemilikan||ownership|pemilik
+kepemimpinan||leadership|pemimpin
+perhatikan||to pay attention to, note|hati
+perbaiki||to fix, repair|baik
+perlihatkan||to show, display|lihat
+perkenalkan||to introduce|kenal
+pertunjukkan||to show, demonstrate|tunjuk
+pertahankan||to defend, maintain|tahan
+persiapkan||to prepare|siap
+pertimbangkan||to consider|timbang
+peringatkan||to warn|ingat
+perlakukan||to treat (someone)|laku
+pertaruhkan||to stake, gamble|taruh
+perjuangkan||to fight for|juang
+perkirakan||to estimate|kira
+persembahkan||to present, dedicate|sembah
+permainkan||to toy with, play with|main
+terjadi||to happen, occur|jadi
+terlihat||to look, appear, be visible|lihat
+terakhir||last, final|akhir
+terbaik||best|baik
+terlambat||late|lambat
+terluka||injured, wounded|luka
+tersebut||the aforementioned, said|sebut
+terbuka||open|buka
+tertawa||to laugh|tawa
+tertarik||interested; pulled|tarik
+terdengar||to be heard, sound|dengar
+terkenal||famous, well-known|kenal
+terserah||up to you, whatever|serah
+termasuk||including|masuk
+terasa||to feel, be felt|rasa
+terbesar||biggest, largest|besar
+terbakar||burnt, on fire|bakar
+terbunuh||killed|bunuh
+terkadang||sometimes|kadang
+tergantung||depends on; hanging|gantung
+terutama||especially, mainly|utama
+tertangkap||caught, captured|tangkap
+tersenyum||to smile|senyum
+terburuk||worst|buruk
+tertentu||certain, specific|tentu
+terkena||struck by, affected|kena
+tertidur||to fall asleep|tidur
+terhormat||honourable, respected|hormat
+tersesat||lost, gone astray|sesat
+terkunci||locked|kunci
+tertutup||closed, covered|tutup
+terbiasa||accustomed, used to|biasa
+tertembak||shot|tembak
+tertulis||written|tulis
+tersembunyi||hidden|sembunyi
+terpisah||separated, apart|pisah
+terlebih||moreover, especially|lebih
+terhubung||connected|hubung
+terkesan||impressed; seeming|kesan
+terbangun||to wake up suddenly|bangun
+terbaru||newest, latest|baru
+tertinggi||highest, tallest|tinggi
+terjatuh||to fall down|jatuh
+terikat||bound, tied|ikat
+terpenting||most important|penting
+terpaksa||forced to, compelled|paksa
+terbatas||limited|batas
+terbuat||made of|buat
+terkutuk||cursed, damned|kutuk
+terpilih||chosen, elected|pilih
+terinfeksi||infected|infeksi
+tersinggung||offended|singgung
+terdapat||there is, is found|dapat
+terganggu||disturbed, disrupted|ganggu
+terkait||related, linked|kait
+terhebat||greatest|hebat
+terdekat||nearest|dekat
+terlepas||detached; regardless of|lepas
+terjaga||awake; guarded|jaga
+terlahir||born|lahir
+tertinggal||left behind|tinggal
+tegang||tense, taut
+terduga||expected, suspected|duga
+terbalik||upside down, reversed|balik
+tersedia||available|sedia
+terkuat||strongest|kuat
+terbukti||proven|bukti
+terletak||located, situated|letak
+terbenam||sunken, submerged|benam
+terperangkap||trapped|perangkap
+terdaftar||registered|daftar
+tersebar||scattered, widespread|sebar
+terlarang||forbidden, banned|larang
+tertekan||pressured, depressed|tekan
+terkendali||under control|kendali
+tertipu||deceived, fooled|tipu
+tercinta||beloved|cinta
+terlatih||trained|latih
+tersayang||dearest, beloved|sayang
+tercepat||fastest|cepat
+tertua||oldest, eldest|tua
+terungkap||revealed, uncovered|ungkap
+terancam||threatened, endangered|ancam
+terputus||cut off, disconnected|putus
+tersentuh||touched|sentuh
+terpikir||to come to mind|pikir
+teringat||to be reminded, recall|ingat
+terkubur||buried|kubur
+terjual||sold|jual
+terbaring||lying down|baring
+terpesona||enchanted, fascinated|pesona
+terisi||filled|isi
+teratur||orderly, regular|atur
+tegak||upright, erect
+terpengaruh||influenced, affected|pengaruh
+terdeteksi||detected|deteksi
+terwujud||realised, materialised|wujud
+tergelincir||slipped, skidded|gelincir
+tetua||elder|tua
+tersangkut||caught, snagged|sangkut
+tersandung||to trip, stumble|sandung
+terdiri||to consist of|diri
+terbuang||discarded, wasted|buang
+terbawa||carried away|bawa
+terhitung||counted, reckoned|hitung
+terpasang||installed, fitted|pasang
+terindah||most beautiful|indah
+terkurung||confined, caged|kurung
+terjawab||answered|jawab
+terdampar||stranded, washed ashore|dampar
+terbentuk||formed|bentuk
+teratas||topmost|atas
+tersambung||connected|sambung
+terpercaya||trusted, reliable|percaya
+terlintas||to cross one's mind|lintas
+tercatat||recorded, registered|catat
+tercantik||most beautiful|cantik
+tersimpan||stored, kept|simpan
+terulang||repeated|ulang
+tertunda||postponed, delayed|tunda
+terdalam||deepest|dalam
+terguncang||shaken|guncang
+terpukul||struck; devastated|pukul
+tersendiri||separate, its own|sendiri
+terbentur||to collide with, hit|bentur
+tersiksa||tormented|siksa
+tergoda||tempted|goda
+terinspirasi||inspired|inspirasi
+tertahan||held back, restrained|tahan
+terbongkar||uncovered, exposed|bongkar
+terjepit||pinched, stuck|jepit
+tertabrak||hit by a vehicle|tabrak
+terisolasi||isolated|isolasi
+terkecil||smallest|kecil
+tergores||scratched|gores
+tergeletak||lying sprawled|geletak
+terbelakang||backward, retarded|belakang
+terbebas||freed, liberated|bebas
+tertanam||planted, embedded|tanam
+terkaya||richest|kaya
+termuda||youngest|muda
+terhenti||halted, stopped|henti
+terorganisir||organised|organisir
+tercapai||achieved, attained|capai
+terhapus||erased, deleted|hapus
+terendah||lowest|rendah
+terpotong||cut off|potong
+tertusuk||pierced, stabbed|tusuk
+tercekik||choked, strangled|cekik
+tersulit||most difficult|sulit
+tertular||infected, caught (a disease)|tular
+tercipta||created|cipta
+ternilai||valued (tak ternilai: priceless)|nilai
+tertuju||aimed at, directed to|tuju
+terlempar||thrown, flung|lempar
+terkini||latest, current|kini
+terdepan||foremost, leading|depan
+terhindar||avoided, spared|hindar
+tersadar||to come to one's senses|sadar
+terangkat||lifted, raised|angkat
+terkontaminasi||contaminated|kontaminasi
+terlacak||traced, tracked|lacak
+terdiam||to fall silent|diam
+terpojok||cornered|pojok
+terberat||heaviest|berat
+terbodoh||stupidest|bodoh
+tercium||smelled; detected|cium
+terbelah||split, divided|belah
+terkirim||sent|kirim
+terlewat||missed, passed over|lewat
+memiliki||to own, possess|milik
+melalui||through, via; to go through|lalu
+mengetahui||to know, be aware of|tahu
+melindungi||to protect|lindung
+menyukai||to like|suka
+mengikuti||to follow, take part in|ikut
+melewati||to pass, go past|lewat
+mencintai||to love|cinta
+mempunyai||to have, possess|punya
+menyadari||to realise|sadar
+menghubungi||to contact|hubung
+menemui||to meet with|temu
+memahami||to understand|paham
+menghadapi||to face, confront|hadap
+menyakiti||to hurt|sakit
+menghargai||to appreciate, value|harga
+mengawasi||to supervise, watch over|awas
+memasuki||to enter|masuk
+mempercayai||to trust, believe in|percaya
+menjalani||to undergo, live through|jalan
+mendekati||to approach|dekat
+melayani||to serve, attend to|layan
+mengunjungi||to visit|kunjung
+menghormati||to respect, honour|hormat
+memenuhi||to fulfil, meet|penuh
+menghindari||to avoid|hindar
+mengakhiri||to end, conclude|akhir
+menguasai||to master, control|kuasa
+mengatasi||to overcome, deal with|atas
+menikahi||to marry (someone)|nikah
+mempelajari||to study, learn about|ajar
+menyelidiki||to investigate|selidik
+menutupi||to cover up|tutup
+mengenali||to recognise|kenal
+melukai||to injure, wound|luka
+menghalangi||to block, obstruct|halang
+mengkhianati||to betray|khianat
+mempengaruhi||to influence, affect|pengaruh
+melebihi||to exceed|lebih
+mengurangi||to reduce|kurang
+mengendarai||to drive, ride|kendara
+mewakili||to represent|wakil
+mengajari||to teach (someone)|ajar
+melintasi||to cross|lintas
+menghadiri||to attend|hadir
+menakuti||to frighten, scare|takut
+menyetujui||to approve, agree to|setuju
+menyayangi||to cherish, care for|sayang
+mendatangi||to come to, visit|datang
+menghabisi||to finish off, kill|habis
+memberkati||to bless|berkat
+mematuhi||to obey, comply with|patuh
+menyeberangi||to cross over|seberang
+mengelilingi||to surround, go around|keliling
+menaiki||to climb, board|naik
+mengagumi||to admire|kagum
+melampaui||to surpass, exceed|lampau
+menepati||to keep (a promise)|tepat
+memukuli||to beat repeatedly|pukul
+mengobati||to treat, medicate|obat
+mengampuni||to pardon, forgive|ampun
+ampuni|5|to forgive|ampun|v.
+diampuni|5|to be forgiven|ampun|v.
+menembaki||to shoot at repeatedly|tembak
+meracuni||to poison|racun
+menemani||to accompany|teman
+menandai||to mark|tanda
+menanggapi||to respond to|anggap
+meniduri||to sleep with|tidur
+menyusuri||to go along, follow|susur
+mencurigai||to suspect|curiga
+mewarisi||to inherit|waris
+menjelajahi||to explore|jelajah
+mengurusi||to deal with, handle|urus
+memerangi||to fight against, combat|perang
+menuruti||to comply with, obey|urut
+mengencani||to date|kencan
+membohongi||to lie to|bohong
+mendapati||to find, discover|dapat
+mengotori||to dirty, soil|kotor
+menjauhi||to keep away from|jauh
+menghakimi||to judge|hakim
+membodohi||to fool, dupe|bodoh
+mengasihi||to love, show compassion|kasih
+mengulangi||to repeat|ulang
+membiayai||to finance, fund|biaya
+menanyai||to question, interrogate|tanya
+menuruni||to descend, go down|turun
+mencicipi||to taste, sample|cicip
+menghantui||to haunt|hantu
+mewawancarai||to interview|wawancara
+melunasi||to pay off|lunas
+membatasi||to limit, restrict|batas
+merasuki||to possess (of a spirit)|rasuk
+meyakini||to be convinced of|yakin
+menempati||to occupy|tempat
+mencampuri||to interfere with|campur
+menduduki||to occupy, sit on|duduk
+menelusuri||to trace, follow up|telusur
+melengkapi||to complete, equip|lengkap
+membuntuti||to tail, follow|buntut
+mengitari||to circle, go around|kitar
+mendahului||to precede, overtake|dahulu
+melompati||to jump over|lompat
+menerangi||to illuminate, light up|terang
+mengelabui||to deceive, trick|kelabu
+meliputi||to cover, include|liput
+menamai||to name|nama
+menyebrangi||to cross over (colloq.)|sebrang
+mengirimi||to send to|kirim
+memandangi||to gaze at|pandang
+mengasihani||to pity|kasihan
+melucuti||to strip, disarm|lucut
+membanjiri||to flood, inundate|banjir
+mendanai||to fund|dana
+menodai||to stain, taint|noda
+menghampiri||to approach, go up to|hampir
+memarahi||to scold|marah
+menghianati||to betray|khianat
+menyertai||to accompany|serta
+mengabari||to inform, notify|kabar
+kelabu||grey; deceptive
+begitu||so, like that, that much
+berada||to be located; well-off|ada
+bertemu||to meet|temu
+bekerja||to work|kerja
+berpikir||to think|pikir
+berbicara||to speak, talk|bicara
+berhasil||to succeed|hasil
+berdua||the two of us, as a pair|dua
+berarti||to mean; meaningful|arti
+berjalan||to walk; to run (of a process)|jalan
+bermain||to play|main
+berakhir||to end|akhir
+berubah||to change|ubah
+bertanya||to ask|tanya
+berbeda||to differ, be different|beda
+berharap||to hope|harap
+berkata||to say|kata
+berusaha||to try, make an effort|usaha
+belajar||to learn, study|ajar
+bercanda||to joke|canda
+beruntung||lucky, fortunate|untung
+berbohong||to lie|bohong
+begini||like this, this way
+berbahaya||dangerous|bahaya
+bersalah||guilty, at fault|salah
+bergabung||to join|gabung
+berjanji||to promise|janji
+berguna||useful|guna
+bernama||named, called|nama
+bersumpah||to swear, take an oath|sumpah
+berasal||to originate from|asal
+berhubungan||to be related, connected|hubungan
+bertanggung||to be responsible (bertanggung jawab)|tanggung
+bermaksud||to intend|maksud
+berharga||valuable, precious|harga
+berbuat||to do, act|buat
+bercinta||to make love|cinta
+berteriak||to shout, yell|teriak
+berterima||to be accepted (berterima kasih)|terima
+berlari||to run|lari
+berdoa||to pray|doa
+bersiap||to get ready|siap
+bersedia||to be willing, ready|sedia
+berlatih||to practise, train|latih
+berteman||to be friends|teman
+berencana||to plan|rencana
+berdarah||bleeding; of the blood|darah
+bernyanyi||to sing|nyanyi
+bermimpi||to dream|mimpi
+bertaruh||to bet|taruh
+berusia||to be aged|usia
+berkumpul||to gather, assemble|kumpul
+berlangsung||to take place, last|langsung
+berumur||to be aged|umur
+berlalu||to pass by (of time)|lalu
+berburu||to hunt|buru
+berkelahi||to fight, brawl|kelahi
+berpakaian||to be dressed|pakaian
+berhak||to have the right|hak
+berfungsi||to function|fungsi
+berurusan||to deal with|urusan
+berbalik||to turn around|balik
+berhutang||to be in debt|hutang
+beristirahat||to rest|istirahat
+berbaring||to lie down|baring
+bernapas||to breathe|napas
+berputar||to spin, rotate|putar
+berlaku||to apply, be in force|laku
+berikut||following, next|ikut
+bersenjata||armed|senjata
+bersemangat||enthusiastic, spirited|semangat
+berkencan||to go on a date|kencan
+berperang||to wage war|perang
+berutang||to owe, be in debt|utang
+berniat||to intend|niat
+bertugas||to be on duty|tugas
+bersinar||to shine|sinar
+berduka||to mourn, grieve|duka
+bernafas||to breathe|nafas
+bertingkah||to act up, behave oddly|tingkah
+berpisah||to part, separate|pisah
+berdansa||to dance|dansa
+berlutut||to kneel|lutut
+bercerita||to tell a story|cerita
+berisi||to contain|isi
+bermasalah||problematic|masalah
+bertempur||to fight, battle|tempur
+bertiga||the three of us|tiga
+berlayar||to sail|layar
+bertambah||to increase|tambah
+berbakat||talented|bakat
+berkuasa||to be in power|kuasa
+berfikir||to think|fikir
+bersatu||to unite|satu
+beraksi||to take action, perform|aksi
+berwarna||coloured|warna
+berkeliling||to go around|keliling
+bergantung||to depend on|gantung
+berdebat||to debate|debat
+berjumpa||to meet|jumpa
+bercerai||to divorce|cerai
+bersyukur||to be grateful|syukur
+berkomunikasi||to communicate|komunikasi
+berdosa||sinful, to sin|dosa
+berhadapan||to face each other|hadapan
+berpesta||to party|pesta
+berlanjut||to continue|lanjut
+bernilai||valuable, worth|nilai
+berkunjung||to visit|kunjung
+berlindung||to take shelter|lindung
+berdaya||to have power (tidak berdaya: helpless)|daya
+berbunyi||to sound, ring|bunyi
+berkendara||to drive|kendara
+bergaul||to socialise|gaul
+bersaudara||to be siblings|saudara
+bersantai||to relax|santai
+berwenang||authorised, competent|wenang
+bersaksi||to testify|saksi
+beracun||poisonous|racun
+berpikiran||to be minded|pikiran
+berkemas||to pack up|kemas
+berdering||to ring|dering
+bereaksi||to react|reaksi
+berpaling||to turn away|paling
+berulang||to recur, repeat|ulang
+berbaris||to line up, march|baris
+berambut||to have hair|rambut
+berlibur||to go on holiday|libur
+beralih||to switch, shift|alih
+berkaitan||to be related|kaitan
+bersorak||to cheer|sorak
+berbisnis||to do business|bisnis
+berantai||chained, in a chain|rantai
+berkeringat||to sweat|keringat
+beroperasi||to operate|operasi
+berdetak||to beat, tick|detak
+bersaing||to compete|saing
+berselingkuh||to have an affair|selingkuh
+berkurang||to decrease|kurang
+bertunangan||to be engaged|tunangan
+bertukar||to exchange|tukar
+berpengaruh||influential|pengaruh
+berpengalaman||experienced|pengalaman
+berkenalan||to get acquainted|kenalan
+berbisik||to whisper|bisik
+berbau||to smell of|bau
+berciuman||to kiss each other|ciuman
+berbahasa||to speak (a language)|bahasa
+beresiko||risky|resiko
+bernegosiasi||to negotiate|negosiasi
+bersahabat||friendly|sahabat
+bersedih||to be sad|sedih
+berasumsi||to assume|asumsi
+berpencar||to scatter, split up|pencar
+berbentuk||shaped like, in the form of|bentuk
+berperilaku||to behave|perilaku
+berkorban||to sacrifice|korban
+berkemah||to camp|kemah
+berpindah||to move, relocate|pindah
+berpihak||to take sides|pihak
+berbelanja||to shop|belanja
+belanda||the Netherlands, Dutch
+berkedip||to blink|kedip
+bergetar||to tremble, vibrate|getar
+benih||seed
+berbulu||furry, hairy|bulu
+berkonsentrasi||to concentrate|konsentrasi
+berhati||to be hearted (berhati-hati: careful)|hati
+bergurau||to joke|gurau
+berpegangan||to hold on|pegangan
+bertanding||to compete|tanding
+berkuda||to ride a horse|kuda
+berjudi||to gamble|judi
+berperan||to play a role|peran
+bercakap||to converse|cakap
+berganti||to change, switch|ganti
+berdamai||to make peace|damai
+berjaga||to keep watch|jaga
+berbincang||to chat|bincang
+bergairah||passionate|gairah
+bersuara||to speak up, make a sound|suara
+berapi||fiery, flaming|api
+berterimakasih||to thank|terimakasih
+bersabar||to be patient|sabar
+berkulit||to have skin (of a colour)|kulit
+bersifat||to be of a nature|sifat
+berpendapat||to be of the opinion|pendapat
+berpartisipasi||to participate|partisipasi
+berakting||to act|akting
+berisiko||risky|risiko
+bersenang||to enjoy oneself|senang
+beserta||along with|serta
+bermanfaat||beneficial, useful|manfaat
+berpegang||to hold on to|pegang
+berkomitmen||committed|komitmen
+berempat||the four of us|empat
+berdiam||to stay, dwell|diam
+berkelas||classy|kelas
+berpacaran||to be dating|pacaran
+beradaptasi||to adapt|adaptasi
+becanda||to joke (colloq.)|canda
+beredar||to circulate|edar
+berdandan||to dress up|dandan
+bertepuk||to clap|tepuk
+bertopeng||masked|topeng
+bermula||to begin|mula
+bergoyang||to sway, shake|goyang
+bersandar||to lean|sandar
+berfoto||to take photos|foto
+berkilau||to sparkle|kilau
+bebatuan||rocks|batu
+beranggapan||to assume|anggapan
+berujung||to end in|ujung
+bermata||to have eyes|mata
+bersekolah||to attend school|sekolah
+bergaya||stylish, to pose|gaya
+berkhianat||to betray|khianat
+bersekongkol||to conspire|sekongkol
+berbaur||to mingle|baur
+berhalusinasi||to hallucinate|halusinasi
+berinvestasi||to invest|investasi
+berdebar||to pound (of the heart)|debar
+bersejarah||historic|sejarah
+berjarak||to be at a distance of|jarak
+bertahun||for years|tahun
+beralasan||reasonable, justified|alasan
+berpelukan||to hug each other|pelukan
+berkarat||rusty|karat
+bersyarat||conditional|syarat
+bertekad||determined|tekad
+berjabat||to shake (hands)|jabat
+bercahaya||glowing, luminous|cahaya
+berevolusi||to evolve|revolusi
+bersiul||to whistle|siul
+berbelok||to turn|belok
+bermakna||meaningful|makna
+berpendidikan||educated|pendidikan
+berkualitas||of quality|kualitas
+bertiup||to blow (of wind)|tiup
+berupa||in the form of|rupa
+bergumam||to mutter|gumam
+berunding||to confer, negotiate|runding
+berdasar||based on|dasar
+bermalam||to stay the night|malam
+berkerja||to work (variant of bekerja)|kerja
+berperasaan||to have feelings|perasaan
+bercumbu||to flirt, caress|cumbu
+bertujuan||to aim to|tujuan
+berminat||interested|minat
+berbasis||based on|basis
+berakibat||to result in|akibat
+bersepeda||to cycle|sepeda
+berawal||to begin|awal
+berbaik||to be good (berbaik hati)|baik
+berhantu||haunted|hantu
+berbahagia||to be happy|bahagia
+berolahraga||to exercise, play sport|olahraga
+berdiskusi||to discuss|diskusi
+berkelana||to wander|kelana
+berdampak||to have an impact|dampak
+bergeser||to shift|geser
+berjudul||titled, entitled|judul
+berkomentar||to comment|komentar
+berukuran||measuring, sized|ukuran
+berpasangan||paired up|pasangan
+berguling||to roll|guling
+berpotensi||to have potential|potensi
+bercampur||mixed|campur
+berandal||hooligan, delinquent
+berlabuh||to dock, anchor|labuh
+berinteraksi||to interact|interaksi
+berpatroli||to patrol|patroli
+bergembira||to rejoice|gembira
+bernasib||to have a fate|nasib
+bergulir||to roll, scroll|gulir
+berpidato||to give a speech|pidato
+beriman||to have faith|iman
+bermoral||moral|moral
+bersimpati||to sympathise|simpati
+berwajah||to have a face|wajah
+berantah||unknown (antah berantah)|antah
+berseragam||uniformed|seragam
+berkaki||to have legs|kaki
+bercukur||to shave|cukur
+bertobat||to repent|tobat
+berantem||to fight (colloq.)|antem
+berspekulasi||to speculate|spekulasi
+bertenaga||powerful|tenaga
+berbulan||for months|bulan
+bertahap||gradual, in stages|tahap
+berlomba||to race, compete|lomba
+berupaya||to strive|upaya
+berseru||to exclaim|seru
+berkhayal||to fantasise|khayal
+berjemur||to sunbathe|jemur
+berayun||to swing|ayun
+bersusah||to take trouble|susah
+bertabrakan||to collide|tabrakan
+berasa||to feel, taste|rasa
+berdebu||dusty|debu
+berhembus||to blow|hembus
+berbaju||wearing a shirt|baju
+bereksperimen||to experiment|eksperimen
+berlapis||layered|lapis
+bersekutu||to ally|sekutu
+berdagang||to trade|dagang
+berminyak||oily|minyak
+bertumbuh||to grow|tumbuh
+bermurah||to be generous (bermurah hati)|murah
+berotot||muscular|otot
+bermutasi||to mutate|mutasi
+bergulat||to wrestle|gulat
+berhubung||since, because of|hubung
+bermuka||to have a face (bermuka dua: two-faced)|muka
+beragam||varied, diverse|ragam
+bersarang||to nest|sarang
+berpura||to pretend (berpura-pura)|pura
+berfokus||to focus|fokus
+berkepala||headed|kepala
+bersenandung||to hum|senandung
+mengatakan||to say, state|kata
+menemukan||to find, discover|temu
+mendapatkan||to get, obtain|dapat
+meninggalkan||to leave, abandon|tinggal
+memberikan||to give|beri
+menggunakan||to use|guna
+menyelamatkan||to save, rescue|selamat
+menyenangkan||pleasant, enjoyable|senang
+membiarkan||to let, allow|biar
+membutuhkan||to need, require|butuh
+menunjukkan||to show, indicate|unjuk
+menghancurkan||to destroy|hancur
+memikirkan||to think about|pikir
+memutuskan||to decide; to sever|putus
+mendengarkan||to listen to|dengar
+merasakan||to feel, experience|rasa
+menghabiskan||to spend, use up|habis
+mengerikan||terrifying, horrific|ngeri
+menghentikan||to stop (something)|henti
+menyelesaikan||to finish, resolve|selesai
+menginginkan||to want, desire|ingin
+melarikan||to run off with (melarikan diri: to flee)|lari
+merupakan||to be, constitute|rupa
+memastikan||to make sure, ensure|pasti
+menjelaskan||to explain|jelas
+mengalahkan||to defeat|kalah
+menempatkan||to place, position|tempat
+membicarakan||to discuss, talk about|bicara
+menyedihkan||sad, pitiful|sedih
+mengeluarkan||to take out, issue, spend|keluar
+menyebabkan||to cause|sebab
+menjalankan||to run, operate|jalan
+melupakan||to forget|lupa
+membersihkan||to clean|bersih
+melepaskan||to release, let go|lepas
+menakutkan||frightening|takut
+memenangkan||to win|menang
+membuktikan||to prove|bukti
+mengucapkan||to utter, express|ucap
+mengirimkan||to send|kirim
+menceritakan||to tell, narrate|cerita
+menyerahkan||to hand over, surrender|serah
+menyebalkan||annoying|sebal
+memalukan||embarrassing, shameful|malu
+menanyakan||to ask about|tanya
+mengagumkan||amazing, admirable|kagum
+mengumpulkan||to collect, gather|kumpul
+melanjutkan||to continue|lanjut
+mematikan||to turn off, kill; deadly|mati
+menawarkan||to offer|tawar
+mengendalikan||to control|kendali
+mengembalikan||to return, give back|kembali
+memerlukan||to require|perlu
+menghasilkan||to produce, yield|hasil
+menyakitkan||painful, hurtful|sakit
+memainkan||to play (an instrument, a role)|main
+meletakkan||to put, place|letak
+meyakinkan||to convince; convincing|yakin
+melewatkan||to miss, skip|lewat
+membosankan||boring|bosan
+memecahkan||to break; to solve|pecah
+mengacaukan||to mess up, disrupt|kacau
+melaporkan||to report|lapor
+mengerjakan||to work on, do|kerja
+mengharapkan||to hope for, expect|harap
+menyalahkan||to blame|salah
+mengejutkan||surprising, shocking|kejut
+menyingkirkan||to get rid of|singkir
+menjatuhkan||to drop, bring down|jatuh
+menyaksikan||to witness|saksi
+menyiapkan||to prepare|siap
+merencanakan||to plan|rencana
+menjijikkan||disgusting|jijik
+menyatakan||to declare, state|nyata
+mengadakan||to hold, organise|ada
+merindukan||to miss, long for|rindu
+merayakan||to celebrate|raya
+menyebutkan||to mention|sebut
+memasukkan||to insert, put in|masuk
+mengingatkan||to remind|ingat
+memindahkan||to move, transfer|pindah
+menentukan||to determine|tentu
+membebaskan||to free, liberate|bebas
+menghilangkan||to remove, eliminate|hilang
+meningkatkan||to increase, improve|tingkat
+mengesankan||impressive|kesan
+meledakkan||to blow up, detonate|ledak
+membahayakan||to endanger|bahaya
+melemparkan||to throw|lempar
+mengabaikan||to ignore, neglect|abai
+mengajarkan||to teach|ajar
+mengorbankan||to sacrifice|korban
+memungkinkan||to enable, make possible|mungkin
+mematahkan||to break, snap|patah
+memaafkan||to forgive|maaf
+melahirkan||to give birth to|lahir
+membatalkan||to cancel|batal
+melibatkan||to involve|libat
+memanfaatkan||to make use of, exploit|manfaat
+menyampaikan||to convey, deliver|sampai
+menyembuhkan||to cure, heal|sembuh
+mengungkapkan||to reveal, express|ungkap
+mengecewakan||disappointing|kecewa
+menyarankan||to suggest|saran
+menjadikan||to make into|jadi
+menurunkan||to lower, drop off|turun
+membawakan||to bring for, present|bawa
+memerintahkan||to order, command|perintah
+mengkhawatirkan||worrying|khawatir
+menyanyikan||to sing (a song)|nyanyi
+memisahkan||to separate|pisah
+mencurigakan||suspicious|curiga
+menyediakan||to provide|sedia
+mengembangkan||to develop, expand|kembang
+mengalihkan||to divert, shift|alih
+menambahkan||to add|tambah
+menggantikan||to replace|ganti
+menimbulkan||to cause, give rise to|timbul
+menyeramkan||creepy, scary|seram
+menjengkelkan||irritating|jengkel
+menenangkan||to calm, soothe|tenang
+menghubungkan||to connect, link|hubung
+menggambarkan||to describe, depict|gambar
+menjanjikan||to promise; promising|janji
+meragukan||to doubt; doubtful|ragu
+membesarkan||to raise, enlarge|besar
+memberitahukan||to inform, notify|beritahu
+menguntungkan||profitable, advantageous|untung
+membingungkan||confusing|bingung
+menyebarkan||to spread, distribute|sebar
+menghidupkan||to turn on, revive|hidup
+meremehkan||to belittle, underestimate|remeh
+mengizinkan||to permit, allow|izin
+mengandalkan||to rely on|andal
+mengarahkan||to direct, aim|arah
+mengantarkan||to deliver, escort|antar
+menyatukan||to unite|satu
+mempekerjakan||to employ|pekerja
+membangunkan||to wake someone up|bangun
+mengundurkan||to postpone; to resign|undur
+membuatkan||to make for someone|buat
+mengamankan||to secure|aman
+membelikan||to buy for someone|beli
+menetapkan||to establish, fix|tetap
+mengijinkan||to permit (alt. spelling)|ijin
+membereskan||to tidy up, sort out|beres
+menyesuaikan||to adjust, adapt|sesuai
+menuliskan||to write down|tulis
+membangkitkan||to arouse, generate|bangkit
+melelahkan||exhausting|lelah
+memuaskan||satisfying|puas
+melaksanakan||to carry out, implement|laksana
+menjauhkan||to keep away|jauh
+menaikkan||to raise, increase|naik
+mendirikan||to establish, found|diri
+mengaktifkan||to activate|aktif
+menaklukkan||to conquer|takluk
+menembakkan||to fire (a weapon)|tembak
+menampilkan||to display, present|tampil
+merepotkan||troublesome|repot
+menerbangkan||to fly (something)|terbang
+meluncurkan||to launch|luncur
+melumpuhkan||to paralyse, disable|lumpuh
+menyimpulkan||to conclude|simpul
+meneruskan||to continue, pass on|terus
+menumpahkan||to spill|tumpah
+memalsukan||to falsify, forge|palsu
+melainkan||but rather|lain
+memaksakan||to force, impose|paksa
+mewujudkan||to realise, make real|wujud
+menggerakkan||to move, drive|gerak
+memulihkan||to restore, recover|pulih
+merendahkan||to humiliate, lower|rendah
+mendiskusikan||to discuss|diskusi
+menggelikan||amusing, ticklish|geli
+memusnahkan||to annihilate, wipe out|musnah
+merahasiakan||to keep secret|rahasia
+membenarkan||to justify, confirm|benar
+membacakan||to read aloud|baca
+membalikkan||to turn over, reverse|balik
+memimpikan||to dream of|mimpi
+meminjamkan||to lend|pinjam
+menggabungkan||to combine, merge|gabung
+merekomendasikan||to recommend|rekomendasi
+menyegarkan||refreshing|segar
+mengusulkan||to propose|usul
+membunyikan||to sound, play|bunyi
+mengakibatkan||to result in|akibat
+membalaskan||to avenge|balas
+menyajikan||to serve, present|saji
+menyusahkan||to trouble, burden|susah
+membocorkan||to leak|bocor
+menegaskan||to affirm, stress|tegas
+menodongkan||to point (a weapon)|todong
+mengosongkan||to empty, vacate|kosong
+menggemaskan||adorable|gemas
+mencemaskan||worrying|cemas
+meluruskan||to straighten|lurus
+melegakan||relieving|lega
+mencarikan||to find for someone|cari
+menertawakan||to laugh at|tertawa
+membandingkan||to compare|banding
+menewaskan||to kill|tewas
+merugikan||to harm, cause loss|rugi
+melenyapkan||to make disappear|lenyap
+meluangkan||to set aside (time)|luang
+mengemudikan||to drive, steer|kemudi
+meringankan||to lighten, ease|ringan
+menuangkan||to pour|tuang
+mendatangkan||to bring in, import|datang
+mengambilkan||to fetch for someone|ambil
+menerapkan||to apply, implement|terap
+menggagalkan||to thwart, foil|gagal
+mengerahkan||to mobilise, deploy|kerah
+menenggelamkan||to sink, drown|tenggelam
+melemahkan||to weaken|lemah
+menerjemahkan||to translate|terjemah
+menumbuhkan||to grow, cultivate|tumbuh
+menyisakan||to leave over|sisa
+mengabulkan||to grant|kabul
+menyelundupkan||to smuggle|selundup
+memadamkan||to extinguish|padam
+menargetkan||to target|target
+memamerkan||to show off, exhibit|pamer
+menghangatkan||to warm up|hangat
+membagikan||to distribute|bagi
+mengherankan||puzzling, surprising|heran
+menggairahkan||exciting, arousing|gairah
+mengekspresikan||to express|ekspresi
+mempromosikan||to promote|promosi
+menginjakkan||to set foot|injak
+membekukan||to freeze|beku
+mengenalkan||to introduce|kenal
+merapikan||to tidy up|rapi
+menegakkan||to uphold, erect|tegak
+mementingkan||to prioritise|penting
+menerbitkan||to publish|terbit
+mencerminkan||to reflect|cermin
+membanggakan||to make proud|bangga
+menguatkan||to strengthen|kuat
+menegangkan||tense, gripping|tegang
+memancarkan||to emit, broadcast|pancar
+merelakan||to let go willingly|rela
+membiasakan||to accustom|biasa
+menandakan||to indicate, signify|tanda
+menyiarkan||to broadcast|siar
+meramalkan||to predict, foretell|ramal
+menguburkan||to bury|kubur
+memanjakan||to spoil, pamper|manja
+menugaskan||to assign|tugas
+menginformasikan||to inform|informasi
+menyumbangkan||to donate|sumbang
+mengesampingkan||to set aside, disregard|samping
+mendedikasikan||to dedicate|dedikasi
+mendaftarkan||to register|daftar
+memerankan||to play the role of|peran
+memuakkan||sickening, nauseating|muak
+mempercayakan||to entrust|percaya
+meruntuhkan||to bring down, demolish|runtuh
+menyulitkan||to complicate|sulit
+menggulingkan||to overthrow, roll|guling
+mencalonkan||to nominate|calon
+melecehkan||to harass, demean|leceh
+menjernihkan||to clarify, purify|jernih
+memenjarakan||to imprison|penjara
+meloloskan||to let through, pass|lolos
+mengagetkan||startling|kaget
+melambaikan||to wave|lambai
+mendaratkan||to land (something)|darat
+menyalurkan||to channel, distribute|salur
+menanamkan||to instil, plant|tanam
+membahagiakan||to make happy|bahagia
+menyesatkan||misleading|sesat
+menjinakkan||to tame|jinak
+menyuntikkan||to inject|suntik
+membolehkan||to allow|boleh
+mengayunkan||to swing|ayun
+mencocokkan||to match up|cocok
+mengabdikan||to devote|abdi
+menikahkan||to marry off|nikah
+mengeringkan||to dry|kering
+menampakkan||to reveal, show|tampak
+menyempurnakan||to perfect|sempurna
+meneteskan||to drip, shed|tetes
+menggandakan||to double, duplicate|ganda
+menggembirakan||delightful|gembira
+meredakan||to ease, calm|reda
+menempelkan||to stick, affix|tempel
+mengoperasikan||to operate|operasi
+mengusahakan||to strive for|usaha
+mendefinisikan||to define|definisi
+memanaskan||to heat|panas
+melampiaskan||to vent|lampias
+membukakan||to open for someone|buka

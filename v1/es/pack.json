@@ -1,0 +1,31 @@
+{
+  "id": "es",
+  "version": "1.1.0",
+  "files": {
+    "dict": {
+      "path": "dict.txt",
+      "license": "unencumbered",
+      "sha256": "a7c2e3311a7249d1846069afa1e7c268ad7e7b0f04262b2d398dbd9d58619c25"
+    },
+    "ranks": {
+      "path": "ranks.txt",
+      "license": "CC-BY-SA-4.0",
+      "sha256": "ab00af48dd1f11df0f0b0c263511a4b9cf31682867d07752c1389480ba68ff04"
+    },
+    "lemmas": {
+      "path": "lemmas.txt",
+      "license": "ODbL-1.0",
+      "sha256": "9c338d3493c3834966a7005258b090ff4013722bbd74db209cfec7185144bbcd"
+    },
+    "phrases": {
+      "path": "phrases.txt",
+      "license": "unencumbered",
+      "sha256": "33a0b9c3cc75bda018ea44cdfb24a2b7b9cecdab3b6318fd3395b340e402e732"
+    },
+    "sample": {
+      "path": "sample.txt",
+      "license": "unencumbered",
+      "sha256": "affb5fe1a2f4ac7520f97d45f199da3ec98f51f10afbefdfe56ffc911b0047b1"
+    }
+  }
+}

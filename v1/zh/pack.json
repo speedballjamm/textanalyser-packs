@@ -1,0 +1,26 @@
+{
+  "id": "zh",
+  "version": "1.1.0",
+  "files": {
+    "dict": {
+      "path": "dict.txt",
+      "license": "unencumbered",
+      "sha256": "72ebc6c1d57f27de9cac256488cc9b955bf2882ba64740158df4b6aa1ab45939"
+    },
+    "ranks": {
+      "path": "ranks.txt",
+      "license": "CC-BY-SA-4.0",
+      "sha256": "46e5ca79cbf1f94074f82ff7ce2fa6ad5ee6d6ac5fc824e08636298c59533f2b"
+    },
+    "readings": {
+      "path": "readings.txt",
+      "license": "CC-BY-SA-4.0",
+      "sha256": "5feb826220edd930097b28a5886b79a1b10ef8536beebc3ede43e44cc3f6c5b6"
+    },
+    "sample": {
+      "path": "sample.txt",
+      "license": "unencumbered",
+      "sha256": "b54bc491ae4a93ede1ffeb9c6ef244d6fdf349bc3cbfa5f5904d819b718591bc"
+    }
+  }
+}
