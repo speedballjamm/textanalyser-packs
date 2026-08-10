@@ -1,0 +1,31 @@
+{
+  "id": "pt",
+  "version": "1.1.2",
+  "files": {
+    "lex": {
+      "path": "lex.txt",
+      "license": "unencumbered",
+      "sha256": "9cb2ab4e735d00c2be338c49eb1405724ec41bc6aa6a8b4c4122c04ceeff6390"
+    },
+    "gloss.en": {
+      "path": "gloss.en.txt",
+      "license": "unencumbered",
+      "sha256": "64af89061290ca55003e4c445a24a2d3634ae065d101efc96de6d8487f0ba896"
+    },
+    "ranks": {
+      "path": "ranks.txt",
+      "license": "CC-BY-SA-4.0",
+      "sha256": "6820a723cd4103fef41d5e08dbd9ec6ad72c0e5f971b493a3a5075039f91d57d"
+    },
+    "lemmas": {
+      "path": "lemmas.txt",
+      "license": "ODbL-1.0",
+      "sha256": "2e829117e84b88e202f173671783dc1126674117ca5aa85b25d037c67cd2bb4a"
+    },
+    "sample": {
+      "path": "sample.txt",
+      "license": "unencumbered",
+      "sha256": "d56853d5aa6b10cb95ab93c6d21b0fd8a3e8d557dc9733db95372e1cbaf3dd47"
+    }
+  }
+}

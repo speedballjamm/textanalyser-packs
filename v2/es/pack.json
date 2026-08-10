@@ -1,0 +1,36 @@
+{
+  "id": "es",
+  "version": "1.1.3",
+  "files": {
+    "lex": {
+      "path": "lex.txt",
+      "license": "unencumbered",
+      "sha256": "3a3e5f35e7f44f82b4299a8eb8f5a263f000e9d01ffa8c7a23258de1bea0fbb3"
+    },
+    "gloss.en": {
+      "path": "gloss.en.txt",
+      "license": "unencumbered",
+      "sha256": "ccbec2b6548963483820572331905af27335de73daf88157a570eb3f1ca446fc"
+    },
+    "ranks": {
+      "path": "ranks.txt",
+      "license": "CC-BY-SA-4.0",
+      "sha256": "ab00af48dd1f11df0f0b0c263511a4b9cf31682867d07752c1389480ba68ff04"
+    },
+    "lemmas": {
+      "path": "lemmas.txt",
+      "license": "ODbL-1.0",
+      "sha256": "9c338d3493c3834966a7005258b090ff4013722bbd74db209cfec7185144bbcd"
+    },
+    "sample": {
+      "path": "sample.txt",
+      "license": "unencumbered",
+      "sha256": "affb5fe1a2f4ac7520f97d45f199da3ec98f51f10afbefdfe56ffc911b0047b1"
+    },
+    "phrases": {
+      "path": "phrases.txt",
+      "license": "unencumbered",
+      "sha256": "33a0b9c3cc75bda018ea44cdfb24a2b7b9cecdab3b6318fd3395b340e402e732"
+    }
+  }
+}
