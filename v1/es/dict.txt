@@ -2231,7 +2231,7 @@ diles||tell them|decir
 dibujo||drawing||nm
 muera||may I/he/she die|morir
 negativo||negative
-coma||coma||nm
+coma||coma (medical); eat! (formal), that he/she/it eat; comma||nmf
 colina||hill||nf
 clínica||clinic||nf
 exagerar||to exaggerate
