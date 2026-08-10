@@ -7,7 +7,7 @@ correction ships as a file rather than as a new build of the app.
 | --- | --- | --- |
 | es | 1.1.1 | `v1/es/` |
 | fr | 1.1.0 | `v1/fr/` |
-| id | 1.1.0 | `v1/id/` |
+| id | 1.1.1 | `v1/id/` |
 | pt | 1.1.0 | `v1/pt/` |
 | zh | 1.1.0 | `v1/zh/` |
 

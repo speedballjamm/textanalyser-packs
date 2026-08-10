@@ -1,16 +1,16 @@
 {
   "id": "id",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "files": {
     "dict": {
       "path": "dict.txt",
       "license": "unencumbered",
-      "sha256": "25eec13e69b0786d32c7b8f3ff6270f21272715f828b78d061905c098ab49acd"
+      "sha256": "42e01d85d9e19c47efa1476de41a8761e1ba9930f5303a760a1ad67efc69a0be"
     },
     "ranks": {
       "path": "ranks.txt",
       "license": "CC-BY-SA-4.0",
-      "sha256": "e06953ce718bcb5737116e115c1c4377d8ece30411cca40ff9c4eda4cb583f45"
+      "sha256": "7524c13e3c1f47457b3a3a205116cbb7b8557734c266af7711912fecb2f43456"
     },
     "sample": {
       "path": "sample.txt",
