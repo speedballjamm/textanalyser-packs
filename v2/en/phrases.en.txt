@@ -1,0 +1,131 @@
+# What each English phrase in `phrases.txt` means, in English.
+#
+# Format: pattern|gloss — joined to `phrases.txt` on the pattern. A pattern
+# this file does not explain is not underlined at all, so a translation in
+# progress simply shows fewer phrases rather than showing empty ones.
+#
+# Glossing English in English, this file keeps the pack's own convention: a
+# gloss never explains a phrase using the phrase. `give up` is "to stop trying,
+# to surrender", never "to give up".
+#
+# To translate this pack for a reader of another language, copy this file to
+# `phrases.<code>.txt` and translate the right-hand side; the patterns on the
+# left are the join key and must not change.
+
+# ---- Separable phrasal verbs: the object may sit inside the verb.
+give ? up|to stop trying; to hand over
+pick ? up|to lift, to collect; to learn without being taught
+put ? on|to dress in (clothes); to place on top of
+put ? off|to delay; to make someone lose interest
+put ? out|to extinguish (a fire, a light); to inconvenience
+take ? off|to remove (clothes); to leave the ground
+take ? over|to take control of
+take ? back|to withdraw (something said); to return (goods)
+turn ? on|to start (a machine, a light)
+turn ? off|to stop (a machine, a light)
+turn ? up|to increase (volume); to arrive, often unexpectedly
+turn ? down|to reduce (volume); to refuse (an offer)
+find ? out|to discover, to learn
+work ? out|to solve; to end well; to exercise
+figure ? out|to work through until it is understood
+sort ? out|to put right, to resolve
+look ? up|to search for in a book or a list; to improve
+make ? up|to invent (a story); to end a quarrel; cosmetics
+bring ? up|to raise (a child); to mention (a subject)
+call ? off|to cancel
+call ? back|to telephone again
+check ? out|to look at, to investigate; to leave a hotel
+cut ? off|to disconnect, to isolate; to interrupt
+fill ? in|to complete (a form); to substitute for someone
+fill ? out|to complete (a form)
+hand ? over|to surrender, to give to someone else
+hang ? up|to end a telephone call
+let ? down|to disappoint, to fail someone
+leave ? out|to omit
+pass ? on|to transmit to someone else; to decline
+point ? out|to draw attention to
+put ? away|to return to its place; to imprison
+put ? back|to return to its place; to delay
+put ? together|to assemble
+set ? up|to establish, to arrange; to trap someone falsely
+show ? off|to display in order to impress
+shut ? up|to stop talking (rude)
+take ? in|to understand, to absorb; to deceive; to shelter
+take ? out|to remove; to escort somewhere
+tell ? off|to scold
+think ? over|to consider carefully
+throw ? away|to discard; to waste (a chance)
+try ? on|to wear briefly, to see if it fits
+turn ? around|to face the other way; to reverse a decline
+wake ? up|to stop sleeping, to rouse
+write ? down|to record on paper
+knock ? out|to render unconscious; to eliminate from a contest
+break ? up|to end a relationship; to separate into pieces
+clear ? up|to tidy; to explain; (of weather) to improve
+hold ? up|to delay; to rob; to support
+keep ? up|to maintain, to stay level with
+let ? in|to admit, to allow to enter
+let ? out|to release; to make (clothes) wider
+make ? out|to see or hear with difficulty; to claim falsely
+pay ? back|to repay; to take revenge on
+run ? over|to hit with a vehicle; to overflow, to exceed a time
+
+# ---- Inseparable phrasal verbs: nothing may come between the parts.
+look for|to search for, to try to find
+look after|to care for
+look into|to investigate
+look forward to|to await with pleasure
+get over|to recover from
+get through|to survive, to finish; to reach by telephone
+get along|to have a friendly relationship
+get away with|to escape punishment for
+go through|to experience, to endure; to examine in order
+go over|to review, to examine
+come across|to meet or find by chance; to give an impression
+come up with|to think of, to produce (an idea)
+run into|to meet by chance; to collide with
+run out of|to have no more of
+put up with|to tolerate
+deal with|to handle, to take action about
+count on|to rely on
+depend on|to rely on; to be decided by
+stand for|to represent, to be short for; to tolerate
+take after|to resemble (a parent)
+call on|to visit; to ask someone to speak or act
+carry on|to continue
+give in|to yield, to stop resisting
+show up|to arrive; to make someone look bad
+turn into|to become
+end up|to arrive at in the end, often unintentionally
+break down|to stop working; to lose emotional control
+break into|to enter by force
+pass out|to lose consciousness
+hang on|to wait; to hold tightly
+hold on|to wait; to grip
+watch out|to be careful
+give away|to give without payment; to reveal (a secret)
+
+# ---- Fixed expressions the parts do not add up to.
+of course|naturally, as expected
+at least|not less than; even if nothing else
+at last|finally, after a long wait
+at all|in any way (used with a negative or a question)
+after all|in spite of what was said or expected
+as well|also, too
+as well as|in addition to
+by the way|incidentally, changing the subject
+in fact|really, to be exact
+in order to|for the purpose of
+kind of|somewhat, rather (informal); a type of
+sort of|somewhat, rather (informal); a type of
+no matter|it makes no difference (what, who, how)
+right away|immediately
+such as|for example, like
+up to|the responsibility of (it is up to you); as far as; doing (something bad)
+used to|did regularly in the past but not now
+would rather|to prefer to
+had better|ought to, would be wise to
+as if|in the way it would be if
+even though|although, in spite of the fact that
+as long as|provided that; for the whole time that
+on purpose|deliberately, not by accident

@@ -2,11 +2,12 @@ NOTICE
 ======
 
 This application bundles word-frequency, lemmatisation and pronunciation data
-derived from third-party sources. Those data files carry share-alike licences;
-the application code does not.
+derived from third-party sources. Most of those data files carry share-alike
+licences; the application code does not.
 
-These upstream sources do not all use the same share-alike licence, and two of
-them are mutually incompatible, so their derivatives are kept in separate files.
+These upstream sources do not all use the same licence, two of the share-alike
+ones are mutually incompatible, and one source is permissive rather than
+share-alike, so their derivatives are kept in separate files.
 Each data file below carries the licence of the source or sources it derives
 from, and files under incompatible licences are never merged.
 
@@ -74,7 +75,8 @@ Derived from:
 
 This file is itself licensed CC BY-SA 4.0. Only the pinyin readings are taken
 from CC-CEDICT; its English definitions are not used, and the glosses in
-app/public/packs/zh/dict.txt are generated independently as described in section 4.
+app/public/packs/zh/gloss.en.txt are generated independently as described in
+section 5.
 
 CC-CEDICT is also used at build time to map traditional spellings onto their
 simplified equivalents, which affects which words appear in the Mandarin pack
@@ -83,17 +85,74 @@ both this source and the source in section 1; both are CC BY-SA 4.0, so the two
 are compatible and may share a file.
 
 
-4. Glosses — not derived from any of the above sources
+4. Pronunciation data, English — BSD-2-Clause
+---------------------------------------------
+
+Files:  app/public/packs/en/readings.txt
+
+Derived from:
+  CMUdict — https://github.com/cmusphinx/cmudict
+  The Carnegie Mellon University Pronouncing Dictionary.
+  Copyright (C) 1993-2015 Carnegie Mellon University. All rights reserved.
+  Licensed under a 2-clause BSD licence:
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions
+    are met:
+
+    1. Redistributions of source code must retain the above copyright
+       notice, this list of conditions and the following disclaimer.
+       The contents of this file are deemed to be source code.
+
+    2. Redistributions in binary form must reproduce the above copyright
+       notice, this list of conditions and the following disclaimer in
+       the documentation and/or other materials provided with the
+       distribution.
+
+    THIS SOFTWARE IS PROVIDED BY CARNEGIE MELLON UNIVERSITY ``AS IS'' AND
+    ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+    THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+    PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL CARNEGIE MELLON UNIVERSITY
+    NOR ITS EMPLOYEES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+    SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+    LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+    DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+    THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+    (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+    OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+The transcriptions are converted from CMU's ARPAbet notation to IPA at build
+time by app/tools/dictgen/lib/pron.mjs, and are General American — the variety
+CMU recorded. This licence is permissive rather than share-alike, so unlike
+sections 1-3 it imposes no obligation on files derived alongside it; the file is
+kept separate anyway, so that every pack file remains traceable to exactly one
+upstream.
+
+A small number of readings in this file are written by hand rather than taken
+from CMUdict, in app/tools/dictgen/corrections/en.readings.txt. They cover
+headwords CMU has no entry for, which are almost all fragments the subtitle
+corpus cut out of longer words ('t, didn, 'clock).
+
+
+5. Glosses — not derived from any of the above sources
 ------------------------------------------------------
 
-Files:  app/public/packs/*/dict.txt
+Files:  app/public/packs/*/gloss.*.txt
+        app/public/packs/*/lex.txt
+        app/public/packs/*/phrases.txt
+        app/public/packs/*/phrases.*.txt
 
-The English glosses are generated at build time by a large language model, from
-the word list alone. They are not copied or translated from any licensed
-dictionary or corpus, and are not subject to the licences above.
+The glosses are generated at build time by a large language model, from the word
+list alone. They are not copied or translated from any licensed dictionary or
+corpus, and are not subject to the licences above. The phrase lists and their
+glosses are written by hand for this project, from the same starting point.
+
+lex.txt is listed here because it holds no meanings and no ranks: it is the
+word list and its morphology, which is this project's own arrangement of its
+own output.
 
 
-5. Application code
+6. Application code
 -------------------
 
 Everything outside app/public/packs/ is the application's own code and is not

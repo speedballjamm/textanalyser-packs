@@ -1,0 +1,173 @@
+# English multi-word expressions: the patterns. Hand-curated — not generated
+# by dictgen.
+#
+# Format: one pattern per line, `#` comments ignored. What each one *means* is
+# in `phrases.<meta>.txt`, joined on the pattern. Which phrases exist is a fact
+# about English; what they mean is a fact about a pair of languages.
+#
+# A pattern is a sequence of slots matched against consecutive tokens. Each
+# slot matches a token's **root**, its normalised surface, or the lemma its
+# entry points at — so `give` catches `gave`, `given` and `giving` without any
+# of them being written here.
+#
+# ## The particle is the whole point
+#
+# English's dominant multi-word class is the phrasal verb, and it is the class
+# this list is mostly made of. Two shapes, and the difference is grammatical
+# rather than a matter of taste:
+#
+#   - **Separable** — the particle is an adverb and the object may sit inside
+#     it: `give it up`. Written with the narrow gap: `give ? up`, which matches
+#     zero or one token, so one pattern covers both orders.
+#   - **Inseparable** — the particle is a preposition and nothing may come
+#     between: `look for it`, never *look it for*. Written contiguously:
+#     `look for`.
+#
+# **Use `?` here, never the wide `*` gap.** `*` swallows up to four tokens, and
+# every separable pattern written with it misfires on ordinary prose: `turn *
+# down` matches "turned the corner down by the river" and `look * up` matches
+# "looked at the man up on the roof", because the gap eats a noun phrase and
+# the "particle" it lands on is really the preposition opening the next one.
+# The narrow gap is the shape of the real construction — a separated object is
+# almost always a single pronoun (`give it up`, `put them on`), since English
+# puts a full noun phrase after the particle instead (`turn down the offer`),
+# and that order is contiguous and matches anyway. The cost is that `turn the
+# music down` is missed; the gain is that nothing false is underlined.
+#
+# Three-word verbs (`put up with`, `run out of`) are inseparable at the tail
+# even when the head is separable, so they are written contiguously too.
+#
+# There is no frequency data behind these — the rank list is unigram — which is
+# why a phrase carries no band and never enters the band histogram. See NOTICE
+# at the repo root.
+#
+# ## What belongs here
+#
+# Only phrases where the word-by-word reading misleads. `come back`, `sit
+# down`, `go out` and `stand up` are not here: the parts already teach them,
+# and an underline over something the reader can decode is noise that makes the
+# real ones easier to ignore.
+#
+# Where a separable pattern has a live literal reading as well as its
+# idiomatic one — `put ? on` is both "wear" and "place on top of", `take ? off`
+# is both "remove" and "depart from" — the gloss carries both senses rather
+# than the phrase being dropped. A gloss that shows the reader the choice is
+# more use than silence.
+
+# ---- Separable phrasal verbs: the object may sit inside the verb.
+give ? up
+pick ? up
+put ? on
+put ? off
+put ? out
+take ? off
+take ? over
+take ? back
+turn ? on
+turn ? off
+turn ? up
+turn ? down
+find ? out
+work ? out
+figure ? out
+sort ? out
+look ? up
+make ? up
+bring ? up
+call ? off
+call ? back
+check ? out
+cut ? off
+fill ? in
+fill ? out
+hand ? over
+hang ? up
+let ? down
+leave ? out
+pass ? on
+point ? out
+put ? away
+put ? back
+put ? together
+set ? up
+show ? off
+shut ? up
+take ? in
+take ? out
+tell ? off
+think ? over
+throw ? away
+try ? on
+turn ? around
+wake ? up
+write ? down
+knock ? out
+break ? up
+clear ? up
+hold ? up
+keep ? up
+let ? in
+let ? out
+make ? out
+pay ? back
+run ? over
+
+# ---- Inseparable phrasal verbs: nothing may come between the parts.
+look for
+look after
+look into
+look forward to
+get over
+get through
+get along
+get away with
+go through
+go over
+come across
+come up with
+run into
+run out of
+put up with
+deal with
+count on
+depend on
+stand for
+take after
+call on
+carry on
+give in
+show up
+turn into
+end up
+break down
+break into
+pass out
+hang on
+hold on
+watch out
+give away
+
+# ---- Fixed expressions the parts do not add up to.
+of course
+at least
+at last
+at all
+after all
+as well
+as well as
+by the way
+in fact
+in order to
+kind of
+sort of
+no matter
+right away
+such as
+up to
+used to
+would rather
+had better
+as if
+even though
+as long as
+on purpose

@@ -1,0 +1,137 @@
+# What each English phrase in `phrases.txt` means, in Indonesian.
+#
+# Format: pattern|gloss — joined to `phrases.txt` on the pattern. A pattern
+# this file does not explain falls back to `phrases.en.txt`, so a translation
+# in progress shows Indonesian where it has one and English elsewhere.
+#
+# Hand-written, like `phrases.txt` and `phrases.en.txt` — dictgen does not
+# generate this file, it only carries it across into the manifest.
+#
+# Two rules, both inherited from the file this translates:
+#
+#   - The patterns on the left are the join key and must not change. A changed
+#     pattern is a phrase the app stops finding; an invented one is a phrase it
+#     hunts for and never finds.
+#   - The sense count must match `phrases.en.txt`. `;` separates senses and
+#     `,` joins near-synonyms inside one, exactly as in `gloss.id.txt`.
+#
+# Verbs are glossed as bare Indonesian verbs — the English `to` has no
+# counterpart to carry across.
+
+# ---- Separable phrasal verbs: the object may sit inside the verb.
+give ? up|menyerah, berhenti berusaha; menyerahkan
+pick ? up|mengangkat, menjemput; belajar tanpa diajari
+put ? on|memakai, mengenakan (pakaian); meletakkan di atas
+put ? off|menunda; membuat enggan, menghilangkan minat
+put ? out|memadamkan (api, lampu); merepotkan
+take ? off|melepas (pakaian); lepas landas
+take ? over|mengambil alih
+take ? back|menarik kembali (ucapan); mengembalikan (barang)
+turn ? on|menyalakan, menghidupkan (mesin, lampu)
+turn ? off|mematikan (mesin, lampu)
+turn ? up|mengeraskan (suara); muncul, datang tanpa diduga
+turn ? down|mengecilkan (suara); menolak (tawaran)
+find ? out|mengetahui, mencari tahu
+work ? out|memecahkan, menghitung; berakhir baik; berolahraga
+figure ? out|memikirkan sampai paham, mencari tahu
+sort ? out|membereskan, menyelesaikan
+look ? up|mencari (di buku atau daftar); membaik
+make ? up|mengarang (cerita); berbaikan setelah bertengkar; riasan, kosmetik
+bring ? up|membesarkan (anak); mengangkat, menyinggung (topik)
+call ? off|membatalkan
+call ? back|menelepon kembali
+check ? out|melihat, memeriksa; keluar dari hotel
+cut ? off|memutus, mengucilkan; memotong pembicaraan
+fill ? in|mengisi (formulir); menggantikan seseorang
+fill ? out|mengisi (formulir)
+hand ? over|menyerahkan
+hang ? up|menutup telepon
+let ? down|mengecewakan
+leave ? out|melewatkan, tidak menyertakan
+pass ? on|meneruskan, menyampaikan kepada orang lain; menolak, melewatkan
+point ? out|menunjukkan, menegaskan
+put ? away|menyimpan kembali, membereskan; memenjarakan
+put ? back|mengembalikan ke tempatnya; menunda
+put ? together|merakit, menyusun
+set ? up|mendirikan, mengatur; menjebak
+show ? off|memamerkan, pamer
+shut ? up|diam, tutup mulut (kasar)
+take ? in|menyerap, mencerna (informasi); menipu; menampung
+take ? out|mengeluarkan; mengajak keluar
+tell ? off|memarahi, menegur keras
+think ? over|mempertimbangkan masak-masak
+throw ? away|membuang; menyia-nyiakan (kesempatan)
+try ? on|mencoba, mengepas (pakaian)
+turn ? around|berbalik, memutar; memulihkan keadaan yang memburuk
+wake ? up|bangun, membangunkan
+write ? down|mencatat, menuliskan
+knock ? out|membuat pingsan; menyingkirkan dari pertandingan
+break ? up|putus (hubungan); memecah menjadi bagian-bagian
+clear ? up|membereskan; menjelaskan; (cuaca) menjadi cerah
+hold ? up|menghambat, menunda; merampok; menopang
+keep ? up|mempertahankan, mengimbangi
+let ? in|mempersilakan masuk, mengizinkan masuk
+let ? out|melepaskan, mengeluarkan; melonggarkan (pakaian)
+make ? out|melihat atau mendengar dengan susah payah; mengaku-ngaku, berdalih
+pay ? back|melunasi, membayar kembali; membalas dendam
+run ? over|menabrak dan melindas; meluap, melewati batas waktu
+
+# ---- Inseparable phrasal verbs: nothing may come between the parts.
+look for|mencari
+look after|menjaga, merawat
+look into|menyelidiki, menelusuri
+look forward to|menantikan dengan senang hati
+get over|pulih dari, melupakan
+get through|bertahan, menyelesaikan; berhasil menghubungi lewat telepon
+get along|akur, rukun
+get away with|lolos dari hukuman
+go through|mengalami, menjalani; memeriksa satu per satu
+go over|meninjau, memeriksa ulang
+come across|bertemu atau menemukan secara kebetulan; memberi kesan
+come up with|mencetuskan, memikirkan (ide)
+run into|bertemu secara kebetulan; menabrak
+run out of|kehabisan
+put up with|tahan terhadap, menoleransi
+deal with|menangani, mengurus
+count on|mengandalkan
+depend on|mengandalkan, bergantung pada; ditentukan oleh
+stand for|melambangkan, singkatan dari; membiarkan, menoleransi
+take after|mirip dengan (orang tua)
+call on|mengunjungi; meminta seseorang berbicara atau bertindak
+carry on|melanjutkan, meneruskan
+give in|mengalah, menyerah
+show up|muncul, datang; mempermalukan
+turn into|berubah menjadi
+end up|akhirnya menjadi, berakhir tanpa disengaja
+break down|mogok, rusak; tak kuasa menahan tangis
+break into|membobol, masuk dengan paksa
+pass out|pingsan
+hang on|tunggu dulu; berpegang erat
+hold on|tunggu sebentar; berpegangan
+watch out|hati-hati, awas
+give away|memberikan cuma-cuma; membocorkan (rahasia)
+
+# ---- Fixed expressions the parts do not add up to.
+of course|tentu saja, sudah pasti
+at least|sekurang-kurangnya, paling sedikit; setidaknya
+at last|akhirnya, setelah lama menunggu
+at all|sama sekali (dipakai dalam kalimat negatif atau pertanyaan)
+after all|ternyata, di luar dugaan sebelumnya
+as well|juga, pula
+as well as|selain, di samping
+by the way|omong-omong, ngomong-ngomong
+in fact|sebenarnya, malah
+in order to|untuk, agar
+kind of|agak, lumayan (informal); semacam, jenis
+sort of|agak, lumayan (informal); semacam, jenis
+no matter|tidak peduli, tak jadi soal (apa, siapa, bagaimana)
+right away|segera, langsung
+such as|seperti, misalnya
+up to|terserah (it is up to you); sampai dengan; sedang berbuat sesuatu yang tidak beres
+used to|dulu sering, dulu biasa (sekarang tidak lagi)
+would rather|lebih suka, lebih baik
+had better|sebaiknya
+as if|seolah-olah, seakan-akan
+even though|meskipun, walaupun
+as long as|asalkan; selama
+on purpose|dengan sengaja
