@@ -6639,3 +6639,37 @@ immunity|kekebalan terhadap penyakit atau tuntutan hukum|o
 severe|sangat buruk, sangat keras|o
 believer|orang yang beriman atau memercayai suatu gagasan|o
 crater|kawah gunung berapi atau lubang bekas ledakan|o
+i'm|saya adalah|f1s
+you're|kamu adalah|f2s2p
+we're|kami adalah|f1p
+they're|mereka adalah|f3p
+he's|dia (laki-laki) adalah; dia (laki-laki) sudah (bentuk perfek)|f3s;f3s
+she's|dia (perempuan) adalah; dia (perempuan) sudah (bentuk perfek)|f3s;f3s
+it's|itu adalah; itu sudah (bentuk perfek)|f3s;f3s
+that's|itu adalah|o
+there's|ada, terdapat|o
+here's|ini dia, di sini ada|o
+what's|apa itu|o
+who's|siapa itu|o
+where's|di mana|o
+how's|bagaimana|o
+let's|mari kita, ayo (mengajak)|o
+i've|saya sudah|f1s
+you've|kamu sudah|f2s2p
+we've|kami sudah|f1p
+they've|mereka sudah|f3p
+i'll|saya akan|f1s
+you'll|kamu akan|f2s2p
+he'll|dia (laki-laki) akan|f3s
+she'll|dia (perempuan) akan|f3s
+it'll|itu akan|f3s
+we'll|kami akan|f1p
+they'll|mereka akan|f3p
+that'll|hal itu akan|o
+i'd|saya akan; saya sudah (bentuk perfek lampau)|f1s;f1s
+you'd|kamu akan; kamu sudah (bentuk perfek lampau)|f2s2p;f2s2p
+he'd|dia (laki-laki) akan; dia (laki-laki) sudah (bentuk perfek lampau)|f3s;f3s
+she'd|dia (perempuan) akan; dia (perempuan) sudah (bentuk perfek lampau)|f3s;f3s
+it'd|itu akan; itu sudah (bentuk perfek lampau)|f3s;f3s
+we'd|kami akan; kami sudah (bentuk perfek lampau)|f1p;f1p
+they'd|mereka akan; mereka sudah (bentuk perfek lampau)|f3p;f3p

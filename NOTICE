@@ -31,6 +31,20 @@ Derived from:
 
   Underlying corpus: OpenSubtitles — https://www.opensubtitles.org/
 
+The English pack's ranks draw on one further measurement of the same underlying
+corpus, in app/tools/dictgen/corrections/en.contractions.txt:
+
+  OPUS OpenSubtitles v2018 — https://opus.nlpl.eu/OpenSubtitles-v2018.php
+  P. Lison and J. Tiedemann (2016), "OpenSubtitles2016: Extracting Large
+  Parallel Corpora from Movie and TV Subtitles", LREC 2016.
+
+hermitdave's tokeniser splits on the apostrophe, so its lists have no row for
+`it's` or `I'm` — only for `it`, `I` and `'s`. Contraction counts were therefore
+measured directly from OPUS's raw text and are used to divide each clitic's
+existing count among the words that make it up. What is stored is the counts, a
+measurement of a freely redistributable corpus, and they are combined with a
+CC BY-SA source; the resulting file stays CC BY-SA 4.0 with both credited.
+
 These files are themselves licensed CC BY-SA 4.0.
 
 The frequency band shown for a word is a bucketed corpus rank, and so is

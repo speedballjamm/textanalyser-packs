@@ -6638,3 +6638,37 @@ hasn't|has not|f3s
 hadn't|had not|f3s
 shouldn't|should not|o
 mustn't|must not|o
+i'm|I am|f1s
+you're|you are|f2s2p
+we're|we are|f1p
+they're|they are|f3p
+he's|he is; he has|f3s;f3s
+she's|she is; she has|f3s;f3s
+it's|it is; it has|f3s;f3s
+that's|that is|o
+there's|there is|o
+here's|here is|o
+what's|what is|o
+who's|who is|o
+where's|where is|o
+how's|how is|o
+let's|let us (making a suggestion)|o
+i've|I have|f1s
+you've|you have|f2s2p
+we've|we have|f1p
+they've|they have|f3p
+i'll|I will|f1s
+you'll|you will|f2s2p
+he'll|he will|f3s
+she'll|she will|f3s
+it'll|it will|f3s
+we'll|we will|f1p
+they'll|they will|f3p
+that'll|that will|o
+i'd|I would; I had|f1s;f1s
+you'd|you would; you had|f2s2p;f2s2p
+he'd|he would; he had|f3s;f3s
+she'd|she would; she had|f3s;f3s
+it'd|it would; it had|f3s;f3s
+we'd|we would; we had|f1p;f1p
+they'd|they would; they had|f3p;f3p
