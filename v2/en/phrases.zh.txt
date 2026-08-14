@@ -1,0 +1,140 @@
+# What each English phrase in `phrases.txt` means, in Mandarin Chinese.
+#
+# Format: pattern|gloss — joined to `phrases.txt` on the pattern. A pattern
+# this file does not explain falls back to `phrases.en.txt`, so a translation
+# in progress shows Chinese where it has one and English elsewhere.
+#
+# Hand-written, like `phrases.txt` and `phrases.en.txt` — dictgen does not
+# generate this file, it only carries it across into the manifest.
+#
+# Three rules, all inherited from the file this translates:
+#
+#   - The patterns on the left are the join key and must not change. A changed
+#     pattern is a phrase the app stops finding; an invented one is a phrase it
+#     hunts for and never finds.
+#   - The sense count must match `phrases.en.txt`. `;` separates senses and
+#     `,` joins near-synonyms inside one, exactly as in `gloss.zh.txt`.
+#   - `;` `( )` and `: ` are ASCII, never their fullwidth forms: the app scans
+#     for those exact characters to find where one sense ends and the next
+#     begins.
+#
+# Verbs are glossed as bare Chinese verbs — the English `to` has no counterpart
+# to carry across.
+
+# ---- Separable phrasal verbs: the object may sit inside the verb.
+give ? up|放弃, 不再努力; 交出
+pick ? up|拿起, 去接; 无师自通地学会
+put ? on|穿上 (衣服); 放在…上面
+put ? off|推迟; 使失去兴趣, 使反感
+put ? out|扑灭 (火, 灯); 给…添麻烦
+take ? off|脱下 (衣服); 起飞
+take ? over|接管, 接手
+take ? back|收回 (说过的话); 退回 (货物)
+turn ? on|打开 (机器, 灯)
+turn ? off|关掉 (机器, 灯)
+turn ? up|调大 (音量); 露面, 意外出现
+turn ? down|调小 (音量); 拒绝 (提议)
+find ? out|查明, 得知
+work ? out|算出, 解决; 有好结果; 健身
+figure ? out|想明白, 弄清楚
+sort ? out|整顿好, 解决
+look ? up|查 (书或名单); 好转
+make ? up|编造 (故事); 和好; 化妆品
+bring ? up|抚养 (孩子); 提起 (话题)
+call ? off|取消
+call ? back|回电话
+check ? out|看看, 查看; 退房
+cut ? off|切断, 使孤立; 打断
+fill ? in|填写 (表格); 替某人顶班
+fill ? out|填写 (表格)
+hand ? over|交出, 移交
+hang ? up|挂断电话
+let ? down|使失望, 辜负
+leave ? out|漏掉, 不包括
+pass ? on|转告, 传给别人; 谢绝
+point ? out|指出
+put ? away|收好, 放回原处; 关进监狱
+put ? back|放回原处; 推迟
+put ? together|组装, 拼装
+set ? up|建立, 安排; 设局陷害
+show ? off|炫耀
+shut ? up|闭嘴 (不礼貌)
+take ? in|理解, 领会; 欺骗; 收留
+take ? out|取出, 拿掉; 带…出去
+tell ? off|训斥
+think ? over|仔细考虑
+throw ? away|扔掉; 白白错过 (机会)
+try ? on|试穿
+turn ? around|转过身; 扭转颓势
+wake ? up|醒来, 叫醒
+write ? down|写下来
+knock ? out|打昏; 淘汰出局
+break ? up|分手; 碎成几块
+clear ? up|收拾整齐; 解释清楚; (天气) 放晴
+hold ? up|耽搁; 抢劫; 支撑
+keep ? up|保持, 跟上
+let ? in|放进来, 准许进入
+let ? out|放出去; 把 (衣服) 放大
+make ? out|勉强看清或听清; 谎称
+pay ? back|还钱; 报复
+run ? over|开车撞到; 溢出, 超时
+
+# ---- Inseparable phrasal verbs: nothing may come between the parts.
+look for|寻找
+look after|照顾
+look into|调查
+look forward to|期待
+get over|从…中恢复
+get through|挺过来, 完成; 打通电话
+get along|相处融洽
+get away with|做了坏事却没受罚
+go through|经历, 承受; 逐一检查
+go over|复习, 仔细检查
+come across|偶然遇到, 偶然找到; 给人某种印象
+come up with|想出 (主意)
+run into|偶然遇到; 撞上
+run out of|用完, 没有了
+put up with|忍受
+deal with|处理, 应对
+count on|指望
+depend on|依靠; 取决于
+stand for|代表, 是…的缩写; 容忍
+take after|长得像 (父母)
+call on|拜访; 请某人发言或行动
+carry on|继续
+give in|让步, 不再抵抗
+show up|露面; 让某人难堪
+turn into|变成
+end up|最后落得, 最终到了
+break down|抛锚, 出故障; 情绪崩溃
+break into|强行闯入
+pass out|昏过去
+hang on|等一下; 抓紧
+hold on|等一下; 抓住
+watch out|当心
+give away|白送; 泄露 (秘密)
+
+# ---- Fixed expressions the parts do not add up to.
+of course|当然
+at least|至少, 不少于; 起码
+at last|终于
+at all|(用于否定句或疑问句) 丝毫, 到底
+after all|毕竟, 结果却
+as well|也
+as well as|除…之外还
+by the way|顺便说一句
+in fact|事实上, 确切地说
+in order to|为了
+kind of|有点, 有几分 (口语); 一种
+sort of|有点, 有几分 (口语); 一种
+no matter|无论 (什么, 谁, 怎样)
+right away|马上
+such as|例如, 像
+up to|由…决定 (it is up to you); 直到, 多达; 在搞 (不好的事)
+used to|过去常常 (现在不再)
+would rather|宁愿
+had better|最好, 应该
+as if|好像
+even though|尽管, 虽然
+as long as|只要; 在…的整段时间里
+on purpose|故意地

@@ -1,0 +1,138 @@
+# What each English phrase in `phrases.txt` means, in Spanish.
+#
+# Format: pattern|gloss — joined to `phrases.txt` on the pattern. A pattern
+# this file does not explain falls back to `phrases.en.txt`, so a translation
+# in progress shows Spanish where it has one and English elsewhere.
+#
+# Hand-written, like `phrases.txt` and `phrases.en.txt` — dictgen does not
+# generate this file, it only carries it across into the manifest.
+#
+# Two rules, both inherited from the file this translates:
+#
+#   - The patterns on the left are the join key and must not change. A changed
+#     pattern is a phrase the app stops finding; an invented one is a phrase it
+#     hunts for and never finds.
+#   - The sense count must match `phrases.en.txt`. `;` separates senses and
+#     `,` joins near-synonyms inside one, exactly as in `gloss.es.txt`.
+#
+# Verbs are glossed as bare infinitives, without `a`. Spanish has an infinitive
+# where English has `to go`, so the phrase carries across as one word and needs
+# no marker of its own.
+
+# ---- Separable phrasal verbs: the object may sit inside the verb.
+give ? up|dejar de intentar, rendirse; entregar
+pick ? up|levantar, recoger; aprender sin que te lo enseñen
+put ? on|ponerse (ropa); poner encima de
+put ? off|aplazar, posponer; quitarle las ganas a alguien
+put ? out|apagar (un fuego, una luz); causar molestias a
+take ? off|quitarse (ropa); despegar
+take ? over|tomar el control de
+take ? back|retirar (lo dicho); devolver (mercancía)
+turn ? on|encender (una máquina, una luz)
+turn ? off|apagar (una máquina, una luz)
+turn ? up|subir (el volumen); aparecer, llegar a veces sin avisar
+turn ? down|bajar (el volumen); rechazar (una oferta)
+find ? out|descubrir, enterarse de
+work ? out|resolver, calcular; salir bien; hacer ejercicio
+figure ? out|llegar a entender a fuerza de pensarlo
+sort ? out|arreglar, resolver
+look ? up|buscar (en un libro o una lista); mejorar
+make ? up|inventar (una historia); reconciliarse; maquillaje
+bring ? up|criar (a un hijo); sacar, mencionar (un tema)
+call ? off|cancelar, suspender
+call ? back|volver a llamar por teléfono
+check ? out|mirar, investigar; dejar el hotel
+cut ? off|cortar, aislar; interrumpir
+fill ? in|rellenar (un formulario); sustituir a alguien
+fill ? out|rellenar (un formulario)
+hand ? over|entregar, ceder
+hang ? up|colgar el teléfono
+let ? down|defraudar, fallarle a alguien
+leave ? out|omitir, dejar fuera
+pass ? on|transmitir a otro; declinar, dejar pasar
+point ? out|señalar, hacer notar
+put ? away|guardar en su sitio; encarcelar
+put ? back|devolver a su sitio; retrasar
+put ? together|armar, montar
+set ? up|establecer, organizar; tender una trampa a alguien
+show ? off|lucir, presumir de
+shut ? up|callarse (grosero)
+take ? in|asimilar, comprender; engañar; acoger
+take ? out|sacar, quitar; llevar a salir
+tell ? off|regañar, reñir
+think ? over|pensar bien, meditar
+throw ? away|tirar, desechar; desperdiciar (una oportunidad)
+try ? on|probarse (para ver si queda bien)
+turn ? around|dar la vuelta, girarse; enderezar (algo que iba mal)
+wake ? up|despertar, despertarse
+write ? down|anotar, apuntar
+knock ? out|dejar inconsciente, noquear; eliminar de una competición
+break ? up|romper (una relación); partir en trozos
+clear ? up|ordenar, recoger; aclarar; (el tiempo) despejarse
+hold ? up|retrasar, demorar; atracar; sostener
+keep ? up|mantener, seguir el ritmo de
+let ? in|dejar entrar
+let ? out|soltar, dejar salir; ensanchar (ropa)
+make ? out|distinguir a duras penas (ver u oír); dar a entender falsamente
+pay ? back|devolver (dinero); vengarse de
+run ? over|atropellar; rebosar, pasarse del tiempo
+
+# ---- Inseparable phrasal verbs: nothing may come between the parts.
+look for|buscar, tratar de encontrar
+look after|cuidar de
+look into|investigar
+look forward to|esperar con ilusión
+get over|superar, reponerse de
+get through|sobrevivir a, terminar; conseguir hablar por teléfono con
+get along|llevarse bien
+get away with|salir impune de
+go through|pasar por, soportar; repasar uno por uno
+go over|repasar, examinar
+come across|encontrar por casualidad; dar cierta impresión
+come up with|ocurrírsele, idear
+run into|encontrarse con por casualidad; chocar con
+run out of|quedarse sin
+put up with|aguantar, soportar
+deal with|ocuparse de, tratar
+count on|contar con, confiar en
+depend on|confiar en; depender de, estar determinado por
+stand for|representar, ser la abreviatura de; tolerar
+take after|parecerse a (un padre)
+call on|visitar; pedir a alguien que hable o actúe
+carry on|continuar, seguir
+give in|ceder, rendirse
+show up|aparecer, presentarse; dejar en mal lugar a alguien
+turn into|convertirse en
+end up|acabar, terminar a veces sin querer
+break down|averiarse, estropearse; derrumbarse
+break into|entrar por la fuerza en
+pass out|desmayarse
+hang on|esperar un momento; agarrarse fuerte
+hold on|esperar; agarrarse
+watch out|tener cuidado
+give away|regalar; revelar (un secreto)
+
+# ---- Fixed expressions the parts do not add up to.
+of course|naturalmente, por supuesto
+at least|no menos de, como mínimo; al menos, siquiera
+at last|por fin, al cabo de mucho tiempo
+at all|en absoluto, nada (con negación o pregunta)
+after all|después de todo, a pesar de lo dicho o esperado
+as well|también
+as well as|además de
+by the way|por cierto, a propósito
+in fact|de hecho, en realidad
+in order to|para, con el fin de
+kind of|algo, más bien (informal); un tipo de
+sort of|algo, más bien (informal); una especie de
+no matter|no importa (qué, quién, cómo)
+right away|enseguida, inmediatamente
+such as|como, por ejemplo
+up to|cosa de, responsabilidad de (it is up to you, tú decides); hasta; tramando (algo malo)
+used to|antes hacía algo con frecuencia y ya no
+would rather|preferir
+had better|más vale que, debería
+as if|como si
+even though|aunque, a pesar de que
+as long as|siempre que, con tal de que; durante todo el tiempo que
+on purpose|a propósito, adrede
