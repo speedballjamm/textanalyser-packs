@@ -24,7 +24,7 @@ pada|at, on|o
 kepada|to (a person)|v
 oleh|by (agent)|o
 adalah|is, to be|f3s
-ada|to exist; there is|v;o
+ada|there is, there are; to be there, be present; to exist|o;v;v
 tidak|no, not|o
 bukan|not, is not (of nouns)|o
 bukankan|isn't it?, didn't you? (= bukankah)|o
@@ -82,7 +82,7 @@ hari|day|o
 minggu|week; Sunday|o;o
 bulan|month; moon|o;o
 tahun|year|o
-jam|hour; clock, watch|o;o
+jam|hour; o'clock; clock, watch|o;o;o
 menit|minute|o
 detik|second (of time)|o
 waktu|time|o
@@ -103,7 +103,7 @@ belum|not yet|o
 sedang|currently, in the middle of|o
 masih|still|o
 akan|will, going to|o
-baru|new; just now|o;o
+baru|new; just, only just; only then|o;o;o
 lagi|again, more|o
 pernah|ever, once|o
 sering|often|o
@@ -112,7 +112,7 @@ jarang|seldom, rare|o
 kadang|sometimes|o
 segera|immediately, soon|o
 bisa|can, able to|o
-dapat|can; to get|o;v
+dapat|can, be able to; to get, receive|o;v
 boleh|may, allowed|o
 harus|must, have to|o
 perlu|to need|v
@@ -136,7 +136,7 @@ diamati|to be observed|v
 terlalu|too (excessively)|o
 cukup|enough, sufficient|o
 memadai|adequate, sufficient|o
-kurang|less; lacking|o;o
+kurang|less; lacking, not enough|o;o
 lebih|more|o
 melebih|to exaggerate (in melebih-lebihkan)|v
 melebihkan|to overdo, to put too much on|v
@@ -192,7 +192,7 @@ sebelum|before|o
 sesudah|after|o
 setelah|after|o
 sejak|since|o
-sampai|until; to arrive|o;v
+sampai|until, up to; to arrive at, reach|o;v
 hingga|until|o
 tentang|about, concerning|o
 antara|between, among|o
@@ -200,7 +200,7 @@ dalam|in, inside; deep|o;o
 luar|outside|o
 atas|above, top|o
 bawah|below, under|o
-depan|front; next|o;o
+depan|front; next, coming|o;o
 belakang|back, behind|o
 tengah|middle, center|o
 samping|side, beside|o
@@ -235,7 +235,7 @@ datang|to come|v
 pulang|to go home|v
 masuk|to enter, go in|v
 keluar|to go out, exit|v
-naik|to go up; to ride|v;v
+naik|to go up, rise; to get on, board|v;v
 turun|to go down, descend|v
 duduk|to sit|v
 diri|self|o
@@ -248,7 +248,7 @@ menenggak|to gulp down, to swig|v
 lihat|to see, look|v
 dengar|to hear, listen|v
 bicara|to speak|v
-kata|word; to say|o;v
+kata|word; said, says|o;f3s
 tanya|to ask|v
 jawab|to answer|v
 minta|to ask for, request|v
@@ -271,7 +271,7 @@ tutup|to close, shut|v
 mulai|to begin, start|v
 selesai|finished, done|o
 habis|used up, finished|o
-terus|to continue; keep on|v;o
+terus|to continue; continuously, the whole time|v;o
 lanjut|to continue|v
 henti|to stop|v
 coba|to try|v
@@ -341,10 +341,10 @@ penuh|full|o
 kosong|empty|o
 kuat|strong|o
 lemah|weak|o
-keras|hard; loud|o;o
+keras|hard; loud; harsh, severe|o;o;o
 lembut|soft, gentle|o
 sehat|healthy|o
-sakit|sick, ill; pain|o;o
+sakit|sick, ill; to hurt, be sore; pain|o;v;o
 senang|happy, glad|o
 gembira|glad, joyful|o
 bahagia|happy|o
@@ -359,7 +359,7 @@ lelah|tired|o
 lapar|hungry|o
 haus|thirsty|o
 kenyang|full (after eating)|o
-enak|tasty; pleasant|o;o
+enak|tasty; pleasant, nice|o;o
 lezat|delicious|o
 manis|sweet|o
 pahit|bitter|o
@@ -451,7 +451,7 @@ telur|egg|o
 susu|milk|o
 gula|sugar|o
 garam|salt|o
-minyak|cooking oil|o
+minyak|oil; cooking oil|o;o
 sayur|vegetable|o
 bawang|onion, garlic|o
 cabai|chilli|o
@@ -514,11 +514,11 @@ peta|map|o
 pulau|island|o
 desa|village|o
 kampung|village; hometown|o;o
-sendiri|alone; own, self|o;o
+sendiri|alone, by oneself; own, self|o;o
 punya|to have, to own|v
 milik|possession, belonging to|o
-hidup|to live; life; alive|v;o;o
-mati|dead; to die|o;v
+hidup|to live; on, working (of a device); life; alive|v;o;o;o
+mati|dead; to die; off, out (of a device)|o;v;o
 lahir|to be born|v
 tumbuh|to grow|v
 nikah|to marry|v
@@ -572,8 +572,8 @@ tanda|sign, mark|o
 bukti|proof, evidence|o
 butuh|to need|v
 manfaat|benefit, use|o
-untung|profit; lucky|o;o
-rugi|loss|o
+untung|profit, gain; to profit, benefit; lucky|o;v;o
+rugi|to lose out, make a loss; loss|v;o
 biaya|cost, expense|o
 gaji|salary|o
 usaha|effort; business|o;o
@@ -696,13 +696,13 @@ pindah|to move (house etc.)|v
 diam|silent; to stay still|o;v
 tinggal|to stay, live; to leave behind|v;v
 berangkat|to depart|v
-lewat|to pass by; via|v;o
+lewat|to pass by; through, via|v;o
 ikut|to follow, to join|v
 antar|to escort, deliver|v
 jemput|to pick up|v
 bantu|to help|v
 dukung|to support|v
-lawan|opponent; to oppose|o;v
+lawan|opponent; to fight, resist|o;v
 menang|to win|v
 kalah|to lose|v
 juara|champion|o
@@ -2114,7 +2114,7 @@ bravo|bravo|o
 status|status|o
 petualang|adventurer|o
 petualangan|adventure|o
-cokelat|chocolate, brown|o
+cokelat|chocolate; brown|o;o
 curang|cheating, unfair|o
 tarung|fight|o
 kalung|necklace|o
@@ -2216,7 +2216,7 @@ pulih|recover, heal|o
 siksa|torture|o
 siluman|phantom, invisible spirit|o
 jengkel|annoyed|o
-terbit|published, rise (of the sun)|o
+terbit|to rise (of the sun); to be published|v;v
 original|original (borrowed, alt. to asli)|o
 terobsesi|obsessed|o
 upaya|effort, attempt|o
@@ -4222,7 +4222,7 @@ lingkup|scope|o
 keyboard|keyboard|o
 doang|only, just (colloq.)|o
 klasifikasi|classification|o
-penalti|penalty (sports)|o
+penalti|penalty, fine|o
 kadaluarsa|expired|o
 transfusi|transfusion|o
 brigade|brigade|o
@@ -5506,7 +5506,7 @@ pembangkit|generator|o
 pengungsi|refugee|o
 pemakan|eater|o
 penculik|kidnapper|o
-pengantar|courier; introduction|o;o
+pengantar|introduction, preface; courier|o;o
 petinju|boxer|o
 penerima|recipient|o
 pengganggu|nuisance, pest|o
@@ -6208,7 +6208,7 @@ terbesar|biggest, largest|o
 terbakar|burnt, on fire|o
 terbunuh|killed|o
 terkadang|sometimes|o
-tergantung|depends on; hanging|o;o
+tergantung|depends on; hanging, suspended|o;o
 terutama|especially, mainly|o
 tertangkap|caught, captured|o
 tersenyum|to smile|v
@@ -7095,3 +7095,69 @@ mendefinisikan|to define|v
 memanaskan|to heat|v
 melampiaskan|to vent|v
 membukakan|to open for someone|v
+kejam|cruel, brutal|o
+kemeja|shirt|o
+serak|hoarse|o
+abadi|eternal, everlasting|o
+mengeras|to harden, stiffen|v
+berselancar|to surf|v
+lakukan|to do, carry out|v
+dijalankan|to be run, to be operated|v
+mengenakan|to wear, put on|v
+nahan|to hold back, hold in (colloq.)|v
+geleng|to shake the head|v
+per|per, each (satu per satu, one by one)|o
+sobek|to tear, rip|v
+mulus|smooth, flawless|o
+berliku|winding, twisting|o
+gubuk|hut, shack|o
+pinggul|hip|o
+sendi|joint|o
+siku|elbow|o
+matras|mat, mattress|o
+keris|kris (Javanese dagger)|o
+ojek|motorbike taxi|o
+sepoi-sepoi|gentle, light (of a breeze)|o
+kosakata|vocabulary|o
+menoleh|to turn one's head, look round|v
+mengisap|to suck, to inhale|v
+sejengkal|a hand-span|o
+deg-degan|heart-pounding, nervous|o
+dengerin|to listen to (colloq.)|v
+denger|to hear (colloq.)|v
+bayangin|to imagine (colloq.)|v
+perhatiin|to notice, pay attention to (colloq.)|v
+lihatin|to look at, watch (colloq.)|v
+masakin|to cook for someone (colloq.)|v
+biarin|never mind, let it be (colloq.)|o
+inget|to remember (colloq.)|v
+ketawa|to laugh|v
+makasih|thanks (colloq.)|o
+anak buah|crew, subordinates, one's men|o
+salah satu|one of|o
+masa depan|the future|o
+masa lalu|the past|o
+sakit hati|hurt, resentful|o
+balas dendam|to take revenge|v
+suku cadang|spare part|o
+sarung tangan|glove|o
+laut lepas|the open sea|o
+selamat malam|good evening, good night|o
+menyala|to be on, be alight, light up|v
+matikan|to switch off, shut down|v
+naikkan|to raise, increase|v
+hancurkan|to destroy, smash|v
+bersihkan|to clean up|v
+aktifkan|to activate, turn on|v
+mendapat|to get, receive|v
+ceritakan|to tell, recount|v
+mendarat|to land|v
+berbatu|rocky, stony|o
+melepas|to take off, let go of|v
+sepotong|a piece of|o
+alami|natural|o
+apakah|(question marker); whether|g;o
+kuncian|lock, hold (in grappling)|o
+temukan|to find|v
+menolong|to help|v
+menurut|according to; to obey, comply|o;v

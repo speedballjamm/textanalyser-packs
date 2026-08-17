@@ -98,7 +98,7 @@ belum|||
 sedang|||
 masih|||
 akan|||
-baru|||adj.;adv.
+baru|||adj.;adv.;adv.
 lagi|||
 pernah|||
 sering|||
@@ -339,7 +339,7 @@ lemah|||
 keras|||
 lembut|||
 sehat|||
-sakit|||adj.;n.
+sakit|||adj.;v.;n.
 senang|||
 gembira|||
 bahagia|||
@@ -512,8 +512,8 @@ kampung|||
 sendiri|||adj.;pron.
 punya|||
 milik|||
-hidup|||v.;n.;adj.
-mati|||adj.;v.
+hidup|||v.;adj.;n.;adj.
+mati|||adj.;v.;adj.
 lahir|||
 tumbuh|||
 nikah|||
@@ -567,7 +567,7 @@ tanda|||
 bukti|||
 butuh|||
 manfaat|||
-untung|||n.;adj.
+untung|||n.;v.;adj.
 rugi|||
 biaya|||
 gaji|||
@@ -7090,3 +7090,69 @@ mendefinisikan||definisi|
 memanaskan||panas|
 melampiaskan||lampias|
 membukakan||buka|
+kejam|5||adj.
+kemeja|5||n.
+serak|5||adj.
+abadi|5||adj.
+mengeras|5|keras|v.
+berselancar|5||v.
+lakukan|4|laku|v.
+dijalankan|5|jalan|v.
+mengenakan|5|kena|v.
+nahan|5|tahan|v.
+geleng|5||v.
+per|5||prep.
+sobek|5||v.
+mulus|5||adj.
+berliku|5||adj.
+gubuk|5||n.
+pinggul|5||n.
+sendi|5||n.
+siku|5||n.
+matras|5||n.
+keris|5||n.
+ojek|5||n.
+sepoi-sepoi|5||adj.
+kosakata|5||n.
+menoleh|5||v.
+mengisap|5||v.
+sejengkal|5||n.
+deg-degan|5||adj.
+dengerin|5|dengar|v.
+denger|5|dengar|v.
+bayangin|5|bayang|v.
+perhatiin|5||v.
+lihatin|5|lihat|v.
+masakin|5|masak|v.
+biarin|5|biar|v.
+inget|5|ingat|v.
+ketawa|5|tawa|v.
+makasih|5||interj.
+anak buah|5||n.
+salah satu|4||pron.
+masa depan|4||n.
+masa lalu|5||n.
+sakit hati|5||adj.
+balas dendam|5||v.
+suku cadang|5||n.
+sarung tangan|5||n.
+laut lepas|5||n.
+selamat malam|5||interj.
+menyala|5|nyala|v.
+matikan|4|mati|v.
+naikkan|5|naik|v.
+hancurkan|5|hancur|v.
+bersihkan|5|bersih|v.
+aktifkan|5|aktif|v.
+mendapat|4|dapat|v.
+ceritakan|5|cerita|v.
+mendarat|5|darat|v.
+berbatu|5|batu|adj.
+melepas|5|lepas|v.
+sepotong|5|potong|n.
+alami|5|alam|adj.
+apakah|4|apa|part.;conj.
+kuncian|5|kunci|n.
+temukan|4|temu|v.
+menolong|4|tolong|v.
+menurut|4|turut|prep.;v.
