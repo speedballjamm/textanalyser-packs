@@ -3475,6 +3475,7 @@ sungkan|reluctant, shy (out of respect)|o
 gagap|stutter|o
 antibiotik|antibiotic|o
 singapura|Singapore|o
+pura-pura|to pretend, feign|v
 wahyu|divine revelation|o
 kosmos|cosmos|o
 genetika|genetics|o
@@ -3882,7 +3883,7 @@ bungsu|youngest child|o
 hantar|deliver, convey|o
 antartika|Antarctica|o
 garda|guard (garda depan)|o
-pura|pretend; Balinese Hindu temple|o;o
+pura|to pretend (colloq., for pura-pura); Balinese Hindu temple|v;o
 komposisi|composition|o
 jenewa|Geneva|o
 rakus|greedy (for food)|o
@@ -6798,6 +6799,7 @@ bermuka|to have a face (bermuka dua: two-faced)|v
 beragam|varied, diverse|o
 bersarang|to nest|v
 berpura|to pretend (berpura-pura)|v
+berpura-pura|to pretend, feign|v
 berfokus|to focus|v
 berkepala|headed|o
 bersenandung|to hum|v

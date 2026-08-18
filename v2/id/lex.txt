@@ -3470,6 +3470,7 @@ sungkan|||
 gagap|||
 antibiotik|||
 singapura|||
+pura-pura|||v.
 wahyu|||
 kosmos|||
 genetika|||
@@ -3877,7 +3878,7 @@ bungsu|||
 hantar|||
 antartika|||
 garda|||
-pura|||
+pura|||v.;n.
 komposisi|||
 jenewa|||
 rakus|||
@@ -6793,6 +6794,7 @@ bermuka||muka|
 beragam||ragam|
 bersarang||sarang|
 berpura||pura|
+berpura-pura||pura-pura|v.
 berfokus||fokus|
 berkepala||kepala|
 bersenandung||senandung|
