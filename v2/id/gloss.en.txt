@@ -10,13 +10,13 @@
 #
 # Glosses on this file only are generated with an LLM and are not derived from
 # any licensed corpus. See NOTICE at the repo root.
-yang|that, which|o
+yang|that, which (relative); the one that, the one who|o;o
 dan|and|o
 di|in, at|o
 ke|to, toward|o
 dari|from|o
 ini|this|o
-itu|that|o
+itu|that; the (one already known)|o;o
 dengan|with|o
 untuk|for|o
 diperuntukkan|intended for, designated for|o
@@ -26,7 +26,7 @@ oleh|by (agent)|o
 adalah|is, to be|f3s
 ada|there is, there are; to be there, be present; to exist|o;v;v
 tidak|no, not|o
-bukan|not, is not (of nouns)|o
+bukan|not, is not (of nouns); isn't it?, right? (tag question)|o;o
 bukankan|isn't it?, didn't you? (= bukankah)|o
 ya|yes|o
 iya|yes (colloq.)|o
@@ -42,7 +42,7 @@ kita|we (including you)|f1p
 mereka|they|f3p
 kalian|you (plural)|f2s2p
 orang|person, people|o
-apa|what|o
+apa|what; (marks a yes/no question)|o;g
 apakan|to do what with|v
 siapa|who|o
 mana|which, where|o
@@ -85,7 +85,7 @@ tahun|year|o
 jam|hour; o'clock; clock, watch|o;o;o
 menit|minute|o
 detik|second (of time)|o
-waktu|time|o
+waktu|time; when (at the time that)|o;o
 saat|moment; when|o;o
 sekarang|now|o
 nanti|later|o
@@ -100,11 +100,11 @@ sudahkan|have you already...? (= sudahkah)|f3s
 berkesudahan|coming to an end (usu. tak berkesudahan, endless)|o
 telah|already (formal)|o
 belum|not yet|o
-sedang|currently, in the middle of|o
+sedang|currently, in the middle of; medium, moderate|o;o
 masih|still|o
 akan|will, going to|o
 baru|new; just, only just; only then|o;o;o
-lagi|again, more|o
+lagi|again; more, another; in the middle of doing (colloquial)|o;o;o
 pernah|ever, once|o
 sering|often|o
 selalu|always|o
@@ -116,7 +116,7 @@ dapat|can, be able to; to get, receive|o;v
 boleh|may, allowed|o
 harus|must, have to|o
 perlu|to need|v
-mau|to want|v
+mau|to want; will, be about to|v;o
 ingin|to want, to wish|v
 suka|to like|v
 tahu|to know; tofu|v;o
@@ -134,7 +134,7 @@ amat|very|o
 amati|to observe, to watch closely|v
 diamati|to be observed|v
 terlalu|too (excessively)|o
-cukup|enough, sufficient|o
+cukup|enough, sufficient; quite, fairly|o;o
 memadai|adequate, sufficient|o
 kurang|less; lacking, not enough|o;o
 lebih|more|o
@@ -154,7 +154,7 @@ tiap|each|o
 beberapa|several, some|o
 masing|each (masing-masing)|o
 lain|other, different|o
-sama|same|o
+sama|same; with, and (colloquial)|o;o
 menyamakan|to equate, to make the same|v
 menyamai|to equal, to match|v
 samakan|make it the same, equate|o
@@ -187,7 +187,7 @@ agar|so that|o
 supaya|so that|o
 sehingga|so that, to the point that|o
 ketika|when (past)|o
-sementara|while, meanwhile|o
+sementara|while, meanwhile; temporary|o;o
 sebelum|before|o
 sesudah|after|o
 setelah|after|o
@@ -275,7 +275,7 @@ terus|to continue; continuously, the whole time|v;o
 lanjut|to continue|v
 henti|to stop|v
 coba|to try|v
-pakai|to use, to wear|v
+pakai|to use; to wear|v;v
 guna|use, purpose|o
 buat|to make; for|v;o
 bikin|to make (colloq.)|v
@@ -293,7 +293,7 @@ harga|price|o
 mahal|expensive|o
 murah|cheap|o
 gratis|free of charge|o
-baik|good, kind|o
+baik|good, kind; alright, very well (agreeing)|o;o
 bagus|good, nice|o
 buruk|bad|o
 jelek|bad, ugly|o
@@ -351,7 +351,7 @@ bahagia|happy|o
 sedih|sad|o
 marah|angry|o
 takut|afraid|o
-berani|brave|o
+berani|brave; to dare|o;v
 malu|ashamed, shy|o
 bosan|bored|o
 capek|tired (colloq.)|o
@@ -502,7 +502,7 @@ foto|photo|o
 film|film, movie|o
 gambar|picture; to draw|o;v
 contoh|example|o
-soal|question, problem|o
+soal|question, problem; about, regarding|o;o
 masalah|problem|o
 macam|kind, sort|o
 jenis|kind, type|o
@@ -543,7 +543,7 @@ musim|season|o
 hampir|almost|o
 tepat|exact, precise; on time|o;o
 utama|main, primary|o
-dasar|base, foundation|o
+dasar|base, foundation; typical! (before an insult)|o;o
 asal|origin; as long as|o;o
 pokok|main; staple|o;o
 sumber|source|o
@@ -565,7 +565,7 @@ sabun|soap|o
 simpan|to keep, store|v
 buang|to throw away|v
 sampah|garbage, rubbish|o
-pilih|to choose|v
+pilih|to choose; to vote|v;v
 tentu|certain, sure|o
 tunjuk|to point, to show|v
 tanda|sign, mark|o
@@ -593,7 +593,7 @@ sosial|social|o
 budaya|culture|o
 seni|art|o
 agama|religion|o
-sekitar|around, surroundings|o
+sekitar|around, surroundings; about, approximately|o;o
 batas|limit, border|o
 jarak|distance|o
 pusat|center|o
@@ -694,7 +694,7 @@ kembali|to return; again|v;o
 balik|to return, reverse|v
 pindah|to move (house etc.)|v
 diam|silent; to stay still|o;v
-tinggal|to stay, live; to leave behind|v;v
+tinggal|to stay, live; to leave behind; to be left, remain (only)|v;v;v
 berangkat|to depart|v
 lewat|to pass by; through, via|v;o
 ikut|to follow, to join|v
@@ -721,14 +721,14 @@ luka|wound, injury|o
 jiwa|soul, spirit|o
 mimpi|dream|o
 sadar|aware, conscious|o
-kaya|rich|o
+kaya|rich; like, as if (colloquial, for kayak)|o;o
 miskin|poor|o
 hukum|law|o
 atur|to arrange, regulate|v
 larang|to forbid|v
 izin|permission|o
 setuju|to agree|v
-tolak|to refuse, push away|v
+tolak|to refuse, reject; to push away|v;v
 dorong|to push|v
 tarik|to pull; to attract|v;v
 angkat|to lift, raise|v
@@ -759,7 +759,7 @@ gelap|dark|o
 terang|bright, clear|o
 jelas|clear, obvious|o
 muncul|to appear, emerge|v
-hilang|lost, to disappear|o
+hilang|lost; to disappear|o;v
 tampak|visible, to appear|o
 kumpul|to gather|v
 pisah|to separate|v
@@ -805,7 +805,7 @@ adil|fair, just|o
 sebut|to mention, to call|v
 panggil|to call (someone)|v
 pukul|to hit; o'clock|v;o
-masa|period, time|o
+masa|period, time; no way?, really? (disbelief)|o;o
 sebentar|a moment, a little while|o
 umur|age|o
 usia|age|o
@@ -878,7 +878,7 @@ misal|example (misalnya: for example)|o
 yakni|namely|o
 demikian|thus, such|o
 kesan|impression|o
-alasan|reason|o
+alasan|reason; excuse|o;o
 alas|base, mat|o
 syarat|requirement, condition|o
 wajib|obligatory|o
@@ -1070,7 +1070,7 @@ wortel|carrot|o
 kangkung|water spinach|o
 mangga|mango|o
 apel|apple|o
-anggur|grape|o
+anggur|grape; wine|o;o
 semangka|watermelon|o
 pepaya|papaya|o
 nanas|pineapple|o
@@ -1229,7 +1229,7 @@ setia|loyal, faithful|o
 ikhlas|sincere|o
 tulus|sincere|o
 niat|intention|o
-semangat|spirit, enthusiasm|o
+semangat|spirit, enthusiasm; keep it up!, go for it! (encouragement)|o;o
 malas|lazy|o
 rajin|diligent|o
 sopan|polite|o
@@ -1490,7 +1490,7 @@ pertama|first|o
 gadis|girl|o
 tanpa|without|o
 gila|crazy|o
-sial|damn, unlucky|o
+sial|damn!, dammit (exclamation); unlucky|o;o
 mu|you, your (informal)|f2s2p
 bagian|part, section|o
 bodoh|stupid|o
@@ -1506,7 +1506,7 @@ astaga|good grief, oh my god|o
 tau|know (colloq. for tahu)|o
 nak|dear, kid (term of address; short for anak)|o
 nah|there you go; well then|o;o
-nya|him, her, it (informal 3rd-person clitic)|o
+nya|his, her, its (possessive); him, her, it (object); the (the one already known)|o;o;o
 jatuh|fall|o
 eh|hey, oh (interjection)|o
 raja|king|o
@@ -1529,7 +1529,7 @@ silahkan|please, go ahead|o
 okay|okay|o
 segalanya|everything|o
 bertahan|survive, endure, hold out|o
-putri|princess, daughter|o
+putri|daughter; princess|o;o
 omong|talk, chat (informal)|o
 semoga|hopefully|o
 brengsek|damn, jerk (vulgar)|o
@@ -1620,7 +1620,7 @@ bersembunyi|hide|o
 menikmati|enjoy|o
 mama|mom|o
 terjebak|trapped|o
-menahan|hold back, restrain|o
+menahan|to hold back, to restrain; to detain (in custody)|v;v
 usah|need to (in tidak usah = no need)|o
 seks|sex|o
 mirip|similar, resembling|o
@@ -1641,7 +1641,7 @@ sisa|remainder, leftover|o
 klub|club|o
 natal|Christmas|o
 jepang|Japan|o
-putra|son, prince|o
+putra|son; prince|o;o
 kencan|date, dating|o
 timur|east|o
 barat|west|o
@@ -1656,7 +1656,7 @@ bersikap|behave, act|o
 rekaman|recording|o
 menyembunyikan|hide (something)|o
 darimana|from where|o
-telpon|phone (colloq. spelling of telepon)|o
+telpon|phone (colloq. spelling of telepon); to call|o;v
 mantan|ex- (former partner)|o
 idiot|idiot|o
 setan|devil, demon|o
@@ -1671,7 +1671,7 @@ rusia|Russia|o
 india|India|o
 letnan|lieutenant|o
 yesus|Jesus|o
-kena|hit, affected by, get in trouble|o
+kena|to hit, to be affected by; to get in trouble|v;v
 tanggal|date (calendar)|o
 bro|bro (slang)|o
 lelucon|joke|o
@@ -1880,7 +1880,7 @@ percakapan|conversation|o
 penggemar|fan (of something)|o
 sanggup|capable, willing, able|o
 bakal|going to, will (colloq.)|o
-berkat|thanks to, by virtue of|o
+berkat|thanks to, by virtue of; blessing|o;o
 impian|dream, aspiration|o
 sayap|wing|o
 resiko|risk|o
@@ -2207,7 +2207,7 @@ bergegas|hurry, rush|o
 ialah|is, namely (formal copula)|f3s
 sofa|sofa|o
 pop|pop (music)|o
-urut|in order, sequence|o
+urut|in order, sequence; to massage|o;v
 ipar|sibling-in-law|o
 ilmiah|scientific|o
 global|global|o
@@ -5178,7 +5178,7 @@ alpen|the Alps (mountain range)|o
 kelep|valve (mechanical)|o
 ac|air conditioner (AC)|o
 siput|snail|o
-rubah|fox|o
+rubah|fox; to change (colloquial for ubah)|o;v
 pental|bounce, fling|o
 hentak|stomp, pound; jolt|o;o
 petani|farmer|o
@@ -5223,14 +5223,14 @@ kematian|death|o
 kesalahan|mistake, error|o
 keadaan|situation, condition|o
 keamanan|security, safety|o
-keberatan|objection|o
-ketakutan|fear, terror|o
+keberatan|objection; to object, to mind|o;v
+ketakutan|fear, terror; frightened, terrified|o;o
 kemungkinan|possibility|o
 kejadian|event, incident|o
 kebenaran|truth|o
 kelihatan|to appear, seem, be visible|v
 kehormatan|honour|o
-kebanyakan|most of, the majority|o
+kebanyakan|most of, the majority; too much, too many|o;o
 kegelapan|darkness|o
 kesulitan|difficulty, trouble|o
 kenyataan|reality, fact|o
@@ -6849,7 +6849,7 @@ menanyakan|to ask about|v
 mengagumkan|amazing, admirable|o
 mengumpulkan|to collect, gather|v
 melanjutkan|to continue|v
-mematikan|to turn off, kill; deadly|v;o
+mematikan|to turn off; to kill; deadly|v;v;o
 menawarkan|to offer|v
 mengendalikan|to control|v
 mengembalikan|to return, give back|v

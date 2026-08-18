@@ -11,7 +11,7 @@ di|||
 ke|||
 dari|||
 ini|||
-itu|||
+itu|||pron.;part.
 dengan|||
 untuk|||
 diperuntukkan|5|untuk|v.
@@ -37,7 +37,7 @@ kita|||
 mereka|||
 kalian|||
 orang|||
-apa|||
+apa|||pron.;part.
 apakan|5|apa|v.
 siapa|||
 mana|||
@@ -80,7 +80,7 @@ tahun|||
 jam|||
 menit|||
 detik|||
-waktu|||
+waktu|||n.;conj.
 saat|||n.;conj.
 sekarang|||
 nanti|||
@@ -95,7 +95,7 @@ sudahkan|5||
 berkesudahan|5|sudah|
 telah|||
 belum|||
-sedang|||
+sedang|||adv.;adj.
 masih|||
 akan|||
 baru|||adj.;adv.;adv.
@@ -111,7 +111,7 @@ dapat|||aux.;v.
 boleh|||
 harus|||
 perlu|||
-mau|||
+mau|||v.;aux.
 ingin|||
 suka|||
 tahu|||v.;n.
@@ -129,7 +129,7 @@ amat|||
 amati|5|amat|v.
 diamati|5|amat|v.
 terlalu|||
-cukup|||
+cukup|||adj.;adv.
 memadai|5||adj.
 kurang|||adv.;adj.
 lebih|||
@@ -149,7 +149,7 @@ tiap|||
 beberapa||berapa|
 masing|||
 lain|||
-sama|||
+sama|||adj.;prep.
 menyamakan|5|sama|v.
 menyamai|5|sama|v.
 samakan|5|sama|v.
@@ -182,7 +182,7 @@ agar|||
 supaya|||
 sehingga||hingga|
 ketika|||
-sementara|||
+sementara|||conj.;adj.
 sebelum||belum|
 sesudah||sudah|
 setelah||telah|
@@ -288,7 +288,7 @@ harga|||
 mahal|||
 murah|||
 gratis|||
-baik|||
+baik|||adj.;interj.
 bagus|||
 buruk|||
 jelek|||
@@ -346,7 +346,7 @@ bahagia|||
 sedih|||
 marah|||
 takut|||
-berani|||
+berani|||adj.;v.
 malu|||
 bosan|||
 capek|||
@@ -497,7 +497,7 @@ foto|||
 film|||
 gambar|||n.;v.
 contoh|||
-soal|||
+soal|||n.;prep.
 masalah|||
 macam|||
 jenis|||
@@ -538,7 +538,7 @@ musim|||
 hampir|||
 tepat|||adj.;adv.
 utama|||
-dasar|||
+dasar|||n.;interj.
 asal|||n.;conj.
 pokok|||adj.;n.
 sumber|||
@@ -716,7 +716,7 @@ luka|||
 jiwa|||
 mimpi|||
 sadar|||
-kaya|||
+kaya|||adj.;prep.
 miskin|||
 hukum|||
 atur|||
@@ -754,7 +754,7 @@ gelap|||
 terang|||
 jelas|||
 muncul|||
-hilang|||
+hilang|||adj.;v.
 tampak|||
 kumpul|||
 pisah|||
@@ -800,7 +800,7 @@ adil|||
 sebut|||
 panggil|||
 pukul|||v.;n.
-masa|||
+masa|||n.;interj.
 sebentar||bentar|
 umur|||
 usia|||
@@ -1224,7 +1224,7 @@ setia|||
 ikhlas|||
 tulus|||
 niat|||
-semangat|||
+semangat|||n.;interj.
 malas|||
 rajin|||
 sopan|||
@@ -1485,7 +1485,7 @@ pertama|||
 gadis|||
 tanpa|||
 gila|||
-sial|||
+sial|||interj.;adj.
 mu|||
 bagian||bagi|
 bodoh|||
@@ -1651,7 +1651,7 @@ bersikap||sikap|
 rekaman||rekam|
 menyembunyikan||sembunyi|
 darimana|||
-telpon|||
+telpon|||n.;v.
 mantan|||
 idiot|||
 setan|||
@@ -1875,7 +1875,7 @@ percakapan||cakap|
 penggemar||gemar|
 sanggup|||
 bakal|||
-berkat|||
+berkat|||prep.;n.
 impian|||
 sayap|||
 resiko|||
@@ -5173,7 +5173,7 @@ alpen|||
 kelep|5||
 ac|||
 siput|||
-rubah|||
+rubah|||n.;v.
 pental|||
 hentak|||v.;n.
 petani||tani|n.
@@ -5218,8 +5218,8 @@ kematian||mati|
 kesalahan||salah|
 keadaan||ada|
 keamanan||aman|
-keberatan||berat|
-ketakutan||takut|
+keberatan||berat|n.;v.
+ketakutan||takut|n.;adj.
 kemungkinan||mungkin|
 kejadian||jadi|
 kebenaran||benar|
@@ -6844,7 +6844,7 @@ menanyakan||tanya|
 mengagumkan||kagum|
 mengumpulkan||kumpul|
 melanjutkan||lanjut|
-mematikan||mati|
+mematikan||mati|v.;v.;adj.
 menawarkan||tawar|
 mengendalikan||kendali|
 mengembalikan||kembali|
