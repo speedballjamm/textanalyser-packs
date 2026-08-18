@@ -1490,7 +1490,7 @@ pertama|first|o
 gadis|girl|o
 tanpa|without|o
 gila|crazy|o
-sial|damn!, dammit (exclamation); unlucky|o;o
+sial|damn!, dammit; unlucky|o;o
 mu|you, your (informal)|f2s2p
 bagian|part, section|o
 bodoh|stupid|o
@@ -3882,7 +3882,7 @@ bungsu|youngest child|o
 hantar|deliver, convey|o
 antartika|Antarctica|o
 garda|guard (garda depan)|o
-pura|pretend|o
+pura|pretend; Balinese Hindu temple|o;o
 komposisi|composition|o
 jenewa|Geneva|o
 rakus|greedy (for food)|o
