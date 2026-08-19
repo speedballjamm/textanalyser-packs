@@ -170,7 +170,7 @@ samakan|make it the same, equate|o
 disamakan|to be equated with|v
 beda|different|o
 seperti|like, as|o
-sebagai|as, in the role of|o
+sebagai|as, in the role of; dan sebagainya: and so on, et cetera|o;n
 bahwa|that (conjunction)|o
 kalau|if|o
 kalau-kalau|in case, lest; whether, if by chance (after a verb of checking)|o;o
@@ -7276,3 +7276,10 @@ kedengarannya|it sounds like, it sounds|f3s
 nampaknya|apparently, it seems (colloquial)|o
 kayaknya|it seems, I think (colloquial)|f3s
 agaknya|apparently, it seems|o
+menangani|to handle, to deal with|v
+pencarian|search, hunt|o
+pencari|seeker, searcher|o
+kekasih|lover, sweetheart|o
+kupunya|I have, I own|f1s
+pelajari|to study, to learn about|v
+terapi|therapy|o

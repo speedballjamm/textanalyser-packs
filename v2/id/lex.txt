@@ -7271,3 +7271,10 @@ kedengarannya|3||adv.
 nampaknya|4||adv.
 kayaknya|5||adv.
 agaknya|5||adv.
+menangani|3|tangan|v.
+pencarian|4|cari|n.
+pencari|5|cari|n.
+kekasih|4|kasih|n.
+kupunya|5|punya|v.
+pelajari|4|ajar|v.
+terapi|5||n.
