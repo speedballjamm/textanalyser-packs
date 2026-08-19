@@ -38,15 +38,20 @@ mereka|||
 kalian|||
 orang|||
 apa|||pron.;part.
+apa-apa|2||pron.;interj.
 apakan|5|apa|v.
 siapa|||
+siapa-siapa|4||pron.
 mana|||
+mana-mana|4||adv.
 bagaimana|||
 mengapa||apa|
 kenapa||napa|
 kapan|||
+kapan-kapan|5||adv.
 berapa||apa|
 satu|||
+satu-satu|5||adv.;pron.
 menyatu|5|satu|v.
 satukan|5|satu|v.
 disatukan|5|satu|v.
@@ -99,6 +104,7 @@ sedang|||adv.;adj.
 masih|||
 akan|||
 baru|||adj.;adv.;adv.
+baru-baru|4||adv.
 lagi|||
 pernah|||
 sering|||
@@ -124,6 +130,7 @@ hanya|||
 saja|||
 sangat|||
 sekali||kali|
+sekali-sekali|5||adv.
 sama sekali|3||
 amat|||
 amati|5|amat|v.
@@ -140,7 +147,7 @@ berlebih|5|lebih|adj.
 paling|||
 memalingkan|5|paling|v.
 palingkan|5|paling|v.
-banyak|||
+banyak|||adj.
 sedikit||dikit|
 semua|||
 seluruh|||
@@ -149,7 +156,9 @@ tiap|||
 beberapa||berapa|
 masing|||
 lain|||
+lain-lain|5||n.;n.
 sama|||adj.;prep.
+sama-sama|4||interj.;adv.
 menyamakan|5|sama|v.
 menyamai|5|sama|v.
 samakan|5|sama|v.
@@ -159,12 +168,14 @@ seperti|||
 sebagai|||
 bahwa|||
 kalau|||
+kalau-kalau|5||conj.;conj.
 jika|||
 andai|4||
 seandainya|4|andai|
 andaikan|5|andai|v.
 karena|||
 sebab|||n.;conj.
+gara-gara|4||prep.
 jadi|||conj.;v.
 maka|||
 tetapi|||
@@ -179,6 +190,7 @@ disertakan|5|serta|v.
 sertai|5|serta|v.
 berserta|5|serta|
 agar|||
+agar-agar|5||n.
 supaya|||
 sehingga||hingga|
 ketika|||
@@ -188,6 +200,7 @@ sesudah||sudah|
 setelah||telah|
 sejak|||
 sampai|||prep.;v.
+sampai-sampai|5||conj.
 hingga|||
 tentang|||
 antara|||
@@ -199,8 +212,8 @@ depan|||n.;adj.
 belakang|||
 tengah|||
 samping|||
-dekat|||
-jauh|||
+dekat|||adj.
+jauh|||adj.
 sini|||
 sinikan|5|sini|v.
 situ|||
@@ -208,6 +221,7 @@ sana|||
 mari|||
 ayo|||
 jangan|||
+jangan-jangan|5||adv.
 jangankan|5||
 silakan|||
 tolong|||interj.;v.
@@ -270,12 +284,14 @@ terus|||v.;adv.
 lanjut|||
 henti|||
 coba|||
+coba-coba|5||v.;v.
 pakai|||
 guna|||
 buat|||v.;prep.
 bikin|||
 kerja|||n.;v.
 main|||
+main-main|4||v.;adj.
 ajar|||
 baca|||
 tulis|||
@@ -289,14 +305,17 @@ mahal|||
 murah|||
 gratis|||
 baik|||adj.;interj.
+baik-baik|2||adj.;adv.
 bagus|||
 buruk|||
 jelek|||
 benar|||
+benar-benar|2||adv.
 betul|||
+betul-betul|5||adv.
 salah|||adj.;n.
 besar|||
-kecil|||
+kecil|||adj.
 panjang|||
 pendek|||
 tinggi|||
@@ -307,9 +326,9 @@ berat|||
 ringan|||
 tebal|||
 tipis|||
-cepat|||
+cepat|||adj.
 lambat|||
-pelan|||
+pelan|||adj.
 mudah|||
 gampang|||
 sulit|||
@@ -318,13 +337,14 @@ sederhana|||
 rumit|||
 penting|||
 lama|||n.;adj.
+lama-lama|5||adv.;adv.
 muda|||
 tua|||adj.;n.
 cantik|||
 tampan|||
 ganteng|||
 indah|||
-bersih|||
+bersih|||adj.
 kotor|||
 panas|||
 dingin|||
@@ -336,18 +356,18 @@ penuh|||
 kosong|||
 kuat|||
 lemah|||
-keras|||
+keras|||adj.;adj.;adj.
 lembut|||
 sehat|||
 sakit|||adj.;v.;n.
-senang|||
+senang|||adj.
 gembira|||
 bahagia|||
 sedih|||
-marah|||
+marah|||adj.
 takut|||
 berani|||adj.;v.
-malu|||
+malu|||adj.
 bosan|||
 capek|||
 lelah|||
@@ -363,6 +383,7 @@ asam|||adj.;n.
 pedas|||
 gurih|||
 anak|||
+kanak-kanak|5||n.;n.
 ibu|||
 bapak|||
 ayah|||
@@ -395,6 +416,7 @@ angin|||
 hujan|||
 awan|||
 langit|||
+langit-langit|5||n.;n.
 matahari|||
 bintang|||
 bumi|||
@@ -445,6 +467,7 @@ daging|||
 telur|||
 susu|||
 gula|||
+gula-gula|5||n.
 garam|||
 minyak|||
 sayur|||
@@ -513,6 +536,7 @@ sendiri|||adj.;pron.
 punya|||
 milik|||
 hidup|||v.;adj.;n.;adj.
+hidup-hidup|4||adv.
 mati|||adj.;v.;adj.
 lahir|||
 tumbuh|||
@@ -522,7 +546,7 @@ sayang|||adj.;n.;interj.
 benci|||
 percaya|||
 yakin|||
-ragu|||
+ragu|||adj.
 bohong|||
 jujur|||
 janji|||
@@ -559,6 +583,7 @@ sikat|||
 sabun|||
 simpan|||
 buang|||
+buang-buang|5||v.
 sampah|||
 pilih|||
 tentu|||
@@ -593,6 +618,7 @@ batas|||
 jarak|||
 pusat|||
 akhir|||
+akhir-akhir|4||adv.
 awal|||
 daftar|||n.;v.
 catat|||
@@ -604,7 +630,8 @@ ulang tahun|||
 raya|||
 hadiah|||
 biasa|||
-aneh|||
+biasa-biasa|5||adj.
+aneh|||adj.
 hebat|||
 istimewa|||
 sibuk|||
@@ -643,6 +670,7 @@ kereta|||
 kereta api|||
 pesawat|||
 kapal|||
+baling-baling|5||n.
 meja|||
 kursi|||
 gelas|||
@@ -689,6 +717,7 @@ kembali|||v.;adv.
 balik|||
 pindah|||
 diam|||adj.;v.
+diam-diam|4||adv.
 tinggal|||
 berangkat||angkat|
 lewat|||v.;prep.
@@ -709,6 +738,7 @@ uji|||
 nilai|||
 tingkat|||
 jaga|||
+jaga-jaga|5||v.
 rawat|||
 obat|||
 sembuh|||
@@ -745,6 +775,7 @@ tanam|||
 kebun|||
 sawah|||
 taman|||
+alun-alun|5||n.
 laku|||n.;v.
 kira|||
 rapi|||
@@ -752,7 +783,7 @@ ramai|||
 sepi|||
 gelap|||
 terang|||
-jelas|||
+jelas|||adj.
 muncul|||
 hilang|||adj.;v.
 tampak|||
@@ -816,7 +847,7 @@ walau|||
 biar|||v.;conj.
 padahal|||
 justru|||
-sungguh|||
+sungguh|||adv.
 entah|||interj.;conj.
 barangkali|||
 daripada|||
@@ -862,6 +893,7 @@ anggap|||
 duga|||
 ramal|||
 bayang|||
+bayang-bayang|5||n.
 khayal|||
 fokus|||
 teliti|||
@@ -1157,6 +1189,7 @@ merek|||
 kualitas|||
 mutu|||
 undang|||
+undang-undang|5||n.
 bijak|||
 hakim|||
 saksi|||
@@ -1302,6 +1335,7 @@ genap|||
 ganda|||
 tunggal|||
 rata|||
+rata-rata|5||n.;adv.
 inti|||
 bab|||
 babi|3||n.
@@ -1353,6 +1387,7 @@ kerbau|||
 rusa|||
 singa|||
 beruang|||
+berang-berang|5||n.
 buaya|||
 hiu|||
 paus|||
@@ -1526,6 +1561,7 @@ segalanya||segala|
 bertahan||tahan|
 putri|||
 omong|||
+omong-omong|4||adv.
 semoga|||
 brengsek|||
 bila|||
@@ -1628,6 +1664,7 @@ sihir|||
 minggir|||
 kisah|||
 alih|||
+alih-alih|5||conj.
 asli|||
 menakjubkan|||
 awas|||
@@ -2032,7 +2069,8 @@ baris|||
 tradisi|||
 baja|||
 ngomong|||
-samar|||
+ngomong-ngomong|4||adv.
+samar|||adj.
 total|||
 tahap|||
 perduli|||
@@ -2113,6 +2151,8 @@ cokelat|||
 curang|||
 tarung|||
 kalung|||
+manik-manik|5||n.
+aba-aba|5||n.
 sampel|||
 sok|||
 reaksi|||
@@ -2225,7 +2265,7 @@ otomatis|||
 pangkalan|||
 terjun|||
 pakistan|||
-lebar|||
+lebar|||adj.
 cacing|||
 perhiasan||hiasan|
 plastik|||
@@ -2288,6 +2328,7 @@ madam|||
 thailand|||
 konsentrasi|||
 mula|||
+mula-mula|5||adv.
 memulakan|5|mula|v.
 konser|||
 saus|||
@@ -2351,6 +2392,7 @@ waris|||
 perisai|||
 koleksi|||
 laki|||
+laki-laki|2||n.;adj.
 transaksi|||
 manual|||
 lencana|||
@@ -2417,7 +2459,7 @@ subjek|||
 beku|||
 gps|||
 frekuensi|||
-erat|||
+erat|||adj.
 pink|||
 burger|||
 cabut|||
@@ -2469,6 +2511,7 @@ saing|||
 rangkak|||
 alkitab|||
 layang|||
+layang-layang|5||n.
 siaga|||
 tombak|||
 transportasi|||
@@ -2707,6 +2750,7 @@ anu|||
 dosis|||
 doktor|||
 repot|||
+repot-repot|5||v.
 studi|||
 vodka|||
 tanduk|||
@@ -2848,6 +2892,7 @@ meleleh|||
 hobi|||
 biskuit|||
 cita|||
+cita-cita|5||n.
 segitiga|||
 eksekusi|||
 monitor|||
@@ -3849,6 +3894,7 @@ kompetitif|||
 mutasi|||
 liur|||
 anting|||
+anting-anting|5||n.
 melodi|||
 reda|||
 temperatur|||
@@ -4293,6 +4339,7 @@ belasungkawa|||
 antariksa|||
 sembur|||
 paru|||
+paru-paru|5||n.
 ikon|||
 infanteri|||
 ratap|||

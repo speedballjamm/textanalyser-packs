@@ -43,15 +43,20 @@ mereka|they|f3p
 kalian|you (plural)|f2s2p
 orang|person, people|o
 apa|what; (marks a yes/no question)|o;g
+apa-apa|anything, nothing (in a negated clause); tidak apa-apa: it's all right, never mind|o;n
 apakan|to do what with|v
 siapa|who|o
+siapa-siapa|anyone, nobody (in a negated clause)|o
 mana|which, where|o
+mana-mana|anywhere, everywhere (with di or ke)|o
 bagaimana|how|o
 mengapa|why|o
 kenapa|why|o
 kapan|when|o
+kapan-kapan|sometime, some other time|o
 berapa|how much, how many|o
 satu|one|o
+satu-satu|one by one, one at a time; the only one (colloq., for satu-satunya)|o;o
 menyatu|to unite, to merge|v
 satukan|to unite, to bring together|v
 disatukan|to be united|v
@@ -104,6 +109,7 @@ sedang|currently, in the middle of; medium, moderate|o;o
 masih|still|o
 akan|will, going to|o
 baru|new; just, only just; only then|o;o;o
+baru-baru|recently (usu. baru-baru ini)|o
 lagi|again; more, another; in the middle of doing (colloquial)|o;o;o
 pernah|ever, once|o
 sering|often|o
@@ -129,6 +135,7 @@ hanya|only|o
 saja|just, only|o
 sangat|very|o
 sekali|very; once|o;o
+sekali-sekali|occasionally, once in a while|o
 sama sekali|(not) at all|o
 amat|very|o
 amati|to observe, to watch closely|v
@@ -154,7 +161,9 @@ tiap|each|o
 beberapa|several, some|o
 masing|each (masing-masing)|o
 lain|other, different|o
+lain-lain|others, the rest; dan lain-lain: and so on, et cetera|o;n
 sama|same; with, and (colloquial)|o;o
+sama-sama|not at all, you're welcome (reply to thanks); both, together, alike|o;o
 menyamakan|to equate, to make the same|v
 menyamai|to equal, to match|v
 samakan|make it the same, equate|o
@@ -164,12 +173,14 @@ seperti|like, as|o
 sebagai|as, in the role of|o
 bahwa|that (conjunction)|o
 kalau|if|o
+kalau-kalau|in case, lest; whether, if by chance (after a verb of checking)|o;o
 jika|if|o
 andai|if, supposing|o
 seandainya|supposing, if only|o
 andaikan|suppose, if|o
 karena|because|o
 sebab|cause; because|o;o
+gara-gara|because of, on account of|o
 jadi|so; to become|o;v
 maka|then, therefore|o
 tetapi|but|o
@@ -184,6 +195,7 @@ disertakan|to be included, to be enclosed|v
 sertai|to accompany, to join|v
 berserta|together with|o
 agar|so that|o
+agar-agar|jelly, agar (a seaweed gelatin)|o
 supaya|so that|o
 sehingga|so that, to the point that|o
 ketika|when (past)|o
@@ -193,6 +205,7 @@ sesudah|after|o
 setelah|after|o
 sejak|since|o
 sampai|until, up to; to arrive at, reach|o;v
+sampai-sampai|so much so that, to the point that|o
 hingga|until|o
 tentang|about, concerning|o
 antara|between, among|o
@@ -213,6 +226,7 @@ sana|over there|o
 mari|let's|o
 ayo|come on, let's|o
 jangan|don't|o
+jangan-jangan|what if, don't tell me (voicing a suspicion)|o
 jangankan|let alone, never mind|o
 silakan|please (go ahead)|o
 tolong|please; to help|o;v
@@ -275,12 +289,14 @@ terus|to continue; continuously, the whole time|v;o
 lanjut|to continue|v
 henti|to stop|v
 coba|to try|v
+coba-coba|to try out, experiment; to dare, try anything (esp. after jangan)|v;v
 pakai|to use; to wear|v;v
 guna|use, purpose|o
 buat|to make; for|v;o
 bikin|to make (colloq.)|v
 kerja|work; to work|o;v
 main|to play|v
+main-main|to mess around, fool around; joking, not serious|v;o
 ajar|to teach (belajar: to learn)|v
 baca|to read|v
 tulis|to write|v
@@ -294,11 +310,14 @@ mahal|expensive|o
 murah|cheap|o
 gratis|free of charge|o
 baik|good, kind; alright, very well (agreeing)|o;o
+baik-baik|fine, all right; carefully, properly|o;o
 bagus|good, nice|o
 buruk|bad|o
 jelek|bad, ugly|o
 benar|true, correct|o
+benar-benar|really, truly, genuinely|o
 betul|correct, right|o
+betul-betul|really, truly|o
 salah|wrong; mistake|o;o
 besar|big, large|o
 kecil|small|o
@@ -323,6 +342,7 @@ sederhana|simple, modest|o
 rumit|complicated|o
 penting|important|o
 lama|a long time; old|o;o
+lama-lama|(for) long; eventually, in the end|o;o
 muda|young|o
 tua|old; parent (orang tua)|o;o
 cantik|beautiful, pretty|o
@@ -368,6 +388,7 @@ asam|sour; acid|o;o
 pedas|spicy|o
 gurih|savoury|o
 anak|child|o
+kanak-kanak|child, children; taman kanak-kanak: kindergarten|o;n
 ibu|mother; ma'am|o;o
 bapak|father; sir|o;o
 ayah|father|o
@@ -400,6 +421,7 @@ angin|wind|o
 hujan|rain|o
 awan|cloud|o
 langit|sky|o
+langit-langit|ceiling; palate (of the mouth)|o;o
 matahari|sun|o
 bintang|star|o
 bumi|earth|o
@@ -450,6 +472,7 @@ daging|meat|o
 telur|egg|o
 susu|milk|o
 gula|sugar|o
+gula-gula|sweets, candy|o
 garam|salt|o
 minyak|oil; cooking oil|o;o
 sayur|vegetable|o
@@ -518,6 +541,7 @@ sendiri|alone, by oneself; own, self|o;o
 punya|to have, to own|v
 milik|possession, belonging to|o
 hidup|to live; on, working (of a device); life; alive|v;o;o;o
+hidup-hidup|alive (while still living)|o
 mati|dead; to die; off, out (of a device)|o;v;o
 lahir|to be born|v
 tumbuh|to grow|v
@@ -564,6 +588,7 @@ sikat|brush|o
 sabun|soap|o
 simpan|to keep, store|v
 buang|to throw away|v
+buang-buang|to waste (time, money)|v
 sampah|garbage, rubbish|o
 pilih|to choose; to vote|v;v
 tentu|certain, sure|o
@@ -598,6 +623,7 @@ batas|limit, border|o
 jarak|distance|o
 pusat|center|o
 akhir|end|o
+akhir-akhir|lately, recently (usu. akhir-akhir ini)|o
 awal|beginning, early|o
 daftar|list; to register|o;v
 catat|to note down|v
@@ -609,6 +635,7 @@ ulang tahun|birthday|o
 raya|great (hari raya: holiday)|o
 hadiah|gift, prize|o
 biasa|usual, ordinary|o
+biasa-biasa|ordinary, nothing special (usu. biasa-biasa saja)|o
 aneh|strange, odd|o
 hebat|great, awesome|o
 istimewa|special|o
@@ -648,6 +675,7 @@ kereta|train; carriage|o;o
 kereta api|train|o
 pesawat|aeroplane|o
 kapal|ship|o
+baling-baling|propeller|o
 meja|table|o
 kursi|chair|o
 gelas|drinking glass|o
@@ -694,6 +722,7 @@ kembali|to return; again|v;o
 balik|to return, reverse|v
 pindah|to move (house etc.)|v
 diam|silent; to stay still|o;v
+diam-diam|secretly, quietly|o
 tinggal|to stay, live; to leave behind; to be left, remain (only)|v;v;v
 berangkat|to depart|v
 lewat|to pass by; through, via|v;o
@@ -714,6 +743,7 @@ uji|to test (ujian: exam)|v
 nilai|value; grade, score|o;o
 tingkat|level, degree|o
 jaga|to guard, watch over|v
+jaga-jaga|to take precautions, be on guard (untuk jaga-jaga: just in case)|v
 rawat|to care for, nurse|v
 obat|medicine|o
 sembuh|to recover, heal|v
@@ -750,6 +780,7 @@ tanam|to plant|v
 kebun|garden, plantation|o
 sawah|rice field|o
 taman|park, garden|o
+alun-alun|town square|o
 laku|behaviour; to sell well|o;v
 kira|to guess, think|v
 rapi|neat, tidy|o
@@ -867,6 +898,7 @@ anggap|to consider, assume|v
 duga|to suspect, guess|v
 ramal|to predict|v
 bayang|shadow|o
+bayang-bayang|shadow|o
 khayal|imagination, fantasy|o
 fokus|focus|o
 teliti|careful, thorough|o
@@ -1161,7 +1193,8 @@ promosi|promotion|o
 merek|brand|o
 kualitas|quality|o
 mutu|quality|o
-undang|to invite (undang-undang: law)|v
+undang|to invite|v
+undang-undang|law, statute|o
 bijak|wise|o
 hakim|judge|o
 saksi|witness|o
@@ -1306,7 +1339,8 @@ ganjil|odd (number)|o
 genap|even (number)|o
 ganda|double|o
 tunggal|single|o
-rata|flat, even (rata-rata: average)|o
+rata|flat, even|o
+rata-rata|average; on average, mostly|o;o
 inti|core, essence|o
 bab|chapter|o
 babi|pig|o
@@ -1358,6 +1392,7 @@ kerbau|water buffalo|o
 rusa|deer|o
 singa|lion|o
 beruang|bear (animal)|o
+berang-berang|otter|o
 buaya|crocodile|o
 hiu|shark|o
 paus|whale; pope|o;o
@@ -1531,6 +1566,7 @@ segalanya|everything|o
 bertahan|survive, endure, hold out|o
 putri|daughter; princess|o;o
 omong|talk, chat (informal)|o
+omong-omong|by the way (informal)|o
 semoga|hopefully|o
 brengsek|damn, jerk (vulgar)|o
 bila|if, when|o
@@ -1633,6 +1669,7 @@ sihir|magic, sorcery|o
 minggir|move aside, get out of the way|o
 kisah|story, tale|o
 alih|shift, transfer|o
+alih-alih|instead of, rather than|o
 asli|original, genuine, authentic|o
 menakjubkan|amazing|o
 awas|watch out, beware|o
@@ -2037,6 +2074,7 @@ baris|line, row|o
 tradisi|tradition|o
 baja|steel|o
 ngomong|talk, speak (colloq.)|o
+ngomong-ngomong|by the way (colloq.)|o
 samar|vague, disguised|o
 total|total|o
 tahap|stage, phase|o
@@ -2118,6 +2156,8 @@ cokelat|chocolate; brown|o;o
 curang|cheating, unfair|o
 tarung|fight|o
 kalung|necklace|o
+manik-manik|bead|o
+aba-aba|signal, command (to start)|o
 sampel|sample|o
 sok|pretentious, acting like (colloq.)|o
 reaksi|reaction|o
@@ -2293,6 +2333,7 @@ madam|madam|o
 thailand|Thailand|o
 konsentrasi|concentration|o
 mula|beginning, origin|o
+mula-mula|at first, initially|o
 memulakan|to begin, to start (Malay)|v
 konser|concert|o
 saus|sauce|o
@@ -2356,6 +2397,7 @@ waris|heir, inheritance|o
 perisai|shield|o
 koleksi|collection|o
 laki|male, man|o
+laki-laki|man; male|o;o
 transaksi|transaction|o
 manual|manual|o
 lencana|badge|o
@@ -2474,6 +2516,7 @@ saing|rival, compete|o
 rangkak|crawl|o
 alkitab|Bible|o
 layang|fly, soar, kite|o
+layang-layang|kite|o
 siaga|alert, ready, standby|o
 tombak|spear|o
 transportasi|transportation|o
@@ -2712,6 +2755,7 @@ anu|what's-it, thingamajig (filler word)|o
 dosis|dose|o
 doktor|doctor (academic title)|o
 repot|busy, troubled|o
+repot-repot|to bother, take the trouble|v
 studi|study|o
 vodka|vodka|o
 tanduk|horn (animal)|o
@@ -2852,7 +2896,8 @@ koloni|colony|o
 meleleh|melt|o
 hobi|hobby|o
 biskuit|biscuit, cookie|o
-cita|aspiration (cita-cita)|o
+cita|feeling, sense (of taste, beauty)|o
+cita-cita|aspiration, ambition, dream|o
 segitiga|triangle|o
 eksekusi|execution|o
 monitor|monitor|o
@@ -3854,6 +3899,7 @@ kompetitif|competitive|o
 mutasi|mutation|o
 liur|saliva|o
 anting|earring|o
+anting-anting|earring|o
 melodi|melody|o
 reda|subside, calm|o
 temperatur|temperature|o
@@ -4298,6 +4344,7 @@ belasungkawa|condolences|o
 antariksa|outer space|o
 sembur|spurt, spray|o
 paru|lung|o
+paru-paru|lung|o
 ikon|icon|o
 infanteri|infantry|o
 ratap|wail, lament|o
