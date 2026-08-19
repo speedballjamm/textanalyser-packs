@@ -6673,3 +6673,8 @@ she'd|dia (perempuan) akan; dia (perempuan) sudah (bentuk perfek lampau)|f3s;f3s
 it'd|itu akan; itu sudah (bentuk perfek lampau)|f3s;f3s
 we'd|kami akan; kami sudah (bentuk perfek lampau)|f1p;f1p
 they'd|mereka akan; mereka sudah (bentuk perfek lampau)|f3p;f3p
+needn't|tidak perlu|o
+o'clock|pukul, jam (menyebutkan waktu)|o
+ma'am|Bu, Nyonya (sapaan sopan kepada wanita)|o
+y'all|kalian (tidak resmi, AS bagian selatan)|f2s2p
+c'mon|ayo (tidak resmi)|o

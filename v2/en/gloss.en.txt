@@ -6638,6 +6638,11 @@ hasn't|has not|f3s
 hadn't|had not|f3s
 shouldn't|should not|o
 mustn't|must not|o
+needn't|need not|o
+o'clock|o'clock (telling the time)|o
+ma'am|madam (polite address to a woman)|o
+y'all|you all (informal, southern US)|f2s2p
+c'mon|come on (informal)|o
 i'm|I am|f1s
 you're|you are|f2s2p
 we're|we are|f1p

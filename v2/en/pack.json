@@ -1,21 +1,21 @@
 {
   "id": "en",
-  "version": "1.0.34",
+  "version": "1.0.38",
   "files": {
     "lex": {
       "path": "lex.txt",
       "license": "unencumbered",
-      "sha256": "0bcf5729127ff91231f23117471bd003654585f1af963f5a05c94a19411b9d23"
+      "sha256": "00a212708885f948585b4591ed718f509ddf94f8d57a6384214e55d0dee20ba4"
     },
     "gloss.en": {
       "path": "gloss.en.txt",
       "license": "unencumbered",
-      "sha256": "f3fd1ec02a8c9a2ec0045a286cc6ba56764b49a8b54433653871f218d3319dbe"
+      "sha256": "04a9ed2e0ac01d5d6b5c41298ac953fd66c1e0dec936eef69207d5e59f9e705d"
     },
     "ranks": {
       "path": "ranks.txt",
       "license": "CC-BY-SA-4.0",
-      "sha256": "653f10c54c4021ef91a432c0c0e32bf4ad8016aa2ef2111d67df0470a712478f"
+      "sha256": "9b1999c968f18662489ab4930cf4d5c75ca2e6cac8b2d2b70f730671b0c10a7c"
     },
     "lemmas": {
       "path": "lemmas.txt",
@@ -25,7 +25,7 @@
     "readings": {
       "path": "readings.txt",
       "license": "BSD-2-Clause",
-      "sha256": "856f8ac6a76c5c5da57408138f63a08e6c9bafcb04ae80d8c71be8d00b5835c4"
+      "sha256": "519f42e34273b2c77a2d95df44d6ae3b6029ac08ab0ff6ddc9bfece1c3f2f131"
     },
     "sample": {
       "path": "sample.txt",
@@ -45,7 +45,7 @@
     "gloss.id": {
       "path": "gloss.id.txt",
       "license": "unencumbered",
-      "sha256": "39e30b893c21bec168dc5e547e589fb444557ff9034e3ae3e7ef8820df3e2913"
+      "sha256": "94e77bc79c348c0483a352d44aed577d6cfb4cc3e5ffa38f7b6ee2d1015301b7"
     },
     "phrases.id": {
       "path": "phrases.id.txt",
@@ -55,7 +55,7 @@
     "gloss.zh": {
       "path": "gloss.zh.txt",
       "license": "unencumbered",
-      "sha256": "d393d45ceeba19a576d69fd91893f873578fe72ad5ed12e0740ebea987ddc255"
+      "sha256": "177012f2d9a7a64ce65d8d716c73fd7ec2069d82381f78bb66a68c9d7edbf6d6"
     },
     "phrases.zh": {
       "path": "phrases.zh.txt",

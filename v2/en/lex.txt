@@ -748,7 +748,7 @@ happening||happen|
 prove|||
 study|||v
 busy|||
-'am|||
+'am|||bound
 crime|||
 animal|||
 tired|||
@@ -1491,7 +1491,7 @@ switch|||n
 print|||v
 storm|||
 theory|||
-'all||all|
+'all|||bound
 jealous|||
 ugly|||
 tip|||
@@ -1863,7 +1863,7 @@ edge|||
 lack|||v
 confess|||
 engineer|||
-'clock|||
+'clock|||bound
 dawn|||
 doin||do|
 vacation|||
@@ -2174,7 +2174,7 @@ register|||n
 empire|||
 unusual|||
 trigger|||
-'mon||come|
+'mon|||bound
 equipment|||
 sneak|||
 pattern|||
@@ -4519,7 +4519,7 @@ barge|||
 toxic|||
 absorb|||
 sadness|||
-needn||need|
+needn|||bound
 cult|||
 tactic|||
 tray|||
@@ -6633,6 +6633,11 @@ hasn't|||
 hadn't|||
 shouldn't|||
 mustn't|||
+needn't|||
+o'clock|||
+ma'am|||
+y'all|||
+c'mon|||
 i'm|||
 you're|||
 we're|||

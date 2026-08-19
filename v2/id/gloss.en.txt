@@ -285,7 +285,7 @@ tutup|to close, shut|v
 mulai|to begin, start|v
 selesai|finished, done|o
 habis|used up, finished|o
-terus|to continue; continuously, the whole time|v;o
+terus|to continue; continuously, the whole time; dan seterusnya: and so on, et cetera|v;o;n
 lanjut|to continue|v
 henti|to stop|v
 coba|to try|v
@@ -906,7 +906,7 @@ riset|research|o
 simpul|knot|o
 analisis|analysis|o
 rumus|formula|o
-misal|example (misalnya: for example)|o
+misal|example|o
 yakni|namely|o
 demikian|thus, such|o
 kesan|impression|o
@@ -1350,7 +1350,7 @@ judul|title|o
 tema|theme|o
 topik|topic|o
 isu|issue|o
-rupa|form, appearance (rupanya: apparently)|o
+rupa|form, appearance|o
 sosok|figure, silhouette|o
 gagah|dashing, strong|o
 kokoh|sturdy|o
@@ -7250,3 +7250,29 @@ mengolok-olok|to mock, make fun of|v
 iring-iringan|procession, convoy|o
 orang-orangan|scarecrow; dummy, effigy|o;o
 semata-mata|solely, merely|o
+sebenarnya|actually, in fact; the real one, the true one|o;o
+seharusnya|should have, ought to (but did not)|o
+sepertinya|it seems, apparently|f3s
+akhirnya|finally, in the end|o
+sebaiknya|had better, it would be best to|f3s
+tampaknya|apparently, it seems|o
+setidaknya|at least|o
+selamanya|forever, for good|o
+harusnya|should have, ought to (colloquial)|o
+biasanya|usually, normally|o
+selanjutnya|next, after that|o
+bukannya|it is not that, rather than|f3s
+keduanya|both of them, the two of them|o
+sayangnya|unfortunately, sadly|o
+rupanya|apparently, as it turns out|o
+memangnya|so what?, what do you mean? (rhetorical)|o
+sebaliknya|on the contrary, conversely; the other way round|o;o
+tepatnya|to be exact, precisely|v
+misalnya|for example, for instance|o
+mestinya|should have, ought to|o
+semestinya|as it should be, properly|o
+kelihatannya|it seems, by the look of it|f3s
+kedengarannya|it sounds like, it sounds|f3s
+nampaknya|apparently, it seems (colloquial)|o
+kayaknya|it seems, I think (colloquial)|f3s
+agaknya|apparently, it seems|o

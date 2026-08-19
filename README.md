@@ -5,10 +5,10 @@ correction ships as a file rather than as a new build of the app.
 
 | pack | version | path |
 | --- | --- | --- |
-| en | 1.0.34 | `v2/en/` |
+| en | 1.0.38 | `v2/en/` |
 | es | 1.1.4 | `v2/es/` |
 | fr | 1.1.3 | `v2/fr/` |
-| id | 1.1.16 | `v2/id/` |
+| id | 1.1.19 | `v2/id/` |
 | pt | 1.1.2 | `v2/pt/` |
 | zh | 1.1.2 | `v2/zh/` |
 
