@@ -56,7 +56,7 @@ kapan|when|o
 kapan-kapan|sometime, some other time|o
 berapa|how much, how many|o
 satu|one|o
-satu-satu|one by one, one at a time; the only one (colloq., for satu-satunya)|o;o
+satu-satu|one by one, one at a time|o
 menyatu|to unite, to merge|v
 satukan|to unite, to bring together|v
 disatukan|to be united|v
@@ -145,7 +145,7 @@ cukup|enough, sufficient; quite, fairly|o;o
 memadai|adequate, sufficient|o
 kurang|less; lacking, not enough|o;o
 lebih|more|o
-melebih|to exaggerate (in melebih-lebihkan)|v
+melebih|to exceed, go beyond|v
 melebihkan|to overdo, to put too much on|v
 berlebihan|excessive, too much|o
 berlebih|excessive, in excess|o
@@ -6696,7 +6696,7 @@ bergetar|to tremble, vibrate|v
 benih|seed|o
 berbulu|furry, hairy|o
 berkonsentrasi|to concentrate|v
-berhati|to be hearted (berhati-hati: careful)|v
+berhati|-hearted, having a … heart|o
 bergurau|to joke|v
 berpegangan|to hold on|v
 bertanding|to compete|v
@@ -7210,3 +7210,43 @@ kuncian|lock, hold (in grappling)|o
 temukan|to find|v
 menolong|to help|v
 menurut|according to; to obey, comply|o;v
+satu-satunya|the only, the sole|o
+apa-apaan|what on earth, what nonsense (expressing indignation)|o
+terburu-buru|in a hurry, rushed|o
+berhati-hati|to be careful, take care|v
+kemana-mana|anywhere, everywhere|o
+dimana-mana|everywhere|o
+membuang-buang|to waste (time, money)|v
+menakut-nakuti|to frighten, scare|v
+berjam-jam|for hours|o
+tergila-gila|madly in love, infatuated|o
+berkali-kali|repeatedly, over and over|o
+berabad-abad|for centuries|o
+menyia-nyiakan|to waste, squander; to neglect|v;v
+sia-siakan|to waste, squander; to neglect|v;v
+mudah-mudahan|hopefully, let us hope|o
+memata-matai|to spy on|v
+selama-lamanya|forever, for ever and ever|o
+besar-besaran|large-scale, all-out|o
+berturut-turut|in a row, consecutively|o
+berkeping-keping|in pieces, shattered|o
+tergesa-gesa|hurried, in a rush|o
+kekanak-kanakan|childish|o
+habis-habisan|all-out, to the utmost|o
+berhari-hari|for days|o
+berminggu-minggu|for weeks|o
+seakan-akan|as if, as though|o
+dua-duanya|both, both of them|o
+sekali-kali|ever, on any account (with jangan or tidak); once in a while|o;o
+kenang-kenangan|memento, souvenir|o
+mengada-ada|to make things up, be far-fetched|v
+mati-matian|desperately, with all one's might|o
+melebih-lebihkan|to exaggerate, overstate|v
+kedua-duanya|both of them|o
+sekurang-kurangnya|at least|o
+terang-terangan|open, blatant; openly, outright|o;o
+bercita-cita|to aspire, dream of|v
+mengolok-olok|to mock, make fun of|v
+iring-iringan|procession, convoy|o
+orang-orangan|scarecrow; dummy, effigy|o;o
+semata-mata|solely, merely|o
