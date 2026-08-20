@@ -22,7 +22,7 @@ untuk|for|o
 diperuntukkan|intended for, designated for|o
 pada|at, on|o
 kepada|to (a person)|v
-oleh|by (agent)|o
+oleh|by (agent); to obtain, get|o;v
 adalah|is, to be|f3s
 ada|there is, there are; to be there, be present; to exist|o;v;v
 tidak|no, not|o
@@ -2816,7 +2816,7 @@ politisi|politician|o
 korek|matches; to scratch, dig|o;v
 editor|editor|o
 populasi|population|o
-karang|coral|o
+karang|coral; to compose, write|o;v
 bala|troops, forces (bala bantuan)|o
 payung|umbrella|o
 angsa|goose, swan|o
