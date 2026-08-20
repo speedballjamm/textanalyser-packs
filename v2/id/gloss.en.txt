@@ -7283,3 +7283,6 @@ kekasih|lover, sweetheart|o
 kupunya|I have, I own|f1s
 pelajari|to study, to learn about|v
 terapi|therapy|o
+kemari|here, over here (to this place)|o
+kelab|nightclub, club (alt. of klub)|o
+kebagian|to get a share of, to get some|v

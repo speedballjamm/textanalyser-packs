@@ -7278,3 +7278,6 @@ kekasih|4|kasih|n.
 kupunya|5|punya|v.
 pelajari|4|ajar|v.
 terapi|5||n.
+kemari|2|mari|adv.
+kelab|5||n.
+kebagian|5|bagian|v.
