@@ -1,6 +1,6 @@
 {
   "id": "zh",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "files": {
     "lex": {
       "path": "lex.txt",
@@ -20,7 +20,12 @@
     "readings": {
       "path": "readings.txt",
       "license": "CC-BY-SA-4.0",
-      "sha256": "5feb826220edd930097b28a5886b79a1b10ef8536beebc3ede43e44cc3f6c5b6"
+      "sha256": "c12497b843de972eef512014480c9ab9fa40d76cf1858670bc92d748c69c8833"
+    },
+    "variants": {
+      "path": "variants.txt",
+      "license": "CC-BY-SA-4.0",
+      "sha256": "67dd572dac8ce401fd59ea9a6068cb24d4ba649267926e44311c7e35a26f220c"
     },
     "sample": {
       "path": "sample.txt",

@@ -76,10 +76,11 @@ Derived from:
 These files are themselves licensed ODbL 1.0.
 
 
-3. Pronunciation data — CC BY-SA 4.0
-------------------------------------
+3. Pronunciation and spelling data, Mandarin — CC BY-SA 4.0
+-----------------------------------------------------------
 
 Files:  app/public/packs/zh/readings.txt
+        app/public/packs/zh/variants.txt
 
 Derived from:
   CC-CEDICT — https://cc-cedict.org/
@@ -87,10 +88,20 @@ Derived from:
   Licensed under Creative Commons Attribution-ShareAlike 4.0 International
   (CC BY-SA 4.0) — https://creativecommons.org/licenses/by-sa/4.0/
 
-This file is itself licensed CC BY-SA 4.0. Only the pinyin readings are taken
-from CC-CEDICT; its English definitions are not used, and the glosses in
-app/public/packs/zh/gloss.en.txt are generated independently as described in
-section 5.
+Both files are themselves licensed CC BY-SA 4.0. Only the pinyin readings and
+the traditional-spelling column are taken from CC-CEDICT; its English
+definitions are not used, and the glosses in app/public/packs/zh/gloss.en.txt
+are generated independently as described in section 5.
+
+variants.txt states how each headword of the Mandarin pack is written in
+traditional characters, so that a text in traditional characters can be read
+against the same dictionary. Its content is the traditional column of
+CC-CEDICT, selected per headword, and it is kept in a file of its own rather
+than folded into the pack skeleton so that the share-alike licence does not
+reach the unencumbered files beside it. Which spelling is chosen where
+CC-CEDICT offers several is decided by scoring against this project's own
+glosses; that selection is this project's work, but the spellings themselves
+are not, so the whole file carries the upstream licence.
 
 CC-CEDICT is also used at build time to map traditional spellings onto their
 simplified equivalents, which affects which words appear in the Mandarin pack
