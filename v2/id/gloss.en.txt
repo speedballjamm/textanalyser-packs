@@ -7286,3 +7286,35 @@ terapi|therapy|o
 kemari|here, over here (to this place)|o
 kelab|nightclub, club (alt. of klub)|o
 kebagian|to get a share of, to get some|v
+kerak|crust, crusty layer|o
+merak|peacock|o
+berak|to defecate, take a dump (crude)|v
+ketahanan|endurance, resilience, resistance|o
+tebus|to redeem, pay off; to ransom|v;v
+mewah|luxurious, lavish|o
+koki|cook, chef|o
+sepak|to kick (sepak bola: football, soccer)|v
+bantah|to deny, contradict, argue back|v
+benak|mind, thoughts|o
+tetas|to hatch|v
+petasan|firecracker|o
+pendam|to bury; to keep bottled up|v;v
+pejam|to close (of the eyes)|v
+teduh|shady, sheltered; calm|o;o
+sedan|sedan, saloon car|o
+dahan|branch, bough|o
+penyok|dented|o
+kebiri|to castrate, neuter|v
+kebab|kebab|o
+serasi|well-matched, in harmony|o
+kupas|to peel, to skin|v
+kuras|to drain, empty out|v
+kubang|to wallow (in mud) (kubangan: puddle, wallow)|v
+upil|booger, nasal mucus|o
+urap|to anoint, rub with oil|v
+kupon|coupon, voucher|o
+kubis|cabbage|o
+kubus|cube|o
+kuala|estuary, river mouth (Kuala Lumpur)|o
+kumal|grubby, crumpled, shabby|o
+termal|thermal|o
