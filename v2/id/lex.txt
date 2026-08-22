@@ -157,7 +157,7 @@ beberapa||berapa|
 masing|||
 lain|||
 lain-lain|5||n.;n.
-sama|||adj.;prep.
+sama|||adj.;prep.;pron.
 sama-sama|4||interj.;adv.
 menyamakan|5|sama|v.
 menyamai|5|sama|v.
@@ -304,7 +304,7 @@ harga|||
 mahal|||adj.
 murah|||adj.
 gratis|||
-baik|||adj.;interj.
+baik|||adj.;interj.;adj.
 baik-baik|2||adj.;adv.
 bagus|||adj.
 buruk|||adj.

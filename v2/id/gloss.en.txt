@@ -14,13 +14,13 @@ yang|that, which (relative); the one that, the one who|o;o
 dan|and|o
 di|in, at|o
 ke|to, toward|o
-dari|from|o
+dari|from; than (in comparison)|o;o
 ini|this|o
 itu|that; the (one already known)|o;o
 dengan|with|o
 untuk|for|o
 diperuntukkan|intended for, designated for|o
-pada|at, on|o
+pada|at, on; to, towards (a person)|o;o
 kepada|to (a person)|v
 oleh|by (agent); to obtain, get|o;v
 adalah|is, to be|f3s
@@ -99,7 +99,7 @@ besok|tomorrow|o
 kemarin|yesterday|o
 dulu|before, first (in time)|o
 dahulu|before, formerly|o
-sudah|already|o
+sudah|already; (marks a completed action)|o;g
 sudahi|to end, to stop|v
 sudahkan|have you already...? (= sudahkah)|f3s
 berkesudahan|coming to an end (usu. tak berkesudahan, endless)|o
@@ -111,7 +111,7 @@ akan|will, going to|o
 baru|new; just, only just; only then|o;o;o
 baru-baru|recently (usu. baru-baru ini)|o
 lagi|again; more, another; in the middle of doing (colloquial)|o;o;o
-pernah|ever, once|o
+pernah|ever, once; (with a negative) never, not once|o;o
 sering|often|o
 selalu|always|o
 jarang|seldom, rare|o
@@ -132,7 +132,7 @@ mengerti|to understand|v
 arti|meaning|o
 juga|also, too|o
 hanya|only|o
-saja|just, only|o
+saja|just, only; (after a question word) -ever, any at all|o;o
 sangat|very|o
 sekali|very; once|o;o
 sekali-sekali|occasionally, once in a while|o
@@ -162,7 +162,7 @@ beberapa|several, some|o
 masing|each (masing-masing)|o
 lain|other, different|o
 lain-lain|others, the rest; dan lain-lain: and so on, et cetera|o;n
-sama|same; with, and (colloquial)|o;o
+sama|same; with, and (colloquial); satu sama lain: each other, one another|o;o;n
 sama-sama|not at all, you're welcome (reply to thanks); both, together, alike|o;o
 menyamakan|to equate, to make the same|v
 menyamai|to equal, to match|v
@@ -309,7 +309,7 @@ harga|price|o
 mahal|expensive|o
 murah|cheap|o
 gratis|free of charge|o
-baik|good, kind; alright, very well (agreeing)|o;o
+baik|good, kind; alright, very well (agreeing); lebih baik: better, would be better|o;o;n
 baik-baik|fine, all right; carefully, properly|o;o
 bagus|good, nice|o
 buruk|bad|o
@@ -846,7 +846,7 @@ dewasa|adult|o
 bahkan|even, in fact|o
 apalagi|moreover, let alone|o
 pula|also, too|o
-pun|even; also (particle)|o;o
+pun|even; also (particle); (after a question word) -ever, any at all|o;o;o
 meski|although|o
 walau|although|o
 biar|let; so that (colloq.)|o;o
@@ -6529,7 +6529,7 @@ menghianati|to betray|v
 menyertai|to accompany|v
 mengabari|to inform, notify|v
 kelabu|grey; deceptive|o;o
-begitu|so, like that, that much|o
+begitu|so, like that, that much; (before a clause) as soon as|o;o
 berada|to be located; well-off|v;o
 bertemu|to meet|v
 bekerja|to work|v
