@@ -1365,7 +1365,7 @@ center|middle point; building for an activity|o;o
 health|state of the body, being well or ill|o
 embarrass|to make someone feel awkward|v
 wave|to move the hand in greeting; raised ridge of water|v;o
-uh-huh|(said in answer) yes, go on|o
+uh-huh|(as an answer) yes, go on|o
 beyond|on the far side of; past the limit of|o;o
 grant|to allow or give; money given for a purpose|v;o
 example|one thing that shows what the others are like|o
@@ -1508,7 +1508,7 @@ farm|land used for growing crops and keeping animals|o
 distance|space between two points|o
 aye|yes (in voting or at sea)|o
 afford|to have enough money or time for|v
-babe|attractive person (informal); (in address) darling|o;o
+babe|attractive person (informal); (used in address) darling|o;o
 total|whole amount; complete, utter|o;o
 ho|(call for attention); (vulgar) prostitute|g;o
 joy|great happiness|o
@@ -3789,7 +3789,7 @@ lure|to draw on by promising something; thing that tempts|v;o
 cargo|goods carried by ship or plane|o
 painter|person who paints pictures or walls|o
 wha|(misprint of what) what|o
-hush|(asking for quiet); silence|g;o
+hush|(asking for silence); silence|g;o
 journal|record kept day by day; serious magazine|o;o
 rag|piece of old torn cloth|o
 justify|to show to be right or reasonable|v
@@ -4786,7 +4786,7 @@ trainer|person who trains others; soft sports shoe|o;o
 pint|unit of liquid, about half a litre|o
 pasta|food of flour paste in shapes, such as spaghetti|o
 delta|flat land at the mouth of a river|o
-whoo-hoo|(shout of delight)|g
+whoo-hoo|(shout of excitement)|g
 clink|(light ringing sound of glass or metal)|g
 itch|to feel a tickling on the skin you want to scratch|v
 instantly|at once, straight away|o
@@ -5072,7 +5072,7 @@ caution|care taken to avoid danger; official warning|o;o
 reconsider|to think again about a decision|v
 jog|to run slowly for exercise; to knock slightly|v;v
 martini|cocktail of gin and vermouth|o
-hooray|(shout of joy)|g
+hooray|(shout of celebration)|g
 telescope|tube with lenses for seeing distant things|o
 mat|small piece of thick material laid on the floor|o
 rating|level or score given after judging|o
@@ -5259,7 +5259,7 @@ brothel|house where prostitutes work|o
 vegetarian|person who eats no meat; with no meat in it|o;o
 fin|thin flat part a fish swims with|o
 crank|handle turned to start a machine; odd person with fixed ideas|o;o
-shush|(asking for quiet)|g
+shush|(asking for silence)|g
 casting|choosing of actors for parts|o
 heap|untidy pile|o
 snitch|to tell on someone; person who informs|v;o
@@ -5488,7 +5488,7 @@ father-in-law|father of your husband or wife|o
 filth|disgusting dirt; indecent talk|o;o
 immigration|coming into a country to live; the checks on it|o;o
 momma|mother (American informal)|o
-innit|isn't it (informal British)|o
+innit|isn't it (British informal)|o
 jasmine|climbing plant with sweet-smelling flowers|o
 texting|sending messages by phone|o
 womb|organ in which a baby grows before birth|o

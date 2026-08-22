@@ -111,7 +111,7 @@ been|be 的过去分词|o
 need|需要|v
 thing|东西, 事情|o
 our|我们的|o
-gonna|打算, 将要 (口语的 going to)|o
+gonna|打算, 将要 (口语)|o
 really|真的, 确实; 很, 非常 (程度)|o;o
 thank|感谢, 谢谢; (thank you) 谢谢你|v;o
 some|一些, 有些|o
@@ -227,7 +227,7 @@ isn|(用于 isn't) 不是|f3s
 listen|听|v
 die|死, 死亡|v
 which|哪一个|o
-miss|想念 (感到失去); 错过, 没打中; 小姐 (称呼)|v;v;o
+miss|想念 (感到失去); 错过, 没打中; 小姐 (尊称)|v;v;o
 late|晚的, 迟的|o
 nice|好的, 令人愉快的|o
 fine|好的, 没问题的; 优质的, 精美的|o;o
@@ -326,7 +326,7 @@ continue|继续|v
 step|脚步; 步骤; 踏, 迈步|o;o;v
 anybody|任何人|o
 secret|秘密的|o
-bitch|(骂人) 泼妇, 贱人; 母狗; 抱怨|o;o;v
+bitch|(冒犯语) 泼妇, 贱人; 母狗; 抱怨|o;o;v
 ass|(粗俗) 屁股; 蠢货; 驴|o;o;o
 kiss|吻, 亲|v
 shoot|开枪, 射击; 拍摄|v;v
@@ -3486,7 +3486,7 @@ aircraft|飞行器|o
 representative|代表; 有代表性的|o;o
 bracelet|手镯|o
 gal|姑娘 (口语)|o
-hon|亲爱的 (对人的称呼)|o
+hon|亲爱的 (称呼)|o
 corporation|大公司|o
 aggressive|好斗的, 挑衅的; 强势的|o;o
 rev|加大油门, 使转速加快|v
@@ -4526,7 +4526,7 @@ vague|含糊的, 不明确的|o
 freely|无拘束地; 坦率地|o;o
 achievement|成就|o
 supermarket|超市|o
-hoo|(兴奋的喊声) 呼|g
+hoo|(兴奋的欢呼) 呼|g
 raven|渡鸦|o
 protective|保护性的; 呵护的|o;o
 hound|猎犬; 追逼, 纠缠|o;v
@@ -4537,7 +4537,7 @@ trainer|教练; 运动鞋|o;o
 pint|品脱 (约半升)|o
 pasta|意大利面食|o
 delta|三角洲|o
-whoo-hoo|(高兴的欢呼) 哇哦|g
+whoo-hoo|(兴奋的欢呼) 哇哦|g
 clink|(玻璃或金属的清脆碰撞声) 叮当|g
 itch|发痒|v
 instantly|立刻, 马上|o
@@ -4823,7 +4823,7 @@ caution|谨慎; 警告|o;o
 reconsider|重新考虑|v
 jog|慢跑; 轻碰|v;v
 martini|马提尼酒|o
-hooray|(欢呼声) 万岁|g
+hooray|(庆祝的欢呼) 万岁|g
 telescope|望远镜|o
 mat|垫子|o
 rating|评级, 评分|o
@@ -6677,4 +6677,4 @@ needn't|不必，无需|o
 o'clock|点，点钟 (表示钟点)|o
 ma'am|女士，夫人 (对女性的礼貌称呼)|o
 y'all|你们 (非正式，美国南部)|f2s2p
-c'mon|来吧，快点 (非正式)|o
+c'mon|来吧，快点 (口语)|o

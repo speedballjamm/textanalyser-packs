@@ -1,0 +1,138 @@
+# What each English phrase in `phrases.txt` means, in French.
+#
+# Format: pattern|gloss — joined to `phrases.txt` on the pattern. A pattern
+# this file does not explain falls back to `phrases.en.txt`, so a translation
+# in progress shows French where it has one and English elsewhere.
+#
+# Hand-written, like `phrases.txt` and `phrases.en.txt` — dictgen does not
+# generate this file, it only carries it across into the manifest.
+#
+# Two rules, both inherited from the file this translates:
+#
+#   - The patterns on the left are the join key and must not change. A changed
+#     pattern is a phrase the app stops finding; an invented one is a phrase it
+#     hunts for and never finds.
+#   - The sense count must match `phrases.en.txt`. `;` separates senses and
+#     `,` joins near-synonyms inside one, exactly as in `gloss.fr.txt`.
+#
+# Verbs are glossed as bare infinitives, without `à` or `de`. French has an
+# infinitive where English has `to go`, so the phrase carries across as one word
+# and needs no marker of its own.
+
+# ---- Separable phrasal verbs: the object may sit inside the verb.
+give ? up|renoncer, abandonner; remettre, livrer
+pick ? up|ramasser, prendre; apprendre sur le tas
+put ? on|mettre (un vêtement); poser sur
+put ? off|reporter, remettre à plus tard; dégoûter quelqu'un
+put ? out|éteindre (un feu, une lumière); déranger
+take ? off|enlever (un vêtement); décoller
+take ? over|prendre le contrôle de
+take ? back|retirer (ses paroles); rapporter (une marchandise)
+turn ? on|allumer (une machine, une lumière)
+turn ? off|éteindre (une machine, une lumière)
+turn ? up|monter (le volume); arriver, souvent à l'improviste
+turn ? down|baisser (le volume); refuser (une offre)
+find ? out|découvrir, apprendre
+work ? out|résoudre, calculer; bien se terminer; s'entraîner
+figure ? out|finir par comprendre à force d'y réfléchir
+sort ? out|arranger, régler
+look ? up|chercher (dans un livre ou une liste); s'améliorer
+make ? up|inventer (une histoire); se réconcilier; maquillage
+bring ? up|élever (un enfant); aborder (un sujet)
+call ? off|annuler
+call ? back|rappeler au téléphone
+check ? out|examiner, aller voir; quitter l'hôtel
+cut ? off|couper, isoler; interrompre
+fill ? in|remplir (un formulaire); remplacer quelqu'un
+fill ? out|remplir (un formulaire)
+hand ? over|remettre, céder à quelqu'un d'autre
+hang ? up|raccrocher
+let ? down|décevoir, laisser tomber quelqu'un
+leave ? out|omettre
+pass ? on|transmettre à quelqu'un d'autre; décliner
+point ? out|signaler, faire remarquer
+put ? away|ranger à sa place; mettre en prison
+put ? back|remettre à sa place; retarder
+put ? together|assembler, monter
+set ? up|créer, organiser; monter un coup contre quelqu'un
+show ? off|exhiber pour impressionner
+shut ? up|se taire (impoli)
+take ? in|comprendre, assimiler; tromper; héberger
+take ? out|retirer, sortir; emmener quelque part
+tell ? off|réprimander
+think ? over|bien réfléchir à
+throw ? away|jeter; gâcher (une occasion)
+try ? on|essayer (un vêtement) pour voir s'il va
+turn ? around|se retourner; redresser une situation en déclin
+wake ? up|se réveiller, réveiller
+write ? down|noter par écrit
+knock ? out|assommer, mettre K.-O.; éliminer d'une compétition
+break ? up|rompre, mettre fin à une relation; briser en morceaux
+clear ? up|ranger; éclaircir, expliquer; (du temps) s'améliorer
+hold ? up|retarder; braquer, dévaliser; soutenir
+keep ? up|maintenir, suivre le rythme de
+let ? in|laisser entrer
+let ? out|laisser sortir, libérer; élargir (un vêtement)
+make ? out|distinguer à grand-peine; prétendre à tort
+pay ? back|rembourser; se venger de
+run ? over|renverser avec un véhicule; déborder, dépasser le temps prévu
+
+# ---- Inseparable phrasal verbs: nothing may come between the parts.
+look for|chercher, essayer de trouver
+look after|s'occuper de
+look into|examiner, enquêter sur
+look forward to|attendre avec impatience
+get over|se remettre de
+get through|tenir bon, venir à bout; joindre au téléphone
+get along|bien s'entendre
+get away with|s'en tirer sans être puni pour
+go through|traverser, endurer; passer en revue
+go over|revoir, examiner
+come across|tomber sur par hasard; donner une impression
+come up with|trouver, imaginer (une idée)
+run into|croiser par hasard; entrer en collision avec
+run out of|ne plus avoir de
+put up with|supporter, tolérer
+deal with|s'occuper de, traiter
+count on|compter sur
+depend on|compter sur; dépendre de
+stand for|représenter, être l'abréviation de; tolérer
+take after|tenir de (un parent)
+call on|passer voir; inviter quelqu'un à parler ou à agir
+carry on|continuer
+give in|céder, cesser de résister
+show up|arriver, se pointer; faire mauvaise figure à quelqu'un
+turn into|devenir, se transformer en
+end up|finir par se retrouver, souvent sans l'avoir voulu
+break down|tomber en panne; s'effondrer, craquer
+break into|entrer par effraction dans
+pass out|perdre connaissance
+hang on|attendre; se cramponner
+hold on|attendre; s'accrocher
+watch out|faire attention
+give away|donner gratuitement; révéler (un secret)
+
+# ---- Fixed expressions the parts do not add up to.
+of course|bien sûr, évidemment
+at least|au moins, pas moins de; du moins, en tout cas
+at last|enfin, après une longue attente
+at all|le moins du monde (avec une négation ou une question)
+after all|après tout, malgré ce qui a été dit ou prévu
+as well|aussi, également
+as well as|ainsi que, en plus de
+by the way|au fait, à propos
+in fact|en fait, à vrai dire
+in order to|afin de, pour
+kind of|plutôt, un peu (familier); une sorte de
+sort of|plutôt, un peu (familier); une sorte de
+no matter|peu importe (ce que, qui, comment)
+right away|tout de suite
+such as|comme, par exemple
+up to|à (c'est à toi de voir); jusqu'à; en train de faire (une bêtise)
+used to|faisait autrefois, mais plus maintenant
+would rather|préférer
+had better|ferait mieux de
+as if|comme si
+even though|même si, bien que
+as long as|à condition que; tant que
+on purpose|exprès, volontairement

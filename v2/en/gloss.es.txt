@@ -2682,7 +2682,7 @@ sacred|sagrado|o
 novel|novela; novedoso, nuevo y poco común|o;o
 dial|carátula de un reloj o medidor; marcar un número|o;v
 jewish|judío, de los judíos y su religión|o
-goodnight|buenas noches (al despedirse)|g
+goodnight|buenas noches (al despedirse por la noche)|g
 reject|rechazar, no aceptar|v
 creep|moverse despacio y sin ruido; tipo desagradable (informal)|v;o
 adopt|adoptar (a un hijo); adoptar una forma de hacer las cosas|v;v
@@ -3653,7 +3653,7 @@ passage|paso, pasillo; pasaje de un libro o de una obra musical; travesía por m
 crab|cangrejo|o
 cocaine|cocaína|o
 pale|pálido, de color claro; pálido, sin color en la cara|o;o
-copper|cobre; poli, policía (informal británico)|o;o
+copper|cobre; poli, policía (británico informal)|o;o
 cotton|algodón (la fibra); tela de algodón|o;o
 execution|ejecución, dar muerte por sentencia; ejecución de un plan|o;o
 disgrace|deshonra, pérdida del respeto por una mala acción|o
@@ -4809,7 +4809,7 @@ trainer|entrenador; tenis, zapato deportivo|o;o
 pint|pinta, medida de casi medio litro|o
 pasta|pasta, como los espaguetis|o
 delta|delta, tierra plana en la boca de un río|o
-whoo-hoo|(grito de alegría)|g
+whoo-hoo|(grito de entusiasmo)|g
 clink|(tintineo de vidrio o metal)|g
 itch|dar comezón, sentir picazón en la piel|v
 instantly|al instante, de inmediato|o
@@ -5095,7 +5095,7 @@ caution|cautela, cuidado para evitar el peligro; amonestación oficial|o;o
 reconsider|reconsiderar, volver a pensar una decisión|v
 jog|trotar, correr despacio; dar un ligero golpecito|v;v
 martini|martini, coctel de ginebra y vermut|o
-hooray|(grito de alegría) ¡hurra!|g
+hooray|(grito de celebración) ¡hurra!|g
 telescope|telescopio|o
 mat|tapete, alfombrilla puesta en el suelo|o
 rating|calificación, puntaje dado tras juzgar|o
@@ -5509,7 +5509,7 @@ father-in-law|suegro|o
 filth|mugre asquerosa; obscenidades, groserías|o;o
 immigration|inmigración, el llegar a vivir a un país; migración, los controles de entrada|o;o
 momma|mamá (americano informal)|o
-innit|¿no?, ¿verdad? (informal británico)|o
+innit|¿no?, ¿verdad? (británico informal)|o
 jasmine|jazmín|o
 texting|mandar mensajes por celular|o
 womb|matriz, útero|o
@@ -6673,3 +6673,8 @@ saddle|asiento para el jinete o el ciclista|o
 lighten|hacer menos pesado o menos oscuro|v
 canvas|tela fuerte usada para tiendas y para pintar|o
 gutter|canal al borde de la calle o del techo para el agua|o
+needn't|no tener que, no hacer falta|o
+o'clock|en punto (al decir la hora)|o
+ma'am|señora (trato cortés a una mujer)|o
+y'all|ustedes (informal, sur de EE. UU.)|f2s2p
+c'mon|vamos, dale (informal)|o

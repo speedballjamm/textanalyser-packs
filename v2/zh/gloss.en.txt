@@ -40,7 +40,7 @@
 来|to come|v
 和|and; with|o;o
 那|that; then (in that case)|o;o
-想|to want to; to think; to miss|v;v;v
+想|to want to; to think; to miss; perception (Buddhist)|v;v;v;o
 人|person, people|o
 一个|one (+ measure word); a|o;o
 对|correct, right; towards; to face|o;o;v
@@ -335,7 +335,7 @@
 小心|careful; to watch out|o;v
 还好|luckily, just as well; not bad|o;o
 总是|always, invariably|o
-行|OK, will do; to walk; a row, a line (háng)|o;v;o
+行|OK, will do; to walk; a row, a line (háng); mental formation, volition (Buddhist)|o;v;o;o
 号|number; day of the month; size|o;o;o
 无法|to have no way to, cannot|v
 伙计|mate, buddy; shop assistant|o;o
@@ -1013,14 +1013,14 @@
 尝试|to try out, to have a go|v
 老大|boss, chief; the eldest|o;o
 间|between; room; (measure word: rooms)|o;o;g
-受|to receive; to suffer, to bear|v;v
+受|to receive; to suffer, to bear; sensation, feeling (Buddhist)|v;v;o
 愚蠢|stupid, foolish|o
 算了|forget it, never mind|o
 讨论|to discuss; discussion|v;o
 如|like, as; if (formal)|o;o
-道|way, path; to say (formal)|o;v
+道|way, path; to say (formal); the path out of suffering (Buddhist)|o;v;o
 一会|a moment, in a bit|o
-究竟|actually, on earth (in a question)|o
+究竟|actually, on earth (in a question); ultimate, final (Buddhist)|o;o
 戴|to wear (glasses, a hat)|v
 立刻|immediately, this instant|o
 特|special; particularly|o;o
@@ -1635,7 +1635,7 @@
 婴儿|baby, infant|o
 仅仅|merely, only|o
 理论|theory|o
-非|not, non-; (非…不可 simply must)|o;g
+非|not, non-; (非…不可 simply must); Africa (in 非洲)|o;g;o
 早安|good morning (as a greeting)|o
 整天|all day long|o
 巧克力|chocolate|o
@@ -1753,7 +1753,7 @@
 大部分|most of, the bulk of|o
 大脑|brain|o
 时光|time, the days that pass|o
-集|episode; to gather|o;v
+集|episode; to gather; the arising of suffering (Buddhist)|o;v;o
 阿姨|auntie; nanny, cleaner|o;o
 而言|as far as … is concerned|o
 抛弃|to abandon, to cast aside|v
@@ -1852,7 +1852,7 @@
 对待|to treat (someone a certain way)|v
 优秀|outstanding, excellent|o
 报道|news report; to report|o;v
-度|degree; to spend (time)|o;v
+度|degree; to spend (time); to carry across to liberation (Buddhist)|o;v;v
 抽烟|to smoke|v
 揍|to beat up, to thump|v
 伙|group, gang; (measure word: groups)|o;g
@@ -1913,7 +1913,7 @@
 阳光|sunshine, sunlight|o
 前往|to head for, to make for|v
 档案|file, records|o
-空|empty; sky; free time|o;o;o
+空|empty; sky; free time; emptiness, without own-nature (Buddhist)|o;o;o;o
 醒|to wake up; to sober up|v;v
 有所|somewhat, to some extent|o
 树|tree|o
@@ -1947,7 +1947,7 @@
 熟悉|familiar with, to know well|o
 笑话|joke; to laugh at|o;v
 楼|building; floor, storey|o;o
-法|law; method, way|o;o
+法|law; method, way; French (in 法国); object of mind, phenomenon (Buddhist)|o;o;o;o
 咯|(that's how it is)|g
 市场|market|o
 损失|loss; to lose (money, resources)|o;v
@@ -3969,7 +3969,7 @@
 灵感|inspiration|o
 隔|to separate; at an interval of|v;o
 鲸鱼|whale|o
-苦|bitter; hardship, to suffer|o;o
+苦|bitter; hardship, to suffer; suffering (Buddhist)|o;o;o
 那样的话|if that's how it is|o
 少爷|young master|o
 犹豫|to hesitate; hesitant|v;o
@@ -5234,7 +5234,7 @@
 束缚|to bind, to fetter; a constraint|v;o
 温|warm (in compounds)|o
 石|stone (in compounds)|o
-色|colour; look; lust|o;o;o
+色|colour; look; lust; form, materiality (Buddhist)|o;o;o;o
 套房|suite, flat|o
 水面|the surface of the water|o
 清晨|first thing in the morning|o
@@ -5495,7 +5495,7 @@
 全美|all-America, nationwide|o
 名誉|reputation, good name|o
 担忧|to worry, to be concerned|v
-界|boundary; world, circles|o;o
+界|boundary; world, circles; sense-realm (Buddhist)|o;o;o
 蠢事|a stupid thing to do|o
 识别|to identify, to tell apart|v
 宝|treasure; precious|o;o
@@ -6447,7 +6447,7 @@
 解|to untie, to solve; to explain|v;v
 款|sum of money; style|o;o
 戒|to give up (a habit); ring|v;o
-灭|to put out, to wipe out|v
+灭|to put out, to wipe out; cessation of suffering (Buddhist)|v;o
 瞄|to take aim|v
 裹|to wrap up|v
 客|guest, customer|o
@@ -6796,7 +6796,7 @@
 炫|to dazzle, to show off|v
 击|to strike, to hit|v
 蝴|(in 蝴蝶: butterfly)|g
-识|to know, to recognise|v
+识|to know, to recognise; consciousness (Buddhist)|v;o
 壁|wall|o
 怒|anger, rage|o
 始|to begin|v
@@ -6978,7 +6978,7 @@
 植|to plant|v
 梯|ladder, stairs|o
 噪|noisy, clamour|o
-智|wisdom, intelligence|o
+智|wisdom, intelligence; knowing, insight (Buddhist)|o;o
 检|to check, to inspect|v
 润|moist; to moisten; profit|o;v;o
 溃|to collapse, to break down|v
@@ -7468,3 +7468,29 @@
 鸦|crow|o
 鸽|pigeon, dove|o
 龄|age, years|o
+般若波罗蜜多|the perfection of transcendent wisdom (Buddhist)|o
+般若|transcendent wisdom, insight (Buddhist)|o
+波罗蜜多|perfection, crossing to the far shore (Buddhist)|o
+波罗蜜|perfection, crossing to the far shore (Buddhist)|o
+菩萨|bodhisattva, an enlightened being (Buddhist)|o
+菩提|enlightenment, awakening (Buddhist)|o
+舍利子|Shariputra, a disciple of the Buddha (Buddhist)|o
+涅槃|nirvana, the end of suffering (Buddhist)|o
+阿耨多罗|unsurpassed, supreme (Buddhist)|o
+三藐三菩提|perfect universal enlightenment (Buddhist)|o
+揭谛|(mantra syllables: gone, proceeding)|g
+波罗揭谛|(mantra syllables: gone beyond)|g
+波罗僧揭谛|(mantra syllables: gone wholly beyond)|g
+萨婆诃|(mantra syllables: closing invocation)|g
+观自在|Avalokiteshvara, the bodhisattva of compassion (Buddhist)|o
+自在|free, unhindered; at ease|o;o
+五蕴|the five aggregates that make up a person (Buddhist)|o
+蕴|to accumulate; aggregate|v;o
+无明|ignorance, the root of suffering (Buddhist)|o
+众生|all living beings (Buddhist)|o
+挂碍|hindrance, something in the way|o
+颠倒|upside down, inverted; confused|o;o
+苦厄|suffering and misfortune|o
+三世|the three times: past, present and future (Buddhist)|n
+空相|the character of emptiness (Buddhist)|o
+垢|dirt, stain; defilement|o;o
