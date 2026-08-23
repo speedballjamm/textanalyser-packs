@@ -7313,3 +7313,14 @@ kubus|||n.
 kuala|||n.
 kumal|||adj.
 termal|||adj.
+bertanya-tanya||bertanya|v.
+bermain-main||bermain|v.
+berjalan-jalan||berjalan|v.
+berputar-putar||berputar|v.
+segala-galanya||segala|n.
+berubah-ubah||berubah|adj.
+berapi-api||berapi|adj.
+menari||tari|v.
+mil|||n.
+bermil||mil|
+pelat|||n.

@@ -7318,3 +7318,14 @@ kubus|cube|o
 kuala|estuary, river mouth (Kuala Lumpur)|o
 kumal|grubby, crumpled, shabby|o
 termal|thermal|o
+bertanya-tanya|to wonder, ask oneself|v
+bermain-main|to mess around, fool about; to toy with|v;v
+berjalan-jalan|to go for a walk, stroll; to go out and about|v;v
+berputar-putar|to go round in circles; to beat about the bush|v;v
+segala-galanya|everything|o
+berubah-ubah|changeable, variable; to keep changing|o;v
+berapi-api|impassioned, fiery (of speech or spirit)|o
+menari|to dance|v
+mil|mile|o
+bermil|for miles|o
+pelat|plate (of metal); licence plate|o;o
