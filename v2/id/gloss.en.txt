@@ -7329,3 +7329,2471 @@ menari|to dance|v
 mil|mile|o
 bermil|for miles|o
 pelat|plate (of metal); licence plate|o;o
+oranye|orange (colour)|o
+jingga|orange (colour)|o
+merah muda|pink|o
+guntur|thunder|o
+syal|scarf|o
+kaus kaki|sock|o
+kaos kaki|sock|o
+ikat pinggang|belt|o
+jam tangan|wristwatch, watch|o
+resleting|zip, zipper|o
+ritsleting|zip, zipper|o
+lengket|sticky|o
+mentimun|cucumber|o
+timun|cucumber|o
+terong|aubergine, eggplant|o
+terung|aubergine, eggplant|o
+jahe|ginger|o
+bawang putih|garlic|o
+lafal|pronunciation, articulation|o
+azab|torment, punishment (divine)|o
+pandemi|pandemic|o
+saw|(after the Prophet's name) peace be upon him|o
+hey|hey, hi|o
+musyrik|one who ascribes partners to God, polytheist|o
+bertakwa|to be god-fearing, to be pious|v
+yah|well, oh (resigned or softening)|o
+video|video|o
+rezeki|livelihood, sustenance (esp. as granted by God)|o
+barangsiapa|whoever, anyone who|o
+berfirman|to speak, to decree (of God)|v
+zalim|cruel, unjust, tyrannical|o
+tatkala|when, at the time when (literary)|o
+fosil|fossil|o
+finansial|financial|o
+munafik|hypocrite; hypocritical|o;o
+qiraat|recitation of the Quran, a reading of its text|o
+paket|package, parcel; package deal|o;o
+firman|word, decree (of God)|o
+kalangan|circle, group, quarters (of people)|o
+bahwasanya|that, the fact that (emphatic)|o
+hayati|biological, of life|o
+fiskal|fiscal|o
+dirilis|to be released, released|v
+genus|genus|o
+keanekaragaman|diversity, variety|o
+jamak|plural (grammar); common, usual|o;o
+komponen|component|o
+mukjizat|miracle|o
+stainless|stainless (of steel)|o
+khabar|news, report (= kabar)|o
+ekosistem|ecosystem|o
+produktivitas|productivity|o
+opsi|option|o
+regional|regional|o
+set|set, kit; set (in a match)|o;o
+institusi|institution|o
+subsidi|subsidy|o
+serial|series, serial|o
+corona|coronavirus, Covid-19|o
+zakat|zakat, the obligatory alms of Islam|o
+donor|donor|o
+bin|son of (in Arabic-style names)|o
+kekufuran|disbelief, denial of God|o
+filter|filter|o
+volume|volume, quantity; loudness|o;o
+maksiat|sin, immorality|o
+mekanisme|mechanism|o
+sebahagian|a part, some (= sebagian)|o
+syariat|sharia, Islamic law|o
+lockdown|lockdown|o
+link|link|o
+debut|debut|o
+katup|valve|o
+globalisasi|globalisation|o
+inklusif|inclusive|o
+ekonom|economist|o
+obligasi|bond (finance)|o
+vaksinasi|vaccination|o
+lalim|tyrannical, cruel (= zalim)|o
+suplemen|supplement|o
+bertasbih|to glorify God, to recite his praises|v
+bar|bar (place serving drinks)|o
+sirip|fin|o
+merujuk|to refer, to refer to|v
+manufaktur|manufacturing|o
+multilateral|multilateral|o
+output|output|o
+mitigasi|mitigation|o
+durhaka|disobedient, rebellious (to parents or to God)|o
+indikator|indicator|o
+kolera|cholera|o
+hadis|hadith, a recorded saying of the Prophet|o
+mengazab|to torment, to punish|v
+garansi|guarantee, warranty|o
+halal|permissible in Islam, halal|o
+batil|false, void, invalid|o
+format|format|o
+anime|anime|o
+pesat|rapid, swift (of growth)|o
+korosi|corrosion|o
+fasik|wicked, defiant of God|o
+syaitan|Satan, devil (= setan)|o
+item|item, entry; black (colloq., = hitam)|o;o
+ketidakpastian|uncertainty|o
+merilis|to release, to put out|v
+keesaan|the oneness of God|o
+lokomotif|locomotive|o
+demokratis|democratic|o
+drive|drive (computer disk)|o
+seringkali|often, frequently|o
+opsional|optional|o
+syafaat|intercession|o
+kebatilan|falsehood, invalidity|o
+anti|anti-, against|o
+tembaga|copper|o
+akurat|accurate|o
+single|single (record); single, unmarried|o;o
+independen|independent|o
+komprehensif|comprehensive|o
+polio|polio|o
+hidrogen|hydrogen|o
+ton|ton, tonne|o
+kemakmuran|prosperity|o
+migran|migrant|o
+sekrup|screw|o
+integrasi|integration|o
+stimulus|stimulus|o
+rilis|release|o
+famili|family, kin; family (in taxonomy)|o;o
+port|port (connector or socket)|o
+resistensi|resistance|o
+bahtera|ark, vessel (literary)|o
+blog|blog|o
+kian|increasingly, more and more|o
+konservasi|conservation|o
+sanitasi|sanitation|o
+surah|surah, a chapter of the Quran|o
+rujukan|reference, referral|o
+manga|manga|o
+operator|operator|o
+kebajikan|virtue, goodness|o
+slot|slot|o
+membran|membrane|o
+proteksionisme|protectionism|o
+hosting|hosting (of a website)|o
+kemusyrikan|polytheism, ascribing partners to God|o
+takhta|throne|o
+defisit|deficit|o
+medan|field, arena; terrain|o;o
+konektor|connector|o
+otoriter|authoritarian|o
+cadang|spare, held in reserve (usu. cadangan)|o
+berhijrah|to migrate, to emigrate|v
+dahsyat|tremendous, terrific; terrible|o;o
+musibah|disaster, calamity|o
+sertifikasi|certification|o
+staf|staff, personnel|o
+ihwal|matter, affair; concerning|o;o
+kerjasama|cooperation, collaboration|o
+konsensus|consensus|o
+testosteron|testosterone|o
+universal|universal|o
+bingkai|frame|o
+list|list|o
+kezaliman|cruelty, injustice|o
+audio|audio|o
+kolaborasi|collaboration|o
+genre|genre|o
+pin|pin, badge; PIN|o;o
+hakikat|essence, true nature|o
+konfigurasi|configuration|o
+mendurhakai|to disobey, to rebel against|v
+kromosom|chromosome|o
+mesh|mesh|o
+akuntabilitas|accountability|o
+imunisasi|immunisation|o
+kreditor|creditor|o
+grafik|graph, chart|o
+dakwah|preaching, calling others to Islam|o
+hidayah|divine guidance|o
+menafkahkan|to spend on, to provide for|v
+diabetes|diabetes|o
+survei|survey|o
+input|input|o
+akurasi|accuracy|o
+asa|hope (literary)|o
+berselisih|to disagree, to be in dispute|v
+transparansi|transparency|o
+kikir|stingy, miserly; a file (tool)|o;o
+chip|chip (electronic)|o
+kiblat|the direction of prayer, qibla; point of reference|o;o
+tauhid|the oneness of God, monotheism|o
+kustom|custom, customised|o
+sahaya|servant, slave|o
+seumpama|like, as if; supposing|o;o
+diet|diet|o
+semi|semi-, half-|o
+politis|political|o
+populis|populist|o
+tautan|link (on a web page)|o
+keridaan|divine pleasure, approval|o
+riba|usury, interest (forbidden in Islam)|o
+farmasi|pharmacy|o
+memitigasi|to mitigate|v
+pemangku|holder of an office, custodian|o
+ultrasonik|ultrasonic|o
+real|real, actual (= riil)|o
+biak|to breed, to multiply (usu. berkembang biak)|v
+kemaksiatan|sinfulness, immorality|o
+khamar|intoxicants, wine (forbidden in Islam)|o
+las|weld, welding|o
+inspeksi|inspection|o
+inflasi|inflation|o
+narasi|narrative, narration|o
+singel|single (record) (= single)|o
+kontrasepsi|contraception|o
+menandatangani|to sign|v
+merespons|to respond|v
+sejarawan|historian|o
+bit|bit (unit of data)|o
+tips|tips, advice|o
+deposit|deposit|o
+mani|semen|o
+tag|tag, label|o
+pengentasan|alleviation, eradication (esp. of poverty)|o
+idah|the waiting period before a widow or divorcee may remarry|o
+efektivitas|effectiveness|o
+ketimpangan|inequality, imbalance|o
+genom|genome|o
+kalbu|heart (as the seat of feeling)|o
+geopolitik|geopolitics|o
+arbitrase|arbitration|o
+menzalimi|to wrong, to treat unjustly|v
+beton|concrete|o
+jurnalisme|journalism|o
+solidaritas|solidarity|o
+kemunafikan|hypocrisy|o
+rahim|womb, uterus|o
+aksara|script, character (of a writing system)|o
+template|template|o
+tabel|table (of data)|o
+drastis|drastic|o
+kit|kit|o
+tank|tank (armoured vehicle); tank, reservoir|o;o
+strip|stripe, dash; strip|o;o
+konstan|constant, steady|o
+hemoglobin|haemoglobin|o
+ibukota|capital city|o
+token|token|o
+domain|domain|o
+hisab|reckoning, calculation; the Reckoning (on the Day of Judgement)|o;o
+malapetaka|disaster, calamity|o
+sangkakala|trumpet (sounded on the Day of Judgement)|o
+syirik|associating partners with God, idolatry|o
+duri|thorn, spine; fishbone|o;o
+intelektual|intellectual|o
+populisme|populism|o
+galvanis|galvanised|o
+golf|golf|o
+kajian|study, analysis, review|o
+bertawakal|to trust in God, to resign oneself to God|v
+roller|roller|o
+varian|variant|o
+kadar|content, level (of a substance); degree, extent|o;o
+kompatibel|compatible|o
+bilateral|bilateral|o
+dinamika|dynamics|o
+teka-teki|puzzle, riddle|o
+premium|premium, top grade|o
+mengukuhkan|to confirm, to affirm, to strengthen|v
+kuantitas|quantity|o
+talak|divorce (pronounced by the husband)|o
+smartphone|smartphone|o
+browser|browser|o
+inklusi|inclusion|o
+pakar|expert, specialist|o
+fakir|destitute person, pauper|o
+historis|historical|o
+ketidakstabilan|instability|o
+perselisihan|dispute, disagreement|o
+rem|brake|o
+argumentasi|argumentation, reasoning|o
+biofuel|biofuel|o
+mengalokasikan|to allocate|v
+mobilitas|mobility|o
+neraca|balance sheet; scales, balance|o;o
+persepsi|perception|o
+via|via, by way of|o
+sepur|train, railway (colloq.)|o
+aksesori|accessory|o
+diversifikasi|diversification|o
+mikro|micro-|o
+wisatawan|tourist|o
+amanat|mandate, message entrusted; trust|o;o
+memperolok-olokkan|to mock, to ridicule|v
+taubat|repentance; to repent|o;v
+horizontal|horizontal|o
+catu|ration, allotted supply|o
+algoritma|algorithm|o
+subtitle|subtitle|o
+ekologi|ecology|o
+kontemporer|contemporary|o
+musyrikin|polytheists, those who ascribe partners to God|o
+naungan|shelter, protection; auspices|o;o
+tatanan|order, arrangement, structure|o
+disk|disk|o
+resin|resin|o
+kemudaratan|harm, detriment|o
+risalah|treatise, tract; minutes (of a meeting)|o;o
+riil|real, actual|o
+rol|roll, reel; role|o;o
+purna|complete, finished; post-, ex-|o;o
+medali|medal|o
+menonjol|to protrude; to stand out, to be prominent|v;v
+dekarbonisasi|decarbonisation|o
+industrialisasi|industrialisation|o
+likuiditas|liquidity|o
+natrium|sodium|o
+siber|cyber-|o
+wewenang|authority, competence|o
+trading|trading (in securities)|o
+remote|remote control|o
+diesel|diesel|o
+pranala|link, hyperlink|o
+berargumentasi|to argue, to reason|v
+bias|refracted, diffused; bias|o;o
+degradasi|degradation|o
+kepailitan|bankruptcy|o
+lithium|lithium|o
+nasionalis|nationalist|o
+regulator|regulator|o
+sistemis|systemic|o
+urbanisasi|urbanisation|o
+default|default|o
+dengki|spiteful, envious|o
+grosir|wholesale|o
+kufur|disbelief in God; to disbelieve|o;v
+menjerumuskan|to plunge (someone) into, to lead astray|v
+download|to download|v
+sakelar|switch (electrical)|o
+ketidakadilan|injustice|o
+malnutrisi|malnutrition|o
+pupuk|fertiliser|o
+bertaubat|to repent|v
+kisas|retaliation in kind, retributive justice|o
+mudarat|harm, detriment|o
+perselisihkan|to dispute, to contest|v
+tepung|flour|o
+setoran|deposit, instalment, remittance|o
+otomotif|automotive|o
+bertawakkal|to trust in God, to resign oneself to God|v
+jahiliah|pre-Islamic ignorance; ignorant of religion|o;o
+memobilisasi|to mobilise|v
+tembakau|tobacco|o
+reseptor|receptor|o
+endemik|endemic|o
+kolonial|colonial|o
+kuarsa|quartz|o
+teorema|theorem|o
+sentimeter|centimetre|o
+fitrah|innate nature, natural disposition; alms given at the end of Ramadan|o;o
+ketakwaan|piety, god-fearingness|o
+nafkahkan|to spend on the upkeep of, to provide for|v
+dialokasikan|to be allocated|v
+pra-industri|pre-industrial|o
+glukosa|glucose|o
+aus|worn out, worn down|o
+kognitif|cognitive|o
+outdoor|outdoor|o
+servo|servo|o
+slide|slide|o
+kendati|although, even though|o
+mahar|dowry, bride price|o
+sunah|sunnah, the Prophet's practice; recommended but not obligatory|o;o
+legislatif|legislative|o
+optimal|optimal|o
+anabolik|anabolic|o
+anjlok|to plunge, to drop sharply|v
+deforestasi|deforestation|o
+digitalisasi|digitalisation|o
+nasionalisme|nationalism|o
+pariwisata|tourism|o
+psikolog|psychologist|o
+driver|driver (software)|o
+plugin|plugin|o
+akidah|creed, article of faith|o
+fleksibilitas|flexibility|o
+folder|folder|o
+bass|bass|o
+alokasi|allocation|o
+kapita|capita (in per kapita: per head)|o
+liberalisasi|liberalisation|o
+polarisasi|polarisation|o
+responden|respondent|o
+terorisme|terrorism|o
+grade|grade, level|o
+tekstil|textile|o
+berzikir|to recite remembrance of God|v
+melata|to crawl, to creep|v
+mungkar|reprehensible, forbidden (in religion)|o
+drum|drum|o
+elektroda|electrode|o
+gel|gel|o
+ilahi|divine|o
+kompresor|compressor|o
+obesitas|obesity|o
+palet|pallet; palette|o;o
+stylist|stylist|o
+utilitas|utility|o
+wafat|to pass away, to die (respectful)|v
+basa|base, alkali|o
+vena|vein|o
+angan-angan|daydream, fancy; aspiration|o;o
+ghaib|unseen, hidden, supernatural|o
+advokasi|advocacy|o
+konektivitas|connectivity|o
+subspesies|subspecies|o
+digit|digit|o
+partisi|partition|o
+ibunda|mother (respectful)|o
+radar|radar|o
+desktop|desktop|o
+gram|gram|o
+kontainer|container|o
+torsi|torque|o
+timah|tin; lead (timah hitam)|o;o
+hujah|argument, proof|o
+kemahakuasaan|omnipotence|o
+kesyirikan|polytheism, associating partners with God|o
+takwa|piety, god-fearingness|o
+akrilik|acrylic|o
+multi|multi-|o
+insulasi|insulation|o
+komposit|composite|o
+fungsional|functional|o
+imigran|immigrant|o
+lansia|the elderly, senior citizen|o
+elo|you (Jakarta colloq.)|f2s2p
+cookie|cookie|o
+kemaslahatan|the common good, benefit|o
+ekspansi|expansion|o
+tekstur|texture|o
+deformasi|deformation|o
+solid|solid|o
+afiliasi|affiliation|o
+blockchain|blockchain|o
+imunitas|immunity|o
+ketidaksetaraan|inequality|o
+minor|minor|o
+realistis|realistic|o
+restrukturisasi|restructuring|o
+performa|performance|o
+tungsten|tungsten|o
+magnetik|magnetic|o
+adaptor|adapter|o
+lift|lift, elevator|o
+ekstensi|extension|o
+ekstrusi|extrusion|o
+kompleksitas|complexity|o
+rekayasa|engineering; manipulation, fabrication|o;o
+geografis|geographical|o
+monopoli|monopoly|o
+shell|shell (command interpreter)|o
+formasi|formation|o
+klip|clip|o
+foil|foil|o
+host|host|o
+alel|allele|o
+autisme|autism|o
+spesimen|specimen|o
+wesel|money order; bill of exchange|o;o
+tutorial|tutorial|o
+inch|inch|o
+haid|menstruation|o
+mengesakan|to affirm the oneness of God|v
+sanggahan|objection, rebuttal|o
+segumpal|a lump of, a clot of|o
+sembahyang|to pray; ritual prayer|v;o
+takaran|measure, dose|o
+demografi|demography|o
+disinformasi|disinformation|o
+kewirausahaan|entrepreneurship|o
+makroekonomi|macroeconomics|o
+nihil|nil, none|o
+poliester|polyester|o
+primer|primary|o
+komedi|comedy|o
+syaraf|nerve|o
+ekonomis|economical|o
+flash|flash|o
+diridai|to be pleased with, to be approved (of God)|v
+maskawin|dowry, bride price|o
+peribadatan|worship, religious observance|o
+elastis|elastic|o
+potensial|potential|o
+cover|cover|o
+interupsi|interruption|o
+ketidakpuasan|dissatisfaction|o
+penyuntingan|editing|o
+pneumonia|pneumonia|o
+sejawat|colleague, peer|o
+surplus|surplus|o
+administratif|administrative|o
+router|router|o
+antioksidan|antioxidant|o
+dekoratif|decorative|o
+non|non-|o
+aurat|the parts of the body that must be covered|o
+pot|pot, flowerpot|o
+ekspektasi|expectation|o
+influenza|influenza|o
+mengentaskan|to lift out of, to alleviate|v
+mobilisasi|mobilisation|o
+referendum|referendum|o
+selisih|difference, discrepancy; dispute|o;o
+supremasi|supremacy|o
+tuberkulosis|tuberculosis|o
+kapiler|capillary|o
+konsultasi|consultation|o
+kuantum|quantum|o
+polimer|polymer|o
+bilamana|when, if (formal)|o
+pneumatik|pneumatic|o
+tab|tab|o
+piranti|device, tool|o
+interaktif|interactive|o
+audiens|audience|o
+familia|family (taxonomic)|o
+hit|hit (popular success)|o
+berkesinambungan|continuous, sustained|o
+koperasi|cooperative|o
+legitimasi|legitimacy|o
+makmur|prosperous|o
+marginal|marginal|o
+multilateralisme|multilateralism|o
+nirlaba|non-profit|o
+preferensi|preference|o
+sisik|scale (of a fish or reptile)|o
+fosfat|phosphate|o
+kemudharatan|harm, detriment|o
+laknat|curse; accursed|o;o
+maslahat|benefit, the common good|o
+notasi|notation|o
+syafa'at|intercession|o
+terjerumus|to fall into, to be led astray|v
+kolesterol|cholesterol|o
+relawan|volunteer|o
+serbuk|powder; pollen|o;o
+sterilisasi|sterilisation|o
+transformator|transformer|o
+loop|loop|o
+dubur|anus|o
+sen|cent|o
+soket|socket|o
+batch|batch|o
+solder|solder|o
+murtad|apostate; to renounce one's faith|o;v
+eksportir|exporter|o
+fundamental|fundamental|o
+genetis|genetic|o
+implementasi|implementation|o
+komputasi|computation|o
+pencaharian|livelihood, occupation|o
+telekomunikasi|telecommunications|o
+asteroid|asteroid|o
+navigasi|navigation|o
+nilon|nylon|o
+boiler|boiler|o
+estrogen|oestrogen|o
+sintesis|synthesis|o
+induksi|induction|o
+piksel|pixel|o
+teologi|theology|o
+cerpelai|mongoose, weasel|o
+herbal|herbal|o
+kumparan|coil|o
+transkripsi|transcription|o
+bahagian|part, section|o
+bingo|bingo|o
+keridhaan|pleasure, approval (of God)|o
+perniagaan|trade, commerce|o
+disambiguasi|disambiguation|o
+rum|rum|o
+bercak|spot, patch, blotch|o
+flensa|flange|o
+laman|page, web page|o
+login|to log in|v
+maskapai|company, firm (esp. an airline)|o
+disabilitas|disability|o
+kedaulatan|sovereignty|o
+masal|mass, en masse|o
+rating|rating|o
+retorika|rhetoric|o
+startup|startup|o
+muara|estuary, river mouth|o
+korteks|cortex|o
+wasit|referee, umpire; arbitrator|o;o
+bagai|like, as|o
+ihram|ihram, the state of ritual consecration for the pilgrimage|o
+orbital|orbital|o
+sensitivitas|sensitivity|o
+sutera|silk|o
+tenteram|peaceful, tranquil|o
+pangkal|base, stem; starting point|o;o
+kapas|cotton|o
+oksida|oxide|o
+akademisi|academic, scholar|o
+cula|horn (of a rhinoceros)|o
+ekologis|ecological|o
+fintech|fintech|o
+ketidakmampuan|inability|o
+konduktor|conductor|o
+penggundulan|stripping bare, deforestation|o
+penyandang|bearer of, person with|o
+portal|portal|o
+portofolio|portfolio|o
+substrat|substrate|o
+update|update|o
+fitting|lamp holder, fitting|o
+jazz|jazz|o
+nonaktif|inactive, suspended from duty|o
+desimal|decimal|o
+kontras|contrast|o
+analog|analogue|o
+andaikata|supposing that, if|o
+berangsur-angsur|gradually, little by little|o
+bersabda|to say, to speak (of the Prophet)|v
+kafarat|expiation, atonement|o
+karib|close, intimate (of a friend)|o
+musafir|traveller, wayfarer|o
+otomatisasi|automation|o
+takabur|arrogant, haughty|o
+outlet|outlet|o
+cakram|disc|o
+koral|coral; gravel|o;o
+mengoptimalkan|to optimise|v
+finishing|finishing, final surface work|o
+cekungan|basin, hollow, depression|o
+frame|frame|o
+inverter|inverter|o
+rahang|jaw|o
+trader|trader|o
+ditandatangani|to be signed|v
+hidrokarbon|hydrocarbon|o
+kolaboratif|collaborative|o
+memupuk|to fertilise; to foster, to cultivate|v;v
+menyokong|to support, to back|v
+mikroskop|microscope|o
+moratorium|moratorium|o
+net-zero|net zero|o
+ozon|ozone|o
+proaktif|proactive|o
+proporsi|proportion|o
+transit|transit|o
+ilustrasi|illustration|o
+sensus|census|o
+kedengkian|spite, envy|o
+distributor|distributor|o
+mouse|mouse (computer)|o
+pengecoran|casting, pouring (of concrete or metal)|o
+ujar|to say; utterance|v;o
+casing|casing|o
+cor|cast concrete; to pour, to cast|o;v
+debit|flow rate, discharge|o
+obyek|object|o
+blower|blower|o
+subtropis|subtropical|o
+casting|casting (of a role)|o
+log|log|o
+mixer|mixer|o
+oksidasi|oxidation|o
+piston|piston|o
+watt|watt|o
+antimikroba|antimicrobial|o
+budi|character, good sense; kindness|o;o
+gamis|long robe|o
+khusyuk|devout, absorbed in prayer|o
+mengkaji|to study, to examine|v
+multinasional|multinational|o
+sosio-ekonomi|socio-economic|o
+bea|duty, customs tax|o
+ritel|retail|o
+artileri|artillery|o
+meditasi|meditation|o
+nizam|order, system|o
+pinyin|pinyin|o
+stamping|stamping, press-forming|o
+wol|wool|o
+yak|yak|o
+anarkis|anarchist; anarchic|o;o
+kalium|potassium|o
+kripto|crypto|o
+otonom|autonomous|o
+amino|amino|o
+karbida|carbide|o
+individual|individual|o
+admin|admin|o
+katalog|catalogue|o
+menisbatkan|to attribute to, to ascribe to|v
+pelbagai|various, all kinds of|o
+pertanggungjawaban|accountability, answerability|o
+punca|cause, source|o
+putera|son; prince|o;o
+revolusioner|revolutionary|o
+rukuk|bowing in ritual prayer|o
+seleksi|selection|o
+tabiat|nature, disposition, habit|o
+revisi|revision|o
+aspirasi|aspiration|o
+epidemiologi|epidemiology|o
+inovator|innovator|o
+integritas|integrity|o
+renminbi|renminbi|o
+ventilator|ventilator|o
+ventura|venture (in modal ventura: venture capital)|o
+estetika|aesthetics|o
+katun|cotton|o
+konduktivitas|conductivity|o
+kurikulum|curriculum|o
+simetri|symmetry|o
+gumpalan|lump, clot, mass|o
+itik|duck|o
+otonomi|autonomy|o
+bergelimang|to be covered in, to wallow in|v
+gradien|gradient|o
+hijrah|migration, the Hijra; to move away and start afresh|o;v
+nukleus|nucleus|o
+plot|plot|o
+samawi|heavenly, celestial|o
+valid|valid|o
+konveyor|conveyor|o
+pigmen|pigment|o
+ring|ring (boxing)|o
+teritorial|territorial|o
+laminasi|lamination|o
+proteksi|protection|o
+doktrin|doctrine|o
+dealer|dealer|o
+aditif|additive|o
+alkali|alkali|o
+balita|child under five|o
+elektromagnetik|electromagnetic|o
+fluktuasi|fluctuation|o
+holistik|holistic|o
+impunitas|impunity|o
+irigasi|irrigation|o
+kesiapsiagaan|preparedness|o
+mengikis|to erode, to wear away|v
+menyasar|to target, to aim at|v
+molekuler|molecular|o
+non-pemerintah|non-governmental|o
+origami|origami|o
+promo|promotion, promo|o
+simulator|simulator|o
+vital|vital|o
+linier|linear|o
+penyunting|editor|o
+koefisien|coefficient|o
+tangkai|stalk, stem; handle|o;o
+boom|boom|o
+ester|ester|o
+integral|integral|o
+jejaring|network|o
+upgrade|upgrade|o
+mentauhidkan|to affirm the oneness of God|v
+merta|(in serta merta: at once, on the spot)|g
+patch|patch|o
+tawaf|circumambulation of the Kaaba|o
+cendekiawan|scholar, learned person|o
+kanon|canon|o
+speaker|loudspeaker|o
+track|track|o
+komposer|composer|o
+monarki|monarchy|o
+vokalis|vocalist|o
+serbaguna|multipurpose, all-purpose|o
+mol|mole (chemistry)|o
+nano|nano-|o
+ranjang|bed|o
+akademis|academic|o
+akuifer|aquifer|o
+asesmen|assessment|o
+dividen|dividend|o
+eksplisit|explicit|o
+garmen|garment manufacture|o
+insektisida|insecticide|o
+ketidakseimbangan|imbalance|o
+kewarganegaraan|citizenship|o
+konkret|concrete, not abstract|o
+kurun|period, era|o
+moderat|moderate|o
+regulasi|regulation|o
+serpih|flake, shard; shale|o;o
+telemedis|telemedicine|o
+transformatif|transformative|o
+dibudidayakan|to be cultivated, to be farmed|v
+offline|offline|o
+spot|spot|o
+adakala|sometimes, at times|o
+fregat|frigate|o
+khatimah|conclusion, closing section|o
+kompatibilitas|compatibility|o
+oksitosin|oxytocin|o
+rasisme|racism|o
+retensi|retention|o
+silih|in turn, alternately (silih berganti)|o
+syahwat|carnal desire, lust|o
+umpama|for example; like, as|o;o
+uzur|infirm, aged; valid excuse|o;o
+zaqqum|zaqqum, the infernal tree named in the Quran|o
+penutur|speaker (of a language)|o
+dot|teat, baby's bottle|o
+representasi|representation|o
+kalibrasi|calibration|o
+drop|drop|o
+horisontal|horizontal|o
+modular|modular|o
+paradigma|paradigm|o
+probe|probe|o
+sukarelawan|volunteer|o
+elastisitas|elasticity|o
+excavator|excavator|o
+kronik|chronic; chronicle|o;o
+peptida|peptide|o
+string|string|o
+troll|troll|o
+berkonsultasi|to consult|v
+drainase|drainage|o
+saklar|switch (electrical)|o
+feminis|feminist|o
+keausan|wear, wearing down|o
+kunang-kunang|firefly|o
+linear|linear|o
+modis|fashionable|o
+analis|analyst|o
+autokrasi|autocracy|o
+becak|pedicab|o
+e-commerce|e-commerce|o
+fiberglass|fibreglass|o
+kredibel|credible|o
+melipatgandakan|to multiply, to increase many times over|v
+menanggulangi|to cope with, to tackle|v
+nominal|nominal; face value|o;o
+partisan|partisan|o
+strain|strain (of a virus)|o
+urgensi|urgency|o
+wirausaha|entrepreneur; entrepreneurship|o;o
+balatentara|army, host|o
+bertelekan|to lean on, to prop oneself up on|v
+gulita|pitch dark (gelap gulita)|o
+hujjah|argument, proof|o
+makruf|good, proper (in religion)|o
+menginfakkan|to spend in charity|v
+mensucikan|to purify|v
+perkeretaapian|railways, the railway system|o
+tasbih|glorification of God; prayer beads|o;o
+dopamin|dopamine|o
+interval|interval|o
+manusiawi|humane; human|o;o
+rig|rig|o
+ateis|atheist|o
+bot|bot|o
+bubut|to turn on a lathe|v
+pound|pound|o
+duo|duo|o
+frasa|phrase|o
+hidraulik|hydraulic|o
+laba|profit, gain|o
+torium|thorium|o
+polinomial|polynomial|o
+spontan|spontaneous|o
+bodi|body (of a vehicle)|o
+pemukim|settler|o
+rubel|rouble|o
+wallpaper|wallpaper|o
+vegetasi|vegetation|o
+takson|taxon|o
+kapasitor|capacitor|o
+kerap|often, frequently|o
+berinfak|to give in charity|v
+ganimah|spoils of war|o
+kerongkongan|throat, gullet|o
+linguistik|linguistics|o
+ma'ruf|good, proper (in religion)|o
+mitosis|mitosis|o
+muslihat|ruse, stratagem|o
+nanah|pus|o
+paceklik|lean season, time of scarcity|o
+probiotik|probiotic|o
+roboh|to collapse, to fall down|v
+rujuk|to take back a divorced wife; to refer to|v;v
+tamsil|parable, allegory|o
+trem|tram|o
+dilantik|to be sworn in, to be inaugurated|v
+gitaris|guitarist|o
+analogi|analogy|o
+cermat|careful, precise|o
+ekuitas|equity|o
+men-download|to download|v
+modernisasi|modernisation|o
+otoritarianisme|authoritarianism|o
+penanggulangan|mitigation, tackling|o
+polutan|pollutant|o
+profit|profit, earnings|o
+proporsional|proportional|o
+ranah|domain, sphere, realm|o
+resistan|resistant|o
+responsif|responsive|o
+tsunami|tsunami|o
+kotamadya|municipality|o
+dipoles|to be polished|v
+fragmen|fragment|o
+mikrofon|microphone|o
+controller|controller|o
+surgawi|heavenly, of paradise|o
+tong|barrel, drum; bin|o;o
+hikmat|wisdom; solemnity|o;o
+pascasarjana|postgraduate|o
+akustik|acoustic; acoustics|o;o
+entropi|entropy|o
+multifungsi|multifunctional|o
+viskositas|viscosity|o
+budidaya|cultivation, farming|o
+konsistensi|consistency|o
+asupan|intake|o
+dioptimalkan|to be optimised|v
+relasi|relation, connection|o
+subfamili|subfamily|o
+filtrasi|filtration|o
+mazhab|school of Islamic law; school of thought|o;o
+perkembangbiakan|reproduction, breeding|o
+alim|learned in religion, devout|o
+dihisab|to be called to account|v
+disitir|to be quoted, to be cited|v
+fana|transient, perishable|o
+fardu|obligatory religious duty|o
+grid|grid|o
+intuitif|intuitive|o
+invertebrata|invertebrate|o
+kusam|dull, lacklustre|o
+mentaati|to obey, to comply with|v
+menyeleweng|to deviate, to go astray; to embezzle|v;v
+mudharat|harm, detriment|o
+ria|cheerful, merry|o
+riya|ostentatious display of piety|o
+sedimen|sediment|o
+takwil|interpretation of scripture|o
+terhampar|spread out, laid out|o
+watak|character, nature|o
+e-mail|email|o
+kuliner|culinary; cuisine|o;o
+kustomisasi|customisation|o
+penetrasi|penetration|o
+rotor|rotor|o
+bandwidth|bandwidth|o
+topologi|topology|o
+bakau|mangrove|o
+intens|intense|o
+mur|nut (for a bolt)|o
+ubur-ubur|jellyfish|o
+cicilan|instalment|o
+diskriminatif|discriminatory|o
+erosi|erosion|o
+kakao|cocoa|o
+median|median|o
+melanggengkan|to perpetuate|v
+meratifikasi|to ratify|v
+miliarder|billionaire|o
+pangsa|share, market share|o
+rangkap|double, duplicate; to hold two posts at once|o;v
+sosioekonomi|socio-economic|o
+soundtrack|soundtrack|o
+stigma|stigma|o
+ujaran|utterance, speech|o
+unilateral|unilateral|o
+zoonosis|zoonosis|o
+amfibi|amphibian|o
+asetat|acetate|o
+bug|bug (software)|o
+eksterior|exterior|o
+esensial|essential|o
+serotonin|serotonin|o
+akord|chord|o
+aktivasi|activation|o
+grafit|graphite|o
+nanopartikel|nanoparticle|o
+abrasi|abrasion; coastal erosion|o;o
+konverter|converter|o
+lotere|lottery|o
+margin|margin|o
+ultraviolet|ultraviolet|o
+troli|trolley|o
+buhul|knot|o
+korosif|corrosive|o
+sinkronisasi|synchronisation|o
+bejana|vessel, container|o
+bergelimpangan|to lie strewn about|v
+dahaga|thirst|o
+dalil|proof text, scriptural argument|o
+jizyah|poll tax levied on non-Muslims|o
+kemahaesaan|the oneness of God|o
+kemungkaran|wrongdoing, evil|o
+paroki|parish|o
+silaturahmi|the keeping of kinship ties, visiting to keep in touch|o
+takjub|amazed, astonished|o
+busana|clothing, attire|o
+event|event|o
+lateral|lateral|o
+miselium|mycelium|o
+pankreas|pancreas|o
+plasebo|placebo|o
+proto|proto-|o
+spektakuler|spectacular|o
+fungsionalitas|functionality|o
+kompilasi|compilation|o
+anarkisme|anarchism|o
+boot|boot|o
+masinis|train driver|o
+asih|affection, tenderness|o
+embrio|embryo|o
+roulette|roulette|o
+transgender|transgender|o
+manuskrip|manuscript|o
+akson|axon|o
+ideologis|ideological|o
+kreasi|creation|o
+krusial|crucial|o
+kuantitatif|quantitative|o
+literasi|literacy|o
+menonaktifkan|to deactivate; to suspend from duty|v;v
+pascapandemi|post-pandemic|o
+widget|widget|o
+pad|pad|o
+permukiman|settlement|o
+pitch|pitch|o
+braket|bracket|o
+draft|draft|o
+gamer|gamer|o
+glasier|glacier|o
+welas|compassion (welas asih)|o
+bakhil|miserly, stingy|o
+belukar|thicket, scrub|o
+berniaga|to trade, to do business|v
+botani|botany|o
+cemoohan|mockery, derision|o
+hamparan|expanse, stretch|o
+ketidaknyamanan|discomfort, inconvenience|o
+memahasucikan|to glorify as free of all imperfection|v
+pamanda|uncle (respectful)|o
+rajam|stoning as a punishment|o
+sabda|word, utterance (of a prophet or a king)|o
+slip|slip|o
+barcode|barcode|o
+lokakarya|workshop|o
+neon|neon|o
+tekstual|textual|o
+detil|detail|o
+garnisun|garrison|o
+indera|sense (sight, hearing, touch)|o
+jeda|pause, break, interval|o
+kalkulator|calculator|o
+mentor|mentor|o
+periodik|periodic|o
+respirasi|respiration|o
+akumulasi|accumulation|o
+ulir|thread (of a screw)|o
+bagan|chart, diagram; outline|o;o
+berduri|thorny, barbed|o
+cache|cache|o
+insang|gill|o
+jasmani|physical, bodily|o
+klorida|chloride|o
+blogger|blogger|o
+inventor|inventor|o
+makeup|makeup|o
+reruntuhan|ruins, rubble|o
+anyaman|weaving, wickerwork|o
+kolagen|collagen|o
+metalurgi|metallurgy|o
+rental|rental|o
+selektif|selective|o
+sosialisme|socialism|o
+knot|knot (unit of speed)|o
+hardware|hardware|o
+denominasi|denomination|o
+absolut|absolute|o
+akuntabel|accountable|o
+albedo|albedo|o
+basal|basal|o
+bruto|gross, before deductions|o
+devisa|foreign exchange|o
+direkayasa|to be engineered; to be manipulated|v;v
+eksternalitas|externality|o
+elektrifikasi|electrification|o
+estimasi|estimate|o
+filantropis|philanthropic|o
+gambut|peat|o
+imbal|return, yield (imbal hasil)|o
+ketidakpedulian|indifference, apathy|o
+kiat|tip, knack|o
+memutarbalikkan|to twist, to distort|v
+merealisasikan|to realise, to bring about|v
+negosiator|negotiator|o
+nozzle|nozzle|o
+perekayasaan|engineering, the work of engineering|o
+pergolakan|upheaval, turmoil|o
+sengit|fierce, heated|o
+terdesentralisasi|decentralised|o
+bermukim|to reside, to be settled|v
+bulir|grain, ear (of corn)|o
+inang|host (of a parasite)|o
+muram|gloomy, sullen|o
+pengukuhan|confirmation, inauguration|o
+sahih|authentic, sound (of a hadith)|o
+ubun-ubun|crown of the head|o
+wafatkan|to cause to die, to take (a soul)|v
+binaragawan|bodybuilder|o
+disfungsi|dysfunction|o
+hub|hub|o
+kardiovaskular|cardiovascular|o
+kodeks|codex|o
+veneer|veneer|o
+wihara|Buddhist monastery|o
+medium|medium|o
+yard|yard|o
+biosfer|biosphere|o
+jambul|crest, tuft|o
+kelambu|mosquito net|o
+tenun|to weave; woven cloth|v;o
+yen|yen|o
+finis|finish (of a race)|o
+lumut|moss, algae|o
+relaksasi|relaxation|o
+antigen|antigen|o
+bon|bill, receipt; voucher|o;o
+dedaunan|foliage, leaves|o
+inhibitor|inhibitor|o
+kubik|cubic|o
+kultur|culture|o
+ente|you (familiar, in Arab-Indonesian speech)|f2s2p
+opioid|opioid|o
+serba|all, entirely (serba baru: all new)|o
+alumina|alumina|o
+freezer|freezer|o
+impedansi|impedance|o
+mikron|micron|o
+sawit|oil palm|o
+semikonduktor|semiconductor|o
+gawat|critical, serious, dire|o
+trend|trend|o
+uranium|uranium|o
+backup|backup|o
+bermunajat|to supplicate, to pray intimately to God|v
+delima|pomegranate|o
+fonemis|phonemic|o
+gamblang|clear, plain, unambiguous|o
+ikrar|pledge, declaration|o
+jua|also, too; even (literary)|o;o
+ketenteraman|tranquillity, peace|o
+krustasea|crustacean|o
+manakala|when, whenever|o
+mengemban|to carry out, to bear (a duty)|v
+menghisab|to call to account, to reckon|v
+menuturkan|to relate, to recount|v
+menyanggah|to object to, to refute|v
+morfologi|morphology|o
+sekonyong-konyong|suddenly, all at once|o
+sukatan|measure, dry measure|o
+sulfat|sulphate|o
+syahid|martyr|o
+tarikh|date; era, chronicle|o;o
+tiran|tyrant|o
+fagosit|phagocyte|o
+fotosintesis|photosynthesis|o
+gandar|axle; carrying pole|o;o
+jilid|volume (of a book); binding|o;o
+mencantumkan|to include, to set down in writing|v
+merangkum|to summarise; to encompass|v;v
+molibdenum|molybdenum|o
+nosel|nozzle|o
+prasarana|infrastructure|o
+agregat|aggregate|o
+artemisinin|artemisinin|o
+bioenergi|bioenergy|o
+bioteknologi|biotechnology|o
+blister|blister pack|o
+difabel|person with a disability|o
+implikasi|implication|o
+makro|macro-|o
+mapan|established, settled, secure|o
+menstimulasi|to stimulate|v
+merombak|to overhaul, to dismantle and rebuild|v
+notifikasi|notification|o
+otomasi|automation|o
+penyintas|survivor|o
+pertikaian|conflict, dispute|o
+pragmatis|pragmatic|o
+sektarian|sectarian|o
+urgen|urgent|o
+xenofobia|xenophobia|o
+anumerta|posthumous|o
+formulasi|formulation|o
+lipid|lipid|o
+wiper|wiper|o
+antibakteri|antibacterial|o
+gerinda|grinder, grinding wheel|o
+kalkulus|calculus|o
+kartrid|cartridge|o
+bening|clear, transparent|o
+klem|clamp|o
+microwave|microwave|o
+multimedia|multimedia|o
+pucuk|shoot, bud; tip, top|o;o
+sentrifugal|centrifugal|o
+charger|charger|o
+diagonal|diagonal|o
+ekstrover|extrovert|o
+estat|estate|o
+visibilitas|visibility|o
+diilustrasikan|to be illustrated|v
+foton|photon|o
+moluska|mollusc|o
+skrip|script|o
+gadget|gadget|o
+radial|radial|o
+redaksi|editorial staff; wording|o;o
+sekuler|secular|o
+servis|service; to service|o;v
+surut|to recede, to ebb; to decline|v;v
+teledu|stink badger|o
+abrasif|abrasive|o
+antusias|enthusiastic|o
+blackjack|blackjack|o
+terpal|tarpaulin|o
+krom|chrome, chromium|o
+legendaris|legendary|o
+manifestasi|manifestation|o
+asar|the afternoon prayer|o
+azali|eternal, without beginning|o
+balig|of age, having reached puberty|o
+fabrikasi|fabrication|o
+fatwa|fatwa, a scholar's legal ruling|o
+fluida|fluid|o
+forklift|forklift|o
+infak|charitable giving, alms|o
+jannah|paradise|o
+masam|sour; sullen|o;o
+memakmurkan|to make prosperous|v
+memungkiri|to deny, to go back on|v
+mencerca|to revile, to abuse|v
+menggugah|to rouse, to stir|v
+musyawarah|deliberation, consultation to reach consensus|o
+pengecer|retailer|o
+prostat|prostate|o
+sosiologi|sociology|o
+sulbi|loins|o
+tenunan|woven fabric|o
+umrah|the lesser pilgrimage to Mecca|o
+zihar|the repudiation of a wife by likening her to one's mother|o
+zikir|remembrance of God, recitation of His names|o
+pulp|pulp|o
+aorta|aorta|o
+dara|maiden, young woman; dove|o;o
+dispenser|dispenser|o
+klorin|chlorine|o
+matematikawan|mathematician|o
+mencengangkan|to astonish, astonishing|v
+panggul|hip, pelvis|o
+liner|liner|o
+peladen|server (computing)|o
+presenter|presenter|o
+autokrat|autocrat|o
+bioetika|bioethics|o
+deregulasi|deregulation|o
+divestasi|divestment|o
+franc|franc|o
+independensi|independence|o
+institusional|institutional|o
+kas|cash; treasury|o;o
+keikutsertaan|participation|o
+konsesi|concession|o
+langgeng|lasting, everlasting|o
+libido|libido|o
+lonjong|oval, elongated|o
+mendiversifikasi|to diversify|v
+misinformasi|misinformation|o
+netralitas|neutrality|o
+optimisme|optimism|o
+pluralisme|pluralism|o
+prakarsa|initiative|o
+profitabilitas|profitability|o
+stagnan|stagnant|o
+teknokrat|technocrat|o
+termarginalisasi|marginalised|o
+transatlantik|transatlantic|o
+conveyor|conveyor|o
+komunisme|communism|o
+tusam|pine|o
+dituturkan|to be spoken, to be related|v
+ergonomis|ergonomic|o
+pionir|pioneer|o
+ensiklopedia|encyclopedia|o
+evolusioner|evolutionary|o
+handal|reliable, dependable|o
+komuter|commuter|o
+konduktif|conductive|o
+rambu|sign, marker|o
+relief|relief carving|o
+superior|superior|o
+traksi|traction|o
+trotoar|pavement, sidewalk|o
+waduk|reservoir|o
+epidural|epidural|o
+filosofis|philosophical|o
+glikolisis|glycolysis|o
+headset|headset|o
+karbondioksida|carbon dioxide|o
+kisi|grid, grating; lattice|o;o
+spindle|spindle|o
+thriller|thriller|o
+transpor|transport|o
+voltase|voltage|o
+laguna|lagoon|o
+bundel|bundle; file|o;o
+inkjet|inkjet|o
+kandil|lamp, candlestick|o
+konstitusional|constitutional|o
+oktaf|octave|o
+carrier|carrier|o
+introver|introvert|o
+androgenik|androgenic|o
+anterior|anterior|o
+beribadat|to worship|v
+berikrar|to pledge, to declare|v
+chat|chat|o
+faedah|benefit, use|o
+iddah|the waiting period a divorced or widowed woman must observe|o
+kenistaan|disgrace, infamy|o
+konsonan|consonant|o
+mayang|palm blossom|o
+merajam|to stone as a punishment|v
+olok-olokan|mockery, object of ridicule|o
+feed|feed|o
+spanduk|banner|o
+tweet|tweet|o
+ultrasound|ultrasound|o
+bijih|ore|o
+binomial|binomial|o
+etanol|ethanol|o
+ribulosa|ribulose|o
+riuh|noisy, boisterous|o
+subyek|subject|o
+suntingan|edit, edited version|o
+angiogenesis|angiogenesis|o
+feminisme|feminism|o
+gletser|glacier|o
+gurita|octopus|o
+iritasi|irritation|o
+jackpot|jackpot|o
+sejarahwan|historian|o
+tangkis|to parry, to ward off|v
+komentator|commentator|o
+pala|nutmeg|o
+ranting|twig; local branch (of an organisation)|o;o
+androgen|androgen|o
+berdaulat|sovereign|o
+elektrolit|electrolyte|o
+inventaris|inventory|o
+konstanta|constant (in mathematics)|o
+kromium|chromium|o
+pulmoner|pulmonary|o
+reflektif|reflective|o
+sasis|chassis|o
+sisipan|insert, insertion; infix|o;o
+teolog|theologian|o
+volt|volt|o
+amplitudo|amplitude|o
+baginda|his majesty, his highness|o
+diferensial|differential|o
+epoksi|epoxy|o
+gearbox|gearbox|o
+kelembapan|humidity, moisture|o
+sekte|sect|o
+vendor|vendor|o
+viral|viral|o
+agrokimia|agrochemical|o
+anemia|anaemia|o
+asimetris|asymmetrical|o
+biomassa|biomass|o
+desalinasi|desalination|o
+diplomatis|diplomatic|o
+ekstremis|extremist|o
+ekstremisme|extremism|o
+filantropi|philanthropy|o
+fotovoltaik|photovoltaic|o
+hengkang|to leave, to clear out|v
+intensifikasi|intensification|o
+kartel|cartel|o
+koheren|coherent|o
+kontributor|contributor|o
+kuota|quota|o
+lok|locomotive|o
+mengusung|to carry on the shoulders; to champion|v;v
+merekayasa|to engineer; to manipulate|v;v
+mutakhir|up-to-date, latest|o
+patriarki|patriarchy|o
+preventif|preventive|o
+rami|ramie|o
+redistribusi|redistribution|o
+reformis|reformist|o
+serviks|cervix|o
+sirkular|circular|o
+stagnasi|stagnation|o
+standarisasi|standardisation|o
+alfa|alpha|o
+counter|counter|o
+ekstensif|extensive|o
+kimiawi|chemical|o
+melatonin|melatonin|o
+numerik|numerical|o
+optimasi|optimisation|o
+resistor|resistor|o
+ribosom|ribosome|o
+simetris|symmetrical|o
+sinapsis|synapse|o
+sol|sole (of a shoe)|o
+tembikar|earthenware, pottery|o
+gerejawi|ecclesiastical, of the church|o
+kontinu|continuous|o
+baseball|baseball|o
+corak|pattern, motif; character, style|o;o
+distorsi|distortion|o
+emulator|emulator|o
+hepatitis|hepatitis|o
+kedidi|sandpiper|o
+rapper|rapper|o
+antisemitisme|antisemitism|o
+bah|flood|o
+bathil|false, void, baseless|o
+bermusyawarah|to deliberate, to confer|v
+dioda|diode|o
+diperselisihkan|to be disputed|v
+dipersonalisasi|to be personalised|v
+diwafatkan|to be taken in death|v
+diyat|blood money, compensation for injury|o
+goncangan|shock, jolt|o
+hujatan|blasphemy, invective|o
+magma|magma|o
+manna|manna|o
+menaungi|to shelter; to oversee|v;v
+menghardik|to snap at, to rebuke harshly|v
+menyandangkan|to confer on, to hang on|v
+mihrab|prayer niche|o
+penangkaran|captive breeding, a breeding facility|o
+ridha|pleasure, approval (of God); content|o;o
+shower|shower|o
+tutur|speech, words; to speak|o;v
+volatilitas|volatility|o
+dasawarsa|decade|o
+destinasi|destination|o
+fluks|flux|o
+grafiti|graffiti|o
+hopper|hopper|o
+kreatifitas|creativity|o
+mungil|tiny, dainty|o
+pipit|sparrow, small finch|o
+polietilen|polyethylene|o
+transduser|transducer|o
+visualisasi|visualisation|o
+aksial|axial|o
+berafiliasi|to be affiliated|v
+fosfor|phosphorus|o
+kilo|kilo|o
+mujizat|miracle|o
+termometer|thermometer|o
+aktifitas|activity|o
+bereplikasi|to replicate|v
+kaligrafi|calligraphy|o
+limit|limit|o
+logaritma|logarithm|o
+matte|matt|o
+ornamen|ornament|o
+protagonis|protagonist|o
+rotavirus|rotavirus|o
+termodinamika|thermodynamics|o
+wacana|discourse|o
+abjad|alphabet|o
+basisdata|database|o
+engsel|hinge|o
+gasket|gasket|o
+induktor|inductor|o
+kondensasi|condensation|o
+pori-pori|pores|o
+sinetron|television drama serial|o
+astronom|astronomer|o
+baya|age (setengah baya: middle-aged)|o
+bertanggungjawab|to be responsible, to answer for|v
+mantera|spell, incantation|o
+mustard|mustard|o
+spiritualitas|spirituality|o
+hipertensi|hypertension|o
+lajur|lane, column, strip|o
+panji|banner, standard|o
+ragi|yeast; ferment|o;o
+rusun|walk-up flat block|o
+serpihan|fragment, splinter|o
+bertajuk|entitled, headed|o
+dispersi|dispersion|o
+gelanggang|arena, ring|o
+liturgi|liturgy|o
+majemuk|plural, compound, composite|o
+mezbah|altar|o
+offset|offset|o
+penampang|cross-section|o
+relay|relay|o
+sabana|savanna|o
+stereo|stereo|o
+stimulasi|stimulation|o
+defisiensi|deficiency|o
+desinfeksi|disinfection|o
+genset|generator set|o
+sablon|screen printing|o
+trial|trial|o
+bifosfat|biphosphate|o
+binti|daughter of (in a name)|o
+dendrit|dendrite|o
+lap|cloth, rag; to wipe|o;v
+multi-fungsi|multifunctional|o
+piruvat|pyruvate|o
+retikulum|reticulum|o
+adibusana|haute couture|o
+automasi|automation|o
+deflasi|deflation|o
+destruktif|destructive|o
+dikucurkan|to be disbursed, to be paid out|v
+disruptif|disruptive|o
+edukasi|education|o
+fasisme|fascism|o
+harafiah|literal|o
+homoseksualitas|homosexuality|o
+implisit|implicit|o
+instansi|government agency, institution|o
+instrumental|instrumental|o
+investigatif|investigative|o
+kancah|arena, fray|o
+karsinogenik|carcinogenic|o
+komersil|commercial|o
+komparatif|comparative|o
+konkrit|concrete, not abstract|o
+konstituen|constituent|o
+konstruktif|constructive|o
+kontradiksi|contradiction|o
+konvergensi|convergence|o
+kumulatif|cumulative|o
+melek|literate, able to read; awake, aware|o;o
+mendiskreditkan|to discredit|v
+menggarisbawahi|to underline, to emphasise|v
+mengimplementasikan|to implement|v
+menyetor|to deposit, to pay in|v
+meritokrasi|meritocracy|o
+minim|minimal, scant|o
+multidimensi|multidimensional|o
+non-muslim|non-Muslim|o
+normalisasi|normalisation|o
+nozel|nozzle|o
+patriotisme|patriotism|o
+perfeksionisme|perfectionism|o
+petisi|petition|o
+piton|python|o
+siklon|cyclone|o
+sosiolog|sociologist|o
+swasembada|self-sufficiency|o
+termarginalkan|marginalised|o
+terperosok|to fall into, to slip into|v
+triage|triage|o
+adhesi|adhesion|o
+alkitabiah|biblical|o
+editorial|editorial|o
+firmware|firmware|o
+influencer|influencer|o
+loader|loader|o
+ruas|segment, section; stretch of road|o;o
+scan|scan|o
+sealant|sealant|o
+substansial|substantial|o
+versus|versus|o
+akhlak|moral character, ethics|o
+antagonis|antagonist|o
+baiat|oath of allegiance|o
+diafragma|diaphragm|o
+drummer|drummer|o
+efektor|effector|o
+enamel|enamel|o
+evaporator|evaporator|o
+fatamorgana|mirage|o
+homolog|homologous|o
+ibadat|worship, religious observance|o
+jahil|ignorant; mischievous|o;o
+kanopi|canopy|o
+kapital|capital, funds; capital letter|o;o
+ketidaktahuan|ignorance|o
+klorofil|chlorophyll|o
+kompetensi|competence|o
+kontur|contour|o
+marabahaya|danger, peril|o
+mencemoohkan|to mock, to deride|v
+mencermati|to scrutinise, to look closely at|v
+meridai|to be pleased with, to approve (of God)|v
+munkar|reprehensible, forbidden (in religion)|o
+nasab|lineage, descent|o
+plak|plaque|o
+polis|policy (insurance)|o
+senda|jest (senda gurau: joking around)|o
+suplementasi|supplementation|o
+takbir|the saying of "God is greatest"|o
+tegalan|dry unirrigated field|o
+tenung|divination, fortune-telling|o
+cerobong|chimney, funnel|o
+herba|herb|o
+pahat|chisel; to carve|o;v
+poliuretan|polyurethane|o
+tuas|lever|o
+array|array|o
+balada|ballad|o
+generik|generic|o
+kakanda|elder brother, dear one (respectful)|o
+merambat|to creep, to spread (of a plant or a fire)|v
+nikotin|nicotine|o
+perkusi|percussion|o
+permeabilitas|permeability|o
+plating|plating|o
+pratinjau|preview|o
+psikis|psychic, mental|o
+refrigeran|refrigerant|o
+rongsokan|scrap, junk|o
+transplantasi|transplant|o
+tutul|spotted; spot, speckle|o;o
+berkik|snipe (the bird)|o
+dekrit|decree|o
+emulsi|emulsion|o
+ikhtisar|summary, outline|o
+observasi|observation|o
+resonansi|resonance|o
+alga|alga|o
+anoda|anode|o
+binaraga|bodybuilding|o
+borjuis|bourgeois|o
+hierarki|hierarchy|o
+hore|hooray|o
+knalpot|exhaust pipe, muffler|o
+memonopoli|to monopolise|v
+menavigasi|to navigate|v
+mitokondria|mitochondria|o
+rajutan|knitting, knitted work|o
+sembarang|any at all; random, careless|o;o
+sigung|skunk, stink badger|o
+kernel|kernel|o
+lada|pepper|o
+ovarium|ovary|o
+peleburan|smelting; merger|o;o
+perintis|pioneer, trailblazer|o
+reagen|reagent|o
+simbolis|symbolic|o
+vertebrata|vertebrate|o
+zip|zip|o
+bipolar|bipolar|o
+cawan|cup, bowl|o
+corong|funnel; spout; megaphone|o;o;o
+doktoral|doctoral|o
+fisiologi|physiology|o
+harmoni|harmony|o
+kartunis|cartoonist|o
+ketan|glutinous rice|o
+ketrampilan|skill|o
+mahluk|creature, created being|o
+pemolesan|polishing|o
+prabayar|prepaid|o
+prototip|prototype|o
+termostat|thermostat|o
+thorium|thorium|o
+topikal|topical|o
+cakra|discus; wheel, chakra|o;o
+geometris|geometric|o
+lotion|lotion|o
+meiosis|meiosis|o
+pipih|flat, flattened|o
+sumberdaya|resource|o
+tiroid|thyroid|o
+bangau|heron, stork|o
+bas|bus|o
+inkubasi|incubation|o
+kastor|castor|o
+mancur|to spurt, to gush (air mancur: fountain)|v
+mint|mint|o
+naturalis|naturalist|o
+arbiter|arbiter|o
+densitas|density|o
+eter|ether|o
+fermentasi|fermentation|o
+filamen|filament|o
+harmonik|harmonic|o
+interface|interface|o
+invers|inverse|o
+monastik|monastic|o
+pai|pie|o
+peramban|web browser|o
+petrokimia|petrochemical|o
+spindel|spindle|o
+stenosis|stenosis|o
+deterjen|detergent|o
+disleksia|dyslexia|o
+fisiologis|physiological|o
+gladiator|gladiator|o
+hipokampus|hippocampus|o
+karbonat|carbonate|o
+kolaborator|collaborator|o
+kortisol|cortisol|o
+liontin|pendant|o
+mamografi|mammography|o
+metabolit|metabolite|o
+orisinil|original|o
+pengereman|braking|o
+pub|pub|o
+terestrial|terrestrial|o
+toksisitas|toxicity|o
+tongkol|cob, ear of maize; tuna|o;o
+asas|basis, principle|o
+berangan-angan|to daydream, to fancy|v
+beristikamah|to be steadfast in faith|v
+bertaut|to be joined, to be linked|v
+dera|lash, flogging|o
+dilipatgandakan|to be multiplied many times over|v
+hasta|cubit, forearm's length|o
+jahiliyah|pre-Islamic ignorance|o
+kekhusyukan|devoutness, absorption in prayer|o
+lahiriah|outward, external|o
+lailatulkadar|the Night of Decree|o
+majaz|figurative expression, metaphor|o
+memilukan|to be heartrending, distressing|v
+mengecam|to criticise sharply, to condemn|v
+menghalau|to drive away, to chase off|v
+menyapih|to wean|v
+menyungkur|to fall face down; to root, to snout|v;v
+meresap|to seep in, to permeate|v
+nabati|vegetable, plant-based|o
+nutfah|sperm drop, germ cell|o
+olok-olok|mockery, taunt|o
+ovum|ovum|o
+poligami|polygamy|o
+posterior|posterior|o
+skuad|squad|o
+ta'bir|interpretation of a dream|o
+terbelalak|wide-eyed, staring|o
+tercengang|astonished, dumbfounded|o
+terombang-ambing|tossed about, adrift|o
+tersungkur|to fall face down, to sprawl|v
+thaghut|false idol, tyrant set up in place of God|o
+wukuf|the standing at Arafat during the pilgrimage|o
+agro-ekologi|agroecology|o
+bailout|bailout|o
+birokrat|bureaucrat|o
+birokratis|bureaucratic|o
+demagog|demagogue|o
+desentralisasi|decentralisation|o
+dinamisme|dynamism|o
+disokong|to be supported, to be backed|v
+disrupsi|disruption|o
+empiris|empirical|o
+fragmentasi|fragmentation|o
+hegemoni|hegemony|o
+importir|importer|o
+isolasionisme|isolationism|o
+iuran|dues, contribution, subscription|o
+kentara|visible, obvious|o
+kobalt|cobalt|o
+kolumnis|columnist|o
+kondusif|conducive|o
+konsolidasi|consolidation|o
+liberalisme|liberalism|o
+malware|malware|o
+mengucurkan|to pour out, to disburse|v
+meningitis|meningitis|o
+monitoring|monitoring|o
+non-fosil|non-fossil|o
+pengajuan|submission, filing|o
+pengrusakan|destruction, vandalism|o
+pose|pose|o
+progres|progress|o
+reboisasi|reforestation|o
+rekonsiliasi|reconciliation|o
+rekrutmen|recruitment|o
+renegosiasi|renegotiation|o
+resisten|resistant|o
+reunifikasi|reunification|o
+sektoral|sectoral|o
+start-up|startup|o
+statistika|statistics (the discipline)|o
+tampuk|stalk (of a fruit); the reins of power|o;o
+teologis|theological|o
+terdegradasi|degraded; relegated|o;o
+triwulan|quarter, three-month period|o
+tunggakan|arrears, outstanding debt|o
+veto|veto|o
+bip|beep|o
+bushing|bushing|o
+jamaah|congregation, body of worshippers|o
+lumen|lumen|o
+pertussis|pertussis|o
+rejan|whooping (batuk rejan: whooping cough)|o
+trio|trio|o
+akselerasi|acceleration|o
+atensi|attention|o
+bajing|squirrel|o
+buletin|bulletin|o
+corat-coret|scribbling, graffiti|o
+dirujuk|to be referred to, to be consulted|v
+gantry|gantry|o
+klad|clade|o
+kosmis|cosmic|o
+neurogenesis|neurogenesis|o
+purwarupa|prototype|o
+selingan|interlude, filler|o
+shio|Chinese zodiac animal|o
+trinil|sandpiper|o
+aksioma|axiom|o
+amplifier|amplifier|o
+fasad|façade|o
+fotosistem|photosystem|o
+hadirat|presence (of God)|o
+infus|intravenous drip|o
+lithium-ion|lithium-ion|o
+nefron|nephron|o
+serambi|veranda, porch|o
+spam|spam|o
+spasi|space between characters|o
+timer|timer|o
+trafo|transformer|o
+bordir|embroidery|o
+canai|to roll (metal); to knead|v;v
+header|header|o
+lateks|latex|o
+mensimulasikan|to simulate|v
+podcast|podcast|o
+proletariat|proletariat|o
+terminologi|terminology|o
+kondensor|condenser|o
+sekuens|sequence|o
+acar|pickles|o
+alhamdulillah|praise be to God|o
+asetilkolin|acetylcholine|o
+bolak-balik|back and forth, to and fro|o
+derivatif|derivative|o
+diaspora|diaspora|o
+halogen|halogen|o
+invasif|invasive|o
+istiadat|custom, tradition (adat istiadat)|o
+keling|rivet|o
+kromatid|chromatid|o
+mamogram|mammogram|o
+menelaah|to study closely, to examine|v
+mengenyahkan|to drive out, to get rid of|v
+menyunting|to edit|v
+mosaik|mosaic|o
+panorama|panorama|o
+penyisipan|insertion|o
+plankton|plankton|o
+prosa|prose|o
+sekresi|secretion|o
+tikungan|bend, curve in a road|o
+traumatis|traumatic|o
+unggun|bonfire (api unggun)|o
+vitalitas|vitality|o
+bergerigi|serrated, toothed|o
+hiking|hiking|o
+himne|hymn|o
+kari|curry|o
+kasual|casual|o
+lentera|lantern|o
+mikroorganisme|microorganism|o
+runjung|cone (of a conifer)|o
+surau|small prayer house|o
+buffer|buffer|o
+kedaluwarsa|expired, out of date|o
+kunyit|turmeric|o
+molding|moulding|o
+umbi|tuber, bulb|o
+agnostik|agnostic|o
+aransemen|arrangement (musical)|o
+asosiatif|associative|o
+eksponen|exponent|o
+intrinsik|intrinsic|o
+kemih|urine (saluran kemih: urinary tract)|o
+konvoi|convoy|o
+koroner|coronary|o
+korvet|corvette|o
+kuartil|quartile|o
+kultivar|cultivar|o
+moto|motto|o
+overhead|overhead|o
+aktivisme|activism|o
+berfaedah|beneficial, useful|o
+bersembahyang|to pray, to perform ritual prayer|v
+bersilang|crossed, to cross over|o
+berulir|threaded (of a screw)|o
+bidara|jujube tree|o
+bohlam|light bulb|o
+cercaan|abuse, revilement|o
+demensia|dementia|o
+digoncangkan|to be shaken|v
+dihalau|to be driven away|v
+diperolok-olokkan|to be mocked, to be ridiculed|v
+dirham|dirham|o
+diridhai|to be pleased with, to be approved (of God)|v
+disandangkan|to be conferred on, to be hung on|v
+eksponensial|exponential|o
+fidyah|compensation paid for a missed religious obligation|o
+gerai|stall, outlet, counter|o
+hardikan|a harsh rebuke|o
+hirarki|hierarchy|o
+inderawi|sensory|o
+infakkan|to spend in charity|v
+inlet|inlet|o
+jatah|quota, ration, allotment|o
+kecoa|cockroach|o
+kukuh|firm, sturdy; steadfast|o;o
+leverage|leverage|o
+manasik|the rites of the pilgrimage|o
+marshmallow|marshmallow|o
+menghamparkan|to spread out, to lay out|v
+nafs|the self, the carnal soul|o
+nazar|a vow made to God|o
+non-kekerasan|non-violence|o
+nuthfah|sperm drop, germ cell|o
+penghisaban|the calling to account, the reckoning|o
+pengukuh|a reinforcement, that which strengthens|o
+pernis|varnish|o
+poli|poly-|o
+proxy|proxy|o
+rakaat|a unit of the ritual prayer|o
+rangkuman|summary|o
+rap|rap|o
+repositori|repository|o
+sukun|breadfruit|o
+dinar|dinar|o
+konkordansi|concordance|o
+modulus|modulus|o
+programmer|programmer|o
+saksofon|saxophone|o
+sesar|fault (geological)|o
+bakteria|bacteria|o
+kavitasi|cavitation|o
+korespondensi|correspondence|o
+merepresentasikan|to represent|v
+non-anyaman|non-woven|o
+rupiah|rupiah|o
+trendi|trendy|o
+centang|tick, check mark|o
+colokan|socket, plug point|o
+developer|developer|o
+dinonaktifkan|to be deactivated, to be suspended|v
+ebook|ebook|o
+faks|fax|o
+firma|firm, partnership|o
+gusi|gum (of the mouth)|o
+jenjang|level, tier; ladder|o;o
+kesatria|knight, warrior; chivalrous|o;o
+kompos|compost|o
+pabean|customs|o
+plug-in|plugin|o
+rintisan|a pilot venture, a first attempt|o
+solenoid|solenoid|o
+vila|villa|o
+adikuasa|superpower|o
+advokat|lawyer, advocate; avocado|o;o
+agrobisnis|agribusiness|o
+agroekologi|agroecology|o
+amanah|trust, something entrusted; trustworthy|o;o
+ambruk|to collapse, to give way|v
+asertif|assertive|o
+bioekonomi|bioeconomy|o
+biomedis|biomedical|o
+broadband|broadband|o
+capres|presidential candidate|o
+debitur|debtor|o
+depresiasi|depreciation|o
+desertifikasi|desertification|o
+diusung|to be carried; to be championed|v;v
+ekspatriat|expatriate|o
+ekstrimis|extremist|o
+fracking|fracking|o
+gigawatt|gigawatt|o
+heksagonal|hexagonal|o
+infodemi|infodemic|o
+ketupat|rice cake boiled in a woven palm pouch|o
+koresponden|correspondent|o
+likuid|liquid|o
+marginalisasi|marginalisation|o
+mengenyam|to taste, to experience|v
+mengerami|to brood, to incubate|v
+menjabarkan|to spell out, to elaborate|v
+menormalisasi|to normalise|v
+menyalahgunakan|to misuse, to abuse|v
+menyulut|to ignite, to spark off|v
+merestrukturisasi|to restructure|v
+misoginis|misogynist|o
+morbiditas|morbidity|o
+nasabah|customer of a bank|o
+non-keuangan|non-financial|o
+pandemik|pandemic|o
+penjatahan|rationing, allocation|o
+penyingkapan|disclosure, unveiling|o
+prasyarat|prerequisite|o
+proliferasi|proliferation|o
+reaktif|reactive|o
+rival|rival|o
+sinis|cynical|o
+telak|outright, decisive (of a blow or a defeat)|o
+terfragmentasi|fragmented|o
+transaksional|transactional|o
+warganegara|citizen|o
+aktin|actin|o
+astrolab|astrolabe|o
+bersin|to sneeze|v
+citarasa|flavour, taste|o
+ekskavator|excavator|o
+epos|epic|o
+hadits|hadith, a report of the Prophet's words|o
+handphone|mobile phone|o
+hibrid|hybrid|o
+inspiratif|inspiring|o
+interseks|intersex|o
+isotop|isotope|o
+kaldu|broth, stock|o
+konsepsi|conception|o
+morfin|morphine|o
+organel|organelle|o
+partisipan|participant|o
+playoff|playoff|o
+riak|ripple; phlegm|o;o
+supermasif|supermassive|o
+tunanetra|blind person|o
+tungau|mite|o
+algoritme|algorithm|o
+berpori|porous|o
+boikot|boycott|o
+bra|bra|o
+cembung|convex|o
+cikal|forerunner, origin (cikal bakal)|o
+generalisasi|generalisation|o
+lava|lava|o
+linen|linen|o
+longitudinal|longitudinal|o
+loyalitas|loyalty|o
+munisipalitas|municipality|o
+penandatanganan|signing of an agreement|o
+pengoptimalan|optimisation|o
+perkamen|parchment|o
+proletar|proletarian|o
+ritus|rite|o
+tarekat|Sufi order, mystical path|o
+zeta|zeta|o
+amonia|ammonia|o
+antropologi|anthropology|o
+elektrostatik|electrostatic|o
+genosida|genocide|o
+gurat|line, scratch, streak|o
+khasiat|efficacy, beneficial property|o
+mempraktikkan|to put into practice|v
+menyandang|to bear, to carry (a title or a condition)|v
+mika|mica|o
+minimalis|minimalist|o
+pencelupan|dipping, dyeing|o
+rupee|rupee|o
+dendritik|dendritic|o
+diploid|diploid|o
+ditahbiskan|to be ordained, to be consecrated|v
+endoplasma|endoplasm|o
+genotipe|genotype|o
+induktansi|inductance|o
+inflamasi|inflammation|o
+menenun|to weave|v
+oksalat|oxalate|o
+opium|opium|o
+profase|prophase|o
+sentromer|centromere|o
+spaghetti|spaghetti|o
+teroksidasi|oxidised|o
+vesikel|vesicle|o
+aksesibilitas|accessibility|o
+amiloid|amyloid|o
+diinduksi|to be induced|v
+fotolistrik|photoelectric|o
+ibuprofen|ibuprofen|o
+kasing|casing|o
+keingintahuan|curiosity|o
+kepe-kepe|butterflyfish|o
+kosmologi|cosmology|o
+nanometer|nanometre|o
+non-standar|non-standard|o
+pandan|pandan, screwpine|o
+prakiraan|forecast|o
+stereotip|stereotype|o
+tajuk|heading, title; crown (of a tree)|o;o
+topografi|topography|o
+wirausahawan|entrepreneur|o
+anorganik|inorganic|o
+arloji|wristwatch|o
+etiket|etiquette; label|o;o
+higienis|hygienic|o
+histon|histone|o
+inisiasi|initiation|o
+kano|canoe|o
+khalayak|the public, the audience|o
+konvergen|convergent|o
+lanyard|lanyard|o
+ligan|ligand|o
+nektar|nectar|o
+notebook|notebook|o
+pengrajin|craftsman, artisan|o
+perabot|furniture, fittings|o
+retro|retro|o
+silika|silica|o
+splitter|splitter|o
+vinil|vinyl|o
+akad|contract, agreement (esp. of marriage)|o
+aktuator|actuator|o
+berbondong-bondong|in droves, in throngs|o
+berihram|to enter the state of ritual consecration|v
+berpangku|to hold on the lap (berpangku tangan: to sit idle)|v
+bertarikh|dated, bearing the date|o
+bertikai|to quarrel, to be in conflict|v
+cagarbudaya|cultural heritage site|o
+dinafkahkan|to be spent on someone's upkeep|v
+dipungkiri|to be denied, to be gone back on|v
+dititahkan|to be commanded, to be decreed|v
+eksemplar|copy (of a book)|o
+fenotipe|phenotype|o
+hakiki|real, true, essential|o
+hudud|the fixed punishments prescribed in Islamic law|o
+instruktur|instructor|o
+jilbab|headscarf|o
+kepongahan|arrogance, haughtiness|o
+kerancuan|confusion, muddle|o
+konduksi|conduction|o
+luluh|to crumble, to dissolve; to soften (of the heart)|v;v
+melamin|melamine|o
+mengganjar|to reward; to mete out|v;v
+menyingkap|to uncover, to reveal|v
+pancung|to behead; beheading|v;o
+pasak|peg, dowel|o
+pekerti|conduct, character (budi pekerti)|o
+pengesaan|the affirming of God's oneness|o
+penyelewengan|deviation; embezzlement|o;o
+predikat|predicate; title, rating|o;o
+renda|lace|o
+resesif|recessive|o
+ridai|to be pleased with, to approve of|v
+ruku|bowing in ritual prayer|o
+sebaya|of the same age, peer|o
+semu|apparent, illusory|o
+sintering|sintering|o
+tenggang|grace period; consideration, tolerance|o;o
+termaktub|written, set down in a text|o
+yogurt|yoghurt|o
+zarrah|atom, mote|o
+polong|pod, legume|o
+realisasi|realisation, implementation|o
+reduksi|reduction|o
+taring|fang, canine tooth|o
+teripang|sea cucumber|o
+analitik|analytic|o
+antropolog|anthropologist|o
+ateisme|atheism|o
+ceruk|niche, nook, recess|o
+dedalu|mistletoe|o
+diskografi|discography|o
+eksposur|exposure|o
+fauna|fauna|o
+frase|phrase|o
+galat|error (in measurement)|o
+inkubator|incubator|o
+kastanye|chestnut|o
+keripik|crisps, chips|o
+korelasi|correlation|o
+kultural|cultural|o
+kungkang|sloth|o
+mangan|manganese|o
+melon|melon|o
+milidetik|millisecond|o
+milling|milling|o
+pencangkokan|grafting; transplantation|o;o
+sinar-x|X-ray|o
+teleskopik|telescopic|o
+termoplastik|thermoplastic|o
+tungkai|limb, leg|o
+voucher|voucher|o
+etimologi|etymology|o
+folikel|follicle|o
+hiperbolik|hyperbolic|o
+orisinal|original|o
+osteoporosis|osteoporosis|o
+salmon|salmon|o
+stabilisasi|stabilisation|o
+stimulan|stimulant|o
+yodium|iodine|o
+agonis|agonist|o
+berengsek|lousy, damned; scoundrel|o;o
+charter|charter|o
+elips|ellipse|o
+feodal|feudal|o
+imitasi|imitation|o
+impeller|impeller|o
+integer|integer|o
+karbokation|carbocation|o
+kearifan|wisdom|o
+masif|massive|o
+menterjemahkan|to translate|v
+mimbar|pulpit, rostrum|o
+pembaharuan|renewal, reform|o
+proyektil|projectile|o
+starter|starter|o
+ikonik|iconic|o
+komune|commune|o
+mono|mono-|o
+ofensif|offensive|o
+sinus|sinus|o
+sweater|sweater|o
+takhingga|infinite|o
+tampang|appearance, looks|o
+tenor|tenor|o
+check-in|check-in|o
+dasbor|dashboard|o
+menopause|menopause|o
+naturalisasi|naturalisation|o
+payau|brackish|o
+pemijahan|spawning|o
+pra|pre-|o
+sakramen|sacrament|o
+sekuritas|securities|o
+simultan|simultaneous|o
+sonikasi|sonication|o
+sundal|prostitute, whore|o
+terapeutik|therapeutic|o
+ambigu|ambiguous|o
+antiretroviral|antiretroviral|o
+asmara|romantic love|o
+autis|autistic|o
+bentrokan|clash, brawl|o
+biomimikri|biomimicry|o
+buluh|bamboo, reed|o
+dekriminalisasi|decriminalisation|o
+demografis|demographic|o
+demokratisasi|democratisation|o
+diperbaharui|to be renewed, to be updated|v
+direvisi|to be revised|v
+disertasi|dissertation|o
+eksistensi|existence|o
+eksistensial|existential|o
+ekstrimisme|extremism|o
+finalisasi|finalisation|o
+gigaton|gigatonne|o
+herbisida|herbicide|o
+herpes|herpes|o
+heteroseksual|heterosexual|o
+idealisme|idealism|o
+inkonsistensi|inconsistency|o
+insektarium|insectarium|o
+introspeksi|introspection|o
+kakatua|cockatoo; pincers|o;o
+ketidakefisienan|inefficiency|o
+khatulistiwa|the equator|o
+klausul|clause (in a contract)|o
+konsorsium|consortium|o
+leukemia|leukaemia|o
+limpasan|runoff|o
+litium|lithium|o
+lumrah|usual, commonplace|o
+meminimalisasi|to minimise|v
+mengadvokasi|to advocate|v
+menitikberatkan|to emphasise, to give weight to|v
+mentalitas|mentality|o
+menyingkapi|to look into, to uncover|v
+merevisi|to revise|v
+metodologi|methodology|o
+mondar-mandir|to pace back and forth|v
+monogami|monogamy|o
+multilayer|multilayer|o
+nativis|nativist|o
+non-minyak|non-oil|o
+optimistis|optimistic|o
+overdosis|overdose|o
+overfishing|overfishing|o
+partisipatif|participatory|o
+patriarkal|patriarchal|o
+penandatangan|signatory|o
+pengucuran|disbursement, paying out|o
+penyerbuk|pollinator|o
+play-off|playoff|o
+prefrontal|prefrontal|o
+preset|preset|o
+prevalensi|prevalence|o
+privatisasi|privatisation|o
+pustakawan|librarian|o
+radikalisasi|radicalisation|o
+ratifikasi|ratification|o
+regeneratif|regenerative|o
+regresif|regressive|o
+rekapitalisasi|recapitalisation|o
+relokasi|relocation|o
+rente|interest, usury|o
+reservoir|reservoir|o
+robotika|robotics|o
+sentris|-centric|o
+sistemik|systemic|o
+stratosfer|stratosphere|o
+sublimasi|sublimation|o
+swadaya|self-help, self-reliance|o
+teknokratis|technocratic|o
+tektonik|tectonic|o
+terkesima|stunned, spellbound|o
+terkikis|eroded, worn away|o
+terpolarisasi|polarised|o
+tetanus|tetanus|o
+tonggak|post, pillar; milestone|o;o
+trans-atlantik|transatlantic|o
+transceiver|transceiver|o
+transistor|transistor|o
+troika|troika|o
+verbal|verbal|o
+almond|almond|o
+bogie|bogie|o
+dalang|puppeteer; mastermind|o;o
+disunting|to be edited|v
+engkol|crank|o
+interferensi|interference|o
+komedian|comedian|o
+mainstream|mainstream|o
+meme|meme|o
+novelis|novelist|o
+palem|palm tree|o
+piyama|pyjamas|o
+plakat|plaque, placard|o
+sensorik|sensory|o
+spandex|spandex|o
+antologi|anthology|o
+deviasi|deviation|o
+dipraktikkan|to be put into practice|v
+disipasi|dissipation|o
+gesper|buckle|o
+non-logam|non-metal|o
+otentikasi|authentication|o
+plastisitas|plasticity|o
+supersimetri|supersymmetry|o
+tengkuk|nape of the neck|o
+tonjolan|bump, protrusion|o
+ventrikel|ventricle|o
+webinar|webinar|o
+zoologi|zoology|o
+alveoli|alveoli|o
+aneksasi|annexation|o
+aritmatika|arithmetic|o
+dicelup|to be dipped, to be dyed|v
+gamet|gamete|o
+inisial|initial letter|o
+kosinus|cosine|o
+lis|moulding, trim strip|o
+memvisualisasikan|to visualise|v
+poligon|polygon|o
+astrofisika|astrophysics|o
+autistik|autistic|o
+bioluminesens|bioluminescence|o
+cewe|girl, young woman (colloq.)|o
+dehidrasi|dehydration|o
+dipratinjau|to be previewed|v
+kakap|snapper (the fish); big-time, major (kelas kakap)|o;o
+kornea|cornea|o
+kosmik|cosmic|o
+layout|layout|o
+mebel|furniture|o
+mencentang|to tick, to check off|v
+molekular|molecular|o
+motorik|motor (of skills and nerves)|o
+neurosains|neuroscience|o
+pensinyalan|signalling|o
+satin|satin|o
+singkong|cassava|o
+aib|disgrace, shameful defect|o
+berai|scattered (cerai-berai)|o
+berdiang|to warm oneself by a fire|v
+bergoncang|to shake, to be shaken|v
+berhisab|to reckon, to settle accounts|v
+bernazar|to make a vow to God|v
+berolok-olok|to joke, to poke fun|v
+bertayamum|to perform ablution with dust|v
+beruban|grey-haired|o
+betok|climbing perch|o
+booster|booster|o
+congkak|arrogant, conceited|o
+dicekam|to be gripped, to be seized|v
+dihamparkan|to be spread out, to be laid out|v
+diimplementasikan|to be implemented|v
+dilaknat|to be cursed|v
+dilaknati|to be cursed|v
+dinisbatkan|to be attributed to, to be ascribed to|v
+ditalak|to be divorced by one's husband|v
+emoji|emoji|o
+emplasemen|station yard, railway yard|o
+empu|master craftsman, maker of a keris|o
+fikih|Islamic jurisprudence|o
+fonem|phoneme|o
+heuristik|heuristic|o
+jelita|beautiful, lovely|o
+junub|the state of major ritual impurity|o
+kaidah|rule, principle|o
+kecaman|sharp criticism, condemnation|o
+khusyu|devout, absorbed in prayer|o
+kifarat|expiation, atonement|o
+klarifikasi|clarification|o
+lapuk|decayed, rotten; mouldy|o;o
+mahabenar|the All-True (of God)|o
+melaknati|to curse|v
+memperolok-olok|to mock, to make fun of|v
+menakar|to measure out, to gauge|v
+mencemooh|to mock, to jeer at|v
+menjulurkan|to stick out, to put out (the tongue)|v
+mentertawakan|to laugh at, to ridicule|v
+menyingkapkan|to reveal, to disclose|v
+mukminat|women believers|o
+omnivora|omnivore|o
+paok|pitta (the bird)|o
+peluruhan|decay (radioactive)|o
+penyulingan|distillation; refining|o;o
+puding|pudding|o
+selaput|membrane, film|o
+syuhada|martyrs|o
+terbuai|lulled, carried away|o
+terompet|trumpet|o
+timba|bucket; to bail out water|o;v
+vasal|vassal|o
+arkade|arcade|o
+chipmunk|chipmunk|o
+cuman|only, just (colloq.)|o
+ftalat|phthalate|o
+geometrik|geometric|o
+herbivora|herbivore|o
+hidroklorida|hydrochloride|o
+jajanan|snacks, street food|o
+kap|hood, bonnet; lampshade|o;o
+keong|snail|o
+kloroplas|chloroplast|o
+kontroler|controller|o
+lansekap|landscape|o
+libertarian|libertarian|o
+memperbaharui|to renew, to update|v
+menginduksi|to induce|v
+modulasi|modulation|o
+nekrosis|necrosis|o
+penginderaan|sensing, remote sensing|o
+pipet|pipette|o
+plafon|ceiling; ceiling limit|o;o
+prefek|prefect|o
+protektorat|protectorate|o
+sanggar|studio, workshop|o
+sorgawi|heavenly|o
+taktis|tactical|o
+telofase|telophase|o
+terpeleset|to slip, to lose one's footing|v
+toleran|tolerant|o

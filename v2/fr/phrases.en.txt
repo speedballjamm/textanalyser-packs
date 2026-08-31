@@ -1,0 +1,134 @@
+# What each French phrase in `phrases.txt` means, in English.
+#
+# Format: pattern|gloss — joined to `phrases.txt` on the pattern. A pattern
+# this file does not explain is not underlined at all, so a translation in
+# progress simply shows fewer phrases rather than showing empty ones.
+#
+# These glosses are written by hand and are not derived from any licensed
+# corpus. To translate this pack for a reader of another language, copy this
+# file to `phrases.<code>.txt` and translate the right-hand side; the patterns
+# on the left are the join key — elision spacing included — and must not change.
+
+# ---- Verbal periphrases: the head inflects, so the pattern is the infinitive.
+être en train de|to be (in the middle of doing)
+venir de|to have just (done something)
+aller bien|to be well, to be going well
+avoir besoin de|to need
+avoir envie de|to feel like, to want
+avoir l' air|to seem, to look
+avoir l' habitude|to be used to
+être obligé de|to have to
+se mettre à|to start to
+arrêter de|to stop (doing something)
+continuer à|to keep on (doing something)
+finir par|to end up (doing something)
+il y a|there is, there are; ago
+il faut|it is necessary, one must
+il s' agit de|it is about, it is a matter of
+rendre compte|to realise
+laisser tomber|to drop it, to give up
+en aller|to go away, to leave
+en vouloir à|to hold it against (someone)
+faire semblant|to pretend
+faire attention|to pay attention, to be careful
+faire exprès|to do it on purpose
+faire gaffe|to watch out (colloquial)
+faire mal|to hurt
+valoir la peine|to be worth it
+pas la peine|no need, do not bother
+avoir du mal|to have trouble (doing something)
+faire du mal|to hurt (someone)
+prendre soin|to take care
+avoir lieu|to take place
+
+# ---- avoir + noun: French has where English is.
+avoir raison|to be right
+avoir tort|to be wrong
+avoir peur|to be afraid
+avoir faim|to be hungry
+avoir soif|to be thirsty
+avoir mal|to be in pain, to hurt
+avoir froid|to be cold
+avoir chaud|to be hot
+avoir honte|to be ashamed
+avoir de la chance|to be lucky
+
+# ---- Connectives and discourse markers.
+bien sûr|of course
+en fait|in fact, actually
+en effet|indeed
+du coup|so, as a result (colloquial)
+quand même|all the same, even so
+tout de même|all the same
+de toute façon|anyway, in any case
+en tout cas|in any case
+par contre|on the other hand
+au fait|by the way
+à propos|by the way
+c' est-à-dire|that is to say
+autrement dit|in other words
+parce que|because
+pour que|so that
+afin que|so that
+bien que|although
+alors que|whereas, while
+tandis que|whereas, while
+dès que|as soon as
+tant que|as long as
+au lieu de|instead of
+à cause de|because of
+grâce à|thanks to
+plus ou moins|more or less
+au moins|at least
+du tout|at all
+pas du tout|not at all
+jusqu' à|until, up to
+jusqu' à ce que|until
+
+# ---- Modality and degree.
+tout à fait|absolutely, quite
+pas mal|not bad; quite a lot
+n' importe quoi|anything; nonsense
+n' importe qui|anyone
+n' importe où|anywhere
+quelque chose|something
+quelque part|somewhere
+tout le monde|everyone
+
+# ---- Time and manner.
+tout de suite|right away
+tout à l' heure|in a while; a while ago
+tout à coup|all of a sudden
+en ce moment|at the moment
+pour l' instant|for now
+de nouveau|again
+à nouveau|again
+encore une fois|once more
+en retard|late
+à l' heure|on time
+de temps en temps|from time to time
+en même temps|at the same time
+tout le temps|all the time
+d' abord|first of all
+
+# ---- Questions.
+qu' est-ce que|what
+qu' est-ce qui|what (as the subject)
+est-ce que|(marks a yes/no question)
+n' est-ce pas|isn't it, right?
+à quoi bon|what is the point
+
+# ---- Fixed dialogue.
+s' il vous plaît|please
+s' il te plaît|please (informal)
+d' accord|all right, agreed
+de rien|you are welcome
+je t' en prie|you are welcome; please
+ça va|it is fine; how are you?
+ça y est|that is it, there we go
+bonne nuit|good night
+bonne chance|good luck
+au revoir|goodbye
+à bientôt|see you soon
+à demain|see you tomorrow
+mon dieu|my God

@@ -1,0 +1,157 @@
+# What each Portuguese phrase in `phrases.txt` means, in English.
+#
+# Format: pattern|gloss — joined to `phrases.txt` on the pattern. A pattern
+# this file does not explain is not underlined at all, so a translation in
+# progress simply shows fewer phrases rather than showing empty ones.
+#
+# These glosses are written by hand and are not derived from any licensed
+# corpus. To translate this pack for a reader of another language, copy this
+# file to `phrases.<code>.txt` and translate the right-hand side; the patterns
+# on the left are the join key and must not change.
+#
+# The register is the register of the pack's glosses: terse, verbs with "to",
+# no examples. Where the phrase is vulgar the gloss says so, because a learner
+# who meets `filho da puta` in a subtitle needs to know what it costs to say.
+
+# ---- Verbal periphrases: the head inflects, so the pattern is the infinitive.
+ter que|to have to, must
+ter de|to have to, must
+acabar de|to have just (done something)
+começar a|to start to
+parar de|to stop (doing something)
+deixar de|to stop (doing something); to fail to
+voltar a|to do (something) again
+continuar a|to keep on (doing something)
+tratar de|to deal with, to see to; to be about
+dar para|to be possible, to be able to; to face onto
+ter a ver com|to have to do with
+estar de acordo|to agree
+
+# ---- ter + noun: Portuguese states where English is.
+ter razão|to be right
+ter certeza|to be sure
+ter medo|to be afraid
+ter cuidado|to be careful
+ter sorte|to be lucky
+ter fome|to be hungry
+ter pressa|to be in a hurry
+ter graça|to be funny
+ter jeito|to have a knack; to be fixable
+ter saudade|to miss (someone, something)
+
+# ---- Other light-verb idioms.
+dar certo|to work out, to go well
+dar errado|to go wrong
+dar uma olhada|to take a look
+dar conta|to cope, to manage; to realise
+dar em cima|to hit on (someone)
+dar à luz|to give birth
+fazer sentido|to make sense
+fazer as pazes|to make up (after a quarrel)
+valer a pena|to be worth it
+vale a pena|to be worth it
+prestar atenção|to pay attention
+tomar conta|to look after; to take over
+tomar cuidado|to be careful, to watch out
+ficar de olho|to keep an eye on
+perder a cabeça|to lose one's temper
+calar a boca|to shut up
+ir embora|to go away, to leave
+se ferrar|to get screwed; vá se ferrar: get lost (vulgar)
+
+# ---- Connectives and discourse markers.
+no entanto|however
+por isso|that is why, so
+além disso|besides, what is more
+ou seja|that is, in other words
+quer dizer|that is to say; I mean
+na verdade|actually, in fact
+de fato|in fact, indeed
+de qualquer forma|anyway, in any case
+de qualquer jeito|anyway, in any case
+por acaso|by any chance; by chance
+afinal de contas|after all
+apesar de|despite, in spite of
+por causa de|because of
+a fim de|in order to
+mesmo assim|even so
+ainda assim|even so, still
+desde que|as long as, provided that; ever since
+contanto que|as long as, provided that
+para que|so that
+já que|since, seeing as
+uma vez que|since, given that
+pelo menos|at least
+ao menos|at least
+mais ou menos|more or less; so-so
+
+# ---- Question words and relatives written as two tokens.
+o que|what; what (the thing that)
+por que|why
+por quê|why (at the end of a question)
+que tal|how about, what about
+
+# ---- Modality and degree.
+com certeza|certainly, for sure
+claro que sim|of course
+claro que não|of course not
+é claro|of course
+de verdade|really, for real
+nem sequer|not even
+nem mesmo|not even
+de jeito nenhum|no way, not at all
+cada vez mais|more and more
+prestes a|about to
+o mesmo|the same
+de acordo com|according to
+que nem|just like (colloquial)
+
+# ---- Time and manner.
+de repente|suddenly; maybe (colloquial)
+às vezes|sometimes
+de vez em quando|now and then
+de novo|again
+mais uma vez|once more
+outra vez|again
+uma vez|once, one time
+agora mesmo|right now; just now
+no momento|at the moment
+no início|at first, at the start
+no final|in the end
+em breve|soon
+o tempo todo|all the time
+hoje em dia|these days
+ao mesmo tempo|at the same time
+por enquanto|for now
+a tempo|in time
+em frente|ahead, straight on
+em cima|on top, above
+ao redor|around
+
+# ---- Prepositional phrases whose parts do not give the meaning away.
+graças a|thanks to
+através de|through, by means of
+a partir de|from (a time) on
+em vez de|instead of
+ao invés de|instead of
+
+# ---- Fixed dialogue.
+por favor|please
+de nada|you are welcome
+sinto muito|I am so sorry
+que pena|what a shame
+não importa|it does not matter
+tudo bem|all right, fine; how are you?
+com licença|excuse me
+meu deus|my God
+boa sorte|good luck
+bom dia|good morning
+boa tarde|good afternoon
+boa noite|good evening; good night
+até logo|see you later
+até amanhã|see you tomorrow
+até mais|see you
+muito prazer|nice to meet you
+não faz mal|it does not matter, never mind
+filho da puta|son of a bitch (vulgar)
+puta que pariu|for fuck's sake (vulgar)

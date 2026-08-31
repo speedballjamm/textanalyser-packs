@@ -1,21 +1,21 @@
 {
   "id": "id",
-  "version": "1.1.32",
+  "version": "1.1.40",
   "files": {
     "lex": {
       "path": "lex.txt",
       "license": "unencumbered",
-      "sha256": "936350eb650b078c2575b3f4c33835f0230ea737e15aab2c5a186421d7e38248"
+      "sha256": "05ec9a2c6253b0fb7bb50b8850e613844b3506fcf0ab01a8efebd8ad90e516e3"
     },
     "gloss.en": {
       "path": "gloss.en.txt",
       "license": "unencumbered",
-      "sha256": "5933bedd8a5da02f2a96a3ff7f51d30df6a7f8b87b73905592c2c291b6b09cb2"
+      "sha256": "35fcd187686e28cfcc638f1b5d5187fb44cdd220ce8f1be9b34a669f56f19bfa"
     },
     "ranks": {
       "path": "ranks.txt",
       "license": "CC-BY-SA-4.0",
-      "sha256": "f932d22b78c084aef91314d41063f9cd4984b58728337943883734f5ac880bee"
+      "sha256": "365504934a0be702a51db327a4d38eb3c5ca73acd1e3a05ea0bb347e307825d0"
     },
     "sample": {
       "path": "sample.txt",

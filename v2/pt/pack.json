@@ -1,6 +1,6 @@
 {
   "id": "pt",
-  "version": "1.1.2",
+  "version": "1.1.7",
   "files": {
     "lex": {
       "path": "lex.txt",
@@ -26,6 +26,16 @@
       "path": "sample.txt",
       "license": "unencumbered",
       "sha256": "d56853d5aa6b10cb95ab93c6d21b0fd8a3e8d557dc9733db95372e1cbaf3dd47"
+    },
+    "phrases": {
+      "path": "phrases.txt",
+      "license": "unencumbered",
+      "sha256": "912d1f7f66ede7bff00333efef2ce33e8169cb637c4d1c419b8e75b83146fe4e"
+    },
+    "phrases.en": {
+      "path": "phrases.en.txt",
+      "license": "unencumbered",
+      "sha256": "87e5b3856b0fdc555348cd4e89e388d47eab170b8c2c78f8152003bc7e02b51d"
     }
   }
 }
