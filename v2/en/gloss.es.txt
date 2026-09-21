@@ -6678,3 +6678,2816 @@ o'clock|en punto (al decir la hora)|o
 ma'am|señora (trato cortés a una mujer)|o
 y'all|ustedes (informal, sur de EE. UU.)|f2s2p
 c'mon|vamos, dale (informal)|o
+monetary|relativo al dinero y a su oferta, sobre todo por parte de un banco central|o
+fiscal|relativo a los impuestos y el gasto del gobierno|o
+eurozone|el grupo de países que usan el euro|o
+inflation|alza generalizada de los precios; acción de inflar con aire|o;o
+deficit|déficit, cuando el gasto supera los ingresos|o
+export|vender bienes a otro país|v
+stability|estabilidad, estado de no cambiar ni fallar|o
+debut|primera aparición o actuación|o
+anti|contra, opuesto a|o
+economist|experto en economía|o
+infrastructure|sistemas básicos que necesita un país, como carreteras, electricidad y agua|o
+unemployment|estado de no tener trabajo; número de personas sin trabajo|o;o
+policymaker|persona que decide las políticas de un gobierno u organización|o
+innovation|idea o método nuevo; introducción de ideas nuevas|o;o
+emission|liberación de gas u otra sustancia al aire|o
+inequality|desigualdad, reparto desigual de riqueza o derechos|o
+sustainable|capaz de mantenerse a largo plazo sin causar daño|o
+recession|período en que la economía se contrae|o
+economics|estudio de cómo se producen y reparten el dinero, los bienes y el trabajo|o
+productivity|cantidad producida según el esfuerzo o tiempo invertido|o
+implement|poner en práctica, llevar a cabo|v
+largely|mayormente, principalmente|o
+globalization|creciente conexión de economías y culturas en todo el mundo|o
+commentator|persona que opina o narra acontecimientos en los medios|o
+governance|forma en que se dirige una organización o un país|o
+consumption|uso de bienes o energía; acción de comer o beber|o;o
+trillion|un billón (1.000.000.000.000)|o
+sanction|sanción contra un país; permiso oficial|o;o
+integration|unión de partes en un todo; inclusión de un grupo en la sociedad|o;o
+structural|relativo a la estructura básica de algo|o
+pandemic|enfermedad que se propaga por muchos países|o
+populist|que apela a la gente común contra las élites|o
+vector|magnitud con tamaño y dirección; transmisor de una enfermedad|o;o
+incentive|algo que motiva a actuar, estímulo|o
+probability|probabilidad, qué tan probable es algo|o
+variable|cantidad que puede cambiar|o
+contrast|diferencia clara entre cosas|o
+framework|estructura básica o conjunto de ideas que sostiene algo|o
+reduction|disminución, recorte|o
+financing|dinero aportado para un proyecto, fondos|o
+surplus|cantidad sobrante, excedente|o
+coalition|alianza, sobre todo de partidos políticos|o
+technological|relativo a la tecnología|o
+similarly|de la misma manera, igualmente|o
+tariff|arancel, impuesto sobre bienes importados o exportados|o
+nomination|propuesta de alguien para un cargo o premio|o
+stimulus|algo que estimula la actividad, sobre todo gasto público para impulsar la economía|o
+prosperity|riqueza y éxito|o
+portray|representar, retratar|v
+graph|gráfico que muestra cómo se relacionan unos valores|o
+effectively|en la práctica, de hecho; con éxito|o;o
+consist|estar formado (de)|v
+consensus|acuerdo general|o
+institutional|relativo a una o varias instituciones|o
+bilateral|que involucra a dos partes o países|o
+expansion|crecimiento, ampliación|o
+output|cantidad producida|o
+format|disposición o forma en que se presenta algo|o
+politically|de manera política|o
+premier|primer ministro, jefe de gobierno|o
+adaptation|cambio para ajustarse a nuevas condiciones; película u obra basada en un libro|o;o
+thereby|de ese modo, como resultado|o
+austerity|recortes estrictos del gasto público|o
+subsidy|dinero que da el gobierno para bajar un costo|o
+uncertainty|duda, falta de certeza|o
+equity|acciones de una empresa, capital; equidad|o;o
+publication|acción de publicar; libro o revista publicados|o;o
+referendum|votación popular sobre una sola pregunta|o
+node|punto donde se unen líneas o partes de una red|o
+presidency|cargo o mandato de un presidente|o
+escalation|aumento o intensificación rápida|o
+widely|por mucha gente, en muchos lugares|o
+creditor|persona o entidad a la que se le debe dinero|o
+multilateral|que involucra a varios países|o
+composer|persona que compone música|o
+symbolic|que sirve de símbolo, que representa otra cosa|o
+mid|a mediados de, en medio de|o
+significantly|en una cantidad grande o importante|o
+default|impago de una deuda; opción predeterminada|o;o
+derivative|producto financiero basado en el valor de otro activo; tasa de cambio de una función (matemáticas)|o;o
+regulatory|relativo a las normas y al control oficial|o
+contemporary|de la época actual, moderno; que vive en la misma época|o;o
+ratio|relación entre dos cantidades, proporción|o
+pre|antes de|o
+sovereignty|autoridad plena de un país sobre sí mismo|o
+migration|desplazamiento de personas o animales de un lugar a otro|o
+nationalist|persona que defiende con fuerza los intereses o la independencia de su nación|o
+commodity|materia prima o producto que se comercia, como el petróleo o el grano|o
+provocation|acción hecha para enojar o provocar una reacción|o
+capitalism|sistema económico basado en la propiedad privada y el lucro|o
+compute|calcular|v
+activist|persona que hace campaña por un cambio|o
+electoral|relativo a las elecciones|o
+competitiveness|capacidad de competir con éxito|o
+widespread|que se encuentra o sucede en muchos lugares|o
+notable|digno de atención, importante|o
+constitutional|relativo a una constitución o permitido por ella|o
+liquidity|disponibilidad de efectivo o de activos fáciles de vender|o
+renminbi|la moneda de China|o
+uncontrolled|sin control ni freno|o
+migrant|persona que se traslada a otro lugar o país|o
+subsequently|después, más tarde|o
+augur|predecir, ser señal de (augur well: prometer un buen resultado)|v
+comprehensive|completo, que lo incluye todo|o
+reinforce|reforzar, apoyar|v
+macroeconomic|relativo a la economía en su conjunto|o
+thinker|persona que piensa a fondo, intelectual|o
+timely|que ocurre en el momento oportuno|o
+efficiency|lograr resultados con poco desperdicio de tiempo o esfuerzo|o
+implication|consecuencia probable; algo que se sugiere sin decirlo|o;o
+integrate|unir en un todo; incluir en un grupo|v;v
+rural|del campo|o
+legitimacy|legalidad, aceptación como legítimo|o
+unlimited|sin límite|o
+commonly|por lo general, a menudo|o
+genre|categoría de arte, música o literatura|o
+agricultural|relativo a la agricultura|o
+ethnic|relativo a un grupo racial o cultural|o
+recur|volver a ocurrir, repetirse|v
+caput|cabeza (en per caput: por persona)|o
+geopolitical|relativo a cómo la geografía influye en la política entre países|o
+synagogue|lugar de culto judío|o
+neuron|célula nerviosa|o
+imbalance|falta de equilibrio, situación desigual|o
+authoritarian|que exige obediencia estricta, no democrático|o
+nonetheless|sin embargo, aun así|o
+facilitate|facilitar, hacer más fácil|v
+typically|por lo general, normalmente|o
+agriculture|agricultura|o
+legislation|leyes, o la elaboración de leyes|o
+nationalism|defensa firme de los intereses o la independencia de la propia nación|o
+feminist|partidario de los derechos de la mujer y la igualdad|o
+unprecedented|nunca hecho ni visto antes|o
+prominent|importante, conocido; que sobresale|o;o
+mandate|autoridad u orden oficial; autoridad que otorgan los votantes|o;o
+interact|actuar o comunicarse entre sí|v
+census|recuento oficial de una población|o
+certification|confirmación oficial, certificado|o
+parliamentary|relativo a un parlamento|o
+songwriter|persona que compone canciones|o
+diplomacy|gestión de las relaciones entre países; tacto|o;o
+solidarity|unión y apoyo mutuo dentro de un grupo|o
+regulator|organismo oficial que supervisa un sector|o
+renewable|que se repone de forma natural, como la energía eólica o solar; que se puede prorrogar|o;o
+primarily|principalmente, sobre todo|o
+productive|que produce mucho, útil|o
+emphasize|recalcar, dar especial importancia a|v
+latter|el segundo de dos mencionados|o
+borrowing|toma de dinero en préstamo; dinero prestado|o;o
+rhetoric|discurso persuasivo o impresionante, a menudo poco sincero|o
+instability|falta de estabilidad, inestabilidad|o
+provision|suministro de algo; cláusula de una ley o acuerdo|o;o
+participation|acción de tomar parte|o
+electron|partícula con carga negativa de un átomo|o
+theta|la letra griega θ|o
+moderate|medio, no extremo|o
+historian|experto en historia|o
+expenditure|gasto, dinero gastado|o
+credibility|cualidad de ser creído o digno de confianza|o
+inclusive|que incluye a todos; incluidos los límites indicados|o;o
+parameter|límite o factor que define un sistema; constante de una ecuación|o;o
+miniseries|drama televisivo de pocos episodios|o
+constraint|límite, restricción|o
+deepen|hacer o volverse más profundo|v
+economically|en términos económicos; sin desperdicio|o;o
+humanitarian|dedicado a reducir el sufrimiento humano|o
+conventional|tradicional, habitual; no nuclear (de armas)|o;o
+genus|género, grupo de especies emparentadas en biología|o
+transparency|apertura, honestidad sobre lo que se hace; cualidad de ser transparente|o;o
+linear|en línea recta; que avanza paso a paso|o;o
+underlie|ser la causa de fondo de|v
+slowdown|reducción de la velocidad o de la actividad|o
+restriction|límite, norma que restringe|o
+literary|relativo a la literatura|o
+depict|mostrar, representar con palabras o imágenes|v
+forecast|pronóstico, predicción|o
+interaction|comunicación o efecto entre personas o cosas|o
+credible|creíble, convincente|o
+consulate|oficina que representa a un gobierno extranjero en una ciudad|o
+observer|persona que observa o vigila|o
+index|medida de la variación de precios o valores; lista alfabética de un libro|o;o
+thriller|historia emocionante de crimen o suspenso|o
+honorary|otorgado como honor, sin las funciones habituales|o
+respectively|en el orden indicado|o
+constituency|zona que elige a un representante; sus votantes|o;o
+restructuring|reorganización, sobre todo de una empresa o una deuda|o
+incorporate|incluir como parte|v
+narrative|relato, narración de hechos|o
+domain|campo de actividad o conocimiento; área de control|o;o
+spur|estimular, impulsar|v
+axis|línea alrededor de la cual gira algo; línea de referencia en un gráfico; alianza|o;o;o
+malaria|enfermedad transmitida por mosquitos|o
+diversity|variedad, gama de personas o cosas diferentes|o
+twentieth|vigésimo|o
+creativity|capacidad de crear ideas o cosas nuevas|o
+bias|preferencia injusta a favor o en contra de algo|o
+formerly|en el pasado, anteriormente|o
+acclaim|elogio, sobre todo de la crítica|o
+innovative|nuevo y original|o
+ideology|sistema de creencias, sobre todo políticas|o
+sustainability|capacidad de mantenerse a largo plazo sin dañar el medio ambiente|o
+bailout|rescate financiero, sobre todo de una empresa o un país|o
+diminish|reducir, disminuir|v
+shareholder|accionista, dueño de acciones de una empresa|o
+premiere|estreno, primera presentación pública|o
+robust|fuerte, resistente|o
+mobilize|organizar y reunir para actuar|v
+equality|igualdad, sobre todo de derechos|o
+genome|material genético completo de un organismo|o
+velocity|velocidad en una dirección determinada|o
+liberalization|eliminación de restricciones, sobre todo al comercio|o
+populism|política que dice representar a la gente común frente a las élites|o
+sitcom|comedia de situación televisiva|o
+subsequent|posterior, siguiente|o
+dramatically|de forma repentina y notable; de manera teatral|o;o
+aggregate|total, conjunto|o
+counterpart|persona o cosa con la misma función en otro lugar, homólogo|o
+globally|en todo el mundo|o
+collaboration|trabajo en conjunto|o
+outbreak|brote repentino de una enfermedad o de violencia|o
+secular|laico, no religioso|o
+soundtrack|la música de una película|o
+exacerbate|empeorar, agravar|v
+costly|caro, costoso|o
+offset|compensar, contrarrestar|v
+derive|obtener de una fuente; provenir de|v;v
+enforce|hacer cumplir una ley o norma|v
+regulate|controlar mediante normas|v
+ideological|relativo a la ideología|o
+comprise|constar de, estar formado por|v
+vertex|punto de esquina donde se unen líneas|o
+educational|relativo a la educación|o
+indicator|señal o medida que muestra un estado o nivel|o
+northeast|la dirección entre el norte y el este|o
+mitigate|hacer menos grave, mitigar|v
+rename|dar un nombre nuevo a|v
+greenhouse|invernadero para cultivar plantas; (de gases) que retiene el calor en la atmósfera|o;o
+annually|cada año|o
+progressive|partidario de la reforma social; que ocurre gradualmente|o;o
+willingness|disposición a hacer algo|o
+adviser|persona que da consejos, asesor|o
+nominee|persona propuesta para un cargo o premio|o
+pollution|sustancias dañinas en el aire, el agua o el suelo|o
+territorial|relativo al territorio|o
+extremist|persona con ideas políticas o religiosas extremas|o
+quantitative|relativo a la cantidad, medido en números|o
+imperative|esencial, urgente|o
+stance|posición o actitud sobre un tema|o
+feat|hazaña que requiere habilidad o fuerza|o
+vis|(en vis-à-vis) en relación con, en comparación con|o
+sine|seno, función trigonométrica, cociente entre el cateto opuesto y la hipotenusa|o
+taxpayer|contribuyente, persona que paga impuestos|o
+administrative|relativo a la gestión de una organización o un gobierno|o
+ecosystem|comunidad de seres vivos y su entorno|o
+quo|(en status quo) la situación existente|o
+coordination|organización de personas o partes para que trabajen juntas|o
+inevitably|de forma inevitable, sin duda|o
+accountability|responsabilidad por los propios actos, obligación de rendir cuentas|o
+proliferation|propagación o aumento rápido, sobre todo de armas|o
+dictatorship|gobierno de un dictador|o
+constitute|conformar, formar; equivaler a|v;v
+deflation|caída generalizada de los precios|o
+disruption|interrupción, alteración|o
+implementation|puesta en práctica de un plan o una decisión|o
+adequate|suficiente, satisfactorio|o
+communism|sistema en que la propiedad pertenece a la comunidad o al Estado|o
+correspond|coincidir, equivaler; escribirse cartas|v;v
+shortage|escasez, falta de algo|o
+northwest|la dirección entre el norte y el oeste|o
+sequel|secuela, libro o película que continúa una historia anterior|o
+evaluate|evaluar, juzgar el valor de|v
+situate|ubicar en un lugar o contexto determinado|v
+unsustainable|incapaz de mantenerse a largo plazo|o
+inadequate|insuficiente, no lo bastante bueno|o
+predecessor|persona que ocupó un cargo antes que otra|o
+systemic|que afecta a todo un sistema|o
+attribute|atribuir, considerar causado por algo o propio de algo|v
+viable|factible, capaz de tener éxito|o
+nautical|relativo a los barcos o la navegación|o
+bloc|grupo de países o partidos que actúan juntos|o
+intensive|concentrado, exhaustivo|o
+entrepreneur|emprendedor, persona que crea y dirige negocios|o
+emergence|surgimiento, aparición|o
+animate|dar vida a; hacer una película animada|v;v
+furthermore|además, asimismo|o
+nominal|solo de nombre; no ajustado por la inflación|o;o
+participant|persona que participa|o
+segment|parte, sección|o
+southwest|la dirección entre el sur y el oeste|o
+displace|desplazar de su lugar o su hogar; reemplazar|v;v
+downturn|descenso de la actividad económica|o
+inflow|entrada de dinero o de personas|o
+designate|nombrar o elegir oficialmente|v
+stagnation|falta de crecimiento o de movimiento|o
+cosine|coseno, función trigonométrica, cociente entre el cateto adyacente y la hipotenusa|o
+intensify|intensificar, hacer o volverse más fuerte|v
+tourism|viajes de placer y el negocio que los rodea|o
+induce|causar; persuadir|v;v
+confrontation|enfrentamiento o conflicto hostil|o
+remix|nueva versión de una grabación|o
+ownership|propiedad, hecho de ser dueño de algo|o
+microbe|organismo microscópico, sobre todo un germen|o
+dominant|el más poderoso o influyente|o
+enact|convertir en ley; representar|v;v
+monopoly|control total de un mercado por un solo proveedor|o
+complexity|complejidad, cualidad de ser complicado|o
+notably|especialmente; de forma notable|o;o
+undertake|asumir, emprender una tarea|v
+ranking|puesto en una lista ordenada por calidad|o
+nineteenth|decimonoveno|o
+orient|orientar o dirigir hacia; orientarse|v;v
+volatility|tendencia a cambiar de repente, inestabilidad|o
+developer|persona o empresa que desarrolla inmuebles o software|o
+characterize|describir el carácter de; ser típico de|v;v
+substantially|considerablemente, en gran medida|o
+safeguard|proteger, salvaguardar|v
+empower|dar poder o confianza a|v
+crore|diez millones (en la India y el sur de Asia)|o
+constrain|limitar, restringir|v
+impede|impedir, obstaculizar|v
+multi|muchos, múltiple|o
+subtract|restar un número de otro|v
+demographic|relativo a la población; grupo de población|o;o
+earnings|dinero ganado, ingresos; ganancias de una empresa|o;o
+undoubtedly|sin duda, ciertamente|o
+vulnerability|debilidad, exposición al daño|o
+bankruptcy|quiebra, incapacidad de pagar las deudas|o
+effectiveness|eficacia, qué tan bien funciona algo|o
+originate|originarse, provenir de|v
+broadly|en general; ampliamente|o;o
+lender|persona o institución que presta dinero|o
+mainstream|las ideas o actividades que acepta la mayoría|o
+protectionism|protección de la industria nacional con aranceles a la importación|o
+underpin|sostener, servir de base a|v
+clinical|relativo a la atención médica de pacientes; frío y distante|o;o
+congressional|relativo a un congreso, sobre todo el Congreso de EE. UU.|o
+recipient|persona que recibe algo, destinatario|o
+uncertain|inseguro; desconocido|o;o
+fundamentally|en el nivel más básico|o
+entail|implicar, requerir|v
+allocate|distribuir, asignar|v
+entity|ente con existencia propia, como una organización|o
+semi|medio, parcialmente|o
+resilience|capacidad de recuperarse rápidamente|o
+cyber|relativo a las computadoras e internet|o
+decisive|que resuelve una cuestión; capaz de decidir rápido|o;o
+assert|afirmar con firmeza; hacer valer (un derecho)|v;v
+widen|ensanchar o ensancharse|v
+flexible|que se puede doblar; adaptable|o;o
+transgender|con una identidad de género distinta del sexo asignado al nacer|o
+representation|hablar o actuar en nombre de otros; representación, imagen|o;o
+diverse|variado, diverso|o
+erode|desgastar poco a poco|v
+historically|en el pasado; desde el punto de vista histórico|o;o
+worsen|empeorar|v
+variant|forma o versión diferente|o
+mobility|capacidad de moverse; capacidad de cambiar de posición social o económica|o;o
+seemingly|aparentemente|o
+turmoil|confusión, desorden|o
+bolster|apoyar, reforzar|v
+influential|que tiene mucha influencia|o
+prolong|prolongar, alargar|v
+protester|manifestante, persona que protesta públicamente|o
+taxation|sistema de impuestos|o
+persist|continuar; perseverar pese a las dificultades|v;v
+upcoming|próximo, que está por ocurrir|o
+multinational|que opera en varios países|o
+municipality|municipio, localidad con gobierno propio|o
+uphold|sostener, mantener|v
+flexibility|capacidad de adaptarse o doblarse|o
+loom|cernirse como amenaza, ser inminente|v
+query|pregunta, consulta|o
+empathy|capacidad de comprender los sentimientos ajenos|o
+precede|preceder, venir antes|v
+colonial|relativo a las colonias o al colonialismo|o
+revival|renacimiento, regreso a la popularidad o la fuerza|o
+escalate|aumentar o intensificarse rápidamente|v
+exporter|país o empresa que vende bienes al exterior|o
+cognitive|relativo al pensamiento y la comprensión|o
+workforce|todos los trabajadores de un lugar o país|o
+controversy|polémica, desacuerdo público|o
+destabilize|volver inestable|v
+enlargement|ampliación, aumento de tamaño|o
+indigenous|indígena, originario de un lugar|o
+transatlantic|a través del Atlántico o relativo a ambas orillas|o
+accumulate|reunir, acumular|v
+municipal|relativo al gobierno de un pueblo o una ciudad|o
+transparent|abierto, honesto; que deja ver a través|o;o
+equilibrium|estado de equilibrio|o
+erupt|estallar de repente; (de un volcán) expulsar lava|v;v
+simplify|simplificar|v
+popularity|cualidad de gustar a muchos|o
+criterion|criterio, norma para juzgar|o
+linguistic|relativo al lenguaje|o
+affordable|lo bastante barato para comprarlo, asequible|o
+reliance|dependencia|o
+autonomy|autogobierno, independencia|o
+minimize|reducir al mínimo|v
+openness|franqueza; disposición a aceptar ideas nuevas|o;o
+policymaking|elaboración de políticas|o
+preference|mayor gusto por algo; trato favorable|o;o
+decrease|disminuir, reducir|v
+prosperous|próspero, rico, exitoso|o
+array|gran variedad, disposición ordenada|o
+consolidate|fortalecer; unir en uno solo|v;v
+momentum|impulso adquirido por el movimiento; empuje|o;o
+devaluation|reducción del valor de una moneda|o
+repression|control de la gente por la fuerza; contención de los sentimientos|o;o
+reside|vivir, residir (en un lugar)|v
+adverse|perjudicial, desfavorable|o
+discrimination|trato injusto a un grupo; capacidad de distinguir diferencias|o;o
+informal|informal, no oficial|o
+outlook|perspectiva, situación futura esperada; actitud|o;o
+depreciation|caída del valor|o
+utility|utilidad; empresa que suministra agua, electricidad o gas|o;o
+hash|revoltijo; valor calculado a partir de datos (informática)|o;o
+robotic|relativo a los robots; mecánico|o;o
+dependence|dependencia de alguien o algo; adicción|o;o
+ethical|moralmente correcto; relativo a la ética|o;o
+gov|gobierno (abreviatura)|o
+animation|creación de películas a partir de dibujos o modelos; animación, vivacidad|o;o
+awareness|conocimiento, conciencia de algo|o
+endorse|apoyar públicamente, aprobar|v
+aftermath|consecuencias de un suceso malo|o
+simultaneously|al mismo tiempo|o
+borrower|persona que pide dinero prestado|o
+denominator|el número debajo de la línea en una fracción|o
+electorate|el conjunto de los votantes|o
+evident|claro, obvio|o
+periphery|el borde exterior, periferia|o
+insufficient|insuficiente|o
+interface|punto de conexión entre sistemas; los controles que ve el usuario|o;o
+spectrum|gama; la banda de colores de la luz|o;o
+formally|oficialmente; de manera formal|o;o
+protectionist|partidario de proteger la industria nacional de las importaciones|o
+underscore|recalcar, subrayar|v
+fictional|inventado, ficticio|o
+rebalance|restablecer el equilibrio de|v
+reportedly|según se informa|o
+collaborate|colaborar, trabajar juntos|v
+analyst|persona que estudia datos o situaciones|o
+capitalist|partidario del capitalismo; persona que invierte capital|o;o
+chronic|duradero, recurrente|o
+dilemma|elección difícil|o
+portfolio|conjunto de inversiones; conjunto de muestras de trabajo; área de responsabilidad de un ministro|o;o;o
+module|unidad o parte independiente; unidad de un curso|o;o
+theatrical|relativo al teatro; exagerado|o;o
+consistently|siempre de la misma manera|o
+consolidation|fortalecimiento; fusión en uno solo|o;o
+internationally|entre naciones, a nivel internacional|o
+concession|algo cedido en una negociación; precio reducido|o;o
+elevation|altura sobre el nivel del mar; elevación|o;o
+integer|número entero|o
+fraction|pequeña parte; número como ½|o;o
+additionally|también, además|o
+inter|entre|o
+downward|hacia un nivel más bajo|o
+feminism|movimiento por los derechos de la mujer y la igualdad|o
+persistent|continuo, duradero; que no se rinde|o;o
+doctrine|conjunto de creencias o principios|o
+lag|retraso|o
+dimensional|relativo a las dimensiones|o
+dominance|poder y control sobre otros|o
+actively|de forma activa|o
+dictator|gobernante con poder absoluto|o
+stakeholder|persona con un interés en un negocio o proyecto|o
+accountable|responsable, obligado a rendir cuentas|o
+marginal|pequeño, leve; relativo al borde|o;o
+outright|completo, total; abiertamente|o;o
+classification|ordenación en grupos|o
+deteriorate|empeorar, deteriorarse|v
+illustrate|explicar con ejemplos; ilustrar con imágenes|v;v
+oral|hablado; relativo a la boca|o;o
+inclusion|acción de incluir|o
+mathematical|relativo a las matemáticas|o
+diplomat|funcionario que representa a un país en el exterior|o
+evolutionary|relativo a la evolución|o
+inhabitant|persona que vive en un lugar|o
+rightly|correctamente, con razón|o
+privatization|paso de la propiedad estatal a la privada|o
+remake|nueva versión de una película|o
+reprise|repetir, volver a interpretar|v
+disability|condición física o mental que limita la actividad|o
+integral|esencial, necesario para el conjunto|o
+prediction|pronóstico, predicción|o
+distinct|claramente diferente; claro|o;o
+emphasis|importancia especial|o
+wellbeing|salud y felicidad, bienestar|o
+curb|frenar, limitar|v
+neo|nuevo, forma renovada de|o
+prevention|acción de evitar que algo ocurra|o
+underway|en curso, ya iniciado|o
+controversial|que causa desacuerdo público, polémico|o
+memoir|relato escrito de la propia vida, memorias|o
+backlash|fuerte reacción negativa|o
+density|qué tan compacto es algo; masa por unidad de volumen|o;o
+veto|derecho oficial a rechazar una decisión|o
+mounting|creciente, en aumento|o
+cyclical|que ocurre en ciclos repetidos|o
+favorable|aprobatorio; ventajoso|o;o
+phi|la letra griega φ|o
+provider|persona o empresa que presta un servicio, proveedor|o
+accession|adhesión a una organización o un tratado; llegada al trono o a un cargo|o;o
+habitat|hábitat natural de un animal o una planta|o
+magnitude|tamaño, importancia; intensidad de un terremoto|o;o
+duo|pareja de artistas, dúo|o
+coronavirus|familia de virus que incluye el causante del COVID-19|o
+proclaim|anunciar oficialmente, proclamar|v
+laureate|ganador de un premio importante, galardonado|o
+aspiration|esperanza, ambición|o
+interpretation|explicación del significado; forma de interpretar una obra|o;o
+portrayal|representación, retrato|o
+screenwriter|persona que escribe guiones de cine, guionista|o
+variation|cambio, diferencia; versión distinta|o;o
+multilateralism|cooperación entre varios países|o
+subsidize|pagar parte del costo de, subsidiar|v
+bureaucracy|sistema de gobierno a cargo de funcionarios; exceso de trámites oficiales|o;o
+conservation|protección de la naturaleza o los recursos|o
+autism|trastorno del desarrollo que afecta la comunicación y la interacción social|o
+devise|idear, inventar|v
+opt|optar, elegir|v
+commentary|narración hablada de un acontecimiento; conjunto de notas explicativas u opiniones|o;o
+traditionally|por tradición, habitualmente|o
+manufacturer|empresa que fabrica productos, fabricante|o
+variance|diferencia; varianza, medida estadística de dispersión|o;o
+interval|intervalo de tiempo o espacio; intermedio de un espectáculo|o;o
+modernization|modernización|o
+considerably|mucho, considerablemente|o
+molecular|relativo a las moléculas|o
+gradual|que ocurre despacio, paso a paso|o
+mortality|tasa de muertes; condición de mortal|o;o
+reluctant|reacio, vacilante|o
+drought|sequía, largo período sin lluvia|o
+albeit|aunque|o
+insecurity|falta de confianza en uno mismo; falta de seguridad|o;o
+unify|unificar, unir en uno|v
+exploration|viaje para descubrir; examen, estudio|o;o
+dioxide|dióxido, compuesto con dos átomos de oxígeno (como en el dióxido de carbono)|o
+binding|vinculante, de cumplimiento legal obligatorio|o
+subsidiary|filial, empresa que pertenece a otra|o
+threshold|umbral, nivel a partir del cual empieza algo; entrada de una puerta|o;o
+debtor|persona o país que debe dinero, deudor|o
+ensemble|conjunto de intérpretes|o
+facto|(en de facto) de hecho, en la práctica|o
+beneficial|útil, ventajoso|o
+certify|confirmar oficialmente, certificar|v
+coefficient|número que multiplica a una variable (matemáticas)|o
+maximize|hacer lo más grande posible, maximizar|v
+unilateral|hecho por una sola parte|o
+manipulation|control o influencia deshonestos; manejo hábil|o;o
+automation|uso de máquinas para hacer el trabajo|o
+judicial|relativo a los tribunales y los jueces|o
+logo|diseño usado como símbolo de una empresa|o
+retail|venta de productos al público, venta minorista|o
+consisted|consistió, pasado de consist|o
+consul|funcionario que representa a un país en una ciudad extranjera|o
+extremism|ideas políticas o religiosas extremas|o
+genocide|exterminio deliberado de todo un pueblo|o
+healthcare|servicios de atención médica|o
+incumbent|titular actual de un cargo|o
+biodiversity|variedad de la vida vegetal y animal|o
+crochet|tejer a ganchillo, tejer con una aguja de gancho|v
+amid|en medio de, durante|o
+resilient|capaz de recuperarse rápidamente|o
+pronunciation|forma de pronunciar una palabra|o
+protagonist|el personaje principal|o
+digit|dígito, número del 0 al 9; dedo de la mano o del pie|o;o
+reconstruction|reconstrucción|o
+catastrophic|desastroso, catastrófico|o
+cooperative|servicial, dispuesto a colaborar|o
+unrest|disturbios, protestas|o
+unwilling|no dispuesto, reacio|o
+destructive|que causa daño, destructivo|o
+infinity|espacio, tiempo o cantidad sin fin, infinito|o
+avert|evitar; apartar (la mirada)|v;v
+browser|navegador, programa para ver sitios web|o
+inefficient|derrochador, ineficiente|o
+inscription|palabras grabadas o escritas en algo|o
+inverse|opuesto, invertido|o
+allocation|parte asignada; acción de distribuir|o;o
+imprint|marca impresa en una superficie; sello editorial|o;o
+differ|ser diferente; discrepar|v;v
+famously|como es bien sabido|o
+revise|modificar, corregir; repasar para un examen|v;v
+acute|grave, serio; agudo|o;o
+coastal|de la costa, costero|o
+navigate|orientarse, encontrar el camino; lidiar con|v;v
+delegation|grupo que representa a otros; delegación de tareas|o;o
+entrench|afianzar, establecer con firmeza|v
+filmmaker|cineasta, persona que hace películas|o
+plummet|caer en picada|v
+disastrous|muy malo, catastrófico|o
+hostility|hostilidad, oposición|o
+precedent|hecho anterior que sirve de ejemplo, precedente|o
+diagram|dibujo sencillo que explica algo|o
+franchise|licencia para vender los productos de una empresa; saga de películas; derecho al voto|o;o;o
+reconcile|reconciliar, restablecer relaciones amistosas; hacer compatibles|v;v
+specify|indicar con exactitud, especificar|v
+architectural|relativo a la arquitectura|o
+racial|relativo a la raza|o
+constellation|grupo de estrellas, constelación|o
+deem|considerar, juzgar|v
+pipeline|tubería que transporta petróleo o gas; serie de elementos previstos|o;o
+novelist|autor de novelas, novelista|o
+nutrition|alimentación y nutrición|o
+synthetic|artificial, sintético|o
+reconciliation|restablecimiento de relaciones amistosas|o
+unconventional|poco común, no tradicional|o
+biologist|científico que estudia los seres vivos|o
+constructive|útil, positivo|o
+explicitly|claramente, de forma directa|o
+inability|falta de capacidad, incapacidad|o
+voltage|fuerza eléctrica medida en voltios|o
+rein|(en rein in) contener, controlar; correa para dirigir un caballo, rienda|v;o
+continuous|sin interrupción|o
+deter|disuadir, impedir|v
+militant|persona que emplea acciones agresivas por una causa|o
+predictable|previsible|o
+textile|tela, tejido|o
+dismantle|desmontar, desarmar|v
+foremost|principal, el más importante|o
+hedge|protección contra pérdidas financieras; seto|o;o
+jeopardize|poner en peligro|v
+superpower|país muy poderoso, superpotencia|o
+convergence|acercamiento, convergencia|o
+disparity|gran diferencia, desigualdad|o
+optimism|esperanza, optimismo|o
+rivalry|competencia entre rivales|o
+usage|uso, forma en que se usa algo|o
+workplace|lugar de trabajo|o
+sufficiently|lo suficiente|o
+unveil|revelar, presentar en público por primera vez|v
+cortex|la capa externa del cerebro, corteza|o
+namely|es decir, en concreto|o
+pixel|punto diminuto de una imagen digital|o
+racism|prejuicio contra personas de otras razas|o
+comparable|similar, que se puede comparar|o
+dividend|parte de las ganancias que se paga a los accionistas, dividendo|o
+judiciary|los tribunales y jueces de un país, poder judicial|o
+accordingly|en consecuencia; de manera apropiada|o;o
+premium|cantidad extra que se paga; pago periódico de un seguro, prima|o;o
+prompt|provocar, impulsar|v
+ballot|votación; papeleta de voto|o;o
+embody|encarnar, expresar de forma concreta|v
+inflationary|que causa inflación|o
+livelihood|medio de vida, sustento|o
+ineffective|que no produce el efecto deseado, ineficaz|o
+orbital|relativo a una órbita|o
+chimpanzee|chimpancé, simio africano|o
+transit|transporte, tránsito|o
+disagreement|desacuerdo, discusión|o
+problematic|que causa problemas|o
+reversal|cambio a lo contrario, inversión|o
+accommodate|dar cabida a; adaptarse a|v;v
+likelihood|probabilidad|o
+mathematician|experto en matemáticas|o
+mutually|por ambas partes por igual|o
+volatile|propenso a cambiar de repente|o
+desirable|deseado, atractivo|o
+pianist|persona que toca el piano|o
+pika|pequeño mamífero de montaña emparentado con el conejo|o
+faction|grupo dentro de otro más grande, facción|o
+vertical|vertical, erguido|o
+abstract|que existe como idea, no concreto|o
+adhere|cumplir (normas); adherirse, pegarse|v;v
+microscope|instrumento para ver cosas muy pequeñas|o
+trait|rasgo, cualidad|o
+diameter|línea recta que pasa por el centro de un círculo|o
+neural|relativo a los nervios o al cerebro|o
+binary|formado por dos partes; basado en 0 y 1|o;o
+dynamism|energía, empuje|o
+numerator|el número encima de la línea en una fracción|o
+optimal|el mejor, el más favorable, óptimo|o
+trajectory|trayectoria de un objeto en movimiento; curso de un desarrollo|o;o
+chromosome|estructura de la célula que contiene los genes|o
+ultra|extremadamente|o
+acceleration|aumento de la velocidad|o
+feasible|posible, factible|o
+provincial|relativo a una provincia; de mente estrecha|o;o
+heighten|aumentar, intensificar|v
+hypothesis|explicación propuesta que debe comprobarse|o
+disadvantage|inconveniente, condición desfavorable|o
+quota|cuota o límite fijo|o
+steadily|gradualmente, de forma constante|o
+whereby|mediante el cual|o
+bisexual|que se siente atraído por hombres y mujeres|o
+mutation|cambio en los genes|o
+shortfall|déficit, faltante|o
+acoustic|relativo al sonido; (de instrumentos) no eléctrico|o;o
+embed|incrustar, fijar firmemente dentro|v
+oversee|supervisar|v
+refusal|negativa, rechazo|o
+modernize|modernizar|v
+broaden|ampliar, ensanchar|v
+dire|muy grave, terrible|o
+notation|sistema de símbolos escritos, notación|o
+acceptance|acción de aceptar; aprobación|o;o
+affiliate|organización asociada, filial|o
+curtail|recortar, limitar|v
+explicit|claro, directo; que muestra sexo o violencia abiertamente|o;o
+replicate|copiar, reproducir|v
+geographic|relativo a la geografía|o
+nutrient|sustancia necesaria para crecer, nutriente|o
+incite|incitar, provocar|v
+sexuality|orientación o sentimientos sexuales|o
+coherent|lógico, coherente|o
+existential|relativo a la existencia; que amenaza la supervivencia|o;o
+overthrow|derrocar, quitar del poder por la fuerza|v
+rejection|negativa a aceptar, rechazo|o
+accessible|fácil de alcanzar, usar o entender|o
+autobiography|relato de la propia vida|o
+extinction|desaparición de una especie, extinción|o
+socially|en términos sociales; en compañía de otros|o;o
+chronology|orden de los hechos en el tiempo|o
+discontent|descontento, insatisfacción|o
+geezer|tipo, sujeto (informal)|o
+governmental|relativo al gobierno|o
+membrane|capa delgada de tejido|o
+redistribution|nuevo reparto, sobre todo de la riqueza|o
+rethink|reconsiderar, replantear|v
+trilogy|serie de tres obras|o
+voluntary|hecho por elección; no remunerado|o;o
+autonomous|autónomo, independiente|o
+citizenship|condición de ciudadano, ciudadanía|o
+enzyme|proteína que acelera las reacciones químicas|o
+marginalize|marginar, tratar como poco importante|v
+negotiator|persona que negocia|o
+presenter|conductor de un programa de radio o televisión|o
+scarce|escaso, raro|o
+theorem|enunciado matemático demostrado mediante razonamiento|o
+deregulation|eliminación de las normas gubernamentales de un sector|o
+orientation|dirección, posición; actitudes o creencias básicas de una persona; sesión introductoria|o;o;o
+plausible|creíble, razonable|o
+supervision|vigilancia y dirección, supervisión|o
+tolerance|aceptación de opiniones distintas; capacidad de soportar algo|o;o
+cameo|breve aparición de un actor famoso|o
+dialect|variante regional de una lengua|o
+globalize|extender a todo el mundo|v
+sigma|la letra griega σ; símbolo de una suma|o;o
+maternal|relativo a la madre|o
+viral|causado por un virus; que se difunde rápidamente en internet|o;o
+accredit|reconocer oficialmente que cumple una norma|v
+atheist|persona que no cree en Dios|o
+dependency|dependencia de algo; territorio controlado por otro país|o;o
+enroll|inscribirse como miembro o estudiante|v
+maritime|relativo al mar o a la navegación|o
+ratify|aprobar formalmente (un tratado)|v
+contraction|contracción, encogimiento; forma abreviada de una palabra, como don't|o;o
+dub|apodar; doblar los diálogos de una película a otro idioma|v;v
+parable|relato moral breve, parábola|o
+deployment|despliegue de tropas o recursos|o
+partially|parcialmente, en parte|o
+upward|hacia un nivel más alto|o
+acquisition|compra de una empresa o un activo; aprendizaje (de una habilidad o un idioma)|o;o
+civic|relativo a una ciudad o a los ciudadanos, cívico|o
+commemorate|honrar la memoria de, conmemorar|v
+pathway|camino, sendero; secuencia de pasos|o;o
+distinction|diferencia clara; excelencia, honor|o;o
+guitarist|persona que toca la guitarra|o
+mindset|forma de pensar, mentalidad|o
+anthology|colección de escritos o canciones, antología|o
+arsenal|depósito de armas, arsenal|o
+catalog|lista completa de artículos, catálogo|o
+denounce|condenar públicamente, denunciar|v
+meltdown|colapso repentino; fusión del núcleo de un reactor nuclear|o;o
+shortcoming|defecto, debilidad|o
+pinkie|el dedo meñique|o
+receptor|estructura celular que responde a un estímulo|o
+polynomial|polinomio, expresión de varios términos con variables y potencias (matemáticas)|o
+pragmatic|práctico, realista, pragmático|o
+restraint|autocontrol; limitación|o;o
+solely|solo, únicamente|o
+stabilization|estabilización|o
+tradable|que se puede comerciar|o
+urbanization|crecimiento de las ciudades, urbanización|o
+extensively|ampliamente, a fondo|o
+projection|estimación del futuro; imagen proyectada en una pantalla|o;o
+tribunal|tribunal u organismo oficial que resuelve disputas|o
+unfold|desarrollarse, suceder; desplegar, desdoblar|v;v
+cohesion|unidad, cohesión|o
+diversify|variar, extenderse a nuevas áreas, diversificar|v
+infectious|que se transmite por infección, contagioso|o
+restoration|regreso al estado original, restauración|o
+ringer|(en dead ringer) persona idéntica a otra; sustituto en una competencia|o;o
+romanize|escribir en alfabeto latino|v
+surpass|superar, hacerlo mejor que|v
+arguably|como se puede sostener razonablemente|o
+oversight|supervisión; descuido|o;o
+resentment|resentimiento por un trato injusto|o
+sectarian|relativo al conflicto entre grupos religiosos, sectario|o
+contagion|propagación de una enfermedad o de una influencia dañina|o
+succession|serie, sucesión; herencia de un título o cargo|o;o
+bureaucrat|funcionario del gobierno, burócrata|o
+capitalize|aprovecharse (de); escribir con mayúscula; aportar capital a|v;v;v
+consecutive|uno tras otro, consecutivo|o
+discredit|dañar la reputación de, desacreditar|v
+disruptive|que causa alteraciones, perturbador|o
+illiberal|que restringe la libertad, intolerante|o
+nurture|cuidar, fomentar el crecimiento|v
+outlet|tienda que vende los productos de una empresa; vía de expresión; medio de comunicación|o;o;o
+parity|igualdad, paridad|o
+rapper|intérprete de música rap, rapero|o
+bureaucratic|relativo a la burocracia; excesivamente formalista|o;o
+eventual|que ocurre al final, final|o
+expansionary|que fomenta el crecimiento económico, expansivo|o
+hub|centro de actividad; cubo de una rueda|o;o
+implicit|implícito, no dicho directamente|o
+ion|átomo o molécula con carga eléctrica|o
+polarization|división en grupos opuestos, polarización|o
+aerial|desde el aire, aéreo|o
+hegemony|dominio de un grupo o país, hegemonía|o
+nihilist|persona que cree que la vida no tiene sentido|o
+behavioral|relativo al comportamiento, conductual|o
+paradox|afirmación o situación que parece contradictoria|o
+payoff|recompensa, beneficio; soborno|o;o
+simulation|imitación o modelo de una situación|o
+diabetes|enfermedad con azúcar alta en la sangre|o
+indebted|endeudado; agradecido|o;o
+monarch|rey o reina, monarca|o
+accumulation|acumulación gradual|o
+omega|la última letra del alfabeto griego, ω|o
+socialism|sistema de propiedad pública y reparto justo|o
+symmetry|semejanza equilibrada a ambos lados, simetría|o
+denote|indicar, significar|v
+equitable|justo, equitativo|o
+icon|símbolo famoso; pequeña imagen en una pantalla, ícono|o;o
+prof|profesor (informal)|o
+industrialization|desarrollo de la industria|o
+paradigm|modelo, patrón típico|o
+reap|obtener (un beneficio); cosechar|v;v
+vocalist|cantante, vocalista|o
+sanitation|sistemas de agua potable y eliminación de desechos, saneamiento|o
+denominate|expresar en una moneda|v
+illustration|dibujo, ilustración; ejemplo|o;o
+recycle|procesar desechos para reutilizarlos, reciclar|v
+removal|acción de quitar, eliminación|o
+speculative|basado en conjeturas; arriesgado (de una inversión)|o;o
+disarmament|reducción de armas, desarme|o
+fertility|capacidad de tener hijos; riqueza del suelo|o;o
+uprising|revuelta, levantamiento|o
+artwork|obra de arte; las imágenes de una publicación|o;o
+doctorate|el grado universitario más alto, doctorado|o
+neuroscience|estudio del sistema nervioso, neurociencia|o
+optical|relativo a la vista o la luz, óptico|o
+straightforward|sencillo, fácil; honesto|o;o
+aesthetic|relativo a la belleza o al arte, estético|o
+expectancy|expectativa (en life expectancy: esperanza de vida)|o
+partisan|que apoya firmemente a un partido, partidista|o
+proxy|persona o país que actúa en nombre de otro|o
+psi|la letra griega ψ|o
+incur|incurrir en (un costo o una sanción)|v
+ironically|de forma inesperada o contradictoria, irónicamente|o
+suffrage|el derecho al voto, sufragio|o
+exclusively|solo, exclusivamente|o
+persecution|trato cruel por las creencias o la identidad, persecución|o
+playwright|autor de obras de teatro, dramaturgo|o
+trio|grupo de tres, trío|o
+beneficiary|persona que se beneficia o hereda, beneficiario|o
+compliance|cumplimiento de las normas|o
+discourse|discusión, debate; forma de hablar sobre un tema, discurso|o;o
+industrialize|desarrollar la industria en, industrializar|v
+presumably|probablemente, según se supone|o
+recursive|que se repite remitiéndose a sí mismo, recursivo|o
+seeker|persona que busca (p. ej. asylum seeker, solicitante de asilo)|o
+collectively|como grupo, en conjunto|o
+convene|convocar, reunir|v
+inhabit|habitar, vivir en|v
+median|el valor central de un conjunto ordenado, mediana|o
+complement|algo que completa o combina con otra cosa, complemento|o
+correlation|relación mutua entre cosas, correlación|o
+embark|emprender; embarcar en un barco o avión|v;v
+unclear|poco claro, incierto|o
+centralize|poner bajo control central, centralizar|v
+emigrate|dejar el propio país para vivir en otro, emigrar|v
+prominence|importancia o fama, prominencia|o
+rotation|giro, rotación; turnarse|o;o
+algebra|matemáticas que usan letras en lugar de números, álgebra|o
+archaeological|relativo a la arqueología|o
+budgetary|relativo a un presupuesto, presupuestario|o
+compilation|recopilación, colección|o
+grievance|queja, sensación de injusticia|o
+proponent|partidario, defensor|o
+adjacent|contiguo, vecino|o
+computation|cálculo|o
+distortion|deformación; tergiversación|o;o
+eradicate|eliminar por completo, erradicar|v
+formulate|idear; expresar con precisión|v;v
+harmful|dañino, perjudicial|o
+imaging|obtención de imágenes del cuerpo o de objetos|o
+larva|etapa joven de un insecto, larva|o
+resistant|capaz de resistir, inmune; opuesto|o;o
+telecommunication|comunicación a distancia por teléfono, radio o internet|o
+caste|clase social hereditaria, casta|o
+emit|emitir, despedir (luz, gas, sonido)|v
+abolish|poner fin oficialmente, abolir|v
+containment|mantenimiento de algo bajo control, contención|o
+exemplify|ser un ejemplo típico de, ejemplificar|v
+foreseeable|previsible|o
+atrocity|acto muy cruel, atrocidad|o
+benchmark|punto de referencia para comparar|o
+demise|fin, muerte|o
+deterrence|disuasión de un ataque mediante la amenaza de represalias|o
+pointer|consejo, pista; indicador|o;o
+shale|roca blanda en capas, fuente de petróleo y gas, esquisto|o
+calorie|unidad de energía de los alimentos, caloría|o
+entrepreneurship|creación y gestión de negocios, emprendimiento|o
+limitation|restricción; debilidad|o;o
+malaise|sensación general de malestar o decadencia|o
+meditation|pensamiento sereno y concentrado, a menudo como práctica|o
+oligarch|persona rica con influencia política, oligarca|o
+practitioner|persona que ejerce una profesión|o
+crony|amigo íntimo, sobre todo uno favorecido injustamente, compinche|o
+guideline|norma o principio orientativo, pauta|o
+liberalism|filosofía que favorece la libertad y la reforma, liberalismo|o
+mater|(en alma mater) la escuela o universidad donde uno estudió|o
+mythology|conjunto de mitos, mitología|o
+overwhelmingly|en gran medida, por amplia mayoría|o
+compile|reunir, recopilar|v
+conditional|que depende de una condición, condicional|o
+fairness|justicia, imparcialidad|o
+landmark|edificio o lugar emblemático; hito|o;o
+misguide|engañar, desorientar|v
+spacecraft|vehículo para viajar por el espacio, nave espacial|o
+adversary|oponente, enemigo, adversario|o
+dual|doble, de dos partes|o
+invoke|invocar, citar|v
+enrich|mejorar; enriquecer|v;v
+liberalize|eliminar restricciones de, liberalizar|v
+multiplication|multiplicación de números; aumento en número|o;o
+philosophical|relativo a la filosofía; sereno ante las dificultades|o;o
+polio|enfermedad viral que puede causar parálisis|o
+critically|gravemente; de forma crítica|o;o
+leftist|partidario de la izquierda política, izquierdista|o
+longstanding|que existe desde hace mucho tiempo|o
+reformer|persona que impulsa reformas|o
+interestingly|curiosamente, de forma interesante|o
+predominantly|principalmente, mayoritariamente|o
+residential|con viviendas, residencial|o
+stifle|reprimir, sofocar|v
+utilize|usar, utilizar|v
+legislature|órgano que hace las leyes, poder legislativo|o
+obscure|poco conocido; poco claro|o;o
+profitable|que da ganancias, rentable|o
+reproduce|copiar, reproducir; tener crías, reproducirse|v;v
+sensory|relativo a los sentidos, sensorial|o
+summary|breve resumen de los puntos principales|o
+theoretical|basado en la teoría, teórico|o
+allele|una de las formas de un gen, alelo|o
+aspire|aspirar, esperar lograr|v
+availability|disponibilidad|o
+brink|el borde (de algo malo)|o
+completion|terminación, finalización|o
+emulate|imitar, intentar igualar, emular|v
+ensue|seguir como resultado|v
+footballer|jugador de fútbol, futbolista|o
+indispensable|esencial, indispensable|o
+partition|división, sobre todo de un país; tabique|o;o
+remarkably|sorprendentemente, notablemente|o
+showcase|mostrar en su mejor aspecto, exhibir|v
+topple|derrocar; caerse, volcarse|v;v
+transnational|que traspasa las fronteras nacionales|o
+unpopular|que no gusta, impopular|o
+grammar|las reglas de una lengua, gramática|o
+interactive|con comunicación en ambos sentidos, interactivo|o
+minimal|el menor posible, muy pequeño, mínimo|o
+refinery|planta que purifica petróleo o azúcar, refinería|o
+respective|propio de cada uno por separado, respectivo|o
+thereafter|a partir de entonces, después|o
+viva|¡viva! (grito de apoyo); examen oral de defensa de una tesis|o;o
+basin|lavamanos, pileta; cuenca de un río|o;o
+bla|palabrería, etcétera (en bla bla bla)|o
+depreciate|perder valor con el tiempo, depreciarse|v
+editorial|artículo de un periódico que expresa su opinión, editorial|o
+exclusion|dejar fuera, exclusión|o
+intron|parte de un gen que se elimina antes de usarse para producir proteínas|o
+pervasive|extendido por todas partes, omnipresente|o
+tsunami|ola gigante causada por un terremoto|o
+disintegration|ruptura en pedazos, desintegración|o
+nonprofit|sin fines de lucro; organización benéfica, no comercial|o;o
+comparative|que implica comparación, relativo; forma del adjetivo que significa "más" (bigger, better)|o;o
+dubious|dudoso, cuestionable, probablemente deshonesto|o
+epsilon|quinta letra del alfabeto griego; cantidad muy pequeña (en matemáticas)|o;o
+excessively|demasiado, más de lo razonable|o
+impunity|ausencia de castigo, impunidad|o
+relocate|trasladarse a un lugar nuevo, reubicar|v
+disregard|ignorar, no prestar atención a|v
+erosion|desgaste gradual, erosión|o
+installation|colocación, instalación; equipo o edificio instalado con un fin|o;o
+inward|hacia dentro|o
+justification|razón válida que se da para algo, justificación|o
+launching|inicio, lanzamiento; envío de un cohete o botadura de un barco|o;o
+annexation|toma del control de territorio de otro país, anexión|o
+fungus|hongo, moho u organismo similar|o
+scrutiny|examen minucioso y cuidadoso, escrutinio|o
+tuple|lista ordenada de valores (en matemáticas e informática), tupla|o
+decimal|de base diez; número con parte decimal (3.5)|o;o
+extinct|que ya no existe (de una especie); inactivo (de un volcán)|o;o
+functional|que funciona, práctico; relativo a la función|o;o
+garner|reunir, recoger, ganar (apoyo, elogios)|v
+tangent|línea que toca una curva en un punto; cambio repentino de tema|o;o
+aggravate|empeorar, agravar; molestar, irritar|v;v
+excellence|calidad muy alta, excelencia|o
+merger|unión de dos empresas en una, fusión|o
+overhaul|revisar y reparar por completo, reformar a fondo|v
+pave|pavimentar un camino o sendero|v
+horizontal|plano, nivelado, paralelo al suelo|o
+outflow|salida, sobre todo de dinero o de un líquido|o
+rectangle|figura de cuatro lados con cuatro ángulos rectos, rectángulo|o
+allegedly|según se afirma sin pruebas, supuestamente|o
+authoritarianism|gobierno de un líder o grupo que exige obediencia estricta, autoritarismo|o
+contradiction|afirmación o hecho que se opone a otro, contradicción|o
+efficiently|sin desperdiciar tiempo, esfuerzo ni dinero, eficientemente|o
+heterosexual|que se siente atraído por personas del sexo opuesto|o
+obesity|condición de tener mucho sobrepeso, obesidad|o
+vastly|enormemente, muchísimo|o
+downside|desventaja, inconveniente|o
+homosexuality|atracción por personas del mismo sexo, homosexualidad|o
+skepticism|duda, dificultad para creer, escepticismo|o
+slump|caída repentina de precios, ventas o actividad; desplomarse al sentarse o caer|o;v
+wield|empuñar y usar (un arma, una herramienta); tener y ejercer (el poder)|v;v
+metric|medida, indicador; del sistema métrico (metro y kilogramo)|o;o
+reasonably|bastante, razonablemente; con sensatez|o;o
+routinely|habitualmente, como práctica normal|o
+similarity|parecido, semejanza|o
+biographical|sobre la vida de una persona, biográfico|o
+broadcaster|empresa de radio o televisión; persona que presenta programas|o;o
+degradation|deterioro de la calidad o el estado; humillación|o;o
+democratically|mediante el voto, de forma justa y abierta|o
+fallout|consecuencias negativas; polvo radiactivo tras una explosión nuclear|o;o
+lockdown|orden de permanecer en casa o cerrado, confinamiento|o
+outline|puntos principales, esquema; contorno, silueta|o;o
+rebound|recuperarse, repuntar|v
+sodium|elemento químico blando, blanco plateado, presente en la sal, sodio|o
+stagnate|dejar de desarrollarse o crecer, estancarse|v
+statistical|relativo a la estadística, basado en números|o
+systematic|metódico, hecho según un plan, sistemático|o
+urgency|necesidad de actuar rápido, urgencia|o
+administrator|persona que dirige una organización o un sistema, administrador|o
+compact|pequeño y que ocupa poco espacio; acuerdo, pacto|o;o
+nucleus|parte central de un átomo o una célula; núcleo, centro|o;o
+deflationary|que hace bajar los precios, deflacionario|o
+folder|carpeta para papeles o archivos de computadora|o
+journalism|oficio de escribir noticias, periodismo|o
+unequal|desigual, injusto|o
+ample|más que suficiente, abundante|o
+astronomer|científico que estudia las estrellas y los planetas, astrónomo|o
+controller|persona que dirige o gestiona; dispositivo para controlar algo, control|o;o
+deity|dios o diosa, deidad|o
+deleveraging|reducción de la deuda, desapalancamiento|o
+overview|descripción general, resumen|o
+repayment|devolución del dinero adeudado, reembolso|o
+comply|cumplir, obedecer (una norma o petición)|v
+mosaic|imagen hecha con trocitos de piedra o vidrio; mezcla de muchas partes|o;o
+poise|confianza serena, equilibrio elegante, aplomo|o
+protracted|que dura mucho tiempo, prolongado|o
+simulate|imitar, reproducir artificialmente, simular|v
+alienate|distanciar a alguien, hacer que se sienta excluido|v
+arc|línea curva, parte de un círculo, arco; desarrollo de una historia|o;o
+fundamentalist|persona que sigue estrictamente las normas básicas de una religión, fundamentalista|o
+impoverish|empobrecer|v
+overly|demasiado, excesivamente|o
+tuberculosis|enfermedad pulmonar infecciosa grave|o
+uranium|metal radiactivo usado en la energía nuclear, uranio|o
+applejack|aguardiente de manzana|o
+augment|aumentar, incrementar|v
+copyright|derecho legal a controlar las copias de una obra creativa, derechos de autor|o
+fubar|totalmente descompuesto, arruinado (jerga)|o
+imprisonment|encarcelamiento, estar preso|o
+lambda|undécima letra del alfabeto griego|o
+literacy|capacidad de leer y escribir, alfabetización|o
+macro|a gran escala, global; conjunto de comandos de computadora grabados|o;o
+restructure|organizar de una forma nueva, reestructurar|v
+contemplate|considerar, pensar detenidamente en|v
+democratization|conversión de un país o sistema en democrático, democratización|o
+designation|nombre o título oficial; nombramiento|o;o
+dissent|desacuerdo con la postura oficial, disidencia|o
+formidable|impresionante e intimidante, muy fuerte|o
+iteration|repetición, una versión; un paso de un proceso repetido|o;o
+prone|propenso a sufrir o hacer algo; boca abajo|o;o
+proton|partícula con carga positiva del núcleo del átomo, protón|o
+rainforest|selva tropical densa y lluviosa|o
+saver|persona que ahorra dinero; algo que ahorra (tiempo, energía)|o;o
+smartphone|teléfono celular que funciona como una pequeña computadora|o
+unification|unión en uno solo, unificación|o
+wireless|sin cables, inalámbrico|o
+anthem|canción de alabanza, sobre todo el himno nacional|o
+crackdown|medida severa para acabar con algo, mano dura|o
+disproportionately|demasiado o demasiado poco en comparación con otra cosa, desproporcionadamente|o
+dysfunctional|que no funciona bien, disfuncional|o
+financially|en términos de dinero, económicamente|o
+parenthesis|paréntesis; palabras añadidas como inciso|o;o
+tenure|período en el cargo; plaza permanente|o;o
+conversion|cambio de una forma o uso a otro; cambio de religión|o;o
+premature|demasiado temprano, antes de tiempo, prematuro|o
+alga|planta acuática simple sin raíces, alga (plural algae)|o
+deviation|alejamiento de lo normal o lo esperado, desviación|o
+gradient|pendiente, inclinación; tasa de cambio, gradiente|o;o
+lesser|menor, menos importante|o
+micro|muy pequeño, a pequeña escala|o
+outsource|pagar a una empresa externa para hacer un trabajo, tercerizar|v
+rampant|que se extiende sin control, desenfrenado|o
+thermal|relativo al calor, térmico|o
+upheaval|cambio o trastorno repentino y grande, convulsión|o
+annex|anexar un territorio; edificio adicional unido a otro, anexo|v;o
+finite|limitado, que tiene fin, finito|o
+geographical|relativo a la geografía, a los lugares|o
+postwar|de la posguerra, después de una guerra|o
+subscription|pago periódico para recibir un servicio o una publicación, suscripción|o
+tutorial|lección, sobre todo instrucciones paso a paso|o
+bulk|la mayor parte; gran tamaño o cantidad|o;o
+clout|influencia, poder|o
+concerted|hecho en conjunto, planeado en común, concertado|o
+dissident|persona que se opone abiertamente a un gobierno, disidente|o
+distrust|falta de confianza, desconfianza|o
+encompass|abarcar, incluir|v
+interconnect|conectar entre sí, interconectar|v
+preview|presentación o vistazo anticipado, avance|o
+skeptical|dudoso, difícil de convencer, escéptico|o
+succumb|ceder, rendirse; morir (de una enfermedad)|v;v
+unilaterally|por una sola parte, sin acuerdo de las demás|o
+anime|películas y series animadas japonesas|o
+hamper|obstaculizar, dificultar|v
+inaction|falta de acción, inacción|o
+inaugural|primero, que marca el comienzo de algo, inaugural|o
+spillover|efecto que se extiende a otro ámbito, efecto indirecto|o
+adequately|suficientemente, lo bastante bien|o
+contributor|persona que aporta o ayuda; colaborador de una publicación|o;o
+critique|análisis crítico detallado, crítica|o
+differential|diferencia entre cantidades; que muestra una diferencia, diferencial|o;o
+famine|falta extrema de alimentos en una región, hambruna|o
+radically|fundamentalmente, por completo|o
+censorship|supresión de expresiones, libros o películas, censura|o
+exponential|que crece cada vez más rápido; que implica un exponente|o;o
+intensity|fuerza, intensidad|o
+interim|provisional, interino, mientras tanto|o
+rationale|razones detrás de una decisión, fundamento|o
+stagnant|que no corre, estancado; que no crece ni se desarrolla|o;o
+consort|cónyuge de un monarca, consorte; relacionarse con|o;v
+demonstrator|manifestante; persona que muestra cómo funciona algo|o;o
+materialize|ocurrir, hacerse realidad; aparecer|v;v
+myriad|innumerable, muchísimos|o
+notwithstanding|a pesar de, pese a|o
+paragraph|sección de un texto que empieza en una línea nueva, párrafo|o
+undies|ropa interior, calzones (informal)|o
+anemic|débil, sin energía; con falta de glóbulos rojos, anémico|o;o
+deficiency|falta, carencia, deficiencia|o
+repeal|derogar oficialmente una ley|v
+undercut|cobrar menos que un competidor; socavar, debilitar|v;v
+activism|campaña por un cambio político o social, activismo|o
+autocratic|que gobierna con poder absoluto, autocrático|o
+fusion|unión, fusión; reacción nuclear que une átomos|o;o
+imminent|a punto de ocurrir, inminente|o
+storytelling|narración de historias|o
+aggressively|con fuerza, de forma hostil, agresivamente|o
+bacterial|causado por bacterias o relativo a ellas, bacteriano|o
+disclosure|divulgación de información, revelación|o
+domestically|dentro del propio país; en casa|o;o
+supplement|añadido, complemento, suplemento; complementar|o;v
+tributary|río que desemboca en otro más grande, afluente|o
+amplifier|aparato que aumenta el volumen del sonido, amplificador|o
+centrist|de ideas políticas moderadas, centrista|o
+commandment|norma divina, ley (como en los Diez Mandamientos), mandamiento|o
+cuisine|estilo de cocina, gastronomía|o
+decisively|con firmeza, de forma concluyente|o
+duet|pieza para dos intérpretes, dúo|o
+enshrine|consagrar formalmente (en una ley o una constitución)|v
+erect|construir, levantar; erguido|v;o
+fragmentation|división en pedazos, fragmentación|o
+nationwide|en todo el país, a nivel nacional|o
+newcomer|persona recién llegada|o
+promotional|destinado a hacer publicidad, promocional|o
+refrain|abstenerse de hacer algo; estribillo de una canción|v;o
+remittance|dinero enviado a alguien, sobre todo al país de origen desde el extranjero, remesa|o
+screening|proyección de una película; prueba médica de detección de enfermedades|o;o
+scripture|escritos sagrados de una religión, escrituras|o
+genetically|genéticamente, en cuanto a los genes|o
+subscribe|pagar periódicamente por un servicio, suscribirse; estar de acuerdo con (una idea)|v;v
+anatomy|estructura del cuerpo; estudio de la estructura del cuerpo, anatomía|o;o
+clause|parte de un documento legal, cláusula; grupo de palabras con un verbo, oración|o;o
+deforestation|tala de bosques, deforestación|o
+depiction|representación, retrato|o
+imagery|imágenes o lenguaje descriptivo|o
+mire|pantano, lodo; situación difícil, atolladero|o;o
+navigation|orientación, navegación, pilotaje|o
+petroleum|petróleo crudo|o
+reconnaissance|observación militar para obtener información, reconocimiento|o
+arbitrary|al azar, no basado en la razón, arbitrario|o
+exploitation|uso injusto para obtener ganancias, explotación; aprovechamiento de recursos|o;o
+geography|estudio de la superficie terrestre y los lugares, geografía|o
+halve|partir en dos, reducir a la mitad|v
+malnutrition|mala salud causada por falta de alimento, desnutrición|o
+ballad|canción romántica lenta; poema que narra una historia, balada|o;o
+boycott|negativa a comprar o participar como protesta, boicot|o
+cultivate|cultivar la tierra; desarrollar (una habilidad, una relación)|v;v
+degrade|degradar, bajar la calidad de; humillar|v;v
+exponent|defensor de una idea, exponente; potencia a la que se eleva un número, exponente|o;o
+independently|por separado, sin ayuda, de forma independiente|o
+insurgency|rebelión armada, insurgencia|o
+intuitive|fácil de entender; basado en el instinto, intuitivo|o;o
+irrational|ilógico, poco razonable, irracional|o
+maturity|edad adulta, pleno desarrollo, madurez; fecha en que debe pagarse un préstamo, vencimiento|o;o
+offshore|en el mar lejos de la costa; radicado en el extranjero (del dinero)|o;o
+personalize|adaptar a una persona, personalizar|v
+separatist|persona que busca la independencia de una región, separatista|o
+stereotype|imagen fija y simplificada de un grupo, estereotipo|o
+advertisement|anuncio que promociona un producto|o
+attain|lograr, alcanzar|v
+dissolution|fin oficial de una organización o un matrimonio, disolución; acción de disolverse|o;o
+ecological|relativo al medio ambiente y los seres vivos, ecológico|o
+inaugurate|iniciar formalmente, inaugurar; investir en un cargo con una ceremonia|v;v
+inherent|incorporado, propio de algo por naturaleza, inherente|o
+meme|idea o chiste que se difunde en internet, a menudo una imagen|o
+migrate|trasladarse a otra región o país, migrar|v
+northwestern|del noroeste o en el noroeste|o
+precision|exactitud, precisión|o
+profoundly|profundamente, enormemente|o
+pundit|experto que opina en los medios, comentarista|o
+skeptic|persona que duda de las ideas aceptadas, escéptico|o
+visualize|imaginar, representar en la mente; mostrar como imagen|v;v
+wane|disminuir, debilitarse, menguar|v
+weld|soldar piezas de metal con calor|v
+outweigh|ser mayor o más importante que|v
+peril|peligro grave|o
+polarize|dividir en dos grupos opuestos, polarizar|v
+configuration|disposición, configuración|o
+deportation|expulsión forzosa de un país, deportación|o
+empirical|basado en la observación o el experimento, empírico|o
+listing|lista, entrada de una lista|o
+usher|guiar, acompañar a alguien; dar paso a (una nueva era)|v;v
+benign|inofensivo, amable; no canceroso, benigno|o;o
+bipartisan|apoyado por ambos partidos políticos, bipartidista|o
+daunt|desanimar, intimidar|v
+environmentally|en relación con el medio ambiente, ambientalmente|o
+foresee|predecir, prever|v
+geometry|matemáticas de las figuras, líneas y ángulos, geometría|o
+mitigation|reducción del daño o la gravedad de algo, mitigación|o
+paralysis|incapacidad de moverse, parálisis; incapacidad de actuar|o;o
+perpetrator|persona que comete un delito, autor|o
+processor|parte de la computadora que ejecuta las instrucciones, procesador|o
+summarize|dar los puntos principales en breve, resumir|v
+traumatic|profundamente impactante y angustiante, traumático|o
+withstand|resistir, soportar|v
+accordance|conformidad (en accordance with: de acuerdo con, conforme a)|o
+alleviate|aliviar, mitigar (un dolor, un problema)|v
+articulate|capaz de expresarse con claridad, elocuente; expresar con claridad|o;v
+bracket|símbolo como ( ) o [ ]; grupo o rango (tramo de ingresos)|o;o
+delegate|representante enviado a una reunión, delegado; encargar una tarea a otra persona, delegar|o;v
+duration|tiempo que dura algo, duración|o
+intersection|lugar donde se cruzan las calles, cruce; punto donde se unen las líneas, intersección|o;o
+jointly|juntos, de forma compartida, conjuntamente|o
+plight|situación difícil o peligrosa, apuro|o
+privatize|vender una empresa estatal a propietarios privados, privatizar|v
+template|modelo o patrón para copiar, plantilla|o
+wary|cauteloso, desconfiado|o
+amplify|hacer más fuerte o intenso, amplificar|v
+angular|de esquinas marcadas, anguloso; relativo a los ángulos, angular|o;o
+catalogue|lista completa de artículos, catálogo|o
+consultation|reunión para pedir consejo, consulta; discusión previa a una decisión|o;o
+counterproductive|que produce el efecto contrario al deseado, contraproducente|o
+detection|descubrimiento, detección|o
+inventor|persona que inventa|o
+lecturer|profesor universitario|o
+normalization|vuelta a la normalidad; estandarización|o;o
+reluctance|falta de disposición, renuencia|o
+reproductive|relativo a la reproducción|o
+rigid|tieso, que no se dobla; estricto, inflexible|o;o
+specification|descripción detallada de los requisitos, especificación|o
+stagger|tambalearse al caminar; asombrar, dejar atónito; escalonar en distintos horarios|v;v;v
+subordinate|de rango inferior; persona bajo la autoridad de otra, subordinado|o;o
+successive|uno tras otro, sucesivo|o
+vaccination|aplicación de una vacuna, vacunación|o
+aka|también conocido como, alias|o
+ancestry|origen familiar, antepasados, ascendencia|o
+antiquity|la Antigüedad; objeto antiguo, antigüedad|o;o
+distinctive|característico, fácil de reconocer|o
+documentation|papeles oficiales; instrucciones escritas, documentación|o;o
+insider|persona de dentro de una organización con información privilegiada|o
+monarchy|gobierno de un rey o una reina, monarquía|o
+reshape|cambiar la forma o estructura de, remodelar|v
+astronomy|estudio de las estrellas y los planetas, astronomía|o
+byte|unidad de datos informáticos (ocho bits)|o
+commercially|en términos de negocio o ventas, comercialmente|o
+midwife|persona capacitada para asistir partos, partera|o
+abundant|que existe en gran cantidad, abundante|o
+analogy|comparación que muestra una semejanza, analogía|o
+coincide|ocurrir al mismo tiempo, coincidir; estar de acuerdo|v;v
+divergence|separación, diferencia, divergencia|o
+ninety|90, noventa|o
+potent|poderoso, fuerte, potente|o
+purge|eliminar a personas o cosas no deseadas, purgar; purga|v;o
+readily|de buena gana; fácilmente|o;o
+sampling|toma de muestras, muestreo; selección para pruebas|o;o
+scarcity|escasez|o
+skyscraper|edificio muy alto, rascacielos|o
+vibrant|animado, lleno de energía; vivo (color)|o;o
+abide|aguantar, tolerar (can't abide); acatar, cumplir (abide by)|v;v
+assurance|promesa, garantía; confianza, seguridad|o;o
+disproportionate|demasiado grande o pequeño en comparación, desproporcionado|o
+interdependence|dependencia mutua, interdependencia|o
+technocrat|experto que gobierna o dirige, tecnócrata|o
+collaborator|compañero de trabajo, colaborador; persona que ayuda al enemigo, colaboracionista|o;o
+constituent|votante de un distrito, elector; componente, parte|o;o
+deliberate|intencional, planeado; reflexionar, deliberar|o;v
+indirect|no directo, indirecto|o
+planting|plantación, siembra|o
+setback|problema que retrasa el avance, revés|o
+unravel|deshacer, desenredar; resolver, desentrañar; desmoronarse|v;v;v
+complacency|autocomplacencia, despreocupación satisfecha|o
+differentiate|distinguir, diferenciar|v
+enrichment|mejora; aumento del valor o la concentración, enriquecimiento|o;o
+lobbying|intento de influir en los políticos, cabildeo|o
+marketplace|mercado; el mundo comercial|o;o
+perpetuate|continuar, prolongar, perpetuar|v
+pinyin|sistema para escribir el chino en alfabeto latino|o
+socioeconomic|relativo a factores sociales y económicos, socioeconómico|o
+tracer|sustancia usada para seguir un proceso, trazador; bala que deja una estela visible, trazadora|o;o
+inflate|inflar con aire; subir (los precios)|v;v
+simplicity|cualidad de sencillo, sencillez|o
+surname|nombre de familia, apellido|o
+accolade|premio, elogio, distinción|o
+directorial|relativo a un director de cine|o
+mega|enorme, muy grande|o
+peripheral|en el borde, periférico; secundario; dispositivo de computadora (teclado, impresora)|o;o;o
+prestigious|respetado, admirado, prestigioso|o
+prosper|prosperar, tener éxito|v
+schooling|educación, escolaridad|o
+theatrically|de forma dramática y exagerada, teatralmente; en los cines|o;o
+timeline|secuencia de hechos, cronología; calendario, plazos|o;o
+unsuccessful|fallido, sin éxito|o
+indie|independiente (música, cine, videojuegos)|o
+meta|autorreferencial, que habla de sí mismo|o
+microbial|relativo a los microbios, microbiano|o
+morally|en cuanto al bien y el mal, moralmente|o
+quadratic|con una variable al cuadrado (en matemáticas), cuadrático|o
+unintended|no intencionado, accidental|o
+entrepreneurial|relativo a la creación de empresas, emprendedor|o
+factorial|producto de todos los números enteros hasta uno dado (5! = 120), factorial|o
+hemisphere|mitad de la Tierra; mitad del cerebro, hemisferio|o;o
+indefinitely|por tiempo ilimitado, indefinidamente|o
+lunar|relativo a la luna|o
+mandatory|requerido, obligatorio|o
+memorandum|nota escrita, registro; acuerdo formal|o;o
+northeastern|del noreste o en el noreste|o
+prioritize|tratar como lo más importante, priorizar|v
+regression|vuelta a un estado anterior, regresión; método estadístico|o;o
+todo|tarea pendiente (como en todo list)|o
+understandably|comprensiblemente, como es lógico|o
+blender|aparato de cocina para mezclar, licuadora|o
+diversification|variedad, reparto del riesgo, diversificación|o
+invariably|siempre, invariablemente|o
+pornography|material sexual explícito, pornografía|o
+professionally|de manera profesional; como oficio|o;o
+renowned|famoso, renombrado|o
+settler|persona que se establece en una zona nueva, colono|o
+automate|hacer que funcione automáticamente, automatizar|v
+bondholder|tenedor de bonos|o
+collaborative|hecho en conjunto, colaborativo|o
+cynical|desconfiado, que cree que la gente es egoísta, cínico|o
+decentralize|alejar el poder del centro, descentralizar|v
+fluctuation|subidas y bajadas, variación, fluctuación|o
+gaming|jugar videojuegos; juegos de apuestas|o;o
+incomplete|sin terminar, incompleto|o
+militarily|mediante la fuerza armada, militarmente|o
+reinvent|cambiar por completo, reinventar|v
+deterioration|empeoramiento, deterioro|o
+impeachment|acusación formal contra un funcionario público, juicio político|o
+intermediate|intermedio, de nivel medio|o
+millimeter|milésima parte de un metro, milímetro|o
+neuroscientist|científico que estudia el cerebro y los nervios, neurocientífico|o
+optimize|hacer lo más eficaz posible, optimizar|v
+primate|mono, simio o ser humano, primate|o
+procurement|obtención, compra (de suministros), adquisición|o
+programmer|persona que escribe programas de computadora, programador|o
+provisional|temporal, provisional|o
+rarity|cualidad de raro, rareza; cosa rara|o;o
+ravage|destruir, devastar, asolar|v
+synthesis|combinación, síntesis; producción mediante reacciones químicas|o;o
+texture|tacto de una superficie, textura|o
+transitional|temporal, durante un cambio, de transición|o
+underpinning|base, fundamento|o
+bleak|sombrío, desolador; frío y desnudo|o;o
+cache|escondite, depósito oculto; memoria de la computadora de acceso rápido, caché|o;o
+centimeter|centésima parte de un metro, centímetro|o
+circular|redondo; folleto, aviso, circular; que argumenta en círculo|o;o;o
+confer|deliberar, consultar; otorgar (un honor)|v;v
+dopamine|sustancia química del cerebro ligada al placer, dopamina|o
+fragility|debilidad, delicadeza, fragilidad|o
+heuristic|regla práctica, heurística|o
+indifference|falta de interés o preocupación, indiferencia|o
+loosely|sin apretar, holgadamente; aproximadamente|o;o
+parody|imitación humorística, parodia|o
+pivot|punto central, eje; girar|o;v
+seventy|70, setenta|o
+tau|decimonovena letra del alfabeto griego|o
+clarity|claridad|o
+contend|argumentar, sostener; competir|v;v
+criticise|encontrar defectos en, criticar|v
+durable|duradero, resistente|o
+mistrust|falta de confianza, desconfianza|o
+sweeping|de gran alcance, amplio|o
+transcend|ir más allá de, trascender|v
+transpose|cambiar de posición; cambiar de tonalidad (música), transportar|v;v
+curriculum|programa de estudios, plan de estudios|o
+derail|desbaratar, frustrar; descarrilar|v;v
+hopeful|optimista, esperanzado; aspirante, candidato|o;o
+inherently|por naturaleza, intrínsecamente|o
+occasional|que ocurre a veces, ocasional|o
+opioid|droga similar al opio, analgésico, opioide|o
+retaliation|venganza, contraataque, represalia|o
+signatory|parte que firma un acuerdo, firmante|o
+specter|fantasma, espectro; amenaza|o;o
+turnout|número de personas que asisten o votan, participación|o
+unrealistic|poco práctico, poco realista|o
+afflict|causar sufrimiento a, afligir|v
+alphabet|conjunto de letras, alfabeto|o
+dairy|productos lácteos; granja lechera|o;o
+electrode|conductor de electricidad, electrodo|o
+hypotenuse|el lado más largo de un triángulo rectángulo, hipotenusa|o
+imperfect|con defectos, imperfecto; tiempo pasado que indica una acción en curso, pretérito imperfecto|o;o
+logistic|relativo a la logística, logístico|o
+mapping|elaboración de mapas, cartografía; correspondencia entre un conjunto y otro|o;o
+paternal|paternal; por parte del padre, paterno|o;o
+pathogen|germen que causa enfermedades, patógeno|o
+propel|impulsar hacia adelante, propulsar|v
+reaffirm|volver a afirmar, reafirmar|v
+revolve|girar alrededor; centrarse en|v;v
+strategically|con un plan, estratégicamente|o
+assertion|afirmación, aseveración|o
+competence|capacidad, habilidad, competencia|o
+dangerously|de forma arriesgada, peligrosamente|o
+diaspora|pueblo disperso fuera de su tierra natal, diáspora|o
+doubling|aumento al doble, duplicación|o
+fishery|lugar de pesca, pesquería; industria pesquera|o;o
+generic|general, no específico; sin marca, genérico|o;o
+gravitational|relativo a la gravedad, gravitacional|o
+normalize|volver a la normalidad, normalizar; estandarizar|v;v
+pollen|polvo de las flores, polen|o
+prudent|sensato, cauteloso, prudente|o
+redefine|volver a definir, redefinir|v
+repressive|opresivo, represivo|o
+concede|admitir, reconocer; ceder, renunciar a|v;v
+correspondence|cartas, correspondencia; concordancia, similitud|o;o
+doctoral|relativo a un doctorado, doctoral|o
+forthcoming|a punto de ocurrir, próximo; dispuesto a dar información|o;o
+immunization|inmunización, vacunación|o
+mobilization|preparación para la acción o la guerra, movilización|o
+orthodoxy|creencia aceptada, ortodoxia|o
+unavoidable|inevitable|o
+accuracy|corrección, exactitud, precisión|o
+comma|signo de puntuación (,), coma|o
+culminate|terminar en, llegar al punto culminante, culminar|v
+diagonal|línea inclinada que une esquinas opuestas|o
+manga|historietas japonesas|o
+planetary|relativo a los planetas, planetario|o
+systematically|metódicamente, según un plan, sistemáticamente|o
+obituary|aviso de un fallecimiento con un resumen de la vida, obituario|o
+profitability|capacidad de generar ganancias, rentabilidad|o
+recycling|reutilización de materiales de desecho, reciclaje|o
+redesign|volver a diseñar, rediseñar|v
+reunification|nueva unión, reunificación|o
+tangible|real, concreto; que se puede tocar, tangible|o;o
+consequently|como resultado, por lo tanto, en consecuencia|o
+cumulative|que aumenta por acumulación, acumulativo|o
+entitlement|derecho a algo; sensación de merecer un trato especial|o;o
+finalist|competidor en una final, finalista|o
+inefficiency|desperdicio de tiempo, esfuerzo o dinero, ineficiencia|o
+nobility|aristocracia, nobleza; cualidad noble|o;o
+respiratory|relativo a la respiración, respiratorio|o
+takeover|toma del control de una empresa o un país, adquisición|o
+glucose|azúcar simple, principal combustible del cuerpo, glucosa|o
+indirectly|de forma indirecta, dando rodeos|o
+muddle|confusión, lío|o
+par|nivel normal o esperado (on par with: a la par de, igual a)|o
+quasi|aparentemente, en parte, casi|o
+technocratic|dirigido por expertos técnicos, tecnocrático|o
+wavelength|distancia entre ondas, longitud de onda; forma de pensar (on the same wavelength: en la misma sintonía)|o;o
+abbreviate|acortar, abreviar|v
+attachment|vínculo emocional, apego; archivo enviado con un correo electrónico, adjunto|o;o
+distributor|empresa que abastece de productos a las tiendas, distribuidor|o
+externality|efecto secundario sobre otros que no se refleja en el precio, externalidad|o
+modeling|creación de modelos, simulación, modelado; trabajo como modelo de moda|o;o
+plantation|gran finca que cultiva un solo producto, plantación|o
+reconstruct|reconstruir; recomponer (los hechos)|v;v
+akin|similar, emparentado, afín|o
+compassionate|bondadoso, comprensivo, compasivo|o
+connectivity|capacidad de conectarse, sobre todo a redes, conectividad|o
+devalue|reducir el valor de, devaluar|v
+downgrade|bajar de categoría o calidad, degradar|v
+empowerment|otorgamiento de poder o confianza, empoderamiento|o
+peacekeeping|mantenimiento de la paz en una zona de conflicto|o
+prudential|relativo a la prudencia, sobre todo financiera, prudencial|o
+worldview|visión general de la vida, cosmovisión|o
+apartheid|sistema de segregación racial en Sudáfrica|o
+buffer|protección contra un golpe o una pérdida, amortiguador|o
+ceasefire|acuerdo para dejar de combatir, alto el fuego|o
+determinant|factor decisivo, determinante|o
+divisive|que causa desacuerdo, divisivo|o
+hinder|obstaculizar, frenar|v
+insistence|exigencia firme, insistencia|o
+plaque|placa conmemorativa en una pared; depósito en los dientes o las arterias, placa|o;o
+soprano|voz más aguda del canto|o
+squander|derrochar|v
+substitution|sustitución, reemplazo|o
+tefillin|pequeñas cajas de cuero con textos sagrados que los judíos se ponen al rezar|o
+undertaking|tarea, proyecto|o
+awe|asombro mezclado con respeto o temor|o
+educator|educador, docente|o
+encryption|cifrado de datos|o
+envision|imaginar, visualizar|v
+methane|gas producido por la descomposición de materia orgánica, gas de efecto invernadero|o
+posthumously|póstumamente, después de la muerte|o
+recreate|recrear, volver a crear|v
+respondent|encuestado; demandado (en algunos procesos judiciales)|o;o
+accurately|correctamente, con exactitud|o
+assertive|seguro de sí mismo, firme|o
+deplete|agotar, reducir|v
+fitness|buena forma física; idoneidad|o;o
+friction|fricción, rozamiento; conflicto, roce|o;o
+grouping|agrupación, grupo|o
+intra|intra-, dentro de (como en intrapartidario)|o
+randomly|al azar, aleatoriamente|o
+reviewer|evaluador, crítico, revisor|o
+tout|promocionar, alabar; revender entradas ilegalmente|v;v
+width|anchura, ancho|o
+bio|biografía breve; biológico|o;o
+catalyst|catalizador (en una reacción química); catalizador, detonante de un cambio|o;o
+cellular|celular (relativo a las células); celular, móvil (teléfono)|o;o
+decouple|separar, desacoplar|v
+eligible|que reúne los requisitos, elegible; buen partido (para casarse)|o;o
+falter|flaquear, vacilar|v
+ideally|idealmente, en una situación perfecta|o
+illicit|ilícito, ilegal|o
+innovate|innovar|v
+obsolete|obsoleto, en desuso|o
+preservation|preservación, conservación|o
+undergraduate|estudiante universitario de grado|o
+unthinkable|impensable, inconcebible|o
+ascend|subir, ascender|v
+backdrop|telón de fondo, fondo|o
+locally|en la zona, localmente|o
+locus|centro, lugar; lugar geométrico (en geometría)|o;o
+pollute|contaminar|v
+subset|subconjunto|o
+unresolved|sin resolver, pendiente|o
+biblical|bíblico|o
+pluralism|pluralismo, coexistencia de grupos o ideas distintos|o
+preside|presidir (una reunión)|v
+prohibition|prohibición|o
+prosthetic|prótesis|o
+reclaim|recuperar, reclamar; ganar tierras (para el cultivo o la construcción)|v;v
+refinance|refinanciar|v
+tonne|tonelada métrica, 1000 kilogramos|o
+verb|verbo|o
+antibody|anticuerpo|o
+disband|disolver (un grupo)|v
+eradication|erradicación|o
+folklore|folclore, tradiciones y creencias populares|o
+fret|preocuparse, inquietarse|v
+hierarchy|jerarquía|o
+induct|admitir formalmente (en una organización)|v
+perpendicular|perpendicular, en ángulo recto|o
+remainder|resto, lo que sobra|o
+statute|ley, estatuto|o
+stigma|estigma, deshonra|o
+stockpile|reservas, acopio|o
+unofficial|extraoficial, no oficial|o
+valuation|valoración, tasación|o
+apparatus|aparato, equipo; aparato, sistema (organización)|o;o
+approximation|aproximación, estimación|o
+enlarge|agrandar, ampliar|v
+impediment|impedimento, obstáculo; defecto del habla|o;o
+insurgent|insurgente, rebelde|o
+legitimize|legitimar|v
+lockdowns|confinamientos, plural de lockdown|o
+nineteen|19, diecinueve|o
+overdue|atrasado, vencido|o
+preventive|preventivo|o
+psychedelic|psicodélico (que causa alucinaciones); psicodélico, de colores vivos|o;o
+recount|relatar, contar (una historia); volver a contar, recontar|v;v
+rigorous|riguroso, estricto|o
+standardize|estandarizar, normalizar|v
+tuning|afinación (de un instrumento), puesta a punto (de un motor)|o
+extermination|exterminio|o
+intersect|cruzarse, intersecar|v
+legislator|legislador|o
+linkage|vínculo, conexión|o
+rendering|interpretación, versión; render, imagen generada por computadora|o;o
+revision|revisión, corrección; repaso (para exámenes)|o;o
+rugby|rugby, deporte de equipo con balón ovalado|o
+splice|empalmar, unir entrelazando|v
+compress|comprimir, apretar|v
+exert|ejercer (fuerza, influencia)|v
+lever|palanca (barra); palanca, medio de presión|o;o
+narrowly|por poco; de manera limitada, estrictamente|o;o
+reformist|reformista|o
+renewal|renovación, resurgimiento|o
+sideline|marginar, dejar de lado; actividad secundaria|v;o
+spearhead|encabezar, liderar|v
+taboo|tabú, tema prohibido|o
+volt|voltio|o
+compression|compresión|o
+incremental|gradual, paulatino|o
+internally|internamente, por dentro|o
+mismanagement|mala gestión, mala administración|o
+organizational|organizativo, organizacional|o
+ostensibly|aparentemente, supuestamente|o
+oust|derrocar, destituir|v
+parenting|crianza de los hijos|o
+realization|comprensión, toma de conciencia; realización, logro|o;o
+totalitarian|totalitario|o
+unsurprisingly|como era de esperar|o
+volcanic|volcánico|o
+autocracy|autocracia|o
+geopolitics|geopolítica|o
+lest|no sea que, por miedo a que|o
+moderation|moderación, mesura|o
+responsive|que reacciona rápido, receptivo|o
+semiconductor|semiconductor|o
+terminus|terminal, final de recorrido|o
+thwart|impedir, frustrar|v
+tract|extensión de terreno; tracto, aparato (tracto digestivo); folleto|o;o;o
+awakening|despertar; toma de conciencia|o;o
+compatible|compatible|o
+contradict|contradecir|v
+converge|converger, confluir|v
+crucially|fundamentalmente, de manera decisiva|o
+disclose|revelar, divulgar|v
+fascism|fascismo|o
+hyper|sobreexcitado, hiperactivo|o
+null|nulo (sin validez); nulo, vacío|o;o
+overhang|saliente, voladizo; excedente|o;o
+reinvigorate|revitalizar, dar nuevo impulso|v
+schizophrenia|esquizofrenia|o
+sculptor|escultor|o
+stalemate|punto muerto, estancamiento|o
+suburban|suburbano, de las afueras|o
+traction|tracción, agarre; apoyo, impulso|o;o
+vibration|vibración|o
+alumnus|exalumno, egresado|o
+calculus|cálculo (infinitesimal)|o
+circulation|circulación (de la sangre, del dinero); tirada (de una publicación)|o;o
+computational|computacional|o
+directory|directorio, guía (de nombres o direcciones); directorio, carpeta (informática)|o;o
+excavation|excavación, sobre todo arqueológica|o
+fertilizer|fertilizante, abono|o
+gripe|queja|o
+hurdle|obstáculo; valla (en una carrera)|o;o
+inauguration|investidura, toma de posesión; inauguración|o;o
+nitrogen|nitrógeno|o
+passive|pasivo, sumiso|o
+readiness|disposición, preparación|o
+roadmap|hoja de ruta, plan|o
+tram|tranvía|o
+abdominal|abdominal|o
+contentious|polémico, controvertido|o
+cricketer|jugador de críquet|o
+envisage|imaginar, prever|v
+illuminate|iluminar; aclarar, esclarecer|v;v
+outdated|anticuado, desactualizado|o
+proportional|proporcional|o
+reproduction|reproducción, copia; reproducción (biológica), cría|o;o
+skyrocket|dispararse, subir vertiginosamente|v
+southeastern|del sureste|o
+terrain|terreno|o
+traverse|atravesar, recorrer|v
+calculator|calculadora|o
+complementary|complementario|o
+congruent|congruente (de forma idéntica); coherente, en concordancia|o;o
+credential|credencial, título, acreditación|o
+dismal|sombrío, lúgubre; pésimo|o;o
+encode|codificar|v
+fundamentalism|fundamentalismo|o
+insulate|aislar (del calor, el frío o el ruido)|v
+markedly|notablemente, marcadamente|o
+overtake|rebasar, adelantar (un vehículo), superar; sorprender, sobrevenir|v;v
+realism|realismo, sentido práctico; realismo (en el arte)|o;o
+retina|retina|o
+sluggish|lento, aletargado|o
+speculator|especulador|o
+theology|teología|o
+astronomical|astronómico (relativo a la astronomía); astronómico, enorme|o;o
+attendance|asistencia, presencia; concurrencia, número de asistentes|o;o
+contradictory|contradictorio, incoherente|o
+crossover|fusión (de estilos o grupos); punto de transición|o;o
+domination|dominación, dominio|o
+embargo|embargo (comercial)|o
+impending|inminente|o
+modification|modificación, cambio|o
+offspring|descendencia, crías|o
+pedestrian|peatón; pedestre, anodino|o;o
+prestige|prestigio|o
+revert|volver (a un estado anterior), revertir|v
+sociology|sociología|o
+tier|nivel, capa, categoría|o
+trivial|trivial, insignificante|o
+amazingly|asombrosamente, sorprendentemente|o
+autocrat|autócrata|o
+congregation|feligreses, congregación|o
+cosmopolitan|cosmopolita|o
+desktop|escritorio (de la computadora); computadora de escritorio|o;o
+distributional|distributivo, relativo a la distribución|o
+exterior|exterior, superficie externa|o
+flooding|inundación|o
+forefront|vanguardia|o
+marrow|médula ósea, tuétano; calabacín grande|o;o
+onstage|en el escenario|o
+outset|comienzo, inicio|o
+perpetual|perpetuo, constante|o
+populate|poblar, habitar|v
+precipitate|precipitar, provocar de repente|v
+prerequisite|requisito previo|o
+smallpox|viruela|o
+subjective|subjetivo|o
+tradeoff|compromiso, equilibrio entre dos cosas|o
+genital|genital|o
+guerrilla|guerrillero|o
+layout|disposición, diseño|o
+liner|transatlántico; forro, revestimiento|o;o
+pagan|pagano|o
+relevance|relevancia, pertinencia|o
+increment|incremento, aumento|o
+insolvent|insolvente|o
+microscopic|microscópico, diminuto|o
+morale|moral, ánimo|o
+potassium|potasio|o
+pragmatism|pragmatismo|o
+torque|par de torsión, torque|o
+abundance|abundancia|o
+admittedly|hay que reconocer que, es cierto que|f3s
+advocacy|defensa, promoción (de una causa)|o
+continuously|continuamente, sin parar|o
+displacement|desplazamiento forzado; desplazamiento, dislocación|o;o
+extraordinarily|extraordinariamente|o
+groundwork|trabajo preparatorio, bases|o
+hardline|intransigente, de línea dura|o
+neutrality|neutralidad|o
+onset|comienzo, aparición (de algo malo)|o
+paradoxically|paradójicamente|o
+podcast|pódcast, programa de audio en línea|o
+simplistic|simplista|o
+storyteller|narrador, cuentacuentos|o
+strive|esforzarse, luchar|v
+susceptible|susceptible, vulnerable|o
+titular|nominal, solo de nombre; del título, titular|o;o
+abound|abundar|v
+amino|(en aminoácido) componente básico de las proteínas|o
+armored|blindado, acorazado|o
+canon|canon (conjunto de obras o normas); canon, historia oficial (de una ficción)|o;o
+communal|comunitario, compartido|o
+deadbeat|moroso; vago, holgazán|o;o
+demolish|demoler, derribar|v
+endeavor|esfuerzo, empeño|o
+envoy|enviado diplomático|o
+havoc|caos, estragos|o
+innovator|innovador|o
+insolvency|insolvencia|o
+insulin|insulina|o
+organizer|organizador|o
+postcommunist|poscomunista|o
+rehabilitation|rehabilitación, recuperación|o
+reservoir|embalse, represa; reserva|o;o
+tacit|tácito, implícito|o
+trademark|marca registrada|o
+catalyze|catalizar, desencadenar|v
+discontinue|suspender, dejar de producir|v
+eighty|80, ochenta|o
+eponymous|epónimo (que da nombre o lleva el nombre de alguien o del título)|o
+footing|punto de apoyo, base|o
+lander|módulo de aterrizaje|o
+strongman|caudillo, líder autoritario|o
+unchanged|sin cambios, inalterado|o
+automotive|automotriz|o
+ayahuasca|ayahuasca, bebida alucinógena amazónica|o
+blindness|ceguera|o
+cinematographer|director de fotografía|o
+compulsory|obligatorio|o
+consciously|conscientemente, deliberadamente|o
+digest|digerir (alimentos); asimilar, entender|v;v
+disinformation|desinformación|o
+endemic|endémico (propio de una región); endémico, permanente|o;o
+evasion|evasión, elusión|o
+impasse|punto muerto, callejón sin salida|o
+individually|individualmente, uno por uno|o
+photon|fotón|o
+rapprochement|acercamiento, restablecimiento de relaciones amistosas|o
+statehood|condición de estado|o
+suppression|represión, supresión|o
+synthesize|sintetizar, combinar|v
+treatise|tratado|o
+accommodation|alojamiento; ajuste, arreglo|o;o
+adolescent|adolescente|o
+autobiographical|autobiográfico|o
+chemotherapy|quimioterapia|o
+coworker|compañero de trabajo, colega|o
+humility|humildad|o
+incarceration|encarcelamiento|o
+linguist|lingüista|o
+oppression|opresión, tiranía|o
+origami|origami, papiroflexia|o
+primacy|primacía, supremacía|o
+resonate|resonar; tocar la fibra, calar hondo|v;v
+sensitivity|sensibilidad; delicadeza|o;o
+spokesman|portavoz, vocero|o
+transformative|transformador|o
+worrisome|preocupante|o
+accustom|acostumbrar (acostumbrarse a)|v
+affirm|afirmar, confirmar|v
+analytic|analítico, lógico|o
+backward|hacia atrás; atrasado, poco desarrollado|o;o
+cholera|cólera (enfermedad)|o
+circumvent|eludir, sortear (una norma o un obstáculo)|v
+exempt|exento|o
+irreversible|irreversible|o
+manageable|manejable|o
+outlay|desembolso, gasto|o
+perverse|contrario, absurdo|o
+relentless|implacable, incesante|o
+renovation|renovación, remodelación|o
+repercussion|repercusión, consecuencia|o
+repress|reprimir, contener|v
+sonar|sonar|o
+troika|troika, grupo de tres dirigentes u organismos|o
+chairperson|presidente (de una reunión)|o
+civility|cortesía, civismo|o
+competent|competente, capaz|o
+conception|concepción, idea; concepción, embarazo|o;o
+dampen|humedecer; atenuar, apagar|v;v
+diploma|diploma, título|o
+extraction|extracción|o
+overheat|sobrecalentarse|v
+payload|carga útil|o
+preventable|evitable, prevenible|o
+qualification|título, capacitación; condición, salvedad|o;o
+rupture|romperse, reventar|v
+scholarly|académico, erudito|o
+seawater|agua de mar|o
+semantic|semántico|o
+themed|temático|o
+transistor|transistor|o
+unwillingness|renuencia, falta de disposición|o
+atmospheric|atmosférico|o
+bot|bot, programa automatizado|o
+grassroots|bases, gente de a pie|o
+hectare|hectárea|o
+homeowner|propietario de vivienda|o
+installment|cuota, plazo; entrega, episodio|o;o
+livestock|ganado|o
+mating|apareamiento|o
+millennials|mileniales (nacidos entre 1981 y 1996)|o
+outward|exterior, hacia afuera|o
+oxytocin|oxitocina|o
+periodic|periódico|o
+precarious|precario, inestable|o
+precondition|condición previa|o
+seasonal|estacional, de temporada|o
+statesman|estadista|o
+affiliation|afiliación, vínculo|o
+aneurysm|aneurisma|o
+antagonist|antagonista, adversario|o
+challenger|aspirante, contendiente|o
+chaotic|caótico|o
+cohort|cohorte|o
+composite|compuesto|o
+diagnostic|diagnóstico|o
+directive|directiva, instrucción|o
+discography|discografía|o
+ecology|ecología|o
+enormously|enormemente|o
+exceptionally|excepcionalmente|o
+impair|perjudicar, debilitar|v
+liaison|enlace, coordinación; amorío, aventura|o;o
+mediate|mediar|v
+mrna|ARN mensajero|o
+odor|olor|o
+offs|(en trade-offs, write-offs) plural de un compuesto terminado en off|o
+perjury|perjurio|o
+pilgrimage|peregrinación|o
+prose|prosa|o
+renegotiate|renegociar|v
+retailer|minorista|o
+revitalize|revitalizar|v
+southwestern|del suroeste|o
+spokesperson|portavoz, vocero|o
+thankfully|afortunadamente, por suerte|o
+tilt|inclinar, ladear|v
+turbulence|turbulencia; agitación, desorden|o;o
+visualization|visualización, imagen mental; visualización, representación visual|o;o
+approximate|aproximado|o
+bayonet|bayoneta|o
+ceramic|de cerámica|o
+conditioning|condicionamiento, entrenamiento; aire acondicionado|o;o
+consequential|trascendental, importante; consiguiente, resultante|o;o
+correspondent|corresponsal|o
+discretionary|discrecional|o
+divisible|divisible|o
+extremity|extremidad; extremo|o;o
+financier|financista|o
+kernel|grano, núcleo|o
+ovarian|ovárico|o
+peptide|péptido|o
+reminiscent|que recuerda a, evocador|o
+reopen|reabrir|v
+reprint|reimprimir|v
+restart|reiniciar, volver a empezar|v
+symmetric|simétrico|o
+validation|validación, confirmación|o
+bestseller|éxito de ventas, superventas|o
+chemist|químico; farmacéutico|o;o
+contender|contendiente, aspirante|o
+continuation|continuación|o
+defer|aplazar, posponer; ceder, deferir|v;v
+denuclearization|desnuclearización|o
+discomfort|molestia, malestar|o
+embryo|embrión; embrión, germen|o;o
+folly|locura, insensatez|o
+influx|afluencia, llegada masiva|o
+institutionalize|institucionalizar; internar (en una institución)|v;v
+motif|motivo, tema recurrente|o
+multiplier|multiplicador (en matemáticas); multiplicador, factor que amplifica|o;o
+needless|innecesario|o
+patriotic|patriótico|o
+regenerate|regenerar, renovar|v
+shutdown|cierre, paralización|o
+spectator|espectador|o
+telecom|telecomunicaciones|o
+ubiquitous|omnipresente, ubicuo|o
+vicinity|inmediaciones, alrededores|o
+xenophobic|xenófobo|o
+arithmetic|aritmética|o
+avoidance|evitación, elusión|o
+canopy|toldo, dosel; dosel arbóreo|o;o
+clarification|aclaración|o
+contingent|supeditado, condicionado; contingente|o;o
+epilepsy|epilepsia|o
+issuance|emisión (de acciones, bonos, documentos)|o
+nematode|nematodo, gusano redondo|o
+nostalgia|nostalgia|o
+opaque|opaco; poco claro, incomprensible|o;o
+reckoning|cálculo, estimación; ajuste de cuentas, juicio|o;o
+shorten|acortar|v
+subscriber|suscriptor, abonado|o
+vocabulary|vocabulario, léxico|o
+attest|atestiguar, dar fe de|v
+depositor|depositante, ahorrista|o
+deserter|desertor|o
+drastic|drástico, severo|o
+focal|central, principal|o
+hypocrisy|hipocresía|o
+imperialism|imperialismo|o
+irregular|irregular, desigual; irregular (que no sigue la regla)|o;o
+optimist|optimista|o
+pacifism|pacifismo|o
+paperback|libro de bolsillo, edición en rústica|o
+prefix|prefijo|o
+remnant|resto, remanente|o
+specialise|especializarse|v
+superiority|superioridad|o
+synaptic|sináptico|o
+uneven|desigual, irregular|o
+unsettle|inquietar, perturbar|v
+accomplishment|logro|o
+accrue|acumularse, devengarse|v
+cede|ceder (territorio, poder)|v
+chloride|cloruro|o
+consonant|consonante|o
+continuity|continuidad|o
+correlate|correlacionarse, corresponderse; correlacionar, relacionar|v;v
+cowardice|cobardía|o
+daywalker|vampiro que puede salir de día|o
+eighteenth|decimoctavo; dieciochoavo|o;o
+elicit|provocar, obtener (una respuesta, información)|v
+embolden|envalentonar|v
+espouse|abrazar, adherir a (una causa o creencia)|v
+gauge|medir, calibrar, evaluar; indicador, medidor|v;o
+hardliner|intransigente, partidario de la línea dura|o
+headwind|viento en contra; obstáculo|o;o
+hugely|enormemente|o
+introvert|introvertido|o
+jellyfish|medusa, aguaviva|o
+milestone|hito|o
+mismatch|desajuste, discrepancia|o
+persistently|persistentemente, reiteradamente|o
+populous|populoso|o
+preoccupy|preocupar, absorber|v
+pseudonym|seudónimo|o
+resurgence|resurgimiento|o
+schema|esquema, modelo; esquema mental|o;o
+supervisory|de supervisión|o
+taper|estrecharse gradualmente; reducir gradualmente|v;v
+teaser|avance, adelanto; acertijo|o;o
+abstraction|abstracción|o
+advancement|avance, progreso; ascenso|o;o
+aide|asistente, ayudante|o
+eruption|erupción; estallido|o;o
+ethnicity|etnia, origen étnico|o
+extant|existente, que aún existe|o
+firsthand|de primera mano|o
+iconic|emblemático, icónico|o
+inertia|inercia, resistencia al cambio; inercia (en física)|o;o
+lucrative|lucrativo, rentable|o
+nous|sentido común, inteligencia práctica|o
+politicize|politizar|v
+posture|postura (del cuerpo); postura, actitud|o;o
+pottery|cerámica, alfarería|o
+redress|reparar, remediar; reparación, resarcimiento|v;o
+severity|gravedad; severidad, dureza|o;o
+sloth|pereza; perezoso (animal)|o;o
+storyline|trama, argumento|o
+stride|zancada, paso largo; avance, progreso|o;o
+synapse|sinapsis|o
+toxin|toxina|o
+vigorous|vigoroso, enérgico|o
+virtuous|virtuoso|o
+aquarium|acuario, pecera|o
+asymmetric|asimétrico, desigual|o
+asymmetry|asimetría|o
+binomial|binomial, de dos términos|o
+calcium|calcio|o
+efficacy|eficacia|o
+exemption|exención|o
+experimentation|experimentación|o
+geometric|geométrico (relativo a la geometría); geométrico (de formas regulares)|o;o
+importer|importador|o
+incompatible|incompatible|o
+interpreter|intérprete|o
+intractable|difícil de resolver, insoluble|o
+lament|lamentar, llorar; lamento|v;o
+neoliberal|neoliberal|o
+pessimism|pesimismo|o
+popularize|popularizar, divulgar|v
+powerhouse|potencia, fuerza dominante|o
+relativity|relatividad (carácter relativo); teoría de la relatividad|o;o
+renovate|renovar, remodelar (un edificio)|v
+supremacy|supremacía, dominio|o
+upend|poner patas arriba; trastocar, alterar|v;v
+vaccinate|vacunar|v
+verification|verificación, comprobación|o
+xenophobia|xenofobia|o
+affluent|adinerado, acomodado|o
+ambiguity|ambigüedad|o
+bassist|bajista|o
+billionaire|multimillonario|o
+calamity|calamidad, desastre|o
+colon|dos puntos (:); colon (intestino grueso)|o;o
+debacle|debacle, fracaso humillante|o
+diesel|diésel, gasóleo|o
+ministerial|ministerial|o
+rhythmic|rítmico|o
+selective|selectivo|o
+separately|por separado|o
+skew|sesgar, distorsionar|v
+wartime|tiempos de guerra|o
+advent|llegada, advenimiento|o
+caregiver|cuidador|o
+collide|chocar, colisionar; entrar en conflicto|v;v
+covariance|covarianza|o
+decode|descifrar, decodificar|v
+excel|destacar, sobresalir|v
+firefly|luciérnaga|o
+intimacy|intimidad, cercanía|o
+modernity|modernidad (carácter moderno); modernidad, época moderna|o;o
+mural|mural|o
+nada|nada|o
+pesticide|pesticida, plaguicida|o
+redistribute|redistribuir|v
+societal|social, de la sociedad|o
+solvency|solvencia|o
+speculate|especular, conjeturar; especular (en finanzas)|v;v
+standoff|enfrentamiento, punto muerto|o
+subcontinent|subcontinente (sobre todo el indio)|o
+supernova|supernova|o
+vinyl|vinilo (plástico); discos de vinilo|o;o
+wingspan|envergadura|o
+anarchist|anarquista|o
+ascent|ascenso, subida|o
+campaigner|activista, militante|o
+celestial|celeste, celestial|o
+cyberspace|ciberespacio|o
+demagogue|demagogo|o
+deterrent|elemento disuasorio|o
+elusive|esquivo, difícil de atrapar o definir|o
+enrollment|inscripción, matrícula|o
+enslave|esclavizar|v
+fertiliser|fertilizante, abono|o
+fringe|borde, margen; flequillo, cerquillo|o;o
+misuse|mal uso, uso indebido; usar indebidamente|o;v
+occurrence|suceso, caso|o
+optic|óptico (relativo a la vista); lente|o;o
+optimization|optimización|o
+popularly|popularmente, comúnmente|o
+precautionary|preventivo, precautorio|o
+proactive|proactivo|o
+proximity|proximidad, cercanía|o
+radian|radián|o
+sim|tarjeta SIM; simulación|o;o
+substantive|sustancial, significativo|o
+undervalue|infravalorar, subestimar|v
+vaginal|vaginal|o
+vegan|vegano|o
+backfire|salir el tiro por la culata, ser contraproducente|v
+defuse|calmar, apaciguar (una situación); desactivar (una bomba)|v;v
+deliberation|deliberación|o
+duplicate|duplicar, copiar exactamente; duplicado, copia exacta|v;o
+fractal|fractal|o
+geology|geología|o
+isolationism|aislacionismo|o
+philanthropist|filántropo|o
+protectorate|protectorado|o
+waterfall|cascada, catarata|o
+aluminum|aluminio|o
+cannabis|cannabis, marihuana|o
+deadlock|punto muerto, estancamiento|o
+diffusion|difusión, propagación|o
+disintegrate|desintegrarse|v
+erratic|errático, irregular|o
+evade|evadir, eludir|v
+filmmakers|cineastas, plural de filmmaker|o
+garment|prenda de vestir|o
+grapple|lidiar con, enfrentarse a; forcejear|v;v
+harvesting|cosecha, recolección; recolección, captación (de datos, energía, órganos)|o;o
+hegemon|potencia hegemónica|o
+implicitly|implícitamente; ciegamente, sin reservas|o;o
+incompetence|incompetencia|o
+jihadist|yihadista|o
+lawmaker|legislador|o
+outsize|descomunal, de gran tamaño|o
+overturn|revocar, anular (una decisión); volcar|v;v
+predictably|como era de esperar, previsiblemente|o
+respectfully|respetuosamente|o
+stringent|estricto, riguroso|o
+syringe|jeringa|o
+unilateralism|unilateralismo|o
+unskilled|no calificado, sin formación|o
+adaptive|adaptativo|o
+alloy|aleación|o
+aversion|aversión|o
+circulate|circular, difundirse|v
+conjunction|conjunción (gramatical); conjunción, combinación|o;o
+cosmetic|superficial; cosmético|o;o
+dissertation|tesis, disertación|o
+futile|inútil, vano|o
+hippocampus|hipocampo (región del cerebro)|o
+hoc|(en ad hoc) para un fin concreto, improvisado|o
+inland|tierra adentro, del interior|o
+jihad|yihad|o
+masculine|masculino, varonil|o
+massively|enormemente, masivamente|o
+patriotism|patriotismo|o
+permafrost|permafrost|o
+philanthropy|filantropía|o
+physiology|fisiología (ciencia); fisiología (funcionamiento de un organismo)|o;o
+plankton|plancton|o
+sap|savia; tonto, bobo|o;o
+syntax|sintaxis|o
+theorist|teórico|o
+timber|madera (de construcción)|o
+viability|viabilidad|o
+artificially|artificialmente|o
+aurochs|uro|o
+brutality|brutalidad|o
+conditionality|condicionalidad|o
+dementia|demencia|o
+gland|glándula|o
+goodwill|buena voluntad; fondo de comercio|o;o
+impetus|impulso, estímulo|o
+inconsistent|incoherente, contradictorio; irregular, inconstante|o;o
+inhibit|inhibir, frenar|v
+lyrical|lírico; relativo a la letra de las canciones|o;o
+novelty|novedad; novedad, cosa nueva o insólita|o;o
+parse|analizar (una oración, un texto o datos)|v
+prevalence|prevalencia|o
+restrictive|restrictivo|o
+spatial|espacial|o
+spectral|espectral (relativo a un espectro); espectral, fantasmal|o;o
+transcription|transcripción (de un discurso); transcripción (genética)|o;o
+universally|universalmente|o
+vowel|vocal|o
+whats|qué es; qué ha (what's)|o;o
+achievable|alcanzable, factible|o
+airfield|aeródromo|o
+arsehole|(insulto vulgar) cabrón, imbécil; ano|o;o
+biofuel|biocombustible|o
+buttress|reforzar, apuntalar; contrafuerte|v;o
+candidacy|candidatura|o
+choreographer|coreógrafo|o
+coercion|coacción, coerción|o
+cylinder|cilindro; cilindro (de motor)|o;o
+dunams|dunams, plural de dunam (medida de superficie de 1000 m²)|o
+enthusiastic|entusiasta|o
+fearful|temeroso|o
+globular|globular, esférico|o
+hegemonic|hegemónico|o
+imposition|imposición; abuso, carga injusta|o;o
+inception|comienzo, inicio|o
+intercourse|relaciones sexuales; trato, relaciones|o;o
+nmi|millas náuticas|o
+optional|opcional, optativo|o
+overvalue|sobrevalorar|v
+preclude|impedir, excluir|v
+punitive|punitivo|o
+reliability|fiabilidad, confiabilidad|o
+scant|escaso|o
+uniquely|de manera única; especialmente|o;o
+wholly|completamente, totalmente|o
+bloodshed|derramamiento de sangre|o
+blunder|metedura de pata, error garrafal|o
+broadband|banda ancha|o
+covenant|pacto, convenio|o
+detachment|desapego, distanciamiento; destacamento|o;o
+discrete|discreto, separado|o
+dragonfly|libélula|o
+exodus|éxodo|o
+folding|plegable; plegado|o;o
+galvanize|galvanizar, movilizar; galvanizar (con zinc)|v;v
+helium|helio|o
+immigrate|inmigrar|v
+keyword|palabra clave; palabra clave (de búsqueda)|o;o
+lifespan|vida útil, esperanza de vida|o
+mantra|lema, eslogan; mantra|o;o
+predicament|apuro, aprieto|o
+reuse|reutilizar|v
+revisit|volver a visitar; replantear, reconsiderar|v;v
+sequencing|secuenciación, ordenamiento; secuenciación (de ADN)|o;o
+appease|apaciguar|v
+autistic|autista|o
+bode|augurar (bode well, bode ill)|v
+colonialism|colonialismo|o
+colorful|colorido; vistoso, pintoresco|o;o
+consortium|consorcio|o
+counterfeit|falsificado, falso|o
+deterministic|determinista|o
+entropy|entropía|o
+glamorous|glamoroso, atractivo|o
+horrific|horroroso, espantoso|o
+infrared|infrarrojo|o
+intimidation|intimidación|o
+kilogram|kilogramo|o
+lesion|lesión|o
+manifestation|manifestación, expresión|o
+negligible|insignificante, despreciable|o
+neutron|neutrón|o
+questionable|cuestionable, dudoso|o
+revolutionize|revolucionar|v
+satire|sátira|o
+seldom|rara vez|o
+starvation|hambruna, inanición|o
+ultraviolet|ultravioleta|o
+walrus|morsa|o
+wholesale|venta al por mayor; total, a gran escala|o;o
+wisely|sabiamente, con prudencia|o
+wreak|causar, provocar (daños, estragos)|v
+abolition|abolición|o
+archaeologist|arqueólogo|o
+chassis|chasis|o
+emigration|emigración|o
+fertile|fértil|o
+fraught|lleno de, cargado de (problemas, tensión); angustiado, tenso|o;o
+gameplay|jugabilidad, mecánica de juego|o
+hysteresis|histéresis|o
+illustrator|ilustrador|o
+immerse|sumergir; sumergirse, absorberse|v;v
+nanoparticle|nanopartícula|o
+oasis|oasis; oasis, remanso de paz|o;o
+operatic|operístico; teatral, melodramático|o;o
+overestimate|sobrestimar|v
+pivotal|crucial, decisivo|o
+pureblood|de sangre pura|o
+registry|registro|o
+relational|relacional|o
+rendition|interpretación, versión; entrega extrajudicial (de un sospechoso)|o;o
+renounce|renunciar a, rechazar|v
+satirical|satírico|o
+scaling|escalado, cambio de escala; expansión, crecimiento|o;o
+shite|(vulgar) mierda, porquería|o
+sneaker|tenis, zapatilla deportiva|o
+subdue|someter, dominar|v
+sundown|puesta del sol, atardecer|o
+uhm|eh, este (vacilación)|o
+vacant|vacío, desocupado; ausente, perdido (expresión)|o;o
+verbal|verbal, oral; verbal (relativo a los verbos)|o;o
+versa|(en vice versa) al revés, a la inversa|o
+anus|ano|o
+backstop|salvaguarda, mecanismo de último recurso|o
+censor|censurar; censor|v;o
+devastation|devastación|o
+frail|frágil, débil|o
+funk|funk (música); depresión, bajón|o;o
+incursion|incursión|o
+indebtedness|endeudamiento; gratitud, deuda moral|o;o
+lineage|linaje, ascendencia|o
+pessimistic|pesimista|o
+rainfall|precipitaciones, lluvia caída|o
+ruble|rublo|o
+scapegoat|chivo expiatorio|o
+smallholder|pequeño agricultor|o
+solemn|solemne, serio|o
+spirituality|espiritualidad|o
+submission|entrega, presentación; sumisión, rendición|o;o
+suffice|bastar, ser suficiente|v
+systemically|sistémicamente|o
+allegiance|lealtad|o
+analog|analógico; análogo, equivalente|o;o
+biopic|película biográfica|o
+blob|masa informe, mancha|o
+capacitor|condensador|o
+cardboard|cartón|o
+consistency|coherencia, constancia; consistencia (de un líquido)|o;o
+depose|deponer, derrocar|v
+disposable|desechable; disponible|o;o
+kinetic|cinético|o
+landslide|deslizamiento de tierra, alud; victoria arrolladora (en unas elecciones)|o;o
+lateral|lateral|o
+lifelong|de toda la vida|o
+methodology|metodología|o
+mindfulness|atención plena|o
+oftentimes|a menudo|o
+percussion|percusión|o
+planner|planificador; agenda|o;o
+prevalent|frecuente, generalizado|o
+prostate|próstata|o
+psychiatry|psiquiatría|o
+radicalism|radicalismo|o
+recede|retroceder, disminuir|v
+reiterate|reiterar|v
+spawn|generar, dar lugar a; desovar|v;v
+strategist|estratega|o
+strife|conflicto, lucha|o
+technologically|tecnológicamente|o
+theological|teológico|o
+tyranny|tiranía|o
+uterus|útero|o
+visually|visualmente|o
+adherence|adhesión, cumplimiento|o
+alignment|alineación; sintonía, acuerdo|o;o
+antimicrobial|antimicrobiano|o
+circa|hacia, alrededor de (con fechas)|o
+counsellor|consejero, terapeuta|o
+dung|estiércol, bosta|o
+encrypt|cifrar, encriptar|v
+fatality|víctima mortal|o
+irrigation|riego, irrigación|o
+nonviolent|no violento, pacífico|o
+persistence|persistencia, perseverancia|o
+precursor|precursor|o
+princely|espléndido, generoso; principesco|o;o
+repetition|repetición|o
+retiree|jubilado|o
+rift|grieta, fisura; ruptura, distanciamiento|o;o
+scientifically|científicamente|o
+staple|elemento básico, alimento básico; grapa|o;o
+startups|startups, plural de startup (empresa emergente)|o
+stimulation|estimulación|o
+voluntarily|voluntariamente|o
+wanker|(insulto vulgar) pajero, imbécil|o
+boon|bendición, gran ventaja|o
+debug|depurar|v
+intermediary|intermediario, mediador|o
+muster|reunir, juntar (valor, apoyo)|v
+pretext|pretexto, excusa|o
+prolific|prolífico|o
+scourge|azote, flagelo|o
+unnamed|anónimo, sin nombre|o
+violinist|violinista|o
+anthropologist|antropólogo|o
+audit|auditoría; auditar|o;v
+authenticity|autenticidad|o
+charismatic|carismático|o
+condemnation|condena, reprobación|o
+consular|consular|o
+discern|discernir, distinguir|v
+disillusion|desilusionar, desengañar|v
+earner|asalariado, persona que percibe ingresos|o
+entrant|participante, recién llegado|o
+fatigue|fatiga, cansancio|o
+generational|generacional|o
+iceberg|iceberg|o
+infamous|tristemente célebre, infame|o
+laundering|lavado (de dinero); lavado (de ropa)|o;o
+lobe|lóbulo|o
+longtime|de muchos años, de larga data|o
+mast|mástil|o
+meditate|meditar; reflexionar|v;v
+mentality|mentalidad|o
+multipolar|multipolar|o
+neurotransmitter|neurotransmisor|o
+phosphorus|fósforo|o
+polymer|polímero|o
+prompting|insistencia, estímulo|o
+rudder|timón|o
+scarcely|apenas|o
+secession|secesión|o
+skunk|zorrillo, mofeta|o
+supranational|supranacional|o
+unconditional|incondicional|o
+wishful|ilusorio, basado en deseos|o
+accessibility|accesibilidad|o
+bonobo|bonobo|o
+chimp|chimpancé|o
+espionage|espionaje|o
+generalize|generalizar; generalizar, extender|v;v
+learner|aprendiz, estudiante|o
+newborn|recién nacido|o
+noun|sustantivo|o
+obese|obeso|o
+physiological|fisiológico|o
+portable|portátil|o
+preferable|preferible|o
+quantify|cuantificar|v
+recursion|recursividad|o
+ripple|onda, ondulación; repercusión, efecto dominó|o;o
+scaffold|andamio; patíbulo, cadalso|o;o
+scalar|escalar (magnitud)|o
+sizeable|considerable|o
+spam|correo basura, spam|o
+watershed|momento decisivo; divisoria de aguas|o;o
+antitrust|antimonopolio|o
+auxiliary|auxiliar, complementario; verbo auxiliar|o;o
+blogs|blogs, plural de blog|o
+cancellation|cancelación, anulación|o
+congestion|congestión, embotellamiento|o
+conservatism|conservadurismo|o
+fiscally|fiscalmente|o
+harmonize|armonizar; cantar en armonía|v;v
+histogram|histograma|o
+incarnation|versión, forma; encarnación|o;o
+inclination|inclinación, tendencia; inclinación, pendiente|o;o
+inferior|inferior|o
+insertion|inserción|o
+interviewer|entrevistador|o
+pensioner|pensionado, jubilado|o
+placebo|placebo|o
+posterior|trasero, parte posterior; posterior (en el tiempo o en probabilidad)|o;o
+proliferate|proliferar|v
+ratification|ratificación|o
+redirect|redirigir|v
+simultaneous|simultáneo|o
+slag|escoria; (insulto) puta, zorra|o;o
+smartphones|teléfonos inteligentes, plural de smartphone|o
+stipulate|estipular|v
+swath|franja, extensión|o
+swiftly|rápidamente|o
+tightly|firmemente, estrechamente|o
+unanimously|por unanimidad|o
+unbalance|desequilibrar|v
+abrupt|repentino, abrupto; brusco, cortante|o;o
+anthropology|antropología|o
+burgeoning|floreciente, en auge|o
+calligraphy|caligrafía|o
+compiler|compilador (programa); compilador (persona)|o;o
+comprehend|comprender|v
+endorsement|respaldo, aprobación|o
+fledge|emplumar|v
+functionality|funcionalidad|o
+lingonberry|arándano rojo|o
+lobbyist|cabildero, lobista|o
+mathematically|matemáticamente|o
+moratorium|moratoria|o
+multiplayer|multijugador|o
+receptacle|recipiente, receptáculo|o
+recreational|recreativo|o
+retaliate|tomar represalias|v
+unusually|de manera inusual; inusualmente, excepcionalmente|o;o
+amplitude|amplitud|o
+befriend|hacerse amigo de|v
+bestow|otorgar, conceder|v
+billionaires|multimillonarios, plural de billionaire|o
+cascade|cascada; cascada, sucesión de acontecimientos|o;o
+cetera|(en et cetera) etcétera|o
+crusade|cruzada, campaña; cruzada (medieval)|o;o
+eleventh|undécimo, onceavo; onceavo (fracción)|o;o
+entertainer|artista, animador|o
+evaporate|evaporarse; esfumarse|v;v
+geologist|geólogo|o
+incarcerate|encarcelar|v
+indictment|acusación formal; prueba contundente (de que algo va mal)|o;o
+leisure|ocio, tiempo libre|o
+longevity|longevidad|o
+neutralize|neutralizar|v
+oooh|oh (sorpresa o placer)|o
+ore|mineral, mena|o
+periodical|revista, publicación periódica|o
+persona|imagen pública, personaje|o
+pessimist|pesimista|o
+poetic|poético (relativo a la poesía); poético, bello y expresivo|o;o
+prudence|prudencia|o
+retrenchment|recorte de gastos|o
+senorita|señorita (en español)|o
+shortlist|lista de finalistas|o
+stylize|estilizar|v
+surmount|superar, vencer|v
+testosterone|testosterona|o
+upwards|hacia arriba|o
+alternatively|alternativamente, como otra opción|o
+ambiguous|ambiguo|o
+archaeology|arqueología|o
+barrister|abogado litigante|o
+blockade|bloqueo|o
+coding|programación|o
+culturally|culturalmente|o
+decarbonization|descarbonización|o
+definitive|definitivo, autorizado|o
+demolition|demolición|o
+discriminatory|discriminatorio|o
+disdain|desdén, desprecio|o
+diverge|divergir, apartarse|v
+drastically|drásticamente|o
+dysfunction|disfunción|o
+engulf|engullir, envolver, abrumar|v
+eschew|evitar, rehuir|v
+federalism|federalismo|o
+hereditary|hereditario|o
+humankind|humanidad, género humano|o
+ingenuity|ingenio, inventiva|o
+insofar|(en insofar as) en la medida en que|v
+insurer|aseguradora|o
+intolerance|intolerancia; intolerancia (a un alimento)|o;o
+invasive|invasor, invasivo; invasivo (que penetra en el cuerpo)|o;o
+lithium|litio|o
+murderous|asesino, sanguinario|o
+preparedness|preparación, estado de alerta|o
+publicize|dar a conocer, difundir|v
+reboot|reiniciar (una computadora); relanzar|v;v
+sect|secta|o
+songwriting|composición de canciones|o
+tempo|tempo, ritmo (de la música)|o
+unchecked|descontrolado, sin freno|o
+cardiovascular|cardiovascular|o
+charitable|benéfico; generoso, caritativo|o;o
+coloured|de color|o
+columnist|columnista|o
+conducive|propicio, favorable (a)|o
+diarrhea|diarrea|o
+digitize|digitalizar|v
+doggone|maldito, condenado|o
+electromagnetic|electromagnético|o
+exon|exón|o
+fetus|feto|o
+horsepower|caballo de fuerza|o
+inequity|inequidad, injusticia|o
+mingle|mezclarse; socializar, alternar|v;v
+mortar|mortero, argamasa; mortero (arma)|o;o
+nationally|a nivel nacional|o
+omen|presagio, augurio|o
+penicillin|penicilina|o
+phenomenal|fenomenal, extraordinario|o
+placement|colocación, ubicación; pasantía, prácticas|o;o
+prefrontal|prefrontal|o
+responsibly|responsablemente|o
+shun|rehuir, rechazar|v
+storey|piso, planta|o
+subprime|de alto riesgo, subprime (préstamos)|v
+turret|torrecilla; torreta|o;o
+unregulated|no regulado|o
+vendor|vendedor, proveedor|o
+abbreviation|abreviatura|o
+blackboard|pizarrón, pizarra|o
+cleansing|limpieza; limpieza (como en limpieza étnica)|o;o
+crossroad|cruce, encrucijada; encrucijada, momento decisivo|o;o
+deduction|deducción, descuento; deducción (razonamiento)|o;o
+defiance|desafío, rebeldía|o
+disorderly|desordenado; revoltoso, alborotador|o;o
+disperse|dispersar, dispersarse|v
+emanate|emanar, provenir|v
+fable|fábula|o
+forego|renunciar a, prescindir de|v
+freshwater|agua dulce|o
+glacial|glaciar; lentísimo; gélido|o;o;o
+illegitimate|ilegítimo; ilegítimo (hijo)|o;o
+indict|acusar formalmente, procesar|v
+interdependent|interdependiente|o
+latitude|latitud; libertad de acción, margen|o;o
+locomotive|locomotora|o
+lofty|alto, elevado; noble, ambicioso|o;o
+loophole|resquicio legal, vacío legal|o
+meager|escaso, exiguo|o
+misplace|extraviar, perder|v
+outpace|superar, dejar atrás|v
+patronage|mecenazgo, patrocinio; clientelismo|o;o
+photographic|fotográfico|o
+repository|depósito, repositorio|o
+starkly|claramente, marcadamente|o
+tenet|principio, dogma|o
+tolerant|tolerante|o
+trickle|hilo, goteo; gotear, escurrir|o;v
+underwrite|garantizar, asegurar|v
+witchcraft|brujería, hechicería|o
+yarn|hilo, estambre; historia, cuento largo|o;o
+antisemitism|antisemitismo|o
+atop|encima de|o
+audacious|audaz, atrevido|o
+axon|axón|o
+bloodstream|torrente sanguíneo|o
+cassette|casete|o
+dwindle|menguar, disminuir|v
+endowment|dotación, fondo de donaciones; dote, talento|o;o
+fallacy|falacia|o
+harden|endurecer, endurecerse|v
+incidence|incidencia|o
+liter|litro|o
+nuanced|matizado|o
+penetration|penetración; penetración (en el mercado)|o;o
+precipitation|precipitaciones (lluvia, nieve); precipitación (química)|o;o
+presuppose|presuponer|v
+skeletal|esquelético; esquelético, flaquísimo|o;o
+slimy|viscoso, baboso; empalagoso, adulador|o;o
+streamline|simplificar, agilizar|v
+trustee|fideicomisario, administrador|o
+unfettered|irrestricto, sin trabas|o
+untenable|insostenible|o
+visionary|visionario (con visión de futuro); visionario (persona)|o;o
+aggregator|agregador|o
+aortic|aórtico|o
+applicant|solicitante, postulante|o
+appropriately|adecuadamente, apropiadamente|o
+barley|cebada|o
+biomass|biomasa (combustible); biomasa (masa total de seres vivos)|o;o
+blockbuster|éxito de taquilla, superventas|o
+brunt|peso, embate, la peor parte|o
+conceptual|conceptual|o
+conglomerate|conglomerado (empresarial)|o
+discard|desechar, descartar|v
+draconian|draconiano, durísimo|o
+exponentially|exponencialmente|o
+feeder|alimentador, afluente (una vía, una escuela, un dispositivo)|o
+flavour|sabor|o
+forage|buscar alimento, forrajear|v
+inversion|inversión|o
+mastery|maestría, dominio; dominio, control|o;o
+orchestrate|orquestar, coordinar; orquestar (una obra musical)|v;v
+overstate|exagerar|v
+polity|comunidad política, estado|o
+prequel|precuela|o
+procession|procesión, desfile|o
+propagate|propagar, difundir; propagar (plantas)|v;v
+slime|baba, limo|o
+stowaway|polizón|o
+unhealthy|insalubre, poco saludable; enfermizo|o;o
+viewpoint|punto de vista|o
+aluminium|aluminio|o
+anal|anal; obsesivo, quisquilloso|o;o
+biotechnology|biotecnología|o
+cipher|cifra, clave secreta; cero a la izquierda|o;o
+cleric|clérigo|o
+constructor|constructor; constructor (en programación)|o;o
+crest|cresta, cima; blasón, escudo|o;o
+discriminate|discriminar; distinguir|v;v
+fibre|fibra; fibra (alimentaria)|o;o
+hiatus|pausa, interrupción|o
+inclusiveness|inclusión, inclusividad|o
+insure|asegurar (con un seguro); asegurarse de|v;v
+jihadists|yihadistas, plural de jihadist|o
+lengthy|largo, extenso|o
+lineup|alineación, lista de participantes; rueda de reconocimiento|o;o
+melioidosis|melioidosis|o
+mew|maullar|v
+mil|millón; milésima de pulgada|o;o
+notoriously|notoriamente (por algo malo)|o
+outgoing|extrovertido, sociable; saliente|o;o
+pinnacle|cúspide, cima|o
+posting|publicación (en línea); destino, destacamento|o;o
+pushover|persona fácil de convencer; pan comido|o;o
+reliant|dependiente|o
+stint|período, temporada (de trabajo)|o
+vigorously|enérgicamente|o
+aaah|¡ay!, ¡ah! (dolor, miedo o alivio)|o
+abruptly|de repente, bruscamente|o
+cartoonist|caricaturista, historietista|o
+categorize|clasificar, categorizar|v
+corpus|corpus|o
+environmentalist|ecologista, ambientalista|o
+firstly|en primer lugar|o
+hinge|bisagra; depender de|o;v
+hubris|soberbia, arrogancia desmedida|o
+hydrocarbon|hidrocarburo|o
+hypothetical|hipotético|o
+induction|incorporación, iniciación; inducción (razonamiento); inducción (electromagnética)|o;o;o
+infinitely|infinitamente; muchísimo|o;o
+mesh|malla; encajar, engranar|o;v
+metabolism|metabolismo|o
+nationalize|nacionalizar|v
+niner|nueve (en radiocomunicación)|o
+overarching|global, general|o
+papal|papal|o
+paramilitary|paramilitar|o
+procedural|procesal, de procedimiento|o
+reelection|reelección|o
+visibility|visibilidad; visibilidad, notoriedad|o;o
+vocational|vocacional, profesional|o
+worthwhile|que vale la pena|o
+accidental|accidental, fortuito|o
+arrogance|arrogancia|o
+avant|(en avant-garde) vanguardista, experimental|o
+blockchain|cadena de bloques, blockchain|o
+browse|hojear, curiosear; navegar (por internet)|v;v
+brutally|brutalmente; crudamente, sin rodeos|o;o
+checklist|lista de verificación|o
+conundrum|enigma, dilema|o
+conversely|a la inversa, por el contrario|o
+countercyclical|anticíclico|o
+covert|encubierto, secreto|o
+cubic|cúbico (de volumen); cúbico, en forma de cubo|o;o
+dandy|dandi; estupendo, excelente|o;o
+disarray|desorden, desbarajuste|o
+emblem|emblema, insignia|o
+emitter|emisor|o
+expulsion|expulsión|o
+flowering|floración; florecimiento, apogeo|o;o
+fray|contienda, refriega; deshilacharse|o;v
+gridlock|embotellamiento, atasco; parálisis política|o;o
+labourer|obrero, peón|o
+lastly|por último|o
+locality|localidad, zona|o
+nano|diminuto; nano- (milmillonésima parte)|o;o
+negation|negación|o
+outperform|superar, rendir más que|v
+pathology|patología (ciencia); patología, afección|o;o
+predatory|depredador; abusivo, depredador|o;o
+pseudo|pseudo, falso|o
+redistributive|redistributivo|o
+relentlessly|sin descanso, implacablemente|o
+singular|singular (gramatical); singular, insólito|o;o
+socio|socio-, social|o
+sprawl|expansión urbana descontrolada; extenderse, desparramarse|o;v
+supercomputer|supercomputadora|o
+turbulent|turbulento, agitado|o
+ultrasound|ultrasonido, ecografía|o
+unwanted|no deseado|o
+urinate|orinar|v
+adversity|adversidad|o
+alot|mucho (error ortográfico de a lot)|o
+antagonism|antagonismo, hostilidad|o
+beverage|bebida|o
+cheaply|barato, a bajo costo|o
+combatant|combatiente|o
+commute|viajar diariamente al trabajo; conmutar (una pena)|v;v
+costing|cálculo de costos|o
+democratize|democratizar|v
+estrogen|estrógeno|o
+faire|(en laissez-faire) no intervención del Estado en la economía|o
+fluorescent|fluorescente|o
+frontal|frontal; frontal, directo|o;o
+geoengineering|geoingeniería|o
+hallmark|sello distintivo|o
+humorous|gracioso, humorístico|o
+initialize|inicializar|v
+investigative|de investigación|o
+landfill|vertedero, relleno sanitario|o
+metabolic|metabólico|o
+neurological|neurológico|o
+obstruct|obstruir, bloquear|v
+poof|¡puf! (desaparición repentina)|o
+proprietary|patentado, de propiedad privada|o
+recourse|recurso, opción a la que acudir|o
+remotely|a distancia; en lo más mínimo (not remotely = en absoluto)|o;o
+resistor|resistencia, resistor|o
+savvy|astuto, bien informado|o
+seaweed|algas marinas|o
+staircase|escalera|o
+statistically|estadísticamente|o
+synonym|sinónimo|o
+teleomorph|teleomorfo|o
+tenor|tenor; tono general|o;o
+terminology|terminología|o
+tremendously|enormemente|o
+unfamiliar|desconocido|o
+vivid|vivo, intenso; nítido, vívido|o;o
+armistice|armisticio|o
+aviator|aviador|o
+breakout|fuga, evasión; éxito repentino|o;o
+chevron|galón, chevrón|o
+cognac|coñac|o
+colonization|colonización|o
+decorative|decorativo, ornamental|o
+descriptive|descriptivo|o
+desperation|desesperación|o
+eastward|hacia el este|o
+enclose|rodear, cercar; adjuntar|v;v
+flashback|escena retrospectiva, flashback; recuerdo vívido repentino|o;o
+gymnastic|gimnástico|o
+hoax|engaño, bulo|o
+humanist|humanista|o
+hype|bombo publicitario|o
+inference|inferencia, deducción|o
+jest|broma|o
+ledger|libro de contabilidad, libro mayor|o
+limestone|piedra caliza|o
+modernist|modernista|o
+mountainous|montañoso|o
+omit|omitir|v
+playoff|partido de desempate, liguilla|o
+preferential|preferencial|o
+reassert|reafirmar|v
+secularism|laicismo, secularismo|o
+stature|estatura; talla, prestigio|o;o
+suffix|sufijo|o
+taint|contaminar; manchar, empañar|v;v
+terrestrial|terrestre|o
+undeniable|innegable|o
+unpaid|no remunerado, impago|o
+unsuccessfully|sin éxito|o
+academia|mundo académico|o
+adulthood|edad adulta|o
+baseline|punto de referencia, línea de base|o
+continuum|continuo|o
+cornerstone|piedra angular|o
+cortisol|cortisol|o
+cryptocurrencies|criptomonedas, plural de cryptocurrency|o
+dildo|consolador|o
+glamour|glamur|o
+lax|laxo, poco estricto|o
+nationalistic|nacionalista|o
+pronouncement|declaración, pronunciamiento|o
+recapitalization|recapitalización|o

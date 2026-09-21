@@ -6364,3 +6364,3412 @@ tinto|vinho tinto: red wine|n
 competente|competent|o
 concentrado|concentrated, focused|o
 desenterrar|to dig up|v
+consultado|consulted; accessed|o;o
+económico|economic; economical, cheap (Eur. Pt.)|o;o
+climático|climatic, climate|o
+rendimento|income; yield, performance|o;o
+sector|sector (Eur. Pt.)|o
+objectivo|objective, aim (Eur. Pt.)|o
+sustentável|sustainable|o
+actual|current, present (not "actual") (Eur. Pt.)|o
+redução|reduction|o
+monetário|monetary|o
+emissão|emission; issue (of shares, currency); broadcast|o;o;o
+actualmente|currently (not "actually") (Eur. Pt.)|o
+pandemia|pandemic|o
+acção|action; share (stock) (Eur. Pt.)|o;o
+inovação|innovation|o
+projecto|project (Eur. Pt.)|o
+desigualdade|inequality|o
+emergente|emerging, emergent|o
+município|municipality|o
+democrático|democratic|o
+gestão|management, administration|o
+arquivado|archived; filed|o;o
+agrícola|agricultural|o
+constituir|to constitute, to make up; to establish, to form|v;v
+género|kind, type; gender; genre; genus (Eur. Pt.)|o;o;o;o
+activo|active; asset (Eur. Pt.)|o;o
+produtividade|productivity|o
+implementar|to implement|v
+economista|economist|o
+protecção|protection (Eur. Pt.)|o
+actividade|activity (Eur. Pt.)|o
+afectar|to affect (Eur. Pt.)|v
+desempenhar|to perform, to play (a role)|v
+utilização|use, utilisation|o
+empresarial|business, corporate|o
+multiplicar|to multiply|v
+exportação|export, exportation|o
+competência|competence, skill; jurisdiction, remit|o;o
+derivada|derivative (maths); derived (fem.)|o;o
+existente|existing|o
+consumidor|consumer|o
+inflação|inflation|o
+bilião|trillion (10^12, not "billion") (Eur. Pt.)|o
+governamental|governmental, government|o
+défice|deficit (Eur. Pt.)|o
+estabilidade|stability|o
+melhoria|improvement|o
+desemprego|unemployment|o
+tecnológico|technological|o
+posteriormente|subsequently, later|o
+reflectir|to reflect (Eur. Pt.)|v
+adoptar|to adopt (Eur. Pt.)|v
+impulsionar|to drive, to boost|v
+rural|rural|o
+limitar|to limit|v
+proporcionar|to provide, to afford|v
+governação|governance (Eur. Pt.)|o
+publicação|publication|o
+gerir|to manage, to run|v
+credor|creditor|o
+eleitoral|electoral|o
+prosperidade|prosperity|o
+malária|malaria|o
+recessão|recession|o
+consistir|to consist (of, in)|v
+nomeadamente|namely, in particular (Eur. Pt.)|o
+anti|anti- (prefix)|o
+abrangente|comprehensive, wide-ranging|o
+globalização|globalisation|o
+estrutural|structural|o
+inovador|innovative; innovator|o;o
+literário|literary|o
+subsídio|subsidy; allowance, benefit|o;o
+integração|integration|o
+multilateral|multilateral|o
+planeamento|planning (Eur. Pt.)|o
+proveniente|coming (from), originating (from)|o
+migração|migration|o
+cancro|cancer (Eur. Pt.)|o
+inicialmente|initially|o
+renovável|renewable|o
+estrear|to premiere, to debut; to use for the first time|v;v
+orçamental|budgetary, budget (Eur. Pt.)|o
+cimeira|summit (Eur. Pt.)|o
+migrante|migrant|o
+institucional|institutional|o
+interveniente|participant, party involved|o
+essencialmente|essentially|o
+generalizado|widespread, generalised|o
+implementação|implementation|o
+infraestrutura|infrastructure|o
+integrar|to integrate; to be part of|v;v
+significativamente|significantly|o
+situado|located, situated|o
+estatal|state, state-owned|o
+vetor|vector|o
+austeridade|austerity|o
+registar|to register, to record (Eur. Pt.)|v
+independentemente|independently; regardless (of)|o;o
+regulamentação|regulation, rules|o
+declínio|decline|o
+estimular|to stimulate, to encourage|v
+energética|energy, energy-related (fem.)|o
+fundar|to found, to establish|v
+samba|samba|o
+legislação|legislation|o
+incerteza|uncertainty|o
+simultaneamente|simultaneously|o
+importação|import, importation|o
+comuna|commune|o
+consenso|consensus|o
+incentivar|to encourage, to incentivise|v
+inaugurado|inaugurated, opened|o
+decreto|decree|o
+biodiversidade|biodiversity|o
+feminista|feminist|o
+utilizado|used|o
+acessível|accessible; affordable|o;o
+produtivo|productive|o
+direcção|direction; management (Eur. Pt.)|o;o
+poluição|pollution|o
+contemporâneo|contemporary|o
+legislador|legislator, lawmaker|o
+fornecimento|supply, provision|o
+eficiência|efficiency|o
+coligação|coalition|o
+inclinação|slope, inclination; tendency|o;o
+excessivo|excessive|o
+estímulo|stimulus, incentive|o
+visar|to aim at, to target|v
+africana|African (fem.)|o
+israelita|Israelite, Jewish; Israeli (Eur. Pt.)|o;o
+orientar|to guide, to direct; to supervise|v;v
+classificação|classification; ranking, standings|o;o
+intitulado|entitled, titled|o
+sustentabilidade|sustainability|o
+metragem|length (in metres); film length (curta/longa metragem: short/feature film)|o;o
+inativa|inactive (fem.)|o
+caractere|character (typography, computing)|o
+nascida|born (fem.)|o
+lacuna|gap, lacuna|o
+subtrair|to subtract|v
+variável|variable|o
+prevenção|prevention|o
+historiador|historian|o
+implicação|implication|o
+interagir|to interact|v
+algoritmo|algorithm|o
+colaboração|collaboration|o
+exercer|to exercise, to exert; to practise (a profession)|v;v
+substancial|substantial|o
+colectivo|collective (Eur. Pt.)|o
+seno|sine; bosom|o;o
+inclusão|inclusion|o
+mortalidade|mortality|o
+amplamente|widely|o
+decisor|decision-maker (Eur. Pt.)|o
+populista|populist|o
+agravar|to aggravate, to worsen|v
+estufa|greenhouse, hothouse|o
+escassez|scarcity, shortage|o
+noutros|in other(s) (em+outros) (Eur. Pt.)|o
+sanção|sanction|o
+inaudível|inaudible|o
+residir|to reside, to live; to lie (in)|v;v
+composta|composed, made up (fem.)|o
+tarifa|tariff; fare, rate|o;o
+carecer|to lack (de)|v
+bilateral|bilateral|o
+deslocar|to move, to shift; (se) to travel|v;v
+resiliência|resilience|o
+destaque|prominence, highlight|o
+reestruturação|restructuring|o
+lançada|launched, released (fem.)|o
+índice|index; rate; table of contents|o;o;o
+aprendizagem|learning|o
+minoria|minority|o
+transparência|transparency|o
+intensificar|to intensify|v
+ecossistema|ecosystem|o
+aprendizado|learning; apprenticeship|o;o
+sírio|Syrian|o
+âmbito|scope, sphere, framework|o
+directamente|directly (Eur. Pt.)|o
+estima|esteem, regard; estimates; you estimate|o;o;f2s2p
+indicador|indicator|o
+setores|sectors|o
+neurônios|neurons|o
+dispendioso|expensive, costly|o
+mobilizar|to mobilise|v
+coeficiente|coefficient|o
+prestação|instalment; provision (of a service); performance|o;o;o
+moldar|to shape, to mould|v
+originar|to give rise to, to cause|v
+somar|to add (up); to total|v;v
+adicional|additional|o
+regulamentar|to regulate; regulatory|v;o
+atribuído|attributed; awarded|o;o
+econômico|economic; economical, cheap|o;o
+directo|direct (Eur. Pt.)|o
+inclusivo|inclusive|o
+dependência|dependence, dependency; annex, outbuilding|o;o
+estatuto|statute; status|o;o
+humanitário|humanitarian|o
+parâmetro|parameter|o
+freguesia|parish (administrative) (Eur. Pt.)|o
+criatividade|creativity|o
+soberania|sovereignty|o
+resultante|resulting|o
+colonial|colonial|o
+meado|middle (usu. meados: mid-, the middle of)|o
+conseguinte|consequent (por conseguinte: consequently)|o
+diminuição|decrease, reduction|o
+diversidade|diversity|o
+instabilidade|instability|o
+director|director, manager (Eur. Pt.)|o
+produzido|produced|o
+administrativo|administrative|o
+liquidez|liquidity|o
+anunciado|announced|o
+transacção|transaction (Eur. Pt.)|o
+alargar|to widen, to extend|v
+concebido|conceived, designed|o
+académico|academic (Eur. Pt.)|o
+discriminação|discrimination|o
+potencialmente|potentially|o
+cosseno|cosine|o
+consequentemente|consequently|o
+registado|registered, recorded (Eur. Pt.)|o
+disputar|to compete for, to contest; to play (a match)|v;v
+datar|to date (from)|v
+habitação|housing, dwelling|o
+palestiniano|Palestinian (Eur. Pt.)|o
+regulador|regulator; regulatory|o;o
+renminbi|renminbi (Chinese currency)|o
+actor|actor (Eur. Pt.)|o
+atribuir|to attribute; to award, to assign|v;v
+materno|maternal (língua materna: mother tongue)|o
+denominado|called, named|o
+posterior|later, subsequent; rear, posterior|o;o
+manifestante|protester, demonstrator|o
+salientar|to point out, to stress|v
+simplificar|to simplify|v
+utilizador|user (Eur. Pt.)|o
+vacinação|vaccination|o
+ingressar|to join, to enter (a school, an organisation)|v
+website|website|o
+duração|duration, length|o
+genoma|genome|o
+capitalismo|capitalism|o
+nacionalista|nationalist|o
+desenvolvido|developed|o
+apoiante|supporter (Eur. Pt.)|o
+legitimidade|legitimacy|o
+viável|viable, feasible|o
+eficácia|effectiveness, efficacy|o
+estimativa|estimate|o
+favorável|favourable|o
+narrativa|narrative|o
+integrante|member, component; integral|o;o
+agregado|aggregate; household (agregado familiar)|o;o
+ecológico|ecological|o
+restringir|to restrict|v
+iraniano|Iranian|o
+linear|linear|o
+percentagem|percentage|o
+reacção|reaction (Eur. Pt.)|o
+vulnerabilidade|vulnerability|o
+titular|holder, incumbent; starting (player)|o;o
+autoritário|authoritarian|o
+competitividade|competitiveness|o
+incorporar|to incorporate|v
+equitativo|equitable, fair|o
+activista|activist (Eur. Pt.)|o
+insegurança|insecurity|o
+planear|to plan (Eur. Pt.)|v
+editorial|editorial; publishing|o;o
+multinacional|multinational|o
+retórica|rhetoric|o
+denominador|denominator|o
+abastecimento|supply|o
+robusto|robust, sturdy|o
+elétrons|electrons|o
+adopção|adoption (Eur. Pt.)|o
+disponibilizar|to make available|v
+jornalismo|journalism|o
+solidariedade|solidarity|o
+coordenação|coordination|o
+graduação|degree, graduation; undergraduate studies|o;o
+tuberculose|tuberculosis|o
+reinado|reign|o
+computação|computing|o
+considerável|considerable|o
+conversação|conversation|o
+empenhado|committed, dedicated|o
+incapacidade|inability; disability|o;o
+fatorial|factorial|o
+energético|energy, energy-related|o
+fiável|reliable (Eur. Pt.)|o
+proibição|ban, prohibition|o
+pertencente|belonging (to)|o
+protagonista|protagonist, lead|o
+capacitores|capacitors|o
+duradouro|lasting, durable|o
+laboral|labour, work-related|o
+doutorado|doctorate, PhD; holder of a PhD|o;o
+cólera|cholera; anger, rage|o;o
+dinastia|dynasty|o
+insuficiente|insufficient|o
+politicamente|politically|o
+aperceber|to notice, to realise (usu. aperceber-se de)|v
+romana|Roman (fem.)|o
+fatores|factors|o
+decorrente|resulting (from), arising (from)|o
+excepção|exception (Eur. Pt.)|o
+desequilíbrio|imbalance|o
+disparidade|disparity|o
+imperativo|imperative|o
+desencadear|to trigger, to unleash|v
+subsistência|subsistence|o
+urgentemente|urgently|o
+complexidade|complexity|o
+biografia|biography|o
+regressão|regression|o
+coronavírus|coronavirus|o
+diplomacia|diplomacy|o
+empreendedor|entrepreneur; enterprising|o;o
+reduzido|reduced; small, limited|o;o
+registo|record, register; registration (Eur. Pt.)|o;o
+subjacente|underlying|o
+estagnação|stagnation|o
+ferroviário|railway, rail|o
+regresso|return|o
+atuou|acted, worked (as); you acted|o;f2s2p
+projetar|to project; to design|v;v
+retratar|to portray, to depict|v
+acentuado|marked, pronounced; accented|o;o
+credível|credible (Eur. Pt.)|o
+enquadramento|framework, context; framing|o;o
+preocupante|worrying|o
+reprodutivo|reproductive|o
+étnico|ethnic|o
+decimal|decimal|o
+patrimônio|heritage; assets, estate|o;o
+acolher|to welcome, to host, to take in|v
+acto|act (Eur. Pt.)|o
+centrado|centred, focused|o
+economicamente|economically|o
+mobilidade|mobility|o
+requisito|requirement|o
+concretizar|to carry out, to bring about|v
+anualmente|annually|o
+respectivamente|respectively|o
+cambial|exchange-rate, foreign-exchange|o
+nutrição|nutrition|o
+remunerado|paid|o
+premiado|award-winning; prize-winner|o;o
+argentino|Argentine, Argentinian|o
+aderir|to join, to adhere (to)|v
+editar|to edit; to publish|v;v
+secular|centuries-old, age-old; secular|o;o
+matemático|mathematical; mathematician|o;o
+fenómeno|phenomenon (Eur. Pt.)|o
+incumprimento|non-compliance, default (Eur. Pt.)|o
+montante|amount, sum|o
+nacionalismo|nationalism|o
+parcela|portion, share; instalment; plot|o;o;o
+canalizar|to channel|v
+desfavorecido|disadvantaged, underprivileged|o
+geográfico|geographical|o
+multiplicação|multiplication|o
+numeroso|numerous|o
+localidade|locality, town|o
+hidrogênio|hydrogen|o
+adesão|membership, accession; support, adherence|o;o
+electricidade|electricity (Eur. Pt.)|o
+mobilização|mobilisation|o
+empatia|empathy|o
+clicar|to click|v
+decorrer|to take place, to elapse; to result (from)|v;v
+substancialmente|substantially|o
+transparente|transparent|o
+ditadura|dictatorship|o
+demográfico|demographic|o
+liberal|liberal|o
+noutras|in other(s) (em+outras) (Eur. Pt.)|o
+propagação|spread, propagation|o
+referendo|referendum|o
+saneamento|sanitation|o
+susceptível|susceptible, liable (Eur. Pt.)|o
+próspero|prosperous|o
+urbanização|urbanisation; housing development|o;o
+interação|interaction|o
+micróbio|microbe|o
+poliomielite|polio|o
+cognitivo|cognitive|o
+mestrado|master's degree|o
+dióxido|dioxide|o
+duplicar|to double; to duplicate|v;v
+fosso|gap, gulf; ditch, moat|o;o
+intensivo|intensive|o
+segmento|segment|o
+extremista|extremist|o
+responsabilização|accountability|o
+sunita|Sunni|o
+disponibilidade|availability|o
+macroeconómico|macroeconomic (Eur. Pt.)|o
+reformar|to reform; to renovate|v;v
+carioca|from Rio de Janeiro, carioca|o
+telemóvel|mobile phone (Eur. Pt.)|o
+complementar|complementary; to complement|o;v
+dominante|dominant|o
+geopolítica|geopolitics|o
+empregar|to employ; to use|v;v
+sucessor|successor|o
+diplomática|diplomatic (fem.)|o
+excedente|surplus|o
+favorecer|to favour|v
+petrolífero|oil, oil-producing|o
+transfronteiriço|cross-border|o
+brasão|coat of arms|o
+estadunidense|American, of the United States|o
+slide|slide (presentation)|o
+telenovela|soap opera, telenovela|o
+conservação|conservation, preservation|o
+contrair|to contract; to incur|v;v
+debater|to debate|v
+liderado|led|o
+parlamentar|parliamentary; member of parliament|o;o
+persistente|persistent|o
+rácio|ratio (Eur. Pt.)|o
+dentre|among, from among (de+entre)|o
+historia|history; story|o;o
+nomeada|appointed, nominated (fem.)|o
+situar|to situate, to locate|v
+denominação|name, denomination|o
+congregação|congregation|o
+aceder|to access (Eur. Pt.)|v
+aquisição|acquisition, purchase|o
+correspondente|corresponding; correspondent|o;o
+constituído|made up, formed|o
+contribuinte|taxpayer|o
+desinformação|disinformation|o
+erradicar|to eradicate|v
+regulação|regulation|o
+ambientar|to set (a story); (se) to settle in, to adapt|v;v
+reescrever|to rewrite|v
+devedor|debtor|o
+erradicação|eradication|o
+vigor|force, effect (em vigor: in force); vigour|o;o
+turismo|tourism|o
+ativista|activist|o
+empregador|employer|o
+motivado|motivated|o
+persistir|to persist|v
+autoria|authorship|o
+amostral|sample, sampling (adj.)|o
+introdução|introduction|o
+bacia|basin; pelvis|o;o
+insustentável|unsustainable|o
+marítimo|maritime|o
+numerador|numerator|o
+dicionário|dictionary|o
+autonomia|autonomy; range (of a vehicle)|o;o
+conformidade|conformity, compliance|o
+ideologia|ideology|o
+reduzida|reduced (fem.)|o
+respectivo|respective|o
+cinematográfico|cinematic, film|o
+arqueológico|archaeological|o
+globalmente|globally|o
+territorial|territorial|o
+correlação|correlation|o
+roteirista|screenwriter|o
+atenuar|to mitigate, to lessen|v
+candidatura|candidacy, application|o
+fomentar|to foster, to promote|v
+moderado|moderate|o
+quantitativo|quantitative|o
+repressão|repression|o
+descrito|described|o
+configuração|configuration, setup; settings|o;o
+contenção|containment, restraint|o
+frequente|frequent|o
+infeccioso|infectious|o
+manifestar|to express, to show; (se) to demonstrate, to protest|v;v
+obstante|não obstante: notwithstanding, nevertheless|n
+designers|designers|o
+comumente|commonly|o
+armazenamento|storage|o
+dependente|dependent|o
+minimizar|to minimise|v
+repercussão|repercussion|o
+sistémico|systemic (Eur. Pt.)|o
+barroco|baroque|o
+efetivamente|effectively; in fact, indeed|o;o
+periódico|periodic; periodical, journal|o;o
+abranger|to cover, to encompass|v
+impasse|impasse, deadlock|o
+inevitavelmente|inevitably|o
+prolongado|prolonged, lengthy|o
+trilhões|trillions|o
+concelho|municipality (Eur. Pt.)|o
+feminismo|feminism|o
+imunológico|immune, immunological|o
+mamífero|mammal|o
+eléctrico|electric; tram (Eur. Pt.)|o;o
+exportador|exporter; exporting|o;o
+multilateralismo|multilateralism|o
+partidário|party (adj.), partisan; supporter|o;o
+interface|interface|o
+nomeação|appointment, nomination|o
+alcançado|reached, achieved|o
+aspeto|aspect, appearance (Eur. Pt.)|o
+consolidar|to consolidate|v
+diplomático|diplomatic; diplomat|o;o
+optar|to opt, to choose|v
+prestador|provider (of services)|o
+proliferação|proliferation|o
+densidade|density|o
+ranking|ranking, league table|o
+abrandamento|slowdown (Eur. Pt.)|o
+adverso|adverse|o
+extracção|extraction (Eur. Pt.)|o
+geoengenharia|geoengineering|o
+pesticida|pesticide|o
+robótico|robotic|o
+renovação|renewal, renovation|o
+curdo|Kurdish; Kurd|o;o
+definido|defined; definite|o;o
+dividendo|dividend|o
+endividamento|indebtedness, debt|o
+exceder|to exceed|v
+imunização|immunisation|o
+salarial|wage, salary (adj.)|o
+subida|rise, increase; climb, ascent|o;o
+expoente|exponent; leading figure|o;o
+substituído|replaced|o
+trans|trans, transgender|o
+compensação|compensation|o
+constatar|to note, to establish, to find|v
+prevalecer|to prevail|v
+tributação|taxation|o
+litoral|coast, coastline; coastal|o;o
+largura|width|o
+classificar|to classify; (se) to qualify|v;v
+suceder|to happen; to succeed, to follow|v;v
+tópico|topic|o
+divulgação|disclosure, dissemination; publicity|o;o
+educativo|educational|o
+repensar|to rethink|v
+ecrã|screen (Eur. Pt.)|o
+exclusivamente|exclusively|o
+cidadania|citizenship|o
+desvalorização|devaluation, depreciation|o
+flexibilização|easing, relaxation (of rules)|o
+negligenciar|to neglect|v
+progressista|progressive|o
+quota|quota; share|o;o
+visualizar|to visualise; to view|v;v
+abadia|abbey|o
+correcto|correct (Eur. Pt.)|o
+deflação|deflation|o
+informal|informal|o
+interligado|interconnected, linked|o
+restabelecer|to restore, to re-establish|v
+fixe|cool, great (Eur. Pt.)|o
+teorema|theorem|o
+atmosférico|atmospheric|o
+beneficiário|beneficiary|o
+cerâmica|ceramics, pottery|o
+critério|criterion|o
+directa|direct (fem.) (Eur. Pt.)|o
+econômicas|economic (fem. pl.)|o
+efectivamente|effectively; in fact, indeed (Eur. Pt.)|o;o
+influente|influential|o
+inverter|to invert, to reverse|v
+noticioso|news (adj.)|o
+prejudicial|harmful, detrimental|o
+pressuposto|assumption, premise|o
+responsabilizar|to hold responsible; (se) to take responsibility|v;v
+tangente|tangent|o
+adequadamente|adequately, properly|o
+estimar|to estimate; to esteem|v;v
+florestal|forest, forestry (adj.)|o
+parcialmente|partially|o
+percentual|percentage (adj.); percentage point|o;o
+remessa|remittance; shipment, consignment|o;o
+resiliente|resilient|o
+editado|edited; published|o;o
+ilustração|illustration|o
+confinamento|lockdown; confinement|o;o
+consideravelmente|considerably|o
+devidamente|duly, properly|o
+escasso|scarce|o
+estudioso|scholar; studious|o;o
+historicamente|historically|o
+homólogo|counterpart; homologous|o;o
+populacional|population (adj.)|o
+quilómetro|kilometre (Eur. Pt.)|o
+variância|variance|o
+bizantino|Byzantine|o
+magnitude|magnitude|o
+catastrófico|catastrophic|o
+desigual|unequal, uneven|o
+ineficaz|ineffective|o
+log|log, logarithm|o
+filosófico|philosophical|o
+castelhano|Castilian, Spanish (language)|o
+elétron|electron|o
+restauração|restoration; restaurant trade|o;o
+assinalar|to mark, to point out|v
+clínico|clinical; clinician|o;o
+contrariar|to go against, to counter|v
+diversificado|diverse, diversified|o
+drasticamente|drastically|o
+falhanço|failure (Eur. Pt.)|o
+monitorização|monitoring (Eur. Pt.)|o
+populismo|populism|o
+progressivo|progressive, gradual|o
+recolha|collection, gathering (Eur. Pt.)|o
+transformador|transforming; transformer|o;o
+monarquia|monarchy|o
+estabelecido|established|o
+ducado|duchy; ducat|o;o
+afro|Afro, African|o
+apoiado|supported|o
+citado|cited, quoted|o
+contacto|contact (Eur. Pt.)|o
+escultor|sculptor|o
+grandemente|greatly|o
+industrialização|industrialisation|o
+misto|mixed|o
+nobreza|nobility|o
+opositor|opponent|o
+reivindicação|claim, demand|o
+salvaguardar|to safeguard|v
+ênfase|emphasis|o
+caracterizado|characterised|o
+doutrina|doctrine|o
+militante|activist, militant, party member|o
+teatral|theatrical|o
+álgebra|algebra|o
+educacional|educational|o
+vocalista|vocalist, lead singer|o
+abóbada|vault, dome|o
+desconfiança|distrust, suspicion|o
+eólico|wind (energy)|o
+monopólio|monopoly|o
+ucraniano|Ukrainian|o
+xiita|Shia, Shiite|o
+electrão|electron (Eur. Pt.)|o
+limitação|limitation|o
+molecular|molecular|o
+neurónio|neuron (Eur. Pt.)|o
+vetores|vectors|o
+armamento|armament, weapons|o
+autismo|autism|o
+efectuar|to carry out, to make (Eur. Pt.)|v
+escolaridade|schooling|o
+trimestre|quarter (three months); term|o;o
+táctica|tactic, tactics (Eur. Pt.)|o
+cineasta|film-maker|o
+notação|notation|o
+alicerce|foundation|o
+caracterizar|to characterise|v
+contrapartida|something in return, compensation (em contrapartida: on the other hand)|o
+degradação|degradation|o
+desflorestação|deforestation (Eur. Pt.)|o
+gradual|gradual|o
+ideológico|ideological|o
+judaico|Jewish, Judaic|o
+pretensão|claim; aspiration; pretension|o;o;o
+recear|to fear|v
+titulo|title; bond, security|o;o
+tradicionalmente|traditionally|o
+teologia|theology|o
+anime|anime (Japanese animation)|o
+censo|census|o
+diferencial|differential; distinguishing feature|o;o
+dígito|digit|o
+menção|mention|o
+possibilitar|to enable, to make possible|v
+gols|goals|o
+eleger|to elect|v
+dirigente|leader, official|o
+fortalecimento|strengthening|o
+governança|governance|o
+incerto|uncertain|o
+meteorológico|meteorological, weather|o
+optimista|optimistic; optimist (Eur. Pt.)|o;o
+subnutrição|malnutrition, undernourishment|o
+colaborador|collaborator; employee|o;o
+missionário|missionary|o
+interações|interactions|o
+alargamento|enlargement, expansion|o
+aprofundar|to deepen|v
+ascender|to rise, to ascend|v
+drones|drones|o
+liberalização|liberalisation|o
+limiar|threshold|o
+marginalizado|marginalised|o
+nominal|nominal|o
+paróquia|parish|o
+variante|variant|o
+exibido|shown, displayed; screened|o;o
+jesuíta|Jesuit|o
+mediante|by means of, through|o
+paraguaio|Paraguayan|o
+aceleração|acceleration|o
+adição|addition|o
+capacitar|to train, to empower, to enable|v
+minar|to undermine; to mine|v;v
+sondagem|poll, survey; drilling|o;o
+suscitar|to raise, to give rise to|v
+transformada|transform (maths); transformed (fem.)|o;o
+datado|dated|o
+habitat|habitat|o
+manifesto|manifesto; manifest, evident|o;o
+ortodoxo|orthodox|o
+vértice|vertex|o
+distinção|distinction|o
+fração|fraction|o
+censura|censorship; censure|o;o
+ciclista|cyclist|o
+concepção|conception; design|o;o
+distanciamento|distancing|o
+existencial|existential|o
+ministra|minister (woman)|o
+paquistanês|Pakistani|o
+simultâneo|simultaneous|o
+inédito|unprecedented; unpublished|o;o
+hidrogénio|hydrogen (Eur. Pt.)|o
+extenso|extensive, long|o
+semi|semi- (prefix)|o
+abrandar|to slow down, to ease|v
+engajar|to engage; (se) to get involved|v;v
+enraizado|rooted, entrenched|o
+equivaler|to be equivalent (to)|v
+esmagador|overwhelming, crushing|o
+fundamentalmente|fundamentally|o
+maximizar|to maximise|v
+propagar|to spread, to propagate|v
+reivindicar|to claim, to demand|v
+rescaldo|aftermath (Eur. Pt.)|o
+designar|to designate, to appoint|v
+oxigénio|oxygen (Eur. Pt.)|o
+perspetiva|perspective, outlook (Eur. Pt.)|o
+popularidade|popularity|o
+estética|aesthetics|o
+concedido|granted, awarded|o
+antecessor|predecessor|o
+assentar|to rest (on), to be based (on); to settle|v;v
+deslocação|trip, travel; displacement (Eur. Pt.)|o;o
+digitalização|digitisation; scanning|o;o
+exclusão|exclusion|o
+gradualmente|gradually|o
+ligeiramente|slightly|o
+manipulação|manipulation; handling|o;o
+monitorizar|to monitor (Eur. Pt.)|v
+objecto|object (Eur. Pt.)|o
+racial|racial|o
+reações|reactions|o
+vacinar|to vaccinate|v
+cotidiano|daily, everyday; daily life|o;o
+diâmetro|diameter|o
+processamento|processing|o
+desportivo|sports, sporting (Eur. Pt.)|o
+gravitacional|gravitational|o
+acervo|collection, holdings|o
+enredo|plot|o
+aceitação|acceptance|o
+coerente|coherent, consistent|o
+crónica|chronicle; column (newspaper) (Eur. Pt.)|o;o
+elaborar|to draw up, to prepare, to elaborate|v
+inclusiva|inclusive (fem.)|o
+relevo|relief (terrain); prominence|o;o
+sublinhar|to underline, to stress|v
+estrelado|starring; starry|o;o
+nutriente|nutrient|o
+diagrama|diagram|o
+projetado|projected; designed|o;o
+substituição|replacement, substitution|o
+consolidação|consolidation|o
+controverso|controversial|o
+microscópio|microscope|o
+publicitário|advertising; advertising executive|o;o
+rejeição|rejection|o
+renomear|to rename|v
+sectário|sectarian|o
+telecomunicação|telecommunication|o
+angolano|Angolan|o
+clipe|music video; clip, paperclip|o;o
+córtex|cortex|o
+hectare|hectare|o
+ademais|moreover, besides|o
+favela|favela, shanty town|o
+mor|chief, head (in compounds)|o
+planalto|plateau, highland|o
+algures|somewhere (Eur. Pt.)|o
+biólogo|biologist|o
+calculadora|calculator|o
+hipotenusa|hypotenuse|o
+intuitivo|intuitive|o
+concretização|realisation, achievement|o
+contraste|contrast|o
+diabete|diabetes|o
+electrónico|electronic (Eur. Pt.)|o
+heráldica|heraldry|o
+paridade|parity|o
+persuadir|to persuade|v
+potável|drinkable (água potável: drinking water)|o
+repetidamente|repeatedly|o
+arquitetos|architects|o
+mentalidade|mentality, mindset|o
+propenso|prone, inclined|o
+aviação|aviation|o
+colombiano|Colombian|o
+graduar|to graduate; to grade|v;v
+destrutivo|destructive|o
+direccionar|to direct, to target (Eur. Pt.)|v
+genérico|generic|o
+impunidade|impunity|o
+induzir|to induce; to lead (induzir em erro: to mislead)|v;v
+obsoleto|obsolete|o
+reconciliação|reconciliation|o
+vestuário|clothing, apparel|o
+temática|subject matter, theme|o
+acolhimento|reception, welcome, shelter|o
+eficazmente|effectively|o
+envidar|to make (efforts) (envidar esforços: to spare no effort)|v
+genocídio|genocide|o
+proeminente|prominent|o
+reflete|reflects; you reflect|o;f2s2p
+sódio|sodium|o
+gêneros|kinds, types; genres; genders|o;o;o
+ilustrado|illustrated|o
+galego|Galician|o
+intérprete|interpreter; performer|o;o
+linguística|linguistics|o
+venezuelano|Venezuelan|o
+atribuição|assignment, allocation, attribution|o
+aumentado|increased|o
+benéfico|beneficial|o
+destinar|to earmark, to allocate, to intend (for)|v
+hélio|helium|o
+motivar|to motivate; to cause|v;v
+neural|neural|o
+plenamente|fully|o
+porcento|percent|o
+reprimir|to repress, to suppress|v
+turístico|tourist (adj.)|o
+agraciado|awarded, honoured|o
+monarca|monarch|o
+propulsor|engine, thruster; driving force|o;o
+videoclipe|music video|o
+binário|binary|o
+mídias|media|o
+singular|singular; unique|o;o
+sucessão|succession|o
+antologia|anthology|o
+designer|designer|o
+coletivo|collective; team, group|o;o
+gótico|Gothic|o
+listado|listed|o
+alavancagem|leverage|o
+auxílio|aid, assistance|o
+conceber|to conceive, to design|v
+flexibilidade|flexibility|o
+precário|precarious|o
+reciclagem|recycling; retraining|o;o
+volatilidade|volatility|o
+ativistas|activists|o
+seta|arrow|o
+apelidar|to nickname, to call|v
+convergência|convergence|o
+declive|slope, gradient|o
+enzima|enzyme|o
+extremismo|extremism|o
+gestor|manager|o
+indispensável|indispensable|o
+precoce|early, premature|o
+solucionar|to solve|v
+racismo|racism|o
+redundante|redundant|o
+detrás|behind (detrás de); from behind|o;o
+honorário|honorary; fee (usu. honorários)|o;o
+cerco|siege; encirclement|o;o
+derivado|derived; derivative, by-product|o;o
+guitarrista|guitarist|o
+arquitectura|architecture (Eur. Pt.)|o
+encerramento|closure, closing|o
+enfatizar|to emphasise|v
+ensinamento|teaching, lesson|o
+fundiário|land (adj.), land-ownership|o
+mutuamente|mutually|o
+métrica|metric; metre (poetry)|o;o
+rapper|rapper|o
+nono|ninth|o
+sexualidade|sexuality|o
+vetorial|vector (adj.)|o
+abundância|abundance|o
+membrana|membrane|o
+secção|section (Eur. Pt.)|o
+vírgula|comma; decimal point|o;o
+abastado|wealthy, well-off|o
+assemelhar|to resemble (usu. assemelhar-se a)|v
+demonstrado|demonstrated, shown|o
+descontentamento|discontent|o
+desencorajar|to discourage|v
+diplomata|diplomat|o
+docente|teacher, lecturer; teaching (adj.)|o;o
+fragmentado|fragmented|o
+nigeriano|Nigerian|o
+penal|criminal, penal|o
+preventivo|preventive|o
+provisão|provision, supply|o
+reconstrução|reconstruction|o
+sustentado|sustained, supported|o
+desafiador|challenging|o
+eletrônicos|electronic (pl.); electronics|o;o
+sepultado|buried|o
+hebraico|Hebrew|o
+suplente|substitute, alternate|o
+abundante|abundant|o
+aconselhamento|counselling, advice|o
+desintegração|disintegration|o
+econômicos|economic (pl.)|o
+empreendedorismo|entrepreneurship|o
+equidade|equity, fairness|o
+fragilidade|fragility, weakness|o
+instalado|installed|o
+maciço|massive, large-scale; solid; massif|o;o;o
+reflexão|reflection|o
+relutante|reluctant|o
+tributário|tax (adj.); tributary|o;o
+unilateral|unilateral|o
+acadêmica|academic (fem.)|o
+belga|Belgian|o
+consecutivo|consecutive|o
+descendência|descent; offspring, descendants|o;o
+pavilhão|pavilion; hall, arena|o;o
+paradigma|paradigm|o
+provisório|provisional, temporary|o
+selecionado|selected|o
+telha|roof tile|o
+diagnosticado|diagnosed|o
+peruano|Peruvian|o
+dissuasão|deterrence|o
+húngaro|Hungarian|o
+imposição|imposition|o
+mineira|mining (fem.); from Minas Gerais (fem.)|o;o
+ponderar|to weigh up, to consider|v
+representado|represented|o
+subsequente|subsequent|o
+transatlântico|transatlantic; ocean liner|o;o
+computacional|computational|o
+coordenador|coordinator|o
+ilustrar|to illustrate|v
+incluído|included|o
+simetria|symmetry|o
+circunferência|circumference; circle|o;o
+congruente|congruent|o
+fornecido|supplied, provided|o
+acrescido|increased; added (acrescido de: plus)|o;o
+cláusula|clause|o
+colmatar|to fill (a gap), to bridge (Eur. Pt.)|v
+contrariamente|contrary (to), unlike|o
+detrimento|detriment (em detrimento de: at the expense of)|o
+divergência|divergence, disagreement|o
+efectivo|effective; permanent (staff); workforce (Eur. Pt.)|o;o;o
+geopolítico|geopolitical|o
+inclusivamente|even, including (Eur. Pt.)|o
+inscrito|registered, enrolled; inscribed|o;o
+prematuro|premature|o
+instância|level, authority (em última instância: ultimately); instance (of a court)|o;o
+patriarca|patriarch|o
+plural|plural|o
+reprodução|reproduction; playback|o;o
+streaming|streaming|o
+acadêmico|academic|o
+fabricação|manufacture, manufacturing|o
+filiado|affiliated; member|o;o
+interpretado|interpreted; played, performed|o;o
+colecção|collection (Eur. Pt.)|o
+documentar|to document|v
+aduaneiro|customs (adj.)|o
+alarmante|alarming|o
+ascendente|rising, ascending; ancestor|o;o
+aspiração|aspiration; suction|o;o
+controvérsia|controversy|o
+desastroso|disastrous|o
+encargo|charge, cost; responsibility, burden|o;o
+eventual|possible (not "eventual")|o
+exportar|to export|v
+modernização|modernisation|o
+parteiro|midwife|o
+prolongar|to prolong, to extend|v
+relutância|reluctance|o
+requerente|applicant, claimant|o
+austríaco|Austrian|o
+colónia|colony; cologne (Eur. Pt.)|o;o
+cursar|to study, to take (a course)|v
+adjacente|adjacent|o
+persa|Persian|o
+atualidade|present day; current affairs|o;o
+influenciado|influenced|o
+retângulo|rectangle|o
+visualização|visualisation; view (online)|o;o
+afetam|they affect; you (pl.) affect|f3p;f2s2p
+elétricos|electric (pl.)|o
+presidir|to preside (over), to chair|v
+trio|trio|o
+ultimo|last; latest|o;o
+alargado|extended, enlarged|o
+aparente|apparent|o
+apartheid|apartheid|o
+automação|automation|o
+baiano|from Bahia, Bahian|o
+coleções|collections|o
+colonização|colonisation|o
+contestar|to challenge, to dispute|v
+financiado|financed, funded|o
+hostilidade|hostility|o
+hídrico|water (adj.)|o
+panorama|panorama; overview|o;o
+referido|mentioned, referred to|o
+anarquista|anarchist|o
+conservar|to preserve, to keep|v
+eclesiástico|ecclesiastical; clergyman|o;o
+tradutor|translator|o
+cromossomo|chromosome|o
+seqüência|sequence (pre-reform spelling)|o
+impactar|to impact, to affect|v
+licenciado|graduate; licensed|o;o
+parênteses|parentheses, brackets|o
+homenagear|to honour, to pay tribute to|v
+unitário|unit (adj.); unitary|o;o
+burocracia|bureaucracy|o
+continuidade|continuity|o
+ditador|dictator|o
+documentação|documentation|o
+marginal|marginal; delinquent, criminal|o;o
+mutuário|borrower|o
+mútua|mutual (fem.)|o
+palestino|Palestinian|o
+preservação|preservation|o
+reestruturar|to restructure|v
+valorização|appreciation (in value); valuing|o;o
+vinculativo|binding|o
+árbitro|referee; arbitrator|o;o
+arquitecto|architect (Eur. Pt.)|o
+associar|to associate|v
+cantão|canton|o
+envelhecimento|ageing|o
+geleira|glacier|o
+reciclar|to recycle|v
+chilena|Chilean (fem.)|o
+concluído|concluded, completed|o
+deriva|drift (à deriva: adrift); derives; you derive|o;o;f2s2p
+estrelar|to star (in); to fry (an egg)|v;v
+orbital|orbital|o
+licenciatura|bachelor's degree|o
+modalidade|type, form; sport, event|o;o
+regente|regent; conductor|o;o
+surpreendentemente|surprisingly|o
+acarretar|to entail, to bring about|v
+accionista|shareholder (Eur. Pt.)|o
+acrescentado|added|o
+alavancar|to leverage, to boost|v
+comparável|comparable|o
+construtivo|constructive|o
+cooperativa|cooperative|o
+cívico|civic|o
+detentor|holder|o
+deterioração|deterioration|o
+devastar|to devastate|v
+divisa|foreign currency; motto; border|o;o;o
+educar|to educate; to bring up|v;v
+geneticamente|genetically|o
+implícito|implicit|o
+ineficiente|inefficient|o
+instruído|educated; instructed|o;o
+insulina|insulin|o
+inverso|inverse, reverse|o
+meditação|meditation|o
+medição|measurement|o
+outrora|formerly, once|o
+perspetivas|perspectives, prospects (Eur. Pt.)|o
+remuneração|pay, remuneration|o
+script|script|o
+sigla|acronym, abbreviation|o
+xisto|shale, schist|o
+iniciado|begun, started; initiate|o;o
+diferenciar|to differentiate|v
+geometria|geometry|o
+sensorial|sensory|o
+transmitido|broadcast, transmitted|o
+abade|abbot|o
+designação|designation, name|o
+personalizado|personalised, custom|o
+cêntimo|cent (Eur. Pt.)|o
+desporto|sport (Eur. Pt.)|o
+hierarquia|hierarchy|o
+mol|mole (chemistry unit)|o
+teclado|keyboard|o
+aquém|short of, below (aquém de)|o
+desestabilizar|to destabilise|v
+eleitorado|electorate|o
+emissor|issuer; transmitter; issuing|o;o;o
+estagnar|to stagnate|v
+feedback|feedback|o
+incitar|to incite, to urge|v
+isento|exempt; impartial|o;o
+micro|micro, small; micro- (prefix)|o;o
+partilhado|shared (Eur. Pt.)|o
+pressupor|to presuppose, to assume|v
+queniano|Kenyan|o
+redistribuição|redistribution|o
+residual|residual|o
+socialmente|socially|o
+glicose|glucose|o
+inaugurar|to inaugurate, to open|v
+jurista|jurist, legal expert|o
+televisivo|television (adj.)|o
+configurar|to configure, to set up; to constitute|v;v
+espiral|spiral|o
+reinar|to reign|v
+vinculado|linked, bound|o
+integrado|integrated|o
+paradoxo|paradox|o
+raciocínio|reasoning|o
+auditório|auditorium; audience|o;o
+cromossoma|chromosome (Eur. Pt.)|o
+precursor|precursor, forerunner|o
+determinante|determining, decisive; determinant|o;o
+fertilizante|fertiliser|o
+largamente|widely, largely|o
+reembolso|refund, reimbursement|o
+sediado|based, headquartered|o
+trajectória|trajectory, path (Eur. Pt.)|o
+candidatar|to put forward; (se) to apply, to run (for)|v;v
+divisível|divisible|o
+especificar|to specify|v
+navegador|browser; navigator|o;o
+neurociência|neuroscience|o
+acadêmicos|academic (pl.); academics|o;o
+chileno|Chilean|o
+combatente|combatant, fighter|o
+porcentagem|percentage|o
+multiplicando|multiplying|o
+parisiense|Parisian|o
+assentamento|settlement|o
+contracção|contraction (Eur. Pt.)|o
+cultivo|cultivation, farming|o
+céptico|sceptical; sceptic (Eur. Pt.)|o;o
+internacionalmente|internationally|o
+nulo|null, void; zero|o;o
+obesidade|obesity|o
+polaco|Polish; Pole (Eur. Pt.)|o;o
+prol|(em prol de) in favour of, for the benefit of|o
+proposto|proposed|o
+provir|to come (from), to stem (from)|v
+totalidade|entirety, totality|o
+turbulência|turbulence|o
+metálico|metallic|o
+recorrente|recurring, recurrent|o
+semanal|weekly|o
+oitavo|eighth|o
+figurar|to feature, to appear (in a list); to figure|v;v
+horizontal|horizontal|o
+impressora|printer|o
+análogo|analogous, similar|o
+barragem|dam|o
+coalizão|coalition|o
+desempenhado|performed, carried out; played (a role)|o;o
+empírico|empirical|o
+endividado|indebted, in debt|o
+escalada|escalation; climb, climbing|o;o
+excessivamente|excessively|o
+poluente|polluting; pollutant|o;o
+reafirmar|to reaffirm|v
+realçar|to highlight, to enhance|v
+restritivo|restrictive|o
+transmissível|transmissible, communicable|o
+centenário|centenary; centenarian|o;o
+colocação|placement, position; placing (in a ranking); remark, point made|o;o;o
+introduzido|introduced|o
+originário|originating, native (of)|o
+tridimensional|three-dimensional|o
+deslocamento|displacement, movement; journey, commute|o;o
+conversão|conversion|o
+croata|Croatian|o
+finalidade|purpose, aim|o
+mitologia|mythology|o
+modificação|modification, change|o
+montagem|assembly, setting up; editing (film), montage|o;o
+paterno|paternal, fatherly|o
+adicionalmente|additionally|o
+ajustamento|adjustment|o
+alquimia|alchemy|o
+comparativamente|comparatively|o
+decrescer|to decrease, to decline|v
+desproporcionalmente|disproportionately|o
+difusão|spread, dissemination; broadcasting|o;o
+estabilização|stabilisation|o
+formalmente|formally|o
+formulação|formulation|o
+fronteiriço|border, frontier (adj.)|o
+historial|record, history (Eur. Pt.)|o
+premente|pressing, urgent|o
+selecção|selection; national team (Eur. Pt.)|o;o
+viragem|turn, turning point (Eur. Pt.)|o
+adolescência|adolescence|o
+anunciada|announced|o
+cio|heat (in animals), rut|o
+convocado|summoned, called up; called-up player|o;o
+denominar|to name, to call|v
+memorizar|to memorise|v
+programador|programmer|o
+vegetação|vegetation|o
+comportamental|behavioural|o
+gajo|guy, bloke (Eur. Pt.)|o
+agüento|I endure, I can stand (old spelling)|f1s
+audiovisual|audiovisual|o
+migrar|to migrate|v
+acumulação|accumulation|o
+carácter|character, nature (Eur. Pt.)|o
+condecoração|decoration, medal (honour)|o
+contraproducente|counterproductive|o
+delegação|delegation|o
+desacreditar|to discredit|v
+desfecho|outcome, ending|o
+desproporcional|disproportionate|o
+difundir|to spread, to disseminate; to broadcast|v;v
+diáspora|diaspora|o
+dominado|dominated, controlled|o
+drástico|drastic|o
+evasão|evasion (tax); escape; dropping out (of school)|o;o;o
+globalizar|to globalise|v
+homenageado|honoured; honoree|o;o
+industrializado|industrialised|o
+literacia|literacy (Eur. Pt.)|o
+metano|methane|o
+ofício|trade, craft; official letter|o;o
+paragem|stop (bus, tram); stopping (Eur. Pt.)|o;o
+periferia|outskirts, periphery|o
+perpetuar|to perpetuate|v
+poética|poetics|o
+reeleição|re-election|o
+seguidamente|subsequently, then; in a row|o;o
+tolerância|tolerance|o
+alumínio|aluminium|o
+autocarro|bus (Eur. Pt.)|o
+colono|settler, colonist|o
+franquia|franchise; deductible (insurance); allowance (baggage)|o;o;o
+indefinido|indefinite, undefined|o
+protão|proton (Eur. Pt.)|o
+capacitor|capacitor|o
+mineração|mining|o
+residencial|residential|o
+dramaturgo|playwright, dramatist|o
+repertório|repertoire|o
+socialismo|socialism|o
+anatomia|anatomy|o
+célebre|famous, celebrated|o
+pianista|pianist|o
+radicalmente|radically|o
+simular|to simulate; to feign|v;v
+abandono|abandonment, neglect; dropping out|o;o
+alegadamente|allegedly (Eur. Pt.)|o
+capacitação|training, capacity-building|o
+coordenada|coordinate|o
+deteriorar|to deteriorate, to worsen|v
+devastação|devastation|o
+enfraquecimento|weakening|o
+fictício|fictitious, fictional|o
+homossexualidade|homosexuality|o
+logística|logistics|o
+prestígio|prestige|o
+protagonizado|starring, led (by)|o
+reactor|reactor (Eur. Pt.)|o
+referente|relating to, concerning; referent|o;o
+supervisionar|to supervise|v
+suprimir|to suppress, to abolish; to delete|v;v
+cúpula|dome; leadership, top brass; summit (meeting)|o;o;o
+habitar|to inhabit, to live in|v
+adotado|adopted|o
+detecção|detection|o
+versus|versus, against|o
+declarado|declared; open, avowed|o;o
+decorativo|decorative|o
+diferir|to differ; to defer, to postpone|v;v
+minissérie|miniseries|o
+ícone|icon|o
+embarcação|vessel, boat|o
+rotação|rotation|o
+sigma|sigma (Greek letter)|o
+subtração|subtraction|o
+aparecimento|appearance, emergence|o
+assente|based (on), resting (on); settled (Eur. Pt.)|o;o
+autoritarismo|authoritarianism|o
+boliviano|Bolivian|o
+contratação|hiring; signing (of a player)|o;o
+desarmamento|disarmament|o
+dinâmico|dynamic|o
+duramente|harshly, hard|o
+encorajador|encouraging|o
+endémico|endemic (Eur. Pt.)|o
+infeções|infections (Eur. Pt.)|o
+interacção|interaction (Eur. Pt.)|o
+ironicamente|ironically|o
+metrópole|metropolis; mother country|o;o
+norueguês|Norwegian|o
+obrigacionista|bond (market); bondholder (Eur. Pt.)|o;o
+polarização|polarisation|o
+renovado|renewed; renovated|o;o
+aminoácido|amino acid|o
+desacelerar|to slow down, to decelerate|v
+perpendicular|perpendicular|o
+proposição|proposition|o
+quadrante|quadrant|o
+reeleito|re-elected|o
+atuando|acting, performing, operating|o
+capitalista|capitalist|o
+consagrado|acclaimed, established; consecrated|o;o
+foz|mouth (of a river)|o
+surgimento|emergence, rise|o
+adicionado|added|o
+ciclismo|cycling|o
+demolido|demolished|o
+encolher|to shrink; to shrug (shoulders)|v;v
+primata|primate|o
+cuidador|carer, caregiver|o
+evolutivo|evolutionary|o
+vácuo|vacuum|o
+advertir|to warn, to caution|v
+afetados|affected (pl.)|o
+atenuação|attenuation, mitigation|o
+bíblico|biblical|o
+comunismo|communism|o
+consecução|attainment, achievement|o
+degradar|to degrade|v
+desenrolar|to unfold, to unroll; course (of events)|v;o
+dinamismo|dynamism|o
+financiador|funder, financier|o
+higiene|hygiene|o
+implantação|implementation, establishment; implantation|o;o
+implementado|implemented|o
+internamente|internally|o
+normalidade|normality|o
+numerário|cash, currency|o
+proceder|to proceed; to carry out; to come from (proceder de)|v;v;v
+rodoviário|road, highway (adj.)|o
+sao|are; you (pl.) are|f3s;f2s2p
+transações|transactions|o
+verba|funds, budget allocation|o
+analogia|analogy|o
+coletivamente|collectively|o
+elaboração|preparation, drafting, development|o
+gradiente|gradient|o
+normando|Norman|o
+noutro|in another (em+outro)|o
+obtido|obtained|o
+perceção|perception (Eur. Pt.)|o
+portátil|portable; laptop|o;o
+selecionar|to select, to choose|v
+gafanhoto|grasshopper, locust|o
+hemisfério|hemisphere|o
+moradia|dwelling, housing; house (Eur. Pt.)|o;o
+narrar|to narrate|v
+repetição|repetition|o
+traumático|traumatic|o
+atrito|friction|o
+rodear|to surround|v
+acórdão|court ruling, judgment|o
+afastamento|removal (from office), leave; distancing|o;o
+alegado|alleged, claimed|o
+aptidão|aptitude, ability|o
+assolado|devastated, ravaged|o
+auditivo|auditory, hearing (adj.)|o
+centralizado|centralised|o
+continuação|continuation|o
+dissolvido|dissolved|o
+emigrar|to emigrate|v
+erosão|erosion|o
+firmemente|firmly|o
+fracção|fraction (Eur. Pt.)|o
+fértil|fertile|o
+hardware|hardware|o
+indignação|indignation, outrage|o
+justificação|justification|o
+milícia|militia|o
+modelar|to model, to shape|v
+monumental|monumental|o
+odor|odour, smell|o
+plausível|plausible|o
+predominante|predominant, prevailing|o
+prometedor|promising (Eur. Pt.)|o
+prudente|prudent, careful|o
+qualificação|qualification; skill level|o;o
+quotidiano|everyday, daily; daily life (Eur. Pt.)|o;o
+reformista|reformist|o
+respetivos|respective (m. pl.) (Eur. Pt.)|o
+rivalidade|rivalry|o
+seguramente|surely, certainly; safely|o;o
+travesti|transvestite; trans woman|o;o
+vanguarda|vanguard, avant-garde|o
+vicioso|vicious (circle); depraved|o;o
+adotou|adopted; you adopted|o;f2s2p
+binomial|binomial|o
+agüentar|to endure, to put up with (old spelling)|v
+fortificação|fortification|o
+aresta|edge (of a solid)|o
+compilação|compilation|o
+doutoramento|doctorate, PhD (Eur. Pt.)|o
+fauna|fauna|o
+legislatura|legislative term; legislature|o;o
+multiplicado|multiplied|o
+premissa|premise|o
+privatização|privatisation|o
+projeção|projection|o
+apelidado|nicknamed, dubbed|o
+catalão|Catalan|o
+diária|daily rate (hotel), day's pay|o
+organizador|organiser|o
+terramoto|earthquake (Eur. Pt.)|o
+actuar|to act, to operate, to perform (Eur. Pt.)|v
+alimentado|fed; powered|o;o
+burocrático|bureaucratic|o
+carência|lack, shortage; need|o;o
+desafiante|challenging; challenger|o;o
+diversificação|diversification|o
+estagnado|stagnant|o
+exacerbar|to exacerbate|v
+explícito|explicit|o
+fertilidade|fertility|o
+fixação|fixation, obsession; fixing, setting|o;o
+flagrante|blatant, flagrant; caught in the act|o;o
+fundamento|basis, grounds|o
+graduado|graduate; graded|o;o
+hegemonia|hegemony|o
+imperfeito|imperfect|o
+inquirir|to inquire, to question|v
+insuficiência|insufficiency, shortage; failure (of an organ)|o;o
+mitigar|to mitigate|v
+neoliberal|neoliberal|o
+neutralidade|neutrality|o
+optimismo|optimism (Eur. Pt.)|o
+participado|participated (in), taken part in|o
+prevalência|prevalence|o
+reequilíbrio|rebalancing|o
+saldo|balance (of an account); toll, outcome|o;o
+sublinha|underlines, stresses; you underline|o;f2s2p
+totalizar|to total, to add up to|v
+transformacional|transformational|o
+aliar|to ally, to combine|v
+botânico|botanical; botanist|o;o
+engenho|ingenuity; device, contraption; sugar mill|o;o;o
+novel|fledgling, new, inexperienced (not "novel")|o
+paulistano|of São Paulo (city); person from São Paulo|o;o
+remonta|dates back; you date back (remontar a)|o;f2s2p
+aspetos|aspects (Eur. Pt.)|o
+bombordo|port (side of a ship)|o
+futebolista|footballer|o
+colesterol|cholesterol|o
+realizador|film director (Eur. Pt.); maker, achiever|o;o
+anexo|annex; attachment; attached|o;o;o
+culminar|to culminate|v
+décima|tenth (fem.); tenth part|o;o
+etnia|ethnic group|o
+gravura|engraving, print; illustration|o;o
+oceânico|oceanic|o
+prover|to provide, to supply|v
+saga|saga|o
+simplicidade|simplicity|o
+textura|texture|o
+activamente|actively (Eur. Pt.)|o
+adaptado|adapted|o
+afegão|Afghan|o
+assassínio|murder, assassination (Eur. Pt.)|o
+bilionário|billionaire|o
+comemorativo|commemorative|o
+deliberado|deliberate; decided|o;o
+divindade|deity, divinity|o
+exponencial|exponential|o
+facção|faction; gang (criminal)|o;o
+formular|to formulate|v
+inacção|inaction (Eur. Pt.)|o
+insecto|insect (Eur. Pt.)|o
+intensificação|intensification|o
+negociador|negotiator|o
+oriundo|originating (from), native (of)|o
+proclamar|to proclaim|v
+prossecução|pursuit (of a goal) (Eur. Pt.)|o
+representativo|representative|o
+simbolizar|to symbolise|v
+elíptica|elliptical (fem.); elliptical trainer|o;o
+exilado|exiled; exile (person)|o;o
+gráfica|print shop, printer's; graphics|o;o
+rótulo|label|o
+arbitrário|arbitrary|o
+compartilhamento|sharing|o
+logaritmo|logarithm|o
+monitorar|to monitor|v
+otimismo|optimism|o
+comarca|judicial district, county|o
+desembarcar|to disembark, to land|v
+mensal|monthly|o
+mural|mural; noticeboard|o;o
+adjunto|deputy, assistant; adjunct|o;o
+antiderivada|antiderivative|o
+asiática|Asian (fem.)|o
+atrocidade|atrocity|o
+brando|mild, gentle, soft|o
+colidir|to collide|v
+comprovado|proven, confirmed|o
+contactar|to contact (Eur. Pt.)|v
+contradição|contradiction|o
+derivativo|derivative (financial)|o
+diminuído|diminished, reduced|o
+distribuído|distributed|o
+estaminal|stem (cell) (Eur. Pt.)|o
+excepto|except (Eur. Pt.)|o
+fechamento|closing, closure|o
+histograma|histogram|o
+indubitavelmente|undoubtedly|o
+inovar|to innovate|v
+insular|insular, island (adj.)|o
+minoritário|minority (adj.)|o
+mitigação|mitigation|o
+nocivo|harmful|o
+ocorrência|occurrence; incident|o;o
+planetário|planetary; planetarium|o;o
+presentemente|at present, currently|o
+qualificar|to qualify; to describe (as)|v;v
+reter|to retain, to hold back|v
+têxtil|textile|o
+atletismo|athletics, track and field|o
+codificar|to encode, to codify|v
+cúbico|cubic|o
+eletrolíticos|electrolytic (pl.)|o
+inversa|inverse; reverse (fem.)|o;o
+mediana|median; average, medium (fem.)|o;o
+mármore|marble|o
+replicar|to replicate; to retort, to reply|v;v
+biográfico|biographical|o
+filtrar|to filter|v
+mapear|to map|v
+popularmente|popularly|o
+sugerido|suggested|o
+traçado|layout, route, outline|o
+zumbido|buzzing, humming; ringing (in the ears)|o;o
+alquimista|alchemist|o
+ascendência|ancestry, descent; ascendancy|o;o
+nascente|spring, source (of a river); rising (sun)|o;o
+seções|sections|o
+slogan|slogan|o
+aritmética|arithmetic|o
+cana|cane; sugar cane|o;o
+continuamente|continuously|o
+smartphone|smartphone|o
+acessibilidade|accessibility|o
+albergar|to house, to shelter|v
+automatização|automation|o
+comentador|commentator (Eur. Pt.)|o
+condução|driving; conduction|o;o
+conectividade|connectivity|o
+contributo|contribution (Eur. Pt.)|o
+desaceleração|slowdown, deceleration|o
+desenfreado|unbridled, rampant|o
+desvalorizar|to devalue; to downplay|v;v
+disseminação|dissemination, spread|o
+empenho|commitment, effort|o
+enriquecer|to enrich; to get rich|v;v
+evitado|avoided|o
+explicitamente|explicitly|o
+fragmentação|fragmentation|o
+ilícito|illicit, unlawful|o
+incidência|incidence|o
+inequívoco|unequivocal|o
+inerente|inherent|o
+leque|range, spread (of options); fan|o;o
+litígio|litigation, dispute|o
+massivo|massive, mass (adj.)|o
+premiação|awards (ceremony); awarding|o;o
+proteccionismo|protectionism (Eur. Pt.)|o
+psi|psi (Greek letter)|o
+respetivas|respective (f. pl.) (Eur. Pt.)|o
+sistemática|systematics; systematic (fem.)|o;o
+subsidiar|to subsidise|v
+transnacional|transnational|o
+tsunami|tsunami|o
+virtuoso|virtuous; virtuoso|o;o
+articulação|joint (anatomy); articulation, coordination|o;o
+bits|bits (computing)|o
+elevação|elevation, rise|o
+atendimento|service, customer service; care|o;o
+diagonal|diagonal|o
+emblema|emblem, badge|o
+frações|fractions|o
+funcionalidade|functionality, feature|o
+mos|them to me, it to me (me+os) (Eur. Pt.)|o
+verbal|verbal|o
+anexado|attached; annexed|o;o
+aplicado|applied; diligent|o;o
+creditado|credited|o
+evangélico|evangelical|o
+projetados|projected; designed (pl.)|o;o
+visibilidade|visibility|o
+alferes|second lieutenant, ensign|o
+arqueólogo|archaeologist|o
+arquipélago|archipelago|o
+criticado|criticised|o
+denotar|to denote|v
+numérico|numerical|o
+popa|stern (of a ship)|o
+pseudônimo|pseudonym|o
+sociólogo|sociologist|o
+vogal|vowel; board member|o;o
+vôlei|volleyball|o
+aleatoriamente|randomly|o
+alfabetização|literacy, teaching to read|o
+angariar|to raise (funds), to attract|v
+budista|Buddhist|o
+contabilizar|to count, to tally; to record (in accounts)|v;v
+curiosamente|curiously, interestingly|o
+distorcer|to distort|v
+distorção|distortion|o
+emissário|emissary|o
+gerido|managed|o
+iraquiano|Iraqi|o
+neoclássico|neoclassical|o
+obtenção|obtaining, acquisition|o
+organizacional|organisational|o
+passivo|passive; liabilities (accounting)|o;o
+redefinir|to redefine|v
+relevância|relevance|o
+retalho|scrap, remnant (of fabric); retail (Eur. Pt.)|o;o
+viabilidade|viability, feasibility|o
+vindouro|coming, future|o
+volátil|volatile|o
+atacante|attacker; striker (football)|o;o
+espinhal|spinal|o
+infectar|to infect|v
+magistrado|magistrate|o
+preditor|predictor|o
+remoção|removal|o
+sitiar|to besiege|v
+aguar|to water (plants); to dilute|v;v
+bacharel|bachelor (degree holder)|o
+destacado|prominent, outstanding; posted, detached|o;o
+dispersar|to disperse, to scatter|v
+hospedeiro|host (biology)|o
+realismo|realism|o
+sétima|seventh (fem.)|o
+bacteriano|bacterial|o
+dantes|formerly, in the past|o
+incorretamente|incorrectly|o
+pólio|polio|o
+agro|agribusiness, farming sector|o
+arduamente|arduously, hard|o
+atractivo|attractive; appeal (Eur. Pt.)|o;o
+decréscimo|decrease, decline|o
+estereótipo|stereotype|o
+estreitamente|closely, narrowly|o
+finlandês|Finnish|o
+flagelo|scourge; whip|o;o
+indesejado|unwanted|o
+ineficiência|inefficiency|o
+infligir|to inflict|v
+irreversível|irreversible|o
+mortífero|deadly, lethal|o
+noventa|ninety|o
+oportuno|timely, opportune|o
+renascentista|Renaissance (adj.)|o
+retina|retina|o
+tardio|late, belated|o
+urânio|uranium|o
+videogames|video games|o
+ético|ethical|o
+camião|lorry, truck (Eur. Pt.)|o
+cloro|chlorine|o
+setenta|seventy|o
+simbolismo|symbolism|o
+agrupar|to group|v
+autoral|author's, authorial (e.g. copyright)|o
+compacto|compact|o
+desmatamento|deforestation|o
+franciscano|Franciscan|o
+pedestre|pedestrian|o
+reinventar|to reinvent|v
+rito|rite|o
+subconjunto|subset|o
+adquirido|acquired|o
+ativismo|activism|o
+colunista|columnist|o
+colônias|colonies|o
+evolucionário|evolutionary|o
+sonar|sonar|o
+viés|bias; bias (diagonal cut)|o;o
+característico|characteristic, typical|o
+habitado|inhabited|o
+hipnose|hypnosis|o
+infinitamente|infinitely|o
+tipicamente|typically|o
+abolir|to abolish|v
+agravamento|worsening, aggravation|o
+aperfeiçoar|to perfect, to improve|v
+catalisador|catalyst; catalytic converter|o;o
+contraditório|contradictory|o
+contágio|contagion, infection|o
+decrescente|decreasing, descending|o
+descentralizado|decentralised|o
+descontrolado|out of control, uncontrolled|o
+desmantelar|to dismantle|v
+destinatário|recipient, addressee|o
+empoderamento|empowerment|o
+empreendimento|venture, enterprise; development (real estate)|o;o
+fotográfico|photographic|o
+gerenciar|to manage|v
+ignorado|ignored; unknown|o;o
+insistência|insistence|o
+intencionado|intentioned (bem/mal intencionado)|o
+interceptação|interception|o
+interminável|endless, interminable|o
+mangar|to mock, to make fun of (mangar de)|v
+marcante|striking, memorable|o
+neurônio|neuron|o
+percussão|percussion|o
+povoação|settlement, village; settling|o;o
+projetada|projected; designed (fem.)|o;o
+projetamos|we project, we design; we projected|f1p;f1p
+rapidez|speed, quickness|o
+reger|to govern, to rule; to conduct (music)|v;v
+renegociação|renegotiation|o
+soprano|soprano|o
+uruguaio|Uruguayan|o
+cônsul|consul|o
+educador|educator|o
+gaúcho|from Rio Grande do Sul; gaucho|o;o
+geométrico|geometric|o
+matricular|to enrol, to register|v
+maxilar|jaw, jawbone|o
+noutra|in another (em+outra)|o
+prefácio|preface|o
+regência|regency; conducting (music)|o;o
+relatado|reported, recounted|o
+tranqüilo|calm, quiet (old spelling)|o
+tremenda|tremendous (fem.)|o
+afresco|fresco|o
+instrumental|instrumental|o
+astrônomos|astronomers|o
+celebrado|celebrated; concluded (contract, agreement)|o;o
+especializar|to specialise|v
+instantaneamente|instantly|o
+malha|mesh, network; knitwear, jersey|o;o
+polêmica|controversy|o
+trilogia|trilogy|o
+tímpano|eardrum; timpani|o;o
+dissolução|dissolution|o
+frade|friar, monk|o
+funcional|functional|o
+génio|genius; temper (Eur. Pt.)|o;o
+orador|speaker, orator|o
+pensador|thinker|o
+proclamação|proclamation|o
+prótese|prosthesis|o
+recriar|to recreate|v
+término|end, termination|o
+alternar|to alternate|v
+bolsista|scholarship holder, grant holder|o
+burocrata|bureaucrat|o
+capitalizar|to capitalise|v
+coesão|cohesion|o
+concertar|to arrange, to agree on (not consertar, "to fix")|v
+conjuntamente|jointly|o
+defendido|defended; argued|o;o
+desacordo|disagreement|o
+dotado|endowed, gifted|o
+empreender|to undertake; to start a business|v;v
+estirpe|strain (biology); lineage|o;o
+igualitário|egalitarian|o
+instar|to urge|v
+islamista|Islamist|o
+marxista|Marxist|o
+matrícula|enrolment; registration (vehicle)|o;o
+mútuo|mutual|o
+periférico|peripheral|o
+persistência|persistence|o
+pessimista|pessimistic; pessimist|o;o
+prioritário|priority (adj.)|o
+seguimento|follow-up, continuation|o
+serie|series|o
+sertanejo|of the sertão (backlands); Brazilian country music|o;o
+severamente|severely|o
+sufrágio|suffrage, vote|o
+superpotência|superpower|o
+tangível|tangible|o
+tecnocrata|technocrat|o
+testagem|testing|o
+todavia|however, yet|o
+vibrante|vibrant|o
+aforar|to lease (land)|v
+agrário|agrarian|o
+alterado|altered, changed; upset|o;o
+ampliação|expansion, enlargement|o
+arquivamento|filing; dismissal (of a case)|o;o
+ativamente|actively|o
+autista|autistic|o
+autônoma|autonomous; self-employed (fem.)|o;o
+blindado|armoured; bulletproof|o;o
+carboidratos|carbohydrates|o
+compartilhado|shared|o
+dopamina|dopamine|o
+duo|duo|o
+estigma|stigma|o
+heurística|heuristic|o
+individualmente|individually|o
+neerlandês|Dutch|o
+obsolescência|obsolescence|o
+ordenação|ordering, sorting; ordination|o;o
+paródia|parody|o
+peregrino|pilgrim|o
+protagonizar|to star in; to lead, to be at the centre of|v;v
+renúncia|resignation; renunciation|o;o
+sucessivo|successive|o
+teológico|theological|o
+carnavalesco|carnival (adj.)|o
+ficheiro|file (computer) (Eur. Pt.)|o
+freqüência|frequency (old spelling)|o
+israelense|Israeli|o
+literal|literal|o
+orgânica|organic (fem.)|o
+certificação|certification|o
+encomendado|ordered, commissioned|o
+ilustrador|illustrator|o
+simétrico|symmetrical|o
+subdivisão|subdivision|o
+transformado|transformed|o
+aclamado|acclaimed|o
+acomodar|to accommodate|v
+alastrar|to spread|v
+antimicrobiana|antimicrobial (fem.)|o
+aprovisionamento|supply, provisioning|o
+arável|arable|o
+baterista|drummer|o
+brevemente|shortly, soon; briefly|o;o
+cacau|cocoa, cacao|o
+cibernética|cybernetics|o
+contornar|to get around, to bypass|v
+democraticamente|democratically|o
+desbloquear|to unblock, to unlock|v
+descarbonização|decarbonisation|o
+diretrizes|guidelines|o
+discoteca|nightclub, disco; record collection|o;o
+disponibilização|provision, making available|o
+diversificar|to diversify|v
+divulgado|disclosed, released, publicised|o
+duvidoso|doubtful, dubious|o
+enfrentado|faced, confronted|o
+enquadrar|to frame; to fit, to classify|v;v
+exacto|exact (Eur. Pt.)|o
+financeiramente|financially|o
+implantar|to implement, to establish; to implant|v;v
+intencional|intentional|o
+isenção|exemption|o
+nutricional|nutritional|o
+originado|originated, caused|o
+paralisia|paralysis|o
+pinyin|pinyin (Chinese romanisation)|o
+rentável|profitable|o
+retaliação|retaliation|o
+revogar|to revoke, to repeal|v
+revolucionar|to revolutionise|v
+seguradora|insurance company, insurer|o
+sensibilização|awareness-raising|o
+teor|content, level (e.g. alcohol); tenor, gist|o;o
+ósseo|bone (adj.), osseous|o
+busto|bust|o
+desconforto|discomfort|o
+dezoito|eighteen|o
+estudado|studied|o
+interino|interim, acting|o
+milímetro|millimetre|o
+processador|processor|o
+românico|Romanesque; Romance (languages)|o;o
+trilhão|trillion (10^12)|o
+vocabulário|vocabulary|o
+condecorado|decorated (with an honour)|o
+desenhado|drawn; designed|o;o
+filial|branch (of a company), subsidiary; filial|o;o
+informática|computing, IT|o
+levantamento|survey; lifting, raising; uprising|o;o;o
+resenha|review (of a book, film); summary|o;o
+romeno|Romanian|o
+aprimorar|to improve, to refine|v
+aviador|aviator, airman|o
+baixista|bassist; bearish (market)|o;o
+espectáculo|show, spectacle (Eur. Pt.)|o
+flutuante|floating|o
+levedura|yeast|o
+modernismo|modernism|o
+nitrogênio|nitrogen|o
+parábola|parable; parabola|o;o
+prefixo|prefix|o
+pólen|pollen|o
+subitamente|suddenly|o
+éter|ether|o
+clérigo|cleric, clergyman|o
+diagnosticar|to diagnose|v
+edificação|building, construction; edification|o;o
+homônimo|namesake; homonym|o;o
+licenciar|to license; to give leave|v;v
+predominantemente|predominantly|o
+viral|viral|o
+aterrar|to land (aircraft) (Eur. Pt.); to fill with earth|v;v
+biotecnologia|biotechnology|o
+bipartidário|bipartisan; two-party|o;o
+ciclone|cyclone|o
+consagrar|to consecrate; to establish, to enshrine; to make famous|v;v;v
+cronista|columnist, chronicler|o
+cíclico|cyclical|o
+débil|weak, feeble|o
+enriquecimento|enrichment|o
+frutose|fructose|o
+impacte|impact (Eur. Pt.)|o
+indevido|undue, improper|o
+keynesiano|Keynesian|o
+lazer|leisure|o
+magnata|magnate, tycoon|o
+maiúsculo|capital, upper-case (letter)|o
+nutritivo|nutritious|o
+perigosamente|dangerously|o
+pretexto|pretext|o
+provocado|caused, provoked|o
+ramal|branch line; (telephone) extension|o;o
+reformular|to reformulate, to rework|v
+rendibilidade|profitability (Eur. Pt.)|o
+revelador|revealing, telling|o
+reversão|reversal, reversion|o
+signatário|signatory|o
+triplicar|to triple|v
+unificado|unified|o
+ímpar|odd (number); unmatched, unique|o;o
+espessura|thickness|o
+transmutação|transmutation|o
+àqueles|to those (a+aqueles)|v
+aglomerado|cluster, agglomeration; chipboard|o;o
+arquitetônico|architectural|o
+colmeia|beehive|o
+crônica|chronicle; newspaper column, short prose piece|o;o
+encíclica|encyclical|o
+espetáculos|shows, performances|o
+luterano|Lutheran|o
+opioides|opioids|o
+patrono|patron; patron saint|o;o
+pintado|painted|o
+polímero|polymer|o
+romancista|novelist|o
+alfabeto|alphabet|o
+arrecadar|to collect (taxes), to raise (funds)|v
+astronomia|astronomy|o
+catalogar|to catalogue|v
+geológico|geological|o
+libanês|Lebanese|o
+logotipo|logo|o
+mamã|mum, mummy (Eur. Pt.)|o
+prosa|prose; chat|o;o
+tensor|tensor|o
+unificação|unification|o
+autônomos|autonomous; self-employed (pl.)|o;o
+blogs|blogs|o
+esquizofrenia|schizophrenia|o
+igualar|to equal, to match; to level|v;v
+inflexão|inflection; turning point|o;o
+mongol|Mongolian|o
+ovação|ovation|o
+padroeiro|patron saint|o
+patrocínio|sponsorship|o
+quadrática|quadratic (fem.)|o
+quimioterapia|chemotherapy|o
+verbo|verb|o
+vibrar|to vibrate; to thrill|v;v
+abdicar|to abdicate|v
+acentuadamente|markedly, sharply|o
+acionistas|shareholders|o
+ajustado|adjusted; tight-fitting|o;o
+apóstolo|apostle|o
+aquando|at the time of, when (aquando de) (Eur. Pt.)|o
+area|area|o
+arranque|start, start-up; launch|o;o
+aspirar|to aspire; to inhale; to vacuum|v;v;v
+atómico|atomic (Eur. Pt.)|o
+blockchain|blockchain|o
+cibernético|cyber, cybernetic|o
+combustão|combustion|o
+comercialização|marketing, sale|o
+comparativo|comparative|o
+conduzido|conducted, led; driven|o;o
+desregulamentação|deregulation|o
+empenhar|to commit, to strive (empenhar-se); to pawn|v;v
+especulativo|speculative|o
+experimentação|experimentation|o
+externalidades|externalities|o
+hackers|hackers|o
+holograma|hologram|o
+insígnia|insignia, badge|o
+migratório|migratory|o
+moralidade|morality|o
+míope|short-sighted, myopic|o
+neoliberalismo|neoliberalism|o
+orientado|oriented; supervised|o;o
+poluir|to pollute|v
+polvo|octopus|o
+projecção|projection (Eur. Pt.)|o
+projetando|projecting, designing|o
+promulgar|to promulgate, to enact|v
+prontidão|readiness|o
+propriamente|properly, strictly speaking|o
+proteccionista|protectionist (Eur. Pt.)|o
+refrear|to curb, to restrain|v
+reunificação|reunification|o
+separatista|separatist|o
+sintetizar|to synthesise; to summarise|v;v
+sobrepor|to superimpose, to overlap|v
+suplementar|supplementary; to supplement|o;v
+supressão|suppression, abolition|o
+telefónico|telephone (adj.) (Eur. Pt.)|o
+telemedicina|telemedicine|o
+árduo|arduous|o
+antropólogo|anthropologist|o
+cerimónia|ceremony (Eur. Pt.)|o
+cédula|banknote; ballot paper; certificate|o;o;o
+enlace|marriage, union; link|o;o
+especialização|specialisation|o
+falecimento|death, passing|o
+paroquial|parish (adj.), parochial|o
+utilitarismo|utilitarianism|o
+barroca|baroque (fem.)|o
+coroado|crowned|o
+curador|curator; guardian (legal)|o;o
+elétricas|electric, electrical (f. pl.)|o
+neurológico|neurological|o
+pormenor|detail|o
+previamente|previously, beforehand|o
+tecla|key (on a keyboard)|o
+teórica|theoretical (fem.)|o
+ótico|optical|o
+assobio|whistle, whistling|o
+erudito|learned, scholarly; scholar|o;o
+folclore|folklore|o
+gruta|cave, grotto|o
+humildade|humility|o
+microscópico|microscopic|o
+ogiva|warhead; ogive|o;o
+acompanhamento|monitoring, follow-up; accompaniment; side dish|o;o;o
+afetadas|affected (f. pl.)|o
+amplificar|to amplify|v
+assolar|to devastate, to ravage|v
+brutalidade|brutality|o
+cabaz|basket, hamper (Eur. Pt.)|o
+consequente|consistent; consequent|o;o
+desanimador|discouraging, disheartening|o
+devoto|devout; devotee|o;o
+diarreia|diarrhoea|o
+discrepância|discrepancy|o
+endereçar|to address|v
+escravatura|slavery (Eur. Pt.)|o
+escrutínio|scrutiny; vote count|o;o
+excedentário|surplus (adj.) (Eur. Pt.)|o
+flutuação|fluctuation|o
+fundamentado|well-founded, reasoned|o
+fundamentalista|fundamentalist|o
+governanta|housekeeper; governess|o;o
+hidrocarboneto|hydrocarbon|o
+impulsionado|driven, boosted|o
+intimidação|intimidation|o
+intuito|aim, purpose|o
+laureado|laureate; award-winning|o;o
+ligeiro|light, slight; quick|o;o
+matematicamente|mathematically|o
+notavelmente|notably, remarkably|o
+presbítero|presbyter, elder|o
+proteções|protections|o
+provocação|provocation|o
+ratificar|to ratify|v
+reembolsar|to reimburse, to refund|v
+revitalizar|to revitalise|v
+seriedade|seriousness|o
+suite|suite (hotel room; music) (Eur. Pt.)|o
+teólogo|theologian|o
+ímpeto|impetus, momentum|o
+cegueira|blindness|o
+clero|clergy|o
+coletamos|we collect; we collected|f1p;f1p
+documental|documentary (adj.)|o
+instituir|to institute, to establish|v
+térmico|thermal|o
+advocacia|law practice, legal profession; advocacy|o;o
+eletrodos|electrodes|o
+emitido|issued; emitted|o;o
+ensinado|taught|o
+eslavo|Slavic|o
+evocar|to evoke|v
+galão|gallon; stripe, braid (military)|o;o
+gerenciamento|management|o
+guerrilheiro|guerrilla (fighter)|o
+implantado|implemented, established; implanted|o;o
+jornalístico|journalistic|o
+luminoso|luminous, bright|o
+modernista|modernist|o
+nêutrons|neutrons|o
+pronúncia|pronunciation|o
+silvestre|wild|o
+ultravioleta|ultraviolet|o
+varíola|smallpox|o
+coletânea|anthology, compilation|o
+metamorfose|metamorphosis|o
+polinomial|polynomial|o
+transversal|transverse, cross-cutting|o
+ultramarino|overseas; ultramarine|o;o
+afluente|tributary|o
+balada|ballad; party, night out|o;o
+consorte|consort|o
+humanista|humanist|o
+ilimitado|unlimited|o
+intercâmbio|exchange (cultural, student)|o
+paralelamente|in parallel, at the same time|o
+preguiça|laziness; sloth (animal)|o;o
+pseudónimo|pseudonym (Eur. Pt.)|o
+titulado|titled; qualified (holding a degree)|o;o
+abate|slaughter; felling (of trees); shooting down (of aircraft)|o;o;o
+acentuar|to accentuate, to stress|v
+adoptado|adopted (Eur. Pt.)|o
+alinhamento|alignment|o
+anticorpo|antibody|o
+atualização|update, updating|o
+autocrático|autocratic|o
+aversão|aversion|o
+azulejo|glazed tile|o
+catalisar|to catalyse|v
+complacência|complacency; indulgence|o;o
+consistentemente|consistently|o
+consórcio|consortium|o
+contradizer|to contradict|v
+cálcio|calcium|o
+democratização|democratisation|o
+desalojar|to evict, to dislodge; to displace|v;v
+distorcido|distorted|o
+dramaticamente|dramatically|o
+emérito|emeritus|o
+expansionista|expansionist|o
+exprimir|to express|v
+fabrico|manufacture, production (Eur. Pt.)|o
+facilitação|facilitation|o
+filantrópico|philanthropic|o
+hidroeléctrico|hydroelectric (Eur. Pt.)|o
+inalterado|unchanged|o
+incompatível|incompatible|o
+indiferença|indifference|o
+inexistente|non-existent|o
+inversão|inversion, reversal|o
+lecionou|taught; you taught|o;f2s2p
+mediático|media (adj.), high-profile (Eur. Pt.)|o
+minirredes|mini-grids|o
+minério|ore|o
+opressão|oppression|o
+origami|origami|o
+podcast|podcast|o
+poluidor|polluting; polluter|o;o
+precipitação|precipitation; haste|o;o
+presidido|chaired, presided over|o
+rastreio|screening (medical); tracking|o;o
+reatores|reactors|o
+refletem|reflect; you (pl.) reflect|o;f2s2p
+reforçado|reinforced, strengthened|o
+substrato|substrate|o
+travessia|crossing|o
+visionário|visionary|o
+voçê|you|f2s2p
+óbito|death (formal)|o
+aspa|quotation mark (usu. aspas)|o
+assimilar|to assimilate|v
+cone|cone|o
+oferecido|offered|o
+sueca|Swedish (fem.)|o
+workshop|workshop|o
+amistoso|friendly; friendly (match)|o;o
+conserva|preserve, canned food; keeps, preserves; you keep|o;o;f2s2p
+esmaltado|enamelled, glazed|o
+espaçonave|spaceship|o
+feixe|beam (of light); bundle|o;o
+hereditário|hereditary|o
+lixar|to sand|v
+minúscula|lower-case letter; tiny (fem.)|o;o
+orbitar|to orbit|v
+póstumo|posthumous|o
+selecionados|selected (pl.)|o
+semifinal|semi-final|o
+transexual|transsexual|o
+abreviado|abbreviated, shortened|o
+coletando|collecting|o
+crônicas|chronicles; newspaper columns|o;o
+gramática|grammar|o
+junção|junction, joining|o
+promocional|promotional|o
+recinto|enclosure, grounds, venue|o
+veterinária|veterinary medicine; vet (fem.)|o;o
+articular|to articulate; to coordinate|v;v
+codificado|coded, encoded|o
+gémeo|twin (Eur. Pt.)|o
+instituído|instituted, established|o
+notoriedade|notoriety, prominence|o
+potássio|potassium|o
+razoavelmente|reasonably|o
+abolição|abolition|o
+arbitragem|arbitration; refereeing|o;o
+auferir|to earn, to receive (income)|v
+banir|to ban, to banish|v
+calamidade|calamity|o
+conciliar|to reconcile|v
+congestionamento|traffic jam; congestion|o;o
+continuado|continued, ongoing|o
+contrastar|to contrast|v
+convicto|convinced, staunch|o
+correcção|correction (Eur. Pt.)|o
+depreciação|depreciation|o
+desejável|desirable|o
+devolução|return; refund|o;o
+discriminatório|discriminatory|o
+encetar|to begin, to initiate|v
+enfraquecido|weakened|o
+enganoso|misleading, deceptive|o
+entrave|obstacle, hindrance|o
+especificação|specification|o
+finito|finite|o
+formulador|formulator, (policy) maker|o
+grafar|to spell, to write|v
+habituado|used to, accustomed|o
+hormônio|hormone|o
+impensável|unthinkable|o
+inexistência|non-existence, lack|o
+ingerir|to ingest, to swallow|v
+insolvência|insolvency|o
+lagarta|caterpillar|o
+melhorado|improved|o
+mescalina|mescaline|o
+negociado|negotiated; traded|o;o
+objecção|objection (Eur. Pt.)|o
+pornográfico|pornographic|o
+projectado|projected; designed (Eur. Pt.)|o;o
+ratificação|ratification|o
+recomprar|to buy back|v
+redacção|writing, drafting; newsroom (Eur. Pt.)|o;o
+reequilibrar|to rebalance|v
+refrigeração|refrigeration, cooling|o
+repressivo|repressive|o
+respiratório|respiratory|o
+robot|robot (Eur. Pt.)|o
+significante|significant; signifier|o;o
+subvenção|subsidy, grant|o
+thriller|thriller|o
+urubu|black vulture|o
+arredondar|to round (off)|v
+bis|encore!; twice|o;o
+crioulo|Creole|o
+cátedra|chair (professorship)|o
+descritivo|descriptive|o
+diocesano|diocesan|o
+empilhar|to stack, to pile up|v
+ensaísta|essayist|o
+expressivo|expressive; significant|o;o
+fundido|melted; merged; cast|o;o;o
+georgiano|Georgian|o
+musa|muse|o
+polinômio|polynomial|o
+praticante|practitioner; practising|o;o
+simbólico|symbolic|o
+sinapse|synapse|o
+tau|tau (Greek letter)|o
+telepata|telepath|o
+terminologia|terminology|o
+trivial|trivial, commonplace|o
+tufo|tuft|o
+vertente|aspect, strand; slope|o;o
+acessado|accessed|o
+alusão|allusion|o
+niilista|nihilist|o
+subsidiária|subsidiary (company)|o
+agüente|hang on!, endure (você); (that) I/he/she/you endure (old spelling)|o;f1s
+caótico|chaotic|o
+embrião|embryo|o
+equatoriano|Ecuadorian|o
+extraordinariamente|extraordinarily|o
+habitável|habitable|o
+holográfico|holographic|o
+pagode|pagode (samba style); pagoda|o;o
+precedido|preceded|o
+senhorio|landlord; lordship|o;o
+subtil|subtle (Eur. Pt.)|o
+supernova|supernova|o
+zangão|drone (bee)|o
+abster|to abstain (abster-se)|v
+admiração|admiration; surprise|o;o
+assumido|assumed, taken on; openly declared|o;o
+automatizado|automated|o
+autônomo|autonomous; self-employed|o;o
+bit|bit (computing)|o
+burguês|bourgeois|o
+colonato|settlement (colonial); tenant farming|o;o
+comercializar|to market, to sell|v
+cupão|coupon (Eur. Pt.)|o
+descontente|discontented, unhappy|o
+desvanecer|to fade, to vanish|v
+dezesseis|sixteen|o
+difamação|defamation, libel|o
+digerir|to digest|v
+eclodir|to break out; to hatch|v;v
+estilizado|stylised|o
+evitável|avoidable|o
+firmeza|firmness|o
+fundir|to merge; to melt, to cast|v;v
+haitiano|Haitian|o
+infravermelho|infrared|o
+mediação|mediation|o
+meramente|merely|o
+moratória|moratorium|o
+patrimonial|asset, property (adj.); heritage (adj.)|o;o
+pedreira|quarry|o
+proferido|delivered, uttered (speech, verdict)|o
+promulgado|promulgated, enacted|o
+proporcional|proportional|o
+rotineiro|routine, everyday|o
+sinalizar|to signal, to indicate; to signpost|v;v
+smartphones|smartphones|o
+soja|soy, soybean|o
+superioridade|superiority|o
+suplemento|supplement|o
+tarifário|tariff, pricing (adj.)|o
+trigonometria|trigonometry|o
+vigoroso|vigorous, strong|o
+conjunção|conjunction; combination|o;o
+dissertação|dissertation, thesis; essay|o;o
+ecologia|ecology|o
+nebulosa|nebula; cloudy, hazy (fem.)|o;o
+sufixo|suffix|o
+trouxa|sucker, fool; bundle (of clothes)|o;o
+algébrico|algebraic|o
+atributo|attribute|o
+bibliografia|bibliography|o
+búlgaro|Bulgarian|o
+conscientemente|consciously, knowingly|o
+conscientização|awareness, awareness-raising|o
+decomposição|decomposition, breakdown|o
+elementar|elementary, basic|o
+elogiado|praised|o
+intersecção|intersection|o
+intimamente|closely, intimately|o
+intrigante|intriguing, puzzling|o
+menstruação|menstruation|o
+nórdico|Nordic, Scandinavian|o
+padronizado|standardized|o
+regenerar|to regenerate|v
+tabu|taboo|o
+tensorial|tensor (adj.)|o
+adotada|adopted (fem.)|o
+avante|forward, onward|o
+camundongo|mouse (animal)|o
+catedrático|professor (holding a chair)|o
+cupcakes|cupcakes|o
+dispersão|dispersion, scattering|o
+englobar|to encompass, to include|v
+entropia|entropy|o
+esteira|mat; conveyor belt; treadmill; wake (na esteira de: in the wake of)|o;o;o;o
+glândula|gland|o
+guarnição|garrison; garnish, side dish; trim|o;o;o
+hipocampo|hippocampus; seahorse|o;o
+metodologia|methodology|o
+pedagógico|pedagogical, educational|o
+peregrinação|pilgrimage|o
+perfuração|drilling, perforation|o
+pixels|pixels|o
+alegoria|allegory|o
+bissexual|bisexual|o
+cânone|canon|o
+defensivo|defensive|o
+escravizar|to enslave|v
+kernel|kernel (computing)|o
+montado|mounted; assembled, set up|o;o
+mosaico|mosaic|o
+notório|well-known, evident (not only "notorious")|o
+subordinado|subordinate|o
+uno|one, single, unified|o
+validade|validity; shelf life, expiry|o;o
+vigente|in force, current|o
+activismo|activism (Eur. Pt.)|o
+actualizar|to update (Eur. Pt.)|v
+autocrata|autocrat|o
+botânica|botany; botanist (female)|o;o
+canceroso|cancerous|o
+cepticismo|scepticism (Eur. Pt.)|o
+cerne|core, heart (of a matter)|o
+colonialismo|colonialism|o
+comunhão|communion; sharing, fellowship|o;o
+consultoria|consultancy, consulting|o
+conveniência|convenience; suitability|o;o
+crónico|chronic (Eur. Pt.)|o
+derivar|to derive; to drift|v;v
+disfuncional|dysfunctional|o
+dissidente|dissident|o
+dueto|duet|o
+elástico|elastic, stretchy; rubber band|o;o
+escalão|level, echelon; bracket (tax, age)|o;o
+estendido|extended, stretched out|o
+exemplificado|exemplified, illustrated|o
+granito|granite|o
+guerrilha|guerrilla warfare; guerrilla group|o;o
+hegemónico|hegemonic (Eur. Pt.)|o
+incorrecto|incorrect (Eur. Pt.)|o
+incrementar|to increase, to boost|v
+incursão|incursion, raid; foray|o;o
+inserção|insertion; integration (social, into the market)|o;o
+interdependência|interdependence|o
+litúrgico|liturgical|o
+marijuana|marijuana|o
+microbiano|microbial|o
+orientador|supervisor, advisor (academic); guiding|o;o
+outorgado|granted, conferred|o
+patamar|level, threshold; landing (of stairs)|o;o
+patriarcado|patriarchy|o
+penetração|penetration|o
+perdôo|I forgive|f1s
+pique|energy, pep; peak (of activity)|o;o
+planeado|planned (Eur. Pt.)|o
+portuário|port, harbour (adj.)|o
+privar|to deprive|v
+proa|bow, prow|o
+proferir|to deliver (a speech), to utter; to hand down (a ruling)|v;v
+rentabilidade|profitability|o
+reparação|repair; reparation, redress|o;o
+retalhista|retailer (Eur. Pt.)|o
+sarampo|measles|o
+tripulante|crew member|o
+verificado|verified, checked|o
+violador|violator, offender; rapist (Eur. Pt.)|o;o
+visitado|visited|o
+vocação|vocation, calling|o
+óptica|optics; optician's; perspective, viewpoint (Eur. Pt.)|o;o;o
+afetando|affecting|o
+civilidade|civility|o
+demência|dementia; madness|o;o
+filantropia|philanthropy|o
+fosfato|phosphate|o
+invasivo|invasive|o
+libélula|dragonfly|o
+memoria|memory|o
+milênio|millennium|o
+montanhoso|mountainous|o
+procissão|procession|o
+pulmonar|pulmonary, lung (adj.)|o
+talha|woodcarving; pulley, tackle|o;o
+torrente|torrent|o
+vector|vector (Eur. Pt.)|o
+viaduto|viaduct, overpass|o
+íris|iris|o
+artefato|artefact|o
+cateto|leg (of a right triangle)|o
+chacal|jackal|o
+comercializado|marketed, sold|o
+digitalizar|to digitize, to scan|v
+dual|dual|o
+gratuitamente|free of charge; gratuitously|o;o
+patriarcal|patriarchal|o
+plana|flat, level (fem.)|o
+prisional|prison (adj.)|o
+puzzle|puzzle, jigsaw (Eur. Pt.)|o
+tailandês|Thai|o
+acústico|acoustic|o
+agrupamento|grouping, cluster|o
+diretório|directory|o
+emancipação|emancipation|o
+fenômenos|phenomena|o
+habitualmente|usually, habitually|o
+hispânico|Hispanic|o
+honorífico|honorary, honorific|o
+honroso|honourable, creditable|o
+imunitário|immune (system) (Eur. Pt.)|o
+introvertido|introverted; introvert|o;o
+jihad|jihad|o
+longitude|longitude|o
+maternidade|maternity, motherhood; maternity hospital|o;o
+oitava|eighth (fem.); octave|o;o
+oitenta|eighty|o
+sindical|trade-union (adj.)|o
+temático|thematic|o
+urbanismo|urban planning|o
+vigário|vicar|o
+andino|Andean|o
+asma|asthma|o
+batizado|christening, baptism; baptized|o;o
+consoante|consonant; in accordance with|o;o
+desembarque|landing, disembarkation|o
+engajamento|engagement, commitment|o
+estimulante|stimulating; stimulant|o;o
+estática|static (electricity); statics|o;o
+explicando|explaining|o
+fluorescente|fluorescent|o
+gala|gala|o
+galega|Galician (fem.)|o
+pistoleiro|gunman, gunslinger|o
+presenciar|to witness|v
+rebolar|to wiggle one's hips, to sway|v
+relatividade|relativity|o
+aproveitamento|use, utilization; performance (at school)|o;o
+autocracia|autocracy|o
+cautela|caution|o
+cinturão|belt; zone (e.g. green belt)|o;o
+cinética|kinetics|o
+constrangimento|embarrassment; constraint, coercion|o;o
+consulado|consulate|o
+contraceptivo|contraceptive|o
+desfavorável|unfavourable|o
+déficit|deficit|o
+exorbitante|exorbitant|o
+expulsão|expulsion; sending-off|o;o
+extração|extraction; draw (lottery)|o;o
+fiscalidade|taxation, tax system|o
+girafa|giraffe|o
+hipotecário|mortgage (adj.)|o
+impedido|prevented, blocked; offside|o;o
+imposta|imposed (fem.)|o
+incidir|to fall on, to bear on; to be levied on|v;v
+indevidamente|improperly, wrongly|o
+indexado|indexed; pegged (to)|o;o
+indignado|indignant, outraged|o
+involuntário|involuntary|o
+irrigação|irrigation|o
+localmente|locally|o
+maximização|maximization|o
+naturalista|naturalist|o
+pairar|to hover; to hang over (a threat)|v;v
+patogénico|pathogenic (Eur. Pt.)|o
+pecuária|livestock farming|o
+poderio|power, might|o
+polarizado|polarized|o
+pragmática|pragmatics; pragmatic (fem.)|o;o
+presumivelmente|presumably|o
+progressão|progression|o
+projectar|to project; to design (Eur. Pt.)|v;v
+propício|favourable, conducive|o
+protector|protective; protector (Eur. Pt.)|o;o
+punitivo|punitive|o
+recomendado|recommended|o
+redonda|round (fem.)|o
+sistematicamente|systematically|o
+subnutrido|malnourished|o
+tranquilizar|to reassure, to calm|v
+ultrapassado|outdated; overtaken, exceeded|o;o
+vantajoso|advantageous|o
+vencimento|due date, maturity; salary|o;o
+versículo|verse (of scripture)|o
+argila|clay|o
+atualizado|updated, up to date|o
+bombear|to pump|v
+checo|Czech|o
+consolar|to console, to comfort|v
+conversível|convertible|o
+criptografia|cryptography, encryption|o
+decorrência|consequence (em decorrência de: as a result of)|o
+deduzir|to deduce; to deduct|v;v
+desfilar|to parade; to walk the runway|v;v
+exceções|exceptions|o
+folk|folk (music)|o
+fricção|friction|o
+fótons|photons|o
+guerreira|warrior (female); warlike (fem.)|o;o
+iceberg|iceberg|o
+idealizado|idealized|o
+lusófono|Portuguese-speaking, Lusophone|o
+metabolismo|metabolism|o
+mola|spring (coil)|o
+neblina|mist, fog|o
+primer|primer (biology, make-up)|o
+primitiva|primitive (fem.)|o
+questionamento|questioning; challenge, objection|o;o
+remanescente|remaining; remnant|o;o
+romantismo|romanticism|o
+solene|solemn|o
+suspense|suspense|o
+síntese|synthesis; summary|o;o
+tres|three|o
+vigésimo|twentieth|o
+vil|vile, base|o
+épico|epic|o
+audacioso|audacious, daring|o
+cardiovascular|cardiovascular|o
+comprometimento|commitment; impairment, compromising|o;o
+danificar|to damage|v
+demolição|demolition|o
+desmontar|to dismantle, to take apart; to dismount|v;v
+efetivo|effective; permanent (staff); troops, workforce|o;o;o
+embutido|built-in; cured sausage, cold cuts|o;o
+escavar|to dig, to excavate|v
+federativo|federal, federative|o
+levemente|lightly, slightly|o
+linguístico|linguistic|o
+plâncton|plankton|o
+signo|sign (of the zodiac); sign (linguistics)|o;o
+substantivo|noun; substantive|o;o
+tração|traction; drive (four-wheel)|o;o
+zoom|zoom|o
+amostragem|sampling|o
+automática|automatic (fem.)|o
+bossa|flair, knack; bossa nova|o;o
+dezessete|seventeen|o
+elegível|eligible|o
+judaísmo|Judaism|o
+mandioca|cassava, manioc|o
+moderação|moderation|o
+ocupante|occupant; occupier|o;o
+papal|papal|o
+ressaltar|to highlight, to stress; to bounce|v;v
+rítmica|rhythmic (fem.)|o
+simplificado|simplified|o
+triangular|triangular|o
+abruptamente|abruptly|o
+abusivo|abusive; excessive (prices, terms)|o;o
+actualidade|present day, current affairs (Eur. Pt.)|o
+ambientalista|environmentalist|o
+antimíssil|anti-missile|o
+atolado|stuck, bogged down; swamped|o;o
+autenticidade|authenticity|o
+avultado|large, considerable|o
+batismo|baptism|o
+beneficiado|benefited, favoured; beneficiary|o;o
+captação|collection, capture (of water, funds); fundraising|o;o
+colossal|colossal|o
+conjugal|conjugal, marital|o
+contracepção|contraception|o
+desequilibrado|unbalanced; mentally unstable|o;o
+desnutrição|malnutrition|o
+despercebido|unnoticed|o
+efectuado|carried out (Eur. Pt.)|o
+estadista|statesman|o
+estrito|strict|o
+evolucionista|evolutionist; evolutionary|o;o
+falhado|failed (Eur. Pt.)|o
+fluvial|river (adj.), fluvial|o
+genuinamente|genuinely|o
+hesitação|hesitation|o
+hormona|hormone (Eur. Pt.)|o
+impedimento|impediment, obstacle; offside|o;o
+impulsionador|driving force, driver; driving|o;o
+inflamar|to inflame; to ignite|v;v
+injecção|injection (Eur. Pt.)|o
+liquidar|to settle, to pay off; to liquidate; to sell off|v;v;v
+marxismo|Marxism|o
+menir|menhir, standing stone|o
+militarmente|militarily|o
+multiplicador|multiplier; multiplying|o;o
+nómada|nomad; nomadic (Eur. Pt.)|o;o
+obeso|obese|o
+ocultar|to hide, to conceal|v
+oneroso|costly, burdensome|o
+palestrante|speaker, lecturer|o
+paralisar|to paralyse; to halt, to bring to a standstill|v;v
+placebo|placebo|o
+pluralismo|pluralism|o
+poderiamos|we could, we would be able to|f1p
+povoamento|settlement, peopling (of an area)|o
+preferencial|preferential|o
+proliferar|to proliferate|v
+prontamente|promptly|o
+prudência|prudence, caution|o
+próstata|prostate|o
+próton|proton|o
+puramente|purely|o
+redondo|round|o
+remotamente|remotely|o
+rinoceronte|rhinoceros|o
+salvaguarda|safeguard|o
+startups|startups|o
+subsistir|to subsist, to survive, to persist|v
+sucumbir|to succumb|v
+tabagismo|smoking (habit), nicotine addiction|o
+virtualmente|virtually (almost); virtually (online)|o;o
+visualmente|visually|o
+agregar|to add, to aggregate|v
+asteroides|asteroids|o
+atelier|studio, workshop|o
+delimitado|delimited, bounded|o
+desenhista|draughtsman, designer, cartoonist|o
+desenvolvedores|developers|o
+diapositivo|slide (photographic)|o
+direcionar|to direct, to steer|v
+emblemático|emblematic, iconic|o
+engenhoso|ingenious|o
+esperançoso|hopeful|o
+intensamente|intensely|o
+longevidade|longevity|o
+memes|memes|o
+ministrar|to give (a class, a course); to administer (medicine)|v;v
+refugiar|to take refuge (refugiar-se); to shelter|v;v
+actuação|performance; action, role (Eur. Pt.)|o;o
+atestado|certificate (esp. medical); certified|o;o
+bula|package insert (medicine); papal bull|o;o
+casta|caste; chaste (fem.)|o;o
+cerimônias|ceremonies|o
+conectivo|connective|o
+convertido|converted; convert|o;o
+encimado|topped, crowned|o
+estandarte|banner, standard|o
+estético|aesthetic|o
+hospedar|to host; to lodge, to put up|v;v
+israelenses|Israelis|o
+modernidade|modernity|o
+nona|ninth (fem.)|o
+revestido|coated, covered, lined|o
+saquear|to loot, to plunder|v
+tabuleiro|board (game); tray; deck (of a bridge)|o;o;o
+óxido|oxide|o
+abstrato|abstract|o
+adepto|supporter, follower, fan|o
+adversidade|adversity|o
+amplitude|amplitude; breadth, range|o;o
+correlacionar|to correlate|v
+distanciar|to distance; to move away (distanciar-se)|v;v
+distribuidor|distributor|o
+entornar|to spill, to pour out|v
+estruturado|structured|o
+germe|germ|o
+incorporado|incorporated, built-in|o
+lembrete|reminder|o
+milênios|millennia|o
+neurocientistas|neuroscientists|o
+ouriço|hedgehog; sea urchin (ouriço-do-mar)|o;o
+palestrantes|speakers, lecturers|o
+patógenos|pathogens|o
+pavimento|floor, storey; road surface, paving|o;o
+redesenhar|to redesign, to redraw|v
+seleções|selections; national teams|o;o
+artefatos|artefacts|o
+cabeçalho|header, heading|o
+cilada|trap, ambush|o
+complemento|complement; supplement|o;o
+contaminação|contamination|o
+convergir|to converge|v
+decadência|decline, decadence|o
+enxofre|sulphur|o
+erguido|raised, erected|o
+fuzil|rifle|o
+hidrogênios|hydrogens, hydrogen atoms|o
+laptops|laptops|o
+magenta|magenta|o
+pastoral|pastoral|o
+penicilina|penicillin|o
+radial|radial|o
+réplica|replica; reply, rejoinder|o;o
+somatório|sum, total|o
+sultão|sultan|o
+transcender|to transcend|v
+vitorioso|victorious|o
+afectado|affected (Eur. Pt.)|o
+algarismo|digit, numeral|o
+ambientalmente|environmentally|o
+ameaçador|threatening|o
+anemia|anaemia|o
+assimétrico|asymmetric|o
+autobiográfico|autobiographical|o
+basquetebol|basketball|o
+biselado|bevelled|o
+centrista|centrist|o
+cobrança|collection (of payment), charging; pressure, demands|o;o
+confinado|confined; in lockdown|o;o
+congelamento|freezing; freeze (of prices, wages)|o;o
+consciencialização|awareness-raising (Eur. Pt.)|o
+correctamente|correctly (Eur. Pt.)|o
+cratera|crater|o
+credencial|credential|o
+densamente|densely|o
+derramamento|spill, spilling (derramamento de sangue: bloodshed)|o
+disparate|nonsense (not "disparate")|o
+dádiva|gift, blessing|o
+electrónica|electronics (Eur. Pt.)|o
+evidenciar|to show, to highlight, to make evident|v
+factura|invoice, bill (Eur. Pt.)|o
+fermentação|fermentation|o
+gasoduto|gas pipeline|o
+gelatina|gelatin; jelly|o;o
+holística|holistic (fem.)|o
+hospitalar|hospital (adj.)|o
+idealmente|ideally|o
+ilusório|illusory|o
+imparcial|impartial|o
+impopular|unpopular|o
+infeção|infection (Eur. Pt.)|o
+infundado|unfounded, groundless|o
+insecticida|insecticide (Eur. Pt.)|o
+interdependente|interdependent|o
+intolerância|intolerance|o
+inundado|flooded|o
+invulgar|unusual, uncommon (Eur. Pt.)|o
+inércia|inertia|o
+isoladamente|in isolation, separately|o
+juridicamente|legally, juridically|o
+laico|secular, lay|o
+latente|latent|o
+latitude|latitude|o
+liberalismo|liberalism|o
+multipolar|multipolar|o
+negativamente|negatively|o
+normalização|normalization; standardization|o;o
+paralisação|stoppage, strike; paralysis, standstill|o;o
+populoso|populous|o
+postumamente|posthumously|o
+predominar|to predominate, to prevail|v
+preferível|preferable|o
+prejudicado|harmed, disadvantaged|o
+primordial|essential, fundamental; primordial|o;o
+problemática|issue, set of problems; problematic (fem.)|o;o
+progressivamente|progressively|o
+propina|bribe, kickback; tuition fee (Eur. Pt.)|o;o
+rebentar|to burst, to explode; to break out|v;v
+recair|to fall on (responsibility); to relapse|v;v
+reservatório|reservoir, tank|o
+restabelecimento|restoration, re-establishment; recovery|o;o
+restaurado|restored|o
+restauro|restoration (of art, buildings) (Eur. Pt.)|o
+segregação|segregation|o
+sobrecarregar|to overload, to overburden|v
+tentador|tempting|o
+transaccionáveis|tradable (pl.) (Eur. Pt.)|o
+tripulado|manned, crewed|o
+universalmente|universally|o
+xenofobia|xenophobia|o
+acasalar|to mate|v
+artesão|craftsman, artisan|o
+autobiografia|autobiography|o
+cascata|waterfall, cascade|o
+cordilheira|mountain range|o
+desativar|to deactivate, to disable|v
+estatístico|statistical; statistician|o;o
+flanco|flank|o
+heroísmo|heroism|o
+inimaginável|unimaginable|o
+interativo|interactive|o
+monitoramento|monitoring|o
+película|film, thin layer; film, movie|o;o
+phi|phi (Greek letter)|o
+projetadas|projected, designed (fem. pl.)|o
+projetou|he/she projected, designed; you projected, designed|f3s;f2s2p
+rastreamento|tracking, tracing; screening|o;o
+repetitivo|repetitive|o
+aba|flap; brim (of a hat); tab|o;o;o
+arcaico|archaic|o
+cancerígeno|carcinogenic|o
+capilar|hair (adj.); capillary|o;o
+deslize|slip, lapse|o
+estao|(state, location) they are; you (pl.) are|f3p;f2s2p
+micélio|mycelium|o
+paraquedas|parachute|o
+quinhentos|five hundred|o
+semântica|semantics|o
+tremendamente|tremendously|o
+atrações|attractions|o
+blogue|blog (Eur. Pt.)|o
+capacitância|capacitance|o
+cilíndrico|cylindrical|o
+clubinho|little club; clique|o;o
+destacamento|detachment (military)|o
+empossado|sworn in (to office)|o
+fascismo|fascism|o
+heráldico|heraldic|o
+indução|induction|o
+manejo|handling, management|o
+portar|to carry (a weapon, a document); to behave (portar-se)|v;v
+provedor|provider (internet); ombudsman|o;o
+relembrar|to recall, to remember; to remind|v;v
+remake|remake|o
+solicitação|request, application|o
+térreo|ground floor; ground-level, single-storey|o;o
+cientificamente|scientifically|o
+comandado|commanded, led|o
+conquistador|conqueror; conquering|o;o
+drone|drone|o
+fisiológico|physiological|o
+folclórico|folk, folkloric|o
+leigo|layman; lay, secular|o;o
+mainstream|mainstream|o
+proclamado|proclaimed|o
+sucessivamente|successively (e assim sucessivamente: and so on)|o
+afligir|to afflict, to distress|v
+afluxo|influx, inflow|o
+alheio|someone else's; unaware of, detached from|o;o
+ampliado|enlarged, expanded|o
+apelativo|appealing, emotive; sensationalist|o;o
+aquífero|aquifer|o
+armênio|Armenian|o
+asteroide|asteroid|o
+bambu|bamboo|o
+bibliográfico|bibliographic|o
+biométrico|biometric|o
+boreste|starboard|o
+bovino|bovine; cattle (adj.)|o;o
+cessante|outgoing (official); ceasing|o;o
+clarificar|to clarify|v
+colectivamente|collectively (Eur. Pt.)|o
+coletividade|community, collective|o
+conjectura|conjecture|o
+contentor|container (shipping, rubbish) (Eur. Pt.)|o
+contorno|outline, contour; detour, way around|o;o
+coreografia|choreography|o
+céticos|sceptics; sceptical (pl.)|o;o
+debilidade|weakness, frailty|o
+decompor|to decompose, to break down|v
+dedução|deduction|o
+dengue|dengue fever|o
+desagregação|breakdown, disintegration; disaggregation|o;o
+desmembrado|dismembered; broken up|o;o
+dialeto|dialect|o
+dissuadir|to dissuade, to deter|v
+ditar|to dictate|v
+draconiano|draconian|o
+efetiva|effective; permanent (fem.)|o;o
+eletrões|electrons (Eur. Pt.)|o
+empoderar|to empower|v
+encarceramento|incarceration, imprisonment|o
+enormemente|enormously|o
+enviesamento|bias (Eur. Pt.)|o
+enérgico|energetic, vigorous|o
+exequível|feasible|o
+extrovertido|extroverted, outgoing; extrovert|o;o
+freqüentemente|often|o
+furtivo|furtive, stealthy|o
+húmido|humid, damp (Eur. Pt.)|o
+imobiliária|real estate agency|o
+incorporação|incorporation; merger|o;o
+indefinidamente|indefinitely|o
+indiferente|indifferent|o
+inestimável|invaluable, priceless|o
+informático|computer, IT (adj.); IT specialist|o;f3s
+ingénuo|naive (Eur. Pt.)|o
+intencionalmente|intentionally|o
+interligação|interconnection, link|o
+interlocutor|interlocutor, person one is talking to|o
+laje|slab (concrete); flat roof|o;o
+lamentavelmente|regrettably, unfortunately|o
+legitimar|to legitimize|v
+licenciamento|licensing; permit|o;o
+maioritariamente|mostly, predominantly (Eur. Pt.)|o
+mamografia|mammography, mammogram|o
+marcação|marking; booking, appointment (Eur. Pt.)|o;o
+medicinal|medicinal|o
+modernizar|to modernize|v
+mordaça|gag|o
+nalguns|in some (em+alguns)|o
+negocial|negotiating, business (adj.)|o
+opaco|opaque|o
+ovário|ovary|o
+permanência|stay; permanence|o;o
+projeções|projections|o
+proponente|proponent; bidder|o;o
+protecionismo|protectionism|o
+quilômetro|kilometre|o
+recobrar|to recover, to regain|v
+reiterar|to reiterate|v
+ressurgimento|resurgence, revival|o
+retomada|resumption; recovery (economic)|o;o
+rochoso|rocky|o
+rolante|rolling (escada rolante: escalator)|o
+sediar|to host (an event); to be headquartered in|v;v
+simbolista|symbolist|o
+socioeconómico|socioeconomic (Eur. Pt.)|o
+supremacia|supremacy|o
+teaser|teaser (trailer)|o
+tecnocrático|technocratic|o
+tunisino|Tunisian (Eur. Pt.)|o
+tácito|tacit, implicit|o
+unanimidade|unanimity|o
+unicamente|solely, only|o
+versa|(in vice-versa) the other way round; deals with, is about; you deal with|o;o;f2s2p
+artesanato|handicrafts, crafts|o
+azeite|olive oil|o
+cacique|chief (indigenous); political boss|o;o
+cerrado|cerrado (Brazilian savanna); closed, dense|o;o
+dolares|dollars|o
+espiritualidade|spirituality|o
+glorificar|to glorify|v
+imortalidade|immortality|o
+linguista|linguist|o
+mecha|lock, strand (of hair); highlights (in hair); wick|o;o;o
+nordestino|northeastern (Brazil); person from the Northeast|o;o
+posicionamento|position, stance; positioning|o;o
+psicanálise|psychoanalysis|o
+quilograma|kilogram|o
+vulcânico|volcanic|o
+abastecer|to supply; to fill up (with fuel)|v;v
+atualizar|to update|v
+bancada|bench; caucus, parliamentary bloc; worktop|o;o;o
+biomassa|biomass|o
+biógrafo|biographer|o
+bolchevique|Bolshevik|o
+broca|drill bit; weevil|o;o
+cota|quota; share; elevation (height)|o;o;o
+depressivo|depressive|o
+estupendo|stupendous, wonderful|o
+mapeamento|mapping|o
+marroquino|Moroccan|o
+movido|moved; driven, powered (by)|o;o
+passarela|catwalk, runway; footbridge|o;o
+policiamento|policing|o
+proposicional|propositional|o
+redigir|to write, to draft|v
+retroceder|to go back, to retreat; to regress|v;v
+retângulos|rectangles|o
+revestimento|coating, lining, covering|o
+simplificação|simplification|o
+testosterona|testosterone|o
+transgênero|transgender|o
+angular|angular|o
+ateu|atheist|o
+beneditino|Benedictine|o
+braçal|manual (labour)|o
+comutativo|commutative|o
+diferentemente|differently; unlike|o;o
+escadaria|staircase, flight of stairs|o
+especiaria|spice|o
+espesso|thick, dense|o
+falada|spoken (fem.)|o
+genital|genital|o
+intrigado|intrigued, puzzled|o
+jogabilidade|gameplay|o
+mercador|merchant, trader|o
+pausar|to pause|v
+prensa|press (machine)|o
+prestigiado|prestigious, esteemed|o
+pureza|purity|o
+quatorze|fourteen|o
+transplantar|to transplant|v
+trunfo|trump card; asset, advantage|o;o
+vinil|vinyl|o
+votado|voted, voted for|o
+absorção|absorption|o
+acréscimo|increase, addition|o
+adotarem|(if/when) they adopt; (for them) to adopt|f3p;v
+afortunado|fortunate, lucky|o
+ancorado|anchored|o
+ansiar|to long for, to yearn|v
+atracção|attraction (Eur. Pt.)|o
+avistar|to sight, to spot|v
+confrontado|confronted, faced (with)|o
+corporativismo|corporatism|o
+cumulativo|cumulative|o
+deficitário|loss-making, in deficit|o
+desestabilizador|destabilizing|o
+desfasamento|gap, mismatch, lag (Eur. Pt.)|o
+desnuclearização|denuclearization|o
+disrupção|disruption|o
+eletrónico|electronic (Eur. Pt.)|o
+eliminatória|qualifier, heat, knockout round|o
+emanar|to emanate, to issue from|v
+enganador|misleading, deceptive|o
+equilibrado|balanced|o
+exigido|required, demanded|o
+fabril|factory, manufacturing (adj.)|o
+falsidade|falseness, falsehood|o
+famosamente|famously|o
+generalização|generalization; spread|o;o
+gnomo|gnome|o
+humorista|comedian, humorist|o
+improdutivo|unproductive|o
+inaugural|inaugural, opening|o
+inflexível|inflexible|o
+insolvente|insolvent|o
+inundar|to flood|v
+invariavelmente|invariably|o
+irrealista|unrealistic|o
+legalidade|legality|o
+mantra|mantra|o
+medusa|jellyfish|o
+mercantilista|mercantilist|o
+moderar|to moderate|v
+moralmente|morally|o
+paradoxalmente|paradoxically|o
+penalizar|to penalize|v
+pessimismo|pessimism|o
+pintada|painted (fem.)|o
+pragmatismo|pragmatism|o
+predatório|predatory|o
+pretendente|suitor; claimant (to a throne); applicant|o;o;o
+primado|primacy|o
+prótons|protons|o
+reacender|to rekindle, to reignite|v
+recapitalização|recapitalization|o
+regalia|perk, privilege|o
+selecionada|selected (fem.)|o
+setentrional|northern|o
+tarte|tart, pie (Eur. Pt.)|o
+tecto|ceiling (Eur. Pt.)|o
+vassalo|vassal|o
+visivelmente|visibly|o
+cambiar|to exchange (currency); to shift, to switch|v;v
+commodities|commodities|o
+dissolver|to dissolve|v
+dominação|domination|o
+encenar|to stage (a play); to act out, to fake|v;v
+espetaculares|spectacular (pl.)|o
+farra|partying, spree|o
+fatorar|to factor, to factorize|v
+filiar|to affiliate (filiar-se: to join)|v
+glamour|glamour|o
+gorducho|chubby, plump|o
+hipotético|hypothetical|o
+insight|insight|o
+liturgia|liturgy|o
+lume|fire, flame (Eur. Pt.); light (vir a lume: to come to light)|o;o
+nutrir|to nourish; to harbour (a feeling)|v;v
+otimistas|optimists; optimistic (pl.)|o;o
+paralela|parallel (fem.); parallel line|o;o
+perjúrio|perjury|o
+selecione|select! (você); (that) I select, (that) he/she/you select|o;f1s
+simbólica|symbolic (fem.)|o
+telefonista|telephone operator|o
+tombado|listed (heritage); knocked over|o;o
+absorvente|absorbent; sanitary pad|o;o
+acasalamento|mating|o
+alegórico|allegorical|o
+altruísmo|altruism|o
+artesanal|handmade, artisanal|o
+cluster|cluster|o
+coletados|collected (pl.)|o
+compassivo|compassionate|o
+cortisol|cortisol|o
+culturalmente|culturally|o
+cume|summit, peak|o
+designs|designs|o
+dote|dowry; gift, talent|o;o
+duna|dune|o
+fenomenal|phenomenal|o
+festividade|festivity, celebration|o
+filamento|filament|o
+gratificante|rewarding, gratifying|o
+historiografia|historiography|o
+inato|innate|o
+integrando|integrating|o
+louvor|praise|o
+manufatura|manufacturing, manufacture|o
+militância|activism, militancy|o
+nomenclatura|nomenclature|o
+ostentar|to flaunt, to show off; to bear, to display|v;v
+planar|to glide; planar (adj.)|v;o
+porreiro|great, cool (Eur. Pt.)|o
+propulsão|propulsion|o
+refinado|refined|o
+remeter|to send; to refer (to)|v;v
+reorganizar|to reorganize|v
+retangular|rectangular|o
+reverso|reverse, other side|o
+rococó|rococo|o
+régua|ruler (for measuring)|o
+sinfonia|symphony|o
+treta|trouble, fight; trick, scam; nonsense (Eur. Pt.)|o;o;o
+acadêmicas|academic (fem. pl.); academics (female)|o;o
+alvenaria|masonry, brickwork|o
+bisneto|great-grandson, great-grandchild|o
+colonizador|colonizer; colonizing|o;o
+guru|guru|o
+humorístico|humorous, comedy (adj.)|o
+instrumentista|instrumentalist|o
+operária|worker, factory worker (female); worker (ant, bee)|o;o
+pedagogia|pedagogy, education|o
+tambêm|also, too|o
+agüenta|puts up with, can stand; you put up with, you can stand|o;f2s2p
+aqueduto|aqueduct|o
+artilheiro|top scorer, striker; gunner|o;o
+aterrissagem|landing (of an aircraft)|o
+aterro|landfill; embankment|o;o
+banal|banal, trivial|o
+decorado|decorated; memorized|o;o
+distributiva|distributive (fem.)|o
+enxame|swarm|o
+escaravelho|beetle|o
+espetro|spectrum; ghost (Eur. Pt.)|o;o
+evaporar|to evaporate|v
+foguetão|rocket (Eur. Pt.)|o
+grelha|grill, grate; grid|o;o
+iniciação|initiation; introduction (iniciação científica: undergraduate research)|o;o
+medido|measured|o
+moçambicano|Mozambican|o
+operativo|operative, operational|o
+papelão|cardboard; embarrassing scene, fool of oneself|o;o
+pertencimento|belonging|o
+renal|renal, kidney (adj.)|o
+terreiro|yard; Afro-Brazilian place of worship|o;o
+ticket|ticket, voucher (ticket-refeição: meal voucher)|o
+turnês|tours (concert)|o
+abalar|to shake, to rock; to upset|v;v
+abanar|to shake; to fan; to wag|v;v;v
+acústica|acoustics|o
+adoração|adoration, worship|o
+advento|advent, arrival|o
+agravado|aggravated, worsened|o
+aprofundamento|deepening|o
+aquicultura|aquaculture|o
+aquoso|watery, aqueous|o
+arcar|to bear (costs, consequences) (arcar com)|v
+assimetria|asymmetry|o
+axioma|axiom|o
+biocombustível|biofuel|o
+camarilha|clique, cabal|o
+canadiano|Canadian (Eur. Pt.)|o
+carismático|charismatic|o
+ciberespaço|cyberspace|o
+clivagem|split, divide; cleavage|o;o
+compilado|compiled; compilation|o;o
+comprimir|to compress|v
+concorrencial|competitive|o
+conflituoso|conflictual, contentious|o
+consistência|consistency|o
+contracetivos|contraceptives (Eur. Pt.)|o
+contratual|contractual|o
+contração|contraction|o
+corretas|correct, right (fem. pl.)|o
+desconcertante|disconcerting|o
+destituição|removal from office, dismissal|o
+direcionados|directed, aimed, targeted (pl.)|o
+discografia|discography|o
+dissipar|to dissipate, to dispel|v
+divergente|divergent|o
+eloquente|eloquent|o
+equívoco|mistake, misunderstanding; ambiguous|o;o
+erigir|to erect, to build|v
+espetar|to stick, to pierce, to skewer|v
+esquerdista|leftist|o
+estabilizador|stabilizer; stabilizing|o;o
+estipular|to stipulate|v
+estático|static|o
+etíope|Ethiopian|o
+extractivo|extractive (Eur. Pt.)|o
+faiança|faience, glazed earthenware|o
+filiação|affiliation, membership; parentage|o;o
+fiscalização|inspection, oversight, enforcement|o
+foro|forum; jurisdiction, court|o;o
+fotossíntese|photosynthesis|o
+fotovoltaico|photovoltaic|o
+gritante|glaring, blatant|o
+harmonização|harmonization|o
+importador|importer; importing|o;o
+impotência|powerlessness; impotence|o;o
+inacessível|inaccessible|o
+incorrer|to incur (incorrer em); to fall into (error)|v;v
+induzido|induced, led|o
+inferência|inference|o
+interrompido|interrupted|o
+irromper|to burst in, to erupt|v
+isolacionismo|isolationism|o
+jihadistas|jihadists|o
+jusante|downstream (a jusante)|o
+licitação|public tender, bidding; auction bid|o;o
+materializar|to materialize|v
+megacidades|megacities|o
+menosprezar|to belittle, to underestimate|v
+mergulhador|diver|o
+milésimo|thousandth|o
+mobiliário|furniture; furnishings|o;o
+modelagem|modelling; shaping|o;o
+monstruoso|monstrous|o
+morteiro|mortar (weapon)|o
+mundialmente|worldwide, globally|o
+nanopartículas|nanoparticles|o
+normalizar|to normalize; to standardize|v;v
+omissão|omission; failure to act|o;o
+panaceia|panacea|o
+pelagem|coat, fur (of an animal)|o
+possessão|possession (esp. demonic); dominion|o;o
+predizer|to predict, to foretell|v
+preparatório|preparatory|o
+priorizar|to prioritize|v
+profissionalmente|professionally|o
+puberdade|puberty|o
+rapto|kidnapping, abduction|o
+recrutamento|recruitment|o
+remontar|to date back (to); to reassemble|v;v
+renegociar|to renegotiate|v
+reorientação|reorientation, redirection|o
+repartir|to share out, to divide|v
+revigorar|to reinvigorate|v
+semanário|weekly (newspaper)|o
+suavizar|to soften, to ease|v
+subproduto|by-product|o
+sujeitar|to subject; to submit (sujeitar-se)|v;v
+transpor|to cross, to overcome; to transpose|v;v
+travada|stuck, locked; waged (battle) (fem.)|o;o
+trolls|trolls|o
+utópico|utopian|o
+valete|jack, knave (cards)|o
+vincular|to link, to bind|v
+bacharelado|bachelor's degree|o
+cervejaria|brewery; beer hall, pub|o;o
+chefiar|to head, to lead|v
+convexo|convex|o
+covardia|cowardice|o
+diretas|direct (fem. pl.); direct elections|o;o
+hispano|Hispanic, Spanish (in compounds)|o
+ianque|Yankee|o
+lírico|lyric, lyrical|o
+miniatura|miniature|o
+plenário|plenary session, full chamber; plenary|o;o
+rebote|rebound|o
+reggae|reggae|o
+réptil|reptile|o
+vórtice|vortex|o
+agremiação|association, club|o
+bruxaria|witchcraft|o
+canoa|canoe|o
+cartum|cartoon|o
+casino|casino (Eur. Pt.)|o
+celta|Celtic; Celt|o;o
+cloreto|chloride|o
+constelação|constellation|o
+deportado|deported; deportee|o;o
+disputado|contested, hotly contested; sought-after|o;o
+encarnação|incarnation|o
+especular|to speculate|v
+exercido|exercised, performed|o
+expetativas|expectations (Eur. Pt.)|o
+exponencialmente|exponentially|o
+fabricado|manufactured, made|o
+fidelidade|fidelity, loyalty|o
+fortificado|fortified|o
+grafia|spelling|o
+hidrográfico|hydrographic (bacia hidrográfica: river basin)|o
+louro|blond; laurel, bay leaf|o;o
+modular|modular; to modulate|o;v
+nicotina|nicotine|o
+ortografia|spelling, orthography|o
+paranóia|paranoia|o
+planejada|planned (fem.)|o
+premiar|to award, to reward|v
+prior|prior (of a monastery)|o
+rachadura|crack|o
+reorganização|reorganization|o
+retratado|portrayed, depicted|o
+rotulado|labelled|o
+seriado|series (TV); serial|o;o
+serotonina|serotonin|o
+spam|spam|o
+suscetíveis|susceptible (pl.)|o
+taverna|tavern|o
+tolerante|tolerant|o
+transportador|carrier, transporter; conveyor|o;o
+usual|usual|o
+vestibular|university entrance exam|o
+youtuber|YouTuber|o
+ágil|agile, nimble|o
+ambiguidade|ambiguity|o
+ambíguo|ambiguous|o
+anarquismo|anarchism|o
+andróide|android|o
+antidepressivo|antidepressant|o
+aterrorizante|terrifying|o
+batizada|baptized, christened; named (fem.)|o;o
+cargueiro|freighter, cargo ship; cargo (adj.)|o;o
+comentarista|commentator, pundit|o
+conquistado|conquered; won|o;o
+corretos|correct, right (pl.)|o
+detetar|to detect (Eur. Pt.)|v
+detonação|detonation|o
+domicílio|home, residence (entrega a domicílio: home delivery)|o
+ensolarado|sunny|o
+estatisticamente|statistically|o
+fermento|yeast; baking powder|o;o
+generalizar|to generalize; to become widespread (generalizar-se)|v;v
+girino|tadpole|o
+golo|goal (football) (Eur. Pt.)|o
+guião|script, screenplay (Eur. Pt.)|o
+hormonal|hormonal|o
+introdutório|introductory|o
+jacto|jet (Eur. Pt.)|o
+legendado|subtitled|o
+mitológico|mythological|o
+nacionalmente|nationally|o
+nivelamento|levelling; placement (test)|o;o
+ocitocina|oxytocin|o
+outorgar|to grant, to confer|v
+parabens|congratulations; happy birthday|o;o
+peidar|to fart|v
+polígono|polygon|o
+poético|poetic|o
+prestigioso|prestigious|o
+quantificar|to quantify|v
+refletindo|reflecting|o
+rendição|surrender|o
+saxofone|saxophone|o
+submetido|submitted; subjected (to)|o;o
+sátira|satire|o
+turbina|turbine|o
+armênios|Armenians; Armenian (pl.)|o;o
+bilheteria|box office; ticket office|o;o
+conceitual|conceptual|o
+covers|covers (songs)|o
+departamental|departmental|o
+eletrólito|electrolyte|o
+homofobia|homophobia|o
+impeachment|impeachment|o
+monárquico|monarchic, monarchist|o
+remodelação|refurbishment, remodelling; reshuffle|o;o
+sina|fate, destiny|o

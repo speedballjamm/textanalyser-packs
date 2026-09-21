@@ -6678,3 +6678,2816 @@ o'clock|pukul, jam (menyebutkan waktu)|o
 ma'am|Bu, Nyonya (sapaan sopan kepada wanita)|o
 y'all|kalian (tidak resmi, AS bagian selatan)|f2s2p
 c'mon|ayo (informal)|o
+monetary|berkaitan dengan uang dan peredarannya, terutama oleh bank sentral|o
+fiscal|berkaitan dengan pajak dan belanja pemerintah|o
+eurozone|zona euro, kelompok negara pengguna euro|o
+inflation|kenaikan harga secara umum; pengisian dengan udara|o;o
+deficit|kekurangan, saat pengeluaran melebihi pendapatan|o
+export|mengekspor, menjual barang ke negara lain|v
+stability|kestabilan, keadaan tidak berubah atau goyah|o
+debut|penampilan atau pertunjukan pertama|o
+anti|anti, menentang|o
+economist|ekonom, ahli ekonomi|o
+infrastructure|prasarana, sistem dasar suatu negara seperti jalan, listrik, dan air|o
+unemployment|keadaan tidak punya pekerjaan; jumlah pengangguran|o;o
+policymaker|pembuat kebijakan pemerintah atau organisasi|o
+innovation|gagasan atau metode baru; pembaruan, pengenalan gagasan baru|o;o
+emission|emisi, pelepasan gas atau zat lain ke udara|o
+inequality|ketimpangan, pembagian kekayaan atau hak yang tidak merata|o
+sustainable|berkelanjutan, dapat bertahan lama tanpa menimbulkan kerusakan|o
+recession|resesi, masa ketika ekonomi menyusut|o
+economics|ilmu ekonomi|o
+productivity|produktivitas, hasil yang dicapai dibanding usaha atau waktu|o
+implement|melaksanakan, menerapkan|v
+largely|sebagian besar, terutama|o
+globalization|globalisasi, makin eratnya hubungan ekonomi dan budaya di seluruh dunia|o
+commentator|komentator, pengamat di media|o
+governance|tata kelola organisasi atau negara|o
+consumption|konsumsi, pemakaian barang atau energi; makan atau minum|o;o
+trillion|triliun (1.000.000.000.000)|o
+sanction|sanksi terhadap suatu negara; izin resmi|o;o
+integration|penyatuan bagian-bagian menjadi satu; pembauran suatu kelompok dalam masyarakat|o;o
+structural|struktural, berkaitan dengan struktur dasar|o
+pandemic|pandemi, wabah yang menyebar ke banyak negara|o
+populist|populis, menarik rakyat biasa melawan kaum elite|o
+vector|vektor, besaran yang punya nilai dan arah; pembawa penyakit|o;o
+incentive|insentif, pendorong, motivasi|o
+probability|probabilitas, kemungkinan|o
+variable|variabel, besaran yang dapat berubah|o
+contrast|perbedaan yang jelas, kontras|o
+framework|kerangka, susunan dasar atau rangkaian gagasan|o
+reduction|pengurangan, penurunan|o
+financing|pembiayaan, pendanaan|o
+surplus|surplus, kelebihan, sisa|o
+coalition|koalisi, persekutuan, terutama partai politik|o
+technological|teknologis, berkaitan dengan teknologi|o
+similarly|demikian pula, dengan cara yang sama|o
+tariff|tarif, bea atas barang impor atau ekspor|o
+nomination|pencalonan, nominasi untuk jabatan atau penghargaan|o
+stimulus|stimulus, pendorong kegiatan, terutama belanja pemerintah untuk menggerakkan ekonomi|o
+prosperity|kemakmuran, kesejahteraan|o
+portray|menggambarkan, melukiskan|v
+graph|grafik, diagram hubungan antarnilai|o
+effectively|pada praktiknya, pada dasarnya; secara efektif, dengan berhasil|o;o
+consist|terdiri (atas)|v
+consensus|kesepakatan umum, konsensus|o
+institutional|kelembagaan, berkaitan dengan lembaga|o
+bilateral|bilateral, melibatkan dua pihak atau negara|o
+expansion|perluasan, pertumbuhan|o
+output|hasil, jumlah produksi|o
+format|format, bentuk penyajian|o
+politically|secara politik|o
+premier|perdana menteri, kepala pemerintahan|o
+adaptation|penyesuaian dengan keadaan baru; adaptasi, film atau drama dari sebuah buku|o;o
+thereby|dengan demikian, sebagai akibatnya|o
+austerity|penghematan ketat belanja pemerintah|o
+subsidy|subsidi, bantuan uang dari pemerintah untuk menekan biaya|o
+uncertainty|ketidakpastian, keraguan|o
+equity|ekuitas, saham kepemilikan perusahaan; keadilan|o;o
+publication|penerbitan; terbitan, buku atau majalah yang diterbitkan|o;o
+referendum|referendum, pemungutan suara rakyat atas satu pertanyaan|o
+node|simpul, titik pertemuan dalam jaringan|o
+presidency|jabatan atau masa jabatan presiden|o
+escalation|eskalasi, peningkatan cepat, intensifikasi|o
+widely|secara luas, oleh banyak orang, di banyak tempat|o
+creditor|kreditur, pihak yang memberi utang|o
+multilateral|multilateral, melibatkan beberapa negara|o
+composer|komponis, penggubah musik|o
+symbolic|simbolis, melambangkan sesuatu|o
+mid|pertengahan, tengah-tengah|o
+significantly|secara signifikan, cukup besar atau berarti|o
+default|gagal bayar utang; pengaturan bawaan|o;o
+derivative|derivatif, produk keuangan berdasarkan nilai aset lain; turunan, laju perubahan fungsi (matematika)|o;o
+regulatory|berkaitan dengan peraturan dan pengawasan resmi|o
+contemporary|kontemporer, masa kini, modern; sezaman|o;o
+ratio|rasio, perbandingan dua jumlah|o
+pre|pra-, sebelum|o
+sovereignty|kedaulatan|o
+migration|migrasi, perpindahan manusia atau hewan dari satu tempat ke tempat lain|o
+nationalist|nasionalis, orang yang sangat membela kepentingan atau kemerdekaan bangsanya|o
+commodity|komoditas, bahan mentah atau produk yang diperdagangkan, seperti minyak atau gandum|o
+provocation|provokasi, tindakan untuk memancing kemarahan atau reaksi|o
+capitalism|kapitalisme, sistem ekonomi berdasarkan kepemilikan pribadi dan laba|o
+compute|menghitung|v
+activist|aktivis, orang yang memperjuangkan perubahan|o
+electoral|berkaitan dengan pemilihan umum|o
+competitiveness|daya saing|o
+widespread|meluas, tersebar di banyak tempat|o
+notable|patut dicatat, penting|o
+constitutional|konstitusional, berkaitan dengan atau diizinkan oleh konstitusi|o
+liquidity|likuiditas, ketersediaan uang tunai atau aset yang mudah dijual|o
+renminbi|renminbi, mata uang Tiongkok|o
+uncontrolled|tidak terkendali|o
+migrant|pendatang, migran, orang yang pindah ke tempat atau negara lain|o
+subsequently|kemudian, sesudah itu|o
+augur|meramalkan, menjadi pertanda (augur well: menjanjikan hasil baik)|v
+comprehensive|menyeluruh, lengkap|o
+reinforce|memperkuat, mendukung|v
+macroeconomic|makroekonomi, berkaitan dengan ekonomi secara keseluruhan|o
+thinker|pemikir, cendekiawan|o
+timely|tepat waktu, pada saat yang tepat|o
+efficiency|efisiensi, hasil guna tanpa banyak membuang waktu atau tenaga|o
+implication|implikasi, akibat yang mungkin; hal yang tersirat|o;o
+integrate|memadukan menjadi satu; membaurkan ke dalam kelompok|v;v
+rural|pedesaan|o
+legitimacy|legitimasi, keabsahan|o
+unlimited|tak terbatas|o
+commonly|biasanya, umumnya|o
+genre|genre, jenis karya seni, musik, atau tulisan|o
+agricultural|berkaitan dengan pertanian|o
+ethnic|etnis, berkaitan dengan suku bangsa atau kelompok budaya|o
+recur|terulang, terjadi lagi|v
+caput|kepala (dalam per caput: per orang)|o
+geopolitical|geopolitik, berkaitan dengan pengaruh geografi terhadap politik antarnegara|o
+synagogue|sinagoge, rumah ibadah Yahudi|o
+neuron|neuron, sel saraf|o
+imbalance|ketidakseimbangan|o
+authoritarian|otoriter, menuntut kepatuhan mutlak, tidak demokratis|o
+nonetheless|meskipun demikian, namun|o
+facilitate|memudahkan, memfasilitasi|v
+typically|biasanya, pada umumnya|o
+agriculture|pertanian|o
+legislation|perundang-undangan, pembuatan undang-undang|o
+nationalism|nasionalisme, sikap membela kepentingan atau kemerdekaan bangsa|o
+feminist|feminis, pendukung hak dan kesetaraan perempuan|o
+unprecedented|belum pernah terjadi sebelumnya|o
+prominent|terkemuka, terkenal; menonjol|o;o
+mandate|mandat, wewenang atau perintah resmi; wewenang dari pemilih|o;o
+interact|berinteraksi, saling memengaruhi atau berkomunikasi|v
+census|sensus, penghitungan penduduk resmi|o
+certification|sertifikasi, pengesahan resmi|o
+parliamentary|parlementer, berkaitan dengan parlemen|o
+songwriter|penulis lagu|o
+diplomacy|diplomasi, pengelolaan hubungan antarnegara; kebijaksanaan dalam bersikap|o;o
+solidarity|solidaritas, kesetiakawanan|o
+regulator|regulator, badan resmi pengawas suatu industri|o
+renewable|terbarukan, seperti energi angin atau surya; dapat diperpanjang|o;o
+primarily|terutama, pertama-tama|o
+productive|produktif, menghasilkan banyak, berguna|o
+emphasize|menekankan, mementingkan|v
+latter|yang terakhir disebut (dari dua)|o
+borrowing|peminjaman uang; pinjaman, uang yang dipinjam|o;o
+rhetoric|retorika, ucapan yang membujuk atau muluk, sering tidak tulus|o
+instability|ketidakstabilan, kegoyahan|o
+provision|penyediaan, pemberian; ketentuan dalam undang-undang atau perjanjian|o;o
+participation|partisipasi, keikutsertaan|o
+electron|elektron, partikel bermuatan negatif dalam atom|o
+theta|huruf Yunani θ|o
+moderate|sedang, tidak ekstrem|o
+historian|sejarawan, ahli sejarah|o
+expenditure|pengeluaran, belanja|o
+credibility|kredibilitas, keterpercayaan|o
+inclusive|inklusif, mencakup semua orang; termasuk batas yang disebutkan|o;o
+parameter|parameter, batas atau faktor yang menentukan suatu sistem; konstanta dalam persamaan|o;o
+miniseries|miniseri, drama televisi dengan sedikit episode|o
+constraint|batasan, kendala|o
+deepen|memperdalam, menjadi lebih dalam|v
+economically|secara ekonomi; secara hemat|o;o
+humanitarian|kemanusiaan, bertujuan mengurangi penderitaan manusia|o
+conventional|konvensional, lazim, tradisional; nonnuklir (senjata)|o;o
+genus|genus, kelompok spesies yang berkerabat dalam biologi|o
+transparency|transparansi, keterbukaan; kebeningan, tembus pandang|o;o
+linear|linear, lurus; bertahap, berurutan|o;o
+underlie|mendasari, menjadi penyebab dasar|v
+slowdown|perlambatan kecepatan atau kegiatan|o
+restriction|pembatasan, aturan yang membatasi|o
+literary|sastra, berkaitan dengan kesusastraan|o
+depict|menggambarkan, melukiskan dengan kata atau gambar|v
+forecast|ramalan, prakiraan|o
+interaction|interaksi, hubungan timbal balik|o
+credible|dapat dipercaya, meyakinkan|o
+consulate|konsulat, kantor perwakilan pemerintah asing di suatu kota|o
+observer|pengamat, pemantau|o
+index|indeks, ukuran perubahan harga atau nilai; indeks, daftar kata berabjad dalam buku|o;o
+thriller|cerita menegangkan tentang kejahatan atau misteri|o
+honorary|kehormatan, diberikan sebagai penghargaan tanpa tugas biasa|o
+respectively|masing-masing, sesuai urutan yang disebut|o
+constituency|daerah pemilihan; para pemilih di daerah itu|o;o
+restructuring|restrukturisasi, penataan ulang, terutama perusahaan atau utang|o
+incorporate|memasukkan, menggabungkan sebagai bagian|v
+narrative|narasi, cerita, kisah peristiwa|o
+domain|bidang kegiatan atau ilmu; wilayah kekuasaan|o;o
+spur|mendorong, memacu|v
+axis|sumbu putar; sumbu acuan pada grafik; poros, persekutuan|o;o;o
+malaria|malaria, penyakit yang ditularkan nyamuk|o
+diversity|keberagaman, keanekaragaman|o
+twentieth|ke-20, kedua puluh|o
+creativity|kreativitas, daya cipta|o
+bias|bias, keberpihakan yang tidak adil|o
+formerly|dahulu, sebelumnya|o
+acclaim|pujian, terutama dari kritikus|o
+innovative|inovatif, baru dan orisinal|o
+ideology|ideologi, sistem keyakinan, terutama politik|o
+sustainability|keberlanjutan, kemampuan bertahan lama tanpa merusak lingkungan|o
+bailout|dana talangan, penyelamatan keuangan perusahaan atau negara|o
+diminish|mengurangi, berkurang|v
+shareholder|pemegang saham|o
+premiere|pemutaran perdana, pertunjukan pertama|o
+robust|kuat, kokoh|o
+mobilize|mengerahkan, memobilisasi|v
+equality|kesetaraan, persamaan, terutama dalam hak|o
+genome|genom, seluruh materi genetik suatu organisme|o
+velocity|kecepatan ke arah tertentu|o
+liberalization|liberalisasi, penghapusan pembatasan, terutama perdagangan|o
+populism|populisme, politik yang mengaku mewakili rakyat biasa melawan kaum elite|o
+sitcom|komedi situasi di televisi|o
+subsequent|berikutnya, kemudian|o
+dramatically|secara drastis, tiba-tiba dan besar; secara teatrikal|o;o
+aggregate|agregat, total, gabungan|o
+counterpart|mitra, padanan, pihak dengan peran yang sama di tempat lain|o
+globally|secara global, di seluruh dunia|o
+collaboration|kolaborasi, kerja sama|o
+outbreak|pecahnya penyakit atau kekerasan secara tiba-tiba, wabah|o
+secular|sekuler, tidak berkaitan dengan agama|o
+soundtrack|musik film|o
+exacerbate|memperburuk|v
+costly|mahal|o
+offset|mengimbangi, menutupi|v
+derive|memperoleh dari suatu sumber; berasal dari|v;v
+enforce|menegakkan hukum atau aturan|v
+regulate|mengatur dengan peraturan|v
+ideological|ideologis, berkaitan dengan ideologi|o
+comprise|terdiri atas, meliputi|v
+vertex|titik sudut, titik pertemuan garis|o
+educational|berkaitan dengan pendidikan|o
+indicator|indikator, tanda atau ukuran suatu keadaan|o
+northeast|timur laut|o
+mitigate|meringankan, mengurangi dampak|v
+rename|mengganti nama|v
+greenhouse|rumah kaca untuk menanam tumbuhan; rumah kaca (gas), memerangkap panas di atmosfer|o;o
+annually|setiap tahun|o
+progressive|progresif, mendukung pembaruan sosial; bertahap|o;o
+willingness|kesediaan, kemauan|o
+adviser|penasihat|o
+nominee|calon, nominasi untuk jabatan atau penghargaan|o
+pollution|polusi, pencemaran udara, air, atau tanah|o
+territorial|teritorial, berkaitan dengan wilayah|o
+extremist|ekstremis, orang berpandangan politik atau agama yang ekstrem|o
+quantitative|kuantitatif, diukur dengan angka|o
+imperative|sangat penting, mendesak|o
+stance|sikap, pendirian terhadap suatu isu|o
+feat|prestasi yang membutuhkan keterampilan atau kekuatan|o
+vis|(dalam vis-à-vis) berkaitan dengan, dibandingkan dengan|o
+sine|sinus, fungsi trigonometri, perbandingan sisi depan dengan sisi miring|o
+taxpayer|wajib pajak, pembayar pajak|o
+administrative|administratif, berkaitan dengan pengelolaan organisasi atau pemerintahan|o
+ecosystem|ekosistem, komunitas makhluk hidup beserta lingkungannya|o
+quo|(dalam status quo) keadaan yang ada sekarang|o
+coordination|koordinasi, pengaturan agar orang atau bagian bekerja sama|o
+inevitably|mau tidak mau, pasti|o
+accountability|akuntabilitas, tanggung jawab atas tindakan sendiri|o
+proliferation|proliferasi, penyebaran atau pertambahan cepat, terutama senjata|o
+dictatorship|kediktatoran, pemerintahan oleh diktator|o
+constitute|membentuk, menyusun; merupakan, sama dengan|v;v
+deflation|deflasi, penurunan harga secara umum|o
+disruption|gangguan, kekacauan|o
+implementation|pelaksanaan, penerapan rencana atau keputusan|o
+adequate|memadai, cukup|o
+communism|komunisme, sistem yang harta bendanya dimiliki masyarakat atau negara|o
+correspond|sesuai, sepadan; berkirim surat|v;v
+shortage|kekurangan, kelangkaan|o
+northwest|barat laut|o
+sequel|sekuel, buku atau film lanjutan cerita sebelumnya|o
+evaluate|menilai, mengevaluasi|v
+situate|menempatkan dalam lokasi atau konteks tertentu|v
+unsustainable|tidak berkelanjutan, tidak dapat bertahan lama|o
+inadequate|tidak memadai, kurang|o
+predecessor|pendahulu, pemegang jabatan sebelumnya|o
+systemic|sistemik, memengaruhi seluruh sistem|o
+attribute|menganggap sebagai penyebab atau milik|v
+viable|layak, dapat berhasil|o
+nautical|bahari, berkaitan dengan kapal atau pelayaran|o
+bloc|blok, kelompok negara atau partai yang bertindak bersama|o
+intensive|intensif, terpusat, menyeluruh|o
+entrepreneur|wirausahawan, pengusaha|o
+emergence|kemunculan, kelahiran|o
+animate|menghidupkan; membuat film animasi|v;v
+furthermore|selain itu, lagi pula|o
+nominal|hanya nama, tidak sungguhan; nominal, belum disesuaikan dengan inflasi|o;o
+participant|peserta|o
+segment|bagian, segmen|o
+southwest|barat daya|o
+displace|mengusir dari tempat atau rumah; menggantikan|v;v
+downturn|kemerosotan kegiatan ekonomi|o
+inflow|arus masuk uang atau orang|o
+designate|menunjuk, menetapkan secara resmi|v
+stagnation|stagnasi, kemandekan|o
+cosine|kosinus, fungsi trigonometri, perbandingan sisi samping dengan sisi miring|o
+intensify|mengintensifkan, menguat|v
+tourism|pariwisata|o
+induce|menyebabkan, menimbulkan; membujuk|v;v
+confrontation|konfrontasi, pertentangan|o
+remix|remiks, versi baru sebuah rekaman|o
+ownership|kepemilikan|o
+microbe|mikroba, jasad renik, terutama kuman|o
+dominant|dominan, paling berkuasa atau berpengaruh|o
+enact|mengesahkan menjadi undang-undang; memerankan|v;v
+monopoly|monopoli, penguasaan penuh pasar oleh satu pemasok|o
+complexity|kerumitan, kompleksitas|o
+notably|terutama; secara mencolok|o;o
+undertake|menjalankan, memulai tugas|v
+ranking|peringkat|o
+nineteenth|ke-19, kesembilan belas|o
+orient|mengarahkan; menentukan arah, mengenali keadaan|v;v
+volatility|volatilitas, gejolak, ketidakstabilan|o
+developer|pengembang properti atau perangkat lunak|o
+characterize|mencirikan, menggambarkan sifat; menjadi ciri khas|v;v
+substantially|secara substansial, cukup besar|o
+safeguard|melindungi, menjaga|v
+empower|memberdayakan|v
+crore|sepuluh juta (di India dan Asia Selatan)|o
+constrain|membatasi, mengekang|v
+impede|menghambat, merintangi|v
+multi|multi-, banyak|o
+subtract|mengurangi, mengurangkan bilangan|v
+demographic|demografis, berkaitan dengan penduduk; kelompok penduduk|o;o
+earnings|penghasilan; laba perusahaan|o;o
+undoubtedly|tidak diragukan lagi, pasti|o
+vulnerability|kerentanan, kelemahan|o
+bankruptcy|kebangkrutan, pailit|o
+effectiveness|efektivitas, keampuhan|o
+originate|berasal, bermula|v
+broadly|secara umum; secara luas|o;o
+lender|pemberi pinjaman|o
+mainstream|arus utama|o
+protectionism|proteksionisme, perlindungan industri dalam negeri dengan tarif impor|o
+underpin|menopang, mendasari|v
+clinical|klinis, berkaitan dengan perawatan pasien; dingin, tanpa perasaan|o;o
+congressional|berkaitan dengan kongres, terutama Kongres AS|o
+recipient|penerima|o
+uncertain|tidak yakin; tidak pasti|o;o
+fundamentally|pada dasarnya, secara mendasar|o
+entail|melibatkan, memerlukan|v
+allocate|mengalokasikan, membagikan|v
+entity|entitas, badan yang berdiri sendiri seperti organisasi|o
+semi|semi-, setengah, sebagian|o
+resilience|ketahanan, daya pulih|o
+cyber|siber, berkaitan dengan komputer dan internet|o
+decisive|menentukan; tegas, cepat mengambil keputusan|o;o
+assert|menegaskan; menuntut (hak)|v;v
+widen|melebarkan, melebar|v
+flexible|lentur; luwes, mudah menyesuaikan diri|o;o
+transgender|transgender, memiliki identitas gender yang berbeda dari jenis kelamin saat lahir|o
+representation|perwakilan; penggambaran|o;o
+diverse|beragam, bermacam-macam|o
+erode|mengikis, terkikis sedikit demi sedikit|v
+historically|pada masa lalu; secara historis|o;o
+worsen|memperburuk, memburuk|v
+variant|varian, bentuk atau versi lain|o
+mobility|mobilitas, kemampuan bergerak; mobilitas sosial atau ekonomi|o;o
+seemingly|tampaknya, kelihatannya|o
+turmoil|kekacauan, pergolakan|o
+bolster|menopang, memperkuat|v
+influential|berpengaruh|o
+prolong|memperpanjang|v
+protester|pengunjuk rasa, demonstran|o
+taxation|perpajakan|o
+persist|berlanjut, bertahan; bersikeras, tetap berusaha meski sulit|v;v
+upcoming|mendatang, yang akan datang|o
+multinational|multinasional, beroperasi di beberapa negara|o
+municipality|kotamadya, kota atau daerah berpemerintahan sendiri|o
+uphold|menjunjung, mempertahankan|v
+flexibility|fleksibilitas, keluwesan|o
+loom|membayangi, mengancam, sudah di ambang|v
+query|pertanyaan|o
+empathy|empati|o
+precede|mendahului|v
+colonial|kolonial, berkaitan dengan penjajahan|o
+revival|kebangkitan kembali|o
+escalate|meningkat atau memanas dengan cepat|v
+exporter|eksportir, negara atau perusahaan pengekspor|o
+cognitive|kognitif, berkaitan dengan berpikir dan memahami|o
+workforce|tenaga kerja, angkatan kerja|o
+controversy|kontroversi, perselisihan publik|o
+destabilize|mengganggu kestabilan|v
+enlargement|perluasan, pembesaran|o
+indigenous|pribumi, asli suatu tempat|o
+transatlantic|transatlantik, melintasi atau berkaitan dengan kedua sisi Atlantik|o
+accumulate|mengumpulkan, menumpuk|v
+municipal|berkaitan dengan pemerintah kota|o
+transparent|terbuka, jujur; tembus pandang, bening|o;o
+equilibrium|keseimbangan, ekuilibrium|o
+erupt|pecah, meledak tiba-tiba; meletus (gunung berapi)|v;v
+simplify|menyederhanakan|v
+popularity|popularitas, ketenaran|o
+criterion|kriteria, tolok ukur|o
+linguistic|linguistik, berkaitan dengan bahasa|o
+affordable|terjangkau|o
+reliance|ketergantungan|o
+autonomy|otonomi, kemandirian|o
+minimize|meminimalkan, mengurangi sekecil mungkin|v
+openness|keterusterangan; keterbukaan terhadap gagasan baru|o;o
+policymaking|pembuatan kebijakan|o
+preference|kesukaan, preferensi; perlakuan istimewa|o;o
+decrease|mengurangi, berkurang|v
+prosperous|makmur, sejahtera|o
+array|susunan, deretan, rangkaian luas|o
+consolidate|memperkuat, memantapkan; menggabungkan|v;v
+momentum|momentum, daya gerak; semangat, dorongan|o;o
+devaluation|devaluasi, penurunan nilai mata uang|o
+repression|represi, penindasan; penekanan perasaan|o;o
+reside|tinggal, bertempat tinggal|v
+adverse|merugikan, buruk|o
+discrimination|diskriminasi, perlakuan tidak adil; kemampuan membedakan|o;o
+informal|informal, tidak resmi, santai|o
+outlook|prospek, perkiraan keadaan mendatang; pandangan, sikap|o;o
+depreciation|depresiasi, penurunan nilai|o
+utility|kegunaan; perusahaan penyedia air, listrik, atau gas|o;o
+hash|campur aduk, kekacauan; hash, nilai yang dihitung dari data (komputer)|o;o
+robotic|robotik, berkaitan dengan robot; kaku, seperti mesin|o;o
+dependence|ketergantungan pada seseorang atau sesuatu; kecanduan|o;o
+ethical|etis, benar secara moral; berkaitan dengan etika|o;o
+gov|pemerintah (singkatan)|o
+animation|animasi, pembuatan film dari gambar atau model; semangat, kegairahan|o;o
+awareness|kesadaran, pengetahuan|o
+endorse|mendukung secara terbuka, menyetujui|v
+aftermath|akibat, dampak dari peristiwa buruk|o
+simultaneously|secara bersamaan, serentak|o
+borrower|peminjam|o
+denominator|penyebut|o
+electorate|para pemilih|o
+evident|jelas, nyata|o
+periphery|pinggiran, tepi luar|o
+insufficient|tidak cukup|o
+interface|antarmuka, titik penghubung antarsistem; antarmuka pengguna|o;o
+spectrum|rentang, kisaran; spektrum warna cahaya|o;o
+formally|secara resmi; secara formal|o;o
+protectionist|proteksionis, mendukung perlindungan industri dalam negeri dari impor|o
+underscore|menekankan, menggarisbawahi|v
+fictional|fiktif, rekaan|o
+rebalance|menyeimbangkan kembali|v
+reportedly|kabarnya, menurut laporan|o
+collaborate|bekerja sama|v
+analyst|analis|o
+capitalist|kapitalis, mendukung kapitalisme; pemodal|o;o
+chronic|kronis, menahun|o
+dilemma|dilema, pilihan yang sulit|o
+portfolio|portofolio investasi; portofolio, kumpulan contoh karya; bidang tugas menteri|o;o;o
+module|modul, satuan atau bagian tersendiri; satuan mata kuliah|o;o
+theatrical|teatrikal, berkaitan dengan teater; berlebihan, dibuat-buat|o;o
+consistently|secara konsisten, selalu sama|o
+consolidation|pemantapan, penguatan; penggabungan|o;o
+internationally|secara internasional, antarbangsa|o
+concession|konsesi, hal yang direlakan dalam perundingan; potongan harga|o;o
+elevation|ketinggian di atas permukaan laut; peninggian, pengangkatan|o;o
+integer|bilangan bulat|o
+fraction|sebagian kecil; pecahan, bilangan seperti ½|o;o
+additionally|selain itu, juga|o
+inter|antar-, di antara|o
+downward|ke bawah, menurun|o
+feminism|feminisme, gerakan untuk hak dan kesetaraan perempuan|o
+persistent|terus-menerus, berkepanjangan; gigih, pantang menyerah|o;o
+doctrine|doktrin, ajaran|o
+lag|keterlambatan, jeda|o
+dimensional|berdimensi, berkaitan dengan dimensi|o
+dominance|dominasi, kekuasaan atas pihak lain|o
+actively|secara aktif|o
+dictator|diktator|o
+stakeholder|pemangku kepentingan|o
+accountable|bertanggung jawab, wajib mempertanggungjawabkan tindakan|o
+marginal|kecil, sedikit; marginal, berkaitan dengan pinggiran|o;o
+outright|mutlak, sepenuhnya; terang-terangan|o;o
+classification|klasifikasi, penggolongan|o
+deteriorate|memburuk|v
+illustrate|menjelaskan dengan contoh; memberi ilustrasi, gambar|v;v
+oral|lisan; berkaitan dengan mulut|o;o
+inclusion|pencantuman, pengikutsertaan|o
+mathematical|matematis, berkaitan dengan matematika|o
+diplomat|diplomat|o
+evolutionary|evolusioner, berkaitan dengan evolusi|o
+inhabitant|penduduk, penghuni|o
+rightly|dengan benar, sepatutnya|o
+privatization|privatisasi, pengalihan dari milik negara ke swasta|o
+remake|pembuatan ulang, versi baru sebuah film|o
+reprise|mengulangi, membawakan lagi|v
+disability|disabilitas, keterbatasan fisik atau mental|o
+integral|integral, penting, tak terpisahkan|o
+prediction|prediksi, ramalan|o
+distinct|jelas berbeda; jelas, tegas|o;o
+emphasis|penekanan|o
+wellbeing|kesejahteraan, kesehatan dan kebahagiaan|o
+curb|mengekang, membatasi|v
+neo|neo-, baru, bentuk baru dari|o
+prevention|pencegahan|o
+underway|sedang berlangsung, sudah dimulai|o
+controversial|kontroversial, menimbulkan perdebatan|o
+memoir|memoar, catatan riwayat hidup sendiri|o
+backlash|reaksi keras, tanggapan negatif yang kuat|o
+density|kepadatan; massa jenis|o;o
+veto|veto, hak menolak keputusan|o
+mounting|makin meningkat, bertambah|o
+cyclical|siklis, berulang dalam siklus|o
+favorable|menyetujui, positif; menguntungkan|o;o
+phi|huruf Yunani φ|o
+provider|penyedia jasa, penyelenggara layanan|o
+accession|aksesi, masuknya ke dalam organisasi atau perjanjian; naik takhta atau jabatan|o;o
+habitat|habitat, tempat hidup alami hewan atau tumbuhan|o
+magnitude|besarnya, pentingnya; magnitudo, kekuatan gempa bumi|o;o
+duo|duo, pasangan pemain atau penyanyi|o
+coronavirus|virus korona, keluarga virus termasuk penyebab COVID-19|o
+proclaim|memproklamasikan, mengumumkan secara resmi|v
+laureate|peraih penghargaan bergengsi|o
+aspiration|aspirasi, harapan, cita-cita|o
+interpretation|tafsiran, penjelasan makna; interpretasi, cara membawakan karya|o;o
+portrayal|penggambaran, pelukisan|o
+screenwriter|penulis skenario film|o
+variation|variasi, perubahan, perbedaan; versi lain|o;o
+multilateralism|multilateralisme, kerja sama antara beberapa negara|o
+subsidize|menyubsidi, menanggung sebagian biaya|v
+bureaucracy|birokrasi, pemerintahan oleh pejabat; prosedur resmi yang berbelit-belit|o;o
+conservation|konservasi, pelestarian alam atau sumber daya|o
+autism|autisme, kondisi perkembangan yang memengaruhi komunikasi dan interaksi sosial|o
+devise|merancang, menciptakan|v
+opt|memilih|v
+commentary|komentar, siaran pandangan mata; ulasan, catatan penjelasan atau pendapat|o;o
+traditionally|secara tradisional, biasanya|o
+manufacturer|produsen, pabrikan|o
+variance|perbedaan; varians, ukuran sebaran statistik|o;o
+interval|selang waktu atau jarak; jeda, istirahat pertunjukan|o;o
+modernization|modernisasi, pembaruan|o
+considerably|jauh, secara signifikan|o
+molecular|molekuler, berkaitan dengan molekul|o
+gradual|bertahap, sedikit demi sedikit|o
+mortality|angka kematian; kefanaan|o;o
+reluctant|enggan, ragu-ragu|o
+drought|kemarau panjang, kekeringan|o
+albeit|meskipun, walaupun|o
+insecurity|rasa tidak percaya diri; ketidakamanan|o;o
+unify|menyatukan, mempersatukan|v
+exploration|penjelajahan, eksplorasi; penyelidikan, pengkajian|o;o
+dioxide|dioksida, senyawa dengan dua atom oksigen (seperti karbon dioksida)|o
+binding|mengikat secara hukum|o
+subsidiary|anak perusahaan|o
+threshold|ambang batas; ambang pintu|o;o
+debtor|debitur, orang atau negara yang berutang|o
+ensemble|ansambel, kelompok pemain musik atau seni|o
+facto|(dalam de facto) pada kenyataannya, dalam praktik|o
+beneficial|bermanfaat, menguntungkan|o
+certify|mengesahkan, menyatakan secara resmi|v
+coefficient|koefisien, bilangan pengali variabel (matematika)|o
+maximize|memaksimalkan|v
+unilateral|sepihak, unilateral|o
+manipulation|manipulasi, pengendalian yang curang; penanganan yang terampil|o;o
+automation|otomatisasi, penggunaan mesin untuk bekerja|o
+judicial|yudisial, berkaitan dengan pengadilan dan hakim|o
+logo|logo, lambang perusahaan|o
+retail|eceran, penjualan barang kepada umum|o
+consisted|terdiri, bentuk lampau dari consist|o
+consul|konsul, pejabat perwakilan negara di kota asing|o
+extremism|ekstremisme, paham politik atau agama yang ekstrem|o
+genocide|genosida, pembantaian seluruh suatu bangsa|o
+healthcare|layanan kesehatan|o
+incumbent|petahana, pemegang jabatan saat ini|o
+biodiversity|keanekaragaman hayati|o
+crochet|merenda dengan jarum kait|v
+amid|di tengah-tengah, selama|o
+resilient|tangguh, cepat pulih|o
+pronunciation|pelafalan, pengucapan|o
+protagonist|protagonis, tokoh utama|o
+digit|angka, digit dari 0 sampai 9; jari tangan atau kaki|o;o
+reconstruction|rekonstruksi, pembangunan kembali|o
+catastrophic|membawa bencana, dahsyat|o
+cooperative|kooperatif, suka membantu, mau bekerja sama|o
+unrest|kerusuhan, pergolakan|o
+unwilling|tidak mau, enggan|o
+destructive|merusak|o
+infinity|ketakterhinggaan, ruang, waktu, atau jumlah tanpa batas|o
+avert|mencegah, menghindarkan; memalingkan (pandangan)|v;v
+browser|peramban, program untuk membuka situs web|o
+inefficient|tidak efisien, boros|o
+inscription|prasasti, tulisan yang dipahat atau tertulis pada sesuatu|o
+inverse|kebalikan, terbalik|o
+allocation|jatah, bagian; pengalokasian, pembagian|o;o
+imprint|jejak, bekas tekanan; nama penerbit, merek penerbitan|o;o
+differ|berbeda; tidak sependapat|v;v
+famously|seperti diketahui umum|o
+revise|merevisi, mengubah, memperbaiki; mengulang pelajaran untuk ujian|v;v
+acute|akut, parah, gawat; tajam|o;o
+coastal|pesisir, pantai|o
+navigate|menentukan arah, bernavigasi; menghadapi, menangani|v;v
+delegation|delegasi, rombongan perwakilan; pendelegasian tugas|o;o
+entrench|menanamkan dengan kuat, mengakar|v
+filmmaker|pembuat film, sineas|o
+plummet|anjlok, jatuh dengan cepat|v
+disastrous|sangat buruk, membawa bencana|o
+hostility|permusuhan, sikap bermusuhan|o
+precedent|preseden, peristiwa terdahulu yang dijadikan contoh|o
+diagram|diagram, bagan|o
+franchise|waralaba; seri film; hak pilih|o;o;o
+reconcile|mendamaikan, merukunkan kembali; menyelaraskan|v;v
+specify|menyebutkan secara rinci, menentukan|v
+architectural|arsitektural, berkaitan dengan arsitektur|o
+racial|rasial, berkaitan dengan ras|o
+constellation|rasi bintang|o
+deem|menganggap, menilai|v
+pipeline|pipa saluran minyak atau gas; rangkaian rencana yang sedang disiapkan|o;o
+novelist|novelis, penulis novel|o
+nutrition|gizi, nutrisi|o
+synthetic|sintetis, buatan|o
+reconciliation|rekonsiliasi, perdamaian kembali|o
+unconventional|tidak lazim, tidak konvensional|o
+biologist|ahli biologi|o
+constructive|konstruktif, membangun|o
+explicitly|secara eksplisit, dengan jelas|o
+inability|ketidakmampuan|o
+voltage|tegangan listrik, voltase|o
+rein|(dalam rein in) mengekang, mengendalikan; tali kekang kuda|v;o
+continuous|terus-menerus, tanpa henti|o
+deter|mencegah, membuat jera|v
+militant|militan, orang yang berjuang secara agresif demi suatu tujuan|o
+predictable|dapat diduga, dapat diramalkan|o
+textile|tekstil, kain|o
+dismantle|membongkar|v
+foremost|terkemuka, terpenting|o
+hedge|lindung nilai, perlindungan terhadap kerugian keuangan; pagar tanaman|o;o
+jeopardize|membahayakan, mempertaruhkan|v
+superpower|negara adidaya|o
+convergence|konvergensi, pertemuan, penyatuan|o
+disparity|kesenjangan, perbedaan besar|o
+optimism|optimisme|o
+rivalry|persaingan|o
+usage|penggunaan, pemakaian|o
+workplace|tempat kerja|o
+sufficiently|cukup, secukupnya|o
+unveil|meluncurkan, memperkenalkan kepada umum untuk pertama kali|v
+cortex|korteks, lapisan luar otak|o
+namely|yaitu, yakni|o
+pixel|piksel, titik kecil dalam gambar digital|o
+racism|rasisme|o
+comparable|sebanding, dapat dibandingkan|o
+dividend|dividen, bagian laba untuk pemegang saham|o
+judiciary|lembaga peradilan|o
+accordingly|oleh karena itu; sebagaimana mestinya|o;o
+premium|biaya tambahan; premi asuransi|o;o
+prompt|mendorong, memicu|v
+ballot|pemungutan suara; surat suara|o;o
+embody|mewujudkan, melambangkan|v
+inflationary|inflasioner, menyebabkan inflasi|o
+livelihood|mata pencaharian, penghidupan|o
+ineffective|tidak efektif, tidak berhasil guna|o
+orbital|orbital, berkaitan dengan orbit|o
+chimpanzee|simpanse, kera Afrika|o
+transit|transit, angkutan, lintasan|o
+disagreement|ketidaksepakatan, perselisihan|o
+problematic|bermasalah, problematis|o
+reversal|pembalikan, perubahan ke arah sebaliknya|o
+accommodate|menampung, menyediakan tempat; menyesuaikan diri|v;v
+likelihood|kemungkinan, peluang|o
+mathematician|matematikawan, ahli matematika|o
+mutually|timbal balik, sama-sama bagi kedua pihak|o
+volatile|mudah berubah, bergejolak|o
+desirable|diinginkan, menarik|o
+pianist|pianis|o
+pika|pika, mamalia kecil pegunungan yang berkerabat dengan kelinci|o
+faction|faksi, kelompok dalam kelompok besar|o
+vertical|vertikal, tegak lurus|o
+abstract|abstrak, hanya berupa gagasan, tidak nyata|o
+adhere|mematuhi (aturan); melekat|v;v
+microscope|mikroskop|o
+trait|sifat, ciri|o
+diameter|diameter, garis tengah lingkaran|o
+neural|saraf, berkaitan dengan saraf atau otak|o
+binary|biner, terdiri atas dua bagian; berbasis 0 dan 1|o;o
+dynamism|dinamisme, semangat, gairah|o
+numerator|pembilang|o
+optimal|optimal, terbaik|o
+trajectory|lintasan benda bergerak; arah perkembangan|o;o
+chromosome|kromosom, struktur pembawa gen dalam sel|o
+ultra|ultra-, sangat, amat|o
+acceleration|percepatan|o
+feasible|layak, dapat dilaksanakan|o
+provincial|provinsi, berkaitan dengan provinsi; berpikiran sempit, kampungan|o;o
+heighten|meningkatkan, memperkuat|v
+hypothesis|hipotesis, dugaan yang perlu diuji|o
+disadvantage|kerugian, kekurangan, keadaan tidak menguntungkan|o
+quota|kuota, jatah, batas|o
+steadily|secara bertahap, ajek|o
+whereby|yang dengannya, dengan cara itu|o
+bisexual|biseksual, tertarik pada laki-laki dan perempuan|o
+mutation|mutasi, perubahan gen|o
+shortfall|kekurangan, defisit|o
+acoustic|akustik, berkaitan dengan bunyi; akustik (alat musik), tanpa listrik|o;o
+embed|menanamkan, melekatkan di dalam|v
+oversee|mengawasi|v
+refusal|penolakan|o
+modernize|memodernkan|v
+broaden|memperluas|v
+dire|sangat gawat, mengerikan|o
+notation|notasi, sistem lambang tertulis|o
+acceptance|penerimaan; persetujuan|o;o
+affiliate|afiliasi, organisasi yang bergabung|o
+curtail|memangkas, membatasi|v
+explicit|eksplisit, jelas, langsung; vulgar, menampilkan seks atau kekerasan secara terbuka|o;o
+replicate|meniru, mereplikasi|v
+geographic|geografis, berkaitan dengan geografi|o
+nutrient|zat gizi, nutrien|o
+incite|menghasut, memprovokasi|v
+sexuality|seksualitas, orientasi atau perasaan seksual|o
+coherent|koheren, logis, runtut|o
+existential|eksistensial, berkaitan dengan keberadaan; mengancam kelangsungan hidup|o;o
+overthrow|menggulingkan|v
+rejection|penolakan|o
+accessible|mudah dijangkau, digunakan, atau dipahami|o
+autobiography|otobiografi, riwayat hidup yang ditulis sendiri|o
+extinction|kepunahan|o
+socially|secara sosial; dalam pergaulan|o;o
+chronology|kronologi, urutan peristiwa|o
+discontent|ketidakpuasan|o
+geezer|laki-laki, orang (informal)|o
+governmental|berkaitan dengan pemerintahan|o
+membrane|membran, selaput tipis|o
+redistribution|redistribusi, pembagian ulang, terutama kekayaan|o
+rethink|memikirkan kembali, meninjau ulang|v
+trilogy|trilogi, rangkaian tiga karya|o
+voluntary|sukarela; tanpa bayaran|o;o
+autonomous|otonom, berdiri sendiri, mandiri|o
+citizenship|kewarganegaraan|o
+enzyme|enzim, protein yang mempercepat reaksi kimia|o
+marginalize|meminggirkan, mengesampingkan|v
+negotiator|perunding, negosiator|o
+presenter|presenter, pembawa acara|o
+scarce|langka, sedikit|o
+theorem|teorema, pernyataan matematika yang dibuktikan dengan penalaran|o
+deregulation|deregulasi, penghapusan aturan pemerintah atas suatu industri|o
+orientation|arah, posisi; orientasi, sikap atau keyakinan dasar seseorang; orientasi, sesi pengenalan|o;o;o
+plausible|masuk akal|o
+supervision|pengawasan, supervisi|o
+tolerance|toleransi terhadap pandangan berbeda; daya tahan|o;o
+cameo|cameo, penampilan singkat aktor terkenal|o
+dialect|dialek, logat daerah|o
+globalize|mengglobalkan, menyebar ke seluruh dunia|v
+sigma|huruf Yunani σ; lambang penjumlahan|o;o
+maternal|keibuan, berkaitan dengan ibu|o
+viral|disebabkan virus; viral, cepat menyebar di internet|o;o
+accredit|mengakreditasi, mengakui secara resmi memenuhi standar|v
+atheist|ateis, orang yang tidak percaya Tuhan|o
+dependency|ketergantungan; daerah jajahan, wilayah yang dikuasai negara lain|o;o
+enroll|mendaftar sebagai anggota atau siswa|v
+maritime|maritim, berkaitan dengan laut atau pelayaran|o
+ratify|meratifikasi, mengesahkan (perjanjian)|v
+contraction|penyusutan, kontraksi; bentuk singkat kata seperti don't|o;o
+dub|menjuluki; menyulih suara film|v;v
+parable|perumpamaan, cerita pendek bermoral|o
+deployment|pengerahan pasukan atau sumber daya|o
+partially|sebagian|o
+upward|ke atas, naik|o
+acquisition|akuisisi, pembelian perusahaan atau aset; pemerolehan (keterampilan atau bahasa)|o;o
+civic|berkaitan dengan kota atau warga|o
+commemorate|memperingati|v
+pathway|jalan setapak; rangkaian langkah, jalur|o;o
+distinction|perbedaan yang jelas; keunggulan, kehormatan|o;o
+guitarist|gitaris|o
+mindset|pola pikir, sikap|o
+anthology|antologi, kumpulan tulisan atau lagu|o
+arsenal|gudang senjata, persenjataan|o
+catalog|katalog, daftar lengkap|o
+denounce|mengecam secara terbuka|v
+meltdown|keruntuhan mendadak; pelelehan inti reaktor nuklir|o;o
+shortcoming|kekurangan, kelemahan|o
+pinkie|jari kelingking|o
+receptor|reseptor, struktur sel yang menanggapi rangsangan|o
+polynomial|polinomial, suku banyak (matematika)|o
+pragmatic|pragmatis, praktis, realistis|o
+restraint|pengendalian diri; pembatasan|o;o
+solely|hanya, semata-mata|o
+stabilization|stabilisasi, pemantapan|o
+tradable|dapat diperdagangkan|o
+urbanization|urbanisasi, pertumbuhan kota|o
+extensively|secara luas, secara menyeluruh|o
+projection|proyeksi, perkiraan masa depan; proyeksi, gambar yang dipancarkan ke layar|o;o
+tribunal|tribunal, pengadilan atau badan resmi yang mengadili sengketa|o
+unfold|berkembang, terjadi; membuka lipatan, membentangkan|v;v
+cohesion|kohesi, kesatuan, kekompakan|o
+diversify|menganekaragamkan, merambah bidang baru|v
+infectious|menular, infeksius|o
+restoration|pemulihan, restorasi|o
+ringer|(dalam dead ringer) orang yang sangat mirip dengan orang lain; pengganti curang dalam pertandingan|o;o
+romanize|melatinkan, menulis dengan huruf Latin|v
+surpass|melampaui, mengungguli|v
+arguably|bisa dibilang, dapat dikatakan|o
+oversight|pengawasan; kelalaian, kekhilafan|o;o
+resentment|kekesalan, sakit hati karena diperlakukan tidak adil|o
+sectarian|sektarian, berkaitan dengan konflik antarkelompok agama|o
+contagion|penularan penyakit atau pengaruh buruk|o
+succession|rangkaian, urutan; suksesi, pewarisan gelar atau jabatan|o;o
+bureaucrat|birokrat, pejabat pemerintah|o
+capitalize|memanfaatkan; menulis dengan huruf kapital; menyediakan modal|v;v;v
+consecutive|berturut-turut|o
+discredit|mencemarkan nama baik, mendiskreditkan|v
+disruptive|mengganggu|o
+illiberal|tidak liberal, membatasi kebebasan, tidak toleran|o
+nurture|mengasuh, memupuk|v
+outlet|gerai, toko penjual produk perusahaan; saluran, sarana pengungkapan; media, organisasi media|o;o;o
+parity|paritas, kesetaraan|o
+rapper|rapper, penyanyi musik rap|o
+bureaucratic|birokratis, berkaitan dengan birokrasi; berbelit-belit|o;o
+eventual|pada akhirnya|o
+expansionary|ekspansif, mendorong pertumbuhan ekonomi|o
+hub|pusat kegiatan; poros roda|o;o
+implicit|tersirat, implisit|o
+ion|ion, atom atau molekul bermuatan listrik|o
+polarization|polarisasi, perpecahan menjadi kubu-kubu yang berlawanan|o
+aerial|dari udara|o
+hegemony|hegemoni, dominasi satu kelompok atau negara|o
+nihilist|nihilis, orang yang percaya hidup tidak bermakna|o
+behavioral|perilaku, berkaitan dengan perilaku|o
+paradox|paradoks, pernyataan atau keadaan yang tampak bertentangan|o
+payoff|imbalan, keuntungan; suap|o;o
+simulation|simulasi, tiruan atau model suatu keadaan|o
+diabetes|diabetes, kencing manis|o
+indebted|berutang; berutang budi, berterima kasih|o;o
+monarch|raja atau ratu, penguasa monarki|o
+accumulation|akumulasi, penumpukan bertahap|o
+omega|omega, huruf terakhir abjad Yunani, ω|o
+socialism|sosialisme, sistem kepemilikan bersama dan pembagian yang adil|o
+symmetry|simetri, kesetangkupan|o
+denote|menunjukkan, berarti|v
+equitable|adil, merata|o
+icon|ikon, lambang terkenal; ikon, gambar kecil di layar|o;o
+prof|profesor (informal)|o
+industrialization|industrialisasi|o
+paradigm|paradigma, model, pola khas|o
+reap|memperoleh (manfaat); menuai, memanen|v;v
+vocalist|vokalis, penyanyi|o
+sanitation|sanitasi, sistem air bersih dan pembuangan limbah|o
+denominate|menyatakan dalam mata uang tertentu|v
+illustration|ilustrasi, gambar; contoh|o;o
+recycle|mendaur ulang|v
+removal|pemindahan, penghapusan|o
+speculative|spekulatif, berdasarkan dugaan; spekulatif, berisiko (investasi)|o;o
+disarmament|perlucutan senjata|o
+fertility|kesuburan, kemampuan punya anak; kesuburan tanah|o;o
+uprising|pemberontakan|o
+artwork|karya seni; gambar dan ilustrasi dalam terbitan|o;o
+doctorate|gelar doktor|o
+neuroscience|ilmu saraf, neurosains|o
+optical|optik, berkaitan dengan penglihatan atau cahaya|o
+straightforward|sederhana, mudah; jujur, terus terang|o;o
+aesthetic|estetis, berkaitan dengan keindahan atau seni|o
+expectancy|harapan (dalam life expectancy: angka harapan hidup)|o
+partisan|partisan, sangat memihak satu partai|o
+proxy|proksi, wakil, pihak yang bertindak atas nama pihak lain|o
+psi|huruf Yunani ψ|o
+incur|menanggung (biaya atau denda), mendatangkan pada diri sendiri|v
+ironically|ironisnya|o
+suffrage|hak pilih|o
+exclusively|hanya, semata-mata|o
+persecution|penganiayaan, persekusi karena keyakinan atau identitas|o
+playwright|penulis naskah drama|o
+trio|trio, kelompok tiga|o
+beneficiary|penerima manfaat, ahli waris|o
+compliance|kepatuhan terhadap aturan|o
+discourse|wacana, diskusi, perdebatan; cara membicarakan suatu pokok|o;o
+industrialize|mengindustrialisasikan|v
+presumably|barangkali, diduga|o
+recursive|rekursif, berulang dengan merujuk pada dirinya sendiri|o
+seeker|pencari (mis. asylum seeker: pencari suaka)|o
+collectively|secara bersama-sama, secara kolektif|o
+convene|mengadakan pertemuan, bersidang|v
+inhabit|mendiami, menghuni|v
+median|median, nilai tengah dalam data berurut|o
+complement|pelengkap, penyempurna|o
+correlation|korelasi, hubungan timbal balik|o
+embark|memulai; naik kapal atau pesawat|v;v
+unclear|tidak jelas, belum pasti|o
+centralize|memusatkan, menyentralisasi|v
+emigrate|beremigrasi, pindah ke negara lain|v
+prominence|keterkemukaan, ketenaran|o
+rotation|rotasi, perputaran; pergiliran, bergantian|o;o
+algebra|aljabar|o
+archaeological|arkeologis, berkaitan dengan arkeologi|o
+budgetary|berkaitan dengan anggaran|o
+compilation|kompilasi, himpunan|o
+grievance|keluhan, rasa diperlakukan tidak adil|o
+proponent|pendukung, penganjur|o
+adjacent|bersebelahan, berdekatan|o
+computation|perhitungan, komputasi|o
+distortion|distorsi, perubahan bentuk; pemutarbalikan fakta|o;o
+eradicate|memberantas, membasmi|v
+formulate|merumuskan, menyusun; mengungkapkan dengan tepat|v;v
+harmful|berbahaya, merugikan|o
+imaging|pencitraan tubuh atau benda|o
+larva|larva, jentik, tahap muda serangga|o
+resistant|tahan, kebal; menentang|o;o
+telecommunication|telekomunikasi|o
+caste|kasta|o
+emit|memancarkan, mengeluarkan (cahaya, gas, bunyi)|v
+abolish|menghapuskan secara resmi|v
+containment|pembendungan, penahanan agar tetap terkendali|o
+exemplify|mencontohkan, menjadi contoh khas|v
+foreseeable|dapat diperkirakan|o
+atrocity|kekejaman|o
+benchmark|tolok ukur, patokan|o
+demise|akhir, kematian|o
+deterrence|penangkalan, pencegahan serangan dengan ancaman balasan|o
+pointer|petunjuk, saran; penunjuk, indikator|o;o
+shale|serpih, batuan berlapis sumber minyak dan gas|o
+calorie|kalori|o
+entrepreneurship|kewirausahaan|o
+limitation|pembatasan; kelemahan, keterbatasan|o;o
+malaise|rasa tidak enak, kelesuan umum|o
+meditation|meditasi, semadi|o
+oligarch|oligark, orang kaya yang berpengaruh politik|o
+practitioner|praktisi|o
+crony|kroni, teman dekat, terutama yang diistimewakan|o
+guideline|pedoman, panduan|o
+liberalism|liberalisme, paham yang mengutamakan kebebasan dan pembaruan|o
+mater|(dalam alma mater) almamater, sekolah atau universitas asal|o
+mythology|mitologi, kumpulan mitos|o
+overwhelmingly|sangat, dengan mayoritas mutlak|o
+compile|menyusun, menghimpun|v
+conditional|bersyarat|o
+fairness|keadilan, ketidakberpihakan|o
+landmark|tengara, bangunan atau ciri yang terkenal; tonggak sejarah, titik balik|o;o
+misguide|menyesatkan|v
+spacecraft|pesawat antariksa|o
+adversary|lawan, musuh|o
+dual|ganda, rangkap|o
+invoke|memanggil, merujuk, mengutip|v
+enrich|memperkaya, menyempurnakan; membuat lebih kaya|v;v
+liberalize|meliberalisasi, menghapus pembatasan|v
+multiplication|perkalian; perbanyakan, pertambahan jumlah|o;o
+philosophical|filosofis, berkaitan dengan filsafat; tabah, tenang menghadapi kesulitan|o;o
+polio|polio, penyakit virus yang dapat menyebabkan kelumpuhan|o
+critically|secara serius, gawat; secara kritis|o;o
+leftist|kiri, pendukung politik kiri|o
+longstanding|sudah lama berlangsung|o
+reformer|reformis, pembaru|o
+interestingly|menariknya|o
+predominantly|sebagian besar, terutama|o
+residential|perumahan, hunian|o
+stifle|mengekang, menahan|v
+utilize|memanfaatkan, menggunakan|v
+legislature|badan legislatif|o
+obscure|tidak dikenal; tidak jelas, kabur|o;o
+profitable|menguntungkan|o
+reproduce|menyalin, memperbanyak; berkembang biak|v;v
+sensory|indrawi, berkaitan dengan pancaindra|o
+summary|ringkasan, ikhtisar|o
+theoretical|teoretis|o
+allele|alel, salah satu bentuk gen|o
+aspire|bercita-cita, berharap mencapai|v
+availability|ketersediaan|o
+brink|ambang, tepi (sesuatu yang buruk)|o
+completion|penyelesaian|o
+emulate|meniru, berusaha menyamai|v
+ensue|menyusul sebagai akibat|v
+footballer|pemain sepak bola|o
+indispensable|sangat diperlukan, mutlak perlu|o
+partition|pemisahan, pembagian, terutama wilayah negara; sekat, dinding pemisah|o;o
+remarkably|secara mengejutkan, luar biasa|o
+showcase|memamerkan, menampilkan|v
+topple|menggulingkan; terjatuh, roboh|v;v
+transnational|transnasional, lintas negara|o
+unpopular|tidak disukai, tidak populer|o
+grammar|tata bahasa|o
+interactive|interaktif|o
+minimal|minimal, sangat kecil|o
+refinery|kilang minyak atau gula|o
+respective|masing-masing|o
+thereafter|sesudah itu|o
+viva|hidup! (sorakan); ujian lisan mempertahankan tesis|o;o
+basin|baskom, wastafel; daerah aliran sungai|o;o
+bla|omong kosong, dan seterusnya (dalam bla bla bla)|o
+depreciate|menyusut nilainya|v
+editorial|tajuk rencana, editorial|o
+exclusion|pengecualian, pengucilan|o
+intron|intron, bagian gen yang dibuang sebelum dipakai membuat protein|o
+pervasive|merajalela, meresap ke mana-mana|o
+tsunami|tsunami|o
+disintegration|disintegrasi, perpecahan, keruntuhan|o
+nonprofit|nirlaba; organisasi nirlaba, lembaga amal|o;o
+comparative|komparatif, perbandingan, relatif; bentuk komparatif, bentuk sifat berarti "lebih" (bigger, better)|o;o
+dubious|meragukan, mencurigakan|o
+epsilon|epsilon, huruf kelima abjad Yunani; besaran yang sangat kecil (matematika)|o;o
+excessively|berlebihan, keterlaluan|o
+impunity|impunitas, kebebasan dari hukuman|o
+relocate|pindah, memindahkan ke tempat baru|v
+disregard|mengabaikan, tidak menghiraukan|v
+erosion|erosi, pengikisan|o
+installation|pemasangan, instalasi; instalasi, peralatan atau bangunan untuk tujuan tertentu|o;o
+inward|ke dalam|o
+justification|pembenaran, alasan|o
+launching|peluncuran, pengenalan; peluncuran roket atau kapal|o;o
+annexation|aneksasi, pencaplokan wilayah negara lain|o
+fungus|jamur, kapang|o
+scrutiny|pengawasan ketat, pemeriksaan cermat|o
+tuple|tupel, daftar nilai berurutan (matematika dan komputer)|o
+decimal|desimal, berbasis sepuluh; pecahan desimal, bilangan berkoma (3,5)|o;o
+extinct|punah (spesies); padam, tidak aktif lagi (gunung berapi)|o;o
+functional|berfungsi, praktis; fungsional, berkaitan dengan fungsi|o;o
+garner|mengumpulkan, meraih (dukungan, pujian)|v
+tangent|garis singgung; penyimpangan pembicaraan, beralih topik tiba-tiba|o;o
+aggravate|memperburuk, memperparah; menjengkelkan|v;v
+excellence|keunggulan, mutu yang sangat tinggi|o
+merger|merger, penggabungan dua perusahaan|o
+overhaul|memeriksa dan memperbaiki secara menyeluruh, merombak total|v
+pave|mengaspal, memperkeras permukaan jalan|v
+horizontal|horizontal, mendatar, sejajar dengan tanah|o
+outflow|arus keluar, terutama uang atau cairan|o
+rectangle|persegi panjang|o
+allegedly|konon, menurut tuduhan yang belum terbukti|o
+authoritarianism|otoritarianisme, pemerintahan yang menuntut kepatuhan mutlak|o
+contradiction|kontradiksi, pertentangan|o
+efficiently|secara efisien, tanpa membuang waktu, tenaga, atau uang|o
+heterosexual|heteroseksual, tertarik pada lawan jenis|o
+obesity|obesitas, kegemukan|o
+vastly|jauh, sangat|o
+downside|sisi buruk, kerugian|o
+homosexuality|homoseksualitas, ketertarikan pada sesama jenis|o
+skepticism|skeptisisme, keraguan|o
+slump|kemerosotan tajam harga, penjualan, atau kegiatan; terhenyak, jatuh terduduk|o;v
+wield|memegang dan menggunakan (senjata, alat); memiliki dan menjalankan (kekuasaan)|v;v
+metric|ukuran, indikator; metrik, memakai sistem meter dan kilogram|o;o
+reasonably|cukup, lumayan; secara wajar, dengan masuk akal|o;o
+routinely|secara rutin, sudah biasa|o
+similarity|kemiripan, kesamaan|o
+biographical|biografis, tentang riwayat hidup seseorang|o
+broadcaster|lembaga penyiaran radio atau televisi; penyiar|o;o
+degradation|degradasi, penurunan mutu atau keadaan; penghinaan|o;o
+democratically|secara demokratis|o
+fallout|dampak buruk; debu radioaktif setelah ledakan nuklir|o;o
+lockdown|karantina wilayah, pembatasan gerak|o
+outline|garis besar, ringkasan; bentuk luar, garis tepi|o;o
+rebound|pulih kembali, bangkit lagi|v
+sodium|natrium, unsur logam lunak putih keperakan dalam garam|o
+stagnate|mandek, berhenti berkembang|v
+statistical|statistik, berdasarkan angka|o
+systematic|sistematis, teratur menurut rencana|o
+urgency|urgensi, keadaan mendesak|o
+administrator|administrator, pengelola organisasi atau sistem|o
+compact|ringkas, kecil dan tidak makan tempat; perjanjian, kesepakatan|o;o
+nucleus|inti atom atau sel; inti, pusat|o;o
+deflationary|deflasioner, menyebabkan harga turun|o
+folder|map, wadah kertas atau berkas komputer|o
+journalism|jurnalistik, kewartawanan|o
+unequal|tidak setara, tidak adil|o
+ample|berlimpah, lebih dari cukup|o
+astronomer|astronom, ahli ilmu bintang dan planet|o
+controller|pengendali, pengelola; alat pengendali|o;o
+deity|dewa atau dewi|o
+deleveraging|pengurangan utang|o
+overview|gambaran umum, ikhtisar|o
+repayment|pembayaran kembali utang|o
+comply|mematuhi, menuruti (aturan atau permintaan)|v
+mosaic|mozaik, gambar dari kepingan batu atau kaca; campuran dari banyak bagian|o;o
+poise|ketenangan, keseimbangan yang anggun|o
+protracted|berlarut-larut, berkepanjangan|o
+simulate|meniru, menyimulasikan|v
+alienate|mengasingkan, membuat seseorang menjauh atau merasa dikucilkan|v
+arc|busur, lengkungan; alur perkembangan cerita|o;o
+fundamentalist|fundamentalis, penganut ketat ajaran dasar agama|o
+impoverish|memiskinkan|v
+overly|terlalu, berlebihan|o
+tuberculosis|tuberkulosis, TBC, penyakit paru menular yang parah|o
+uranium|uranium, logam radioaktif untuk tenaga nuklir|o
+applejack|brendi apel|o
+augment|menambah, meningkatkan|v
+copyright|hak cipta|o
+fubar|rusak total, kacau balau (slang)|o
+imprisonment|pemenjaraan, hukuman penjara|o
+lambda|lambda, huruf kesebelas abjad Yunani|o
+literacy|literasi, kemampuan baca tulis|o
+macro|makro, berskala besar, menyeluruh; makro, rangkaian perintah komputer yang direkam|o;o
+restructure|merestrukturisasi, menata ulang|v
+contemplate|merenungkan, mempertimbangkan|v
+democratization|demokratisasi|o
+designation|sebutan, nama atau gelar resmi; penunjukan, pengangkatan|o;o
+dissent|perbedaan pendapat dengan pandangan resmi|o
+formidable|tangguh, hebat dan menakutkan|o
+iteration|iterasi, pengulangan, versi; iterasi, satu langkah dalam proses berulang|o;o
+prone|rentan, cenderung; telungkup, tiarap|o;o
+proton|proton, partikel bermuatan positif dalam inti atom|o
+rainforest|hutan hujan tropis|o
+saver|penabung; penghemat (waktu, energi)|o;o
+smartphone|ponsel pintar|o
+unification|penyatuan, unifikasi|o
+wireless|nirkabel|o
+anthem|lagu pujian, terutama lagu kebangsaan|o
+crackdown|penindakan keras, tindakan tegas|o
+disproportionately|secara tidak sebanding, tidak seimbang|o
+dysfunctional|tidak berfungsi dengan baik, disfungsional|o
+financially|secara finansial, dari segi keuangan|o
+parenthesis|tanda kurung; sisipan, kata-kata tambahan sebagai selingan|o;o
+tenure|masa jabatan; jaminan jabatan tetap|o;o
+conversion|konversi, perubahan bentuk atau kegunaan; pindah agama|o;o
+premature|prematur, terlalu dini|o
+alga|alga, ganggang (jamak algae)|o
+deviation|penyimpangan, deviasi|o
+gradient|kemiringan, kecuraman; gradien, laju perubahan|o;o
+lesser|lebih kecil, kurang penting|o
+micro|mikro, sangat kecil, berskala kecil|o
+outsource|mengalihdayakan|v
+rampant|merajalela|o
+thermal|termal, berkaitan dengan panas|o
+upheaval|pergolakan, perubahan besar yang tiba-tiba|o
+annex|mencaplok wilayah; gedung tambahan, bangunan sambungan|v;o
+finite|terbatas, berhingga|o
+geographical|geografis, berkaitan dengan tempat|o
+postwar|pascaperang|o
+subscription|langganan|o
+tutorial|tutorial, pelajaran bertahap|o
+bulk|sebagian besar, bagian utama; ukuran atau jumlah besar|o;o
+clout|pengaruh, kekuasaan|o
+concerted|bersama-sama, terpadu|o
+dissident|pembangkang, penentang pemerintah|o
+distrust|ketidakpercayaan, kecurigaan|o
+encompass|mencakup, meliputi|v
+interconnect|saling terhubung|v
+preview|pratinjau, tayangan pendahuluan|o
+skeptical|skeptis, ragu|o
+succumb|menyerah, tunduk; meninggal (karena penyakit)|v;v
+unilaterally|secara sepihak|o
+anime|anime, film dan serial animasi Jepang|o
+hamper|menghambat, merintangi|v
+inaction|kelambanan, tidak adanya tindakan|o
+inaugural|perdana, pertama, menandai permulaan|o
+spillover|efek limpahan, dampak yang merembet ke bidang lain|o
+adequately|secara memadai, cukup baik|o
+contributor|penyumbang, kontributor; penulis lepas, kontributor tulisan|o;o
+critique|kritik, ulasan kritis|o
+differential|selisih; berbeda, membedakan|o;o
+famine|bencana kelaparan|o
+radically|secara radikal, sepenuhnya|o
+censorship|sensor, penyensoran|o
+exponential|eksponensial, tumbuh makin cepat; eksponensial, melibatkan pangkat|o;o
+intensity|intensitas, kekuatan|o
+interim|sementara|o
+rationale|dasar pemikiran, alasan|o
+stagnant|tergenang, tidak mengalir; mandek, tidak berkembang|o;o
+consort|pasangan raja atau ratu; bergaul dengan|o;v
+demonstrator|demonstran, pengunjuk rasa; peraga, orang yang memperagakan cara kerja|o;o
+materialize|terwujud, menjadi kenyataan; muncul|v;v
+myriad|tak terhitung, sangat banyak|o
+notwithstanding|meskipun, walaupun|o
+paragraph|paragraf, alinea|o
+undies|pakaian dalam (informal)|o
+anemic|lemah, lesu; anemia, kurang sel darah merah|o;o
+deficiency|kekurangan, defisiensi|o
+repeal|mencabut undang-undang secara resmi|v
+undercut|menjual lebih murah daripada pesaing; melemahkan|v;v
+activism|aktivisme|o
+autocratic|otokratis, berkuasa mutlak|o
+fusion|penggabungan, perpaduan; fusi nuklir|o;o
+imminent|segera terjadi, sudah di ambang pintu|o
+storytelling|bercerita, penuturan cerita|o
+aggressively|secara agresif|o
+bacterial|bakteri, disebabkan oleh atau berkaitan dengan bakteri|o
+disclosure|pengungkapan, keterbukaan informasi|o
+domestically|di dalam negeri; di rumah|o;o
+supplement|suplemen, tambahan; menambah, melengkapi|o;v
+tributary|anak sungai|o
+amplifier|penguat suara, amplifier|o
+centrist|tengah, berpandangan politik moderat|o
+commandment|perintah Tuhan, hukum (seperti Sepuluh Perintah Allah)|o
+cuisine|masakan, seni kuliner|o
+decisively|dengan tegas, secara menentukan|o
+duet|duet|o
+enshrine|mengabadikan secara resmi (dalam undang-undang atau konstitusi)|v
+erect|mendirikan, membangun; tegak|v;o
+fragmentation|fragmentasi, perpecahan|o
+nationwide|nasional, di seluruh negeri|o
+newcomer|pendatang baru|o
+promotional|promosi, untuk mengiklankan|o
+refrain|menahan diri; refrein, bagian lagu yang diulang|v;o
+remittance|kiriman uang, terutama dari luar negeri ke kampung halaman|o
+screening|pemutaran film; skrining, pemeriksaan medis untuk penyakit|o;o
+scripture|kitab suci|o
+genetically|secara genetik|o
+subscribe|berlangganan; menyetujui (gagasan)|v;v
+anatomy|struktur tubuh; anatomi, ilmu urai tubuh|o;o
+clause|pasal, ketentuan dalam dokumen hukum; klausa|o;o
+deforestation|penggundulan hutan, deforestasi|o
+depiction|penggambaran|o
+imagery|citraan, gambaran atau bahasa deskriptif|o
+mire|rawa, lumpur; kesulitan, keadaan terjepit|o;o
+navigation|navigasi, pelayaran|o
+petroleum|minyak bumi|o
+reconnaissance|pengintaian, pengamatan militer untuk mengumpulkan informasi|o
+arbitrary|sewenang-wenang, acak, tanpa alasan|o
+exploitation|eksploitasi, pemerasan demi keuntungan; eksploitasi, pemanfaatan sumber daya|o;o
+geography|geografi, ilmu bumi|o
+halve|membelah dua, mengurangi separuh|v
+malnutrition|malnutrisi, gizi buruk|o
+ballad|lagu cinta yang lambat; balada, puisi yang bercerita|o;o
+boycott|boikot|o
+cultivate|menanam, membudidayakan; memupuk (keterampilan, hubungan)|v;v
+degrade|menurunkan mutu; merendahkan martabat|v;v
+exponent|penganjur, pendukung gagasan; eksponen, pangkat bilangan|o;o
+independently|secara mandiri, sendiri-sendiri|o
+insurgency|pemberontakan bersenjata|o
+intuitive|mudah dipahami; intuitif, berdasarkan naluri|o;o
+irrational|irasional, tidak masuk akal|o
+maturity|kedewasaan, kematangan; jatuh tempo pinjaman|o;o
+offshore|lepas pantai; luar negeri (dana), berbasis di luar negeri|o;o
+personalize|menyesuaikan dengan pribadi|v
+separatist|separatis, orang yang menuntut kemerdekaan suatu daerah|o
+stereotype|stereotip, gambaran klise tentang suatu kelompok|o
+advertisement|iklan|o
+attain|mencapai, meraih|v
+dissolution|pembubaran organisasi, perceraian resmi; pelarutan|o;o
+ecological|ekologis, berkaitan dengan lingkungan dan makhluk hidup|o
+inaugurate|meresmikan; melantik|v;v
+inherent|melekat, bawaan|o
+meme|meme, ide atau lelucon yang menyebar di internet|o
+migrate|bermigrasi, pindah ke daerah atau negara lain|v
+northwestern|di atau dari barat laut|o
+precision|presisi, ketepatan|o
+profoundly|sangat, secara mendalam|o
+pundit|pengamat, pakar yang berkomentar di media|o
+skeptic|skeptis, orang yang meragukan pendapat umum|o
+visualize|membayangkan; memvisualisasikan, menampilkan sebagai gambar|v;v
+wane|berkurang, melemah|v
+weld|mengelas|v
+outweigh|melebihi, lebih penting daripada|v
+peril|bahaya besar|o
+polarize|memecah menjadi dua kubu yang berlawanan|v
+configuration|konfigurasi, susunan, pengaturan|o
+deportation|deportasi, pengusiran dari negara|o
+empirical|empiris, berdasarkan pengamatan atau percobaan|o
+listing|daftar, entri dalam daftar|o
+usher|mengantar, menunjukkan jalan; mengawali (era baru)|v;v
+benign|tidak berbahaya, ramah; jinak (tumor), bukan kanker|o;o
+bipartisan|didukung kedua partai politik|o
+daunt|menciutkan hati, mengintimidasi|v
+environmentally|dari segi lingkungan|o
+foresee|meramalkan, memperkirakan|v
+geometry|geometri, ilmu ukur|o
+mitigation|mitigasi, pengurangan dampak|o
+paralysis|kelumpuhan; kebuntuan, ketidakmampuan bertindak|o;o
+perpetrator|pelaku kejahatan|o
+processor|prosesor|o
+summarize|meringkas, merangkum|v
+traumatic|traumatis|o
+withstand|bertahan, tahan terhadap|v
+accordance|kesesuaian (in accordance with: sesuai dengan, menurut)|o
+alleviate|meringankan, mengurangi (rasa sakit, masalah)|v
+articulate|pandai mengungkapkan pikiran dengan jelas; mengungkapkan dengan jelas|o;v
+bracket|tanda kurung seperti ( ) atau [ ]; golongan, rentang (income bracket: golongan pendapatan)|o;o
+delegate|delegasi, utusan ke suatu rapat; mendelegasikan tugas|o;v
+duration|durasi, lamanya|o
+intersection|persimpangan jalan; titik potong garis|o;o
+jointly|bersama-sama|o
+plight|nasib buruk, keadaan sulit atau berbahaya|o
+privatize|memprivatisasi, menjual badan usaha negara kepada swasta|v
+template|templat, pola atau contoh untuk ditiru|o
+wary|waspada, curiga|o
+amplify|memperkeras, memperkuat|v
+angular|bersudut tajam; berkaitan dengan sudut|o;o
+catalogue|katalog, daftar lengkap|o
+consultation|konsultasi, pertemuan untuk meminta nasihat; musyawarah sebelum keputusan|o;o
+counterproductive|kontraproduktif, berakibat sebaliknya dari yang diharapkan|o
+detection|deteksi, penemuan, pengenalan|o
+inventor|penemu|o
+lecturer|dosen|o
+normalization|normalisasi, pemulihan ke keadaan normal; pembakuan, standardisasi|o;o
+reluctance|keengganan|o
+reproductive|reproduksi, berkaitan dengan perkembangbiakan|o
+rigid|kaku, tidak lentur; kaku, ketat, tidak luwes|o;o
+specification|spesifikasi, rincian persyaratan|o
+stagger|terhuyung-huyung; mengejutkan, mencengangkan; mengatur secara bergiliran|v;v;v
+subordinate|lebih rendah pangkatnya; bawahan|o;o
+successive|berturut-turut|o
+vaccination|vaksinasi|o
+aka|alias, juga dikenal sebagai|o
+ancestry|asal-usul keluarga, leluhur|o
+antiquity|zaman kuno; benda kuno, barang antik|o;o
+distinctive|khas, mudah dikenali|o
+documentation|dokumen resmi; petunjuk tertulis, dokumentasi|o;o
+insider|orang dalam|o
+monarchy|monarki, pemerintahan oleh raja atau ratu|o
+reshape|membentuk ulang, menata kembali|v
+astronomy|astronomi, ilmu falak|o
+byte|bita, satuan data komputer (delapan bit)|o
+commercially|secara komersial|o
+midwife|bidan|o
+abundant|berlimpah, melimpah|o
+analogy|analogi, perbandingan kemiripan|o
+coincide|bertepatan, terjadi bersamaan; sesuai, sejalan|v;v
+divergence|perbedaan, penyimpangan, divergensi|o
+ninety|sembilan puluh, 90|o
+potent|ampuh, kuat|o
+purge|membersihkan, menyingkirkan orang atau hal yang tidak diinginkan; pembersihan|v;o
+readily|dengan senang hati; dengan mudah|o;o
+sampling|pengambilan sampel; pemilihan contoh untuk pengujian|o;o
+scarcity|kelangkaan|o
+skyscraper|pencakar langit|o
+vibrant|penuh semangat, hidup; cerah (warna)|o;o
+abide|tahan, menoleransi (can't abide); mematuhi (abide by)|v;v
+assurance|jaminan, janji; keyakinan, rasa percaya diri|o;o
+disproportionate|tidak sebanding, tidak seimbang|o
+interdependence|saling ketergantungan|o
+technocrat|teknokrat|o
+collaborator|rekan kerja, kolaborator; kolaborator, pengkhianat yang membantu musuh|o;o
+constituent|pemilih di suatu daerah pemilihan; unsur, komponen|o;o
+deliberate|disengaja, terencana; menimbang-nimbang, berunding|o;v
+indirect|tidak langsung|o
+planting|penanaman|o
+setback|kemunduran, hambatan|o
+unravel|mengurai, membuka jalinan; memecahkan, menguak; berantakan, runtuh|v;v;v
+complacency|sikap berpuas diri|o
+differentiate|membedakan|v
+enrichment|pengayaan, peningkatan; pengayaan (nilai atau kadar)|o;o
+lobbying|lobi, upaya memengaruhi politikus|o
+marketplace|pasar; dunia usaha, dunia perdagangan|o;o
+perpetuate|melanggengkan, mengekalkan|v
+pinyin|pinyin, sistem penulisan bahasa Tionghoa dengan huruf Latin|o
+socioeconomic|sosial ekonomi|o
+tracer|zat pelacak; peluru pelacak yang meninggalkan jejak terlihat|o;o
+inflate|memompa, mengisi dengan udara; menaikkan (harga)|v;v
+simplicity|kesederhanaan|o
+surname|nama keluarga, marga|o
+accolade|penghargaan, pujian|o
+directorial|berkaitan dengan sutradara, penyutradaraan|o
+mega|mega, sangat besar|o
+peripheral|di pinggiran; kecil, tidak penting; perangkat periferal (keyboard, printer)|o;o;o
+prestigious|bergengsi|o
+prosper|makmur, berhasil|v
+schooling|pendidikan, persekolahan|o
+theatrically|secara teatrikal, berlebihan; di bioskop atau teater|o;o
+timeline|linimasa, urutan peristiwa; jadwal|o;o
+unsuccessful|gagal, tidak berhasil|o
+indie|indie, independen (musik, film, gim)|o
+meta|meta, merujuk pada dirinya sendiri|o
+microbial|mikroba, berkaitan dengan mikroba|o
+morally|secara moral|o
+quadratic|kuadrat, melibatkan variabel berpangkat dua (matematika)|o
+unintended|tidak disengaja, tidak diinginkan|o
+entrepreneurial|kewirausahaan, berjiwa wirausaha|o
+factorial|faktorial, hasil kali semua bilangan bulat sampai bilangan tertentu (5! = 120)|o
+hemisphere|belahan bumi; belahan otak|o;o
+indefinitely|tanpa batas waktu|o
+lunar|berkaitan dengan bulan|o
+mandatory|wajib|o
+memorandum|memo, catatan tertulis; nota kesepahaman|o;o
+northeastern|di atau dari timur laut|o
+prioritize|memprioritaskan, mendahulukan|v
+regression|kemunduran ke keadaan sebelumnya; regresi, metode statistik|o;o
+todo|tugas yang harus dikerjakan (seperti dalam todo list)|o
+understandably|wajar saja, dapat dimengerti|o
+blender|blender, alat pencampur di dapur|o
+diversification|diversifikasi, penganekaragaman, penyebaran risiko|o
+invariably|selalu, senantiasa|o
+pornography|pornografi|o
+professionally|secara profesional; sebagai pekerjaan|o;o
+renowned|terkenal, termasyhur|o
+settler|pemukim, pendatang|o
+automate|mengotomatiskan|v
+bondholder|pemegang obligasi|o
+collaborative|kolaboratif, dilakukan bersama|o
+cynical|sinis|o
+decentralize|mendesentralisasikan|v
+fluctuation|fluktuasi, naik turun|o
+gaming|bermain gim video; perjudian|o;o
+incomplete|tidak lengkap, belum selesai|o
+militarily|secara militer|o
+reinvent|mengubah total, menciptakan ulang|v
+deterioration|kemerosotan, kemunduran|o
+impeachment|pemakzulan|o
+intermediate|menengah, antara|o
+millimeter|milimeter|o
+neuroscientist|ahli ilmu saraf|o
+optimize|mengoptimalkan|v
+primate|primata|o
+procurement|pengadaan barang|o
+programmer|pemrogram, programmer|o
+provisional|sementara|o
+rarity|kelangkaan; barang langka|o;o
+ravage|memorakporandakan, menghancurkan|v
+synthesis|sintesis, perpaduan; sintesis kimia|o;o
+texture|tekstur|o
+transitional|peralihan, transisi|o
+underpinning|dasar, landasan|o
+bleak|suram, tanpa harapan; dingin dan gersang|o;o
+cache|simpanan tersembunyi; cache, memori komputer untuk akses cepat|o;o
+centimeter|sentimeter|o
+circular|bundar, melingkar; surat edaran; berputar-putar (penalaran)|o;o;o
+confer|berunding; menganugerahkan (penghargaan)|v;v
+dopamine|dopamin, zat kimia otak yang terkait rasa senang|o
+fragility|kerapuhan|o
+heuristic|heuristik, kaidah praktis|o
+indifference|ketidakpedulian, sikap acuh tak acuh|o
+loosely|longgar, tidak kencang; secara kasar, kira-kira|o;o
+parody|parodi|o
+pivot|poros, titik tumpu; berputar|o;v
+seventy|tujuh puluh, 70|o
+tau|tau, huruf kesembilan belas abjad Yunani|o
+clarity|kejelasan|o
+contend|berpendapat, menyatakan; bersaing|v;v
+criticise|mengkritik|v
+durable|awet, tahan lama|o
+mistrust|ketidakpercayaan, kecurigaan|o
+sweeping|menyeluruh, luas|o
+transcend|melampaui, mengatasi|v
+transpose|menukar posisi; mengubah nada dasar (musik)|v;v
+curriculum|kurikulum|o
+derail|menggagalkan, mengacaukan; anjlok, keluar rel|v;v
+hopeful|penuh harap, optimis; kandidat, calon|o;o
+inherently|pada hakikatnya|o
+occasional|sesekali, kadang-kadang|o
+opioid|opioid, obat pereda nyeri sejenis opium|o
+retaliation|pembalasan, serangan balik|o
+signatory|penanda tangan perjanjian|o
+specter|hantu; momok, ancaman|o;o
+turnout|jumlah hadirin atau pemilih yang datang|o
+unrealistic|tidak realistis|o
+afflict|menimpa, menyengsarakan|v
+alphabet|abjad, alfabet|o
+dairy|produk susu; peternakan sapi perah|o;o
+electrode|elektrode|o
+hypotenuse|sisi miring segitiga siku-siku|o
+imperfect|tidak sempurna, cacat; bentuk lampau yang menyatakan tindakan berlangsung|o;o
+logistic|logistik, berkaitan dengan logistik|o
+mapping|pemetaan, pembuatan peta; pemetaan, pemasangan satu himpunan ke himpunan lain|o;o
+paternal|kebapakan; dari pihak ayah|o;o
+pathogen|patogen, kuman penyebab penyakit|o
+propel|mendorong maju|v
+reaffirm|menegaskan kembali|v
+revolve|berputar; berpusat pada|v;v
+strategically|secara strategis|o
+assertion|pernyataan, penegasan|o
+competence|kompetensi, kemampuan, kecakapan|o
+dangerously|secara berbahaya|o
+diaspora|diaspora, orang-orang yang tersebar dari tanah airnya|o
+doubling|penggandaan, kenaikan dua kali lipat|o
+fishery|tempat penangkapan ikan; perikanan|o;o
+generic|umum, tidak spesifik; generik, tanpa merek|o;o
+gravitational|gravitasi, berkaitan dengan gravitasi|o
+normalize|menormalkan kembali; membakukan, menstandarkan|v;v
+pollen|serbuk sari|o
+prudent|bijaksana, hati-hati|o
+redefine|mendefinisikan ulang|v
+repressive|represif, menindas|o
+concede|mengakui; menyerah, merelakan|v;v
+correspondence|surat-menyurat, korespondensi; kesesuaian, kemiripan|o;o
+doctoral|doktoral, berkaitan dengan gelar doktor|o
+forthcoming|akan datang, segera terjadi; terbuka, bersedia memberi keterangan|o;o
+immunization|imunisasi|o
+mobilization|mobilisasi, pengerahan untuk bertindak atau berperang|o
+orthodoxy|ortodoksi, keyakinan yang diterima umum|o
+unavoidable|tak terelakkan|o
+accuracy|akurasi, ketepatan|o
+comma|koma, tanda baca (,)|o
+culminate|memuncak, berakhir dengan|v
+diagonal|diagonal, garis miring yang menghubungkan sudut-sudut berseberangan|o
+manga|manga, komik Jepang|o
+planetary|berkaitan dengan planet|o
+systematically|secara sistematis|o
+obituary|obituari, berita duka dengan riwayat hidup singkat|o
+profitability|profitabilitas, kemampuan menghasilkan laba|o
+recycling|daur ulang|o
+redesign|merancang ulang|v
+reunification|penyatuan kembali, reunifikasi|o
+tangible|nyata, konkret; dapat diraba|o;o
+consequently|akibatnya, oleh karena itu|o
+cumulative|kumulatif, bertambah karena terus dijumlahkan|o
+entitlement|hak atas sesuatu; perasaan berhak diistimewakan|o;o
+finalist|finalis|o
+inefficiency|ketidakefisienan, pemborosan waktu, tenaga, atau uang|o
+nobility|kaum bangsawan; keluhuran budi|o;o
+respiratory|pernapasan, berkaitan dengan bernapas|o
+takeover|pengambilalihan perusahaan atau negara|o
+glucose|glukosa, gula sederhana, sumber energi utama tubuh|o
+indirectly|secara tidak langsung|o
+muddle|kekacauan, kebingungan|o
+par|tingkat normal atau yang diharapkan (on par with: setara dengan)|o
+quasi|kuasi, semu, setengah, hampir|o
+technocratic|teknokratis, dijalankan oleh para ahli teknis|o
+wavelength|panjang gelombang; cara berpikir (on the same wavelength: sepaham, sehati)|o;o
+abbreviate|menyingkat|v
+attachment|keterikatan emosional; lampiran surel|o;o
+distributor|distributor, penyalur barang ke toko|o
+externality|eksternalitas, dampak sampingan bagi pihak lain yang tidak tercermin dalam harga|o
+modeling|pemodelan, simulasi; pekerjaan sebagai peragawan atau peragawati|o;o
+plantation|perkebunan|o
+reconstruct|membangun kembali; merekonstruksi (peristiwa)|v;v
+akin|mirip, serupa|o
+compassionate|penuh belas kasih, peduli|o
+connectivity|konektivitas, kemampuan terhubung, terutama ke jaringan|o
+devalue|menurunkan nilai, mendevaluasi|v
+downgrade|menurunkan peringkat atau mutu|v
+empowerment|pemberdayaan|o
+peacekeeping|penjagaan perdamaian di daerah konflik|o
+prudential|kehati-hatian, terutama dalam keuangan|o
+worldview|pandangan hidup, pandangan dunia|o
+apartheid|apartheid, sistem pemisahan ras di Afrika Selatan|o
+buffer|penyangga, penahan guncangan atau kerugian|o
+ceasefire|gencatan senjata|o
+determinant|penentu, faktor penentu|o
+divisive|memecah belah|o
+hinder|menghambat, merintangi|v
+insistence|desakan, tuntutan keras|o
+plaque|plakat, pelat peringatan di dinding; plak pada gigi atau pembuluh darah|o;o
+soprano|suara nyanyian tertinggi|o
+squander|menghambur-hamburkan|v
+substitution|penggantian|o
+tefillin|kotak kulit kecil berisi ayat kitab suci, dipakai pria Yahudi saat berdoa|o
+undertaking|tugas, proyek|o
+awe|kekaguman bercampur hormat atau takut|o
+educator|pendidik|o
+encryption|enkripsi, pengubahan data menjadi kode|o
+envision|membayangkan, menggambarkan|v
+methane|metana, gas dari pembusukan, gas rumah kaca|o
+posthumously|secara anumerta, setelah meninggal|o
+recreate|menciptakan kembali|v
+respondent|responden (survei); termohon (dalam perkara hukum tertentu)|o;o
+accurately|dengan tepat, secara akurat|o
+assertive|tegas, percaya diri|o
+deplete|menghabiskan, mengurangi|v
+fitness|kebugaran jasmani; kelayakan|o;o
+friction|gesekan; pertentangan|o;o
+grouping|kelompok, pengelompokan|o
+intra|di dalam (seperti dalam intra-partai)|o
+randomly|secara acak, tanpa pola|o
+reviewer|penilai, pengulas|o
+tout|mempromosikan, memuji-muji; mencatut tiket|v;v
+width|lebar|o
+bio|biografi singkat; biologis|o;o
+catalyst|katalis (zat pempercepat reaksi); pemicu perubahan|o;o
+cellular|seluler (berkaitan dengan sel); seluler (ponsel)|o;o
+decouple|memisahkan, memutuskan hubungan|v
+eligible|memenuhi syarat, berhak; layak dinikahi|o;o
+falter|melemah, ragu-ragu|v
+ideally|idealnya|o
+illicit|gelap, ilegal|o
+innovate|berinovasi|v
+obsolete|usang, tidak dipakai lagi|o
+preservation|pelestarian, pemeliharaan|o
+undergraduate|mahasiswa program sarjana|o
+unthinkable|tak terbayangkan|o
+ascend|naik, menanjak|v
+backdrop|latar belakang|o
+locally|di daerah setempat|o
+locus|pusat, lokasi; lokus (himpunan titik dalam geometri)|o;o
+pollute|mencemari|v
+subset|himpunan bagian, kelompok kecil dalam kelompok yang lebih besar|o
+unresolved|belum terselesaikan|o
+biblical|berkaitan dengan Alkitab|o
+pluralism|pluralisme, keberagaman kelompok atau gagasan|o
+preside|memimpin (rapat)|v
+prohibition|larangan|o
+prosthetic|prostesis, anggota tubuh buatan|o
+reclaim|mengambil kembali; mereklamasi (lahan)|v;v
+refinance|membiayai kembali (mengganti pinjaman dengan yang baru)|v
+tonne|ton metrik, 1.000 kilogram|o
+verb|kata kerja|o
+antibody|antibodi|o
+disband|membubarkan (kelompok)|v
+eradication|pemberantasan|o
+folklore|cerita rakyat|o
+fret|khawatir, cemas|v
+hierarchy|hierarki, jenjang|o
+induct|melantik, menerima secara resmi (ke dalam organisasi)|v
+perpendicular|tegak lurus|o
+remainder|sisa|o
+statute|undang-undang|o
+stigma|stigma, aib|o
+stockpile|timbunan, persediaan cadangan|o
+unofficial|tidak resmi|o
+valuation|penilaian (harga), valuasi|o
+apparatus|peralatan; aparat, sistem|o;o
+approximation|perkiraan|o
+enlarge|memperbesar|v
+impediment|hambatan; gangguan bicara|o;o
+insurgent|pemberontak|o
+legitimize|mengesahkan, melegitimasi|v
+lockdowns|karantina wilayah (jamak dari lockdown)|o
+nineteen|19|o
+overdue|terlambat, lewat waktu|o
+preventive|pencegahan, preventif|o
+psychedelic|psikedelik (menimbulkan halusinasi); berwarna mencolok|o;o
+recount|menceritakan; menghitung ulang|v;v
+rigorous|teliti, ketat|o
+standardize|menyeragamkan, membakukan|v
+tuning|penyetelan (alat musik atau mesin)|o
+extermination|pembasmian|o
+intersect|berpotongan|v
+legislator|anggota legislatif, pembuat undang-undang|o
+linkage|keterkaitan, hubungan|o
+rendering|penafsiran, pembawaan; gambar hasil komputer|o;o
+revision|revisi, perbaikan; belajar untuk ujian|o;o
+rugby|rugbi (olahraga beregu dengan bola lonjong)|o
+splice|menyambung (dengan menjalin)|v
+compress|memampatkan, menekan|v
+exert|mengerahkan (tenaga, pengaruh)|v
+lever|tuas, pengungkit; alat untuk memengaruhi|o;o
+narrowly|nyaris, tipis; secara sempit|o;o
+reformist|reformis|o
+renewal|pembaruan, kebangkitan kembali|o
+sideline|menyingkirkan, mengesampingkan; pekerjaan sampingan|v;o
+spearhead|memelopori, memimpin|v
+taboo|hal tabu|o
+volt|volt (satuan tegangan listrik)|o
+compression|pemampatan, kompresi|o
+incremental|bertahap, sedikit demi sedikit|o
+internally|di dalam, secara internal|o
+mismanagement|salah urus|o
+organizational|berkaitan dengan organisasi|o
+ostensibly|tampaknya, katanya|o
+oust|menggulingkan|v
+parenting|pengasuhan anak|o
+realization|kesadaran, pemahaman; perwujudan|o;o
+totalitarian|totaliter|o
+unsurprisingly|tidak mengherankan|o
+volcanic|vulkanik|o
+autocracy|otokrasi|o
+geopolitics|geopolitik|o
+lest|agar tidak, supaya jangan|o
+moderation|sikap tidak berlebihan, moderasi|o
+responsive|tanggap, responsif|o
+semiconductor|semikonduktor|o
+terminus|terminal akhir, ujung rute|o
+thwart|menggagalkan, menghalangi|v
+tract|bidang tanah; saluran (saluran pencernaan); risalah|o;o;o
+awakening|kebangunan; kesadaran|o;o
+compatible|cocok, kompatibel|o
+contradict|membantah, bertentangan dengan|v
+converge|bertemu, menyatu|v
+crucially|yang terpenting|o
+disclose|mengungkapkan|v
+fascism|fasisme|o
+hyper|terlalu bersemangat, sangat aktif|o
+null|batal, tidak sah; kosong|o;o
+overhang|bagian yang menjorok; kelebihan|o;o
+reinvigorate|menyegarkan kembali, memberi semangat baru|v
+schizophrenia|skizofrenia|o
+sculptor|pematung|o
+stalemate|jalan buntu|o
+suburban|berkaitan dengan pinggiran kota|o
+traction|daya cengkeram; dukungan, momentum|o;o
+vibration|getaran|o
+alumnus|alumnus, lulusan|o
+calculus|kalkulus|o
+circulation|peredaran (darah, uang); oplah|o;o
+computational|komputasional|o
+directory|direktori, daftar nama atau alamat; folder komputer|o;o
+excavation|penggalian, ekskavasi|o
+fertilizer|pupuk|o
+gripe|keluhan|o
+hurdle|rintangan; gawang (lari gawang)|o;o
+inauguration|pelantikan (pemimpin); peresmian|o;o
+nitrogen|nitrogen|o
+passive|pasif, penurut|o
+readiness|kesiapan|o
+roadmap|peta jalan, rencana|o
+tram|trem|o
+abdominal|berkaitan dengan perut|o
+contentious|kontroversial, diperdebatkan|o
+cricketer|pemain kriket|o
+envisage|membayangkan, memperkirakan|v
+illuminate|menerangi; menjelaskan|v;v
+outdated|ketinggalan zaman|o
+proportional|sebanding, proporsional|o
+reproduction|reproduksi, salinan; perkembangbiakan|o;o
+skyrocket|meroket|v
+southeastern|di atau dari tenggara|o
+terrain|medan, tanah|o
+traverse|melintasi|v
+calculator|kalkulator|o
+complementary|saling melengkapi|o
+congruent|kongruen (sama bentuk); sesuai|o;o
+credential|kualifikasi, bukti identitas|o
+dismal|suram; sangat buruk|o;o
+encode|mengodekan|v
+fundamentalism|fundamentalisme|o
+insulate|menyekat, mengisolasi (dari panas, dingin, atau bunyi)|v
+markedly|secara mencolok, nyata|o
+overtake|menyalip, melampaui; menimpa secara tiba-tiba|v;v
+realism|pandangan realistis; realisme (penggambaran yang mirip aslinya)|o;o
+retina|retina|o
+sluggish|lamban|o
+speculator|spekulan|o
+theology|teologi, ilmu agama|o
+astronomical|astronomis; sangat besar|o;o
+attendance|kehadiran; jumlah hadirin|o;o
+contradictory|bertentangan, tidak konsisten|o
+crossover|perpaduan dua gaya atau kelompok; titik peralihan|o;o
+domination|dominasi, penguasaan|o
+embargo|embargo|o
+impending|akan segera terjadi|o
+modification|perubahan, modifikasi|o
+offspring|keturunan, anak|o
+pedestrian|pejalan kaki; membosankan, biasa-biasa saja|o;o
+prestige|gengsi, prestise|o
+revert|kembali ke keadaan semula|v
+sociology|sosiologi|o
+tier|tingkat, lapisan, jenjang|o
+trivial|remeh, sepele|o
+amazingly|luar biasa, mengherankan|o
+autocrat|autokrat, penguasa mutlak|o
+congregation|jemaat|o
+cosmopolitan|kosmopolitan|o
+desktop|desktop (layar utama komputer); komputer meja|o;o
+distributional|berkaitan dengan distribusi|o
+exterior|bagian luar, permukaan luar|o
+flooding|banjir|o
+forefront|garis depan|o
+marrow|sumsum; labu sayur besar|o;o
+onstage|di atas panggung|o
+outset|awal, permulaan|o
+perpetual|abadi, terus-menerus|o
+populate|mendiami, mengisi dengan penduduk|v
+precipitate|memicu, mempercepat|v
+prerequisite|prasyarat|o
+smallpox|cacar|o
+subjective|subjektif|o
+tradeoff|kompromi, pertukaran untung-rugi|o
+genital|berkaitan dengan alat kelamin|o
+guerrilla|gerilyawan|o
+layout|tata letak|o
+liner|kapal penumpang besar; lapisan|o;o
+pagan|pagan, penyembah berhala|o
+relevance|relevansi|o
+increment|pertambahan, langkah|o
+insolvent|pailit, tidak mampu membayar utang|o
+microscopic|mikroskopis, sangat kecil|o
+morale|semangat, moral|o
+potassium|kalium|o
+pragmatism|pragmatisme|o
+torque|torsi, gaya putar|o
+abundance|kelimpahan, banyak sekali|o
+admittedly|memang, harus diakui|f3s
+advocacy|advokasi|o
+continuously|terus-menerus|o
+displacement|pengungsian; perpindahan|o;o
+extraordinarily|luar biasa|o
+groundwork|persiapan, landasan|o
+hardline|garis keras|o
+neutrality|kenetralan|o
+onset|awal (sesuatu yang buruk)|o
+paradoxically|secara paradoks|o
+podcast|siniar, podcast|o
+simplistic|terlalu menyederhanakan|o
+storyteller|pendongeng|o
+strive|berusaha keras, berjuang|v
+susceptible|rentan, mudah terpengaruh|o
+titular|hanya nama; berkaitan dengan judul|o;o
+abound|berlimpah|v
+amino|amino (dalam asam amino, penyusun protein)|o
+armored|berlapis baja|o
+canon|kanon (kumpulan karya atau aturan yang diakui); kisah resmi (dari fiksi)|o;o
+communal|bersama, milik komunitas|o
+deadbeat|pengemplang utang; pemalas|o;o
+demolish|menghancurkan, merobohkan|v
+endeavor|usaha, upaya|o
+envoy|utusan diplomatik|o
+havoc|kekacauan, kehancuran|o
+innovator|inovator, pembaru|o
+insolvency|kepailitan, ketidakmampuan membayar utang|o
+insulin|insulin (hormon pengatur gula darah)|o
+organizer|penyelenggara|o
+postcommunist|pascakomunis|o
+rehabilitation|rehabilitasi, pemulihan|o
+reservoir|waduk; persediaan|o;o
+tacit|diam-diam, tersirat|o
+trademark|merek dagang|o
+catalyze|mempercepat, memicu|v
+discontinue|menghentikan|v
+eighty|80|o
+eponymous|yang namanya dipakai (sebagai nama atau judul)|o
+footing|pijakan, dasar|o
+lander|wahana pendarat|o
+strongman|orang kuat, pemimpin otoriter|o
+unchanged|tidak berubah|o
+automotive|otomotif|o
+ayahuasca|ayahuasca (minuman halusinogen dari Amazon)|o
+blindness|kebutaan|o
+cinematographer|sinematografer, penata kamera|o
+compulsory|wajib|o
+consciously|secara sadar, dengan sengaja|o
+digest|mencerna (makanan); mencerna, memahami|v;v
+disinformation|disinformasi|o
+endemic|endemik (asli suatu daerah); selalu ada, mewabah terus|o;o
+evasion|penghindaran, pengelakan|o
+impasse|jalan buntu|o
+individually|satu per satu, secara terpisah|o
+photon|foton|o
+rapprochement|pemulihan hubungan baik|o
+statehood|status sebagai negara|o
+suppression|penindasan, penekanan|o
+synthesize|memadukan, menyintesis|v
+treatise|risalah|o
+accommodation|penginapan, akomodasi; penyesuaian, kompromi|o;o
+adolescent|remaja|o
+autobiographical|otobiografis|o
+chemotherapy|kemoterapi|o
+coworker|rekan kerja|o
+humility|kerendahan hati|o
+incarceration|pemenjaraan|o
+linguist|ahli bahasa, linguis|o
+oppression|penindasan, tirani|o
+origami|origami (seni melipat kertas Jepang)|o
+primacy|keutamaan, posisi pertama|o
+resonate|bergema; menyentuh hati|v;v
+sensitivity|kepekaan; kerawanan, sifat sensitif|o;o
+spokesman|juru bicara|o
+transformative|transformatif, membawa perubahan besar|o
+worrisome|mengkhawatirkan|o
+accustom|membiasakan (membiasakan diri dengan)|v
+affirm|menegaskan, mengukuhkan|v
+analytic|analitis, logis|o
+backward|ke belakang; terbelakang|o;o
+cholera|kolera|o
+circumvent|mengakali, menghindari (aturan atau rintangan)|v
+exempt|dibebaskan (dari kewajiban)|o
+irreversible|tidak dapat dipulihkan|o
+manageable|dapat ditangani|o
+outlay|pengeluaran, belanja|o
+perverse|menyimpang, tidak masuk akal|o
+relentless|tanpa henti, tak kenal lelah|o
+renovation|renovasi, perbaikan|o
+repercussion|akibat, dampak|o
+repress|menekan, menahan|v
+sonar|sonar|o
+troika|troika (kelompok tiga pemimpin atau lembaga)|o
+chairperson|ketua|o
+civility|kesopanan|o
+competent|cakap, kompeten|o
+conception|konsepsi, gagasan; pembuahan|o;o
+dampen|membasahi; meredam|v;v
+diploma|ijazah|o
+extraction|pengambilan, ekstraksi|o
+overheat|menjadi terlalu panas|v
+payload|muatan|o
+preventable|dapat dicegah|o
+qualification|kualifikasi, keahlian; syarat|o;o
+rupture|pecah, robek|v
+scholarly|ilmiah, akademis|o
+seawater|air laut|o
+semantic|semantis, berkaitan dengan makna|o
+themed|bertema|o
+transistor|transistor|o
+unwillingness|keengganan|o
+atmospheric|berkaitan dengan atmosfer|o
+bot|bot, program otomatis|o
+grassroots|akar rumput, rakyat biasa|o
+hectare|hektare, 10.000 meter persegi|o
+homeowner|pemilik rumah|o
+installment|cicilan, angsuran; episode|o;o
+livestock|ternak|o
+mating|perkawinan (hewan)|o
+millennials|generasi milenial (lahir 1981–1996)|o
+outward|lahiriah, ke arah luar|o
+oxytocin|oksitosin|o
+periodic|berkala|o
+precarious|genting, tidak stabil|o
+precondition|prasyarat|o
+seasonal|musiman|o
+statesman|negarawan|o
+affiliation|afiliasi, keanggotaan|o
+aneurysm|aneurisma|o
+antagonist|lawan, tokoh jahat|o
+challenger|penantang|o
+chaotic|kacau|o
+cohort|kohort, kelompok|o
+composite|gabungan, komposit|o
+diagnostic|diagnostik|o
+directive|arahan, instruksi resmi|o
+discography|diskografi|o
+ecology|ekologi|o
+enormously|sangat, amat|o
+exceptionally|luar biasa|o
+impair|merusak, melemahkan|v
+liaison|penghubung, koordinasi; hubungan gelap|o;o
+mediate|menengahi|v
+mrna|mRNA (RNA duta, pembawa instruksi genetik)|o
+odor|bau|o
+offs|(dalam trade-offs, write-offs) bentuk jamak kata majemuk berakhiran off|o
+perjury|sumpah palsu|o
+pilgrimage|ziarah|o
+prose|prosa|o
+renegotiate|merundingkan kembali|v
+retailer|pengecer|o
+revitalize|merevitalisasi, menghidupkan kembali|v
+southwestern|di atau dari barat daya|o
+spokesperson|juru bicara|o
+thankfully|untungnya|o
+tilt|miring, memiringkan|v
+turbulence|turbulensi; kekacauan|o;o
+visualization|bayangan mental; visualisasi|o;o
+approximate|kira-kira, perkiraan|o
+bayonet|bayonet, sangkur|o
+ceramic|keramik|o
+conditioning|pembiasaan, pelatihan; pendingin udara|o;o
+consequential|penting; yang diakibatkan|o;o
+correspondent|koresponden, wartawan|o
+discretionary|atas kebijaksanaan sendiri, opsional|o
+divisible|dapat dibagi|o
+extremity|tangan atau kaki; ujung terjauh|o;o
+financier|pemodal|o
+kernel|biji, inti|o
+ovarian|berkaitan dengan indung telur|o
+peptide|peptida|o
+reminiscent|mengingatkan pada|o
+reopen|membuka kembali|v
+reprint|mencetak ulang|v
+restart|memulai ulang|v
+symmetric|simetris|o
+validation|pengesahan, validasi|o
+bestseller|buku laris|o
+chemist|ahli kimia; apoteker|o;o
+contender|pesaing, kandidat|o
+continuation|kelanjutan|o
+defer|menunda; mengalah|v;v
+denuclearization|denuklirisasi|o
+discomfort|rasa tidak nyaman|o
+embryo|embrio; bentuk awal yang belum berkembang|o;o
+folly|kebodohan, tindakan bodoh|o
+influx|arus masuk, kedatangan besar-besaran|o
+institutionalize|melembagakan; memasukkan ke panti perawatan|v;v
+motif|motif, pola berulang|o
+multiplier|pengali; faktor pengganda|o;o
+needless|tidak perlu|o
+patriotic|patriotik, cinta tanah air|o
+regenerate|tumbuh kembali, memperbarui|v
+shutdown|penutupan, penghentian operasi|o
+spectator|penonton|o
+telecom|telekomunikasi|o
+ubiquitous|ada di mana-mana|o
+vicinity|sekitar, lingkungan sekitar|o
+xenophobic|xenofobia, anti orang asing|o
+arithmetic|aritmetika, berhitung|o
+avoidance|penghindaran|o
+canopy|kanopi, atap penutup; tajuk hutan|o;o
+clarification|klarifikasi, penjelasan|o
+contingent|bergantung pada; kontingen|o;o
+epilepsy|epilepsi, ayan|o
+issuance|penerbitan (saham, obligasi, dokumen)|o
+nematode|nematoda, cacing gelang|o
+nostalgia|nostalgia|o
+opaque|buram, tidak tembus pandang; sulit dipahami|o;o
+reckoning|perhitungan, perkiraan; perhitungan akhir, pembalasan|o;o
+shorten|memperpendek, menyingkat|v
+subscriber|pelanggan|o
+vocabulary|kosakata|o
+attest|membuktikan, menegaskan|v
+depositor|deposan, penabung|o
+deserter|desertir|o
+drastic|drastis|o
+focal|pokok, utama|o
+hypocrisy|kemunafikan|o
+imperialism|imperialisme|o
+irregular|tidak teratur, tidak rata; tidak beraturan (menyimpang dari kaidah)|o;o
+optimist|orang optimis|o
+pacifism|pasifisme|o
+paperback|buku bersampul tipis|o
+prefix|awalan|o
+remnant|sisa|o
+specialise|mengkhususkan diri|v
+superiority|keunggulan|o
+synaptic|sinaptik|o
+uneven|tidak rata, tidak seimbang|o
+unsettle|mengganggu, meresahkan|v
+accomplishment|pencapaian, prestasi|o
+accrue|bertambah, terakumulasi|v
+cede|menyerahkan (wilayah, kekuasaan)|v
+chloride|klorida|o
+consonant|konsonan, huruf mati|o
+continuity|kesinambungan|o
+correlate|berkorelasi, berkaitan; menghubungkan|v;v
+cowardice|kepengecutan|o
+daywalker|vampir yang bisa keluar siang hari|o
+eighteenth|kedelapan belas; seperdelapan belas|o;o
+elicit|memancing (tanggapan, informasi)|v
+embolden|memberanikan|v
+espouse|menganut, mendukung (gagasan atau keyakinan)|v
+gauge|mengukur, menilai; alat ukur|v;o
+hardliner|orang garis keras|o
+headwind|angin haluan; hambatan|o;o
+hugely|sangat, amat besar|o
+introvert|introver, orang tertutup|o
+jellyfish|ubur-ubur|o
+milestone|tonggak sejarah|o
+mismatch|ketidakcocokan|o
+persistently|terus-menerus|o
+populous|berpenduduk padat|o
+preoccupy|menyita pikiran|v
+pseudonym|nama samaran|o
+resurgence|kebangkitan kembali|o
+schema|skema, kerangka; kerangka berpikir|o;o
+supervisory|pengawasan|o
+taper|meruncing; berkurang bertahap|v;v
+teaser|cuplikan; teka-teki|o;o
+abstraction|abstraksi|o
+advancement|kemajuan; kenaikan pangkat|o;o
+aide|ajudan, pembantu|o
+eruption|letusan; pecahnya (secara tiba-tiba)|o;o
+ethnicity|etnisitas, kesukuan|o
+extant|masih ada|o
+firsthand|langsung, dari tangan pertama|o
+iconic|ikonik|o
+inertia|kelembaman (sikap enggan berubah); inersia|o;o
+lucrative|menguntungkan|o
+nous|akal sehat, kecerdasan praktis|o
+politicize|memolitisasi|v
+posture|postur, sikap tubuh; sikap, pendirian|o;o
+pottery|tembikar, gerabah|o
+redress|memperbaiki, memulihkan; ganti rugi|v;o
+severity|keparahan; kekerasan|o;o
+sloth|kemalasan; kukang (hewan pohon yang lamban)|o;o
+storyline|alur cerita|o
+stride|langkah panjang; kemajuan|o;o
+synapse|sinapsis|o
+toxin|racun, toksin|o
+vigorous|giat, kuat|o
+virtuous|berbudi luhur|o
+aquarium|akuarium|o
+asymmetric|asimetris, tidak seimbang|o
+asymmetry|asimetri, ketidakseimbangan|o
+binomial|binomial, bersuku dua|o
+calcium|kalsium|o
+efficacy|kemanjuran, efektivitas|o
+exemption|pembebasan (dari aturan atau kewajiban)|o
+experimentation|percobaan, eksperimen|o
+geometric|geometris (berkaitan dengan geometri); geometris (berbentuk teratur)|o;o
+importer|importir|o
+incompatible|tidak cocok, tidak dapat berjalan bersama|o
+interpreter|juru bahasa, penerjemah lisan|o
+intractable|sulit diatasi|o
+lament|meratapi; ratapan|v;o
+neoliberal|neoliberal|o
+pessimism|pesimisme|o
+popularize|memopulerkan|v
+powerhouse|kekuatan besar (orang, kelompok, atau negara)|o
+relativity|kerelatifan; teori relativitas|o;o
+renovate|merenovasi|v
+supremacy|supremasi, kekuasaan tertinggi|o
+upend|membalikkan; menjungkirbalikkan, mengacaukan|v;v
+vaccinate|memvaksinasi|v
+verification|verifikasi, pemeriksaan|o
+xenophobia|xenofobia|o
+affluent|makmur, kaya|o
+ambiguity|ambiguitas, ketaksaan|o
+bassist|pemain bas|o
+billionaire|miliarder|o
+calamity|bencana, malapetaka|o
+colon|titik dua (:); usus besar|o;o
+debacle|kegagalan memalukan|o
+diesel|solar, diesel|o
+ministerial|berkaitan dengan menteri|o
+rhythmic|berirama|o
+selective|selektif|o
+separately|secara terpisah|o
+skew|memiringkan, membiaskan|v
+wartime|masa perang|o
+advent|kedatangan, kemunculan|o
+caregiver|pengasuh, perawat|o
+collide|bertabrakan; berbenturan|v;v
+covariance|kovarians|o
+decode|mengurai kode, menafsirkan|v
+excel|unggul|v
+firefly|kunang-kunang|o
+intimacy|keakraban|o
+modernity|kemodernan; zaman modern|o;o
+mural|mural, lukisan dinding|o
+nada|tidak ada apa-apa|o
+pesticide|pestisida|o
+redistribute|mendistribusikan ulang|v
+societal|kemasyarakatan|o
+solvency|solvabilitas, kemampuan membayar utang|o
+speculate|menduga-duga, berteori; berspekulasi|v;v
+standoff|kebuntuan, konfrontasi|o
+subcontinent|anak benua (terutama India)|o
+supernova|supernova|o
+vinyl|vinil (sejenis plastik); piringan hitam|o;o
+wingspan|rentang sayap|o
+anarchist|anarkis|o
+ascent|pendakian, kenaikan|o
+campaigner|pegiat, aktivis|o
+celestial|berkaitan dengan langit, surgawi|o
+cyberspace|dunia maya|o
+demagogue|demagog|o
+deterrent|penangkal, pencegah|o
+elusive|sulit ditemukan, sulit dipahami|o
+enrollment|pendaftaran, jumlah peserta terdaftar|o
+enslave|memperbudak|v
+fertiliser|pupuk|o
+fringe|pinggiran, tepi; poni|o;o
+misuse|penyalahgunaan; menyalahgunakan|o;v
+occurrence|kejadian, peristiwa|o
+optic|optik (berkaitan dengan mata atau penglihatan); lensa|o;o
+optimization|optimalisasi|o
+popularly|umumnya, secara luas|o
+precautionary|bersifat pencegahan|o
+proactive|proaktif|o
+proximity|kedekatan|o
+radian|radian|o
+sim|kartu SIM; simulasi|o;o
+substantive|substantif, nyata|o
+undervalue|meremehkan, menilai terlalu rendah|v
+vaginal|berkaitan dengan vagina|o
+vegan|vegan|o
+backfire|menjadi bumerang|v
+defuse|meredakan; menjinakkan (bom)|v;v
+deliberation|pertimbangan, musyawarah|o
+duplicate|menggandakan; duplikat|v;o
+fractal|fraktal|o
+geology|geologi|o
+isolationism|isolasionisme|o
+philanthropist|dermawan, filantropis|o
+protectorate|protektorat|o
+waterfall|air terjun|o
+aluminum|aluminium|o
+cannabis|ganja|o
+deadlock|kebuntuan, jalan buntu|o
+diffusion|penyebaran, difusi|o
+disintegrate|hancur berkeping-keping|v
+erratic|tidak menentu|o
+evade|menghindar, mengelak|v
+filmmakers|para pembuat film (jamak dari filmmaker)|o
+garment|pakaian|o
+grapple|bergulat dengan (masalah); bergulat|v;v
+harvesting|panen; pengumpulan (data, energi, organ)|o;o
+hegemon|hegemon, kekuatan dominan|o
+implicitly|secara tersirat; sepenuhnya, tanpa ragu|o;o
+incompetence|ketidakcakapan|o
+jihadist|jihadis|o
+lawmaker|pembuat undang-undang, legislator|o
+outsize|sangat besar|o
+overturn|membatalkan (keputusan); membalikkan|v;v
+predictably|sudah bisa ditebak|o
+respectfully|dengan hormat|o
+stringent|ketat|o
+syringe|jarum suntik|o
+unilateralism|unilateralisme|o
+unskilled|tidak terampil|o
+adaptive|adaptif|o
+alloy|paduan logam|o
+aversion|keengganan, rasa tidak suka|o
+circulate|beredar, menyebar|v
+conjunction|kata hubung (dan, tetapi); gabungan, kebersamaan|o;o
+cosmetic|kosmetik, dangkal; berkaitan dengan kosmetik|o;o
+dissertation|disertasi, tesis|o
+futile|sia-sia|o
+hippocampus|hipokampus|o
+hoc|(dalam ad hoc) untuk tujuan tertentu, dadakan|o
+inland|pedalaman|o
+jihad|jihad|o
+masculine|maskulin, jantan|o
+massively|secara besar-besaran|o
+patriotism|patriotisme|o
+permafrost|tanah beku abadi, permafrost|o
+philanthropy|filantropi, kedermawanan|o
+physiology|fisiologi (ilmu); fisiologi (fungsi tubuh)|o;o
+plankton|plankton|o
+sap|getah; orang bodoh|o;o
+syntax|sintaksis|o
+theorist|ahli teori|o
+timber|kayu bangunan|o
+viability|kelayakan|o
+artificially|secara buatan|o
+aurochs|aurochs (lembu liar yang sudah punah)|o
+brutality|kebrutalan|o
+conditionality|persyaratan (misalnya pada pinjaman)|o
+dementia|demensia, pikun|o
+gland|kelenjar|o
+goodwill|niat baik; nilai reputasi usaha (goodwill)|o;o
+impetus|dorongan, rangsangan|o
+inconsistent|tidak konsisten, bertentangan; tidak tetap|o;o
+inhibit|menghambat, menahan|v
+lyrical|liris, puitis; berkaitan dengan lirik lagu|o;o
+novelty|kebaruan; hal baru|o;o
+parse|mengurai (kalimat, teks, atau data)|v
+prevalence|prevalensi, tingkat kelaziman|o
+restrictive|membatasi|o
+spatial|spasial, keruangan|o
+spectral|spektral; seperti hantu|o;o
+transcription|transkripsi (salinan tertulis ucapan); transkripsi (genetik)|o;o
+universally|secara universal, oleh semua orang|o
+vowel|vokal, huruf hidup|o
+whats|apa itu (what is); apa yang telah (what has)|o;o
+achievable|dapat dicapai|o
+airfield|lapangan terbang|o
+arsehole|(makian kasar) bajingan; lubang pantat|o;o
+biofuel|bahan bakar nabati|o
+buttress|menopang, memperkuat; penopang dinding|v;o
+candidacy|pencalonan|o
+choreographer|koreografer|o
+coercion|paksaan|o
+cylinder|tabung, silinder; silinder mesin|o;o
+dunams|dunam (jamak; satuan luas 1.000 m²)|o
+enthusiastic|antusias, bersemangat|o
+fearful|takut|o
+globular|bulat|o
+hegemonic|hegemonik, dominan|o
+imposition|pemaksaan; beban yang tidak adil|o;o
+inception|awal, permulaan|o
+intercourse|hubungan seksual; pergaulan|o;o
+nmi|mil laut|o
+optional|opsional, pilihan|o
+overvalue|menilai terlalu tinggi|v
+preclude|mencegah, menutup kemungkinan|v
+punitive|bersifat menghukum|o
+reliability|keandalan|o
+scant|sedikit sekali|o
+uniquely|secara unik; terutama|o;o
+wholly|sepenuhnya|o
+bloodshed|pertumpahan darah|o
+blunder|kesalahan besar|o
+broadband|pita lebar, internet cepat|o
+covenant|perjanjian, ikrar|o
+detachment|sikap menjaga jarak; detasemen|o;o
+discrete|terpisah, tersendiri|o
+dragonfly|capung|o
+exodus|eksodus|o
+folding|lipat; pelipatan|o;o
+galvanize|menggerakkan, membangkitkan; menggalvanisasi (melapisi seng)|v;v
+helium|helium|o
+immigrate|berimigrasi|v
+keyword|kata kunci; kata kunci (pencarian)|o;o
+lifespan|masa hidup, umur|o
+mantra|semboyan; mantra|o;o
+predicament|kesulitan, situasi sulit|o
+reuse|menggunakan kembali|v
+revisit|mengunjungi kembali; meninjau kembali|v;v
+sequencing|pengurutan; sekuensing (DNA)|o;o
+appease|menenangkan (dengan menuruti tuntutan)|v
+autistic|autis|o
+bode|menjadi pertanda (baik atau buruk)|v
+colonialism|kolonialisme|o
+colorful|berwarna-warni; semarak, hidup|o;o
+consortium|konsorsium|o
+counterfeit|palsu|o
+deterministic|deterministik|o
+entropy|entropi|o
+glamorous|glamor, memikat|o
+horrific|mengerikan|o
+infrared|inframerah|o
+intimidation|intimidasi|o
+kilogram|kilogram, 1.000 gram|o
+lesion|lesi, luka jaringan|o
+manifestation|perwujudan, manifestasi|o
+negligible|dapat diabaikan|o
+neutron|neutron|o
+questionable|meragukan, patut dipertanyakan|o
+revolutionize|merevolusi|v
+satire|satire, sindiran|o
+seldom|jarang|o
+starvation|kelaparan|o
+ultraviolet|ultraungu, ultraviolet|o
+walrus|walrus|o
+wholesale|grosir; menyeluruh, besar-besaran|o;o
+wisely|dengan bijak|o
+wreak|menimbulkan (kerusakan, kekacauan)|v
+abolition|penghapusan (hukum atau sistem)|o
+archaeologist|arkeolog|o
+chassis|sasis, rangka kendaraan|o
+emigration|emigrasi|o
+fertile|subur|o
+fraught|penuh (masalah, ketegangan); cemas|o;o
+gameplay|cara bermain (gim video)|o
+hysteresis|histeresis|o
+illustrator|ilustrator|o
+immerse|mencelupkan; menenggelamkan diri (dalam kegiatan)|v;v
+nanoparticle|nanopartikel|o
+oasis|oasis; tempat yang tenang|o;o
+operatic|berkaitan dengan opera; dramatis|o;o
+overestimate|menilai terlalu tinggi|v
+pivotal|sangat penting, menentukan|o
+pureblood|berdarah murni|o
+registry|daftar resmi, register|o
+relational|relasional, berkaitan dengan hubungan|o
+rendition|pembawaan, versi; penyerahan tersangka|o;o
+renounce|melepaskan secara resmi, menolak|v
+satirical|satiris, bersifat menyindir|o
+scaling|penskalaan; perluasan|o;o
+shite|(kasar) sampah, omong kosong|o
+sneaker|sepatu olahraga|o
+subdue|menaklukkan, mengendalikan|v
+sundown|matahari terbenam|o
+uhm|eh (bunyi ragu-ragu)|o
+vacant|kosong; hampa (ekspresi)|o;o
+verbal|lisan; berkaitan dengan kata kerja|o;o
+versa|(dalam vice versa) sebaliknya|o
+anus|anus, dubur|o
+backstop|pengaman, langkah terakhir|o
+censor|menyensor; sensor (petugas)|v;o
+devastation|kehancuran|o
+frail|lemah, rapuh|o
+funk|funk (musik dansa berirama); murung|o;o
+incursion|serangan, penyusupan|o
+indebtedness|keadaan berutang; rasa berutang budi|o;o
+lineage|garis keturunan, silsilah|o
+pessimistic|pesimistis|o
+rainfall|curah hujan|o
+ruble|rubel|o
+scapegoat|kambing hitam|o
+smallholder|petani kecil|o
+solemn|khidmat, resmi|o
+spirituality|spiritualitas, kerohanian|o
+submission|penyerahan (dokumen); ketundukan, penyerahan diri|o;o
+suffice|cukup|v
+systemically|secara sistemik|o
+allegiance|kesetiaan|o
+analog|analog; padanan|o;o
+biopic|film biografi|o
+blob|gumpalan|o
+capacitor|kapasitor|o
+cardboard|kardus, karton|o
+consistency|konsistensi, ketetapan; kekentalan|o;o
+depose|menggulingkan|v
+disposable|sekali pakai; siap dibelanjakan|o;o
+kinetic|kinetik|o
+landslide|tanah longsor; kemenangan telak (dalam pemilu)|o;o
+lateral|menyamping, lateral|o
+lifelong|seumur hidup|o
+methodology|metodologi|o
+mindfulness|kesadaran penuh|o
+oftentimes|sering kali|o
+percussion|perkusi|o
+planner|perencana; buku agenda|o;o
+prevalent|lazim, umum|o
+prostate|prostat|o
+psychiatry|psikiatri|o
+radicalism|radikalisme|o
+recede|surut, mundur|v
+reiterate|menegaskan kembali, mengulangi|v
+spawn|melahirkan, memunculkan; bertelur (ikan)|v;v
+strategist|ahli strategi|o
+strife|perselisihan, pertikaian|o
+technologically|secara teknologi|o
+theological|teologis|o
+tyranny|tirani, kelaliman|o
+uterus|rahim|o
+visually|secara visual|o
+adherence|kepatuhan|o
+alignment|kesejajaran; keselarasan|o;o
+antimicrobial|antimikroba|o
+circa|sekitar (untuk tahun)|o
+counsellor|konselor, penasihat|o
+dung|kotoran hewan, pupuk kandang|o
+encrypt|mengenkripsi|v
+fatality|korban jiwa|o
+irrigation|irigasi, pengairan|o
+nonviolent|tanpa kekerasan|o
+persistence|ketekunan, kegigihan|o
+precursor|pendahulu, cikal bakal|o
+princely|mewah; berkaitan dengan pangeran|o;o
+repetition|pengulangan|o
+retiree|pensiunan|o
+rift|retakan; keretakan hubungan|o;o
+scientifically|secara ilmiah|o
+staple|bahan pokok, makanan pokok; staples|o;o
+startups|perusahaan rintisan (jamak dari startup)|o
+stimulation|rangsangan, stimulasi|o
+voluntarily|secara sukarela|o
+wanker|(makian kasar) orang brengsek|o
+boon|berkah, manfaat|o
+debug|mengawakutu, memperbaiki galat (perangkat lunak)|v
+intermediary|perantara|o
+muster|mengumpulkan, menghimpun (keberanian, dukungan)|v
+pretext|dalih|o
+prolific|produktif, subur|o
+scourge|momok, bencana|o
+unnamed|tanpa nama, anonim|o
+violinist|pemain biola|o
+anthropologist|antropolog|o
+audit|audit, pemeriksaan keuangan; mengaudit|o;v
+authenticity|keaslian|o
+charismatic|karismatik|o
+condemnation|kecaman|o
+consular|berkaitan dengan konsul|o
+discern|membedakan, menangkap|v
+disillusion|mengecewakan (dengan membuka kenyataan)|v
+earner|pencari nafkah|o
+entrant|peserta, pendatang baru|o
+fatigue|kelelahan|o
+generational|antargenerasi, berkaitan dengan generasi|o
+iceberg|gunung es|o
+infamous|terkenal buruk|o
+laundering|pencucian (uang); pencucian (pakaian)|o;o
+lobe|lobus, cuping|o
+longtime|lama, bertahun-tahun|o
+mast|tiang (kapal atau antena)|o
+meditate|bermeditasi; merenung|v;v
+mentality|mentalitas, pola pikir|o
+multipolar|multipolar|o
+neurotransmitter|neurotransmiter|o
+phosphorus|fosfor|o
+polymer|polimer|o
+prompting|dorongan, desakan|o
+rudder|kemudi|o
+scarcely|hampir tidak|o
+secession|pemisahan diri|o
+skunk|sigung|o
+supranational|supranasional|o
+unconditional|tanpa syarat|o
+wishful|berdasarkan angan-angan|o
+accessibility|aksesibilitas, kemudahan akses|o
+bonobo|bonobo|o
+chimp|simpanse|o
+espionage|spionase, mata-mata|o
+generalize|menggeneralisasi; menyebarluaskan|v;v
+learner|pelajar|o
+newborn|bayi baru lahir|o
+noun|kata benda|o
+obese|obesitas, sangat gemuk|o
+physiological|fisiologis|o
+portable|mudah dibawa, portabel|o
+preferable|lebih baik, lebih disukai|o
+quantify|mengukur, mengkuantifikasi|v
+recursion|rekursi|o
+ripple|riak; efek berantai|o;o
+scaffold|perancah; panggung hukuman mati|o;o
+scalar|skalar|o
+sizeable|cukup besar|o
+spam|spam, pesan sampah|o
+watershed|titik balik; daerah aliran sungai|o;o
+antitrust|antimonopoli|o
+auxiliary|tambahan, pembantu; kata kerja bantu|o;o
+blogs|blog (jamak)|o
+cancellation|pembatalan|o
+congestion|kemacetan|o
+conservatism|konservatisme|o
+fiscally|secara fiskal|o
+harmonize|menyelaraskan; bernyanyi dalam harmoni|v;v
+histogram|histogram|o
+incarnation|wujud, versi; penjelmaan|o;o
+inclination|kecenderungan; kemiringan|o;o
+inferior|lebih rendah (mutu atau kedudukan)|o
+insertion|penyisipan|o
+interviewer|pewawancara|o
+pensioner|pensiunan|o
+placebo|plasebo|o
+posterior|bagian belakang; posterior (kemudian, dalam waktu atau probabilitas)|o;o
+proliferate|berkembang biak pesat, menyebar|v
+ratification|ratifikasi|o
+redirect|mengalihkan|v
+simultaneous|serentak, bersamaan|o
+slag|terak; (hinaan) perempuan murahan|o;o
+smartphones|ponsel pintar (jamak)|o
+stipulate|menetapkan (sebagai syarat)|v
+swath|jalur, hamparan luas|o
+swiftly|dengan cepat|o
+tightly|erat, rapat|o
+unanimously|secara aklamasi, dengan suara bulat|o
+unbalance|mengguncang keseimbangan|v
+abrupt|tiba-tiba; ketus|o;o
+anthropology|antropologi|o
+burgeoning|berkembang pesat|o
+calligraphy|kaligrafi|o
+compiler|kompilator; penyusun|o;o
+comprehend|memahami|v
+endorsement|dukungan, persetujuan|o
+fledge|tumbuh bulu terbang|v
+functionality|fungsionalitas|o
+lingonberry|lingonberry (buah beri merah kecil dari Skandinavia)|o
+lobbyist|pelobi|o
+mathematically|secara matematis|o
+moratorium|moratorium|o
+multiplayer|multipemain|o
+receptacle|wadah|o
+recreational|rekreasi, untuk bersenang-senang|o
+retaliate|membalas|v
+unusually|secara tidak biasa; luar biasa|o;o
+amplitude|amplitudo|o
+befriend|berteman dengan|v
+bestow|menganugerahkan|v
+billionaires|miliarder (jamak)|o
+cascade|air terjun kecil; rentetan|o;o
+cetera|(dalam et cetera) dan seterusnya|o
+crusade|kampanye gencar; Perang Salib|o;o
+eleventh|kesebelas; sepersebelas|o;o
+entertainer|penghibur|o
+evaporate|menguap; lenyap|v;v
+geologist|ahli geologi|o
+incarcerate|memenjarakan|v
+indictment|dakwaan; bukti kegagalan|o;o
+leisure|waktu luang|o
+longevity|umur panjang|o
+neutralize|menetralkan|v
+oooh|oh (seruan kaget atau senang)|o
+ore|bijih|o
+periodical|terbitan berkala, majalah|o
+persona|citra diri, persona|o
+pessimist|orang pesimis|o
+poetic|berkaitan dengan puisi; puitis|o;o
+prudence|kehati-hatian|o
+retrenchment|penghematan|o
+senorita|nona (Spanyol)|o
+shortlist|daftar calon terpilih|o
+stylize|menggayakan|v
+surmount|mengatasi|v
+testosterone|testosteron|o
+upwards|ke atas|o
+alternatively|sebagai alternatif|o
+ambiguous|ambigu, taksa|o
+archaeology|arkeologi|o
+barrister|advokat, pengacara|o
+blockade|blokade|o
+coding|pemrograman, pengodean|o
+culturally|secara budaya|o
+decarbonization|dekarbonisasi|o
+definitive|pasti, definitif|o
+demolition|pembongkaran (bangunan)|o
+discriminatory|diskriminatif|o
+disdain|penghinaan, rasa jijik|o
+diverge|menyimpang, berbeda|v
+drastically|secara drastis|o
+dysfunction|disfungsi|o
+engulf|menelan, melanda|v
+eschew|menjauhi|v
+federalism|federalisme|o
+hereditary|turun-temurun, keturunan|o
+humankind|umat manusia|o
+ingenuity|kecerdikan, daya cipta|o
+insofar|(dalam insofar as) sejauh|v
+insurer|perusahaan asuransi|o
+intolerance|intoleransi; intoleransi (makanan)|o;o
+invasive|invasif (menyebar merugikan); invasif (masuk ke tubuh)|o;o
+lithium|litium|o
+murderous|kejam, haus darah|o
+preparedness|kesiapsiagaan|o
+publicize|memublikasikan|v
+reboot|menyalakan ulang (komputer); meluncurkan ulang|v;v
+sect|sekte|o
+songwriting|penulisan lagu|o
+tempo|tempo, kecepatan (musik)|o
+unchecked|tak terkendali|o
+cardiovascular|kardiovaskular|o
+charitable|amal; murah hati|o;o
+coloured|berwarna|o
+columnist|kolumnis|o
+conducive|kondusif, mendukung|o
+diarrhea|diare|o
+digitize|mendigitalkan|v
+doggone|sialan|o
+electromagnetic|elektromagnetik|o
+exon|ekson|o
+fetus|janin|o
+horsepower|tenaga kuda|o
+inequity|ketidakadilan|o
+mingle|bercampur; bergaul|v;v
+mortar|adukan semen; mortir|o;o
+nationally|secara nasional|o
+omen|pertanda|o
+penicillin|penisilin|o
+phenomenal|luar biasa, fenomenal|o
+placement|penempatan; magang|o;o
+prefrontal|prefrontal|o
+responsibly|secara bertanggung jawab|o
+shun|menjauhi, menolak|v
+storey|lantai, tingkat (bangunan)|o
+subprime|subprima (pinjaman bagi peminjam berisiko tinggi)|v
+turret|menara kecil; kubah meriam (tank atau kapal)|o;o
+unregulated|tidak diatur|o
+vendor|penjual|o
+abbreviation|singkatan|o
+blackboard|papan tulis|o
+cleansing|pembersihan; pembersihan (seperti pembersihan etnis)|o;o
+crossroad|persimpangan; titik penentu|o;o
+deduction|potongan; deduksi|o;o
+defiance|pembangkangan|o
+disorderly|berantakan; tidak tertib|o;o
+disperse|membubarkan, menyebar|v
+emanate|memancar, berasal|v
+fable|fabel|o
+forego|melepaskan, merelakan|v
+freshwater|air tawar|o
+glacial|glasial (berkaitan dengan gletser); sangat lambat; sedingin es|o;o;o
+illegitimate|tidak sah; anak di luar nikah|o;o
+indict|mendakwa|v
+interdependent|saling bergantung|o
+latitude|garis lintang; keleluasaan|o;o
+locomotive|lokomotif|o
+lofty|tinggi; luhur, ambisius|o;o
+loophole|celah hukum|o
+meager|sedikit, minim|o
+misplace|salah menaruh, menghilangkan|v
+outpace|melampaui (dalam kecepatan)|v
+patronage|dukungan (pelindung); patronase (bagi-bagi jabatan)|o;o
+photographic|fotografis|o
+repository|tempat penyimpanan, repositori|o
+starkly|dengan jelas, secara tajam|o
+tenet|prinsip, ajaran|o
+tolerant|toleran|o
+trickle|aliran kecil; menetes|o;v
+underwrite|menjamin (secara finansial)|v
+witchcraft|ilmu sihir|o
+yarn|benang rajut; cerita panjang|o;o
+antisemitism|antisemitisme|o
+atop|di atas|o
+audacious|berani, nekat|o
+axon|akson|o
+bloodstream|aliran darah|o
+cassette|kaset|o
+dwindle|menyusut|v
+endowment|dana abadi; bakat|o;o
+fallacy|kekeliruan, sesat pikir|o
+harden|mengeras, mengeraskan|v
+incidence|tingkat kejadian, insidensi|o
+liter|liter|o
+nuanced|bernuansa|o
+penetration|penetrasi; penetrasi pasar|o;o
+precipitation|curah hujan, presipitasi; pengendapan|o;o
+presuppose|mengandaikan|v
+skeletal|berkaitan dengan kerangka; sangat kurus|o;o
+slimy|berlendir; menjilat|o;o
+streamline|menyederhanakan, merampingkan|v
+trustee|wali amanat|o
+unfettered|tanpa hambatan|o
+untenable|tidak dapat dipertahankan|o
+visionary|visioner; orang visioner|o;o
+aggregator|agregator|o
+aortic|berkaitan dengan aorta|o
+applicant|pelamar, pemohon|o
+appropriately|dengan tepat, sepatutnya|o
+barley|jelai|o
+biomass|biomassa (bahan bakar); biomassa (total makhluk hidup)|o;o
+blockbuster|film atau buku yang sangat laris|o
+brunt|beban terberat, dampak terparah|o
+conceptual|konseptual|o
+conglomerate|konglomerat|o
+discard|membuang|v
+draconian|sangat kejam, drakonian|o
+exponentially|secara eksponensial|o
+feeder|pengumpan|o
+flavour|rasa, cita rasa|o
+forage|mencari makan|v
+inversion|pembalikan, inversi|o
+mastery|penguasaan, kemahiran; kendali|o;o
+orchestrate|mengatur, mengoordinasi; mengorkestrasi (musik)|v;v
+overstate|melebih-lebihkan|v
+polity|komunitas politik, negara|o
+prequel|prekuel|o
+procession|arak-arakan, prosesi|o
+propagate|menyebarkan; mengembangbiakkan (tanaman)|v;v
+slime|lendir|o
+stowaway|penumpang gelap|o
+unhealthy|tidak sehat; sakit|o;o
+viewpoint|sudut pandang|o
+aluminium|aluminium|o
+anal|berkaitan dengan anus; terlalu cerewet, rewel|o;o
+biotechnology|bioteknologi|o
+cipher|sandi; orang tak berarti|o;o
+cleric|ulama, rohaniwan|o
+constructor|pembangun; konstruktor (pemrograman)|o;o
+crest|puncak (bukit atau ombak); lambang keluarga|o;o
+discriminate|mendiskriminasi; membedakan|v;v
+fibre|serat; serat makanan|o;o
+hiatus|jeda, rehat|o
+inclusiveness|inklusivitas|o
+insure|mengasuransikan; memastikan|v;v
+jihadists|jihadis (jamak)|o
+lengthy|panjang, bertele-tele|o
+lineup|daftar peserta; barisan tersangka|o;o
+melioidosis|melioidosis|o
+mew|mengeong|v
+mil|juta; seperseribu inci|o;o
+notoriously|terkenal buruk|o
+outgoing|ramah, supel; yang akan lengser|o;o
+pinnacle|puncak|o
+posting|unggahan; penugasan|o;o
+pushover|orang yang mudah dibujuk; pekerjaan gampang|o;o
+reliant|bergantung|o
+stint|masa kerja, masa tugas|o
+vigorously|dengan giat|o
+aaah|aah (seruan sakit, takut, atau lega)|o
+abruptly|tiba-tiba|o
+cartoonist|kartunis|o
+categorize|mengategorikan|v
+corpus|korpus|o
+environmentalist|pencinta lingkungan, aktivis lingkungan|o
+firstly|pertama|o
+hinge|engsel; bergantung pada|o;v
+hubris|keangkuhan|o
+hydrocarbon|hidrokarbon|o
+hypothetical|hipotetis|o
+induction|pelantikan, pengenalan tugas; induksi (penalaran); induksi (listrik)|o;o;o
+infinitely|tanpa batas; jauh sekali|o;o
+mesh|jaring, kasa; cocok, menyatu|o;v
+metabolism|metabolisme|o
+nationalize|menasionalisasi|v
+niner|sembilan (dalam percakapan radio)|o
+overarching|menyeluruh|o
+papal|berkaitan dengan Paus|o
+paramilitary|paramiliter|o
+procedural|prosedural|o
+reelection|pemilihan kembali|o
+visibility|jarak pandang; perhatian publik|o;o
+vocational|kejuruan, vokasional|o
+worthwhile|bermanfaat, sepadan|o
+accidental|kebetulan, tidak sengaja|o
+arrogance|kesombongan|o
+avant|(dalam avant-garde) baru dan eksperimental|o
+blockchain|rantai blok, blockchain|o
+browse|melihat-lihat; menjelajah (situs web)|v;v
+brutally|secara brutal; terus terang|o;o
+checklist|daftar periksa|o
+conundrum|teka-teki, dilema|o
+conversely|sebaliknya|o
+countercyclical|kontrasiklus|o
+covert|rahasia, terselubung|o
+cubic|kubik; berbentuk kubus|o;o
+dandy|pesolek; hebat, bagus|o;o
+disarray|kekacauan|o
+emblem|lambang|o
+emitter|penghasil (emisi, cahaya), emitor|o
+expulsion|pengusiran|o
+flowering|pembungaan; masa kejayaan|o;o
+fray|pertikaian; berjumbai (tepi kain)|o;v
+gridlock|kemacetan total; kebuntuan politik|o;o
+labourer|buruh|o
+lastly|terakhir|o
+locality|daerah, lingkungan|o
+nano|sangat kecil; nano (sepermiliar)|o;o
+negation|penyangkalan, negasi|o
+outperform|mengungguli|v
+pathology|patologi; kelainan|o;o
+predatory|pemangsa; eksploitatif|o;o
+pseudo|palsu, semu|o
+redistributive|redistributif|o
+relentlessly|tanpa henti|o
+singular|tunggal; aneh, luar biasa|o;o
+socio|sosial|o
+sprawl|perluasan kota tak terkendali; terhampar|o;v
+supercomputer|superkomputer|o
+turbulent|bergejolak, kacau|o
+ultrasound|ultrasonografi, USG|o
+unwanted|tidak diinginkan|o
+urinate|buang air kecil|v
+adversity|kesulitan|o
+alot|banyak (salah eja dari a lot)|o
+antagonism|permusuhan|o
+beverage|minuman|o
+cheaply|dengan murah|o
+combatant|kombatan, petempur|o
+commute|pulang-pergi kerja; meringankan (hukuman)|v;v
+costing|perhitungan biaya|o
+democratize|mendemokratisasikan|v
+estrogen|estrogen|o
+faire|(dalam laissez-faire) membiarkan ekonomi bebas dari campur tangan negara|o
+fluorescent|berpendar|o
+frontal|depan; langsung|o;o
+geoengineering|geoteknik iklim, rekayasa iklim|o
+hallmark|ciri khas|o
+humorous|lucu, jenaka|o
+initialize|menginisialisasi|v
+investigative|investigatif|o
+landfill|tempat pembuangan akhir (sampah)|o
+metabolic|metabolik|o
+neurological|neurologis|o
+obstruct|menghalangi|v
+poof|wus (bunyi lenyap tiba-tiba)|o
+proprietary|milik pribadi, berpaten|o
+recourse|jalan keluar, upaya bantuan|o
+remotely|dari jauh, jarak jauh; sedikit pun (not remotely = sama sekali tidak)|o;o
+resistor|resistor|o
+savvy|cerdik, berpengetahuan luas|o
+seaweed|rumput laut|o
+staircase|tangga|o
+statistically|secara statistik|o
+synonym|sinonim, padanan kata|o
+teleomorph|teleomorf (tahap reproduksi seksual jamur)|o
+tenor|tenor; nada umum|o;o
+terminology|terminologi, peristilahan|o
+tremendously|sangat, luar biasa|o
+unfamiliar|asing, tidak dikenal|o
+vivid|cerah, terang; jelas, hidup|o;o
+armistice|gencatan senjata|o
+aviator|penerbang|o
+breakout|pelarian; kesuksesan mendadak|o;o
+chevron|pangkat bentuk V, garis berbentuk V|o
+cognac|konyak|o
+colonization|kolonisasi, penjajahan|o
+decorative|dekoratif, hiasan|o
+descriptive|deskriptif|o
+desperation|keputusasaan|o
+eastward|ke arah timur|o
+enclose|mengelilingi, memagari; melampirkan|v;v
+flashback|kilas balik; ingatan tiba-tiba yang jelas|o;o
+gymnastic|berkaitan dengan senam|o
+hoax|hoaks, tipuan|o
+humanist|humanis|o
+hype|gembar-gembor|o
+inference|kesimpulan, inferensi|o
+jest|lelucon, canda|o
+ledger|buku besar|o
+limestone|batu kapur|o
+modernist|modernis|o
+mountainous|bergunung-gunung|o
+omit|menghilangkan, tidak mencantumkan|v
+playoff|babak penentuan|o
+preferential|istimewa, preferensial|o
+reassert|menegaskan kembali|v
+secularism|sekularisme|o
+stature|tinggi badan; reputasi|o;o
+suffix|akhiran|o
+taint|mencemari; menodai|v;v
+terrestrial|darat, bumi|o
+undeniable|tidak dapat disangkal|o
+unpaid|tidak dibayar|o
+unsuccessfully|tanpa hasil|o
+academia|dunia akademik|o
+adulthood|masa dewasa|o
+baseline|garis dasar, acuan pembanding|o
+continuum|kontinum|o
+cornerstone|landasan, batu penjuru|o
+cortisol|kortisol|o
+cryptocurrencies|mata uang kripto (jamak)|o
+dildo|dildo (alat bantu seks berbentuk penis)|o
+glamour|pesona, glamor|o
+lax|longgar, lalai|o
+nationalistic|sangat nasionalis|o
+pronouncement|pernyataan resmi|o
+recapitalization|rekapitalisasi|o

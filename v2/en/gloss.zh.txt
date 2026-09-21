@@ -6678,3 +6678,2816 @@ o'clock|点，点钟 (表示钟点)|o
 ma'am|女士，夫人 (对女性的礼貌称呼)|o
 y'all|你们 (非正式，美国南部)|f2s2p
 c'mon|来吧，快点 (口语)|o
+monetary|货币的 (尤指央行的货币供应)|o
+fiscal|财政的|o
+eurozone|欧元区|o
+inflation|通货膨胀; 充气|o;o
+deficit|赤字, 亏空|o
+export|出口, 输出|v
+stability|稳定, 稳定性|o
+debut|首次亮相, 首演|o
+anti|反对, 反|o
+economist|经济学家|o
+infrastructure|基础设施|o
+unemployment|失业; 失业人数|o;o
+policymaker|政策制定者, 决策者|o
+innovation|新方法, 新事物; 创新|o;o
+emission|排放, 排放物|o
+inequality|不平等, 不均|o
+sustainable|可持续的|o
+recession|经济衰退|o
+economics|经济学|o
+productivity|生产率, 生产力|o
+implement|实施, 执行|v
+largely|主要地, 大部分|o
+globalization|全球化|o
+commentator|评论员, 解说员|o
+governance|治理, 管理方式|o
+consumption|消耗, 消费; 食用, 饮用|o;o
+trillion|万亿 (1,000,000,000,000)|o
+sanction|制裁; 批准, 认可|o;o
+integration|整合, 一体化; 融入 (社会)|o;o
+structural|结构的, 结构性的|o
+pandemic|大流行病|o
+populist|民粹主义的|o
+vector|矢量, 向量; 病媒, 传病媒介|o;o
+incentive|激励, 动机|o
+probability|概率, 可能性|o
+variable|变量|o
+contrast|对比, 反差|o
+framework|框架, 体系|o
+reduction|减少, 削减|o
+financing|融资, 资金|o
+surplus|盈余, 过剩|o
+coalition|联盟 (尤指政党联合)|o
+technological|技术的, 科技的|o
+similarly|同样地, 类似地|o
+tariff|关税|o
+nomination|提名|o
+stimulus|刺激 (尤指经济刺激政策)|o
+prosperity|繁荣, 兴旺|o
+portray|描绘, 描写|v
+graph|图表, 曲线图|o
+effectively|实际上, 事实上; 有效地|o;o
+consist|由…组成|v
+consensus|共识, 一致意见|o
+institutional|机构的, 制度的|o
+bilateral|双边的|o
+expansion|扩张, 扩大|o
+output|产量, 产出|o
+format|格式, 形式|o
+politically|政治上|o
+premier|总理, 首相|o
+adaptation|适应, 调整; 改编作品|o;o
+thereby|从而, 因此|o
+austerity|紧缩 (政策)|o
+subsidy|补贴, 津贴|o
+uncertainty|不确定性, 疑虑|o
+equity|股权, 股本; 公平|o;o
+publication|出版, 发表; 出版物|o;o
+referendum|全民公投|o
+node|节点|o
+presidency|总统职位, 总统任期|o
+escalation|升级, 加剧|o
+widely|广泛地, 普遍地|o
+creditor|债权人|o
+multilateral|多边的|o
+composer|作曲家|o
+symbolic|象征性的|o
+mid|…中期, …中间|o
+significantly|显著地, 大幅地|o
+default|违约, 拖欠; 默认设置|o;o
+derivative|金融衍生品; 导数 (数学)|o;o
+regulatory|监管的|o
+contemporary|当代的, 现代的; 同时代的|o;o
+ratio|比率, 比例|o
+pre|…前, …之前|o
+sovereignty|主权|o
+migration|迁移, 迁徙|o
+nationalist|民族主义者|o
+commodity|大宗商品, 商品|o
+provocation|挑衅, 激怒|o
+capitalism|资本主义|o
+compute|计算|v
+activist|活动人士, 积极分子|o
+electoral|选举的|o
+competitiveness|竞争力|o
+widespread|广泛的, 普遍的|o
+notable|值得注意的, 显著的|o
+constitutional|宪法的, 符合宪法的|o
+liquidity|流动性|o
+renminbi|人民币|o
+uncontrolled|失控的, 不受控制的|o
+migrant|移民, 流动人口|o
+subsequently|随后, 后来|o
+augur|预示, 预兆 (augur well: 预示好结果)|v
+comprehensive|全面的, 综合的|o
+reinforce|加强, 巩固|v
+macroeconomic|宏观经济的|o
+thinker|思想家|o
+timely|及时的, 适时的|o
+efficiency|效率|o
+implication|可能的后果, 影响; 含意, 暗示|o;o
+integrate|整合, 合并; 融入 (群体)|v;v
+rural|农村的, 乡村的|o
+legitimacy|合法性, 正当性|o
+unlimited|无限的, 无限制的|o
+commonly|通常, 普遍|o
+genre|体裁, 类型|o
+agricultural|农业的|o
+ethnic|民族的, 种族的|o
+recur|再次发生, 复发|v
+caput|头 (用于 per caput: 人均)|o
+geopolitical|地缘政治的|o
+synagogue|犹太教会堂|o
+neuron|神经元|o
+imbalance|失衡, 不平衡|o
+authoritarian|专制的, 威权主义的|o
+nonetheless|尽管如此, 然而|o
+facilitate|促进, 使便利|v
+typically|通常, 一般|o
+agriculture|农业|o
+legislation|法律, 立法|o
+nationalism|民族主义|o
+feminist|女权主义者|o
+unprecedented|前所未有的, 史无前例的|o
+prominent|重要的, 著名的; 突出的|o;o
+mandate|授权, 指令; (选民的)授权|o;o
+interact|互动, 相互作用|v
+census|人口普查|o
+certification|认证, 证书|o
+parliamentary|议会的|o
+songwriter|词曲作者|o
+diplomacy|外交; 手腕, 策略|o;o
+solidarity|团结|o
+regulator|监管机构|o
+renewable|可再生的 (如风能、太阳能); 可续期的|o;o
+primarily|主要地, 首要地|o
+productive|多产的, 富有成效的|o
+emphasize|强调, 着重|v
+latter|后者|o
+borrowing|借款, 借贷; 借款额|o;o
+rhetoric|辞令, 花言巧语|o
+instability|不稳定|o
+provision|提供, 供应; 条款, 规定|o;o
+participation|参与, 参加|o
+electron|电子|o
+theta|希腊字母θ|o
+moderate|中等的, 适度的|o
+historian|历史学家|o
+expenditure|支出, 开支|o
+credibility|可信度, 信誉|o
+inclusive|包容的, 兼容并包的; 包括首尾的|o;o
+parameter|参数, 界限; (方程中的)参数|o;o
+miniseries|迷你剧|o
+constraint|限制, 约束|o
+deepen|加深, 变深|v
+economically|经济上; 节约地|o;o
+humanitarian|人道主义的|o
+conventional|传统的, 常规的; 常规的 (指非核武器)|o;o
+genus|属 (生物分类)|o
+transparency|透明度, 公开; 透明|o;o
+linear|直线的; 线性的, 循序渐进的|o;o
+underlie|构成…的基础, 是…的根本原因|v
+slowdown|放缓, 减速|o
+restriction|限制, 约束|o
+literary|文学的|o
+depict|描绘, 描述|v
+forecast|预测, 预报|o
+interaction|互动, 相互作用|o
+credible|可信的, 令人信服的|o
+consulate|领事馆|o
+observer|观察员, 观察者|o
+index|指数; 索引|o;o
+thriller|惊悚片, 惊悚小说|o
+honorary|荣誉的, 名誉的|o
+respectively|分别, 各自|o
+constituency|选区; 选区选民|o;o
+restructuring|重组, 改组|o
+incorporate|纳入, 包含|v
+narrative|叙述, 故事|o
+domain|领域, 范围; 领地, 管辖范围|o;o
+spur|激励, 促进|v
+axis|轴, 轴线; 坐标轴; 轴心 (联盟)|o;o;o
+malaria|疟疾|o
+diversity|多样性|o
+twentieth|第二十|o
+creativity|创造力|o
+bias|偏见, 偏向|o
+formerly|以前, 从前|o
+acclaim|赞誉, 好评|o
+innovative|创新的, 新颖的|o
+ideology|意识形态|o
+sustainability|可持续性|o
+bailout|紧急救助, 纾困|o
+diminish|减少, 减弱|v
+shareholder|股东|o
+premiere|首演, 首映|o
+robust|强健的, 稳健的|o
+mobilize|动员|v
+equality|平等|o
+genome|基因组|o
+velocity|速度|o
+liberalization|自由化|o
+populism|民粹主义|o
+sitcom|情景喜剧|o
+subsequent|随后的, 后来的|o
+dramatically|急剧地, 大幅地; 戏剧性地|o;o
+aggregate|总计的, 合计的|o
+counterpart|对应的人或物, 对等方|o
+globally|在全球范围内|o
+collaboration|合作, 协作|o
+outbreak|爆发|o
+secular|世俗的|o
+soundtrack|电影配乐, 原声音乐|o
+exacerbate|加剧, 使恶化|v
+costly|昂贵的, 代价高的|o
+offset|抵消, 弥补|v
+derive|获得, 取得; 源于, 来自|v;v
+enforce|执行, 实施|v
+regulate|管理, 监管|v
+ideological|意识形态的|o
+comprise|包括, 由…组成|v
+vertex|顶点|o
+educational|教育的|o
+indicator|指标, 指示|o
+northeast|东北|o
+mitigate|减轻, 缓解|v
+rename|重新命名, 改名|v
+greenhouse|温室; 温室 (气体)|o;o
+annually|每年|o
+progressive|进步的, 改革派的; 渐进的|o;o
+willingness|意愿, 乐意|o
+adviser|顾问|o
+nominee|被提名人|o
+pollution|污染|o
+territorial|领土的|o
+extremist|极端分子|o
+quantitative|定量的, 数量的|o
+imperative|必要的, 紧迫的|o
+stance|立场, 态度|o
+feat|壮举, 伟绩|o
+vis|(用于 vis-à-vis)关于, 与…相比|o
+sine|正弦 (对边与斜边之比)|o
+taxpayer|纳税人|o
+administrative|行政的, 管理的|o
+ecosystem|生态系统|o
+quo|(用于 status quo) 现状|o
+coordination|协调, 配合|o
+inevitably|不可避免地, 必然|o
+accountability|问责, 责任|o
+proliferation|激增, 扩散 (尤指武器)|o
+dictatorship|独裁统治, 专政|o
+constitute|组成, 构成; 相当于, 等于|v;v
+deflation|通货紧缩|o
+disruption|中断, 扰乱|o
+implementation|实施, 执行|o
+adequate|足够的, 令人满意的|o
+communism|共产主义|o
+correspond|相符, 相当; 通信|v;v
+shortage|短缺, 不足|o
+northwest|西北|o
+sequel|续集, 续篇|o
+evaluate|评估, 评价|v
+situate|使位于, 置于 (某背景)|v
+unsustainable|不可持续的|o
+inadequate|不足的, 不够好的|o
+predecessor|前任|o
+systemic|系统性的, 全身的|o
+attribute|归因于, 归属于|v
+viable|可行的|o
+nautical|航海的|o
+bloc|集团 (国家或政党)|o
+intensive|集中的, 密集的|o
+entrepreneur|企业家, 创业者|o
+emergence|出现, 兴起|o
+animate|使有生气, 赋予生命; 制作动画|v;v
+furthermore|此外, 而且|o
+nominal|名义上的; 名义的 (未经通胀调整)|o;o
+participant|参与者, 参加者|o
+segment|部分, 段|o
+southwest|西南|o
+displace|迫使离开, 使流离失所; 取代|v;v
+downturn|经济衰退, 下滑|o
+inflow|流入 (资金或人员)|o
+designate|指定, 任命|v
+stagnation|停滞, 不景气|o
+cosine|余弦 (邻边与斜边之比)|o
+intensify|加强, 加剧|v
+tourism|旅游业, 旅游|o
+induce|引起, 导致; 劝诱, 说服|v;v
+confrontation|对抗, 冲突|o
+remix|混音版, 重混版|o
+ownership|所有权|o
+microbe|微生物, 细菌|o
+dominant|占主导地位的, 最有影响的|o
+enact|制定 (法律); 表演, 扮演|v;v
+monopoly|垄断|o
+complexity|复杂性|o
+notably|尤其, 特别; 明显地|o;o
+undertake|承担, 着手|v
+ranking|排名|o
+nineteenth|第十九|o
+orient|使朝向, 使适应; 辨明方向|v;v
+volatility|波动性, 不稳定性|o
+developer|开发商, 开发者|o
+characterize|描述…的特征; 是…的特征|v;v
+substantially|大幅地, 相当多地|o
+safeguard|保护, 保障|v
+empower|赋权, 使有能力|v
+crore|千万 (印度及南亚用)|o
+constrain|限制, 约束|v
+impede|阻碍, 妨碍|v
+multi|多, 多重|o
+subtract|减, 减去|v
+demographic|人口的, 人口统计的; 人群, 人口群体|o;o
+earnings|收入, 工资; 利润, 盈利|o;o
+undoubtedly|毫无疑问, 无疑|o
+vulnerability|脆弱性, 弱点|o
+bankruptcy|破产|o
+effectiveness|有效性, 效果|o
+originate|起源, 来自|v
+broadly|大体上, 总体上; 广泛地|o;o
+lender|贷方, 贷款机构|o
+mainstream|主流|o
+protectionism|贸易保护主义|o
+underpin|支撑, 构成…的基础|v
+clinical|临床的; 冷漠的, 冷静客观的|o;o
+congressional|国会的 (尤指美国国会)|o
+recipient|接受者, 收件人|o
+uncertain|不确定的, 没把握的; 未知的, 未定的|o;o
+fundamentally|根本上, 从根本上说|o
+entail|涉及, 需要|v
+allocate|分配, 拨给|v
+entity|实体|o
+semi|半, 部分|o
+resilience|恢复力, 韧性|o
+cyber|网络的, 计算机的|o
+decisive|决定性的; 果断的|o;o
+assert|断言, 坚称; 维护 (权利)|v;v
+widen|加宽, 扩大|v
+flexible|柔韧的, 可弯曲的; 灵活的|o;o
+transgender|跨性别的|o
+representation|代表, 代理; 描绘, 表现|o;o
+diverse|多样的, 不同的|o
+erode|侵蚀, 逐渐削弱|v
+historically|过去, 历来; 从历史上看|o;o
+worsen|恶化, 使变坏|v
+variant|变体, 变种|o
+mobility|移动能力, 流动性; 社会流动性|o;o
+seemingly|表面上, 看似|o
+turmoil|混乱, 动荡|o
+bolster|支持, 加强|v
+influential|有影响力的|o
+prolong|延长, 拖长|v
+protester|抗议者|o
+taxation|税制, 征税|o
+persist|持续, 存留; 坚持, 执意|v;v
+upcoming|即将到来的|o
+multinational|跨国的|o
+municipality|市, 自治市|o
+uphold|支持, 维护|v
+flexibility|灵活性, 弹性|o
+loom|逼近, 迫在眉睫|v
+query|疑问, 询问|o
+empathy|同理心, 共情|o
+precede|在…之前, 先于|v
+colonial|殖民地的, 殖民主义的|o
+revival|复兴, 复苏|o
+escalate|升级, 急剧加剧|v
+exporter|出口国, 出口商|o
+cognitive|认知的|o
+workforce|劳动力, 全体员工|o
+controversy|争议, 争论|o
+destabilize|使不稳定, 破坏稳定|v
+enlargement|扩大, 扩展|o
+indigenous|本土的, 原住民的|o
+transatlantic|跨大西洋的|o
+accumulate|积累, 积聚|v
+municipal|市政的, 城市的|o
+transparent|公开的, 坦诚的; 透明的|o;o
+equilibrium|平衡, 均衡|o
+erupt|爆发, 突然发生; (火山) 喷发|v;v
+simplify|简化|v
+popularity|受欢迎程度, 知名度|o
+criterion|标准, 准则|o
+linguistic|语言的, 语言学的|o
+affordable|负担得起的, 价格适中的|o
+reliance|依赖, 依靠|o
+autonomy|自治, 自主|o
+minimize|使减到最少, 最小化|v
+openness|坦率, 直率; 开放, 包容|o;o
+policymaking|政策制定, 决策|o
+preference|偏好, 偏爱; 优惠, 优待|o;o
+decrease|减少, 降低|v
+prosperous|繁荣的, 富裕的|o
+array|一系列, 阵列|o
+consolidate|巩固, 加强; 合并, 整合|v;v
+momentum|动量, 冲力; 势头, 动力|o;o
+devaluation|货币贬值|o
+repression|镇压, 压制; 压抑 (情感)|o;o
+reside|居住 (于某地)|v
+adverse|不利的, 有害的|o
+discrimination|歧视; 辨别力, 区分|o;o
+informal|非正式的, 随意的|o
+outlook|前景, 展望; 观点, 看法|o;o
+depreciation|贬值, 折旧|o
+utility|实用, 效用; 公用事业公司 (供水、供电或供气)|o;o
+hash|混乱, 一团糟; 哈希值 (计算机)|o;o
+robotic|机器人的; 机械的, 呆板的|o;o
+dependence|依赖, 依靠; 成瘾, 瘾|o;o
+ethical|合乎道德的; 伦理的|o;o
+gov|政府 (缩写)|o
+animation|动画制作, 动画; 活力, 生气|o;o
+awareness|意识, 认识|o
+endorse|公开支持, 赞同|v
+aftermath|后果, 余波|o
+simultaneously|同时|o
+borrower|借款人|o
+denominator|分母|o
+electorate|全体选民|o
+evident|明显的, 显然的|o
+periphery|外围, 边缘|o
+insufficient|不足的, 不够的|o
+interface|接口, 界面; 用户界面|o;o
+spectrum|范围, 系列; 光谱|o;o
+formally|正式地, 官方地; 形式上, 拘谨地|o;o
+protectionist|贸易保护主义的|o
+underscore|强调|v
+fictional|虚构的|o
+rebalance|使恢复平衡, 再平衡|v
+reportedly|据报道|o
+collaborate|合作, 协作|v
+analyst|分析师, 分析家|o
+capitalist|资本主义的; 资本家|o;o
+chronic|慢性的, 长期的|o
+dilemma|困境, 两难|o
+portfolio|投资组合; 作品集; (部长的) 职责范围|o;o;o
+module|模块, 组件; 课程单元|o;o
+theatrical|戏剧的, 剧场的; 做作的, 夸张的|o;o
+consistently|一贯地, 始终|o
+consolidation|巩固, 加强; 合并, 整合|o;o
+internationally|在国际上, 国际间|o
+concession|让步; 优惠, 折扣|o;o
+elevation|海拔, 高度; 提升, 抬高|o;o
+integer|整数|o
+fraction|一小部分; 分数|o;o
+additionally|此外, 另外|o
+inter|…之间, 相互|o
+downward|向下的, 下降的|o
+feminism|女权主义, 女性主义|o
+persistent|持续的, 持久的; 坚持不懈的|o;o
+doctrine|学说, 主义|o
+lag|滞后, 延迟|o
+dimensional|维度的, …维的|o
+dominance|支配地位, 统治|o
+actively|积极地, 主动地|o
+dictator|独裁者|o
+stakeholder|利益相关者|o
+accountable|负有责任的, 需作出解释的|o
+marginal|微小的, 细微的; 边缘的|o;o
+outright|完全的, 彻底的; 公开地, 直率地|o;o
+classification|分类|o
+deteriorate|恶化, 变坏|v
+illustrate|举例说明, 阐明; 给…加插图|v;v
+oral|口头的; 口腔的|o;o
+inclusion|包括, 纳入|o
+mathematical|数学的|o
+diplomat|外交官|o
+evolutionary|进化的|o
+inhabitant|居民|o
+rightly|正确地, 理所当然地|o
+privatization|私有化|o
+remake|翻拍, 重拍版|o
+reprise|重复, 再次表演|v
+disability|残疾, 障碍|o
+integral|不可或缺的, 必需的|o
+prediction|预测, 预言|o
+distinct|截然不同的; 清楚的, 明显的|o;o
+emphasis|强调, 重点|o
+wellbeing|健康幸福, 福祉|o
+curb|抑制, 限制|v
+neo|新, 复兴的|o
+prevention|预防, 防止|o
+underway|进行中, 已开始|o
+controversial|有争议的|o
+memoir|回忆录|o
+backlash|强烈反对, 抵制|o
+density|密集程度, 稠密; 密度|o;o
+veto|否决权|o
+mounting|不断增加的, 日益增长的|o
+cyclical|周期性的, 循环的|o
+favorable|赞同的, 肯定的; 有利的|o;o
+phi|希腊字母φ|o
+provider|提供者, 供应商|o
+accession|加入 (组织或条约); 就任, 登基|o;o
+habitat|栖息地|o
+magnitude|大小, 重要性; 震级|o;o
+duo|二人组, 二重奏|o
+coronavirus|冠状病毒 (包括引起新冠肺炎的病毒)|o
+proclaim|宣布, 宣告|v
+laureate|获奖者 (重大奖项)|o
+aspiration|愿望, 抱负|o
+interpretation|解释, 诠释; 演绎 (作品)|o;o
+portrayal|描绘, 刻画|o
+screenwriter|编剧|o
+variation|变化, 差异; 变体, 变奏|o;o
+multilateralism|多边主义|o
+subsidize|补贴, 资助|v
+bureaucracy|官僚体制; 繁文缛节|o;o
+conservation|保护 (自然或资源)|o
+autism|自闭症, 孤独症|o
+devise|设计, 发明|v
+opt|选择|v
+commentary|解说, 实况报道; 评注, 评论|o;o
+traditionally|传统上, 通常|o
+manufacturer|制造商, 厂商|o
+variance|差异, 分歧; 方差|o;o
+interval|间隔, 间隙; 幕间休息|o;o
+modernization|现代化|o
+considerably|相当大地, 显著地|o
+molecular|分子的|o
+gradual|逐渐的, 逐步的|o
+mortality|死亡率; 必死性|o;o
+reluctant|不情愿的, 勉强的|o
+drought|干旱|o
+albeit|虽然, 尽管|o
+insecurity|缺乏自信, 不安全感; 不安全|o;o
+unify|统一, 使成一体|v
+exploration|探险, 勘探; 探索, 探究|o;o
+dioxide|二氧化物 (如二氧化碳)|o
+binding|有约束力的|o
+subsidiary|子公司|o
+threshold|阈值, 起点; 门槛, 门口|o;o
+debtor|债务人, 债务国|o
+ensemble|合奏团, 演出团体|o
+facto|(用于 de facto) 事实上, 实际上|o
+beneficial|有益的, 有利的|o
+certify|证明, 认证|v
+coefficient|系数 (数学)|o
+maximize|最大化, 使增至最大|v
+unilateral|单方面的, 单边的|o
+manipulation|操纵, 控制; 熟练操作|o;o
+automation|自动化|o
+judicial|司法的|o
+logo|标志, 商标|o
+retail|零售|o
+consisted|由…组成 (consist 的过去式)|o
+consul|领事|o
+extremism|极端主义|o
+genocide|种族灭绝|o
+healthcare|医疗保健|o
+incumbent|现任者, 在任者|o
+biodiversity|生物多样性|o
+crochet|用钩针编织|v
+amid|在…之中, 在…期间|o
+resilient|有韧性的, 能迅速恢复的|o
+pronunciation|发音, 读音|o
+protagonist|主角, 主人公|o
+digit|数字 (0到9); 手指, 脚趾|o;o
+reconstruction|重建|o
+catastrophic|灾难性的|o
+cooperative|合作的, 乐于配合的|o
+unrest|动乱, 骚乱|o
+unwilling|不愿意的|o
+destructive|破坏性的|o
+infinity|无穷, 无限|o
+avert|避免, 防止; 转移 (目光)|v;v
+browser|浏览器|o
+inefficient|效率低的, 浪费的|o
+inscription|铭文, 题词|o
+inverse|相反的, 反向的|o
+allocation|分配的份额, 配额; 分配|o;o
+imprint|印记, 痕迹; 出版社品牌|o;o
+differ|不同, 相异; 意见不合|v;v
+famously|众所周知|o
+revise|修改, 修订; 复习 (备考)|v;v
+acute|严重的, 急性的; 敏锐的, 尖锐的|o;o
+coastal|沿海的|o
+navigate|导航, 找路; 应对, 处理|v;v
+delegation|代表团; 委派, 授权|o;o
+entrench|使牢固确立|v
+filmmaker|电影制作人|o
+plummet|暴跌, 骤降|v
+disastrous|灾难性的, 极糟的|o
+hostility|敌意, 敌对|o
+precedent|先例|o
+diagram|图示, 示意图|o
+franchise|特许经营权; 系列电影; 选举权|o;o;o
+reconcile|使和解; 使协调一致|v;v
+specify|具体说明, 明确规定|v
+architectural|建筑的, 建筑学的|o
+racial|种族的|o
+constellation|星座|o
+deem|认为, 视为|v
+pipeline|管道 (输油或输气); 待办项目, 在研项目|o;o
+novelist|小说家|o
+nutrition|营养|o
+synthetic|合成的, 人造的|o
+reconciliation|和解|o
+unconventional|非传统的, 不寻常的|o
+biologist|生物学家|o
+constructive|建设性的, 积极的|o
+explicitly|明确地, 直接地|o
+inability|无能力, 不能|o
+voltage|电压|o
+rein|(用于 rein in) 控制, 约束; 缰绳|v;o
+continuous|连续的, 不间断的|o
+deter|阻止, 威慑|v
+militant|激进分子, 好战分子|o
+predictable|可预测的|o
+textile|纺织品, 布料|o
+dismantle|拆除, 拆卸|v
+foremost|首要的, 最重要的|o
+hedge|对冲, 防范 (金融损失); 树篱|o;o
+jeopardize|危及, 使陷入危险|v
+superpower|超级大国|o
+convergence|汇聚, 趋同|o
+disparity|差距, 不平等|o
+optimism|乐观, 乐观主义|o
+rivalry|竞争, 对立|o
+usage|用法, 使用|o
+workplace|工作场所|o
+sufficiently|足够地, 充分地|o
+unveil|揭幕, 首次公开|v
+cortex|大脑皮层|o
+namely|即, 也就是|o
+pixel|像素|o
+racism|种族主义, 种族歧视|o
+comparable|类似的, 可比较的|o
+dividend|股息, 红利|o
+judiciary|司法机关, 司法系统|o
+accordingly|因此, 于是; 相应地|o;o
+premium|附加费, 溢价; 保险费|o;o
+prompt|促使, 激起|v
+ballot|投票; 选票|o;o
+embody|体现, 象征|v
+inflationary|通货膨胀的, 引起通胀的|o
+livelihood|生计|o
+ineffective|无效的, 不起作用的|o
+orbital|轨道的|o
+chimpanzee|黑猩猩|o
+transit|运输, 过境|o
+disagreement|分歧, 争论|o
+problematic|有问题的, 造成困难的|o
+reversal|逆转, 反转|o
+accommodate|容纳, 为…提供空间; 适应, 迁就|v;v
+likelihood|可能性|o
+mathematician|数学家|o
+mutually|相互地, 彼此|o
+volatile|易变的, 不稳定的|o
+desirable|理想的, 令人向往的|o
+pianist|钢琴家, 钢琴演奏者|o
+pika|鼠兔|o
+faction|派别, 派系|o
+vertical|垂直的, 竖直的|o
+abstract|抽象的|o
+adhere|遵守, 遵循 (规则); 粘附|v;v
+microscope|显微镜|o
+trait|特征, 特点|o
+diameter|直径|o
+neural|神经的|o
+binary|二元的, 由两部分组成的; 二进制的|o;o
+dynamism|活力, 干劲|o
+numerator|分子 (分数)|o
+optimal|最佳的, 最优的|o
+trajectory|轨迹, 弹道; 发展轨迹, 走向|o;o
+chromosome|染色体|o
+ultra|极端地, 超|o
+acceleration|加速|o
+feasible|可行的|o
+provincial|省的, 地方的; 狭隘的, 偏狭的|o;o
+heighten|提高, 加剧|v
+hypothesis|假设, 假说|o
+disadvantage|缺点, 不利条件|o
+quota|配额, 限额|o
+steadily|稳步地, 平稳地|o
+whereby|借以, 通过|o
+bisexual|双性恋的|o
+mutation|突变, 基因变异|o
+shortfall|短缺, 缺口|o
+acoustic|声音的, 声学的; 原声的 (非电声乐器)|o;o
+embed|嵌入, 使牢固|v
+oversee|监督, 监管|v
+refusal|拒绝|o
+modernize|使现代化|v
+broaden|拓宽, 扩大|v
+dire|严重的, 可怕的|o
+notation|记号, 符号系统|o
+acceptance|接受; 认可, 赞同|o;o
+affiliate|附属机构, 分支机构|o
+curtail|缩减, 限制|v
+explicit|明确的, 直接的; 露骨的|o;o
+replicate|复制, 重复|v
+geographic|地理的|o
+nutrient|营养素, 养分|o
+incite|煽动, 激起|v
+sexuality|性取向, 性欲|o
+coherent|连贯的, 有条理的|o
+existential|存在的; 关乎存亡的|o;o
+overthrow|推翻|v
+rejection|拒绝, 否决|o
+accessible|易于到达的, 易于使用或理解的|o
+autobiography|自传|o
+extinction|灭绝|o
+socially|在社会方面; 在社交上|o;o
+chronology|年表, 时间顺序|o
+discontent|不满|o
+geezer|家伙, 老兄 (口语)|o
+governmental|政府的|o
+membrane|膜, 薄膜|o
+redistribution|重新分配 (尤指财富)|o
+rethink|重新考虑|v
+trilogy|三部曲|o
+voluntary|自愿的; 义务的, 无偿的|o;o
+autonomous|自治的, 自主的|o
+citizenship|公民身份, 国籍|o
+enzyme|酶|o
+marginalize|使边缘化|v
+negotiator|谈判者, 谈判代表|o
+presenter|节目主持人|o
+scarce|稀缺的, 缺乏的|o
+theorem|定理|o
+deregulation|放松管制|o
+orientation|方向, 方位; 取向, 倾向; 入门培训, 迎新|o;o;o
+plausible|貌似合理的, 可信的|o
+supervision|监督, 管理|o
+tolerance|宽容, 包容; 耐受力|o;o
+cameo|客串|o
+dialect|方言|o
+globalize|全球化|v
+sigma|希腊字母σ; 求和符号|o;o
+maternal|母亲的, 母系的|o
+viral|病毒的, 病毒性的; 网络疯传的|o;o
+accredit|正式认可, 认证|v
+atheist|无神论者|o
+dependency|依赖; 属地|o;o
+enroll|注册, 登记入学|v
+maritime|海事的, 海上的|o
+ratify|批准 (条约)|v
+contraction|收缩, 缩小; 缩约形式 (如 don't)|o;o
+dub|给…起绰号; 译制配音|v;v
+parable|寓言|o
+deployment|部署, 调配|o
+partially|部分地|o
+upward|向上的, 上升的|o
+acquisition|收购, 购置; 习得 (技能或语言)|o;o
+civic|城市的, 公民的|o
+commemorate|纪念|v
+pathway|小路, 通道; 途径, 路径|o;o
+distinction|区别, 差别; 优秀, 荣誉|o;o
+guitarist|吉他手|o
+mindset|思维方式, 心态|o
+anthology|选集, 合集|o
+arsenal|军火库, 武器库|o
+catalog|目录, 清单|o
+denounce|公开谴责|v
+meltdown|崩溃, 骤跌; 堆芯熔毁|o;o
+shortcoming|缺点, 不足|o
+pinkie|小指|o
+receptor|受体, 感受器|o
+polynomial|多项式 (数学)|o
+pragmatic|务实的, 实用主义的|o
+restraint|克制, 自制; 限制, 约束|o;o
+solely|仅仅, 唯一地|o
+stabilization|稳定, 稳定化|o
+tradable|可交易的|o
+urbanization|城市化|o
+extensively|广泛地, 全面地|o
+projection|预测, 推算; 投影, 放映|o;o
+tribunal|法庭, 仲裁庭|o
+unfold|展开, 发生; 打开, 展开 (折叠物)|v;v
+cohesion|凝聚力, 团结|o
+diversify|多样化, 拓展|v
+infectious|传染性的|o
+restoration|修复, 恢复|o
+ringer|(用于 dead ringer) 长得一模一样的人; 冒名顶替的参赛者|o;o
+romanize|用拉丁字母拼写, 罗马化|v
+surpass|超过, 胜过|v
+arguably|可以说, 按理说|o
+oversight|监督; 疏忽|o;o
+resentment|怨恨, 愤恨|o
+sectarian|宗派的, 教派的|o
+contagion|传染, 蔓延|o
+succession|一连串, 连续; 继承, 继任|o;o
+bureaucrat|官僚, 官员|o
+capitalize|利用; 用大写字母书写; 为…提供资本|v;v;v
+consecutive|连续的|o
+discredit|败坏…的名声, 使丧失信誉|v
+disruptive|破坏性的, 扰乱性的|o
+illiberal|限制自由的, 狭隘的|o
+nurture|养育, 培养|v
+outlet|专卖店, 直销店; 发泄途径, 表达途径; 媒体|o;o;o
+parity|平等, 对等|o
+rapper|说唱歌手|o
+bureaucratic|官僚的; 繁琐的, 官僚作风的|o;o
+eventual|最终的|o
+expansionary|扩张性的|o
+hub|中心, 枢纽; 轮毂|o;o
+implicit|含蓄的, 暗含的|o
+ion|离子|o
+polarization|两极分化|o
+aerial|空中的, 从空中的|o
+hegemony|霸权|o
+nihilist|虚无主义者|o
+behavioral|行为的|o
+paradox|悖论, 矛盾|o
+payoff|回报, 收益; 贿赂|o;o
+simulation|模拟, 仿真|o
+diabetes|糖尿病|o
+indebted|负债的; 感激的|o;o
+monarch|君主|o
+accumulation|积累, 积聚|o
+omega|希腊字母表最后一个字母ω|o
+socialism|社会主义|o
+symmetry|对称|o
+denote|表示, 意味着|v
+equitable|公平的, 公正的|o
+icon|偶像, 标志; 图标|o;o
+prof|教授 (口语)|o
+industrialization|工业化|o
+paradigm|范式, 典范|o
+reap|获得, 收获 (好处); 收割|v;v
+vocalist|歌手|o
+sanitation|卫生设施|o
+denominate|以 (某种货币) 计价|v
+illustration|插图; 实例, 例证|o;o
+recycle|回收利用|v
+removal|去除, 移除|o
+speculative|推测的, 猜测的; 投机的|o;o
+disarmament|裁军|o
+fertility|生育能力; 肥沃|o;o
+uprising|起义|o
+artwork|艺术品; 插图|o;o
+doctorate|博士学位|o
+neuroscience|神经科学|o
+optical|光学的, 视觉的|o
+straightforward|简单的, 易懂的; 坦率的|o;o
+aesthetic|美学的, 审美的|o
+expectancy|期望 (用于 life expectancy: 预期寿命)|o
+partisan|党派性的, 偏袒一方的|o
+proxy|代理人, 代理方|o
+psi|希腊字母ψ|o
+incur|招致, 承担 (费用或惩罚)|v
+ironically|讽刺的是|o
+suffrage|选举权|o
+exclusively|仅仅, 专门地|o
+persecution|迫害|o
+playwright|剧作家|o
+trio|三人组, 三重奏|o
+beneficiary|受益人, 继承人|o
+compliance|遵守, 合规|o
+discourse|讨论, 辩论; 话语, 论述方式|o;o
+industrialize|使工业化|v
+presumably|大概, 想必|o
+recursive|递归的|o
+seeker|寻求者 (如 asylum seeker: 寻求庇护者)|o
+collectively|共同地, 集体地|o
+convene|召集, 召开|v
+inhabit|居住于, 栖息于|v
+median|中位数|o
+complement|补充, 相配之物|o
+correlation|相关性, 关联|o
+embark|开始, 着手; 登 (船或飞机)|v;v
+unclear|不清楚的, 不确定的|o
+centralize|集中, 使集权化|v
+emigrate|移居国外, 移民|v
+prominence|突出, 显赫|o
+rotation|旋转, 转动; 轮换, 轮流|o;o
+algebra|代数|o
+archaeological|考古的, 考古学的|o
+budgetary|预算的|o
+compilation|汇编, 合集|o
+grievance|不满, 委屈|o
+proponent|支持者, 倡导者|o
+adjacent|邻近的, 相邻的|o
+computation|计算|o
+distortion|变形, 扭曲; 歪曲|o;o
+eradicate|根除, 消灭|v
+formulate|制定, 规划; 确切表达|v;v
+harmful|有害的|o
+imaging|成像|o
+larva|幼虫|o
+resistant|有抵抗力的, 耐…的; 反对的, 抗拒的|o;o
+telecommunication|电信, 远程通信|o
+caste|种姓, 世袭阶层|o
+emit|发出, 排放 (光、气体、声音)|v
+abolish|废除, 废止|v
+containment|遏制, 控制|o
+exemplify|是…的典型例子, 例证|v
+foreseeable|可预见的|o
+atrocity|暴行|o
+benchmark|基准, 标准|o
+demise|终结, 死亡|o
+deterrence|威慑|o
+pointer|提示, 建议; 指示, 指针|o;o
+shale|页岩|o
+calorie|卡路里, 热量|o
+entrepreneurship|创业, 企业家精神|o
+limitation|限制, 限度; 局限, 缺陷|o;o
+malaise|萎靡, 低迷|o
+meditation|冥想, 沉思|o
+oligarch|寡头|o
+practitioner|从业者, 执业者|o
+crony|亲信, 密友|o
+guideline|指导方针, 准则|o
+liberalism|自由主义|o
+mater|(用于 alma mater) 母校|o
+mythology|神话, 神话集|o
+overwhelmingly|压倒性地, 绝大多数地|o
+compile|汇编, 收集|v
+conditional|有条件的, 视条件而定的|o
+fairness|公平, 公正|o
+landmark|地标; 里程碑, 转折点|o;o
+misguide|误导|v
+spacecraft|航天器, 宇宙飞船|o
+adversary|对手, 敌手|o
+dual|双重的, 双的|o
+invoke|援引, 求助于|v
+enrich|丰富, 充实; 使富裕|v;v
+liberalize|放宽限制, 使自由化|v
+multiplication|乘法; 增加, 倍增|o;o
+philosophical|哲学的; 达观的, 泰然处之的|o;o
+polio|小儿麻痹症, 脊髓灰质炎|o
+critically|严重地, 危急地; 批判性地|o;o
+leftist|左派人士, 左翼分子|o
+longstanding|长期存在的, 由来已久的|o
+reformer|改革者|o
+interestingly|有趣的是|o
+predominantly|主要地|o
+residential|住宅的, 居住的|o
+stifle|扼杀, 压制|v
+utilize|利用, 使用|v
+legislature|立法机关|o
+obscure|鲜为人知的; 难懂的, 模糊的|o;o
+profitable|盈利的, 有利可图的|o
+reproduce|复制, 再现; 繁殖, 生育|v;v
+sensory|感官的, 感觉的|o
+summary|摘要, 概要|o
+theoretical|理论上的|o
+allele|等位基因|o
+aspire|渴望, 立志|v
+availability|可用性, 可获得性|o
+brink|边缘 (指坏事)|o
+completion|完成|o
+emulate|效仿, 努力赶上|v
+ensue|随之发生|v
+footballer|足球运动员|o
+indispensable|不可或缺的|o
+partition|分割, 分治; 隔墙, 隔板|o;o
+remarkably|惊人地, 显著地|o
+showcase|展示, 展现|v
+topple|推翻; 倒下, 倾覆|v;v
+transnational|跨国的|o
+unpopular|不受欢迎的|o
+grammar|语法|o
+interactive|互动的, 交互式的|o
+minimal|极小的, 最低限度的|o
+refinery|炼油厂, 精炼厂|o
+respective|各自的|o
+thereafter|此后|o
+viva|万岁 (欢呼); 论文答辩|o;o
+basin|盆, 洗脸盆; 流域|o;o
+bla|废话, 等等 (用于 bla bla bla)|o
+depreciate|贬值, 折旧|v
+editorial|社论|o
+exclusion|排除, 排斥|o
+intron|内含子|o
+pervasive|无处不在的, 普遍的|o
+tsunami|海啸|o
+disintegration|瓦解, 崩溃|o
+nonprofit|非营利的; 非营利组织, 慈善机构|o;o
+comparative|比较的, 相对的; 比较级 (如 bigger、better)|o;o
+dubious|可疑的, 靠不住的|o
+epsilon|希腊字母第五个字母ε; 极小量 (数学)|o;o
+excessively|过度地, 过分地|o
+impunity|不受惩罚|o
+relocate|搬迁, 迁移|v
+disregard|无视, 不顾|v
+erosion|侵蚀, 腐蚀|o
+installation|安装, 设置; 设施, 装置|o;o
+inward|向内的, 内部的|o
+justification|正当理由, 辩护|o
+launching|启动, 推出; 发射, 下水|o;o
+annexation|吞并|o
+fungus|真菌 (如蘑菇、霉菌)|o
+scrutiny|仔细审查|o
+tuple|元组 (数学与计算机)|o
+decimal|十进制的; 小数|o;o
+extinct|灭绝的 (物种); 死的 (火山)|o;o
+functional|能工作的, 实用的; 功能的|o;o
+garner|获得, 收集, 赢得 (支持或赞扬)|v
+tangent|切线; 离题|o;o
+aggravate|使恶化, 加重; 激怒, 惹恼|v;v
+excellence|卓越, 优秀|o
+merger|合并, 兼并|o
+overhaul|全面检修, 彻底改革|v
+pave|铺砌, 铺路|v
+horizontal|水平的, 横的|o
+outflow|流出, 外流 (尤指资金或液体)|o
+rectangle|长方形, 矩形|o
+allegedly|据称, 据说|o
+authoritarianism|威权主义, 专制主义|o
+contradiction|矛盾, 相互抵触|o
+efficiently|高效地|o
+heterosexual|异性恋的|o
+obesity|肥胖, 肥胖症|o
+vastly|极大地, 大幅地|o
+downside|缺点, 不利方面|o
+homosexuality|同性恋|o
+skepticism|怀疑, 怀疑态度|o
+slump|暴跌, 骤降; 重重地坐下, 倒下|o;v
+wield|挥舞, 使用 (武器或工具); 行使, 掌握 (权力)|v;v
+metric|衡量标准, 指标; 公制的|o;o
+reasonably|相当, 还算; 合理地, 明智地|o;o
+routinely|例行地, 常规地|o
+similarity|相似, 相似之处|o
+biographical|传记的, 生平的|o
+broadcaster|广播电视公司; 广播员, 节目主持人|o;o
+degradation|退化, 恶化; 屈辱, 堕落|o;o
+democratically|民主地|o
+fallout|不良后果; 放射性尘埃|o;o
+lockdown|封控, 封锁|o
+outline|大纲, 概要; 轮廓, 外形|o;o
+rebound|反弹, 回升|v
+sodium|钠|o
+stagnate|停滞, 不发展|v
+statistical|统计的, 统计学的|o
+systematic|系统的, 有条理的|o
+urgency|紧迫, 紧急|o
+administrator|管理员, 行政人员|o
+compact|紧凑的, 小巧的; 协定, 契约|o;o
+nucleus|原子核, 细胞核; 核心|o;o
+deflationary|通货紧缩的|o
+folder|文件夹|o
+journalism|新闻业, 新闻工作|o
+unequal|不平等的, 不公平的|o
+ample|充足的, 大量的|o
+astronomer|天文学家|o
+controller|管理者, 主管; 控制器|o;o
+deity|神, 女神|o
+deleveraging|去杠杆化|o
+overview|概述, 概要|o
+repayment|偿还, 还款|o
+comply|遵守, 服从|v
+mosaic|马赛克, 镶嵌画; 混合体, 拼合|o;o
+poise|镇定自若, 优雅的姿态|o
+protracted|持久的, 拖延的|o
+simulate|模拟, 仿真|v
+alienate|疏远, 使感到被排斥|v
+arc|弧, 弧线; 情节发展, 故事线|o;o
+fundamentalist|原教旨主义者|o
+impoverish|使贫困|v
+overly|过度地, 过于|o
+tuberculosis|肺结核|o
+uranium|铀|o
+applejack|苹果白兰地|o
+augment|增加, 增强|v
+copyright|版权, 著作权|o
+fubar|彻底完蛋的, 一团糟的 (俚语)|o
+imprisonment|监禁, 坐牢|o
+lambda|希腊字母表第十一个字母λ|o
+literacy|读写能力, 识字|o
+macro|宏观的, 总体的; 宏 (计算机)|o;o
+restructure|重组, 改组|v
+contemplate|考虑, 深思|v
+democratization|民主化|o
+designation|名称, 称号; 指定, 任命|o;o
+dissent|异议, 不同意见|o
+formidable|令人敬畏的, 强大的|o
+iteration|重复, 版本; 迭代|o;o
+prone|易于…的, 有…倾向的; 俯卧的|o;o
+proton|质子|o
+rainforest|雨林|o
+saver|储户, 存钱的人; 节省…的东西|o;o
+smartphone|智能手机|o
+unification|统一|o
+wireless|无线的|o
+anthem|颂歌, 国歌|o
+crackdown|严厉打击, 镇压|o
+disproportionately|不成比例地|o
+dysfunctional|功能失调的, 运转不正常的|o
+financially|财务上, 经济上|o
+parenthesis|圆括号; 插入语|o;o
+tenure|任期; 终身职位|o;o
+conversion|转换, 改变; 改变信仰, 皈依|o;o
+premature|过早的, 早产的|o
+alga|藻类 (复数 algae)|o
+deviation|偏离, 偏差|o
+gradient|坡度, 斜度; 梯度, 变化率|o;o
+lesser|较小的, 次要的|o
+micro|微小的, 微观的|o
+outsource|外包|v
+rampant|猖獗的, 泛滥的|o
+thermal|热的, 热量的|o
+upheaval|剧变, 动荡|o
+annex|吞并 (领土); 附属建筑, 配楼|v;o
+finite|有限的|o
+geographical|地理的|o
+postwar|战后的|o
+subscription|订阅, 订阅费|o
+tutorial|教程, 辅导课|o
+bulk|大部分, 主体; 大量, 巨大体积|o;o
+clout|影响力, 权势|o
+concerted|共同的, 协同一致的|o
+dissident|持不同政见者|o
+distrust|不信任, 怀疑|o
+encompass|包括, 涵盖|v
+interconnect|互相连接|v
+preview|预告, 预览|o
+skeptical|怀疑的, 不轻信的|o
+succumb|屈服, 屈从; 死于 (疾病)|v;v
+unilaterally|单方面地|o
+anime|日本动画, 动漫|o
+hamper|阻碍, 妨碍|v
+inaction|不作为, 无行动|o
+inaugural|首次的, 就职的|o
+spillover|溢出效应, 外溢|o
+adequately|充分地, 足够地|o
+contributor|贡献者, 捐助者; 撰稿人|o;o
+critique|评论, 批评|o
+differential|差额, 差异; 有差别的|o;o
+famine|饥荒|o
+radically|根本上, 彻底地|o
+censorship|审查制度, 审查|o
+exponential|指数式增长的, 急剧增长的; 指数的|o;o
+intensity|强度, 强烈|o
+interim|临时的, 过渡期的|o
+rationale|理由, 基本原理|o
+stagnant|不流动的, 停滞的; 停滞不前的, 萧条的|o;o
+consort|王室配偶; 交往, 厮混|o;v
+demonstrator|示威者; 示范者, 演示者|o;o
+materialize|实现, 成为现实; 出现, 显现|v;v
+myriad|无数的, 大量的|o
+notwithstanding|尽管, 虽然|o
+paragraph|段落|o
+undies|内衣 (口语)|o
+anemic|无力的, 疲软的; 贫血的|o;o
+deficiency|缺乏, 不足|o
+repeal|废除 (法律)|v
+undercut|削价竞争, 低价抢生意; 削弱, 破坏|v;v
+activism|社会运动, 维权行动|o
+autocratic|独裁的, 专制的|o
+fusion|融合, 结合; 核聚变|o;o
+imminent|即将发生的, 迫在眉睫的|o
+storytelling|讲故事, 叙事|o
+aggressively|积极强势地, 挑衅地|o
+bacterial|细菌的, 细菌引起的|o
+disclosure|披露, 揭露|o
+domestically|在国内; 在家里|o;o
+supplement|补充物, 增补; 补充, 增加|o;v
+tributary|支流|o
+amplifier|扩音器, 放大器|o
+centrist|中间派的, 温和派的|o
+commandment|戒律, 诫命 (如十诫)|o
+cuisine|烹饪风格, 菜肴|o
+decisively|果断地, 决定性地|o
+duet|二重唱, 二重奏|o
+enshrine|正式载入 (法律或宪法), 庄严保护|v
+erect|建造, 竖立; 直立的|v;o
+fragmentation|分裂, 碎片化|o
+nationwide|全国性的, 全国范围的|o
+newcomer|新来者, 新人|o
+promotional|促销的, 宣传的|o
+refrain|克制, 避免; 副歌, 叠句|v;o
+remittance|汇款 (尤指从国外汇回家)|o
+screening|放映; 筛查|o;o
+scripture|经文, 圣典|o
+genetically|基因上, 遗传上|o
+subscribe|订阅, 订购; 赞同 (观点)|v;v
+anatomy|身体结构; 解剖学|o;o
+clause|条款; 从句, 分句|o;o
+deforestation|森林砍伐, 毁林|o
+depiction|描绘, 描写|o
+imagery|意象, 形象化描述|o
+mire|泥潭, 沼泽; 困境|o;o
+navigation|导航, 航行|o
+petroleum|石油|o
+reconnaissance|侦察|o
+arbitrary|任意的, 武断的|o
+exploitation|剥削; 开发, 利用|o;o
+geography|地理, 地理学|o
+halve|对半分, 减半|v
+malnutrition|营养不良|o
+ballad|抒情歌曲, 情歌; 叙事诗, 民谣|o;o
+boycott|抵制, 联合抵制|o
+cultivate|种植, 栽培; 培养, 建立 (技能或关系)|v;v
+degrade|降低质量, 使退化; 使丢脸, 贬低|v;v
+exponent|倡导者, 支持者; 指数, 幂|o;o
+independently|独立地, 自主地|o
+insurgency|武装叛乱, 暴动|o
+intuitive|直观的, 易懂的; 直觉的|o;o
+irrational|不合逻辑的, 不理性的|o
+maturity|成熟, 成年; 到期日|o;o
+offshore|近海的, 海上的; 离岸的, 境外的|o;o
+personalize|使个性化, 个人化|v
+separatist|分裂主义者, 分离主义者|o
+stereotype|刻板印象, 成见|o
+advertisement|广告|o
+attain|达到, 获得|v
+dissolution|解散, 解除 (组织或婚姻); 溶解|o;o
+ecological|生态的|o
+inaugurate|开创, 开始; 为…举行就职典礼|v;v
+inherent|固有的, 内在的|o
+meme|表情包, 网络梗|o
+migrate|迁移, 迁徙|v
+northwestern|西北的, 西北部的|o
+precision|精确, 准确|o
+profoundly|深刻地, 极大地|o
+pundit|权威评论员, 专家|o
+skeptic|怀疑论者|o
+visualize|设想, 想象; 使可视化|v;v
+wane|减弱, 衰退|v
+weld|焊接|v
+outweigh|超过, 比…更重要|v
+peril|危险, 险境|o
+polarize|使两极分化|v
+configuration|配置, 布局|o
+deportation|驱逐出境|o
+empirical|经验主义的, 以实验为依据的|o
+listing|列表, 清单条目|o
+usher|引导, 带领; 开创, 引来 (新时代)|v;v
+benign|无害的, 和善的; 良性的|o;o
+bipartisan|两党的, 两党共同支持的|o
+daunt|使气馁, 吓倒|v
+environmentally|在环境方面|o
+foresee|预见, 预知|v
+geometry|几何, 几何学|o
+mitigation|减轻, 缓解|o
+paralysis|瘫痪, 麻痹; 停顿, 无法行动|o;o
+perpetrator|犯罪者, 作恶者|o
+processor|处理器|o
+summarize|总结, 概括|v
+traumatic|造成创伤的, 痛苦的|o
+withstand|经受住, 抵挡|v
+accordance|一致, 符合 (in accordance with: 按照, 依照)|o
+alleviate|减轻, 缓解 (痛苦或问题)|v
+articulate|能言善辩的, 表达清晰的; 清楚地表达|o;v
+bracket|括号; 档次, 等级 (如收入档次)|o;o
+delegate|代表; 委派, 授权|o;v
+duration|持续时间, 期间|o
+intersection|十字路口, 交叉路口; 交点|o;o
+jointly|共同地, 联合地|o
+plight|困境, 险境|o
+privatize|使私有化|v
+template|模板, 样板|o
+wary|谨慎的, 警惕的|o
+amplify|放大, 增强|v
+angular|有棱角的; 角的|o;o
+catalogue|目录, 清单|o
+consultation|咨询, 求诊; 磋商, 征求意见|o;o
+counterproductive|适得其反的|o
+detection|发现, 察觉|o
+inventor|发明家, 发明者|o
+lecturer|大学讲师|o
+normalization|正常化; 标准化|o;o
+reluctance|不情愿, 勉强|o
+reproductive|生殖的, 繁殖的|o
+rigid|僵硬的, 坚硬的; 严格的, 死板的|o;o
+specification|规格, 规范说明|o
+stagger|蹒跚, 摇晃; 使震惊, 使惊愕; 错开 (时间)|v;v;v
+subordinate|下级的, 从属的; 下属, 部下|o;o
+successive|接连的, 连续的|o
+vaccination|接种疫苗|o
+aka|又名, 亦称|o
+ancestry|血统, 祖先|o
+antiquity|古代; 古物, 文物|o;o
+distinctive|独特的, 与众不同的|o
+documentation|证明文件, 文件; 说明文档|o;o
+insider|内部人士, 知情人|o
+monarchy|君主制|o
+reshape|重塑, 改造|v
+astronomy|天文学|o
+byte|字节 (八位)|o
+commercially|商业上|o
+midwife|助产士|o
+abundant|丰富的, 大量的|o
+analogy|类比, 比喻|o
+coincide|同时发生; 相符, 一致|v;v
+divergence|分歧, 差异|o
+ninety|九十|o
+potent|强有力的, 强效的|o
+purge|清除, 清洗; 清洗运动, 肃清|v;o
+readily|乐意地, 爽快地; 容易地|o;o
+sampling|取样, 采样; 抽样|o;o
+scarcity|短缺, 稀缺|o
+skyscraper|摩天大楼|o
+vibrant|充满活力的, 生机勃勃的; 鲜艳的|o;o
+abide|忍受, 容忍 (can't abide); 遵守 (abide by)|v;v
+assurance|保证, 承诺; 自信|o;o
+disproportionate|不成比例的|o
+interdependence|相互依存|o
+technocrat|技术官僚, 技术专家|o
+collaborator|合作者; 通敌者, 卖国贼|o;o
+constituent|选民; 成分, 组成部分|o;o
+deliberate|故意的, 蓄意的; 仔细考虑, 斟酌|o;v
+indirect|间接的|o
+planting|种植, 栽种|o
+setback|挫折|o
+unravel|解开, 拆开; 解决, 弄清; 瓦解, 崩溃|v;v;v
+complacency|自满, 沾沾自喜|o
+differentiate|区分, 辨别|v
+enrichment|丰富, 充实; 浓缩, 富集|o;o
+lobbying|游说|o
+marketplace|市场, 集市; 商界|o;o
+perpetuate|使延续, 使长存|v
+pinyin|拼音, 汉语拼音|o
+socioeconomic|社会经济的|o
+tracer|示踪剂; 曳光弹|o;o
+inflate|充气, 使膨胀; 抬高 (价格)|v;v
+simplicity|简单, 朴素|o
+surname|姓, 姓氏|o
+accolade|奖项, 赞扬|o
+directorial|导演的|o
+mega|巨大的, 超级的|o
+peripheral|周边的, 外围的; 次要的; 外围设备 (如键盘、打印机)|o;o;o
+prestigious|有声望的, 享有盛誉的|o
+prosper|繁荣, 成功|v
+schooling|学校教育|o
+theatrically|戏剧性地, 夸张地; 在影院, 在剧院|o;o
+timeline|时间线, 年表; 时间表, 日程|o;o
+unsuccessful|失败的, 不成功的|o
+indie|独立的 (音乐、电影、游戏)|o
+meta|元的, 自我指涉的|o
+microbial|微生物的|o
+morally|道德上|o
+quadratic|二次的 (数学)|o
+unintended|无意的, 意外的|o
+entrepreneurial|创业的, 企业家的|o
+factorial|阶乘 (5! = 120)|o
+hemisphere|半球; 大脑半球|o;o
+indefinitely|无限期地|o
+lunar|月球的, 月亮的|o
+mandatory|强制的, 必须的|o
+memorandum|备忘录, 记录; 协议备忘录, 谅解备忘录|o;o
+northeastern|东北的, 东北部的|o
+prioritize|优先考虑, 优先处理|v
+regression|倒退, 退化; 回归 (统计)|o;o
+todo|待办事项 (如 todo list)|o
+understandably|可以理解地|o
+blender|搅拌机, 料理机|o
+diversification|多样化, 分散风险|o
+invariably|总是, 一贯|o
+pornography|色情作品|o
+professionally|专业地; 职业上, 以此为业|o;o
+renowned|著名的, 有名的|o
+settler|定居者, 移民|o
+automate|使自动化|v
+bondholder|债券持有人|o
+collaborative|合作的, 协作的|o
+cynical|愤世嫉俗的, 怀疑的|o
+decentralize|分散权力, 去中心化|v
+fluctuation|波动, 起伏|o
+gaming|玩电子游戏; 赌博|o;o
+incomplete|不完整的, 未完成的|o
+militarily|军事上, 用武力|o
+reinvent|彻底改造, 重塑|v
+deterioration|恶化, 变坏|o
+impeachment|弹劾|o
+intermediate|中间的, 中级的|o
+millimeter|毫米|o
+neuroscientist|神经科学家|o
+optimize|优化|v
+primate|灵长类动物|o
+procurement|采购, 获取|o
+programmer|程序员|o
+provisional|临时的, 暂定的|o
+rarity|稀有, 罕见; 罕见之物, 珍品|o;o
+ravage|破坏, 摧毁|v
+synthesis|综合, 结合; 合成|o;o
+texture|质地, 手感|o
+transitional|过渡的, 过渡期的|o
+underpinning|基础, 支撑|o
+bleak|暗淡的, 无望的; 寒冷荒凉的|o;o
+cache|秘藏处, 隐藏物; 缓存|o;o
+centimeter|厘米|o
+circular|圆形的; 传单, 通知; 循环论证的|o;o;o
+confer|商议, 协商; 授予 (荣誉)|v;v
+dopamine|多巴胺|o
+fragility|脆弱, 易碎|o
+heuristic|经验法则, 启发法|o
+indifference|冷漠, 不关心|o
+loosely|松散地, 宽松地; 大致地, 粗略地|o;o
+parody|滑稽模仿, 戏仿|o
+pivot|中心点, 枢轴; 旋转, 转向|o;v
+seventy|七十|o
+tau|希腊字母表第十九个字母τ|o
+clarity|清晰, 明确|o
+contend|声称, 主张; 竞争, 争夺|v;v
+criticise|批评, 挑剔|v
+durable|耐用的, 持久的|o
+mistrust|不信任, 怀疑|o
+sweeping|全面的, 广泛的|o
+transcend|超越|v
+transpose|调换位置; 移调 (音乐)|v;v
+curriculum|课程|o
+derail|破坏, 打乱; 出轨|v;v
+hopeful|抱有希望的, 乐观的; 有望成功者, 候选人|o;o
+inherently|本质上, 固有地|o
+occasional|偶尔的|o
+opioid|阿片类药物, 止痛药|o
+retaliation|报复, 反击|o
+signatory|签署方, 签约国|o
+specter|幽灵, 鬼魂; 阴影, 威胁|o;o
+turnout|到场人数, 投票人数|o
+unrealistic|不切实际的|o
+afflict|折磨, 使痛苦|v
+alphabet|字母表|o
+dairy|乳制品; 奶牛场|o;o
+electrode|电极|o
+hypotenuse|斜边|o
+imperfect|有缺陷的, 不完美的; 未完成过去时|o;o
+logistic|物流的, 后勤的|o
+mapping|测绘, 绘制地图; 映射|o;o
+paternal|父亲的, 慈父般的; 父系的|o;o
+pathogen|病原体|o
+propel|推动, 推进|v
+reaffirm|重申|v
+revolve|旋转, 绕…转; 以…为中心|v;v
+strategically|战略上, 有策略地|o
+assertion|断言, 主张|o
+competence|能力, 胜任|o
+dangerously|危险地|o
+diaspora|散居海外的侨民, 离散族群|o
+doubling|翻倍, 加倍|o
+fishery|渔场; 渔业|o;o
+generic|通用的, 一般的; 无品牌的, 仿制的|o;o
+gravitational|引力的, 重力的|o
+normalize|使正常化; 使标准化|v;v
+pollen|花粉|o
+prudent|谨慎的, 明智的|o
+redefine|重新定义|v
+repressive|压制的, 专制的|o
+concede|承认; 让步, 认输|v;v
+correspondence|信件, 通信; 相符, 对应|o;o
+doctoral|博士的|o
+forthcoming|即将到来的; 乐于提供信息的, 坦率的|o;o
+immunization|免疫接种, 预防接种|o
+mobilization|动员|o
+orthodoxy|正统观念, 正统|o
+unavoidable|不可避免的|o
+accuracy|准确性, 精确度|o
+comma|逗号|o
+culminate|以…告终, 达到高潮|v
+diagonal|对角线|o
+manga|日本漫画|o
+planetary|行星的|o
+systematically|系统地, 有条理地|o
+obituary|讣告|o
+profitability|盈利能力|o
+recycling|回收利用|o
+redesign|重新设计|v
+reunification|重新统一|o
+tangible|切实的, 具体的; 可触摸的, 有形的|o;o
+consequently|因此, 所以|o
+cumulative|累积的|o
+entitlement|权利, 应得权益; 特权心态, 优越感|o;o
+finalist|决赛选手|o
+inefficiency|低效, 浪费|o
+nobility|贵族; 高尚, 崇高|o;o
+respiratory|呼吸的|o
+takeover|收购, 接管|o
+glucose|葡萄糖|o
+indirectly|间接地|o
+muddle|混乱, 糊涂|o
+par|正常水平, 标准 (on par with: 与…同等)|o
+quasi|类似, 准, 半|o
+technocratic|技术官僚的, 由技术专家治理的|o
+wavelength|波长; 想法, 思路 (on the same wavelength: 想法一致)|o;o
+abbreviate|缩写, 简略|v
+attachment|依恋, 感情; 附件|o;o
+distributor|经销商, 分销商|o
+externality|外部性|o
+modeling|建模, 模拟; 当模特|o;o
+plantation|种植园|o
+reconstruct|重建; 重现, 还原 (事件)|v;v
+akin|类似的, 相关的|o
+compassionate|有同情心的, 富有怜悯心的|o
+connectivity|连接性, 联网能力|o
+devalue|使贬值, 贬低|v
+downgrade|降级, 降低|v
+empowerment|赋权, 增强能力|o
+peacekeeping|维持和平, 维和|o
+prudential|审慎的 (尤指财务)|o
+worldview|世界观|o
+apartheid|种族隔离 (南非)|o
+buffer|缓冲, 缓冲物|o
+ceasefire|停火, 停火协议|o
+determinant|决定因素|o
+divisive|造成分歧的|o
+hinder|阻碍, 妨碍|v
+insistence|坚持, 坚决要求|o
+plaque|纪念牌, 匾; 牙菌斑, 斑块|o;o
+soprano|女高音|o
+squander|浪费,挥霍|v
+substitution|替代,替换|o
+tefillin|经文护符匣(犹太男子祈祷时佩戴的装有经文的小皮盒)|o
+undertaking|任务,事业,项目|o
+awe|敬畏|o
+educator|教育工作者,教师|o
+encryption|加密|o
+envision|设想,想象|v
+methane|甲烷(腐烂物质产生的气体,一种温室气体)|o
+posthumously|死后,身后|o
+recreate|再现,重建|v
+respondent|受访者,答卷人;被告(某些法律案件中)|o;o
+accurately|准确地,精确地|o
+assertive|自信的,坚定果断的|o
+deplete|耗尽,减少|v
+fitness|健康,体能;适合性|o;o
+friction|摩擦力;冲突,摩擦|o;o
+grouping|组,分组|o
+intra|内部的(如党内)|o
+randomly|随机地,无规律地|o
+reviewer|评审人,评论者|o
+tout|吹捧,兜售;倒卖(票)|v;v
+width|宽度|o
+bio|简介,小传;生物的|o;o
+catalyst|催化剂;促进因素|o;o
+cellular|细胞的;蜂窝式的(移动电话)|o;o
+decouple|分离,脱钩|v
+eligible|有资格的,符合条件的;适婚的|o;o
+falter|衰退,犹豫|v
+ideally|理想情况下|o
+illicit|非法的|o
+innovate|创新|v
+obsolete|过时的,淘汰的|o
+preservation|保护,保存|o
+undergraduate|本科生|o
+unthinkable|不可想象的|o
+ascend|上升,登上|v
+backdrop|背景|o
+locally|在当地,本地|o
+locus|中心,所在地;轨迹(几何)|o;o
+pollute|污染|v
+subset|子集|o
+unresolved|未解决的|o
+biblical|圣经的|o
+pluralism|多元主义|o
+preside|主持(会议)|v
+prohibition|禁令|o
+prosthetic|假肢,义体|o
+reclaim|收回,取回;开垦(土地)|v;v
+refinance|再融资,转贷|v
+tonne|公吨,吨(1000千克)|o
+verb|动词|o
+antibody|抗体|o
+disband|解散(团体)|v
+eradication|根除,消灭|o
+folklore|民间传说|o
+fret|烦恼,焦虑|v
+hierarchy|等级制度,层级|o
+induct|正式吸收(入会)|v
+perpendicular|垂直的|o
+remainder|剩余部分,余数|o
+statute|成文法,法规|o
+stigma|耻辱,污名|o
+stockpile|储备,库存|o
+unofficial|非官方的,非正式的|o
+valuation|估值,评估|o
+apparatus|器械,设备;机构,体系|o;o
+approximation|近似值,估计|o
+enlarge|扩大,放大|v
+impediment|障碍;言语障碍|o;o
+insurgent|叛乱分子|o
+legitimize|使合法化,使正当化|v
+lockdowns|封锁(lockdown的复数)|o
+nineteen|十九|o
+overdue|逾期的,迟到的|o
+preventive|预防性的|o
+psychedelic|致幻的;色彩艳丽的|o;o
+recount|讲述;重新计票|v;v
+rigorous|严谨的,严格的|o
+standardize|使标准化|v
+tuning|调音,调校(乐器或发动机)|o
+extermination|灭绝,消灭|o
+intersect|相交,交叉|v
+legislator|立法者|o
+linkage|联系,关联|o
+rendering|演绎,演奏;渲染图|o;o
+revision|修订,修改;复习(备考)|o;o
+rugby|橄榄球|o
+splice|拼接,绞接|v
+compress|压缩,挤压|v
+exert|施加(力量、影响)|v
+lever|杠杆;影响手段|o;o
+narrowly|勉强,险些;狭义地|o;o
+reformist|改革派的|o
+renewal|更新,复兴|o
+sideline|排挤,冷落;副业|v;o
+spearhead|带头,领导|v
+taboo|禁忌|o
+volt|伏特|o
+compression|压缩|o
+incremental|逐步的,渐进的|o
+internally|在内部|o
+mismanagement|管理不善|o
+organizational|组织的|o
+ostensibly|表面上,看似|o
+oust|罢黜,赶下台|v
+parenting|育儿,养育子女|o
+realization|认识,意识到;实现|o;o
+totalitarian|极权主义的|o
+unsurprisingly|不出所料|o
+volcanic|火山的|o
+autocracy|独裁统治|o
+geopolitics|地缘政治|o
+lest|以免,唯恐|o
+moderation|适度,节制|o
+responsive|反应迅速的|o
+semiconductor|半导体|o
+terminus|终点站|o
+thwart|阻挠,挫败|v
+tract|大片土地;道(如消化道);小册子|o;o;o
+awakening|醒来;觉醒,醒悟|o;o
+compatible|兼容的,相容的|o
+contradict|反驳,与……矛盾|v
+converge|汇合,趋同|v
+crucially|关键的是,至关重要地|o
+disclose|披露,透露|v
+fascism|法西斯主义|o
+hyper|过度兴奋的,精力旺盛的|o
+null|无效的;空的|o;o
+overhang|悬垂部分;过剩|o;o
+reinvigorate|使重振活力|v
+schizophrenia|精神分裂症|o
+sculptor|雕塑家|o
+stalemate|僵局|o
+suburban|郊区的|o
+traction|抓地力;支持,势头|o;o
+vibration|振动,震动|o
+alumnus|校友|o
+calculus|微积分|o
+circulation|循环,流通(血液、货币);发行量|o;o
+computational|计算的|o
+directory|名录,通讯录;目录(计算机)|o;o
+excavation|挖掘,考古发掘|o
+fertilizer|肥料|o
+gripe|抱怨,牢骚|o
+hurdle|障碍;跨栏|o;o
+inauguration|就职典礼;落成典礼,开幕式|o;o
+nitrogen|氮,氮气|o
+passive|被动的,消极的|o
+readiness|准备就绪|o
+roadmap|路线图,计划|o
+tram|有轨电车|o
+abdominal|腹部的|o
+contentious|有争议的|o
+cricketer|板球运动员|o
+envisage|设想,预见|v
+illuminate|照亮;阐明|v;v
+outdated|过时的|o
+proportional|成比例的|o
+reproduction|复制品;繁殖|o;o
+skyrocket|飙升,猛涨|v
+southeastern|东南部的,来自东南的|o
+terrain|地形,地面|o
+traverse|穿越,横越|v
+calculator|计算器|o
+complementary|互补的,相辅相成的|o
+congruent|全等的;一致的|o;o
+credential|资格证书,身份证明|o
+dismal|阴郁的;极差的|o;o
+encode|编码|v
+fundamentalism|原教旨主义|o
+insulate|隔热,隔音,绝缘|v
+markedly|明显地,显著地|o
+overtake|超车,超过;突然降临|v;v
+realism|现实态度;现实主义,写实|o;o
+retina|视网膜|o
+sluggish|迟缓的,萧条的|o
+speculator|投机者|o
+theology|神学|o
+astronomical|天文的;天文数字的,巨大的|o;o
+attendance|出席;出席人数|o;o
+contradictory|矛盾的,不一致的|o
+crossover|跨界融合;转折点|o;o
+domination|统治,支配|o
+embargo|禁运|o
+impending|即将发生的,迫近的|o
+modification|修改,改动|o
+offspring|子女,后代,幼崽|o
+pedestrian|行人;平淡无奇的|o;o
+prestige|声望,威望|o
+revert|恢复,回到(原状)|v
+sociology|社会学|o
+tier|层,级,等级|o
+trivial|琐碎的,微不足道的|o
+amazingly|令人惊讶地,非常|o
+autocrat|独裁者|o
+congregation|会众(礼拜的信众)|o
+cosmopolitan|国际化的,见多识广的|o
+desktop|桌面;台式电脑|o;o
+distributional|分配的,分布的|o
+exterior|外部,外表|o
+flooding|洪水泛滥,水灾|o
+forefront|最前沿,领先地位|o
+marrow|骨髓;西葫芦|o;o
+onstage|在台上|o
+outset|开端,开始|o
+perpetual|永久的,不断的|o
+populate|居住于,使住满人|v
+precipitate|促成,加速|v
+prerequisite|先决条件,前提|o
+smallpox|天花|o
+subjective|主观的|o
+tradeoff|权衡,取舍|o
+genital|生殖器的|o
+guerrilla|游击队员|o
+layout|布局,设计|o
+liner|远洋客轮;衬里,内衬|o;o
+pagan|异教徒的,多神教的|o
+relevance|相关性|o
+increment|增量,增加|o
+insolvent|无力偿债的,破产的|o
+microscopic|微小的,显微镜下才能看见的|o
+morale|士气,信心|o
+potassium|钾|o
+pragmatism|实用主义,务实态度|o
+torque|扭矩,转矩|o
+abundance|丰富,大量|o
+admittedly|诚然,不可否认|f3s
+advocacy|倡导,拥护|o
+continuously|持续地,不间断地|o
+displacement|流离失所;位移,移位|o;o
+extraordinarily|非常,格外|o
+groundwork|准备工作,基础|o
+hardline|强硬的|o
+neutrality|中立|o
+onset|开始,发作(坏事)|o
+paradoxically|矛盾的是,出乎意料地|o
+podcast|播客|o
+simplistic|过于简单化的|o
+storyteller|讲故事的人|o
+strive|努力,奋斗|v
+susceptible|易受影响的,易感的|o
+titular|名义上的;标题的,片名的|o;o
+abound|大量存在,充满|v
+amino|氨基(氨基酸中,蛋白质的组成单位)|o
+armored|装甲的|o
+canon|经典,正典,准则;官方设定(虚构作品)|o;o
+communal|公共的,共有的|o
+deadbeat|赖账者;懒汉|o;o
+demolish|拆除,摧毁|v
+endeavor|努力,尝试|o
+envoy|使节,特使|o
+havoc|混乱,破坏|o
+innovator|创新者,革新者|o
+insolvency|无力偿债,破产|o
+insulin|胰岛素|o
+organizer|组织者,主办人|o
+postcommunist|后共产主义的|o
+rehabilitation|康复,恢复|o
+reservoir|水库;储备|o;o
+tacit|默示的,心照不宣的|o
+trademark|商标|o
+catalyze|催化,促进|v
+discontinue|停止,中止|v
+eighty|八十|o
+eponymous|同名的(以某人或作品名命名的)|o
+footing|立足点,基础|o
+lander|着陆器|o
+strongman|铁腕人物,强人|o
+unchanged|未改变的|o
+automotive|汽车的|o
+ayahuasca|死藤水(亚马孙地区的致幻饮品)|o
+blindness|失明|o
+cinematographer|摄影师,摄影指导|o
+compulsory|强制性的,义务的|o
+consciously|有意识地,刻意地|o
+digest|消化;领会,理解|v;v
+disinformation|虚假信息|o
+endemic|地方性的,特有的;普遍存在的|o;o
+evasion|逃避,规避|o
+impasse|僵局|o
+individually|单独地,逐个地|o
+photon|光子|o
+rapprochement|和解,恢复友好关系|o
+statehood|国家地位,州的地位|o
+suppression|镇压,压制|o
+synthesize|综合,合成|v
+treatise|专著,论文|o
+accommodation|住宿;调和,妥协|o;o
+adolescent|青少年|o
+autobiographical|自传的|o
+chemotherapy|化疗|o
+coworker|同事|o
+humility|谦逊|o
+incarceration|监禁|o
+linguist|语言学家|o
+oppression|压迫,暴政|o
+origami|折纸|o
+primacy|首要地位,至高无上|o
+resonate|回响;引起共鸣|v;v
+sensitivity|敏感性,灵敏度;微妙|o;o
+spokesman|发言人|o
+transformative|带来重大变革的|o
+worrisome|令人担忧的|o
+accustom|使习惯(accustom oneself to)|v
+affirm|断言,确认|v
+analytic|分析的,逻辑的|o
+backward|向后;落后的|o;o
+cholera|霍乱|o
+circumvent|规避,绕过(规则或障碍)|v
+exempt|免除的,豁免的|o
+irreversible|不可逆的|o
+manageable|可控的,可处理的|o
+outlay|支出,开支|o
+perverse|执拗的,悖理的|o
+relentless|持续不断的,无情的|o
+renovation|翻新,修缮|o
+repercussion|影响,后果|o
+repress|压制,抑制|v
+sonar|声呐|o
+troika|三驾马车(三人领导小组或三方机构)|o
+chairperson|主席|o
+civility|礼貌,文明|o
+competent|有能力的,胜任的|o
+conception|概念,构想;受孕|o;o
+dampen|弄湿;减弱,抑制|v;v
+diploma|毕业证书,文凭|o
+extraction|提取,拔出|o
+overheat|过热|v
+payload|有效载荷,载荷|o
+preventable|可预防的,可避免的|o
+qualification|资格证书,技能;限定条件|o;o
+rupture|破裂,断裂|v
+scholarly|学术的|o
+seawater|海水|o
+semantic|语义的|o
+themed|有主题的,主题式的|o
+transistor|晶体管|o
+unwillingness|不情愿|o
+atmospheric|大气的|o
+bot|机器人程序|o
+grassroots|基层,草根|o
+hectare|公顷(10000平方米)|o
+homeowner|房主,业主|o
+installment|分期付款;(连载的)一集|o;o
+livestock|牲畜,家畜|o
+mating|交配,繁殖|o
+millennials|千禧一代(1981—1996年出生的人)|o
+outward|外部的,向外的|o
+oxytocin|催产素|o
+periodic|周期性的,定期的|o
+precarious|不稳定的,危险的|o
+precondition|前提条件|o
+seasonal|季节性的|o
+statesman|政治家|o
+affiliation|隶属关系,从属|o
+aneurysm|动脉瘤|o
+antagonist|对手,反派|o
+challenger|挑战者|o
+chaotic|混乱的|o
+cohort|群组,同批人|o
+composite|合成的,复合的|o
+diagnostic|诊断的|o
+directive|指令,指示|o
+discography|唱片目录|o
+ecology|生态学|o
+enormously|极大地|o
+exceptionally|格外,异常地|o
+impair|损害,削弱|v
+liaison|联络,协调;私通|o;o
+mediate|调解,斡旋|v
+mrna|信使核糖核酸(mRNA,传递遗传指令)|o
+odor|气味|o
+offs|(用于trade-offs、write-offs)以off结尾的复合词的复数|o
+perjury|伪证罪|o
+pilgrimage|朝圣|o
+prose|散文|o
+renegotiate|重新谈判|v
+retailer|零售商|o
+revitalize|使恢复活力,振兴|v
+southwestern|西南部的,来自西南的|o
+spokesperson|发言人|o
+thankfully|幸好,幸亏|o
+tilt|倾斜|v
+turbulence|湍流,乱流;动荡|o;o
+visualization|想象,设想;可视化|o;o
+approximate|近似的,大约的|o
+bayonet|刺刀|o
+ceramic|陶瓷的|o
+conditioning|训练,条件作用;空调|o;o
+consequential|重大的;随之发生的|o;o
+correspondent|记者,通讯员|o
+discretionary|可自由支配的,酌情的|o
+divisible|可分的,可整除的|o
+extremity|手脚,肢端;极端|o;o
+financier|金融家|o
+kernel|果仁,核心|o
+ovarian|卵巢的|o
+peptide|肽|o
+reminiscent|使人联想起的|o
+reopen|重新开放,重新打开|v
+reprint|重印|v
+restart|重新开始,重启|v
+symmetric|对称的|o
+validation|确认,验证|o
+bestseller|畅销书|o
+chemist|化学家;药剂师|o;o
+contender|竞争者|o
+continuation|继续,延续|o
+defer|推迟;听从|v;v
+denuclearization|无核化|o
+discomfort|不适,不安|o
+embryo|胚胎;雏形|o;o
+folly|愚蠢,蠢事|o
+influx|涌入|o
+institutionalize|使制度化;送入收容机构|v;v
+motif|母题,主题,图案|o
+multiplier|乘数;倍增因素|o;o
+needless|不必要的|o
+patriotic|爱国的|o
+regenerate|再生,更新|v
+shutdown|关闭,停工|o
+spectator|观众,旁观者|o
+telecom|电信|o
+ubiquitous|无处不在的|o
+vicinity|附近,周边地区|o
+xenophobic|仇外的,排外的|o
+arithmetic|算术|o
+avoidance|回避,避免|o
+canopy|顶篷;林冠|o;o
+clarification|澄清,说明|o
+contingent|取决于……的;代表团,分遣队|o;o
+epilepsy|癫痫|o
+issuance|发行,签发(股票、债券、文件)|o
+nematode|线虫|o
+nostalgia|怀旧|o
+opaque|不透明的;难懂的|o;o
+reckoning|计算,估计;清算,审判|o;o
+shorten|缩短|v
+subscriber|订户,用户|o
+vocabulary|词汇,词汇量|o
+attest|证实,证明|v
+depositor|存款人,储户|o
+deserter|逃兵|o
+drastic|激烈的,严厉的|o
+focal|中心的,焦点的|o
+hypocrisy|虚伪|o
+imperialism|帝国主义|o
+irregular|不规则的,不均匀的;不规则变化的|o;o
+optimist|乐观主义者|o
+pacifism|和平主义|o
+paperback|平装书|o
+prefix|前缀|o
+remnant|残余,剩余部分|o
+specialise|专攻,专门从事|v
+superiority|优越性,优势|o
+synaptic|突触的|o
+uneven|不平坦的,不均衡的|o
+unsettle|扰乱,使不安|v
+accomplishment|成就|o
+accrue|积累,累积|v
+cede|割让,让出(领土、权力)|v
+chloride|氯化物|o
+consonant|辅音|o
+continuity|连续性|o
+correlate|相关,对应;把……联系起来|v;v
+cowardice|怯懦|o
+daywalker|日行者(能在白天出行的吸血鬼)|o
+eighteenth|第十八;十八分之一|o;o
+elicit|引出,套出(反应、信息)|v
+embolden|使更大胆|v
+espouse|拥护,信奉(事业或信仰)|v
+gauge|测量,判断;计量器|v;o
+hardliner|强硬派|o
+headwind|逆风;阻力|o;o
+hugely|极其,非常|o
+introvert|内向的人|o
+jellyfish|水母|o
+milestone|里程碑|o
+mismatch|不匹配,不相称|o
+persistently|持续地,一再|o
+populous|人口众多的|o
+preoccupy|使全神贯注,占据心思|v
+pseudonym|假名,笔名|o
+resurgence|复苏,再度兴起|o
+schema|纲要,模式;图式|o;o
+supervisory|监督的,管理的|o
+taper|逐渐变细;逐渐减少|v;v
+teaser|预告片;难题|o;o
+abstraction|抽象概念|o
+advancement|进步;晋升|o;o
+aide|助手,助理|o
+eruption|火山喷发;爆发|o;o
+ethnicity|民族,族裔|o
+extant|现存的|o
+firsthand|亲身的,第一手的|o
+iconic|标志性的|o
+inertia|惰性;惯性|o;o
+lucrative|赚钱的,有利可图的|o
+nous|常识,实际才智|o
+politicize|使政治化|v
+posture|姿势;姿态,态度|o;o
+pottery|陶器|o
+redress|纠正,补救;赔偿|v;o
+severity|严重性;严厉|o;o
+sloth|懒惰;树懒|o;o
+storyline|故事情节|o
+stride|大步;进展|o;o
+synapse|突触|o
+toxin|毒素|o
+vigorous|精力充沛的,强有力的|o
+virtuous|品德高尚的|o
+aquarium|水族箱,水族馆|o
+asymmetric|不对称的,不平等的|o
+asymmetry|不对称,不平衡|o
+binomial|二项式的|o
+calcium|钙|o
+efficacy|功效,效力|o
+exemption|豁免,免除|o
+experimentation|试验,实验|o
+geometric|几何的;几何图形的|o;o
+importer|进口商|o
+incompatible|不相容的,不兼容的|o
+interpreter|口译员|o
+intractable|棘手的,难以控制的|o
+lament|哀悼,悲叹;哀歌|v;o
+neoliberal|新自由主义的|o
+pessimism|悲观|o
+popularize|普及,推广|v
+powerhouse|强者,强国,实力派|o
+relativity|相对性;相对论|o;o
+renovate|翻新,修复(建筑)|v
+supremacy|至高无上,霸权|o
+upend|颠倒;颠覆,打乱|v;v
+vaccinate|给……接种疫苗|v
+verification|核实,确认|o
+xenophobia|仇外心理|o
+affluent|富裕的|o
+ambiguity|歧义,模棱两可|o
+bassist|贝斯手|o
+billionaire|亿万富翁|o
+calamity|灾难|o
+colon|冒号(:);结肠|o;o
+debacle|惨败|o
+diesel|柴油|o
+ministerial|部长的|o
+rhythmic|有节奏的|o
+selective|精挑细选的,选择性的|o
+separately|分开地,单独地|o
+skew|歪曲,使偏斜|v
+wartime|战时|o
+advent|到来,出现|o
+caregiver|护理人员,照护者|o
+collide|相撞;冲突|v;v
+covariance|协方差|o
+decode|解码,解读|v
+excel|擅长,出类拔萃|v
+firefly|萤火虫|o
+intimacy|亲密|o
+modernity|现代性;现代|o;o
+mural|壁画|o
+nada|什么都没有|o
+pesticide|杀虫剂,农药|o
+redistribute|重新分配|v
+societal|社会的|o
+solvency|偿付能力|o
+speculate|推测,猜测;投机|v;v
+standoff|僵持,对峙|o
+subcontinent|次大陆(尤指印度)|o
+supernova|超新星|o
+vinyl|乙烯基塑料;黑胶唱片|o;o
+wingspan|翼展|o
+anarchist|无政府主义者|o
+ascent|攀登,上升|o
+campaigner|活动家,倡导者|o
+celestial|天空的,天体的|o
+cyberspace|网络空间|o
+demagogue|煽动家,蛊惑民心的政客|o
+deterrent|威慑,遏制因素|o
+elusive|难以捉摸的,难以找到的|o
+enrollment|注册,入学人数|o
+enslave|奴役|v
+fertiliser|肥料|o
+fringe|边缘;刘海|o;o
+misuse|误用,滥用;误用|o;v
+occurrence|事件,发生|o
+optic|眼的,视觉的;镜片|o;o
+optimization|优化|o
+popularly|普遍地,一般|o
+precautionary|预防性的|o
+proactive|主动的,积极的|o
+proximity|接近,邻近|o
+radian|弧度|o
+sim|SIM卡;模拟|o;o
+substantive|实质性的,重大的|o
+undervalue|低估|v
+vaginal|阴道的|o
+vegan|纯素食者|o
+backfire|适得其反|v
+defuse|缓和(局势);拆除(炸弹)引信|v;v
+deliberation|深思熟虑,商议|o
+duplicate|复制;副本|v;o
+fractal|分形|o
+geology|地质学|o
+isolationism|孤立主义|o
+philanthropist|慈善家|o
+protectorate|保护国|o
+waterfall|瀑布|o
+aluminum|铝|o
+cannabis|大麻|o
+deadlock|僵局|o
+diffusion|扩散|o
+disintegrate|瓦解,碎裂|v
+erratic|反复无常的,不规则的|o
+evade|逃避,规避|v
+filmmakers|电影制作人(filmmaker的复数)|o
+garment|衣服,服装|o
+grapple|努力解决;扭打|v;v
+harvesting|收割;采集(数据、能源、器官)|o;o
+hegemon|霸主,霸权国|o
+implicitly|含蓄地,暗含地;绝对地,毫无疑问地|o;o
+incompetence|无能,不称职|o
+jihadist|圣战分子|o
+lawmaker|立法者,议员|o
+outsize|特大的|o
+overturn|推翻(决定);翻倒|v;v
+predictably|不出所料|o
+respectfully|恭敬地,尊敬地|o
+stringent|严格的,严厉的|o
+syringe|注射器|o
+unilateralism|单边主义|o
+unskilled|无技能的,非熟练的|o
+adaptive|适应性的|o
+alloy|合金|o
+aversion|厌恶,反感|o
+circulate|流通,传播|v
+conjunction|连词;结合,同时发生|o;o
+cosmetic|表面的;化妆品的,美容的|o;o
+dissertation|学位论文|o
+futile|徒劳的,无用的|o
+hippocampus|海马体|o
+hoc|(用于ad hoc)特定的,临时的|o
+inland|内陆的|o
+jihad|圣战|o
+masculine|男性的,有男子气概的|o
+massively|大规模地,极大地|o
+patriotism|爱国主义|o
+permafrost|永久冻土|o
+philanthropy|慈善事业|o
+physiology|生理学;生理机能|o;o
+plankton|浮游生物|o
+sap|树液;傻瓜|o;o
+syntax|句法|o
+theorist|理论家|o
+timber|木材|o
+viability|可行性,生存能力|o
+artificially|人为地,人工地|o
+aurochs|原牛(已灭绝的野牛)|o
+brutality|暴行,残忍|o
+conditionality|附加条件(如贷款条件)|o
+dementia|痴呆,失智症|o
+gland|腺|o
+goodwill|善意;商誉|o;o
+impetus|推动力,刺激|o
+inconsistent|不一致的,矛盾的;不稳定的|o;o
+inhibit|抑制,阻碍|v
+lyrical|抒情的;歌词的|o;o
+novelty|新颖;新奇事物|o;o
+parse|解析,分析(句子、文本或数据)|v
+prevalence|流行程度,普遍性|o
+restrictive|限制性的|o
+spatial|空间的|o
+spectral|光谱的;幽灵般的|o;o
+transcription|文字记录,转录稿;转录(遗传信息)|o;o
+universally|普遍地|o
+vowel|元音|o
+whats|是什么(what is);已经……什么(what has)|o;o
+achievable|可实现的|o
+airfield|机场,飞机场|o
+arsehole|混蛋(粗俗骂人话);肛门|o;o
+biofuel|生物燃料|o
+buttress|支持,加强;扶壁|v;o
+candidacy|候选资格|o
+choreographer|编舞者|o
+coercion|强迫,胁迫|o
+cylinder|圆柱体;气缸|o;o
+dunams|杜南(dunam的复数,土地面积单位,合1000平方米)|o
+enthusiastic|热情的,热心的|o
+fearful|害怕的|o
+globular|球形的|o
+hegemonic|霸权的,支配性的|o
+imposition|强加;不合理的负担|o;o
+inception|开端,开始|o
+intercourse|性交;交往|o;o
+nmi|海里|o
+optional|可选的,非必须的|o
+overvalue|高估|v
+preclude|排除,阻止|v
+punitive|惩罚性的|o
+reliability|可靠性|o
+scant|不足的,极少的|o
+uniquely|独特地;特别地|o;o
+wholly|完全地|o
+bloodshed|流血,杀戮|o
+blunder|大错,严重失误|o
+broadband|宽带|o
+covenant|盟约,契约|o
+detachment|超然,冷漠;分遣队|o;o
+discrete|离散的,分立的|o
+dragonfly|蜻蜓|o
+exodus|大批离去,出走|o
+folding|可折叠的;折叠|o;o
+galvanize|激励,激发;镀锌|v;v
+helium|氦|o
+immigrate|移居,移民|v
+keyword|关键词;搜索关键词|o;o
+lifespan|寿命|o
+mantra|口头禅,口号;咒语,真言|o;o
+predicament|困境|o
+reuse|重复使用|v
+revisit|重游,重访;重新考虑|v;v
+sequencing|排序;测序|o;o
+appease|安抚,绥靖|v
+autistic|自闭症的|o
+bode|预示(bode well、bode ill)|v
+colonialism|殖民主义|o
+colorful|色彩丰富的;生动的,丰富多彩的|o;o
+consortium|财团,联合体|o
+counterfeit|伪造的,假冒的|o
+deterministic|决定论的,确定性的|o
+entropy|熵|o
+glamorous|迷人的,光彩夺目的|o
+horrific|可怕的,恐怖的|o
+infrared|红外线|o
+intimidation|恐吓|o
+kilogram|千克,公斤|o
+lesion|病变,损伤|o
+manifestation|表现,体现|o
+negligible|可忽略不计的|o
+neutron|中子|o
+questionable|可疑的,值得怀疑的|o
+revolutionize|彻底改变,变革|v
+satire|讽刺|o
+seldom|很少|o
+starvation|饥饿,饿死|o
+ultraviolet|紫外线|o
+walrus|海象|o
+wholesale|批发;全面的,大规模的|o;o
+wisely|明智地|o
+wreak|造成(破坏、混乱)|v
+abolition|废除|o
+archaeologist|考古学家|o
+chassis|底盘|o
+emigration|移居国外,移民出境|o
+fertile|肥沃的,能生育的|o
+fraught|充满(问题、紧张)的;焦虑的|o;o
+gameplay|游戏玩法|o
+hysteresis|滞后,迟滞|o
+illustrator|插画师|o
+immerse|浸入;使沉浸|v;v
+nanoparticle|纳米颗粒|o
+oasis|绿洲;宁静之地|o;o
+operatic|歌剧的;戏剧性的|o;o
+overestimate|高估|v
+pivotal|关键的|o
+pureblood|纯血统的|o
+registry|登记处,登记册|o
+relational|关系的|o
+rendition|演绎,版本;引渡(嫌犯)|o;o
+renounce|宣布放弃,摒弃|v
+satirical|讽刺的|o
+scaling|按比例缩放;扩展,扩大规模|o;o
+shite|(粗俗)垃圾,废话|o
+sneaker|运动鞋|o
+subdue|制服,控制|v
+sundown|日落|o
+uhm|嗯(犹豫声)|o
+vacant|空的,空缺的;茫然的(表情)|o;o
+verbal|口头的,言语的;动词的|o;o
+versa|(用于vice versa)反之亦然|o
+anus|肛门|o
+backstop|保障措施,最后防线|o
+censor|审查,删除;审查员|v;o
+devastation|严重破坏|o
+frail|虚弱的,脆弱的|o
+funk|放克音乐;沮丧|o;o
+incursion|入侵,袭击|o
+indebtedness|负债;感激|o;o
+lineage|血统,世系|o
+pessimistic|悲观的|o
+rainfall|降雨量|o
+ruble|卢布|o
+scapegoat|替罪羊|o
+smallholder|小农|o
+solemn|庄严的,严肃的|o
+spirituality|灵性,精神性|o
+submission|提交;屈服,投降|o;o
+suffice|足够|v
+systemically|系统性地,全系统地|o
+allegiance|忠诚|o
+analog|模拟的;类似物|o;o
+biopic|传记片|o
+blob|一团,一滴|o
+capacitor|电容器|o
+cardboard|硬纸板|o
+consistency|一致性,稳定性;稠度|o;o
+depose|罢黜,废黜|v
+disposable|一次性的;可支配的|o;o
+kinetic|运动的,动力学的|o
+landslide|山体滑坡;压倒性胜利|o;o
+lateral|侧面的,横向的|o
+lifelong|终身的|o
+methodology|方法论,方法|o
+mindfulness|正念|o
+oftentimes|常常|o
+percussion|打击乐器|o
+planner|规划者;记事本|o;o
+prevalent|流行的,普遍的|o
+prostate|前列腺|o
+psychiatry|精神病学|o
+radicalism|激进主义|o
+recede|后退,减弱|v
+reiterate|重申,重复|v
+spawn|产生,引发;产卵|v;v
+strategist|战略家|o
+strife|冲突,争斗|o
+technologically|在技术上|o
+theological|神学的|o
+tyranny|暴政,专制|o
+uterus|子宫|o
+visually|视觉上,外观上|o
+adherence|遵守,坚持(规则、信仰)|o
+alignment|排成直线,对齐;一致|o;o
+antimicrobial|抗菌的|o
+circa|大约(用于年代)|o
+counsellor|顾问,心理咨询师|o
+dung|粪便,粪肥|o
+encrypt|加密|v
+fatality|死亡(事故或战争中)|o
+irrigation|灌溉|o
+nonviolent|非暴力的|o
+persistence|坚持不懈|o
+precursor|前身,先驱|o
+princely|慷慨的,丰厚的;王子的|o;o
+repetition|重复|o
+retiree|退休人员|o
+rift|裂缝;不和,裂痕|o;o
+scientifically|科学地|o
+staple|主要产品,主食;订书钉|o;o
+startups|初创企业(startup的复数)|o
+stimulation|刺激,激励|o
+voluntarily|自愿地|o
+wanker|(粗俗骂人话)混蛋|o
+boon|恩惠,福音|o
+debug|调试,排除(软件)故障|v
+intermediary|中间人,调解人|o
+muster|召集,鼓起(勇气、支持)|v
+pretext|借口|o
+prolific|多产的|o
+scourge|祸害,灾祸|o
+unnamed|未具名的,匿名的|o
+violinist|小提琴手|o
+anthropologist|人类学家|o
+audit|审计;审计账目|o;v
+authenticity|真实性|o
+charismatic|有魅力的,有感召力的|o
+condemnation|谴责|o
+consular|领事的|o
+discern|辨别,察觉|v
+disillusion|使幻想破灭|v
+earner|挣钱者|o
+entrant|参赛者,新进入者|o
+fatigue|疲劳|o
+generational|代际的|o
+iceberg|冰山|o
+infamous|臭名昭著的|o
+laundering|洗钱;洗衣|o;o
+lobe|叶(脑叶、肺叶、耳垂)|o
+longtime|长期的,多年的|o
+mast|桅杆,天线杆|o
+meditate|冥想;深思|v;v
+mentality|心态,思维方式|o
+multipolar|多极的|o
+neurotransmitter|神经递质|o
+phosphorus|磷|o
+polymer|聚合物|o
+prompting|催促,提醒|o
+rudder|舵|o
+scarcely|几乎不,勉强|o
+secession|脱离,分离|o
+skunk|臭鼬|o
+supranational|超国家的|o
+unconditional|无条件的,绝对的|o
+wishful|一厢情愿的|o
+accessibility|可及性,易用性|o
+bonobo|倭黑猩猩|o
+chimp|黑猩猩|o
+espionage|间谍活动|o
+generalize|概括,归纳;推广|v;v
+learner|学习者|o
+newborn|新生儿|o
+noun|名词|o
+obese|肥胖的|o
+physiological|生理的|o
+portable|便携的|o
+preferable|更可取的,更好的|o
+quantify|量化|v
+recursion|递归|o
+ripple|涟漪,波纹;连锁反应|o;o
+scaffold|脚手架;断头台,绞刑台|o;o
+scalar|标量|o
+sizeable|相当大的|o
+spam|垃圾邮件,垃圾信息|o
+watershed|转折点,分水岭;分水岭(地理)|o;o
+antitrust|反垄断的|o
+auxiliary|辅助的,附加的;助动词|o;o
+blogs|博客(blog的复数)|o
+cancellation|取消|o
+congestion|拥堵,阻塞(交通)|o
+conservatism|保守主义|o
+fiscally|在财政上|o
+harmonize|使协调一致;和声演唱|v;v
+histogram|直方图|o
+incarnation|形态,版本;化身|o;o
+inclination|倾向,偏好;倾斜|o;o
+inferior|低劣的,下级的|o
+insertion|插入|o
+interviewer|采访者,面试官|o
+pensioner|领取养老金者|o
+placebo|安慰剂|o
+posterior|后部的;后验的(时间或概率上)|o;o
+proliferate|激增,扩散|v
+ratification|批准(条约)|o
+redirect|改变方向,转向|v
+simultaneous|同时的|o
+slag|矿渣,炉渣;(骂人话)荡妇|o;o
+smartphones|智能手机(smartphone的复数)|o
+stipulate|规定,约定|v
+swath|大片,一长条|o
+swiftly|迅速地|o
+tightly|紧紧地,紧密地|o
+unanimously|一致地,全体同意地|o
+unbalance|使失去平衡,打乱平衡|v
+abrupt|突然的;唐突的|o;o
+anthropology|人类学|o
+burgeoning|迅速发展的|o
+calligraphy|书法|o
+compiler|编译器;编者|o;o
+comprehend|理解|v
+endorsement|支持,认可|o
+fledge|长出飞羽|v
+functionality|功能|o
+lingonberry|越橘(北欧小红浆果)|o
+lobbyist|说客|o
+mathematically|在数学上|o
+moratorium|暂停,暂禁|o
+multiplayer|多人的|o
+receptacle|容器|o
+recreational|娱乐的,消遣的|o
+retaliate|报复,反击|v
+unusually|不寻常地;异常地,格外|o;o
+amplitude|振幅|o
+befriend|与……交朋友|v
+bestow|赠予,授予|v
+billionaires|亿万富翁(billionaire的复数)|o
+cascade|小瀑布;连锁反应,级联|o;o
+cetera|(用于et cetera)等等|o
+crusade|运动,斗争;十字军东征|o;o
+eleventh|第十一;十一分之一|o;o
+entertainer|艺人,表演者|o
+evaporate|蒸发;消失|v;v
+geologist|地质学家|o
+incarcerate|监禁|v
+indictment|起诉书,公诉;严重问题的表征|o;o
+leisure|闲暇,空闲时间|o
+longevity|长寿|o
+neutralize|使无效,抵消|v
+oooh|哦(表示惊讶或高兴)|o
+ore|矿石|o
+periodical|期刊,杂志|o
+persona|公众形象,角色|o
+pessimist|悲观主义者|o
+poetic|诗的,诗歌的;富有诗意的|o;o
+prudence|谨慎,审慎|o
+retrenchment|紧缩开支|o
+senorita|小姐(西班牙语)|o
+shortlist|候选名单,入围名单|o
+stylize|使风格化|v
+surmount|克服|v
+testosterone|睾酮,雄激素|o
+upwards|向上|o
+alternatively|或者,另一种选择是|o
+ambiguous|模棱两可的,含糊的|o
+archaeology|考古学|o
+barrister|出庭律师,大律师|o
+blockade|封锁|o
+coding|编程,编码|o
+culturally|在文化上|o
+decarbonization|脱碳|o
+definitive|最终的,权威的|o
+demolition|拆除(建筑)|o
+discriminatory|歧视性的|o
+disdain|蔑视,鄙视|o
+diverge|分岔,分歧|v
+drastically|剧烈地,极大地|o
+dysfunction|功能失调,机能障碍|o
+engulf|吞没,淹没|v
+eschew|刻意避开|v
+federalism|联邦制|o
+hereditary|遗传的,世袭的|o
+humankind|人类|o
+ingenuity|独创性,聪明才智|o
+insofar|(用于insofar as)在……范围内|v
+insurer|保险公司|o
+intolerance|不宽容,偏执;不耐受(食物)|o;o
+invasive|入侵性的;侵入性的|o;o
+lithium|锂|o
+murderous|杀气腾腾的,凶残的|o
+preparedness|准备就绪|o
+publicize|宣传,公布|v
+reboot|重启(计算机);重新推出|v;v
+sect|教派,派别|o
+songwriting|歌曲创作|o
+tempo|节奏,速度(音乐)|o
+unchecked|不受控制的|o
+cardiovascular|心血管的|o
+charitable|慈善的;宽厚的,仁慈的|o;o
+coloured|有颜色的,彩色的|o
+columnist|专栏作家|o
+conducive|有助于……的,有利的|o
+diarrhea|腹泻|o
+digitize|数字化|v
+doggone|该死的|o
+electromagnetic|电磁的|o
+exon|外显子|o
+fetus|胎儿|o
+horsepower|马力|o
+inequity|不公平|o
+mingle|混合;交际,应酬|v;v
+mortar|砂浆,灰浆;迫击炮|o;o
+nationally|全国性地|o
+omen|预兆,征兆|o
+penicillin|青霉素|o
+phenomenal|非凡的,惊人的|o
+placement|放置,安置;实习岗位|o;o
+prefrontal|前额叶的|o
+responsibly|负责任地|o
+shun|回避,避开|v
+storey|楼层,层|o
+subprime|次级的(贷款)|v
+turret|塔楼;炮塔|o;o
+unregulated|不受监管的|o
+vendor|小贩,卖主,供应商|o
+abbreviation|缩写|o
+blackboard|黑板|o
+cleansing|清洁;清洗(如种族清洗)|o;o
+crossroad|十字路口;关键时刻|o;o
+deduction|扣除额;推论,演绎|o;o
+defiance|公然反抗|o
+disorderly|凌乱的;扰乱秩序的|o;o
+disperse|驱散,分散|v
+emanate|散发,发源|v
+fable|寓言|o
+forego|放弃,摒弃|v
+freshwater|淡水|o
+glacial|冰川的;极其缓慢的;冰冷的|o;o;o
+illegitimate|不合法的;私生的|o;o
+indict|起诉|v
+interdependent|相互依存的|o
+latitude|纬度;自由度|o;o
+locomotive|机车,火车头|o
+lofty|高耸的;崇高的,远大的|o;o
+loophole|漏洞|o
+meager|微薄的,贫乏的|o
+misplace|丢失,放错地方|v
+outpace|超过,比……快|v
+patronage|赞助,资助;任人唯亲的职位分配|o;o
+photographic|摄影的|o
+repository|存放处,仓库|o
+starkly|明显地,鲜明地|o
+tenet|原则,信条|o
+tolerant|宽容的|o
+trickle|细流;涓涓流淌|o;v
+underwrite|承保,承销|v
+witchcraft|巫术|o
+yarn|纱线,毛线;冗长的故事|o;o
+antisemitism|反犹太主义|o
+atop|在……顶上|o
+audacious|大胆的,敢于冒险的|o
+axon|轴突|o
+bloodstream|血流,血液循环|o
+cassette|盒式磁带|o
+dwindle|逐渐减少|v
+endowment|捐赠基金;天赋|o;o
+fallacy|谬误,谬论|o
+harden|使变硬,变硬|v
+incidence|发生率|o
+liter|升|o
+nuanced|细致入微的|o
+penetration|穿透,进入;市场渗透率|o;o
+precipitation|降水;沉淀|o;o
+presuppose|预设,以……为前提|v
+skeletal|骨骼的;骨瘦如柴的|o;o
+slimy|黏糊糊的;谄媚的|o;o
+streamline|简化,使高效|v
+trustee|受托人|o
+unfettered|不受限制的|o
+untenable|站不住脚的|o
+visionary|有远见的;有远见卓识的人|o;o
+aggregator|聚合平台,聚合器|o
+aortic|主动脉的|o
+applicant|申请人|o
+appropriately|适当地,恰当地|o
+barley|大麦|o
+biomass|生物质;生物量|o;o
+blockbuster|大片,畅销书|o
+brunt|冲击的主要力量,首当其冲|o
+conceptual|概念的|o
+conglomerate|企业集团|o
+discard|丢弃,抛弃|v
+draconian|严酷的,严厉的|o
+exponentially|呈指数级地|o
+feeder|供给者(支路、生源学校、喂食器等)|o
+flavour|味道,风味|o
+forage|觅食|v
+inversion|倒置,颠倒|o
+mastery|精通;控制|o;o
+orchestrate|策划,协调;为管弦乐队编曲|v;v
+overstate|夸大|v
+polity|政治实体,国家|o
+prequel|前传|o
+procession|队伍,游行|o
+propagate|传播;繁殖(植物)|v;v
+slime|黏液|o
+stowaway|偷渡者|o
+unhealthy|不健康的;有病的|o;o
+viewpoint|观点,看法|o
+aluminium|铝|o
+anal|肛门的;过分挑剔的|o;o
+biotechnology|生物技术|o
+cipher|密码;无足轻重的人|o;o
+cleric|神职人员,教士|o
+constructor|建造者;构造函数|o;o
+crest|山顶,浪尖;家族纹章|o;o
+discriminate|歧视;区分|v;v
+fibre|纤维;膳食纤维|o;o
+hiatus|中断,间歇|o
+inclusiveness|包容性|o
+insure|投保;确保|v;v
+jihadists|圣战分子(jihadist的复数)|o
+lengthy|冗长的,漫长的|o
+lineup|阵容,名单;嫌疑人列队辨认|o;o
+melioidosis|类鼻疽|o
+mew|喵喵叫|v
+mil|百万;密耳(千分之一英寸)|o;o
+notoriously|出了名地(贬义)|o
+outgoing|外向的,友好的;即将离任的|o;o
+pinnacle|顶峰,巅峰|o
+posting|帖子;派驻,职位委派|o;o
+pushover|容易被说服的人;轻而易举的事|o;o
+reliant|依赖的|o
+stint|一段工作时间|o
+vigorously|精力充沛地,有力地|o
+aaah|啊(表示疼痛、恐惧或宽慰)|o
+abruptly|突然地|o
+cartoonist|漫画家|o
+categorize|分类|v
+corpus|语料库,文集|o
+environmentalist|环保主义者|o
+firstly|第一,首先|o
+hinge|铰链;取决于|o;v
+hubris|傲慢自大|o
+hydrocarbon|碳氢化合物,烃|o
+hypothetical|假设的|o
+induction|入职培训,就职;归纳法;感应|o;o;o
+infinitely|无限地;极其|o;o
+mesh|网眼织物,网;相互配合,啮合|o;v
+metabolism|新陈代谢|o
+nationalize|收归国有|v
+niner|九(无线电用语)|o
+overarching|总体的,首要的|o
+papal|教皇的|o
+paramilitary|准军事的|o
+procedural|程序的,程序上的|o
+reelection|连任,再次当选|o
+visibility|能见度;知名度,曝光度|o;o
+vocational|职业的|o
+worthwhile|值得的|o
+accidental|意外的,偶然的|o
+arrogance|傲慢|o
+avant|(用于avant-garde)先锋的,前卫的|o
+blockchain|区块链|o
+browse|浏览;浏览网页|v;v
+brutally|残忍地;直截了当地|o;o
+checklist|检查清单|o
+conundrum|难题,谜团|o
+conversely|相反地,反过来说|o
+countercyclical|逆周期的|o
+covert|秘密的,隐蔽的|o
+cubic|立方的;立方体的|o;o
+dandy|花花公子;极好的|o;o
+disarray|混乱|o
+emblem|徽章,象征|o
+emitter|排放源,发射体(光、污染)|o
+expulsion|驱逐,开除|o
+flowering|开花;全盛,繁荣|o;o
+fray|争斗,冲突;磨损|o;v
+gridlock|交通堵塞;政治僵局|o;o
+labourer|体力劳动者,劳工|o
+lastly|最后|o
+locality|地区,附近|o
+nano|微小的;纳(十亿分之一)|o;o
+negation|否定,否认|o
+outperform|胜过,表现优于|v
+pathology|病理学;病变|o;o
+predatory|捕食性的;掠夺性的|o;o
+pseudo|假的,伪的|o
+redistributive|再分配的|o
+relentlessly|不停地,坚持不懈地|o
+singular|单数的;非凡的,奇特的|o;o
+socio|社会的|o
+sprawl|城市无序扩张;蔓延,伸展|o;v
+supercomputer|超级计算机|o
+turbulent|动荡的,混乱的|o
+ultrasound|超声波|o
+unwanted|不需要的,多余的|o
+urinate|排尿,小便|v
+adversity|逆境,困境|o
+alot|很多(a lot的常见错拼)|o
+antagonism|敌意,对抗|o
+beverage|饮料|o
+cheaply|便宜地,廉价地|o
+combatant|战斗人员|o
+commute|通勤;减刑|v;v
+costing|成本估算|o
+democratize|使民主化,使大众化|v
+estrogen|雌激素|o
+faire|(用于laissez-faire)自由放任的|o
+fluorescent|荧光的|o
+frontal|正面的,前部的;直接的|o;o
+geoengineering|地球工程|o
+hallmark|特征,标志|o
+humorous|幽默的|o
+initialize|初始化|v
+investigative|调查的,调查性的|o
+landfill|垃圾填埋场|o
+metabolic|新陈代谢的|o
+neurological|神经系统的,神经学的|o
+obstruct|阻碍,阻挡|v
+poof|噗(突然消失的声音)|o
+proprietary|私有的,专利的|o
+recourse|求助手段,追索|o
+remotely|远程地;丝毫(not remotely即一点也不)|o;o
+resistor|电阻器|o
+savvy|精明的,见多识广的|o
+seaweed|海藻,海草|o
+staircase|楼梯|o
+statistically|从统计上看|o
+synonym|同义词|o
+teleomorph|有性型(真菌的有性繁殖阶段)|o
+tenor|男高音;大意,基调|o;o
+terminology|术语|o
+tremendously|极其,非常|o
+unfamiliar|不熟悉的,陌生的|o
+vivid|鲜艳的,强烈的;生动的,清晰的|o;o
+armistice|停战协定|o
+aviator|飞行员|o
+breakout|越狱,突围;一举成名|o;o
+chevron|V形条纹|o
+cognac|干邑白兰地|o
+colonization|殖民,殖民化|o
+decorative|装饰性的|o
+descriptive|描述性的|o
+desperation|绝望|o
+eastward|向东|o
+enclose|围住;随信附上|v;v
+flashback|闪回,倒叙;记忆闪回|o;o
+gymnastic|体操的|o
+hoax|骗局,恶作剧|o
+humanist|人文主义者|o
+hype|炒作,大肆宣传|o
+inference|推论,推断|o
+jest|玩笑|o
+ledger|账簿,分类账|o
+limestone|石灰岩|o
+modernist|现代主义的|o
+mountainous|多山的|o
+omit|省略,遗漏|v
+playoff|季后赛,决赛|o
+preferential|优惠的,优先的|o
+reassert|重申,再次主张|v
+secularism|世俗主义,政教分离|o
+stature|身高;声望|o;o
+suffix|后缀|o
+taint|污染;玷污,败坏|v;v
+terrestrial|地球的,陆地的|o
+undeniable|不可否认的|o
+unpaid|无报酬的,未付的|o
+unsuccessfully|未成功地|o
+academia|学术界|o
+adulthood|成年|o
+baseline|基线,基准|o
+continuum|连续体|o
+cornerstone|基石|o
+cortisol|皮质醇|o
+cryptocurrencies|加密货币(cryptocurrency的复数)|o
+dildo|假阳具|o
+glamour|魅力,光彩|o
+lax|松懈的,马虎的|o
+nationalistic|民族主义的|o
+pronouncement|声明,宣告|o
+recapitalization|资本重组,注资|o

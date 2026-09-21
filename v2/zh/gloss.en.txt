@@ -6424,6 +6424,70 @@
 淑女|lady, a refined woman|o
 爹地|daddy|o
 身高|height (of a person)|o
+储蓄|savings; to save (money in a bank)|o;v
+膨胀|to expand, to swell; inflation (of money)|v;o
+恰恰|exactly, precisely; cha-cha (dance)|o;o
+纳税|to pay taxes|v
+吉祥|lucky, auspicious|o
+纷纷|one after another, in great numbers|o
+煤炭|coal|o
+敦促|to urge, to press|v
+萎靡|listless, dispirited|o
+萝莉|young girl, loli (slang)|o
+拓扑|topology|o
+狭隘|narrow; narrow-minded|o;o
+渺茫|slim, remote (of hope or chances)|o
+鹦鹉|parrot|o
+捐赠|to donate; donation|v;o
+塑胶|plastic|o
+范畴|category, domain|o
+抑郁|depressed; depression|o;o
+亵渎|to blaspheme, to desecrate|v
+凤凰|phoenix|o
+硫酸|sulfuric acid|o
+旗帜|banner, flag|o
+缴纳|to pay (taxes, fees)|v
+矿泉|mineral spring|o
+鲁莽|reckless, rash|o
+脊髓|spinal cord|o
+奢侈|luxurious, extravagant|o
+胰腺|pancreas|o
+迁徙|to migrate; migration|v;o
+珊瑚|coral|o
+樱桃|cherry|o
+蝾螈|salamander, newt|o
+徘徊|to pace back and forth; to hesitate, to hover (around a level)|v;v
+泛滥|to flood, to overflow; to run rampant|v;v
+灌溉|to irrigate; irrigation|v;o
+磷酸|phosphoric acid|o
+酝酿|to brew, to ferment; to build up, to be in the making|v;v
+栅栏|fence, railing|o
+枯竭|dried up, exhausted (of resources)|o
+肝炎|hepatitis|o
+琥珀|amber|o
+籍贯|place of family origin, native place|o
+毋庸|there is no need to (as in 毋庸置疑: beyond doubt)|o
+匆匆|hurriedly, in a rush|o
+浓雾|thick fog|o
+猢狲|monkey|o
+氯酸|chloric acid|o
+澎湃|surging; stirring, passionate|o;o
+掣肘|to hold back, to hinder|v
+诽谤|to slander, to libel|v
+萝卜|radish|o
+郁闷|gloomy, depressed, fed up|o
+芭蕾|ballet|o
+琉璃|colored glaze; glass|o;o
+碳酸|carbonic acid|o
+祭祀|to offer sacrifices (to gods or ancestors)|v
+哑巴|mute person; mute|o;o
+骆驼|camel|o
+泛函|functional (math.)|o
+蹂躏|to trample on, to ravage|v
+悄悄|quietly, secretly|o
+蜥蜴|lizard|o
+猖獗|rampant, running wild|o
+衰竭|failure (of an organ); exhaustion|o;o
 平|flat, level; peaceful|o;o
 音|sound, tone|o
 饮|to drink|v
@@ -6436,6 +6500,7 @@
 体|body; form|o;o
 必|must, certainly|o
 患|to suffer from (an illness); trouble|v;o
+扑|to pounce, to throw oneself at; to flap|v;v
 食|food; to eat|o;v
 鲸|whale|o
 丫|fork; girl|o;o
@@ -6446,6 +6511,7 @@
 巧|skilful; coincidental|o;o
 解|to untie, to solve; to explain|v;v
 款|sum of money; style|o;o
+雾|fog, mist|o
 戒|to give up (a habit); ring|v;o
 灭|to put out, to wipe out; cessation of suffering (Buddhist)|v;o
 瞄|to take aim|v
@@ -6473,6 +6539,7 @@
 奉|to offer respectfully; to serve|v;v
 港|harbour, port|o
 脑|brain|o
+酸|sour; acid; aching|o;o;o
 章|chapter; seal, badge|o;o
 剧|drama, play; severe|o;o
 厄|misfortune, hardship|o
@@ -6497,7 +6564,9 @@
 诚|sincere, honest|o
 夸|to praise; to exaggerate|v;v
 价|price, value|o
+捐|to donate|v
 爷|grandfather; master|o;o
+祭|to sacrifice, to worship (ancestors)|v
 债|debt|o
 稳|steady, stable|o
 木|wood, tree|o
@@ -6519,6 +6588,7 @@
 纽|button, knot|o
 篇|a piece of writing; (measure word: articles)|o;g
 偏|slanting; contrary, deliberately|o;o
+靡|to waste; to sweep away (as in 萎靡 listless, 奢靡 extravagant)|v;v
 尚|still, yet; to esteem|o;v
 距|distance from|o
 豆|bean|o
@@ -6559,6 +6629,7 @@
 艇|boat, small vessel|o
 键|key (on a keyboard)|o
 夺|to seize, to snatch|v
+税|tax|o
 密|dense; secret|o;o
 鼓|drum; to rouse|o;v
 助|to help|v
@@ -6590,10 +6661,12 @@
 首|head; first; (measure word: songs)|o;o;g
 争|to fight for, to contend|v
 折|to break, to fold; discount|v;o
+萎|to wither|v
 鼠|mouse, rat|o
 捣|to pound; to make trouble|v;v
 品|goods; quality; to taste|o;o;v
 辉|splendour, radiance|o
+闷|stuffy; bored, depressed|o;o
 似|to resemble, like|v
 默|silent|o
 汁|juice|o
@@ -6616,6 +6689,7 @@
 赖|to rely on; to deny, to blame|v;v
 率|rate, ratio; to lead|o;v
 厨|kitchen; cook|o;o
+肝|liver|o
 须|must; beard|o;o
 百|hundred|o
 麻|hemp; numb|o;o
@@ -6670,6 +6744,7 @@
 昏|dizzy, faint; dusk|o;o
 末|end, tip; powder|o;o
 柏|cypress|o
+灌|to pour, to irrigate|v
 司|to take charge of; department|v;o
 永|forever, eternal|o
 堂|hall; main room|o;o
@@ -6689,6 +6764,7 @@
 肩|shoulder|o
 阶|step, stair; rank|o;o
 易|easy; to change|o;v
+浓|thick, dense, strong|o
 醋|vinegar; jealousy (in love)|o;o
 采|to pick, to gather; to adopt|v;v
 创|to create, to start; a wound|v;o
@@ -6699,9 +6775,11 @@
 歉|apology, regret|o
 返|to return, to go back|v
 世|world; generation, age|o;o
+萝|trailing plant (as in 萝卜 radish)|o
 俊|handsome, good-looking|o
 魂|soul, spirit|o
 赏|to reward; to appreciate|v;v
+栏|railing, fence; column (of a page)|o;o
 拒|to refuse, to resist|v
 祖|ancestor; grandparent|o;o
 围|to surround; around|v;o
@@ -6744,6 +6822,7 @@
 悲|sad, sorrowful|o
 挥|to wave, to wield; to command|v;v
 染|to dye; to be infected|v;v
+煤|coal|o
 瘤|tumour, lump|o
 删|to delete, to cut|v
 陆|land; six (formal)|o;o
@@ -6768,6 +6847,8 @@
 盗|to steal; a bandit|v;o
 展|to unfold, to display|v
 拥|to embrace; to crowd|v;v
+碳|carbon|o
+卜|to divine (as in 占卜); radish (in 萝卜)|v;o
 睹|to see, to witness|v
 尊|to respect; honourable|v;o
 匹|to match; (measure word: horses, cloth)|v;g
@@ -6786,6 +6867,7 @@
 堕|to fall, to sink (morally)|v
 揭|to lift off, to uncover|v
 趾|toe|o
+泉|spring (of water)|o
 众|crowd, the many|o
 妥|proper, settled|o
 惯|to be used to; to spoil (a child)|v;v
@@ -6794,29 +6876,38 @@
 笼|cage; basket|o;o
 肿|to swell; swollen|v;o
 炫|to dazzle, to show off|v
+狭|narrow|o
 击|to strike, to hit|v
 蝴|(in 蝴蝶: butterfly)|g
+哑|mute; hoarse|o;o
 识|to know, to recognise; consciousness (Buddhist)|v;o
+旗|flag|o
 壁|wall|o
 怒|anger, rage|o
 始|to begin|v
 婊|(in 婊子: bitch)|g
 限|limit; to restrict|o;v
+胀|to swell, to expand|v
 彼|that, the other|o
 潜|to hide, to submerge; latent|v;o
 鼻|nose|o
 焦|burnt, scorched; anxious|o;o
 舌|tongue|o
+矿|mine; mineral, ore|o;o
 淡|bland, weak; light (of a colour)|o;o
 狐|fox|o
 裸|bare, naked|o
 谨|careful, cautious|o
 兄|elder brother|o
 液|liquid, fluid|o
+侈|extravagant|o
 腕|wrist|o
 跤|a tumble, a fall|o
 偶|accidental; a puppet; even (number)|o;o;o
 彩|colour; prize|o;o
+竭|to exhaust, to use up|v
+胶|glue; rubber, plastic|o;o
+衰|to decline, to weaken|v
 沮|(in 沮丧: dejected)|g
 皇|emperor, imperial|o
 荐|to recommend|v
@@ -6910,6 +7001,7 @@
 乎|(in 似乎, 几乎: seemingly, almost)|g
 介|to be between; to mind|v;v
 淋|to drench, to pour over|v
+缴|to hand over, to pay|v
 刑|punishment, sentence|o
 勃|vigorous, sudden|o
 奸|treacherous; to rape|o;v
@@ -6920,6 +7012,7 @@
 策|plan, scheme; whip|o;o
 骚|to disturb; flirtatious|v;o
 功|merit, achievement; skill|o;o
+樱|cherry (blossom)|o
 贪|greedy, to covet|o
 弊|fraud, malpractice; harm|o;o
 慎|careful, cautious|o
@@ -6944,7 +7037,10 @@
 洋|ocean; foreign, Western|o;o
 织|to weave, to knit|v
 遇|to meet with, to come across|v
+徙|to move, to migrate|v
+枯|withered, dried up|o
 导|to guide, to lead; to conduct|v;v
+恰|just, exactly|o
 馅|filling, stuffing|o
 暴|violent, sudden; to expose|o;v
 拾|to pick up|v
@@ -6972,8 +7068,10 @@
 域|region, domain|o
 庆|to celebrate|v
 斤|catty (half a kilo)|o
+獗|rampant (as in 猖獗)|o
 裂|to split, to crack|v
 适|suitable, fitting|o
+磷|phosphorus|o
 束|bundle; to bind|o;v
 植|to plant|v
 梯|ladder, stairs|o
@@ -7001,10 +7099,13 @@
 蝶|butterfly|o
 衬|to line, to set off; shirt|v;o
 亡|to die, to perish; to flee|v;v
+掣|to pull, to hold back|v
 棉|cotton|o
 狸|(in 狐狸: fox)|g
 矩|rule, square (in 规矩)|o
+籍|registry, record; native place; membership|o;o;o
 违|to violate, to disobey|v
+酿|to brew, to ferment|v
 齿|tooth|o
 良|good, fine|o
 芒|awn, ray (of light)|o
@@ -7021,6 +7122,7 @@
 酗|to drink to excess|v
 医|medical, to heal|o
 拘|to arrest, to restrain|v
+桃|peach|o
 贩|to peddle, to deal in; a trader|v;o
 尉|military officer (of middle rank)|o
 庞|huge; face|o;o
@@ -7031,10 +7133,13 @@
 摧|to destroy, to break|v
 缸|jar, vat; tub|o;o
 预|in advance, beforehand|o
+骆|camel (as in 骆驼)|o
+函|letter; function (math.)|o;o
 寒|cold; poor|o;o
 欺|to deceive, to bully|v
 雕|to carve; eagle|v;o
 冬|winter|o
+脊|spine, back; ridge|o;o
 役|service, duty; battle|o;o
 枕|pillow|o
 烈|fierce, intense; heroic|o;o
@@ -7059,11 +7164,13 @@
 惧|to fear, to dread|v
 淹|to flood, to submerge|v
 磁|magnetic|o
+凤|phoenix (male)|o
 挽|to pull; to salvage|v;v
 燃|to burn, to set alight|v
 钞|banknote|o
 坚|firm, hard; resolute|o;o
 延|to extend, to delay|v
+拓|to open up, to expand|v
 汇|to converge; to remit; to compile|v;v;v
 茎|stem, stalk|o
 京|capital city|o
@@ -7093,11 +7200,13 @@
 途|road, way|o
 备|to prepare; equipment|v;o
 朋|friend|o
+炎|inflammation; scorching hot|o;o
 袜|socks, stockings|o
 训|to train, to instruct; a lesson|v;o
 侣|companion|o
 俘|to capture; a prisoner of war|v;o
 怜|to pity, to feel for|v
+氯|chlorine|o
 嫂|elder brother's wife|o
 泄|to leak, to let out|v
 瘫|paralysed|o
@@ -7111,6 +7220,7 @@
 虔|devout, sincere|o
 姨|aunt (mother's sister)|o
 屠|to slaughter, to butcher|v
+肘|elbow|o
 蹈|to tread, to dance|v
 察|to examine, to observe|v
 浑|whole, all over; muddy|o;o
@@ -7144,6 +7254,7 @@
 乞|to beg|v
 习|to practise; habit|v;o
 享|to enjoy, to have the benefit of|v
+亵|obscene, irreverent|o
 仰|to look up; to admire|v;v
 企|to plan; enterprise|v;o
 伟|great, mighty|o
@@ -7153,16 +7264,20 @@
 侦|to detect, to investigate|v
 侮|to insult, to humiliate|v
 侵|to invade, to encroach on|v
+促|to urge, to promote|v
 倦|weary, tired of|o
 傅|tutor, master (师傅)|o
+储|to store, to save|v
 傲|proud, haughty|o
 儒|Confucian scholar|o
 典|canon, standard work; ceremony|o;o
+凰|phoenix (female)|o
 刹|(in 刹车: brake); an instant|g;o
 务|affair, business; must|o;o
 劣|inferior, bad|o
 势|power, force; situation|o;o
 勉|to strive; to force|v;v
+匆|hurried|o
 匿|to hide, to conceal|v
 午|noon, midday|o
 协|to cooperate, to assist|v
@@ -7197,11 +7312,13 @@
 垃|(in 垃圾: rubbish)|g
 培|to cultivate, to foster|v
 堪|to bear, to be capable of|v
+塑|to mold; plastic|v;o
 墅|(in 别墅: villa)|g
 增|to increase, to add|v
 央|centre; to plead with|o;v
 夷|to raze; foreign, barbarian|v;o
 奋|to rouse oneself, to strive|v
+奢|luxurious, extravagant|o
 妄|absurd, reckless|o
 妒|to be jealous of|v
 妨|to hinder, to obstruct|v
@@ -7228,10 +7345,14 @@
 屿|islet, small island|o
 崇|to revere, to worship; lofty|v;o
 帘|curtain, blind|o
+帜|flag, banner|o
 幻|illusory, imaginary|o
 序|order, sequence; preface|o;o
+庸|mediocre, ordinary; need (as in 毋庸)|o;o
 征|to levy; to go on campaign; sign|v;v;o
 径|path; diameter; directly|o;o;o
+徊|to linger (as in 徘徊)|v
+徘|to pace (as in 徘徊)|v
 循|to follow, to abide by|v
 徽|badge, emblem|o
 忆|to recall, to remember|v
@@ -7241,6 +7362,7 @@
 怖|terror, dread|o
 恒|constant, lasting|o
 恼|annoyed, angry|o
+悄|quiet|o
 悉|to know fully; all, entire|v;o
 悦|pleased, delighted|o
 悯|(in 怜悯: to pity)|g
@@ -7261,6 +7383,7 @@
 扩|to expand, to enlarge|v
 扰|to disturb, to harass|v
 抉|(in 抉择: to choose)|g
+抑|to restrain, to suppress|v
 抚|to comfort; to stroke|v;v
 择|to choose, to select|v
 括|to include, to enclose|v
@@ -7283,6 +7406,7 @@
 构|to construct; structure|v;o
 析|to analyse, to split|v
 柠|(in 柠檬: lemon)|g
+栅|fence, railing|o
 械|implement, weapon; machine|o;o
 棘|thorn; thorny (棘手)|o;o
 概|general, approximate; outline|o;o
@@ -7293,24 +7417,33 @@
 檬|(in 柠檬: lemon)|g
 殊|special, different|o
 殖|to breed, to colonise|v
+毋|do not, no need to|f3s
 毫|fine hair; the least bit|o;o
 氓|(in 流氓: hooligan)|g
 氛|atmosphere, mood|o
 污|dirty; to pollute|o;v
 汰|to weed out, to eliminate|v
 汽|steam, vapour|o
+泛|general, broad; to float, to spread|o;v
 泳|to swim|v
 济|to help; to cross a river|v;v
 涉|to wade; to involve|v;v
 涯|shore, limit (生涯 career)|o
 淇|(in 冰淇淋: ice cream)|g
+渎|to profane, to show disrespect|v
 渐|gradually|o
+渺|vast and indistinct; tiny|o;o
+湃|surging (as in 澎湃)|o
+溉|to irrigate|v
 滋|to nourish; taste, flavour|v;o
+滥|excessive, indiscriminate; to overflow|o;v
 漠|desert; indifferent|o;o
 漫|to overflow; free, unrestrained|v;o
+澎|surging (of water)|o
 澳|bay, inlet (澳洲 Australia)|o
 瀑|(in 瀑布: waterfall)|g
 灾|disaster, calamity|o
+炭|charcoal|o
 烛|candle|o
 烹|to cook, to boil|v
 焰|flame|o
@@ -7319,11 +7452,18 @@
 牺|(in 牺牲: to sacrifice)|g
 狙|to lie in wait, to snipe|v
 狩|to hunt|v
+狲|monkey (as in 猢狲)|o
+猖|wild, rampant|o
+猢|monkey (as in 猢狲)|o
 猩|(in 猩猩: ape); scarlet|g;o
 猾|cunning, crafty|o
 玫|(in 玫瑰: rose)|g
+琉|glazed (as in 琉璃)|o
+琥|amber (as in 琥珀)|o
+瑚|coral (as in 珊瑚)|o
 瑰|(in 玫瑰: rose); marvellous|g;o
 畜|livestock, domestic animal|o
+畴|category; field|o;o
 疏|sparse; to dredge, to disperse|o;v
 疗|to treat, to cure|v
 疚|guilt, remorse|o
@@ -7337,7 +7477,9 @@
 督|to supervise, to oversee|v
 研|to grind; to research|v;v
 础|foundation, base|o
+硫|sulfur|o
 示|to show, to indicate|v
+祀|to sacrifice, to worship|v
 祈|to pray for|v
 祷|to pray|v
 禽|birds, fowl|o
@@ -7350,6 +7492,7 @@
 篷|awning, canopy; sail|o;o
 粹|pure, unadulterated|o
 纠|to correct; to entangle|v;v
+纷|numerous, confused|o
 绅|gentry, gentleman|o
 绍|to introduce, to carry on|v
 络|net, network|o
@@ -7368,11 +7511,14 @@
 育|to raise, to educate|v
 胁|to threaten; the flank|v;o
 胞|womb; fellow countryman|o;o
+胰|pancreas|o
 胳|(in 胳膊: arm)|g
 脂|fat, grease|o
 腐|rotten, corrupt; bean curd|o;o
 腥|fishy, the smell of blood|o
+腺|gland|o
 膊|(in 胳膊: arm)|g
+膨|to swell, to expand|v
 舅|uncle (mother's brother)|o
 航|to navigate, to fly|v
 艰|difficult, arduous|o
@@ -7382,9 +7528,12 @@
 苹|(in 苹果: apple)|g
 茄|aubergine; (in 雪茄: cigar)|o;g
 茉|(in 茉莉: jasmine)|g
+茫|vast, boundless; at a loss|o;o
 莓|(in 草莓: strawberry)|g
+莽|rash; dense grass|o;o
 萄|(in 葡萄: grape)|g
 葡|(in 葡萄: grape)|g
+蓄|to store up, to save|v
 蔬|vegetables|o
 蕉|(in 香蕉: banana)|g
 薪|salary, pay; firewood|o;o
@@ -7393,9 +7542,13 @@
 虑|to consider; anxiety|v;o
 蚂|(in 蚂蚁: ant)|g
 蜘|(in 蜘蛛: spider)|g
+蜥|lizard (as in 蜥蜴)|o
+蜴|lizard (as in 蜥蜴)|o
 蝙|(in 蝙蝠: bat)|g
 蝠|(in 蝙蝠: bat)|g
+蝾|newt (as in 蝾螈)|o
 螂|(in 蟑螂: cockroach)|g
+螈|newt (as in 蝾螈)|o
 融|to melt; to blend; finance|v;v;o
 蟑|(in 蟑螂: cockroach)|g
 袖|sleeve|o
@@ -7412,36 +7565,45 @@
 诞|to be born; absurd|v;o
 询|to enquire, to ask about|v
 详|detailed, thorough|o
+诽|to slander|v
 谊|friendship|o
 谍|espionage, spying|o
 谐|harmonious; humorous|o;o
 谣|rumour; folk song|o;o
+谤|to slander, to defame|v
 谬|absurd, mistaken|o
 豚|(in 海豚: dolphin); pig|g;o
 豫|(in 犹豫: to hesitate)|g
 貌|appearance, looks|o
 责|duty, responsibility; to blame|o;v
 贫|poor, needy|o
+贯|to pierce through, to run through; native place (as in 籍贯)|v;o
 贸|trade, commerce|o
 贿|to bribe|v
 赂|(in 贿赂: to bribe)|g
 资|funds, resources; qualifications|o;o
+赠|to give as a gift|v
 赦|to pardon, to remit|v
 趣|interest, delight|o
 跃|to leap, to jump|v
+蹂|to trample (as in 蹂躏)|v
+躏|to trample (as in 蹂躏)|v
 轨|track, rails; course|o;o
 辐|spoke; to radiate|o;v
 辑|to compile, to edit|v
 辜|guilt, crime|o
 辩|to argue, to debate|v
 辱|to insult; disgrace|v;o
+迁|to move, to migrate|v
 迅|swift, rapid|o
 逐|to chase, to drive out; one by one|v;o
 逻|to patrol|v
 遗|to leave behind, to lose|v
 邮|post, mail|o
+郁|depressed, gloomy; dense, lush|o;o
 鄙|base, mean; to despise|o;v
 酋|chief, tribal head|o
+酝|to brew (as in 酝酿)|v
 酪|cheese, curd|o
 酬|to reward, to repay; payment|v;o
 钥|key|o
@@ -7455,6 +7617,7 @@
 际|border, edge; occasion|o;o
 陋|crude, shabby|o
 陌|unfamiliar; a path between fields|o;o
+隘|narrow; pass (in mountains)|o;o
 障|barrier, obstacle|o
 隧|tunnel|o
 隶|to be subordinate to; a servant|v;o
@@ -7462,11 +7625,15 @@
 频|frequency; repeatedly|o;o
 饪|(in 烹饪: cooking)|g
 驱|to drive, to expel|v
+驼|camel; hunchbacked|o;o
 骄|proud, arrogant|o
 骤|sudden; a step in a sequence|o;o
+髓|marrow|o
 魅|charm, enchantment|o
 鸦|crow|o
 鸽|pigeon, dove|o
+鹉|parrot (as in 鹦鹉)|o
+鹦|parrot (as in 鹦鹉)|o
 龄|age, years|o
 般若波罗蜜多|the perfection of transcendent wisdom (Buddhist)|o
 般若|transcendent wisdom, insight (Buddhist)|o
