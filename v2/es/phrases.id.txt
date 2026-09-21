@@ -1,0 +1,158 @@
+# What each Spanish phrase in `phrases.txt` means, in Indonesian.
+#
+# Format: pattern|gloss — joined to `phrases.txt` on the pattern. A pattern
+# this file does not explain falls back to `phrases.en.txt`, so a translation
+# in progress shows Indonesian where it has one and English elsewhere.
+#
+# Hand-written, like `phrases.txt` and `phrases.en.txt` — dictgen does not
+# generate this file, it only carries it across into the manifest.
+#
+# Two rules, both inherited from the file this translates:
+#
+#   - The patterns on the left are the join key and must not change. A changed
+#     pattern is a phrase the app stops finding; an invented one is a phrase it
+#     hunts for and never finds.
+#   - The sense count must match `phrases.en.txt`. `;` separates senses and
+#     `,` joins near-synonyms inside one, exactly as in `gloss.id.txt`.
+#
+# Verbs are glossed as bare Indonesian verbs — the English `to` in the file
+# this translates is English citation form and has no counterpart to carry
+# across.
+
+# ---- Verbal periphrases: the head inflects, so the pattern is the infinitive.
+tener que|harus, mesti
+hay que|orang harus, perlu (tanpa subjek)
+acabar de|baru saja (melakukan sesuatu)
+ir a|akan (+ kata kerja); pergi ke
+dejar de|berhenti (melakukan sesuatu)
+volver a|melakukan (sesuatu) lagi; kembali ke
+empezar a|mulai
+ponerse a|mulai mengerjakan (sesuatu)
+tratar de|berusaha; membahas tentang
+estar de acuerdo|setuju
+poner de pie|mendirikan (seseorang); ponerse de pie: berdiri
+
+# ---- tener + noun: Spanish states where English uses "to be".
+tener razón|benar
+tener ganas|(+ de) ingin, kepingin
+tener miedo|takut
+tener cuidado|hati-hati
+tener prisa|terburu-buru
+tener hambre|lapar
+tener sueño|mengantuk
+tener suerte|beruntung
+tener sentido|masuk akal
+tener lugar|berlangsung
+
+# ---- Other light-verb idioms.
+hacer falta|dibutuhkan, kurang
+hacer caso|memedulikan, mengindahkan
+hacer daño|menyakiti, merugikan
+dar igual|tidak ada bedanya, tidak penting
+dar miedo|menakutkan
+dar cuenta|darse cuenta (de): menyadari
+dar a luz|melahirkan
+echar de menos|merindukan (seseorang)
+llevar a cabo|melaksanakan
+valer la pena|sepadan dengan usahanya
+llamar la atención|menarik perhatian; menegur
+caer bien|menyukai (seseorang), cocok dengan
+tomar el pelo|menggoda, mengerjai
+meter la pata|salah bicara, berbuat blunder
+
+# ---- Connectives and discourse markers.
+sin embargo|namun, meskipun begitu
+por eso|karena itu, jadi
+así que|jadi, maka
+ya que|karena, mengingat
+puesto que|karena, sebab
+para que|supaya
+a menos que|kecuali kalau
+por lo tanto|oleh karena itu
+o sea|maksudnya, dengan kata lain
+es decir|yaitu
+de hecho|nyatanya
+en realidad|sebenarnya
+por cierto|omong-omong
+en fin|ya sudahlah, singkatnya
+de todos modos|bagaimanapun juga
+de todas formas|bagaimanapun juga
+por si acaso|untuk berjaga-jaga
+sobre todo|terutama
+además de|selain, di samping
+por lo visto|tampaknya
+más o menos|kurang lebih
+por lo menos|setidaknya
+al menos|setidaknya
+
+# ---- Question words and relatives written as two tokens.
+por qué|mengapa
+para qué|untuk apa
+lo que|apa yang, yang
+por lo que|jadi, itulah sebabnya
+qué tal|apa kabar?; bagaimana kalau
+
+# ---- Modality and degree.
+a lo mejor|mungkin
+tal vez|mungkin
+por supuesto|tentu saja
+desde luego|tentu saja, pasti
+claro que sí|tentu saja (ya, tegas)
+en serio|serius, sungguhan
+de verdad|sungguh
+ni siquiera|bahkan tidak
+en absoluto|sama sekali tidak (dengan negasi)
+ya no|tidak lagi
+todavía no|belum
+lo mismo|hal yang sama
+de acuerdo|setuju, baiklah
+a punto de|hampir, sebentar lagi
+cada vez más|semakin lama semakin
+
+# ---- Time and manner.
+de repente|tiba-tiba
+de pronto|tiba-tiba
+a veces|kadang-kadang
+a menudo|sering
+de vez en cuando|sesekali
+en cuanto|begitu, segera setelah
+en cuanto a|mengenai, adapun
+a la vez|sekaligus, pada saat yang sama
+de nuevo|lagi
+otra vez|lagi
+ahora mismo|sekarang juga
+por ahora|untuk sekarang
+de momento|untuk sementara ini
+al principio|pada awalnya
+al final|pada akhirnya
+en punto|tepat (untuk jam)
+a tiempo|tepat waktu
+hoy en día|zaman sekarang
+en seguida|segera
+a lo largo de|sepanjang; selama
+
+# ---- Prepositional phrases whose parts do not give the meaning away.
+a pesar de|meskipun, kendati
+a causa de|karena
+gracias a|berkat
+a través de|melalui, menyeberangi
+a partir de|mulai dari (suatu waktu)
+en vez de|alih-alih
+en lugar de|alih-alih
+acerca de|tentang, mengenai
+en contra de|menentang
+
+# ---- Fixed dialogue.
+por favor|tolong, silakan
+de nada|sama-sama; cuma-cuma, sia-sia
+lo siento|maaf; (harfiah) saya merasakannya
+menos mal|syukurlah
+no importa|tidak apa-apa
+qué pena|sayang sekali
+ni modo|ya sudah, mau bagaimana lagi (Amerika Latin)
+por dios|demi Tuhan, ya ampun
+buenos días|selamat pagi
+buenas tardes|selamat siang, selamat sore
+buenas noches|selamat malam; selamat tidur
+hasta luego|sampai jumpa
+hasta mañana|sampai besok

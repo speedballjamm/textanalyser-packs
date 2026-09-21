@@ -9797,3 +9797,5 @@ taktis|tactical|o
 telofase|telophase|o
 terpeleset|to slip, to lose one's footing|v
 toleran|tolerant|o
+lantik|to inaugurate, to swear in (to office)|v
+kemenakan|nephew, niece (= keponakan)|o

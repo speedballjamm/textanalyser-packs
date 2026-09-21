@@ -1,6 +1,6 @@
 {
   "id": "en",
-  "version": "1.0.59",
+  "version": "1.0.60",
   "files": {
     "lex": {
       "path": "lex.txt",
@@ -21,11 +21,6 @@
       "path": "lemmas.txt",
       "license": "ODbL-1.0",
       "sha256": "8ea1f3d35792ca4664eee93f7a3c3b69f9329666fe9ed5d0f0dd497bab71cf17"
-    },
-    "readings": {
-      "path": "readings.txt",
-      "license": "BSD-2-Clause",
-      "sha256": "519f42e34273b2c77a2d95df44d6ae3b6029ac08ab0ff6ddc9bfece1c3f2f131"
     },
     "sample": {
       "path": "sample.txt",
