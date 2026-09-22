@@ -189,7 +189,7 @@ tomar|||
 gente|||nf
 parece||parecer|
 sea||ser|
-mujer|||nf
+mujer|||nf;nf
 dijo||decir|
 nadie|||
 debe||deber|
@@ -1473,10 +1473,10 @@ avanzar|||
 empleado|||nm
 explotar|||
 página|||nf
-fiscal|||nm
+fiscal|||nm;adj
 sabio|||
 viernes|||nm
-central|||
+central|||adj;nf
 cocinar|||
 ex|||
 pájaro|||nm
@@ -1684,7 +1684,7 @@ arrancar|||
 delicioso|||
 deprisa|||
 rodilla|||nf
-curso|||nm
+curso|||nm;nm
 apostar|||
 lago|||nm
 tesoro|||nm
@@ -1703,7 +1703,7 @@ apestar|||
 interrumpir|||
 haberme||haber|
 salón|||nm
-medida|||nf
+medida|||nf;conj
 excusa|||nf
 opinar|||
 cheque|||nm
@@ -2011,7 +2011,7 @@ aviso|||nm
 traducción|||nf
 disponible|||
 circunstancia|||nf
-impuesto|||nm
+impuesto|||nm;adj
 educación|||nf
 positivo|||
 versión|||nf
@@ -2313,7 +2313,7 @@ telefónico|||
 localizar|||
 darnos||dar|
 apetecer|||
-raza|||nf
+raza|||nf;nf
 conejo|||nm
 vídeo|||nm
 detenido|||
@@ -2495,7 +2495,7 @@ cierre|||nm
 gallina|||nf
 unión|||nf
 tenerlo||tener|
-borde|||nm
+borde|||nm;adj
 delicado|||
 actriz|||nf
 déjala||dejar|
@@ -2505,7 +2505,7 @@ dias||día|nm
 solucionar|||
 echado||echar|
 cerebral|||
-igualmente|||adv
+igualmente|||adv;adv;adv
 reporte|||nm
 recomendar|||
 señorito|||nm
@@ -2566,7 +2566,7 @@ timar|||
 falla|||nf
 influencia|||nf
 liga|||nf
-armada|||nf
+armada|||nf;adj
 partida|||nf
 honrar|||
 capital|||
@@ -2599,7 +2599,7 @@ arroz|||nm
 resistencia|||nf
 alianza|||nf
 reciente|||
-físico|||
+físico|||adj;nm;nm
 llamarte||llamar|
 valle|||nm
 reaccionar|||

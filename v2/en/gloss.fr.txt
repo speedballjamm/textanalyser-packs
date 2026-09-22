@@ -31,11 +31,9 @@ this|ce, ceci (celui d'ici)|o
 he|il|f3s
 do|faire; (forme les questions et les négations: do you know?, sais-tu?)|v;g
 for|pour|o
-have|avoir; (forme le parfait: I have seen, j'ai vu)|v;g
 my|mon, ma, mes|o
 on|sur|o
 your|ton, ta, votre|o
-no|non, aucun|o
 was|j'étais; il/elle était|f1s;f3s
 'm|je suis|f1s
 know|savoir (un fait); connaître (une personne)|v;v
@@ -44,15 +42,13 @@ be|être|v
 are|tu es; nous sommes, ils sont|f2s2p;f1p
 don|(do not, dans don't)|g
 're|tu es; nous sommes, ils sont|f2s2p;f1p
-can|pouvoir, savoir faire; (dans can't) ne pas pouvoir|o;o
 with|avec|o
 but|mais|o
 all|tout, tous|o
 go|aller|v
 so|donc, alors; si, tellement (à ce point)|o;o
-get|obtenir, recevoir; devenir|v;v
 just|seulement, juste; à l'instant, il y a un instant|o;o
-there|là, là-bas (cet endroit-là); (there is) il y a|o;o
+there|là, là-bas (cet endroit-là); there is: il y a|o;n
 here|ici (cet endroit-ci)|o
 like|comme, semblable à; aimer bien|o;v
 they|ils, elles|f3p
@@ -60,7 +56,6 @@ they|ils, elles|f3p
 she|elle|f3s
 come|venir|v
 if|si|o
-right|juste, correct; droite (le côté); (interjection) d'accord, bon|o;o;o
 want|vouloir|v
 out|dehors, à l'extérieur|o
 about|sur, au sujet de; environ, à peu près|o;o
@@ -71,15 +66,13 @@ one|un|o
 now|maintenant|o
 oh|oh, ah (surprise, prise de conscience)|o
 see|voir; comprendre|v;v
-well|bien (de bonne façon); eh bien… (en marquant une pause)|o;o
 her|la, lui, elle|o
 how|comment|o
 think|penser|v
-will|(marque le futur); (exprime la volonté)|o;o
 yeah|ouais, oui|o
 look|regarder; regarde! (fais attention)|v;o
 've|(avoir: I've seen, j'ai vu)|g
-got|eu, participe de get; (have got) avoir|o;v
+got|eu, participe de get; have got: avoir|o;n
 okay|d'accord, ça va|o
 as|comme; pendant que, alors que|o;o
 take|prendre|v
@@ -95,7 +88,7 @@ yes|oui|o
 time|temps; fois (une occasion)|o;o
 make|faire, fabriquer; obliger (à faire)|v;v
 when|quand|o
-going|allant; (going to) sur le point de|o;o
+going|allant; going to: sur le point de|o;n
 an|un, une (devant une voyelle)|o
 man|homme; (interjection) exprime la surprise|o;o
 back|de retour (là où c'était); dos (du corps)|o;o
@@ -114,14 +107,13 @@ thing|chose|o
 our|notre, nos|o
 gonna|aller (familier pour going to)|o
 really|vraiment, réellement; très, vachement|o;o
-thank|remercier; (thank you) merci|v;o
+thank|remercier; thank you: merci|v;n
 some|quelques, du, de la|o
 hey|hé (salut; pour attirer l'attention)|o
 give|donner|v
 could|pouvait, a pu; pourriez (demande polie)|o;o
 'd|(marque le conditionnel: I'd like); (avait: I'd gone)|o;g
 didn|(did not, dans didn't)|g
-by|près de, à côté de; par (fait par)|o;o
 mean|vouloir dire, signifier; méchant, pas gentil|v;o
 way|chemin, route; manière, façon|o;o
 something|quelque chose|o
@@ -148,7 +140,6 @@ said|forme passée de say|o
 sorry|désolé (pour s'excuser); désolé (par compassion)|o;o
 off|éteint, enlevé|o
 am|je suis|f1s
-work|travailler; travail, emploi|v;o
 try|essayer|v
 any|n'importe quel, du, des|o
 two|deux|o
@@ -162,7 +153,6 @@ sure|sûr, certain; (interjection) oui, bien sûr|o;o
 year|an, année|o
 these|ces, ceux-ci|o
 other|autre|o
-stop|arrêter|v
 happen|arriver, se passer|v
 first|premier|o
 into|dans (vers l'intérieur)|o
@@ -172,8 +162,7 @@ ask|demander (poser une question); demander (réclamer)|v;v
 still|encore, toujours; immobile|o;o
 anything|n'importe quoi, quoi que ce soit|o
 hear|entendre|v
-god|dieu; (oh God) exclamation de choc|o;o
-leave|partir, s'en aller; laisser (derrière soi)|v;v
+god|dieu; oh God: exclamation de choc|o;n
 nothing|rien|o
 sir|monsieur (adresse polie à un homme)|o
 put|mettre, poser|v
@@ -197,7 +186,6 @@ girl|fille|o
 than|que (dans une comparaison)|o
 name|nom; nommer|o;v
 friend|ami|o
-last|dernier; durer|o;v
 fuck|(vulgaire) putain, baiser; utilisé pour la colère ou l'insistance|o;o
 better|meilleur, mieux|o
 everything|tout|o
@@ -213,7 +201,6 @@ money|argent|o
 around|autour|o
 doesn|(dans doesn't) ne... pas|f3s
 stay|rester|v
-lot|(a lot) beaucoup|o
 play|jouer; pièce de théâtre|v;o
 kid|gamin, enfant; plaisanter|o;v
 believe|croire|v
@@ -231,20 +218,18 @@ which|lequel, quel|o
 miss|manquer à (ressentir l'absence); rater (ne pas atteindre); Mademoiselle (titre)|v;v;o
 late|tard, en retard|o
 nice|sympa, agréable|o
-fine|bien, ça va; fin, de bonne qualité|o;o
 kind|sorte, genre; gentil, doux|o;o
 house|maison|o
 understand|comprendre|v
 someone|quelqu'un|o
 being|étant|o
-hand|main|o
 meet|rencontrer|v
 coming|venant|o
 every|chaque, tous les|o
 through|à travers|o
 lose|perdre (égarer); perdre (un jeu)|v;v
 remember|se souvenir de|v
-course|cours, série de leçons; (of course) bien sûr|o;o
+course|cours, série de leçons; of course: bien sûr|o;n
 mother|mère|o
 dad|papa, père|o
 left|parti, forme passée de leave; gauche (le côté)|o;o
@@ -252,7 +237,6 @@ world|monde|o
 enough|assez|o
 own|propre (à soi); posséder|o;v
 care|se soucier; soin, attention|v;o
-may|pouvoir (avoir la permission); se peut (possibilité)|o;o
 bad|mauvais|o
 three|trois|o
 might|pourrait, peut-être|o
@@ -267,7 +251,6 @@ found|trouvé, forme passée de find|o
 else|d'autre, en plus|o
 next|prochain, suivant|o
 run|courir; diriger (une entreprise)|v;v
-live|vivre, habiter|v
 mind|esprit; voir un inconvénient, être gêné|o;v
 yourself|toi-même, vous-même|o
 job|emploi, travail|o
@@ -285,12 +268,10 @@ child|enfant|o
 hold|tenir; attends! (patiente)|v;o
 best|le meilleur|o
 morning|matin|o
-hell|enfer; (what the hell) exprime l'agacement|o;o
+hell|enfer; what the hell: exprime l'agacement|o;n
 together|ensemble|o
 brother|frère|o
 saw|vu, forme passée de see|o
-change|changer; monnaie (pièces)|v;o
-pay|payer|v
 eat|manger|v
 end|fin; terminer|o;v
 idea|idée|o
@@ -304,20 +285,16 @@ hope|espérer; espoir|v;o
 door|porte|o
 open|ouvrir; ouvert|v;o
 send|envoyer|v
-matter|importer, avoir de l'importance; affaire, question|v;o
 actually|en fait, en réalité|o
 shit|(vulgaire) merde; utilisé pour l'agacement ou la déception|o;o
 seem|sembler, paraître|v
-hard|dur, difficile; dur, ferme|o;o
 happy|heureux, content|o
 huh|hein? (pour faire répéter; pour vérifier l'accord)|o
 speak|parler|v
 both|les deux, tous les deux|o
-once|une fois; autrefois, jadis|o;o
-bit|(a bit) un peu|o
 laugh|rire; un rire|v;o
 ready|prêt|o
-guess|deviner; (I guess) je suppose|v;f1s
+guess|deviner; I guess: je suppose|v;n
 pretty|joli, mignon; assez, plutôt|o;o
 wife|femme, épouse|o
 drink|boire; boisson, verre|v;o
@@ -329,7 +306,6 @@ also|aussi, également|o
 haven|(have not, dans haven't)|g
 yet|encore, jusqu'ici; pourtant, mais|o;o
 whole|entier, tout|o
-while|pendant que, tandis que|o
 since|depuis (à partir de là); puisque, comme|o;o
 face|visage, figure; affronter, faire face à|o;v
 phone|téléphone; téléphoner|o;v
@@ -348,14 +324,10 @@ ah|ah (compréhension, soulagement)|o
 second|seconde (unité de temps); deuxième (après le premier)|o;o
 alone|seul|o
 myself|moi-même|o
-case|cas, exemple; (in case) au cas où|o;o
-check|vérifier; regarder, contrôler|v;v
 um|euh (en hésitant)|o
 soon|bientôt|o
 close|fermer; proche, près|v;o
 question|question|o
-saying|disant|o
-lie|mentir; s'allonger, être couché|v;v
 few|peu de, quelques|o
 heart|coeur|o
 couldn|(could not, dans couldn't)|g
@@ -363,7 +335,6 @@ lady|dame, femme|o
 buy|acheter|v
 gotta|(have got to) devoir, il faut|o
 ago|il y a (dans le passé)|o
-excuse|(excuse me) pardon, excusez-moi; excuser|o;v
 anyone|n'importe qui, quelqu'un|o
 sound|son, bruit; sembler, avoir l'air|o;v
 until|jusqu'à|o
@@ -376,10 +347,7 @@ business|affaires, commerce; affaire, histoire|o;o
 part|partie|o
 true|vrai|o
 each|chaque|o
-point|point, argument; montrer du doigt|o;v
 easy|facile|o
-deal|accord, marché; (deal with) s'occuper de|o;v
-hit|frapper|v
 fire|feu; renvoyer, virer; tirer (avec une arme)|o;v;v
 hurt|faire mal, blesser|v
 music|musique|o
@@ -393,7 +361,6 @@ damn|zut, mince (agacement); satané, fichu|o;o
 story|histoire|o
 body|corps|o
 death|mort|o
-order|ordre, commandement; ordre, rangement|o;o
 number|nombre, numéro|o
 working|travaillant|o
 pick|choisir; (pick up) ramasser|v;v
@@ -406,13 +373,11 @@ exactly|exactement|o
 under|sous|o
 everybody|tout le monde|o
 wish|souhaiter; souhait|v;o
-far|loin|o
 shut|fermer; tais-toi! (silence)|v;o
 chance|occasion, possibilité; hasard, chance|o;o
 party|fête, soirée; groupe, parti|o;o
 five|cinq|o
 plan|plan, projet; prévoir, projeter|o;v
-mine|le mien, à moi|o
 its|son, sa, ses|o
 whatever|n'importe quoi, peu importe|o
 answer|réponse; répondre|o;v
@@ -420,27 +385,23 @@ aren|(are not, dans aren't)|g
 taking|prenant|o
 promise|promettre; promesse|v;o
 moment|moment, instant|o
-interest|intérêt; intéresser|o;v
 inside|à l'intérieur, dedans|o
 set|poser, mettre; ensemble, jeu|v;o
 catch|attraper|v
 different|différent|o
 high|haut, élevé|o
-dear|cher (aimé); Cher (dans une lettre)|o;o
 sister|soeur|o
 daughter|fille|o
 gun|arme à feu, pistolet|o
 somebody|quelqu'un|o
-light|lumière; léger, pas lourd|o;o
 dream|rêve; rêver|o;v
 reason|raison|o
 side|côté|o
 making|faisant|o
-afraid|effrayé, qui a peur; (I'm afraid) je regrette|o;f1s
+afraid|effrayé, qui a peur; I'm afraid: je regrette|o;n
 rest|reste, ce qui reste; se reposer|o;v
 four|quatre|o
 quite|assez, plutôt; tout à fait, complètement|o;o
-book|livre|o
 anyway|de toute façon, quand même|o
 ain|(am not, is not, are not — dans ain't)|g
 shall|(propose ou suggère: shall we?)|o
@@ -451,7 +412,6 @@ against|contre|o
 feeling|sentiment|o
 husband|mari, époux|o
 dog|chien|o
-cause|cause, raison; parce que (familier)|o;o
 important|important|o
 line|ligne|o
 trust|faire confiance à; confiance|v;o
@@ -467,7 +427,6 @@ mr|Monsieur (titre pour un homme)|o
 though|bien que, quoique; pourtant, cependant|o;o
 throw|jeter, lancer|v
 fall|tomber; automne|v;o
-supposed|(supposed to) censé, supposé|o
 war|guerre|o
 between|entre|o
 murder|meurtre; assassiner|o;v
@@ -486,25 +445,22 @@ anymore|(ne... plus)|o
 couple|deux, quelques; couple (deux personnes)|o;o
 office|bureau|o
 town|ville|o
-welcome|bienvenue; (you're welcome) de rien|o;o
+welcome|bienvenue; you're welcome: de rien|o;n
 cool|frais (un peu froid); cool, génial|o;o
 sign|panneau, signe; signer|o;v
-touch|toucher; toucher, contact|v;o
 free|gratuit; libre, en liberté|o;o
 spend|dépenser (de l'argent); passer (du temps)|v;v
 fact|fait|o
 yours|le tien, à toi|o
 dance|danser; danse|v;o
-fast|rapide, vite|o
 wow|waouh (admiration, surprise)|o
 half|moitié, demi|o
 drop|laisser tomber; goutte|v;o
 bed|lit|o
 either|l'un ou l'autre|o
-cry|pleurer|v
 country|pays, nation; campagne|o;o
 figure|forme, chiffre; comprendre, calculer|o;v
-front|avant, devant; (in front of) devant|o;o
+front|avant, devant; in front of: devant|o;n
 learn|apprendre|v
 whoa|holà (surprise; du calme)|o
 bye|salut, au revoir|o
@@ -514,7 +470,6 @@ wonder|se demander; émerveillement|v;o
 return|revenir, retourner; rendre, restituer|v;v
 stupid|bête, idiot|o
 sigh|soupirer|v
-sort|sorte, genre; trier, classer|o;v
 hurry|se dépêcher, se presser|v
 hot|chaud; épicé, piquant; sexy, séduisant|o;o;o
 news|nouvelles, informations|o
@@ -526,7 +481,6 @@ full|plein, rempli; complet, entier|o;o
 early|tôt, en avance|o
 lord|seigneur, noble; (avec majuscule) le Seigneur, Dieu|o;o
 picture|image, photo; film|o;o
-black|noir|o
 sometimes|parfois, quelquefois|o
 along|le long de; avec, en compagnie de|o;o
 small|petit|o
@@ -536,10 +490,8 @@ outside|dehors, à l'extérieur de|o
 king|roi|o
 funny|drôle, amusant; bizarre, louche|o;o
 stick|bâton, bout de bois; coller, se coincer|o;v
-grow|grandir, pousser; cultiver|v;v
 captain|capitaine|o
 chuckle|glousser, rire doucement|v
-hang|accrocher, suspendre; pendre (exécuter); (hang out) traîner, passer du temps|v;v;v
 human|être humain; humain, des hommes|o;o
 em|(dans 'em) les, eux|o
 safe|en sécurité, hors de danger; coffre-fort|o;o
@@ -551,7 +503,7 @@ drive|conduire; pousser, réduire à; élan, énergie|v;v;o
 boss|patron, chef|o
 living|vivant; gagne-pain, moyens de vivre|o;o
 control|contrôler, maîtriser; contrôle, pouvoir sur|v;o
-blow|souffler; (blow up) exploser; coup|v;v;o
+blow|souffler; blow up: exploser; coup|v;n;o
 parent|parent, père ou mère|o
 dinner|dîner, repas principal|o
 ahead|devant, en avant|o
@@ -563,7 +515,6 @@ fly|voler; mouche|v;o
 win|gagner, l'emporter|v
 shouldn|(dans shouldn't) ne devrait pas|o
 running|courant; en marche, en fonctionnement|o;o
-white|blanc|o
 alright|d'accord, ça va (= all right)|o
 million|1 000 000|o
 piece|morceau, part; pièce, unité|o;o
@@ -575,7 +526,6 @@ beat|frapper, battre; battre, vaincre; rythme|v;v;o
 continue|continuer, poursuivre|v
 step|pas; étape; marcher, poser le pied|o;o;v
 anybody|n'importe qui|o
-secret|secret, caché|o
 bitch|(injurieux) garce, salope; chienne; râler, se plaindre|o;o;v
 ass|(vulgaire) cul; imbécile; âne|o;o;o
 kiss|embrasser|v
@@ -585,7 +535,7 @@ attack|attaquer; crise, accès (de maladie)|v;o
 top|sommet, haut; meilleur; haut (vêtement)|o;o;o
 himself|(réfléchi de he) lui-même|o
 uncle|oncle|o
-sick|malade; dégoûtant, écoeurant; (sick of) marre de|o;o;o
+sick|malade; dégoûtant, écoeurant; sick of: marre de|o;o;n
 poor|pauvre; à plaindre, malheureux; mauvais, médiocre|o;o;o
 perhaps|peut-être|o
 report|rapport, compte rendu; signaler, déclarer|o;v
@@ -624,20 +574,18 @@ luck|chance, hasard|o
 record|rapport, registre; disque; enregistrer|o;o;v
 daddy|papa (mot d'enfant)|o
 star|étoile; vedette, star|o;o
-cheer|acclamation, hourra; encourager|o;v
 key|clé; capital, essentiel; touche|o;o;o
 finally|enfin, finalement|o
 hide|cacher, se cacher|v
 begin|commencer|v
 film|film (britannique); filmer; fine couche, pellicule|o;v;o
-carry|porter, transporter|v
 paper|papier; journal; document|o;o;o
 officer|officier, agent|o
 clean|propre; nettoyer|o;v
 act|agir; jouer (un rôle); acte, loi|v;v;o
 dress|robe; habiller, s'habiller|o;v
 evening|soir, soirée|o
-bet|parier; (I bet) je parie, j'en suis sûr|v;f1s
+bet|parier; I bet: je parie, j'en suis sûr|v;n
 ship|navire, bateau; expédier (des marchandises)|o;v
 allow|permettre, autoriser|v
 sex|sexe (masculin ou féminin); rapports sexuels|o;o
@@ -658,12 +606,11 @@ sing|chanter|v
 ball|balle, ballon; bal|o;o
 quiet|silencieux, calme; tranquille, peu animé|o;o
 law|loi; la police|o;o
-count|compter (les nombres); compter, avoir de l'importance; (count on) compter sur|v;v;v
+count|compter (les nombres); compter, avoir de l'importance; count on: compter sur|v;v;n
 somewhere|quelque part|o
 train|train; former, entraîner|o;v
 enjoy|apprécier, aimer|v
 knock|frapper, cogner|v
-jesus|(exclamation de surprise ou d'agacement)|g
 coffee|café|o
 test|test, examen; tester, essayer|o;v
 fool|imbécile, idiot; duper, tromper|o;v
@@ -674,7 +621,6 @@ lock|serrure; fermer à clé, verrouiller|o;v
 bag|sac|o
 less|moins|o
 teach|enseigner, apprendre à|v
-calm|calme; calmer, apaiser|o;v
 fix|réparer; arranger, organiser; fixer, attacher|v;v;v
 careful|prudent, attentif|o
 rock|rocher, pierre; rock (musique); bercer, balancer|o;o;v
@@ -696,7 +642,6 @@ choice|choix (action de choisir); option, possibilité|o;o
 arrest|arrêter, mettre en état d'arrestation|v
 card|carte|o
 imagine|imaginer, se représenter; supposer|v;v
-joke|blague, plaisanterie|o
 system|système|o
 wonderful|merveilleux, formidable|o
 mad|en colère, furieux; fou|o;o
@@ -709,7 +654,6 @@ smell|sentir, humer; odeur|v;o
 building|bâtiment, immeuble|o
 yesterday|hier|o
 box|boîte, carton; boxer|o;v
-mess|désordre, pagaille; ennuis, embrouille|o;o
 president|président|o
 darling|chéri, mon amour|o
 share|partager; part; action (d'une société)|v;o;o
@@ -725,7 +669,6 @@ visit|rendre visite à, visiter|v
 build|construire, bâtir|v
 fish|poisson; pêcher|o;v
 american|américain, des États-Unis; Américain (personne)|o;o
-round|rond; manche, tour (d'un concours); tournée (de boissons)|o;o;o
 weird|bizarre, étrange|o
 destroy|détruire|v
 bill|facture, addition; billet (de banque); projet de loi|o;o;o
@@ -757,13 +700,12 @@ busy|occupé, chargé; occupé, pris|o;o
 'am|(dans ma'am) madame|o
 crime|crime, délit|o
 animal|animal|o
-tired|fatigué; (tired of) lassé de, marre de|o;o
+tired|fatigué; tired of: lassé de, marre de|o;n
 bastard|(insulte) salaud, ordure; bâtard, enfant naturel|o;o
 service|service (aux clients); office religieux; armée, service militaire|o;o;o
 judge|juge; juger, se faire une opinion sur|o;v
 thousand|1 000|o
 ground|sol, terre; raison, motif|o;o
-suppose|supposer, présumer|v
 blue|bleu|o
 mile|mille (1,6 km)|o
 group|groupe|o
@@ -790,7 +732,6 @@ tree|arbre|o
 tv|télé, télévision|o
 create|créer|v
 completely|complètement, entièrement|o
-glass|verre (matière); verre (récipient)|o;o
 security|sécurité; sécurité, service de garde|o;o
 totally|totalement, à fond (familier)|o
 area|zone, quartier; superficie, surface|o;o
@@ -806,7 +747,6 @@ victim|victime|o
 certainly|certainement, sûrement; (en réponse) bien sûr|o;o
 prepare|préparer, se préparer|v
 smart|intelligent, malin; élégant, soigné|o;o
-consider|considérer, réfléchir à|v
 christmas|Noël|o
 raise|lever, soulever; élever (un enfant); augmentation de salaire|v;v;o
 unless|à moins que, sauf si|o
@@ -934,7 +874,6 @@ suit|costume, tailleur; convenir à, aller à; procès|o;v;o
 owe|devoir (de l'argent)|v
 risk|risque; risquer, mettre en danger|o;v
 tie|cravate; attacher, nouer; égalité, match nul|o;v;o
-drunk|ivre, soûl|o
 spot|tache, point; endroit, lieu; repérer, apercevoir|o;o;v
 note|mot, note écrite; note (de musique); remarquer, noter|o;o;v
 taste|goût, saveur; goûter; goût, sens du beau|o;v;o
@@ -952,7 +891,6 @@ dollar|dollar|o
 upset|contrarié, bouleversé; renverser, faire tomber|o;v
 blame|reprocher, accuser; faute, responsabilité|v;o
 mum|maman (britannique)|o
-screw|vis; visser; (vulgaire) baiser|o;v;v
 pop|pop, petit bruit sec; musique pop; papa (familier); éclater|o;o;o;v
 boyfriend|petit ami, copain|o
 mm-hmm|mmh (qui veut dire oui)|g
@@ -992,7 +930,6 @@ village|village|o
 green|vert|o
 planet|planète|o
 bloody|(britannique, juron léger) fichu, satané; ensanglanté|o;o
-ticket|billet, ticket|o
 finger|doigt|o
 i-i|(bégayé) je|f1s
 large|grand, vaste|o
@@ -1016,7 +953,6 @@ neither|ni l'un ni l'autre; ni|o;o
 enter|entrer dans; saisir, entrer (des données)|v;v
 evil|malfaisant, mauvais; le mal|o;o
 besides|en plus de, outre; d'ailleurs, de toute façon|o;o
-issue|question, sujet; problème, souci; numéro (d'une revue)|o;o;o
 jail|prison|o
 member|membre|o
 cost|coût, prix; coûter|o;v
@@ -1086,7 +1022,6 @@ fat|gros, gras; graisse, matière grasse|o;o
 moon|lune|o
 upon|sur (soutenu)|o
 christ|(exclamation de colère ou de stupeur); le Christ|g;o
-bore|ennuyer, lasser; percer, forer|v;v
 mission|mission|o
 aunt|tante|o
 block|bloc, morceau; pâté de maisons; bloquer, barrer|o;o;v
@@ -1096,17 +1031,15 @@ wound|blessure; blesser; enroulé, forme passée de wind|o;v;o
 suddenly|soudain, tout à coup|o
 kitchen|cuisine|o
 usually|d'habitude, généralement|o
-account|compte (bancaire); récit, compte rendu; (account for) expliquer|o;o;v
 er|euh (hésitation)|g
 color|couleur; colorier, colorer|o;v
-rid|(get rid of) se débarrasser de|v
 result|résultat, conséquence; résultat (d'un examen)|o;o
 crap|(vulgaire) conneries, n'importe quoi; merde, excréments|o;o
 yo|yo (salut familier, pour appeler)|g
 grand|grandiose, imposant; mille dollars (familier)|o;o
 sky|ciel|o
 warm|chaud, tiède; chaleureux|o;o
-piss|(vulgaire) pisser; (pissed off) énervé, furax|v;o
+piss|(vulgaire) pisser; pissed off: énervé, furax|v;n
 worst|le pire|o
 shake|secouer, trembler|v
 aah|aah (cri de peur ou de douleur)|g
@@ -1129,7 +1062,6 @@ themselves|(réfléchi de they) eux-mêmes|o
 hunt|chasser; rechercher, traquer|v;v
 hire|embaucher, engager; louer|v;v
 discuss|discuter de, parler de|v
-copy|copie, exemplaire; copier|o;v
 leader|chef, dirigeant|o
 rose|rose (fleur); forme passée de rise|o;o
 hadn|(dans hadn't) forme négative de had|o
@@ -1144,13 +1076,11 @@ wood|bois (matière); bois, petite forêt|o;o
 innocent|innocent, non coupable; innocent, candide|o;o
 department|service, département|o
 double|double; doubler|o;v
-accord|accord, entente; (of one's own accord) de son plein gré|o;o
+accord|accord, entente; own accord: de son plein gré|o;n
 favorite|préféré, favori; le préféré, le favori|o;o
-further|plus loin, davantage|v
 correct|correct, exact; corriger|o;v
 otherwise|sinon, autrement; par ailleurs, à part ça|o;o
 pray|prier|v
-freak|monstre, cinglé; (freak out) paniquer, péter les plombs|o;v
 awesome|génial, super (familier)|o
 monster|monstre; monstre, personne cruelle|o;o
 prince|prince|o
@@ -1176,7 +1106,6 @@ bullet|balle (d'arme à feu)|o
 corner|coin, angle|o
 energy|énergie; énergie, entrain|o;o
 guilty|coupable; qui se sent coupable|o;o
-apart|séparé, à l'écart|o
 bunch|bouquet, grappe, tas|o
 empty|vide; vider|o;v
 writing|écriture, écrit|o
@@ -1227,10 +1156,9 @@ applause|applaudissements|o
 however|cependant, pourtant; de quelque manière que|o;o
 lift|lever, soulever; ascenseur (britannique); trajet en voiture|v;o;o
 extra|supplémentaire, en plus; figurant|o;o
-cheat|tricher, tromper|v
 stole|volé, forme passée de steal|o
 restaurant|restaurant|o
-devil|démon, diable; (the Devil) Satan|o;o
+devil|démon, diable; the Devil: Satan|o;n
 skin|peau|o
 cousin|cousin|o
 unit|unité, élément; unité (de mesure)|o;o
@@ -1296,13 +1224,12 @@ princess|princesse|o
 bang|détonation, grand bruit; cogner, frapper fort|o;v
 goddamn|(vulgaire) foutu, sacré (pour insister)|o
 faith|foi, croyance; religion, foi; confiance|o;o;o
-due|prévu, attendu; dû; (due to) à cause de|o;o;o
-chair|chaise|o
+due|prévu, attendu; dû; due to: à cause de|o;o;n
 plenty|largement assez, en abondance|o
 page|page|o
 excellent|excellent|o
 asshole|(vulgaire) connard, salaud; anus|o;o
-bless|bénir; (bless you) à tes souhaits|v;o
+bless|bénir; bless you: à tes souhaits|v;n
 fuckin|(vulgaire) = fucking, putain de (pour insister)|o
 unite|unir, réunir|v
 responsible|responsable, chargé de; responsable, à l'origine de; sérieux, fiable|o;o;o
@@ -1336,7 +1263,6 @@ size|taille, dimension|o
 inspector|inspecteur (de police); inspecteur, contrôleur|o;o
 design|conception, dessin; concevoir, dessiner|o;v
 prefer|préférer|v
-lover|amant, maîtresse|o
 russian|russe, de Russie; le russe (la langue)|o;o
 model|maquette, modèle réduit; mannequin; modèle, type|o;o;o
 manager|directeur, responsable|o
@@ -1354,7 +1280,6 @@ celebrate|fêter, célébrer|v
 pardon|(pardon?) comment?, pardon?; pardonner|o;v
 hanging|suspendu, accroché; pendaison|o;o
 advice|conseils|o
-dump|larguer, laisser tomber; décharge, dépotoir|v;o
 noise|bruit|o
 term|terme, mot; période, durée; condition (d'un accord)|o;o;o
 whisper|chuchoter, murmurer|v
@@ -1425,7 +1350,7 @@ effect|effet|o
 regret|regretter; regret|v;o
 oil|huile, pétrole|o
 horrible|horrible, affreux|o
-purpose|but, objectif; (on purpose) exprès|o;o
+purpose|but, objectif; on purpose: exprès|o;n
 hook|crochet, hameçon|o
 planning|planification, organisation|o
 subject|sujet, question; matière (d'étude); sujet (d'un souverain)|o;o;o
@@ -2084,7 +2009,7 @@ chop|couper, hacher; côtelette|v;o
 presence|présence; prestance, allure|o;o
 sharp|tranchant, aiguisé; vif, perspicace; brusque, soudain|o;o;o
 internet|Internet|o
-occur|se produire, arriver; (occur to) venir à l'esprit|v;v
+occur|se produire, arriver; occur to: venir à l'esprit|v;n
 elevator|ascenseur|o
 skip|sautiller, gambader; sauter, passer|v;v
 therefore|donc, par conséquent|o
@@ -2166,11 +2091,11 @@ slap|gifler, donner une claque à|v
 maid|bonne, femme de chambre|o
 pa|papa (familier)|o
 thunder|tonnerre|o
-relate|raconter, relater; (relate to) concerner, comprendre|v;v
+relate|raconter, relater; relate to: concerner, comprendre|v;n
 emotion|émotion, sentiment|o
 exercise|exercice (physique); exercice, entraînement; exercer (un pouvoir)|o;o;v
 gamble|jouer, parier; pari, risque|v;o
-stake|mise, enjeu; pieu, piquet; (at stake) en jeu|o;o;o
+stake|mise, enjeu; pieu, piquet; at stake: en jeu|o;o;n
 robot|robot|o
 potato|pomme de terre|o
 relative|parent, membre de la famille; relatif, par rapport à|o;o
@@ -2750,7 +2675,7 @@ pleasant|agréable, plaisant|o
 mar|gâcher, abîmer|v
 patch|pièce, rustine; parcelle, coin|o;o
 relieve|soulager, apaiser; relever, remplacer|v;v
-forth|en avant, dehors; (and so forth) et ainsi de suite|o;o
+forth|en avant, dehors; and so forth: et ainsi de suite|o;n
 gray|gris|o
 album|album (de photos); album (de chansons)|o;o
 homicide|homicide, meurtre; brigade criminelle|o;o
@@ -2905,7 +2830,7 @@ dine|dîner|v
 curtain|rideau|o
 humanity|humanité, les hommes; humanité, bonté|o;o
 reverse|reculer, faire marche arrière; contraire, inverse|v;o
-instance|exemple, cas; (for instance) par exemple|o;o
+instance|exemple, cas; for instance: par exemple|o;n
 blackmail|chantage; faire chanter|o;v
 loyalty|loyauté, fidélité|o
 encounter|rencontrer par hasard, tomber sur; rencontrer, se heurter à|v;v
@@ -3320,7 +3245,7 @@ combination|combinaison, association; combinaison (d'un cadenas)|o;o
 inner|intérieur, interne; intérieur, profond|o;o
 rig|plateforme pétrolière; truquer, arranger|o;v
 vodka|vodka|o
-necessarily|forcément, nécessairement; (not necessarily) pas forcément|o;o
+necessarily|forcément, nécessairement; not necessarily: pas forcément|o;n
 zoo|zoo|o
 terror|terreur, effroi; terrorisme, terreur|o;o
 lame|boiteux, estropié; boiteux, mauvais (excuse)|o;o
@@ -3386,7 +3311,7 @@ envelope|enveloppe|o
 sunshine|soleil, lumière du soleil|o
 undercover|infiltré, en civil|o
 operator|opérateur, standardiste|o
-contrary|contraire, opposé; (on the contrary) au contraire|o;o
+contrary|contraire, opposé; on the contrary: au contraire|o;n
 poker|poker; tisonnier|o;o
 arrival|arrivée; arrivant, nouveau venu|o;o
 stun|assommer, étourdir; stupéfier, abasourdir|v;v
@@ -3571,7 +3496,7 @@ prey|proie|o
 oops|oups (après une petite bévue)|g
 sketch|croquis, esquisse; sketch, saynète|o;o
 plague|peste, épidémie; harceler, tourmenter|o;v
-prior|antérieur, précédent; (prior to) avant|o;o
+prior|antérieur, précédent; prior to: avant|o;n
 alike|semblables, pareils; de la même façon, pareillement|o;o
 excellency|(Your Excellency) Votre Excellence|o
 skinny|maigre, maigrichon|o
@@ -3831,9 +3756,9 @@ donate|faire don de, donner|v
 kindly|gentiment, avec bonté; (s'il vous plaît) ayez la bonté de|o;o
 pimp|proxénète, maquereau|o
 nickname|surnom|o
-resort|station, lieu de villégiature; (resort to) recourir à, en venir à|o;v
+resort|station, lieu de villégiature; resort to: recourir à, en venir à|o;n
 glue|colle|o
-martial|martial, guerrier; (martial arts) arts martiaux|v;o
+martial|martial, guerrier; martial arts: arts martiaux|v;n
 nigga|(injurieux, surtout entre locuteurs noirs) frère, mec|o
 puppet|marionnette; pantin, homme de paille|o;o
 upside|(upside down) à l'envers, la tête en bas; bon côté, avantage|o;o
@@ -3926,7 +3851,7 @@ scrub|récurer, frotter|v
 depart|partir, s'en aller|v
 brutal|brutal, cruel; brutal, sans ménagement|o;o
 behaviour|behaviour, orthographe britannique de behavior|o
-vain|vaniteux, imbu de soi; (in vain) en vain|o;o
+vain|vaniteux, imbu de soi; in vain: en vain|o;n
 bicycle|vélo, bicyclette|o
 deer|cerf, biche|o
 absence|absence; manque, absence|o;o
@@ -4128,7 +4053,7 @@ rupee|roupie|o
 domestic|domestique, du foyer; intérieur, national|o;o
 ransom|rançon|o
 triple|triple; triple, à trois éléments|o;o
-spite|méchanceté, dépit; (in spite of) malgré|o;o
+spite|méchanceté, dépit; in spite of: malgré|o;n
 clearing|clairière|o
 fortunate|chanceux, heureux|o
 preparation|préparation, préparatifs; préparation, produit préparé|o;o
@@ -4189,7 +4114,7 @@ thug|voyou, brute|o
 ultimately|finalement, en fin de compte; au fond, en dernière analyse|o;o
 majority|majorité|o
 calculate|calculer|v
-bent|tordu, courbé; (bent on) résolu à, décidé à|o;o
+bent|tordu, courbé; bent on: résolu à, décidé à|o;n
 metre|metre, orthographe britannique de meter|o
 ink|encre|o
 administration|administration, gestion; gouvernement, administration|o;o
@@ -4224,7 +4149,7 @@ ache|douleur sourde; faire mal, être douloureux|o;v
 calendar|calendrier|o
 labour|labour, orthographe britannique de labor|o
 triumph|triomphe, grande victoire; triomphe, exultation|o;o
-descend|descendre; (descend from) descendre de, être issu de|v;v
+descend|descendre; descend from: descendre de, être issu de|v;n
 anxiety|angoisse, inquiétude|o
 beggar|mendiant|o
 creek|ruisseau (américain); crique, anse|o;o
@@ -4439,7 +4364,7 @@ flaw|défaut, imperfection|o
 belonging|(belongings) affaires, effets personnels; sentiment d'appartenance|o;o
 shipment|cargaison, envoi; expédition, envoi|o;o
 failing|défaut, faiblesse; échec, insuffisance|o;o
-courtesy|courtoisie, politesse; (courtesy of) offert par, grâce à|o;o
+courtesy|courtoisie, politesse; courtesy of: offert par, grâce à|o;n
 refugee|réfugié|o
 adapt|s'adapter, adapter|v
 penguin|manchot, pingouin|o
@@ -4456,7 +4381,7 @@ cub|petit (du lion, de l'ours, du renard)|o
 ridge|crête, arête|o
 sadly|tristement, avec tristesse; hélas, malheureusement|o;o
 tab|languette, étiquette; ardoise, note (américain)|o;o
-importantly|de façon importante; (more importantly) plus important encore|o;o
+importantly|de façon importante; more importantly: plus important encore|o;n
 cooler|glacière; moins chaud|o;o
 industrial|industriel|v
 vibrate|vibrer|v
@@ -4535,7 +4460,7 @@ villager|villageois|o
 documentary|documentaire|o
 liking|goût, penchant|o
 stadium|stade|o
-regardless|malgré tout, quand même; (regardless of) sans tenir compte de|o;o
+regardless|malgré tout, quand même; regardless of: sans tenir compte de|o;n
 organic|bio, sans produits chimiques; organique, du vivant|o;o
 poisoning|empoisonnement, intoxication|o
 cartoon|dessin animé; dessin humoristique|o;o
@@ -4962,7 +4887,7 @@ comedian|comique, humoriste|o
 paw|patte|o
 supposedly|soi-disant, prétendument|o
 edition|édition, version publiée; tirage, édition|o;o
-disposal|élimination, débarras; (at your disposal) à ta disposition|o;o
+disposal|élimination, débarras; at your disposal: à ta disposition|o;n
 heroic|héroïque|o
 mustache|moustache|o
 viewer|téléspectateur|o
@@ -5152,7 +5077,7 @@ alongside|à côté de, aux côtés de|o
 fundamental|fondamental, essentiel|o
 magistrate|juge d'instance, magistrat|o
 democratic|démocratique, élu par le peuple; démocratique, égalitaire|o;o
-coop|poulailler; (coop up) enfermer, cloîtrer|o;v
+coop|poulailler; coop up: enfermer, cloîtrer|o;n
 packet|paquet, sachet|o
 asteroid|astéroïde|o
 flick|effleurer d'une chiquenaude|v
@@ -5336,7 +5261,7 @@ awaken|se réveiller; éveiller un sentiment|v;v
 karate|karaté, art martial japonais de coups de main et de pied|o
 highlight|meilleur moment d'un événement; mettre en avant|o;v
 zap|détruire d'un coup; filer à toute vitesse|v;v
-creator|créateur de quelque chose de nouveau; (the Creator) Dieu|o;o
+creator|créateur de quelque chose de nouveau; the Creator: Dieu|o;n
 lone|seul, isolé|o
 zoom|filer très vite; zoomer sur une image|v;v
 detector|détecteur, appareil qui trouve ce qui est caché|o
@@ -5396,7 +5321,7 @@ bedtime|heure du coucher|o
 funding|financement accordé dans un but|o
 imprison|emprisonner|v
 km|km, kilomètre|o
-stem|tige principale d'une plante; (stem from) découler de|o;v
+stem|tige principale d'une plante; stem from: découler de|o;n
 prejudice|préjugé, opinion formée sans connaître les faits|o
 bacteria|bactéries, êtres minuscules qui causent des maladies|o
 vocal|vocal, de la voix; qui dit haut ce qu'il pense|o;o
@@ -5496,7 +5421,7 @@ lantern|lanterne|o
 parasite|parasite qui vit aux dépens d'un autre; personne qui vit aux crochets des autres|o;o
 insanity|folie; grande sottise|o;o
 etc|etc., et ainsi de suite|o
-partial|partiel, incomplet; (partial to) friand de|o;o
+partial|partiel, incomplet; partial to: friand de|o;n
 sounding|qui émet un son|o
 decoration|ornement qui embellit; décoration pour bravoure|o;o
 elementary|élémentaire, du premier stade; facile|o;o
@@ -5556,7 +5481,7 @@ lining|doublure d'un vêtement ou d'une boîte|o
 hip-hop|hip-hop, musique aux paroles rimées scandées sur un rythme lourd|o
 insert|insérer|v
 upgrade|remplacer par mieux|v
-lookout|guetteur; (on the lookout) à l'affût de|o;o
+lookout|guetteur; on the lookout: à l'affût de|o;n
 paralyze|paralyser, priver du mouvement; bloquer, mettre à l'arrêt|v;v
 hospitality|hospitalité, accueil chaleureux des invités|o
 broom|balai à long manche|o
@@ -5732,7 +5657,7 @@ dungeon|cachot souterrain|o
 outrage|acte scandaleux qui révolte; indignation|o;o
 shameless|éhonté, sans honte de mal agir|o
 meteor|météore, roche qui brûle en entrant dans l'atmosphère|o
-ballistic|balistique, des missiles en vol; (go ballistic) sortir de ses gonds|o;v
+ballistic|balistique, des missiles en vol; go ballistic: sortir de ses gonds|o;n
 harness|harnais d'un cheval ou d'un ouvrier; exploiter, mettre à profit|o;v
 turf|gazon avec sa couche de racines|o
 vulture|vautour|o
@@ -5757,7 +5682,7 @@ performer|artiste qui joue, chante ou danse devant un public|o
 bidding|ordre qu'on vous donne; enchères à une vente|o;o
 hallucination|hallucination, fait de voir ou d'entendre ce qui n'existe pas|o
 oppa|(coréen) grand frère, dit par une femme|o
-pentagon|pentagone, figure à cinq côtés; (the Pentagon) siège de la défense américaine|o;o
+pentagon|pentagone, figure à cinq côtés; the Pentagon: siège de la défense américaine|o;n
 scorpion|scorpion, petit animal du désert au dard caudal|o
 squat|s'accroupir; squatter, occuper un local vide sans droit|v;v
 contempt|mépris, sentiment que quelqu'un ne vaut rien|o
@@ -6152,7 +6077,7 @@ rainy|pluvieux|o
 emerald|émeraude, pierre précieuse vert vif|o
 cameraman|cadreur, opérateur de caméra|o
 linger|s'attarder plus longtemps que prévu|v
-dwell|habiter un lieu; (dwell on) ressasser|v;v
+dwell|habiter un lieu; dwell on: ressasser|v;n
 kindergarten|école maternelle|o
 subpoena|citation à comparaître|o
 characteristic|caractéristique, trait typique; caractéristique, typique|o;o
@@ -6173,7 +6098,7 @@ pedal|pédale actionnée du pied|o
 adjourn|suspendre une séance|v
 snicker|(petit rire moqueur)|g
 moth|papillon de nuit|o
-holiness|sainteté; (His Holiness) Sa Sainteté, titre du pape|o;o
+holiness|sainteté; His Holiness: Sa Sainteté, titre du pape|o;n
 isolation|isolement, mise à l'écart|o
 transformation|transformation complète|o
 meow|(miaulement du chat)|g
@@ -6254,7 +6179,7 @@ mic|micro (familier)|o
 runnin|en train de courir (orthographe familière de running)|o
 defender|défenseur|o
 millennium|millénaire, période de mille ans|o
-verge|bord, bordure; (on the verge of) sur le point de|o;o
+verge|bord, bordure; on the verge of: sur le point de|o;n
 duct|conduit d'air ou de liquide|o
 lucifer|(Lucifer) Lucifer, le Diable|o
 redeem|racheter une faute; racheter, reprendre contre paiement|v;v
@@ -6570,7 +6495,7 @@ crude|grossier, sommaire; grossier, vulgaire; brut, à l'état naturel|o;o;o
 dependent|dépendant, qui vit aux dépens d'un autre|o
 dictionary|dictionnaire|o
 ta-da|(pour présenter fièrement quelque chose)|g
-collateral|nantissement donné en garantie d'un prêt; (collateral damage) dommages causés aux civils|o;o
+collateral|nantissement donné en garantie d'un prêt; collateral damage: dommages causés aux civils|o;n
 missionary|missionnaire envoyé répandre une religion|o
 sovereign|souverain, roi ou reine; souverain, qui détient le pouvoir suprême|o;o
 workout|séance d'exercice physique|o
@@ -9491,3 +9416,78 @@ lax|laxiste, négligent|o
 nationalistic|nationaliste|o
 pronouncement|déclaration officielle|o
 recapitalization|recapitalisation|o
+have|avoir; (forme le passé composé, ex. I have seen); have to: devoir|v;g;n
+no|non (refus, désaccord); aucun, pas de|o;o
+can|pouvoir, être capable de; (dans can't) ne pas pouvoir; une boîte de conserve, une canette|o;o;o
+get|obtenir, recevoir; devenir; arriver; comprendre|v;v;v;v
+right|juste, correct; droit (le côté); (interjection) d'accord; un droit|o;o;o;o
+well|bien (de bonne manière); eh bien… (hésitation); en bonne santé, bien portant; as well: aussi|o;o;o;n
+will|(marque le futur); volonté (détermination); un testament (document laissé au décès)|o;o;o
+by|près de (à côté); par (fait par); d'ici, au plus tard; par (au moyen de)|o;o;o;o
+work|travailler; travail, emploi; fonctionner, marcher|v;o;v
+stop|arrêter, s'arrêter; un arrêt (de bus ou de train)|v;o
+leave|partir (s'en aller); laisser (derrière soi); congé|v;v;o
+last|dernier, final; dernier, le plus récent; durer|o;o;v
+lot|a lot: beaucoup; lot, parcelle de terrain; the lot: le tout, tout|n;o;n
+fine|bien, ça va; fin, de bonne qualité; une amende|o;o;o
+hand|main; passer, tendre|o;v
+may|pouvoir (avoir la permission); pouvoir (peut-être); mai (le mois)|o;o;o
+live|vivre; en direct (pas enregistré)|v;o
+change|changer; un changement, une modification; monnaie (pièces)|v;o;o
+pay|payer; salaire, paie|v;o
+matter|importer, compter; affaire, question; what's the matter: qu'est-ce qui ne va pas|v;o;n
+hard|dur, difficile; dur, ferme; dur, avec effort|o;o;o
+once|une fois; autrefois, jadis; dès que, une fois que|o;o;o
+bit|a bit: un peu; morceau, petit bout; passé de bite (mordre)|n;o;o
+while|pendant que; a while: un moment, un certain temps|o;n
+case|cas; in case: au cas où; affaire (judiciaire ou policière)|o;n;o
+check|vérifier; regarder, jeter un œil; l'addition|v;v;o
+saying|en disant; un dicton, un proverbe|o;o
+lie|mentir; s'allonger, être couché; un mensonge|v;v;o
+excuse|excuse me: pardon, excusez-moi; excuser; une excuse|n;v;o
+point|point, idée; montrer du doigt; intérêt, but|o;v;o
+deal|accord, marché; s'occuper de, traiter; a great deal: beaucoup|o;v;n
+hit|frapper; un succès, un tube|v;o
+order|ordre, commandement; ordre, disposition; commander (acheter, demander); in order to: afin de, pour|o;o;v;n
+far|loin; so far: jusqu'ici|o;n
+mine|le mien, à moi; une mine (de charbon, de métal)|o;o
+interest|intérêt; intéresser; intérêts (sur de l'argent)|o;v;o
+dear|cher (aimé); cher (dans une lettre); oh dear: exprime la consternation|o;o;n
+light|lumière (clarté); léger, pas lourd; allumer (un feu)|o;o;v
+book|livre; réserver|o;v
+cause|cause, raison; parce que (familier); causer, provoquer|o;o;v
+supposed|supposed to: censé; supposé, présumé|n;o
+touch|toucher; le toucher, contact; in touch: en contact|v;o;n
+fast|rapide; jeûner|o;v
+cry|pleurer; crier, appeler|v;v
+sort|sorte, type; trier, classer; sort out: régler, résoudre|o;v;n
+black|de la couleur la plus foncée; à la peau noire, d'origine africaine|o;o
+grow|grandir, grossir; cultiver; devenir peu à peu; grow up: devenir adulte|v;v;v;n
+hang|suspendre, accrocher; pendre (tuer par pendaison); hang out: passer du temps, traîner; hang on: attendre|v;v;n;n
+white|de la couleur de la neige; à la peau blanche, d'origine européenne|o;o
+secret|caché aux autres; chose tenue cachée|o;o
+cheer|acclamation; encourager; cheer up: reprendre courage, se remonter le moral|o;v;n
+carry|porter, transporter; carry on: continuer|v;n
+jesus|(exclamation de surprise ou d'agacement); Jésus-Christ, figure centrale du christianisme|g;o
+calm|ni contrarié ni agité; apaiser, calmer; calm down: se calmer|o;v;n
+joke|blague, plaisanterie; plaisanter|o;v
+mess|désordre, saleté; ennuis, pétrin; mess up: gâcher, rater; mess with: se mêler de, provoquer|o;o;n;n
+round|rond, circulaire; autour; manche, tour (d'une compétition); tournée (de boissons)|o;o;o;o
+suppose|supposer, croire probable; supposed to: censé|v;n
+glass|verre (matériau); verre (pour boire); glasses: lunettes|o;o;n
+consider|réfléchir à, examiner; considérer comme|v;v
+drunk|ivre, soûl; participe passé de drink (boire)|o;o
+screw|vis; visser; (vulgaire) coucher avec; screw up: gâcher, foirer|o;v;v;n
+ticket|billet, ticket; contravention, P.-V.|o;o
+issue|question, sujet; problème; numéro (d'un magazine); délivrer, émettre|o;o;o;v
+bore|ennuyer; percer, forer; passé de bear (porter)|v;v;o
+account|compte (d'argent); récit, compte rendu; compte (sur un service en ligne); account for: expliquer|o;o;o;n
+rid|get rid of: se débarrasser de; débarrasser de|n;v
+copy|copie, reproduction; copier; exemplaire (d'un livre, d'un journal)|o;v;o
+further|plus loin, davantage; supplémentaire|v;o
+freak|personne ou chose bizarre; freak out: paniquer, perdre les pédales|o;n
+apart|séparé, éloigné l'un de l'autre; apart from: à part, sauf|o;n
+cheat|tricher; cheat on: tromper|v;n
+chair|chaise; président (d'une réunion)|o;o
+lover|amant, amante; amateur, passionné|o;o
+dump|abandonner, déposer; décharge (ordures); larguer, plaquer (quelqu'un)|v;o;v

@@ -21,7 +21,7 @@
 吗|(makes a yes/no question)|g
 不|not (general negation)|o
 什么|what; something|o;o
-好|good, well; OK|o;o
+好|good, well; OK; very, so (before an adjective)|o;o;o
 有|to have; there is|v;o
 就|then, right away (sooner than expected); precisely|o;o
 吧|(suggestion; assumption)|g
@@ -51,7 +51,7 @@
 不是|is not; no|f3s;o
 给|to give; for, to (someone)|v;o
 你们|you (plural)|f2s2p
-可以|may, can (permitted)|o
+可以|may, can (permitted); OK, not bad|o;o
 这个|this one, this|o
 现在|now|o
 没|not (did not happen; not have)|o
@@ -59,7 +59,7 @@
 但|but (shorter, more formal than 但是)|o
 怎么|how; how come|o;o
 到|to arrive, to reach; until|v;o
-还|still, also; yet|o;o
+还|still, also; yet; to give back, to return (huán)|o;o;v
 能|to be able to (capable, permitted)|v
 就是|exactly, precisely; that is|o;o
 这样|like this, this way|o
@@ -72,14 +72,14 @@
 上|up, on; to go up; last (week, month)|o;v;o
 得|(links a verb to how it is done); must, have to|g;o
 被|(marks the passive, by)|g
-看|to look at, to watch; to read|v;v
+看|to look at, to watch; to read; to visit (someone)|v;v;v
 谁|who|o
 不会|will not; cannot, does not know how to|o;o
 事|matter, thing (to deal with)|o
 自己|oneself, own|o
 着|(ongoing state)|g
 告诉|to tell (someone)|v
-过|(has ever done, experienced); to cross, to pass|g;v
+过|(has ever done, experienced); to cross, to pass; to spend (time), to celebrate|g;v;v
 已经|already|o
 为什么|why|o
 不能|cannot, must not|o
@@ -109,12 +109,12 @@
 所以|so, therefore|o
 东西|thing, stuff|o
 又|again (already happened); and also|o;o
-叫|to call; to be called; to shout|v;v;v
+叫|to call; to be called; to shout; to tell (someone to do)|v;v;v;v
 快|fast, quick; soon; almost|o;o;o
 这些|these|o
 找|to look for; to give change|v;v
 应该|should, ought to|o
-请|please; to invite; to ask|o;v;v
+请|please; to invite; to ask; to treat (pay for someone)|o;v;v;v
 等|to wait; and so on|v;o
 死|to die; dead; extremely|v;o;o
 那么|so, in that case; that much|o;o
@@ -147,8 +147,8 @@
 看看|to have a look|v
 地方|place|o
 将|will, shall (formal)|o
-没事|it's nothing, never mind|f3s
-一定|certainly, definitely|o
+没事|it's nothing, never mind; to be all right, unhurt; to be free (nothing to do)|f3s;v;v
+一定|certainly, definitely; a certain (degree, amount)|o;o
 希望|to hope; hope|v;o
 朋友|friend|o
 时间|time|o
@@ -168,13 +168,13 @@
 不想|not to want to|o
 爱|to love; love|v;o
 只|only, just; (measure word: animals, one of a pair)|o;g
-该|should; that (aforementioned)|o;o
+该|should; that (aforementioned); to be (someone's) turn|o;o;v
 发生|to happen, to occur|v
 更|more, even more|o
-起来|to get up, to stand up; (starts and continues)|v;g
+起来|to get up, to stand up; (starts and continues); (after a verb) seems, when done (looks, sounds)|v;g;o
 最|most, -est|o
 必须|must, have to|o
-一点|a little (amount)|o
+一点|a little (amount); one o'clock|o;o
 那些|those|o
 可|can, may; but|o;o
 明白|to understand; clear|v;o
@@ -200,7 +200,7 @@
 非常|very, extremely|o
 带|to bring, to take along; belt|v;o
 不过|but, however; only|o;o
-出来|to come out|v
+出来|to come out; (after a verb) out, into view, worked out|v;o
 对不起|sorry, excuse me|o
 天|day; sky|o;o
 时|time, hour; when|o;o
@@ -255,7 +255,7 @@
 世界|world|o
 那样|like that, that way|o
 认识|to know, be acquainted with (a person)|v
-住|to live, to stay; to stop|v;v
+住|to live, to stay; to stop; (after a verb) firmly, fast|v;v;o
 新|new|o
 肯定|definitely, certainly; to affirm|o;v
 最好|had better, best to; the best|f3s;o
@@ -312,7 +312,7 @@
 说话|to speak, to talk|v
 永远|forever, for good|o
 看见|to see, to catch sight of|v
-家|home; family; (suffix for a specialist)|o;o;g
+家|home; family; (suffix for a specialist); (measure word: shops, companies)|o;o;g;g
 看起来|to look, to appear|v
 完全|completely, entirely|o
 情况|situation, circumstances|o
@@ -433,7 +433,7 @@
 接受|to accept|v
 或许|perhaps, maybe|o
 妻子|wife|o
-老|old (not young); always (老是)|o;o
+老|old (not young); always (老是); (before a surname: familiar address)|o;o;g
 特别|especially; special|o;o
 失去|to lose (something you had)|v
 整个|the whole, entire|o
@@ -490,7 +490,7 @@
 倒|to pour; to fall over; actually, on the contrary|v;v;o
 作为|as, in the capacity of; conduct|o;o
 别的|other, another one|o
-才能|talent, ability|o
+才能|talent, ability; only then can|o;o
 结果|result, outcome; in the end, as it turned out|o;o
 帮忙|to help out, to lend a hand|v
 正|just, right (in the middle of doing); upright, straight|o;o
@@ -517,7 +517,7 @@
 活着|to be alive, to stay alive|v
 打开|to open; to switch on|v;v
 各位|everyone (addressing a group)|o
-进|to enter, to go in; to advance|v;v
+进|to enter, to go in; (after a verb: in, into); to advance|v;g;v
 待|to stay; to treat (someone a certain way)|v;v
 掉|to fall, to drop; (after a verb: off, away)|v;g
 不好意思|sorry, excuse me; embarrassed|o;o
@@ -563,7 +563,7 @@
 之间|between, among|o
 主意|idea, plan|o
 保持|to keep, to maintain|v
-成|to become; to succeed; OK, that'll do|v;v;o
+成|to become; (after a verb: into, as); to succeed; OK, that'll do|v;g;v;o
 存在|to exist; existence|v;o
 高|tall, high|o
 晚安|goodnight|o
@@ -587,7 +587,7 @@
 回答|to answer; an answer|v;o
 任务|task, mission|o
 带来|to bring (here)|v
-早|early; morning|o;o
+早|early; morning; long ago, already|o;o;o
 可爱|lovely, cute|o
 感谢|to thank, to be grateful for|v
 为何|why (formal)|o
@@ -717,7 +717,7 @@
 附近|nearby, in the area|o
 不然|or if not, else|o
 太棒了|awesome!, brilliant!|o
-坏|bad; to break down, to go off|o;v
+坏|bad; to break down, to go off; (after a verb: terribly)|o;v;g
 可怜|pitiful, pathetic; to pity|o;v
 比较|fairly, rather; to compare|o;v
 字幕|subtitles|o
@@ -757,7 +757,7 @@
 办|to handle, to see to; to run|v;v
 屁股|bottom, backside|o
 生气|to get angry; angry|v;o
-恩|kindness, a favour; (mm, uh-huh)|o;g
+恩|(mm, uh-huh); kindness, a favour|g;o
 酒|alcohol, drink, wine|o
 手机|mobile phone|o
 老兄|mate, old chap|o
@@ -888,7 +888,7 @@
 学习|to study, to learn|v
 出发|to set off, to depart|v
 生意|business, trade|o
-上去|to go up|v
+上去|to go up; (after a verb: up, onto)|v;g
 值得|to be worth, worthwhile|v
 搞定|to sort out, to get it done|v
 派对|party (social)|o
@@ -960,7 +960,7 @@
 事件|incident, event|o
 酒吧|bar, pub|o
 不如|not as good as; might as well|o;o
-指|finger; to point at|o;v
+指|to point at; to refer to, to mean; finger|v;v;o
 新闻|news|o
 历史|history|o
 动|to move; to touch|v;v
@@ -1018,7 +1018,7 @@
 算了|forget it, never mind|o
 讨论|to discuss; discussion|v;o
 如|like, as; if (formal)|o;o
-道|way, path; to say (formal); the path out of suffering (Buddhist)|o;v;o
+道|way, path; to say (formal); the path out of suffering (Buddhist); (measure word: courses, questions, streaks)|o;v;o;g
 一会|a moment, in a bit|o
 究竟|actually, on earth (in a question); ultimate, final (Buddhist)|o;o
 戴|to wear (glasses, a hat)|v
@@ -1193,7 +1193,7 @@
 陛下|Your Majesty|o
 球|ball|o
 通常|usually, normally|o
-名|name; (measure word: people)|o;g
+名|name; (measure word: people); place (in a ranking)|o;g;o
 命运|fate, destiny|o
 旅行|to travel; a trip|v;o
 吹|to blow; to boast|v;v
@@ -1244,7 +1244,7 @@
 同|same; together with|o;o
 健康|health; healthy|o;o
 提醒|to remind, to warn|v
-包|bag; to wrap; to take charge of|o;v;v
+包|bag; to wrap; to take charge of; (measure word: packets)|o;v;v;g
 说谎|to tell a lie|v
 热|hot; to heat up|o;v
 自从|ever since|o
@@ -1465,7 +1465,7 @@
 班|class, shift; scheduled service|o;o
 条|(measure word: long thin things); item|g;o
 搞砸|to mess up, to botch|v
-废话|nonsense, rubbish; small talk|o;o
+废话|nonsense, rubbish; small talk; obviously!, no kidding|o;o;o
 猪|pig|o
 观众|audience, viewers|o
 成员|member|o
@@ -1485,7 +1485,7 @@
 特殊|special, particular|o
 黑人|black person|o
 勇敢|brave, courageous|o
-别管|never mind, don't bother about|o
+别管|never mind, don't bother about; no matter (who, what)|o;o
 等到|by the time, until|o
 介意|to mind, to take offence|v
 手下|subordinate; under one's command|o;o
@@ -1523,7 +1523,7 @@
 亲自|in person, personally|o
 强大|powerful, mighty|o
 引起|to cause, to give rise to|v
-乱|in a mess, chaotic; to mess up|o;v
+乱|in a mess, chaotic; to mess up; randomly, recklessly|o;v;o
 前进|to advance, to go forward|v
 有用|useful, of use|o
 组|group, team; to form a group|o;v
@@ -1555,7 +1555,7 @@
 爬|to climb, to crawl|v
 边|side, edge|o
 五|five|o
-光|light; bare, only|o;o
+光|light; bare; only|o;o;o
 练习|to practise; an exercise|v;o
 早餐|breakfast|o
 追踪|to track, to trace|v
@@ -1635,7 +1635,7 @@
 婴儿|baby, infant|o
 仅仅|merely, only|o
 理论|theory|o
-非|not, non-; (非…不可 simply must); Africa (in 非洲)|o;g;o
+非|not, non-; simply must, to insist on; 非洲: Africa|o;o;n
 早安|good morning (as a greeting)|o
 整天|all day long|o
 巧克力|chocolate|o
@@ -1674,7 +1674,7 @@
 司机|driver|o
 星球|planet, heavenly body|o
 大声|loudly, aloud|o
-象|elephant; appearance, image|o;o
+象|like, to resemble (variant of 像); elephant; appearance, image|o;o;o
 打死|to beat to death, to shoot dead|v
 烧|to burn; to run a fever|v;v
 线|line, thread; wire|o;o
@@ -1744,7 +1744,7 @@
 室|room, chamber (in compounds)|o
 加上|plus, on top of that|o
 万一|just in case; if by any chance|o;o
-亲|close, dear; to kiss|o;v
+亲|close, dear; to kiss; own, by blood (亲妈)|o;v;o
 印象|impression|o
 天空|sky|o
 游泳|to swim|v
@@ -1822,7 +1822,7 @@
 胡说|nonsense, to talk rubbish|o
 选手|player, contestant|o
 犯人|prisoner, convict|o
-妓|(in 妓女: prostitute)|g
+妓|妓女: prostitute|n
 不太|not very, not particularly|o
 遇见|to meet by chance, to come upon|v
 早晨|early morning|o
@@ -1924,7 +1924,7 @@
 悲伤|sorrow, grief; sad|o;o
 祝你好运|good luck to you|o
 票|ticket; vote|o;o
-既|since, as (literary)|o
+既|both (as in 既…又…); since, as (literary)|o;o
 摸|to touch, to feel|v
 罢了|that's all, never mind|o
 太空|outer space|o
@@ -1934,7 +1934,7 @@
 骂|to scold, to swear at|v
 误会|to misunderstand; a misunderstanding|v;o
 并非|is not at all, by no means|f3s
-重|heavy; serious|o;o
+重|heavy; serious; again, re- (chóng)|o;o;o
 媒体|the media|o
 回头|to turn one's head; later on|v;o
 经济|economy; economic|o;o
@@ -1986,7 +1986,7 @@
 机器人|robot|o
 开火|to open fire|v
 作用|effect, function|o
-王|king, monarch (in compounds)|o
+王|king, monarch (in compounds); Wang (surname)|o;o
 增加|to increase, to add to|v
 思想|thought, thinking; ideology|o;o
 放过|to let off, to spare|v
@@ -2036,7 +2036,7 @@
 锁|lock; to lock|o;v
 抱怨|to complain, to moan|v
 绑|to tie up, to bind|v
-部|part, section; ministry|o;o
+部|part, section; ministry; (measure word: films, books)|o;o;g
 陌生人|stranger|o
 为此|for this reason, on this account|o
 毛|hair, fur; mao (ten cents)|o;o
@@ -2056,7 +2056,7 @@
 视频|video|o
 说法|way of putting it; a claim|o;o
 左|left|o
-牛|cow, ox|o
+牛|cow, ox; awesome, impressive (slang)|o;o
 保安|security guard|o
 千万|whatever you do (千万别); ten million|o;o
 即|namely, that is; even if|o;o
@@ -2134,7 +2134,7 @@
 正要|to be just about to|v
 指挥官|commander|o
 说好|to agree on, as agreed|v
-刚好|as luck would have it, just then|o
+刚好|as luck would have it, just then; just right, exactly|o;o
 长得|to look (a certain way)|v
 搭档|partner, teammate|o
 艰难|hard, tough going|o
@@ -2148,7 +2148,7 @@
 驾驶|to drive, to pilot|v
 生日快乐|happy birthday|o
 蛋|egg|o
-黄|yellow|o
+黄|yellow; to fall through (colloquial)|o;v
 直升机|helicopter|o
 州|state, province|o
 圣|holy, sacred; saint|o;o
@@ -2229,7 +2229,7 @@
 也就是说|that is to say, in other words|o
 冒|to give off (smoke, steam); to risk|v;v
 哈哈|(ha ha)|g
-一路|all the way; (一路顺风 safe journey)|o;g
+一路|all the way; 一路顺风: safe journey|o;n
 苏联|the Soviet Union|o
 报|to report; newspaper; to repay|v;o;v
 迷人|charming, captivating|o
@@ -2272,7 +2272,7 @@
 采访|to interview (as a journalist)|v
 强奸|to rape|v
 部长|minister (government); head of department|o;o
-修|to repair; to trim; to study|v;v;v
+修|to repair; to build (roads, bridges); to trim; to study|v;v;v;v
 后期|later period; post-production|o;o
 蛇|snake|o
 科|branch of study, department|o
@@ -2288,7 +2288,7 @@
 滚出去|get out|o
 美味|delicious; a delicacy|o;o
 荣誉|honour, glory|o
-机|machine; opportunity|o;o
+机|machine; opportunity; aircraft|o;o;o
 交|to hand over; to make (friends); to cross|v;v;v
 救护车|ambulance|o
 对象|partner (romantic); object, target|o;o
@@ -2380,7 +2380,7 @@
 主席|chairman, president (of a body)|o
 酷|cool, stylish; cruel|o;o
 墙|wall|o
-念|to read aloud; to miss; a thought|v;v;o
+念|to read aloud; to miss; a thought; to study (at school)|v;v;o;v
 趁|while, taking advantage of|o
 老头|old man, old fellow|o
 养|to raise, to keep (animals); to support|v;v
@@ -2519,12 +2519,12 @@
 沙发|sofa|o
 时机|the right moment, timing|o
 祝福|to wish (someone) well; a blessing|v;o
-毛病|fault, defect; bad habit|o;o
+毛病|fault, defect; bad habit; ailment, illness|o;o;o
 占|to occupy, to take up; to account for|v;v
 受够了|to have had enough of|v
 知|to know (formal)|v
 传|to pass on, to hand down; to spread|v;v
-大不了|at worst, no big deal|o
+大不了|at worst; no big deal|o;o
 网站|website|o
 借口|excuse, pretext|o
 女巫|witch|o
@@ -2561,7 +2561,7 @@
 爱上|to fall in love with|v
 搞笑|hilarious; to play for laughs|o;v
 中士|sergeant|o
-短|short (in length)|o
+短|short (in length); brief (in time)|o;o
 单身|single, unmarried|o
 开除|to expel, to sack|v
 下周|next week|o

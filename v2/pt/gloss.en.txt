@@ -26,7 +26,7 @@ uma|a, an (f.); one|o;o
 se|if; oneself, each other|o;o
 com|with|o
 ser|to be (identity, characteristic)|v
-por|by, through, because of|o
+por|by, through; because of; for (in exchange)|o;o;o
 ele|he, him|f3s
 isso|that (on its own, without a noun)|o
 em|in, on, at|o
@@ -36,14 +36,14 @@ mas|but|o
 fazer|to do, to make|v
 como|how; as, like; I eat|o;o;f1s
 bem|well; quite, really|o;o
-ter|to have|v
+ter|to have; ter que: to have to|v;n
 da|of the, from the (de+a)|o
 meu|my, mine (m.)|o
 no|in the, on the (em+o)|o
 os|the (m. pl.); them|o;o
 ela|she, her|f3s
 seu|your; his, her (m.)|o;o
-muito|very, a lot|o
+muito|very; a lot; many, much|o;o;o
 na|in the, on the (em+a)|o
 sim|yes|o
 aqui|here|o
@@ -63,7 +63,7 @@ tudo|everything|o
 ficar|to stay; to become; to be located|v;v;v
 ir|to go|v
 minha|my, mine (f.)|o
-então|then, so|o
+então|then; so|o;o
 pode|can; you can|o;f2s2p
 agora|now|o
 estar|to be (state, location)|v
@@ -81,11 +81,11 @@ estava|(state, location) I was; he/she/it was|f1s;f3s
 querer|to want|v
 quer|wants; you want|f3s;f2s2p
 esse|that (before a noun)|o
-dar|to give|v
+dar|to give; dar para: to be possible|v;n
 bom|good|o
 algum|some, any|o
 sabe|knows; you know|f3s;f2s2p
-já|already, now|o
+já|already; now|o;o
 era|(identity, characteristic) I was; he/she/it was|f1s;f3s
 mesmo|same; even; really|o;o;o
 nos|us, to us; in the (em+os)|o;o
@@ -113,7 +113,7 @@ dever|must, ought to; to owe|o;v
 porque|because|o
 coisa|thing|o
 pensar|to think (reflect)|v
-esperar|to wait; to hope|v;v
+esperar|to wait; to hope; to expect|v;v;v
 dia|day|o
 todos|everyone, all|o
 tempo|time; weather|o;o
@@ -127,7 +127,7 @@ casa|house, home|o
 nunca|never|o
 cara|guy, dude (m.); face (f.)|o;o
 vocês|you (pl.)|f2s2p
-deixar|to leave (behind); to let|v;v
+deixar|to leave (behind); to let; deixar de: to stop (doing)|v;v;n
 quê|what|o
 essa|that (f., near you)|o
 à|to the, at the (a+a)|v
@@ -142,7 +142,7 @@ ainda|still, yet|o
 tão|so (with an adjective)|o
 dos|of the, from the (de+os)|o
 homem|man|o
-senhor|sir, mister; the Lord|o;o
+senhor|sir, mister; you (formal); the Lord|o;f2s2p;o
 noite|night, evening|o
 favor|favour; por favor: please|o;n
 sem|without|o
@@ -164,9 +164,9 @@ anos|years|o
 pegar|to take, to grab; to catch|v;v
 sair|to leave, to go out|v
 conseguir|to manage to, to be able to; to get|v;v
-pouco|little, few|o
+pouco|little, few; um pouco: a bit|o;n
 verdade|truth|o
-voltar|to come back, to return|v
+voltar|to come back, to return; voltar a: to do again|v;n
 seus|your; his, her (pl.)|o;o
 dele|his, of him (de+ele)|o
 entender|to understand|v
@@ -175,7 +175,7 @@ claro|clear; of course|o;o
 oh|oh|o
 depois|after, afterwards|o
 tinha|I had; he/she had|f1s;f3s
-conhecer|to know (be acquainted with), to meet|v
+conhecer|to know (be acquainted with); to meet|v;v
 coisas|things|o
 antes|before|o
 aquele|that over there (before a noun)|o
@@ -202,7 +202,7 @@ haver|there to be; to exist|o;v
 acha|thinks; you think|o;f2s2p
 quanto|how much|o
 fez|I did; he/she did|f1s;f3s
-acabar|to finish, to end up|v
+acabar|to finish; to end up; acabar de: to have just|v;v;n
 filho|son|o
 começar|to start, to begin|v
 trabalho|work, job; I work|o;f1s
@@ -232,7 +232,7 @@ dinheiro|money|o
 entrar|to enter, to come in|v
 qualquer|any, whatever|o
 trabalhar|to work|v
-contar|to tell (a story); to count|v;v
+contar|to tell (a story); to count; contar com: to count on|v;v;n
 pela|by the, through the (por+a)|o
 querido|dear, darling|o
 perder|to lose; to miss (a train)|v;v
@@ -275,7 +275,7 @@ daqui|from here (de+aqui)|o
 amor|love|o
 pronto|ready; done|o;o
 ah|ah, oh|o
-único|only, unique|o
+único|only; unique|o;o
 esquecer|to forget|v
 às|to the, at the (a+as); at (with a time)|v;o
 embora|though; ir embora: to go away|o;n
@@ -283,7 +283,7 @@ viver|to live|v
 mudar|to change; to move (house)|v;v
 atrás|behind, back|o
 procurar|to look for|v
-caso|case; I marry|o;f1s
+caso|case; in case, if; I marry|o;o;f1s
 errado|wrong|o
 perguntar|to ask (a question)|v
 lado|side|o
@@ -322,13 +322,13 @@ mal|badly; hardly; evil|o;o;o
 enquanto|while|o
 comprar|to buy|v
 difícil|difficult, hard|o
-logo|soon; right away|o;o
+logo|soon; right away; até logo: see you later|o;o;n
 amo|I love|f1s
 deles|their, of them (de+eles)|o
 desde|since, from|o
 garota|girl|o
 pessoa|person|o
-jeito|way, manner; knack|o;o
+jeito|way, manner; knack; de jeito nenhum: no way|o;o;n
 medo|fear|o
 forma|shape, form; way|o;o
 cada|each, every|o
@@ -346,7 +346,7 @@ porta|door|o
 significar|to mean|v
 nova|new (f.)|o
 contra|against|o
-terminar|to finish, to end|v
+terminar|to finish, to end; terminar com: to break up with|v;n
 cair|to fall|v
 quarto|room, bedroom; fourth|o;o
 morte|death|o
@@ -454,7 +454,7 @@ lutar|to fight|v
 maneira|way, manner|o
 ponto|point; dot; spot|o;o;o
 atirar|to shoot; to throw|v;v
-direito|right (entitlement); straight|o;o
+direito|right (entitlement); straight; properly|o;o;o
 médico|doctor|o
 pé|foot|o
 livro|book|o
@@ -485,7 +485,7 @@ dessa|of that (f.) (de+essa)|o
 telefone|telephone|o
 tocar|to touch; to play (music)|v;v
 partir|to leave; a partir de: from|v;n
-bastante|quite, enough|o
+bastante|quite, enough; a lot|o;o
 café|coffee; café da manhã: breakfast|o;n
 neste|in this (em+este)|o
 pôr|to put|v
@@ -527,7 +527,7 @@ sonho|dream; I dream|o;f1s
 criar|to create; to raise (a child)|v;v
 fechar|to close, to shut|v
 chega|that's enough!; arrives|o;o
-falta|lack; foul; is missing|o;o;f3s
+falta|lack; foul; is missing; sentir falta de: to miss|o;o;f3s;n
 teu|your, yours (m., informal)|o
 responder|to answer|v
 porra|damn, fuck (vulgar)|o
@@ -535,7 +535,7 @@ desta|of this (f.) (de+esta)|o
 aquilo|that over there (on its own)|o
 país|country|o
 nessa|in that (f.) (em+essa)|o
-pena|pity, shame; penalty; feather|o;o;o
+pena|pity, shame; penalty; feather; valer a pena: to be worth it|o;o;o;n
 especial|special|o
 paz|peace|o
 menino|boy (younger child)|o
@@ -553,13 +553,13 @@ tchau|bye|o
 nesse|in that (em+esse)|o
 fogo|fire|o
 linda|beautiful (f.)|o
-perceber|to notice, to realise|v
-real|real; the real (currency)|o;o
+perceber|to notice, to realise; to understand (Eur. Pt.)|v;v
+real|real; the real (currency); royal|o;o;o
 doutor|doctor (as a title, Dr)|o
 cá|here (vem cá: come here; commoner in Eur. Pt.)|o
 notícia|news|o
 engraçado|funny|o
-fato|fact|o
+fato|fact; de fato: in fact, indeed; suit (Eur. Pt.)|o;n;o
 preparar|to prepare, to get ready|v
 rei|king|o
 sinal|sign, signal|o
@@ -578,7 +578,7 @@ verdadeiro|true, real|o
 srta|Miss (abbreviation of senhorita)|o
 adeus|goodbye|o
 encontro|meeting, date; I find|o;f1s
-tratar|to treat; to deal with|v;v
+tratar|to treat; to deal with; tratar-se de: to be about|v;v;n
 servir|to serve; to fit|v;v
 dirigir|to drive; to direct|v;v
 livre|free (unrestricted)|o
@@ -623,8 +623,8 @@ puta|whore (vulgar); puta que pariu: fucking hell|o;n
 local|place; local|o;o
 erro|mistake, error|o
 rosto|face|o
-antigo|old, former|o
-pelos|by the, through the (por+os)|o
+antigo|old; former|o;o
+pelos|by the, through the (por+os); hairs, fur|o;o
 voz|voice|o
 motivo|reason, motive|o
 finalmente|finally|o
@@ -670,7 +670,7 @@ ar|air|o
 céu|sky; heaven|o;o
 uh|uh|o
 merecer|to deserve|v
-visto|seen; visa|o;o
+visto|seen; visa; pelo visto: apparently|o;o;n
 assistir|to watch; to attend|v;v
 frio|cold|o
 ataque|attack|o
@@ -704,7 +704,7 @@ banco|bank; bench|o;o
 idade|age|o
 loja|shop, store|o
 buscar|to fetch, to pick up; to search|v;v
-chama|calls; you call|o;f2s2p
+chama|calls; you call; flame|o;f2s2p;o
 capaz|able, capable|o
 vermelho|red|o
 conosco|with us|o
@@ -739,7 +739,7 @@ maldito|damned, cursed|o
 povo|people (of a nation)|o
 oficial|officer; official|o;o
 horrível|horrible, awful|o
-vontade|will; ter vontade de: to feel like|o;n
+vontade|will; ter vontade de: to feel like; à vontade: at ease, feel free|o;n;n
 ligação|call (phone); connection|o;o
 soldado|soldier|o
 público|public; audience|o;o
@@ -857,7 +857,7 @@ discutir|to argue; to discuss|v;v
 desejo|wish, desire; I wish|o;f1s
 mestre|master|o
 nela|in her, in it (em+ela)|o
-companhia|company (firm, companionship)|o
+companhia|company (firm); company (companionship)|o;o
 mar|sea|o
 diferença|difference|o
 duro|hard, tough|o
@@ -909,7 +909,7 @@ aguentar|to put up with, to bear|v
 carne|meat; flesh|o;o
 vista|view; sight|o;o
 saco|bag; encher o saco: to annoy|o;n
-desses|of those (de+esses); that I/he gave|o;o
+desses|of those (de+esses)|o
 santo|saint; holy|o;o
 época|time, period|o
 começo|beginning; I start|o;f1s
@@ -929,7 +929,7 @@ dúvida|doubt|o
 evitar|to avoid|v
 dito|said|f3s
 admitir|to admit|v
-corte|court; cut|o;o
+corte|cut; court|o;o
 bala|bullet; sweet, candy|o;o
 descansar|to rest|v
 pista|track, lane; clue|o;o
@@ -1008,7 +1008,7 @@ explodir|to explode, to blow up|v
 foder|to fuck (vulgar)|v
 memória|memory|o
 sul|south|o
-marca|brand, mark|o
+marca|brand; mark|o;o
 cheiro|smell|o
 direto|direct; straight away|o;o
 assumir|to take on (a role); to admit|v;v
@@ -1071,7 +1071,7 @@ lua|moon|o
 interessado|interested|o
 comando|command|o
 contrário|opposite; ao contrário: on the contrary|o;n
-livrar|to get rid of (livrar-se de)|v
+livrar|to get rid of (livrar-se de); to free, to rescue|v;v
 visitar|to visit|v
 poderoso|powerful|o
 série|series|o
@@ -1094,9 +1094,9 @@ pressão|pressure|o
 vazio|empty|o
 raiva|anger; rabies|o;o
 ora|now, well then|o
-carregar|to carry; to charge (a battery)|v;v
+carregar|to carry; to charge (a battery); to load|v;v;v
 registro|record, register|o
-liga|connects, phones; league|o;o
+liga|phones; connects; league|o;o;o
 estação|station; season|o;o
 cadê|where is? (spoken)|o
 vídeo|video|o
@@ -1122,7 +1122,7 @@ menor|smaller, smallest; minor|o;o
 aproximar|to approach (aproximar-se)|v
 obter|to obtain, to get|v
 repetir|to repeat|v
-alta|high (f.)|o
+alta|high (f.); tall (f.)|o;o
 defesa|defence|o
 beijo|kiss|o
 visão|vision, sight|o
@@ -1134,7 +1134,7 @@ cadeira|chair|o
 checar|to check (informal, from English)|v
 evidência|evidence|o
 notar|to notice|v
-arranjar|to get, to arrange|v
+arranjar|to get; to arrange|v;v
 pedido|request, order|o
 código|code|o
 julgamento|trial; judgement|o;o
@@ -1174,7 +1174,7 @@ fumar|to smoke|v
 classe|class|o
 valor|value|o
 contratar|to hire|v
-dividir|to divide, to share|v
+dividir|to divide; to share|v;v
 soar|to sound|v
 vizinho|neighbour|o
 arriscar|to risk|v
@@ -1200,7 +1200,7 @@ falso|false, fake|o
 longa|long (f.)|o
 vosso|your, yours (pl., Eur. Pt.)|o
 porco|pig; filthy|o;o
-segura|hold on!; holds|o;o
+segura|hold on!; holds; safe (f.)|o;o;o
 floresta|forest|o
 praia|beach|o
 episódio|episode|o
@@ -1248,7 +1248,7 @@ política|politics; policy|o;o
 caramba|wow!, damn!|o
 busca|search; searches|o;o
 departamento|department|o
-acompanhar|to accompany, to go with|v
+acompanhar|to accompany, to go with; to follow, to keep up with|v;v
 profissional|professional|o
 vento|wind|o
 início|beginning, start|o
@@ -1336,14 +1336,14 @@ teoria|theory|o
 rato|rat, mouse|o
 natural|natural|o
 prisioneiro|prisoner|o
-inventar|to invent, to make up|v
+inventar|to invent; to make up|v;v
 verde|green|o
 uso|use; I use|o;f1s
 van|van|o
 definitivamente|definitely; for good|o;o
 par|pair; even (number)|o;o
 branca|white (f.)|o
-dado|given; data|o;o
+dado|given; data; dice|o;o;o
 nove|nine|o
 calças|trousers, pants|o
 recusar|to refuse|v
@@ -1457,7 +1457,7 @@ casado|married|o
 sociedade|society|o
 ouvido|ear; heard|o;o
 disposto|willing|o
-experimentar|to try out, to experience|v
+experimentar|to try out; to experience|v;v
 debaixo|underneath, under|o
 ciência|science|o
 implorar|to beg|v
@@ -1529,10 +1529,10 @@ estudo|study; I study|o;f1s
 pressa|hurry|o
 profundo|deep|o
 digital|digital; fingerprint|o;o
-cabo|cable; corporal; cape|o;o;o
+cabo|cable; corporal; cape; levar a cabo: to carry out|o;o;o;n
 canto|corner; singing|o;o
 útil|useful|o
-ligado|switched on; connected|o;o
+ligado|switched on; connected; tá ligado: you know|o;o;n
 rezar|to pray|v
 apresentação|presentation; introduction|o;o
 desgraçado|bastard; wretched|o;o
@@ -1563,7 +1563,7 @@ gigante|giant|o
 combinar|to match; to arrange|v;v
 enfim|anyway; at last|o;o
 revista|magazine|o
-indicar|to indicate, to point to|v
+indicar|to indicate, to point to; to recommend|v;v
 promessa|promise|o
 lago|lake|o
 discurso|speech|o
@@ -1576,7 +1576,7 @@ rapidamente|quickly|o
 iniciar|to start, to begin|v
 data|date (calendar)|o
 okay|OK|o
-lance|bid; move, play|o;o
+lance|move, play; bid; thing, situation (slang)|o;o;o
 negar|to deny|v
 usado|used|o
 cala|cala a boca: shut up|n
@@ -1614,7 +1614,7 @@ ignorar|to ignore; not to know|v;o
 vovô|grandpa|o
 dano|damage|o
 completo|complete, full|o
-parada|stop; parade|o;o
+parada|stop; parade; thing, stuff (slang)|o;o;o
 eliminar|to eliminate|v
 torna|becomes; makes|o;f3s
 vencedor|winner|o
@@ -1667,11 +1667,11 @@ humor|mood; humour|o;o
 devido|due; devido a: because of|o;n
 emoção|emotion; excitement|o;o
 vingança|revenge|o
-acorde|wake up!|o
+acorde|wake up!; chord|o;o
 equipamento|equipment|o
 caralho|fuck, hell (vulgar)|o
 montar|to ride; to set up, to assemble|v;v
-toca|plays; touches|o;o
+toca|plays; touches; rings (phone)|o;o;o
 saí|I left, I went out|f1s
 júri|jury|o
 levante|get up!|o
@@ -1683,7 +1683,7 @@ rock|rock (music)|o
 porcaria|rubbish, crap|o
 testar|to test|v
 topo|top|o
-ansioso|anxious, eager|o
+ansioso|anxious; eager|o;o
 invés|ao invés de: instead of|n
 teatro|theatre|o
 rolar|to roll; to happen (slang)|v;v
@@ -1720,7 +1720,7 @@ surgir|to appear, to come up|v
 respeitar|to respect|v
 ultimamente|lately|o
 pecado|sin|o
-via|I saw; he/she saw; route|f1s;f3s;o
+via|I saw; he/she saw; route; via, through|f1s;f3s;o;o
 preparado|ready, prepared|o
 artigo|article|o
 civil|civil; civilian|o;o
@@ -1751,7 +1751,7 @@ apressar|to hurry (apressar-se)|v
 surpreender|to surprise|v
 sorriso|smile|o
 alegria|joy|o
-reserva|reservation, booking|o
+reserva|reservation, booking; reserve|o;o
 armadilha|trap|o
 errar|to make a mistake; to miss|v;v
 ilegal|illegal|o
@@ -1782,7 +1782,7 @@ mundial|world, worldwide|o
 resistir|to resist|v
 vinte|twenty|o
 bastardo|bastard|o
-gênio|genius; genie|o;o
+gênio|genius; genie; temper|o;o;o
 pintar|to paint|v
 aéreo|air (adj)|o
 exigir|to demand|v
@@ -1830,7 +1830,7 @@ fila|queue, line|o
 cruel|cruel|o
 alerta|alert|o
 frango|chicken|o
-queda|fall|o
+queda|fall; ter uma queda por: to have a soft spot for|o;n
 vampiro|vampire|o
 cidadão|citizen|o
 burro|stupid; donkey|o;o
@@ -1854,7 +1854,7 @@ acusado|accused, defendant|o
 folha|leaf; sheet (of paper)|o;o
 compromisso|commitment; appointment|o;o
 carga|load, cargo|o
-testemunhar|to witness, to testify|v
+testemunhar|to witness; to testify|v;v
 diário|diary; daily|o;o
 pacote|package, parcel|o
 voo|flight|o
@@ -1989,10 +1989,10 @@ raro|rare|o
 despedir|to say goodbye (despedir-se); to sack|v;v
 bicicleta|bicycle|o
 sanduíche|sandwich|o
-câmara|chamber|o
+câmara|chamber; camera|o;o
 admirar|to admire|v
 galinha|hen, chicken|o
-estrangeiro|foreigner; foreign|o;o
+estrangeiro|foreigner; foreign; no estrangeiro: abroad|o;o;n
 ferir|to injure, to wound|v
 vidro|glass (material)|o
 garganta|throat|o
@@ -2000,7 +2000,7 @@ escravo|slave|o
 marinha|navy|o
 popular|popular|o
 veículo|vehicle|o
-percebe|notices; you notice|o;f2s2p
+percebe|notices; you notice; understands|o;f2s2p;o
 deter|to detain; to stop|v;v
 custa|costs|o
 acusar|to accuse|v
@@ -2038,7 +2038,7 @@ técnica|technique|o
 disponível|available|o
 treinamento|training|o
 receio|fear; I fear|o;f1s
-saltar|to jump|v
+saltar|to jump; to skip|v;v
 amarrar|to tie up|v
 provocar|to provoke; to cause|v;v
 casada|married (f.)|o
@@ -2047,9 +2047,9 @@ calça|trousers, pants|o
 violento|violent|o
 dívida|debt|o
 desenvolver|to develop|v
-levado|taken|o
+levado|taken; naughty|o;o
 sorvete|ice cream|o
-terno|suit|o
+terno|suit; tender|o;o
 baixar|to lower; to download|v;v
 nuvem|cloud|o
 aldeia|village|o
@@ -2065,7 +2065,7 @@ lábio|lip|o
 irritar|to annoy, to irritate|v
 cura|cure; cures|o;o
 rabo|tail; bum|o;o
-sexta|Friday|o
+sexta|Friday; sixth|o;o
 prosseguir|to carry on, to proceed|v
 porão|basement|o
 roubado|stolen|o
@@ -2101,7 +2101,7 @@ transporte|transport|o
 distante|distant, far|o
 recado|message|o
 metal|metal|o
-baixa|low (f.)|o
+baixa|low (f.); casualty|o;o
 senso|sense (judgement)|o
 sopa|soup|o
 comercial|commercial; advert|o;o
@@ -2136,7 +2136,7 @@ destes|of these (de+estes)|o
 jogada|move, play|o
 acender|to light; to switch on|v;v
 espanhol|Spanish|o
-acordado|awake|o
+acordado|awake; agreed|o;o
 pato|duck|o
 absurdo|absurd, ridiculous|o
 atirador|shooter, gunman|o
@@ -2259,13 +2259,13 @@ anúncio|advert; announcement|o;o
 imperador|emperor|o
 reação|reaction|o
 temperatura|temperature|o
-tela|screen|o
+tela|screen; canvas|o;o
 comportar|to behave (comportar-se)|v
 dominar|to dominate; to master|v;v
 cruz|cross|o
 localizar|to locate|v
 resgate|rescue; ransom|o;o
-esquecido|forgotten|o
+esquecido|forgotten; forgetful|o;o
 secreta|secret (f.)|o
 perdida|lost (f.)|o
 passageiro|passenger|o
@@ -2327,7 +2327,7 @@ atrapalhar|to get in the way, to disturb|v
 dispositivo|device|o
 fumaça|smoke|o
 comentário|comment|o
-clima|climate; weather|o;o
+clima|climate; weather; atmosphere, mood|o;o;o
 rota|route|o
 sensível|sensitive|o
 capa|cover; cape|o;o
@@ -2404,7 +2404,7 @@ bruxo|wizard|o
 febre|fever|o
 presumir|to presume, to assume|v
 método|method|o
-quinta|Thursday|o
+quinta|Thursday; fifth; farm|o;o;o
 brinde|toast (drink); freebie|o;o
 dupla|pair, duo|o
 traficante|drug dealer|o
@@ -2426,14 +2426,14 @@ liderar|to lead|v
 aliado|ally|o
 girar|to spin, to turn|v
 examinar|to examine|v
-moral|moral|o
+moral|moral; morale|o;o
 nessas|in those (f.) (em+essas)|o
 repórter|reporter|o
 idéias|ideas (old spelling)|o
 piano|piano|o
 tatuagem|tattoo|o
 leitura|reading|o
-grama|grass|o
+grama|grass; gram|o;o
 ensaio|rehearsal; essay|o;o
 confundir|to confuse|v
 exterior|outside; abroad|o;o
@@ -2522,14 +2522,14 @@ indiano|Indian|o
 taxa|rate; fee|o;o
 expressão|expression|o
 análise|analysis|o
-prática|practice|o
+prática|practice; practical (f.)|o;o
 tubo|tube, pipe|o
 visual|visual; look|o;o
 rebelde|rebel; rebellious|o;o
 obrigar|to force|v
 lucro|profit|o
 religioso|religious|o
-despedida|farewell, goodbye|o
+despedida|farewell, goodbye; despedida de solteiro: stag party|o;n
 ooh|ooh|o
 assinatura|signature; subscription|o;o
 absoluto|absolute|o
@@ -2567,7 +2567,7 @@ mancha|stain, mark|o
 nascimento|birth|o
 fada|fairy|o
 bateria|battery; drums|o;o
-sinceramente|sincerely|o
+sinceramente|honestly; sincerely|o;o
 esquerdo|left|o
 armar|to arm; to set up|v;v
 limpeza|cleaning|o
@@ -2579,7 +2579,7 @@ delicado|delicate|o
 túmulo|grave, tomb|o
 duplo|double|o
 amanhecer|dawn; to dawn|o;v
-comissário|commissioner|o
+comissário|commissioner; comissário de bordo: flight attendant|o;n
 sabor|flavour, taste|o
 suspeitar|to suspect|v
 função|function; role|o;o
@@ -2599,10 +2599,10 @@ comparar|to compare|v
 hábito|habit|o
 afirmar|to state, to claim|v
 caneta|pen|o
-costume|custom, habit|o
+costume|custom, habit; como de costume: as usual|o;n
 simpático|nice, friendly|o
 sacrificar|to sacrifice|v
-emprestado|borrowed, lent|o
+emprestado|borrowed, lent; pedir emprestado: to borrow|o;n
 atual|current, present|o
 esquadrão|squad|o
 detestar|to hate|v
@@ -2610,7 +2610,7 @@ jaqueta|jacket|o
 baleado|shot, wounded|o
 foda|fuck; foda-se: fuck it (vulgar)|o;n
 arrastar|to drag|v
-educado|polite|o
+educado|polite; educated|o;o
 influência|influence|o
 respiração|breathing|o
 creme|cream|o
@@ -2625,7 +2625,7 @@ reforço|backup, reinforcement|o
 adicionar|to add|v
 traição|betrayal|o
 pulmão|lung|o
-físico|physical; physique|o;o
+físico|physical; physique; physicist|o;o;o
 congelar|to freeze|v
 muro|wall (outside)|o
 enrolar|to wrap; to stall, to mess around|v;v
@@ -2636,7 +2636,7 @@ riso|laughter|o
 heroína|heroine; heroin|o;o
 frota|fleet|o
 esmagar|to crush|v
-aparelho|device, appliance|o
+aparelho|device, appliance; braces (teeth)|o;o
 impacto|impact|o
 seio|breast|o
 desafiar|to challenge, to defy|v
@@ -2654,7 +2654,7 @@ masculino|male, masculine|o
 independente|independent|o
 patrulha|patrol|o
 ave|bird|o
-química|chemistry|o
+química|chemistry; chemical (f.)|o;o
 treino|training, practice|o
 plantar|to plant|v
 salada|salad|o
@@ -2671,9 +2671,9 @@ combinação|combination|o
 identificação|identification, ID|o
 tigre|tiger|o
 comandar|to command|v
-câmbio|exchange rate; over (on the radio)|o;o
-entretanto|however|o
-emocionante|exciting, moving|o
+câmbio|exchange rate; over (on the radio); gearbox (car)|o;o;o
+entretanto|however; meanwhile|o;o
+emocionante|exciting; moving|o;o
 expressar|to express|v
 plástico|plastic|o
 lamentar|to regret, to be sorry|v
@@ -2683,13 +2683,13 @@ intervalo|interval, break|o
 grego|Greek|o
 encantado|delighted; enchanted|o;o
 terreno|land, plot; terrain|o;o
-enviado|sent|o
+enviado|sent; envoy|o;o
 coluna|column; spine|o;o
 origem|origin|o
 seção|section|o
 erva|herb; weed|o;o
 contado|told, counted|o
-cobrar|to charge (money)|v
+cobrar|to charge (money); to demand, to hold to account|v;v
 tragédia|tragedy|o
 pescar|to fish|v
 salva|saves|o
@@ -2703,7 +2703,7 @@ prioridade|priority|o
 saio|I leave, I go out|f1s
 explosivo|explosive|o
 população|population|o
-quarta|Wednesday|o
+quarta|Wednesday; fourth (f.)|o;o
 alterar|to change, to alter|v
 empréstimo|loan|o
 espetáculo|show, spectacle|o

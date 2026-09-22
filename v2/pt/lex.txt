@@ -21,7 +21,7 @@ uma|||
 se|||
 com|||prep
 ser|||v
-por|||prep
+por|||prep;prep;prep
 ele|||pron
 isso|||pron
 em|||prep
@@ -58,7 +58,7 @@ tudo|||pron
 ficar|||
 ir|||
 minha|||
-então|||adv
+então|||adv;adv
 pode||poder|
 agora|||adv
 estar|||v
@@ -80,7 +80,7 @@ dar|||
 bom|||adj
 algum|||
 sabe||saber|
-já|||adv
+já|||adv;adv
 era||ser|
 mesmo|||
 nos|||
@@ -137,7 +137,7 @@ ainda|||adv
 tão|||adv
 dos|||
 homem|||nm
-senhor|||nm
+senhor|||nm;pron;nm
 noite|||nf
 favor|||nm
 sem|||prep
@@ -159,7 +159,7 @@ anos|||nm
 pegar|||
 sair|||
 conseguir|||
-pouco|||adj
+pouco|||adj;adv
 verdade|||nf
 voltar|||
 seus|||
@@ -270,7 +270,7 @@ daqui|||
 amor|||nm
 pronto|||adj
 ah|||interj
-único|||adj
+único|||adj;adj
 esquecer|||
 às|||
 embora|||
@@ -278,7 +278,7 @@ viver|||
 mudar|||
 atrás|||adv
 procurar|||
-caso|||nm
+caso|||nm;conj;v
 errado|||adj
 perguntar|||
 lado|||nm
@@ -317,13 +317,13 @@ mal|||adv
 enquanto|||conj
 comprar|||
 difícil|||adj
-logo|||adv
+logo|||adv;adv;interj
 amo||amar|
 deles|||
 desde|||prep
 garota|||nf
 pessoa|||nf
-jeito|||nm
+jeito|||nm;nm;adv
 medo|||nm
 forma|||nf
 cada|||
@@ -449,7 +449,7 @@ lutar|||
 maneira|||nf
 ponto|||nm
 atirar|||
-direito|||nm
+direito|||nm;adj;adv
 médico|||nmf
 pé|||nm
 livro|||nm
@@ -480,7 +480,7 @@ dessa|||
 telefone|||nm
 tocar|||
 partir|||
-bastante|||adv
+bastante|||adv;adv
 café|||nm
 neste|||
 pôr|||
@@ -522,7 +522,7 @@ sonho|||nm
 criar|||
 fechar|||
 chega||chegar|
-falta|||nf
+falta|||nf;nf;v;v
 teu|||
 responder|||
 porra|||nf
@@ -530,7 +530,7 @@ desta|||
 aquilo|||pron
 país|||nm
 nessa|||
-pena|||nf
+pena|||nf;nf;nf;v
 especial|||adj
 paz|||nf
 menino|||nm
@@ -549,12 +549,12 @@ nesse|||
 fogo|||nm
 linda||lindo|
 perceber|||
-real|||adj
+real|||adj;nm;adj
 doutor|||nm
 cá|||adv
 notícia|||nf
 engraçado|||adj
-fato|||nm
+fato|||nm;adv;nm
 preparar|||
 rei|||nm
 sinal|||nm
@@ -618,7 +618,7 @@ puta|||nf
 local|||nm
 erro|||nm
 rosto|||nm
-antigo|||adj
+antigo|||adj;adj
 pelos|||
 voz|||nf
 motivo|||nm
@@ -734,7 +734,7 @@ maldito|||adj
 povo|||nm
 oficial|||nm
 horrível|||adj
-vontade|||nf
+vontade|||nf;v;adv
 ligação|||nf
 soldado|||nm
 público|||nm
@@ -852,7 +852,7 @@ discutir|||
 desejo|||nm
 mestre|||nm
 nela|||
-companhia|||nf
+companhia|||nf;nf
 mar|||nm
 diferença|||nf
 duro|||adj
@@ -924,7 +924,7 @@ dúvida|||nf
 evitar|||
 dito||dizer|
 admitir|||
-corte|||nf
+corte|||nm;nf
 bala|||nf
 descansar|||
 pista|||nf
@@ -1003,7 +1003,7 @@ explodir|||
 foder|||
 memória|||nf
 sul|||nm
-marca|||nf
+marca|||nf;nf
 cheiro|||nm
 direto|||adj
 assumir|||
@@ -2044,7 +2044,7 @@ dívida|||nf
 desenvolver|||
 levado||levar|
 sorvete|||nm
-terno|||nm
+terno|||nm;adj
 baixar|||
 nuvem|||nf
 aldeia|||nf
@@ -2060,7 +2060,7 @@ lábio|||nm
 irritar|||
 cura|||nf
 rabo|||nm
-sexta|||nf
+sexta|||nf;adj
 prosseguir|||
 porão|||nm
 roubado||roubar|
@@ -2254,7 +2254,7 @@ anúncio|||nm
 imperador|||nm
 reação|||nf
 temperatura|||nf
-tela|||nf
+tela|||nf;nf
 comportar|||
 dominar|||
 cruz|||nf
@@ -2322,7 +2322,7 @@ atrapalhar|||
 dispositivo|||nm
 fumaça|||nf
 comentário|||nm
-clima|||nm
+clima|||nm;nm;nm
 rota|||nf
 sensível|||adj
 capa|||nf
@@ -2399,7 +2399,7 @@ bruxo|||nm
 febre|||nf
 presumir|||
 método|||nm
-quinta|||nf
+quinta|||nf;adj;nf
 brinde|||nm
 dupla|||nf
 traficante|||nmf
@@ -2421,14 +2421,14 @@ liderar|||
 aliado|||nm
 girar|||
 examinar|||
-moral|||adj
+moral|||adj;nf
 nessas|||
 repórter|||nmf
 idéias||ideia|nf
 piano|||nm
 tatuagem|||nf
 leitura|||nf
-grama|||nf
+grama|||nf;nm
 ensaio|||nm
 confundir|||
 exterior|||nm
@@ -2517,14 +2517,14 @@ indiano|||adj
 taxa|||nf
 expressão|||nf
 análise|||nf
-prática|||nf
+prática|||nf;adj
 tubo|||nm
 visual|||adj
 rebelde|||nmf
 obrigar|||
 lucro|||nm
 religioso|||adj
-despedida|||nf
+despedida|||nf;nf
 ooh|||interj
 assinatura|||nf
 absoluto|||adj
@@ -2562,7 +2562,7 @@ mancha|||nf
 nascimento|||nm
 fada|||nf
 bateria|||nf
-sinceramente|||adv
+sinceramente|||adv;adv
 esquerdo|||adj
 armar|||
 limpeza|||nf
@@ -2574,7 +2574,7 @@ delicado|||adj
 túmulo|||nm
 duplo|||adj
 amanhecer|||nm
-comissário|||nm
+comissário|||nm;nm
 sabor|||nm
 suspeitar|||
 função|||nf
@@ -2594,7 +2594,7 @@ comparar|||
 hábito|||nm
 afirmar|||
 caneta|||nf
-costume|||nm
+costume|||nm;nm
 simpático|||adj
 sacrificar|||
 emprestado||emprestar|
@@ -2605,7 +2605,7 @@ jaqueta|||nf
 baleado|||adj
 foda|||nf
 arrastar|||
-educado|||adj
+educado|||adj;adj
 influência|||nf
 respiração|||nf
 creme|||nm
@@ -2620,7 +2620,7 @@ reforço|||nm
 adicionar|||
 traição|||nf
 pulmão|||nm
-físico|||adj
+físico|||adj;nm;nm
 congelar|||
 muro|||nm
 enrolar|||
@@ -2631,7 +2631,7 @@ riso|||nm
 heroína|||nf
 frota|||nf
 esmagar|||
-aparelho|||nm
+aparelho|||nm;nm
 impacto|||nm
 seio|||nm
 desafiar|||
@@ -2649,7 +2649,7 @@ masculino|||adj
 independente|||adj
 patrulha|||nf
 ave|||nf
-química|||nf
+química|||nf;adj
 treino|||nm
 plantar|||
 salada|||nf
@@ -2666,9 +2666,9 @@ combinação|||nf
 identificação|||nf
 tigre|||nm
 comandar|||
-câmbio|||nm
-entretanto|||conj
-emocionante|||adj
+câmbio|||nm;nm;nm
+entretanto|||conj;adv
+emocionante|||adj;adj
 expressar|||
 plástico|||nm
 lamentar|||
@@ -2698,7 +2698,7 @@ prioridade|||nf
 saio||sair|
 explosivo|||nm
 população|||nf
-quarta|||nf
+quarta|||nf;adj
 alterar|||
 empréstimo|||nm
 espetáculo|||nm

@@ -323,12 +323,12 @@ rendah|||adj.
 luas|||adj.
 sempit|||adj.
 berat|||
-ringan|||adj.
+ringan|||adj.;adj.
 tebal|||adj.
 tipis|||adj.
 cepat|||adj.
 lambat|||adj.
-pelan|||adj.
+pelan|||adj.;adj.
 mudah|||adj.
 gampang|||adj.
 sulit|||adj.
@@ -1153,7 +1153,7 @@ ketua||tua|
 wakil|||
 anggota|||
 panitia|||
-rapat|||
+rapat|||n.;adj.
 lembur|||
 cuti|||
 lamar|||
@@ -1329,7 +1329,7 @@ fajar|||
 subuh|||
 persen|||
 persis|||
-pas|||adj.
+pas|||adj.;conj.
 ganjil|||
 genap|||
 ganda|||
@@ -1790,7 +1790,7 @@ sheriff|||
 tenggelam|||
 darat|||
 robot|||
-bekas|||
+bekas|||adj.;adj.;n.
 tiada|||
 kunjung|||
 nasional|||
@@ -1828,7 +1828,7 @@ kalo|||
 kuasa|||
 jaksa|||
 harta|||
-syukur|||
+syukur|||n.;interj.
 telanjang|||
 racun|||
 klien|||
@@ -2141,7 +2141,7 @@ sejenak|||
 modern|||
 tembus|||
 wabah|||
-cacat|||
+cacat|||n.;adj.
 liat|||
 bravo|||
 status|||
@@ -2343,10 +2343,10 @@ tengkorak|||
 kitab|||
 saku|||
 komisaris|||
-celaka|||
+celaka|||adj.;interj.
 keledai|||
 aroma|||
-jantan|||adj.
+jantan|||adj.;adj.
 reputasi|||
 cakap|||adj.;v.
 jago|||
@@ -2428,7 +2428,7 @@ sutradara|||
 kontes|||
 tenda|||
 romawi|||
-kencang|||adj.
+kencang|||adj.;adj.;adj.;adj.
 vagina|||
 sekian|||
 jas|||
@@ -5293,7 +5293,7 @@ kelaparan||lapar|
 kepercayaan||percaya|
 kerusakan||rusak|
 keadilan||adil|
-kesepian||sepi|
+kesepian||sepi|adj.;n.
 kekuasaan||kuasa|
 kebebasan||bebas|
 kepolisian||polisi|
@@ -6221,7 +6221,7 @@ perhatikan||hati|
 perbaiki||baik|
 perlihatkan||lihat|
 perkenalkan||kenal|
-pertunjukkan||tunjuk|
+pertunjukkan||tunjuk|n.;v.
 pertahankan||tahan|
 persiapkan||siap|
 pertimbangkan||timbang|
@@ -7199,7 +7199,7 @@ mendarat||darat|v.
 berbatu||batu|adj.
 melepas||lepas|v.
 sepotong||potong|n.
-alami||alam|adj.
+alami||alam|adj.;v.
 apakah||apa|part.;conj.
 kuncian||kunci|n.
 temukan||temu|v.
