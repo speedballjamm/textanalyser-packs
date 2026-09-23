@@ -9491,3 +9491,3857 @@ cheat|作弊，欺骗; cheat on: 对……不忠，出轨|v;n
 chair|椅子; 主席 (会议的)|o;o
 lover|情人，恋人; 爱好者|o;o
 dump|丢弃，倾倒; 垃圾场; 甩掉 (结束恋爱关系)|v;o;v
+smirk|得意地笑，假笑; 得意的笑，假笑|v;o
+glare|怒视，瞪; 刺眼的强光|v;o
+frown|皱眉 (表示不满); 不悦的神情|v;o
+shrug|耸肩 (表示不知道或不在乎); 耸肩的动作|v;o
+brow|额头; 眉毛; 山顶，坡顶|o;o;o
+inquire|询问，打听; 调查|v;v
+silently|无声地，默默地|o
+haired|有……头发的 (如 dark-haired 黑发的，long-haired 长发的)|o
+clench|紧握，咬紧 (拳头、牙齿、下巴)|v
+countenance|面容，表情; 容许，容忍|o;v
+pout|撅嘴 (生闷气); 撅嘴赌气的样子|v;o
+hurriedly|匆忙地，急忙地|o
+purr|发出呼噜声 (猫满足时); 柔声细语，娇声说话|v;v
+cum|兼，兼作 (如 kitchen-cum-dining room 厨房兼餐厅)|o
+coldly|冷淡地，冷冰冰地|o
+née|娘家姓 (用于已婚女性的原姓之前)|o
+huff|(恼怒地) 喷气，哼; in a huff: 生气，赌气|v;n
+furrow|皱 (眉); 犁沟，深皱纹|v;o
+morrow|第二天，明天; 早晨|o;o
+angrily|生气地，愤怒地|o
+hast|有 (与 thou 连用)|f3s
+disbelief|不相信，难以置信|o
+amidst|在……之中，在……中间|o
+tug|猛拉，拽; 猛的一拉; 拖船|v;o;o
+annoyance|恼怒，烦恼; 令人烦恼的事|o;o
+gleam|微微发光，闪烁; 微光，闪光|v;o
+astonishment|惊讶，震惊|o
+crouch|蹲下，蹲伏|v
+admiration|钦佩，赞赏; 欣赏，爱慕 (看着某物的愉悦)|o;o
+playful|爱玩的，开玩笑的，不认真的|o
+eagerly|热切地，渴望地|o
+wince|(因疼痛或尴尬) 皱眉，缩一下|v
+hesitation|犹豫，迟疑|o
+flicker|闪烁，摇曳; 闪烁的光，一闪而过的迹象|v;o
+anticipation|期待，期望|o
+aura|气场，氛围 (人或地方的); 光环，光晕|o;o
+continental|大陆的，洲的; 欧洲大陆的|o;o
+twitch|抽搐，抽动; 抽搐，微动|v;o
+awkwardly|笨拙地; 尴尬地，不自在地|o;o
+flinch|(因害怕或疼痛) 退缩，畏缩|v
+shudder|(因恐惧、寒冷或厌恶) 发抖，战栗; 颤抖，寒战|v;o
+melancholy|忧郁，深沉的悲伤; 忧郁的，伤感的|o;o
+piercing|锐利的，刺耳的 (目光、叫声); 身体穿孔 (戴饰物用)|o;o
+soften|(使) 变软，(使) 变温和|v
+plateau|高原; 停滞期，平台期|o;o
+solace|慰藉，安慰|o
+wilt|枯萎，蔫; 将 (与 thou 连用，= will)|v;o
+retort|反驳，回嘴; 反驳的话|v;o
+playfully|开玩笑地，顽皮地|o
+wrapping|包装纸，包装材料; 包，裹 (wrap 的现在分词)|o;o
+presently|不久，很快; 目前，现在|o;o
+casually|随意地，随便地; 偶然地|o;o
+evermore|永远，始终|o
+unwavering|坚定的，不动摇的|o
+mallow|锦葵 (开粉色或紫色花的植物)|o
+squire|乡绅，地主; 骑士的侍从|o;o
+uneasy|不安的，担心的; 不舒服的，不自在的|o;o
+flutter|拍动，飘动; 紧张兴奋，心慌|v;o
+aloud|出声地，大声地|o
+dost|做 (与 thou 连用，= do)|f3s
+gloomy|昏暗的，阴暗的; 忧郁的，悲观的|o;o
+curiously|好奇地; 奇怪地，奇特地|o;o
+grit|沙砾，砂粒; 勇气，毅力; 咬紧 (牙齿)|o;o;v
+hesitantly|犹豫地，迟疑地|o
+bustle|忙碌，奔忙; 忙乱，喧闹|v;o
+demeanor|举止，风度|o
+hasten|赶紧，急忙; 加速，促进|v;v
+hastily|匆忙地，仓促地|o
+squint|眯眼看; 眯眼的神情|v;o
+clasp|紧握，抱紧; 扣环，搭扣 (首饰或包上的)|v;o
+haha|(笑声，哈哈)|g
+scowl|怒目而视，沉下脸; 怒容|v;o
+quiver|微微颤抖; 箭袋|v;o
+adorn|装饰，点缀|v
+anxiously|焦急地，担心地|o
+curate|策划，挑选整理 (展品、内容); 助理牧师|v;o
+sneer|冷笑，嘲笑; 轻蔑的笑|v;o
+motionless|一动不动的，静止的|o
+hue|颜色，色调|o
+darken|(使) 变暗，(使) 变黑|v
+hearted|有……心的 (如 kind-hearted 好心的，broken-hearted 心碎的)|o
+politely|礼貌地，客气地|o
+furnish|布置家具; 提供，供应|v;v
+captivate|迷住，吸引|v
+composure|镇定，沉着|o
+errant|犯错的，行为不端的; 游荡的，漂泊的 (如游侠骑士)|o;o
+unexpectedly|出乎意料地，突然|o
+daze|恍惚，茫然的状态; 使发晕，使茫然|o;v
+reproach|责备，埋怨; 责备，指责|v;o
+brightly|明亮地，鲜艳地; 快活地，欢快地|o;o
+bailiff|法警; 地产管家，庄园总管|o;o
+haste|匆忙，急速|o
+rouse|唤醒，叫醒; 激起 (情绪)，鼓动 (人群)|v;v
+violently|猛烈地，暴力地; 强烈地，极度地|o;o
+amazement|惊奇，惊讶|o
+nudge|用肘轻推; 鼓励，推动; 轻推|v;v;o
+envelop|包住，笼罩|v
+twinkle|闪烁，闪耀; 闪亮 (眼中的光彩)|v;o
+reluctantly|不情愿地，勉强地|o
+peddler|小贩，货郎; 毒贩|o;o
+shopkeeper|店主 (小店的)|o
+agitate|使焦虑，使不安; 搅动，摇动; 鼓动，呼吁|v;v;v
+bosom|胸部，胸怀; bosom friend: 知心朋友，密友|o;n
+upright|直立的，竖直的; 正直的，有道德的|o;o
+endeavour|努力，尽力; 努力，尝试|v;o
+fluster|使慌乱，使紧张; 慌乱，紧张|v;o
+din|嘈杂声，喧闹声|o
+mischievous|淘气的，顽皮的; 有害的，恶意的|o;o
+recollection|记忆，回忆; 回想|o;o
+crimson|深红色的|o
+damp|潮湿的，湿润的|o
+ponder|仔细考虑，思考|v
+cautiously|小心地，谨慎地|o
+unsure|不确定的，没把握的|o
+faintly|微弱地，隐约地|o
+glide|滑行，悄然移动; 滑翔|v;v
+solitude|独处，孤独|o
+wand|魔杖|o
+aback|taken aback: 吃惊，震惊|n
+fasten|系牢，扣上，关紧 (安全带、扣子)|v
+snuggle|依偎，舒适地蜷缩|v
+rejoin|重新加入，回到; 回答，反驳|v;v
+tenderness|温柔，爱意; 疼痛，触痛|o;o
+utmost|最大的，极度的; 最大限度 (如 do your utmost 尽最大努力)|o;o
+intently|专心地，专注地|o
+spat|吐 (spit 的过去式); 口角，小争吵|o;o
+warmly|热情地，亲切地; 暖和地|o;o
+indifferent|冷漠的，不感兴趣的; 平庸的，一般的|o;o
+whence|从何处，从哪里|o
+abbe|修道院长，(法国) 神父|o
+colonist|殖民者，移民|o
+proudly|自豪地，骄傲地|o
+momentarily|片刻，暂时; 马上，很快|o;o
+speechless|说不出话的 (因震惊或激动)|o
+afterward|后来，之后|o
+jolt|猛地摇动，颠簸; 突然的震动，震惊|v;o
+shaky|颤抖的，摇晃的; 不稳的，不确定的|o;o
+taels|两 (tael 的复数，中国旧时银两单位)|o
+agreeable|令人愉快的; 乐意同意的|o;o
+attire|服装，衣着|o
+innocently|无辜地; 天真地|o;o
+trifle|小事，琐事; a trifle: 稍微，有点; trifle with: 轻视，玩弄; 查佛蛋糕 (分层甜点)|o;n;n;o
+earnest|认真的，诚恳的; in earnest: 认真地，真正地|o;n
+teammate|队友|o
+licking|舔 (lick 的现在分词); 痛打，惨败|o;o
+glint|闪光，闪烁; 一闪的光|v;o
+concubine|妾，姨太太|o
+plainly|明显地，显然; 简单地，朴素地|o;o
+fiercely|猛烈地，激烈地|o
+fiery|火一般的，燃烧的; 热情的，脾气暴躁的|o;o
+impatience|不耐烦，急躁|o
+pavement|人行道 (英); 路面 (美)|o;o
+thine|你的 (名词性，与 thou 连用); 你的 (与 thou 连用，用于元音前)|o;o
+anguish|极度痛苦，苦恼|o
+converse|交谈，谈话; 相反的事物，反面|v;o
+slumber|睡眠，沉睡|o
+swirl|旋转，打旋; 旋涡，旋转运动|v;o
+tho|虽然 (口语，= though)|o
+woah|停下!，哇! (口语，= whoa)|o
+throb|剧烈跳动，一阵阵作痛; 跳动，搏动|v;o
+comfortably|舒适地; 轻松地，容易地|o;o
+apprehension|担心，恐惧; 理解; 逮捕|o;o;o
+bewilder|使困惑，使迷惑|v
+patiently|耐心地，平静地|o
+taunt|嘲弄，讥讽; 嘲讽的话|v;o
+traveller|旅行者，旅客|o
+lewd|下流的，淫荡的|o
+hoarse|嘶哑的 (嗓音)|o
+impatiently|不耐烦地，焦躁地|o
+quirk|怪癖，奇特之处; 微微扭动 (挑眉、撇嘴)|o;v
+sarcastically|讽刺地，挖苦地|o
+fluffy|毛茸茸的，蓬松的|o
+coachman|马车夫|o
+linen|亚麻布; 床单，桌布 (织物用品)|o;o
+disgusted|厌恶的，恶心的|o
+frightful|可怕的，骇人的; 极大的，非常的|o;o
+dwelling|住所，住宅; 居住 (dwell 的现在分词)|o;o
+graceful|优雅的，姿态优美的|o
+hoodie|连帽衫|o
+recollect|回忆，记起|v
+breathless|气喘吁吁的; 非常兴奋的，屏息的|o;o
+gallop|(马) 飞奔，疾驰; 飞奔 (马最快的步法)|v;o
+sprint|冲刺，全速短跑; 短跑|v;o
+weakly|无力地，虚弱地|o
+irritation|恼怒，烦躁; (皮肤) 刺痛，发炎|o;o
+affectionate|深情的，充满爱意的|o
+doubtless|无疑，很可能|o
+perplex|使困惑，使费解|v
+damsel|少女，未婚女子|o
+archdeacon|副主教 (地位仅次于主教)|o
+cringe|(因恐惧) 退缩，畏缩; 感到尴尬，难为情|v;v
+hesitant|犹豫的，迟疑的|o
+slender|苗条的，纤细的; 微小的 (如 a slender chance 渺茫的机会)|o;o
+thyself|你自己 (与 thou 连用)|o
+coarse|粗糙的; 粗俗的，粗鲁的|o;o
+instinctively|本能地，下意识地|o
+governess|家庭女教师|o
+corral|畜栏 (围马或牛); 围拢，聚集|o;v
+energetic|精力充沛的，积极的|o
+lovingly|深情地，温柔地|o
+sincerity|真诚，诚恳|o
+gape|张口结舌地盯着看; 裂开，敞开|v;v
+ruffle|弄乱 (头发、羽毛); 使烦恼，使不安; 褶边，荷叶边|v;v;o
+stout|胖的，结实的; 坚定的，勇敢的; 黑啤酒|o;o;o
+extinguish|熄灭，扑灭 (火、灯); 使结束，消灭|v;v
+brunette|深褐色头发的女子|o
+gallant|勇敢的，英勇的; 对女子殷勤的|o;o
+mischief|淘气，恶作剧; 伤害，麻烦|o;o
+effortlessly|轻松地，毫不费力地|o
+entreat|恳求，央求|v
+exhaustion|精疲力竭; 耗尽，用尽|o;o
+icy|冰冷的，结冰的; 冷淡的，不友好的|o;o
+palpable|可感知的，强烈得几乎可触摸的; 明显的|o;o
+visibly|明显地，看得出地|o
+glimmer|发微光，闪烁; 微光; 一丝，少许 (如 a glimmer of hope 一线希望)|v;o;o
+lodging|住处，出租的房间; 投宿，寄宿 (lodge 的现在分词)|o;o
+monstrous|巨大而可怕的; 骇人听闻的，荒谬的|o;o
+hone|磨，磨快; 磨练，完善 (技能)|v;v
+armour|盔甲，铠甲|o
+eyelid|眼皮，眼睑|o
+yonder|那边，那个 (远处的)|o
+exude|散发，渗出 (气味、液体); 流露，洋溢 (自信、魅力)|v;v
+relish|享受，喜爱; 极大的乐趣; 调味酱，腌菜|v;o;o
+stoop|弯腰，俯身; 降低身份，堕落 (做不道德的事); 门廊台阶 (美)|v;v;o
+attentively|专心地，注意地|o
+blurt|脱口而出 (常用 blurt out)|v
+disposition|性情，气质; 安排，布置|o;o
+earnestly|认真地，诚恳地|o
+painfully|痛苦地; 极其，非常 (如 painfully slow 慢得要命)|o;o
+uneasiness|不安，焦虑|o
+probable|很可能的，大概的|o
+agitation|焦虑，不安; 搅动，摇动; 鼓动，运动|o;o;o
+frantically|疯狂地，拼命地|o
+furiously|狂怒地; 猛烈地，拼命地|o;o
+sternly|严厉地，严格地|o
+bitterly|怨恨地，悲痛地; 极其，刺骨地 (如 bitterly cold 冷得刺骨)|o;o
+hitherto|迄今，到目前为止|o
+unison|in unison: 一齐，同时|n
+valiant|英勇的，勇敢的|o
+timid|胆小的，羞怯的|o
+afar|from afar: 从远处; 在远方，遥远地|n;o
+audible|听得见的|o
+brim|边缘 (杯子、帽子); 充满 (brim with)|o;v
+enjoyment|乐趣，享受|o
+mana|魔力，法力 (奇幻作品和游戏中)|o
+oblivious|未察觉的，不在意的|o
+brighten|(使) 变亮，(使) 快活起来|v
+hehe|(笑声，嘿嘿)|g
+implore|恳求，哀求|v
+involuntarily|不由自主地，无意地|o
+ornament|装饰，装饰品|o
+radiate|(从中心) 向四周扩散，辐射; 发出，散发 (热、光); 流露，洋溢 (喜悦)|v;v;v
+allure|魅力，吸引力|o
+exasperate|激怒，使恼火|v
+fortnight|两星期|o
+helplessly|无助地，无可奈何地|o
+overflow|溢出，漫出; 充满，挤满|v;v
+scorn|轻蔑，蔑视; 鄙视，看不起|o;v
+elegance|优雅，高雅|o
+pleading|恳求的，哀求; 恳求 (plead 的现在分词)|o;o
+reappear|再次出现，重现|v
+lowly|卑微的，地位低的|o
+steamer|汽船，轮船; 蒸锅|o;o
+tint|色调，淡色; 给……略微着色|o;v
+tranquil|平静的，安宁的|o
+bedside|床边|o
+chivalry|(男子对女子的) 殷勤，礼貌; 骑士精神|o;o
+drape|(把布) 松松地披上，覆盖; 随意搭放; 窗帘，帘子|v;v;o
+footman|男仆 (穿制服的)|o
+hurl|猛扔，用力投掷; 大声叫骂 (侮辱的话)|v;v
+intertwine|缠绕，紧密相连|v
+nostril|鼻孔|o
+scrunch|揉皱，压碎; 皱起 (脸)|v;v
+abyss|深渊; 灾难，绝境|o;o
+cheerfully|高兴地，欣然|o
+distinctly|清楚地，清晰地; 确实，明显|o;o
+drench|浸透，使湿透|v
+embroider|刺绣; 添油加醋 (给故事)|v;v
+feeble|虚弱的，无力的|o
+gloom|黑暗，昏暗; 忧郁，沮丧|o;o
+heartily|热情地，真诚地; 尽情地 (如 eat heartily 吃得很香); 非常，十分 (如 heartily sick of 烦透了)|o;o;o
+newfound|新发现的，新获得的|o
+sweetly|甜美地，和蔼地|o
+troublesome|麻烦的，令人烦恼的|o
+monseigneur|大人，阁下 (法国对亲王或主教的尊称)|o
+quilt|被子，棉被|o
+winding|蜿蜒的，弯曲的 (如 a winding road 弯曲的路); 缠绕，上发条 (wind 的现在分词)|o;o
+avail|to no avail: 徒劳，无效; to avail oneself of: 利用|n;n
+beckon|招手示意，示意过来; 吸引，召唤|v;v
+befall|降临，发生 (坏事)|v
+complexion|肤色，面色; 性质，特征|o;o
+ignite|点燃，着火; 激起，引发 (情绪)|v;v
+muscular|肌肉发达的，强壮的; 肌肉的|o;o
+parting|分离，告别; 头发分缝|o;o
+perk|额外福利 (工作上的); perk up: 振作起来，活跃起来|o;n
+remembrance|记忆，回忆; 纪念|o;o
+smug|自鸣得意的，沾沾自喜的|o
+commotion|骚动，喧闹|o
+morph|逐渐变成，变形|v
+confidently|自信地，有把握地|o
+multitude|大量，众多; 人群，群众|o;o
+rosy|粉红色的; 乐观的，有希望的|o;o
+tapestry|挂毯，织锦|o
+throng|人群; 蜂拥而至，挤满|o;v
+bridal|新娘的，婚礼的|o
+goblin|小妖精，哥布林|o
+personage|要人，名人|o
+temperament|性情，气质; 易激动，情绪化|o;o
+unspoken|心照不宣的，未说出口的|o
+whither|去哪里，往何处|v
+displease|使不快，使生气|v
+recoil|(因恐惧或厌恶) 退缩，往后跳; (枪的) 后坐力|v;o
+respectful|恭敬的，尊重人的|o
+armchair|扶手椅|o
+boar|野猪; 公猪|o;o
+clad|穿着……的，覆盖着……的|o
+dragoon|龙骑兵 (骑马的士兵); 强迫，胁迫|o;v
+glisten|(湿物) 闪光，闪亮|v
+lackey|仆人，侍从; 走狗，唯命是从的人|o;o
+plop|扑通一声落下; 重重地坐下|v;v
+procure|获得，取得|v
+railing|栏杆，扶手|o
+ramble|东拉西扯，漫无边际地说; 漫步 (在乡间)|v;v
+dedication|奉献，献身精神; 献词 (书的)|o;o
+exertion|费力，努力 (体力或脑力)|o
+thither|到那里，向那边|v
+cavern|大洞穴|o
+facade|建筑正面; 假象，表面|o;o
+harshly|严厉地，残酷地|o
+whirl|快速旋转; 一连串忙乱的活动|v;o
+alt|另类的，替代的 (如 alt-rock 另类摇滚，alt-right 另类右翼); Alt 键|o;o
+coax|哄，劝诱|v
+fragrance|香味，芳香; 香水|o;o
+honourable|正直的，值得尊敬的; 阁下 (某些官员的尊称)|o;g
+immensely|极其，非常|o
+leisurely|悠闲的，从容的|o
+muse|沉思，若有所思地说; 灵感来源，缪斯|v;o
+neatly|整齐地，整洁地; 巧妙地，熟练地|o;o
+stiffen|变硬，变僵，变紧张|v
+tenderly|温柔地，亲切地|o
+thoughtfully|沉思地; 体贴地，周到地|o;o
+droop|下垂，低垂|v
+coldness|寒冷; 冷淡，冷漠|o;o
+continually|不断地，一再地|o
+encouragement|鼓励，支持|o
+intricate|复杂的，错综的|o
+sarcastic|讽刺的，挖苦的|o
+bulge|鼓起，膨胀; 凸起，肿块|v;o
+drool|流口水; drool over: 垂涎，对……极度渴望|v;n
+etch|蚀刻，雕刻 (图案); 铭刻 (如 etched in memory 铭记在心)|v;v
+exceedingly|极其，非常|o
+aroma|香味，芳香|o
+dusk|黄昏，傍晚|o
+saliva|唾液，口水|o
+vex|使烦恼，使担忧|v
+wildly|疯狂地，失控地; 极其，非常|o;o
+bitterness|怨恨，苦涩; 苦味|o;o
+curling|卷曲 (curl 的现在分词); 冰壶 (运动)|o;o
+graze|吃草; 擦伤 (皮肤); 吃零食|v;v;v
+indignation|愤慨，义愤|o
+nervousness|紧张，不安|o
+parlour|客厅，起居室; 店 (如 beauty parlour 美容院，ice-cream parlour 冰淇淋店)|o;o
+promptly|立即，迅速; 准时地|o;o
+amiable|和蔼可亲的，友好的|o
+confide|吐露 (秘密)，倾诉|v
+interruption|中断，间断; 打断，打扰|o;o
+intoxicate|使喝醉; 使陶醉，使兴奋|v;v
+teleport|瞬间移动，传送|v
+emissary|使者，特使|o
+feign|假装，佯装|v
+huddle|挤在一起 (取暖或求安全); 一小群人|v;o
+weaving|编织，纺织; 编织 (weave 的现在分词)|o;o
+dismay|沮丧，失望; 使沮丧，使失望|o;v
+gateway|入口，大门; 途径，门路|o;o
+repose|休息，安息; 休息，躺|o;v
+volleyball|排球|o
+engross|使全神贯注 (常用 engrossed in)|v
+horseback|on horseback: 骑着马|n
+idk|我不知道 (口语)|f1s
+lunge|猛冲，扑 (去攻击或抓取); 猛冲，突刺|v;o
+resemblance|相似，相像|o
+saber|军刀，马刀|o
+savor|细细品味，尽情享受|v
+d'état|coup d'état: 政变|n
+joyful|快乐的，高兴的|o
+subside|平息，减弱; 下沉，沉降|v;v
+ascertain|查明，确定|v
+beforehand|事先，预先|o
+calmness|平静，镇定|o
+fleeting|短暂的，转瞬即逝的|o
+gravely|严肃地，严重地|o
+lol|(大笑; 表示开玩笑) (口语)|o
+politeness|礼貌，客气|o
+suspiciously|怀疑地，不信任地; 可疑地|o;o
+blankly|茫然地，面无表情地|o
+gracefully|优雅地; 得体地，大方地|o;o
+jokingly|开玩笑地|o
+obediently|顺从地，听话地|o
+pronoun|代词 (如 he、she、it)|o
+unconsciously|无意识地，不知不觉地|o
+waver|犹豫，动摇; 摇曳，颤动|v;v
+craving|渴望，强烈的欲望; 渴望 (crave 的现在分词)|o;o
+gnaw|啃，咬; 折磨，不断困扰|v;v
+hind|后面的 (如 hind legs 后腿); 雌鹿|o;o
+musket|滑膛枪，火枪|o
+passionately|热情地，激昂地|o
+quicken|加快，变快; 激发，刺激|v;v
+squirm|扭动，蠕动; 局促不安，难为情|v;v
+steward|管家，总管 (庄园或家庭的); 空乘，乘务员|o;o
+twirl|轻快地旋转|v
+waistcoat|马甲，背心 (穿在西装外套里)|o
+doze|打盹，小睡; 瞌睡，小睡|v;o
+mantle|斗篷; 职责，衣钵 (如 take up the mantle 接过重任); 覆盖层|o;o;o
+outburst|(情绪的) 爆发|o
+primal|原始的，本能的|o
+sarcasm|讽刺，挖苦|o
+stirring|激动人心的，振奋的; (感情的) 萌动; 搅拌，搅动 (stir 的现在分词)|o;o;o
+tingle|感到刺痛，发麻|v
+torso|躯干|o
+workman|工人，工匠|o
+banter|打趣，玩笑话|o
+conjure|变魔术变出; 使浮现于脑海 (conjure up)|v;v
+delicacy|珍馐，美味佳肴; 精致，脆弱; 分寸，得体|o;o;o
+eagerness|渴望，热切|o
+gratify|使高兴，使满意; 满足|v;v
+interject|插话，插嘴|v
+islet|小岛|o
+joyous|快乐的，欢乐的|o
+ledge|壁架，岩架 (墙上或悬崖上)|o
+pang|一阵剧痛，一阵强烈的情绪|o
+shimmer|闪烁，发微光|v
+trample|踩踏，践踏|v
+writhe|(因疼痛) 扭动身体，翻滚|v
+alight|着火的，燃烧的; 明亮的，发光的; 下车; 降落，落下|o;o;v;v
+sensibility|感受力，鉴赏力 (对艺术、情感); 敏感|o;o
+solemnly|庄严地，严肃地|o
+tentacle|触手，触角 (章鱼或鱿鱼的)|o
+dimly|昏暗地，微弱地; 模糊地，隐约地|o;o
+enchantment|魔法，魔咒; 魅力，喜悦|o;o
+forcefully|用力地，强有力地; 坚决地，有说服力地|o;o
+serene|平静的，安详的|o
+torrent|急流，洪流; 一连串 (言语、辱骂)|o;o
+dumbfounded|目瞪口呆的，惊得说不出话的|o
+parchment|羊皮纸; 古文书|o;o
+radiant|光芒四射的，灿烂的; 容光焕发的|o;o
+scoot|快速移动，溜; (在座位上) 挪动|v;v
+spar|拳击练习，对打; 友好争论，斗嘴; 桅杆，圆材 (船上的)|v;v;o
+trot|小跑，快步走; 小跑 (步态); on the trot: 连续地，一连|v;o;n
+tumultuous|喧闹的，热烈的; 混乱的，动荡的|o;o
+lazily|懒洋洋地，慢悠悠地|o
+oni|鬼 (日本传说中的恶鬼)|o
+plump|丰满的，微胖的; plump for: 选择|o;n
+seep|渗出，渗漏|v
+admirable|令人钦佩的，值得赞扬的|o
+boldly|大胆地，自信地|o
+contrive|设法做到; 策划，谋划 (巧妙或欺骗地)|v;v
+dismount|下马，下车 (自行车)|v
+dissipate|消散，驱散; 挥霍，浪费|v;v
+gratefully|感激地|o
+knit|编织 (毛衣等); 皱 (眉)|v;v
+oppress|压迫，欺压; 使压抑，使心情沉重|v;v
+sideways|向一侧，从侧面|v
+tiptoe|踮着脚走; on tiptoe: 踮着脚|v;n
+warlock|男巫，术士|o
+arcade|拱廊商店街; 游戏厅，电玩城|o;o
+bellow|吼叫，咆哮|v
+deafen|使聋; 震耳欲聋|v;v
+fumble|笨手笨脚地摆弄; 摸索，笨拙地寻找|v;v
+hoist|(用绳索) 吊起，升起; 起重机，升降机|v;o
+labyrinth|迷宫|o
+lifeless|死的，无生命的; 无生气的，没精神的|o;o
+upbringing|教养，成长环境|o
+crave|渴望，渴求|v
+dangle|悬荡，悬垂; 以……诱惑|v;v
+displeasure|不快，不满|o
+dissatisfied|不满意的，不高兴的|o
+faceless|无个性的，匿名的|o
+gust|一阵狂风|o
+inexplicable|无法解释的，费解的|o
+majestic|雄伟的，壮观的|o
+overjoyed|欣喜若狂的|o
+overpower|制服，打败; 压倒，使难以承受|v;v
+postgraduate|研究生; 研究生的|o;o
+prefect|学长，班长 (学校中有职责的高年级学生); 长官，行政长官 (法国、古罗马)|o;o
+resolute|坚决的，坚定的|o
+shawl|披肩|o
+striker|前锋 (足球); 罢工者|o;o
+toga|托加袍 (古罗马的宽松长袍)|o
+tracing|描图，摹本; 追踪，描摹 (trace 的现在分词)|o;o
+communiqué|公报，官方声明|o
+coolness|冷静，镇定; 冷淡; 凉爽，微寒|o;o;o
+frantic|发狂的，慌乱的|o
+incense|香，熏香; 激怒|o;v
+resound|回响，回荡|v
+unbutton|解开纽扣|v
+vindicate|证明……正确; 洗清罪名，证明无辜|v;v
+affectionately|亲切地，充满爱意地|o
+braid|编辫子; 辫子; 饰带，穗带|v;o;o
+edifice|大厦，宏伟建筑; 体系 (信仰等)|o;o
+entangle|缠住，使卷入困境|v
+goblet|高脚杯|o
+hasty|匆忙的，草率的|o
+intensely|极其，强烈地|o
+lass|女孩，少女|o
+rejoice|欣喜，欢庆|v
+sou|苏 (法国旧时小硬币); not a sou: 身无分文|o;n
+bristle|短而硬的毛，鬃毛; 发怒，戒备; bristle with: 充满，布满|o;v;n
+fro|to and fro: 来回，往复|n
+irresistible|无法抗拒的，极有诱惑力的|o
+luxurious|奢华的，豪华舒适的|o
+softening|变软，变温和; 变软，软化 (soften 的现在分词)|o;o
+sombre|昏暗的，阴沉的; 严肃的，忧郁的|o;o
+trance|恍惚，出神|o
+yeoman|自耕农; 侍从，护卫|o;o
+brainstorm|集思广益，头脑风暴; 灵机一动，突发的想法|v;o
+fester|化脓，溃烂; 恶化 (怨恨等)|v;v
+feverish|发烧的; 狂热的，兴奋的|o;o
+furnace|熔炉，火炉 (用于取暖或熔化金属)|o
+landlady|女房东|o
+misty|有雾的，雾蒙蒙的; 泪眼模糊的|o;o
+obedient|顺从的，听话的|o
+penalize|惩罚，处罚; 使处于不利地位|v;v
+pique|(自尊心受伤后的) 恼怒; 激起 (兴趣、好奇心)|o;v
+vanquish|彻底击败，征服|v
+activation|激活，启动|o
+backbone|脊梁骨，脊柱; 支柱，骨干; 勇气，骨气|o;o;o
+baffle|使困惑，难住|v
+bonnet|系带女帽; 引擎盖 (英)|o;o
+cabaret|卡巴莱表演 (夜总会里的歌舞表演)|o
+enrage|激怒，使大怒|v
+firewood|柴火，木柴|o
+fume|大怒，生闷气; fumes: 烟气，有害气体|v;n
+inscribe|刻，题写 (文字)|v
+interpose|插入，置于……之间; 插话，打断|v;v
+junta|军政府 (夺权后的军人集团)|o
+momentary|短暂的，瞬间的|o
+natured|性情……的 (如 good-natured 脾气好的，ill-natured 脾气坏的)|o
+oar|桨|o
+oddly|奇怪地，古怪地|o
+orchard|果园|o
+reverberate|回响，回荡; 产生持久影响|v;v
+ridicule|嘲笑，嘲弄; 嘲笑，取笑|o;v
+rummage|翻找，乱翻|v
+scorch|烧焦，烤焦|v
+thence|从那里; 因此，由此|o;o
+timidly|胆怯地，羞怯地|o
+whisker|(动物的) 胡须; whiskers: 络腮胡子; by a whisker: 以毫厘之差|o;n;n
+yearning|渴望，思念; 渴望 (yearn 的现在分词)|o;o
+beset|困扰 (如 beset by problems 问题缠身)|v
+conjecture|猜测，推测; 猜测，推测|o;v
+epiphany|顿悟，恍然大悟; 主显节 (基督教节日，1月6日)|o;o
+excerpt|摘录，节选 (书或电影的)|o
+flux|不断变化，动荡|o
+galley|船上厨房; 桨帆船 (古代用桨划的船)|o;o
+hither|到这里; hither and thither: 到处，四处|v;n
+jag|尖角，锯齿状突出物; 一阵 (如 a crying jag 一阵痛哭)|o;o
+mesmerize|迷住，使着迷，催眠|v
+porridge|粥，燕麦粥|o
+reframe|换个角度表述，重新看待|v
+sorceress|女巫，女魔法师|o
+abdomen|腹部，肚子|o
+eccentric|古怪的，不落俗套的; 怪人|o;o
+hem|(衣服的) 折边，下摆; hem in: 包围，限制|o;n
+panacea|万灵药，万能药|o
+reorganize|重组，重新整理|v
+replay|重放，重演; 重播的录像|v;o
+seriousness|严肃，认真|o
+shroud|裹尸布; 覆盖，遮蔽|o;v
+talon|(猛禽的) 爪|o
+viceroy|总督 (代表君主统治殖民地)|o
+weariness|疲倦，疲劳|o
+attentive|专心的，留意的; 体贴的，周到的|o;o
+attractiveness|吸引力，魅力|o
+canteen|食堂 (单位或学校的); 水壶|o;o
+capitalization|大写字母的使用; 市值 (公司的)|o;o
+carelessly|粗心地，漫不经心地|o
+commune|公社 (共同生活、共享财物的团体); 亲密交流 (如 commune with nature 亲近自然)|o;v
+disseminate|传播，散布 (信息)|v
+flagship|旗舰 (同类中最好或最重要的); 旗舰 (海军上将所在的船)|o;o
+garde|avant-garde: 先锋派的，前卫的 (思想、艺术家)|n
+macroeconomics|宏观经济学|o
+merrily|欢快地，高兴地|o
+novella|中篇小说|o
+proclamation|宣言，公告|o
+purposely|故意地，有意地|o
+reconnect|重新连接，重新联系|v
+repudiate|拒绝，否认|v
+rigidity|僵硬，刚性; 死板，不灵活|o;o
+standpoint|观点，立场|o
+startup|初创企业，新公司|o
+stubbornly|固执地，顽固地|o
+unmarried|未婚的|o
+wiggle|扭动，摆动|v
+adolescence|青春期|o
+amygdala|杏仁核 (与情绪和恐惧有关的脑区)|o
+assertiveness|自信果断，敢于表达|o
+braille|盲文|o
+curator|馆长，策展人 (博物馆或收藏的管理者)|o
+deflect|使偏转，转移|v
+desolate|荒凉的，凄凉的; 孤独悲伤的，凄苦的|o;o
+developmental|发展的，发育的|o
+dune|沙丘|o
+estimation|判断，看法; 估计，估算|o;o
+ethos|精神特质，价值观 (群体的)|o
+exclamation|感叹，惊叫|o
+fidget|坐立不安，动来动去|v
+fragrant|芳香的，香的|o
+freshen|使清新，使新鲜; freshen up: 梳洗打扮|v;n
+frock|连衣裙|o
+habitable|适合居住的|o
+influenza|流行性感冒，流感|o
+intentionally|故意地，有意地|o
+litre|升 (容量单位)|o
+modesty|谦虚，谦逊; 端庄，庄重 (衣着举止)|o;o
+ointment|药膏，软膏|o
+olé|好啊! (喝彩声)|o
+pendant|吊坠，挂件|o
+redden|变红; 脸红|v;v
+repressor|阻遏蛋白 (抑制基因活性的蛋白质)|o
+residency|居住，居留; 住院医师实习期，驻留创作期 (医生或艺术家)|o;o
+retrospective|回顾的，追溯的; 回顾展 (艺术家的生平作品展)|o;o
+rhetorical|修辞的，辞令的; rhetorical question: 反问句，设问|o;n
+satin|缎子，绸缎|o
+saxophone|萨克斯管|o
+shrill|尖锐的，刺耳的|o
+sprinkle|撒，洒|v
+stillness|平静，寂静，静止|o
+sulk|生闷气，闷闷不乐|v
+sweetness|甜，甜美|o
+toddler|学步的幼儿|o
+transformational|带来巨大变化的，变革性的|o
+troupe|剧团，演出团|o
+turbine|涡轮机|o
+validity|有效性，正确性|o
+whirlwind|旋风; 旋风般的，极快的 (如 a whirlwind romance 闪电式恋爱)|o;o
+acronym|首字母缩略词 (如 NATO)|o
+appeasement|绥靖，姑息|o
+biographer|传记作者|o
+bloat|肿胀，膨胀|v
+captivity|囚禁，圈养|o
+carefree|无忧无虑的|o
+ceremonial|礼仪的，正式的|o
+contraception|避孕|o
+defunct|不复存在的，失效的|o
+disagreeable|令人不快的; 脾气坏的|o;o
+doubtful|不确定的，怀疑的; 不太可能的|o;o
+excavate|挖掘，发掘|v
+excursion|短途旅行，远足|o
+extradition|引渡|o
+factual|事实的，基于事实的|o
+fend|fend off: 抵挡，抵御; fend for oneself: 自谋生计，自己照顾自己|n;n
+freight|货物，货运|o
+frontline|前线; 第一线的 (如 frontline workers 一线工作者)|o;o
+geostrategic|地缘战略的|o
+glut|供过于求，过剩|o
+homegrown|本地种植的，本土的|o
+incorrect|错误的，不正确的|o
+indignant|愤慨的，愤愤不平的|o
+intellect|智力，才智|o
+isolationist|孤立主义的|o
+memorable|难忘的，值得纪念的|o
+midterm|(任期或学期) 中期; 中期选举 (美)|o;o
+misinformation|错误信息，误导信息|o
+monsoon|雨季 (南亚); 季风，季风雨|o;o
+mound|小山丘，土墩; 堆|o;o
+muzzle|(动物的) 口鼻部; 口套，嘴套; 枪口|o;o;o
+overcapacity|产能过剩|o
+overshadow|使黯然失色，使相形见绌; 给……蒙上阴影|v;v
+parental|父母的|o
+prominently|显眼地，突出地; 重要地|o;o
+recursively|递归地|o
+refreshment|茶点，饮料; 恢复精力|o;o
+renegotiation|重新谈判|o
+retrain|再培训，重新培训 (以从事新工作)|v
+therapeutic|治疗的，有疗效的; 放松身心的|o;o
+trafficker|非法贩子 (毒品、人口)|o
+unseen|看不见的，隐藏的|o
+valour|英勇，勇猛|o
+warhead|弹头|o
+wasteful|浪费的|o
+watchman|看守人，守夜人|o
+windfall|意外之财; 被风吹落的果子|o;o
+yeast|酵母|o
+beatboxing|口技，人声节拍|o
+broccoli|西兰花|o
+coexistence|和平共处，共存|o
+defilade|遮蔽，掩蔽 (地形提供的对敌火防护)|o
+disparate|迥然不同的，不相干的|o
+eel|鳗鱼|o
+ethereal|轻盈的，缥缈的，超凡的|o
+fingertip|指尖|o
+formulation|制定，表述 (计划、理论); 配方 (药物)|o;o
+humane|人道的，仁慈的|o
+intentional|故意的，有意的|o
+lightbulb|电灯泡|o
+luminous|发光的，夜光的|o
+malice|恶意，歹意|o
+maxim|格言，箴言|o
+measurable|可测量的; 显著的，明显的|o;o
+moist|湿润的，潮湿的|o
+mythical|神话的; 虚构的，想象的|o;o
+nicotine|尼古丁|o
+packaging|包装，包装材料|o
+regenerative|再生的，能更新的|o
+toil|辛苦劳作; 苦工，辛劳|v;o
+unimaginable|难以想象的|o
+unreal|不真实的，梦幻般的; 难以置信的 (口语)|o;o
+warship|军舰，战舰|o
+youthful|年轻的; 显得年轻的，富有朝气的|o;o
+altruism|利他主义，无私|o
+anamorph|变形图像 (从某一角度看才正常)|o
+anesthesia|麻醉|o
+attainment|成就，达到|o
+bilingual|双语的|o
+canoe|独木舟，皮划艇|o
+coastline|海岸线|o
+comedic|喜剧的，滑稽的|o
+commemoration|纪念|o
+coolly|冷静地; 冷淡地|o;o
+detach|分开，拆下|v
+dignify|使有尊严，抬高|v
+dribble|流口水; 滴下，细流; 运球 (带球)|v;v;v
+egregious|极坏的，恶劣的|o
+entreaty|恳求，请求|o
+fashionable|流行的，时髦的|o
+feral|野生的 (家养动物变野)|o
+graphical|图形的，图表的|o
+gush|涌出，喷出; 过分热情地称赞|v;v
+homage|敬意，致敬|o
+homophobia|恐同，对同性恋者的偏见|o
+interchange|交换，交流; 立交桥，互通式立交|o;o
+intuitively|凭直觉地，直观地|o
+millet|小米，粟|o
+mouthful|一口; 拗口的长词|o;o
+narrowing|变窄，缩小; 变窄 (narrow 的现在分词)|o;o
+northward|向北|o
+notification|通知，提醒|o
+pest|害虫，有害动物; 讨厌的人|o;o
+puberty|青春期|o
+pulp|浆，果肉; 通俗小说 (廉价煽情的)|o;o
+radicalization|激进化|o
+recreation|娱乐，消遣|o
+residual|剩余的，残留的|o
+staunch|忠诚的，坚定的; 止 (血)|o;v
+technologist|技术专家|o
+triad|三合一，三人组; 三合会 (中国黑社会组织)|o;o
+uncommon|罕见的，不常见的|o
+unnatural|不自然的，反常的; 人造的，做作的|o;o
+vagabond|流浪者，漂泊者|o
+wag|摇 (尾巴); 爱开玩笑的人|v;o
+whichever|任何一个; 无论哪个|o;o
+woefully|极其，可悲地 (如 woefully inadequate 严重不足)|o
+wormhole|虫洞 (假想的时空隧道); 虫蛀的洞|o;o
+zinc|锌|o
+accelerator|油门 (汽车); 加速器 (粒子)|o;o
+adhesive|胶水，黏合剂; 黏的，有黏性的|o;o
+ameliorate|改善，改进|v
+analogous|类似的，可比的|o
+appliance|家用电器 (如冰箱、烤面包机)|o
+astound|使震惊，使大吃一惊|v
+beehive|蜂箱，蜂巢|o
+biosphere|生物圈|o
+bowler|投球手 (板球); bowler hat: 圆顶礼帽|o;n
+changer|改变者 (如 game changer 改变局面的事物)|o
+cheesy|俗气的，老套煽情的; 奶酪的，有奶酪味的|o;o
+childbirth|分娩，生孩子|o
+choreography|编舞，舞蹈编排|o
+climber|攀登者，登山者; 攀缘植物|o;o
+coating|涂层，外层|o
+conserve|保护，节约; 果酱|v;o
+cultivation|耕种，种植; 培养 (技能、友谊)|o;o
+cynicism|犬儒主义，愤世嫉俗|o
+existent|存在的，现存的|o
+giver|给予者，赠与者|o
+interbank|银行间的|o
+intro|介绍，引言 (口语)|o
+loyalist|忠于统治者或政府的人，保皇派|o
+monetize|变现，使盈利|v
+orb|球体，球; 宝球 (君主持有的饰珠宝的球)|o;o
+outstretch|伸出，伸展 (常用 outstretched arms 张开的双臂)|v
+ozone|臭氧; ozone layer: 臭氧层|o;n
+photosynthesis|光合作用|o
+ramen|拉面 (日式)|o
+reactionary|反动的，保守的|o
+realist|现实主义者，务实的人; 现实主义艺术家或作家|o;o
+reissue|重新发行; 再版，新版本|v;o
+resonance|洪亮的回响，共鸣; 意义，感染力|o;o
+resurrection|复活; 复兴|o;o
+sapiens|Homo sapiens: 智人 (现代人类)|n
+scolding|责骂，训斥; 责骂 (scold 的现在分词)|o;o
+smoker|吸烟者|o
+squarely|直接地，正面地; 完全地|o;o
+stymie|阻碍，妨碍|v
+telomere|端粒 (染色体末端的保护结构)|o
+unanimous|一致同意的|o
+undocumented|无记录的; 无合法证件的 (移民)|o;o
+attendee|与会者，出席者|o
+backer|支持者，资助者|o
+blurry|模糊的，不清楚的|o
+classify|分类，归类|v
+demographics|人口统计数据|o
+devotee|热衷者，爱好者|o
+discrepancy|差异，不一致|o
+dormitory|大寝室 (多人共住); 学生宿舍 (美)|o;o
+downplay|淡化，轻描淡写|v
+enclosure|围场，围起来的地方; 附件 (随信附寄的文件)|o;o
+endpoint|终点; 端点，终端设备 (网络)|o;o
+executioner|刽子手|o
+haughty|傲慢的，高傲的|o
+helper|帮手，助手|o
+inconvenient|不方便的，麻烦的|o
+knave|无赖，恶棍; 杰克 (纸牌中的 J)|o;o
+laborer|体力劳动者，工人|o
+launcher|发射器 (火箭); 启动器 (启动应用的程序)|o;o
+legation|公使馆 (低于大使馆的外交机构)|o
+metallic|金属的，金属般的|o
+miniature|微型的，小型的; 缩样，微型画|o;o
+plentiful|丰富的，充足的|o
+procurator|代理人，代诉人; 总督 (古罗马)|o;o
+recruitment|招聘，招募|o
+reliably|可靠地|o
+satisfactory|令人满意的，够好的|o
+serotonin|血清素 (与情绪有关的脑内化学物质)|o
+subdivision|细分，再分; 住宅区 (开发的)|o;o
+tumult|喧哗，骚乱|o
+undemocratic|不民主的|o
+unnoticed|未被注意的|o
+valet|男仆，贴身侍从; 代客泊车员|o;o
+vegetation|植被，植物|o
+webpage|网页|o
+wring|拧，绞 (挤出水); wring one's hands: 绞手 (表示痛苦焦虑)|v;n
+ail|困扰，使生病|v
+allege|声称，指控 (无证据地)|v
+ancestral|祖先的，祖传的|o
+antidepressant|抗抑郁药|o
+auditorium|礼堂，会堂|o
+bacterium|细菌 (单个)|o
+bewilderment|困惑，迷惑|o
+blatant|明目张胆的，公然的|o
+bribery|行贿，受贿|o
+budge|稍微移动，挪动; 改变主意，让步|v;v
+citadel|城堡，要塞|o
+coercive|强制的，胁迫的|o
+coil|圈，线圈; 盘绕，卷|o;v
+coordinator|协调人，组织者|o
+deficient|缺乏的，不足的|o
+dissatisfaction|不满|o
+divergent|不同的，分歧的|o
+etcetera|等等|o
+fore|to the fore: 到显著位置; 前部，前面|n;o
+fortification|防御工事，堡垒; 加强，强化|o;o
+gala|盛会，庆典|o
+garland|花环|o
+grub|食物 (口语); 幼虫|o;o
+holdout|拒不让步的人，坚持者|o
+immoral|不道德的，邪恶的|o
+impersonate|冒充，假扮 (他人)|v
+interwar|两次世界大战之间的|o
+jeopardy|危险 (如 in jeopardy 处于危险中)|o
+knowhow|实际知识，技术诀窍|o
+languish|受苦，被冷落; 衰弱，萎靡|v;v
+lavish|慷慨的，奢华的; 慷慨给予，大量花费|o;v
+legality|合法性|o
+librarian|图书管理员|o
+magnify|放大|v
+malicious|恶意的，存心伤害的|o
+mammoth|巨大的，庞大的; 猛犸象|o;o
+miscalculation|误算，判断失误|o
+mycelium|菌丝体|o
+ohhh|哦! (拖长音，表示明白或惊讶)|o
+pane|窗玻璃|o
+parliamentarian|议员|o
+progression|发展，进展|o
+promoter|主办人，组织者 (活动); 倡导者，推动者 (思想)|o;o
+quip|俏皮话，妙语; 说俏皮话，打趣|o;v
+recurrent|反复出现的，周期性的|o
+segregate|隔离，分开 (尤指种族隔离)|v
+sentry|哨兵，岗哨|o
+shipyard|造船厂|o
+spontaneously|自发地，不由自主地|o
+stewardship|管理，看管|o
+suffragette|妇女参政论者 (20世纪初争取选举权的女性)|o
+tycoon|大亨，巨头|o
+unreliable|不可靠的|o
+victorious|胜利的，获胜的|o
+weighing|称重，权衡 (weigh 的现在分词)|o
+airstrike|空袭|o
+applicable|适用的，相关的|o
+attributable|可归因于……的，由……引起的|o
+bandwidth|带宽; 精力，脑力 (口语)|o;o
+besiege|围攻，包围; 纷纷提出 (请求)，使应接不暇|v;v
+blight|植物病害，枯萎病; 祸害，破坏因素|o;o
+cavity|腔，洞; 蛀牙洞|o;o
+diffuse|扩散，传播; 分散的，漫射的|v;o
+digitally|以数字方式|o
+divinity|神性; 神，神明; 神学|o;o;o
+domino|多米诺骨牌; domino effect: 多米诺效应，连锁反应|o;n
+enthusiastically|热情地，热心地|o
+equate|等同，同等看待|v
+femme|femme fatale: 蛇蝎美人，致命女人|n
+feud|长期不和，世仇|o
+grader|评分人，阅卷人; ……年级学生 (如 fifth grader 五年级学生)|o;o
+greasy|油腻的，沾满油污的|o
+hearty|热情的，衷心的; 丰盛的 (饭菜)|o;o
+inflame|激怒，使加剧; 使发炎，使红肿|v;v
+insignificant|无关紧要的，微不足道的|o
+internship|实习，实习期|o
+invaluable|极有用的，无价的|o
+latch|门闩，插销; latch onto: 缠住，抓住不放|o;n
+loosening|松开，放松 (loosen 的现在分词)|o
+mag|杂志 (口语)|o
+mutualization|风险或成本共担|o
+odour|气味|o
+overload|使超载，使负担过重; 过多，超负荷|v;o
+pollutant|污染物|o
+pristine|崭新的，原始状态的，未受破坏的|o
+provocative|挑衅的，煽动性的; 挑逗的，性感的|o;o
+reestablish|重建，恢复|v
+reflective|深思的，沉思的; 反光的|o;o
+revel|陶醉于，尽情享受 (revel in); 狂欢，作乐|v;v
+reverence|崇敬，敬畏|o
+rugged|崎岖的，多岩石的; 粗犷的，强健的|o;o
+scalable|可扩展的，可扩容的|o
+skiff|小艇，轻舟|o
+suicidal|想自杀的; 极其危险的，自取灭亡的|o;o
+taker|接受者 (如 risk-taker 敢于冒险的人; any takers? 有人要吗?)|o
+tar|焦油，柏油|o
+timetable|时间表，时刻表|o
+tranquility|平静，安宁|o
+treacherous|背叛的，不忠的; 危险的|o;o
+uncomfortably|不舒服地，不自在地|o
+uplift|抬起，振奋; 提高，鼓舞|v;o
+vie|竞争，争夺 (vie for)|v
+wasp|黄蜂|o
+anyplace|任何地方|o
+bashing|猛烈抨击; 猛击 (bash 的现在分词)|o;o
+bridle|马笼头; 生气，恼怒|o;v
+cello|大提琴|o
+cerebral|理智的，重智力的; 大脑的|o;o
+circumstantial|依据情况推断的 (如 circumstantial evidence 间接证据)|o
+clockwise|顺时针方向|o
+credibly|可信地|o
+cyclone|气旋，旋风|o
+dearth|缺乏，短缺|o
+denomination|教派，宗派; 面值 (硬币或纸币)|o;o
+fertilize|使肥沃，使受精; 施肥|v;v
+foil|箔，金属薄片; 阻止，挫败; 陪衬，衬托者|o;v;o
+graffito|涂鸦 (单个)|o
+grope|摸索; 猥亵，咸猪手|v;v
+grossly|极其，严重地|o
+hermit|隐士|o
+homesick|想家的，思乡的|o
+honeybee|蜜蜂|o
+illustrious|著名的，杰出的|o
+implosion|内爆，向内坍塌|o
+ingenious|巧妙的，有独创性的|o
+issuer|发行机构 (股票、卡)|o
+jobless|失业的|o
+lapse|失效，过期; 陷入，逐渐进入; 小过失，间断|v;v;o
+literal|字面的，逐字的|o
+millisecond|毫秒|o
+mite|螨虫; 小孩，小家伙; a mite: 有点，稍微|o;o;n
+monumental|巨大的，意义重大的|o
+mundane|平凡的，乏味的|o
+mythological|神话的|o
+obstinate|固执的，倔强的|o
+ouster|罢免，赶下台|o
+perceptual|知觉的，感知的|o
+pore|毛孔; pore over: 仔细研读|o;n
+pornographic|色情的|o
+quatrain|四行诗|o
+rapidity|迅速，快速|o
+reassurance|安慰，消除疑虑|o
+referee|裁判; 推荐人，证明人|o;o
+remarry|再婚|v
+rim|边缘，边沿 (杯子、轮子)|o
+seminal|影响深远的，开创性的|o
+spectacularly|壮观地，惊人地|o
+summation|总结，概括; 求和，总计|o;o
+symmetrical|对称的|o
+televise|电视播放，转播|v
+tertiary|第三的，第三级的; 高等教育的|o;o
+thirteenth|第十三|o
+tweak|微调，稍作调整; 拧，扭 (捏住)|v;v
+unease|不安，忧虑|o
+unprepared|没准备好的|o
+unrelated|无关的，不相关的|o
+validate|证实，使生效; 认可，肯定 (情感)|v;v
+vomiting|呕吐; 呕吐 (vomit 的现在分词)|o;o
+washroom|洗手间，厕所|o
+westward|向西|o
+whataboutism|“那你呢”主义 (以指责别人的错误回应批评)|o
+workpiece|工件|o
+abate|减弱，减退|v
+appointee|被任命者|o
+atheism|无神论|o
+averse|反对的，不愿意的 (averse to)|o
+bluntly|直截了当地，直率地|o
+boredom|无聊，厌倦|o
+bottleneck|瓶颈|o
+buildup|逐渐增加，积聚|o
+caliphate|哈里发国|o
+communicable|可传染的 (疾病)|o
+contingency|可能发生的事，意外情况; contingency plan: 应急计划，备用方案|o;n
+convertibility|可兑换性 (货币)|o
+coping|应对，处理 (困难); 应对 (cope 的现在分词)|o;o
+counterweight|平衡重，配重|o
+diagnostics|诊断 (找出故障或疾病的检测)|o
+dispel|驱散，消除 (恐惧、疑虑)|v
+encircle|包围，环绕|v
+falsehood|谎言; 虚假，不真实|o;o
+freshly|新近，刚刚|o
+glitch|小故障，小毛病|o
+ideologically|在意识形态上|o
+imperialist|帝国主义的|o
+implicate|牵连，表明……与 (罪行) 有关|v
+inadvertently|无意中，不小心|o
+intangible|无形的，难以界定的|o
+interlocutor|对话者，交谈者|o
+keyhole|钥匙孔|o
+laissez|laissez-faire: 自由放任政策，不干涉|n
+logistical|后勤的，实际安排的|o
+malign|诽谤，中伤; 有害的，恶意的|v;o
+momentous|重大的，极其重要的|o
+oxide|氧化物|o
+paraphrase|释义，换句话说; 改述，意译|v;o
+perilous|危险的|o
+premia|premium 的复数 (保费、溢价)|o
+questioner|提问者|o
+raspberry|覆盆子，树莓; 伸舌头发出的嘘声 (表示嘲弄)|o;o
+rebuke|严厉斥责; 指责，批评|v;o
+recapture|重新夺回，再次捕获; 重温，再现 (某种感觉)|v;v
+relinquish|放弃，交出|v
+renege|违背，食言 (承诺)|v
+saith|说 (与 he、she、it 连用，= says)|f3s
+seductive|诱人的，性感的|o
+seventeenth|第十七|o
+shortsighted|目光短浅的; 近视的|o;o
+showdown|摊牌，最后较量|o
+signify|意味着，表示|v
+sixteenth|第十六|o
+sociologist|社会学家|o
+stellar|出色的，一流的; 恒星的，星星的|o;o
+triumphant|胜利的，得意洋洋的|o
+undesirable|不受欢迎的，不想要的|o
+unjust|不公正的，不公平的|o
+unnecessarily|不必要地|o
+watermelon|西瓜|o
+agility|敏捷，灵活|o
+antigen|抗原|o
+backseat|后座 (汽车); take a backseat: 退居次要地位|o;n
+campfire|篝火|o
+caretaker|看管人，看护者; 临时的 (如 caretaker government 看守政府)|o;o
+cartilage|软骨|o
+childcare|托儿，儿童看护|o
+cognition|认知|o
+colonize|殖民，在……建立殖民地|v
+decentralization|分权，权力下放|o
+deprivation|匮乏，缺乏必需品; 困苦，贫困|o;o
+dilute|稀释，冲淡|v
+dresser|梳妆台，五斗柜; 穿着……的人 (如 a smart dresser 衣着讲究的人)|o;o
+dumbass|蠢货，傻瓜 (口语，粗俗)|o
+enhancement|提高，增强|o
+evoke|唤起，引起 (回忆)|v
+exorbitant|过高的，离谱的 (价格)|o
+expanse|广阔的区域，一大片|o
+extrovert|性格外向的人|o
+fluent|流利的，流畅的|o
+forecaster|预报员，预测者 (天气)|o
+forsake|抛弃，遗弃|v
+frigate|护卫舰|o
+hygiene|卫生|o
+insignia|徽章，标志|o
+lessen|减少，减轻|v
+mausoleum|陵墓|o
+navigator|领航员，导航员|o
+oppressive|压迫的，暴虐的; 沉闷的，令人窒息的|o;o
+parasitic|寄生的|o
+persuasion|说服，劝说; 信仰，派别|o;o
+pigment|色素，颜料|o
+plotting|密谋，策划; 策划，绘制 (plot 的现在分词)|o;o
+pogrom|有组织的屠杀 (针对少数群体)|o
+predictive|预测性的，能预测的|o
+rectangular|长方形的，矩形的|o
+repentance|悔改，忏悔|o
+repetitive|重复的，单调乏味的|o
+roil|搅动，扰乱|v
+scruple|顾虑，良心上的不安 (常用 scruples)|o
+sharpen|削尖，磨快|v
+snapshot|快照，抓拍照片; 简要概况|o;o
+stabilizer|稳定器，稳定装置|o
+standstill|停顿，停滞|o
+stupefy|使惊呆，使发愣|v
+sturdy|结实的，坚固的|o
+subconsciously|下意识地，潜意识地|o
+subvert|颠覆，破坏|v
+temporal|时间的; 世俗的，非宗教的|o;o
+topper|大礼帽; 顶部饰物，添加在顶上的东西|o;o
+unproductive|无成效的，徒劳的|o
+vacancy|空缺，空职; 空房|o;o
+visceral|发自内心的，本能的|o
+wedge|楔子，三角块; 楔入，挤进|o;v
+yearly|每年的，一年一度的|o
+anarchy|无政府状态，混乱|o
+audacity|大胆，厚颜无耻|o
+axle|车轴|o
+bereaved|失去亲人的|o
+biologically|在生物学上|o
+bipolar|两极的; 患双相情感障碍的|o;o
+calibrate|校准，精确调整|v
+carbohydrate|碳水化合物|o
+chiefly|主要地|o
+chopstick|筷子|o
+choreograph|编舞; 精心安排|v;v
+clergy|神职人员|o
+coherence|连贯性，条理性|o
+confrontational|好对抗的，挑衅的|o
+dealings|往来，交易|o
+demonize|妖魔化|v
+deposition|证词，书面证言; 罢免，废黜|o;o
+dogma|教条，教义|o
+expressive|富于表现力的，表情丰富的|o
+fig|无花果|o
+foothill|山麓小丘|o
+goddamned|该死的，可恶的 (粗俗的咒骂语)|o
+godmother|教母|o
+gorge|峡谷; 狼吞虎咽|o;v
+grad|毕业生 (口语)|o
+hijack|劫持 (车辆、飞机); 挟持，利用 (为己谋私)|v;v
+holosuite|全息模拟室 (科幻作品中)|o
+improvisation|即兴创作，即兴表演|o
+infernal|地狱的; 可恶的，讨厌的|o;o
+insurmountable|无法克服的|o
+internationalism|国际主义，国际合作|o
+intolerable|无法忍受的|o
+lawman|执法官，警长|o
+lifeline|救生索; 命脉，生命线|o;o
+mechanically|机械地，用机器; 机械地，不假思索地|o;o
+monastic|修道士的，修道院的|o
+nascent|新生的，初期的|o
+nationalization|国有化|o
+neoliberalism|新自由主义|o
+newsletter|简报，通讯|o
+nomad|游牧民，流浪者|o
+numerical|数字的，数值的|o
+plural|复数 (形式)|o
+posthumous|死后的|o
+posturing|装腔作势; 摆姿势 (posture 的现在分词)|o;o
+preposterous|荒谬的|o
+principally|主要地|o
+propulsion|推进，推动力|o
+prospective|预期的，潜在的|o
+randomize|随机化，随机排列|v
+realistically|现实地，实际地; 逼真地|o;o
+replica|复制品|o
+revisionist|修正主义的|o
+sectoral|部门的，行业的|o
+simulator|模拟器 (如 flight simulator 飞行模拟器)|o
+socket|插座，插口; 窝 (关节窝、眼窝)|o;o
+stairwell|楼梯井|o
+subspecies|亚种|o
+symbolize|象征，代表|v
+synonymous|同义的; 密切相关的|o;o
+tandem|in tandem: 协同，同时; 双人自行车|n;o
+thunderclap|雷声，霹雳|o
+unfavorable|不利的，负面的|o
+wetness|潮湿|o
+abusive|辱骂的; 虐待的，暴力的|o;o
+adversely|不利地，有害地|o
+arbitration|仲裁|o
+backstory|背景故事 (人物的前史)|o
+charisma|魅力，感召力|o
+commuter|通勤者|o
+complacent|自满的，掉以轻心的|o
+contemplation|沉思，深思|o
+crores|克若尔 (crore 的复数，印度英语中的千万)|o
+cruiser|巡洋舰; 游艇，汽艇; 巡逻警车 (美)|o;o;o
+deceit|欺骗，欺诈|o
+def|肯定，一定 (口语)|o
+deregulate|解除管制，放宽管制|v
+dipshit|白痴，蠢货 (口语，粗俗)|o
+eater|吃……的人，食者|o
+epicenter|震中; 中心 (活动的)|o;o
+erection|勃起; 建造，建筑物|o;o
+exalt|赞扬，颂扬; 提拔，提升|v;v
+eyeglass|单片眼镜; eyeglasses: 眼镜 (美)|o;n
+ferment|发酵; 骚动，动荡|v;o
+filial|子女的 (如 filial duty 孝道)|o
+grating|刺耳的，令人烦躁的; 金属格栅，铁栅栏|o;o
+grumpy|脾气暴躁的|o
+hyperinflation|恶性通货膨胀|o
+impartial|公正的，中立的|o
+incomprehensible|无法理解的|o
+infighting|内讧，内斗|o
+instill|逐渐灌输 (思想)|v
+labium|阴唇，唇状褶皱 (解剖学)|o
+methyl|甲基|o
+monopolist|垄断者|o
+narration|叙述，讲述; 解说，旁白|o;o
+pounce|猛扑，突然袭击|v
+reassign|重新分配，调任|v
+reptile|爬行动物 (如蛇、蜥蜴)|o
+schoolgirl|女学生|o
+seethe|怒火中烧，暗自发怒; 沸腾，涌动|v;v
+slur|诋毁，侮辱; 口齿不清地说|o;v
+snuff|掐灭，熄灭 (蜡烛); 鼻烟; snuff out: 扼杀，结束|v;o;n
+sooo|好……，太…… (拖长音以示强调) (口语，= so)|o
+sorcerer|男巫，巫师|o
+spacious|宽敞的|o
+specialization|专业化，专攻|o
+speedily|迅速地，快速地|o
+spinster|老姑娘，大龄未婚女性|o
+steadfast|坚定的，忠诚的|o
+subtree|子树 (计算机)|o
+temperate|温和的 (气候); 有节制的，适度的|o;o
+thaw|融化，解冻; 变得友好，缓和|v;v
+unworthy|不值得的，不配的|o
+urn|骨灰瓮; 大茶壶 (盛热饮的大容器)|o;o
+weirdly|奇怪地，古怪地|o
+yearn|渴望，向往|v
+abominable|可恶的，糟透的|o
+adoptive|收养的 (如 adoptive parents 养父母)|o
+anterior|前部的，前面的|o
+antics|滑稽的举动，胡闹|o
+apiece|每个，各|o
+aquatic|水生的，水上的|o
+armament|武器，军备; 武装，备战|o;o
+auditory|听觉的|o
+bleat|咩咩叫; 抱怨，诉苦|v;v
+booster|增强剂，助推器 (信心、动力); 加强针 (疫苗)|o;o
+brig|双桅帆船; 船上的禁闭室|o;o
+characterise|描述……的特征; 是……的特点|v;v
+classifier|分类者，分类器|o
+commemorative|纪念的|o
+compost|堆肥|o
+cycling|骑自行车; 循环 (cycle 的现在分词)|o;o
+dispense|分发，提供; dispense with: 免除，省去|v;n
+dozy|昏昏欲睡的; 迟钝的，笨的 (口语)|o;o
+egalitarian|平等主义的|o
+eggbeater|打蛋器|o
+ellipse|椭圆|o
+embroidery|刺绣|o
+eunuch|太监，宦官|o
+finalize|完成，最后确定|v
+guarantor|担保人|o
+harmonization|协调，统一|o
+hearth|壁炉底面; 家，家庭|o;o
+hurrah|好哇，万岁|o
+imitation|模仿，仿制品; 赝品，假货|o;o
+inconceivable|不可想象的|o
+inexpensive|便宜的，不贵的|o
+informally|非正式地，随意地|o
+internalize|内化，吸收接受|v
+invert|颠倒，倒置|v
+lingerie|女士内衣|o
+milligram|毫克|o
+misconception|误解，错误观念|o
+neocortex|新皮质 (大脑外层，负责高级思维)|o
+nestle|舒适地安顿，依偎|v
+nobleman|贵族|o
+orthogonal|正交的，直角的; 互不相关的，独立的|o;o
+perennial|长期的，多年的; 多年生植物|o;o
+phage|噬菌体|o
+pleasantly|愉快地，令人愉快地|o
+ponytail|马尾辫|o
+porcelain|瓷器，瓷|o
+principled|有原则的，坚持道德原则的|o
+prowess|高超技艺，本领|o
+resurgent|复苏的，再度兴起的|o
+retract|撤回，收回 (言论); 缩回，收回|v;v
+rodent|啮齿动物 (如老鼠)|o
+seafood|海鲜|o
+silhouette|剪影，黑色轮廓|o
+sling|扔，抛; 吊带，悬带 (托手臂); 投石器，弹弓|v;o;o
+softness|柔软，柔和|o
+supplant|取代，替代|v
+sus|可疑的 (口语)|o
+synchronize|使同步|v
+synthesizer|合成器 (电子键盘乐器)|o
+thicket|灌木丛|o
+trout|鳟鱼|o
+turnover|人员流动率 (员工); 营业额; 半圆形酥皮馅饼|o;o;o
+unintelligible|无法理解的，难懂的|o
+unman|使丧失勇气，使气馁|v
+uproar|骚动，哗然|o
+upswing|好转，上升|o
+wildcat|野猫; wildcat strike: 未经工会批准的突然罢工|o;n
+wiring|电线线路，布线|o
+wobble|摇晃，摇摆|v
+abnormal|不正常的，反常的|o
+adherent|拥护者，追随者|o
+advert|广告|o
+alienation|疏离感，孤立感; 疏远，隔阂|o;o
+amass|积累，聚集|v
+amphitheatre|圆形露天剧场|o
+balk|犹豫，不愿 (balk at)|v
+barren|贫瘠的，不毛的|o
+bicker|争吵，拌嘴|v
+bladder|膀胱|o
+blather|胡扯，喋喋不休|v
+camaraderie|同志情谊，友情|o
+chestnut|栗子; 红褐色的; old chestnut: 陈词滥调，老掉牙的故事或笑话|o;o;n
+cholesterol|胆固醇|o
+cohesive|团结的，有凝聚力的|o
+commensurate|相称的，成比例的|o
+confluence|汇流，汇合处 (河流); 汇合，汇聚|o;o
+countryman|同胞; 乡下人|o;o
+creditworthiness|信誉，信用可靠度|o
+criminalize|使非法化，将……定为犯罪|v
+cumbersome|笨重的，不便的|o
+deliverance|解救，拯救|o
+dislocation|脱臼; 混乱，扰乱|o;o
+eco|生态的，环保的 (如 eco-friendly 环保的)|o
+expressionist|表现主义艺术家|o
+fanatic|狂热者，狂热分子|o
+firefighter|消防员|o
+fluctuate|波动，起伏|v
+fortify|加强，强化|v
+freelance|自由职业的|o
+gallows|绞刑架|o
+genomics|基因组学|o
+grassland|草原，草地|o
+haze|雾霭，薄雾; 迷糊，困惑|o;o
+hedgehog|刺猬|o
+holistic|整体的，全面的|o
+horrid|可怕的，讨厌的|o
+horseman|骑手，骑马的人|o
+illiquid|非流动性的，难以变现的|o
+incipient|初期的，刚开始的|o
+infer|推断，推论|v
+intrinsic|固有的，本质的|o
+leukemia|白血病|o
+marginalization|边缘化|o
+melodic|悦耳的，有旋律的|o
+mindful|留心的，有意识的|o
+nourish|滋养，养育|v
+nucleotide|核苷酸|o
+pancreatic|胰腺的|o
+persuasive|有说服力的|o
+pouch|小袋子; 育儿袋 (袋鼠)|o;o
+relegate|降级，贬低|v
+resumption|恢复，重新开始|o
+revamp|翻新，改进|v
+salient|显著的，最重要的|o
+schoolchild|学童，小学生|o
+segregation|隔离 (尤指种族隔离)|o
+sickly|多病的，病弱的; 甜得发腻的|o;o
+speedy|快速的，迅速的|o
+subsistence|勉强维持生活，生存|o
+sustainably|可持续地|o
+tantamount|等同于 (tantamount to)|o
+tapir|貘|o
+thirdly|第三|o
+tinker|小修小补，摆弄 (tinker with); 走街串巷的补锅匠|v;o
+unwind|放松; 解开，展开 (缠绕的东西)|v;v
+uterine|子宫的|o
+ventricle|心室; 脑室|o;o
+vexation|恼怒，烦恼|o
+watchdog|看门狗; 监督机构 (监管公司或政府)|o;o
+workable|可行的，切实可用的|o
+wrongly|错误地; 不公正地，冤枉地|o;o
+abode|住所，住处|o
+acquiesce|默许，顺从|v
+agora|集会广场 (古希腊的公共广场)|o
+authorization|授权，批准|o
+breech|枪膛后部，后膛; breech birth: 臀位分娩|o;n
+carving|雕刻品，雕像; 切肉 (切分熟肉)|o;o
+chronically|长期地，慢性地|o
+clinician|临床医生|o
+coexist|共存，并存|v
+confound|使困惑，难住; 证明……错误|v;v
+convex|凸的，凸面的|o
+counterintuitive|违反直觉的|o
+decidedly|明确地，毫无疑问地|o
+decimate|大量杀死，大批毁灭|v
+disarm|解除武装，缴械; 使消除敌意，使折服|v;v
+empathize|同情，产生共鸣|v
+enthusiast|爱好者，热衷者|o
+equator|赤道|o
+fixate|执迷，专注 (fixate on)|v
+goldfish|金鱼|o
+gon|(用于 gonna) 将要，打算 (口语)|o
+handler|驯兽员，训犬员; 经纪人，幕后顾问|o;o
+industrialist|实业家，工业家|o
+intrusive|侵扰的，侵犯隐私的|o
+juggle|抛接杂耍; 同时应付 (多项任务)|v;v
+kimono|和服|o
+lotta|很多的 (口语，= a lot of)|o
+lullaby|摇篮曲|o
+mangrove|红树 (生长在海岸沼泽的热带树木)|o
+marmot|土拨鼠，旱獭|o
+measle|(用于 measles) 麻疹|o
+mediocre|平庸的，一般的|o
+mod|模组，改装 (游戏或设备，口语); 版主 (网络论坛，口语); 摩登派成员 (20世纪60年代英国青年风格)|o;o;o
+moisture|潮气，湿气|o
+multimedia|多媒体|o
+nanometer|纳米|o
+needy|贫困的，需要帮助的; 黏人的，总需要关注的|o;o
+neon|氖 (用于霓虹灯); 荧光色的，极鲜艳的|o;o
+outskirts|郊区，市郊|o
+pederast|娈童者|o
+prehistoric|史前的|o
+propagation|传播，传递; 繁殖 (植物)|o;o
+propensity|倾向，习性|o
+proverb|谚语，格言|o
+rearrange|重新排列，重新安排|v
+rebellious|叛逆的，反抗的|o
+rediscover|重新发现|v
+restorative|恢复健康的，恢复精力的|o
+scattering|少量，零星; 散布，分散|o;o
+scythe|长柄大镰刀|o
+sorely|极其，非常|o
+tic|抽搐 (不自主的); 习惯性怪癖|o;o
+transactional|交易的，交易相关的; 纯粹利益交换的|o;o
+trustworthy|值得信赖的，可靠的|o
+unwise|不明智的，愚蠢的|o
+alteration|改变，变动; 修改 (衣服)|o;o
+antisemitic|反犹太的|o
+arbitrarily|任意地，随意地|o
+bah|哼，呸 (表示轻蔑或不耐烦)|o
+baritone|男中音|o
+bastion|堡垒，捍卫者|o
+birthplace|出生地|o
+blaxploitation|黑人剥削电影 (20世纪70年代面向黑人观众、以黑人演员为主的电影)|o
+chlorine|氯，氯气|o
+cleavage|乳沟; 分裂，分歧|o;o
+combustion|燃烧|o
+considerate|体贴的，考虑周到的|o
+contraceptive|避孕的; 避孕工具，避孕药|o;o
+cyanide|氰化物|o
+detainee|被拘留者|o
+dialog|对话，谈话; 对话框 (计算机)|o;o
+disapprove|不赞成，反对|v
+disengagement|脱离，退出|o
+disobedience|不服从，违抗|o
+ecocide|生态灭绝，大规模破坏自然环境|o
+elastic|有弹性的，弹性的; 松紧带，弹性材料|o;o
+eminent|著名的，杰出的|o
+epoch|时代，纪元|o
+etymology|词源|o
+fern|蕨类植物|o
+flout|公然违抗 (规则)|v
+foment|煽动，挑起 (事端)|v
+fowl|家禽|o
+gaiety|欢乐，快活|o
+handout|救济品，施舍; 讲义，传单|o;o
+hardcore|极端的，激烈的; 最忠实的，铁杆的; 色情露骨的|o;o;o
+husky|沙哑的，低沉的 (嗓音); 哈士奇，雪橇犬; 高大强壮的|o;o;o
+imperil|危及，使陷入危险|v
+internationalization|国际化; 国际化 (软件适配多种语言)|o;o
+intestine|肠|o
+invalid|无效的，不可接受的; 病弱者，伤残者|o;o
+lightweight|轻的，轻量的; 无足轻重的人|o;o
+loathe|厌恶，憎恨|v
+managerial|管理的，经理的|o
+masculinity|男子气概|o
+midway|中途，在中间|o
+mixer|搅拌机; 调酒用饮料; 联谊会，社交聚会|o;o;o
+mol|摩尔 (物质的量的单位)|o
+munition|军火，弹药 (常用 munitions)|o
+mystical|神秘的，玄妙的|o
+outnumber|在数量上超过|v
+outpost|前哨，边远据点|o
+pendulum|钟摆|o
+persecute|迫害|v
+pitfall|隐患，陷阱|o
+playlist|播放列表|o
+posse|民防团 (治安官召集的一群人); 一帮朋友 (口语)|o;o
+sayonara|再见 (口语)|o
+sham|假象，假装|o
+slab|厚板，厚片 (石头、肉等)|o
+sleek|光滑发亮的; 时髦的，流线型的|o;o
+smut|淫秽内容; 煤烟颗粒|o;o
+soybean|大豆，黄豆|o
+stepfather|继父|o
+teary|含泪的，快哭的|o
+theologian|神学家|o
+variously|不同地，各种各样地|o
+vineyard|葡萄园|o
+watcher|观察者，旁观者|o
+waterway|水道，航道|o
+wrestler|摔跤运动员|o
+aaagh|啊! (痛苦、恐惧或沮丧的叫声)|o
+acknowledgment|承认，认可; 致谢 (书中)|o;o
+animosity|敌意，憎恶|o
+ante|赌注 (发牌前下的); up the ante: 提高赌注，加码|o;n
+appendix|附录; 阑尾|o;o
+blacksmith|铁匠|o
+boulder|巨石，大圆石|o
+boundless|无限的，无边无际的|o
+brawl|斗殴，打架; 大声争吵，打架斗殴|o;v
+carnage|大屠杀，残杀|o
+caviar|鱼子酱|o
+centric|以……为中心的 (常用于复合词)|o
+chauvinism|沙文主义 (认为本群体或本性别优越)|o
+climax|高潮，顶点; 性高潮|o;o
+coitus|性交|o
+coupla|几个，两三个 (口语，= couple of)|o
+cozzers|警察 (口语)|o
+customize|定制，按个人需要改制|v
+decry|公开谴责|v
+deletion|删除, 抹去|o
+destabilization|使不稳定, 动摇|o
+earthly|尘世的, 人间的; no earthly: 根本不可能的|o;n
+electro|电子舞曲|o
+eligibility|资格, 合格|o
+emergent|新兴的, 正在形成的|o
+enchanter|巫师, 魔法师|o
+epidemiology|流行病学|o
+favourable|赞同的; 有利的|o;o
+fook|他妈的 (口语, = fuck)|o
+forearm|前臂|o
+frenzy|狂热, 疯狂|o
+gamers|游戏玩家 (gamer 的复数)|o
+harmonious|和睦的, 融洽的; 悦耳的|o;o
+headphone|耳机 (通常用 headphones)|o
+heartbroken|伤心欲绝的|o
+hostel|青年旅舍, 廉价旅店|o
+immortality|永生; 不朽的声名|o;o
+incidentally|顺便说一句|o
+inconsistency|不一致, 矛盾|o
+initiation|入会, 加入; 开始|o;o
+internment|拘禁 (未经审判)|o
+interventionist|主张干预的 (对经济或外国)|o
+jurist|法学家|o
+lipid|脂质 (生物)|o
+mercantilist|重商主义的|o
+microfinance|小额信贷|o
+microorganism|微生物|o
+midday|中午|o
+militarize|军事化|v
+moderately|适度地, 中等程度地|o
+modestly|谦虚地; 稍微, 适度地|o;o
+mystic|神秘主义者; 神秘的|o;o
+noticeable|显而易见的|o
+obedience|服从, 顺从|o
+obstetric|产科的|o
+overshoot|超过 (目标)|v
+parlance|说法, 术语|o
+pinpoint|精确找出; 针尖, 极小的点|v;o
+piracy|海盗行为; 盗版|o;o
+precedence|优先; take precedence: 优先, 更重要|o;n
+predictability|可预测性|o
+prerogative|特权|o
+prologue|序幕, 开场白|o
+proverbial|俗话所说的|o
+quadruple|使成四倍; 四倍的|v;o
+quell|镇压, 平息; 使平静|v;v
+realignment|重新调整, 重新组合|o
+refute|驳斥, 反驳|v
+scrutinize|仔细审查|v
+semblance|表象, 一点迹象|o
+soundly|酣然 (指睡眠); 彻底地; 明智地|o;o;o
+sparse|稀疏的, 稀少的|o
+stampede|惊逃, 蜂拥; 惊慌奔逃|o;v
+sympathize|同情 (sympathize with); 赞同 (sympathize with)|v;v
+tatter|破布片; in tatters: 破烂不堪, 毁了|o;n
+taxis|出租车 (taxi 的复数)|o
+tendril|卷须; 一缕卷发|o;o
+tragically|悲惨地, 不幸地|o
+turnaround|好转, 扭转; 周转时间|o;o
+typeface|字体|o
+underdeveloped|发育不全的; 欠发达的|o;o
+unreleased|未发行的, 未公开的|o
+vapor|蒸汽, 气体|o
+vitality|活力, 生命力|o
+wager|赌注; 打赌|o;v
+wench|少女, 女仆|o
+wetland|湿地, 沼泽|o
+wraith|幽灵|o
+yous|你们 (口语, = you)|f2s2p
+accede|同意 (accede to); 就任 (职位)|v;v
+addictive|使人上瘾的|o
+arthritis|关节炎|o
+automaton|机器人, 自动机械; 机械行事的人|o;o
+batsman|击球手 (板球)|o
+chariot|双轮马车, 战车|o
+chez|在…家|o
+claret|波尔多红葡萄酒; 深红色|o;o
+clique|小圈子, 小团体|o
+conform|遵守 (规则或习俗); 符合|v;v
+counteract|抵消, 中和|v
+crackle|噼啪作响; 噼啪声|v;o
+creed|信条, 信仰|o
+cryptocurrency|加密货币|o
+depletion|耗尽, 减少|o
+derivation|起源, 来源; 推导, 派生|o;o
+doodle|涂鸦; 随手乱画|o;v
+downstream|顺流而下, 下游; 后续环节|o;o
+engraving|版画; 雕刻|o;o
+ethanol|乙醇|o
+euphoria|狂喜, 极度兴奋|o
+expatriate|侨民, 旅居国外者|o
+fourteenth|第十四|o
+gastroenteritis|肠胃炎|o
+hardcover|精装书|o
+heartland|中心地带, 腹地|o
+hijab|希贾布 (穆斯林女性头巾)|o
+inactive|不活跃的, 闲置的|o
+inflammation|炎症|o
+infuse|注入, 充满 (某种品质); 浸泡, 冲泡 (茶, 草药)|v;v
+kindle|点燃 (火); 激起 (感情)|v;v
+laud|赞美, 称赞|v
+mediation|调解|o
+mow|割 (草)|v
+pamphlet|小册子|o
+preface|序言, 前言|o
+pretense|假装, 虚伪|o
+propriety|得体, 礼节|o
+quagmire|沼泽; 困境, 泥潭|o;o
+reinstate|恢复原职|v
+remaster|重新母带处理, 重制|v
+repatriate|遣返|v
+rife|盛行的 (指坏事); rife with: 充满|o;n
+scuba|水肺, 潜水呼吸器|o
+serenity|宁静, 安详|o
+sexism|性别歧视|o
+solemnity|庄严, 庄重|o
+straddle|跨坐, 叉开腿站|v
+swoop|猛扑, 俯冲; 突袭|v;o
+talkie|有声电影 (早期)|o
+topping|浇头, 配料; 极好的 (口语)|o;o
+unwarranted|无根据的, 不必要的|o
+wad|一沓, 一卷 (纸, 钱)|o
+watery|含水多的; 淡的, 稀的|o;o
+abstain|戒除 (abstain from); 弃权|v;v
+afloat|漂浮的; 不欠债的|o;o
+ahhh|啊 (表示放松, 愉悦或恍然大悟)|o
+analytics|数据分析|o
+anew|重新, 再次|o
+apocalyptic|世界末日的; 灾难性的|o;o
+arbitrage|套利|o
+audiobook|有声书|o
+awkwardness|尴尬; 笨拙|o;o
+bazooka|火箭筒|o
+blogger|博主|o
+brightness|亮度, 光亮|o
+cashier|收银员|o
+chum|好朋友 (口语); 鱼饵|o;o
+comfy|舒服的 (口语)|o
+commoner|平民|o
+complicity|共谋, 同谋|o
+conceivable|可想象的, 可能的|o
+condescend|摆架子, 屈尊俯就|v
+contour|轮廓, 外形; 等高线|o;o
+crunchy|松脆的|o
+daybreak|黎明, 破晓|o
+digitization|数字化|o
+doublet|紧身上衣 (旧时男子穿); 成对物之一|o;o
+draught|穿堂风; 一大口 (饮料); on draught: 桶装的, 散装生啤|o;o;n
+enclave|飞地|o
+endow|捐资, 资助; endowed with: 具有 (某种品质)|v;n
+ethically|合乎道德地|o
+farmland|农田|o
+filmmaking|电影制作|o
+firewall|防火墙|o
+forestry|林业|o
+ganja|大麻 (口语)|o
+gentleness|温柔, 温和|o
+geographically|在地理上|o
+gravel|砾石, 碎石|o
+illiteracy|文盲|o
+inwardly|内心里, 暗自|o
+kowtow|卑躬屈膝, 磕头|v
+ladyship|夫人, 小姐 (对贵族女性的尊称, your ladyship)|o
+legislate|立法|v
+mortify|使羞辱, 使难堪|v
+niche|壁龛; 利基, 细分市场|o;o
+nicker|马的轻嘶声; 英镑 (口语)|o;o
+nutritional|营养的|o
+overreach|做得过头, 操之过急|v
+pander|迎合 (低级趣味)|v
+petal|花瓣|o
+philanthropic|慈善的|o
+physique|体格, 体型|o
+playbook|战术手册, 策略|o
+prematurely|过早地|o
+profess|声称; 公开表明 (信仰)|v;v
+quad|大学的方院; 四轮摩托车; 大腿肌肉 (口语)|o;o;o
+quay|码头|o
+rake|耙子; 用耙子耙; 浪荡子|o;v;o
+rant|大声抱怨, 咆哮; 激烈的长篇大论|v;o
+recombination|重组 (尤指基因)|o
+reddish|微红的|o
+regressive|倒退的; 累退的 (对穷人征税更重)|o;o
+satsang|灵修聚会 (印度宗教)|o
+seaman|海员, 水手|o
+seclude|使隔绝, 隐居|v
+secondhand|二手的; 间接的|o;o
+shaman|萨满, 巫医|o
+sophistication|老练, 精致; 复杂|o;o
+spoof|恶搞, 戏仿|o
+stronghold|要塞, 堡垒; 大本营|o;o
+subscript|下标|o
+surfer|冲浪者|o
+suspense|悬念, 紧张不安|o
+swimmer|游泳者|o
+tarnish|使失去光泽; 玷污 (名誉)|v;v
+unforgettable|难忘的|o
+ventilation|通风|o
+ventilator|呼吸机|o
+wonderfully|极好地, 非常|o
+acquit|宣告无罪; acquit oneself: 表现|v;n
+acquittal|无罪判决|o
+antagonize|使对立, 引起敌意|v
+bloodstain|血迹|o
+boomer|婴儿潮一代|o
+bootstrap|白手起家, 从零起步; 靴襻|v;o
+castaway|遭遇海难的人|o
+cinch|容易的事 (口语); 系紧|o;v
+collagen|胶原蛋白|o
+concurrently|同时|o
+condone|宽恕, 纵容 (错误行为)|v
+cordial|热情友好的; 果汁浓浆|o;o
+dispatcher|调度员|o
+estrange|使疏远 (通常用 estranged)|v
+exasperation|恼怒|o
+familiarity|熟悉, 精通; 随便, 亲昵|o;o
+flatten|使变平, 压平|v
+gait|步态|o
+grocer|食品杂货商|o
+helplessness|无助|o
+heterosexuality|异性恋|o
+hindsight|事后的认识, 后见之明|o
+hologram|全息图|o
+illusory|虚幻的, 迷惑人的|o
+impeach|弹劾|v
+implode|向内爆裂, 内爆|v
+infuriate|激怒|v
+inshallah|如果真主愿意|o
+interpolation|插入; 插值, 内插法|o;o
+intersex|间性的, 雌雄间体的|o
+interstate|州际的; 州际公路 (美国)|o;o
+login|登录; 登录名和密码|o;o
+manually|手动地, 用手|o
+mortuary|太平间|o
+mutiny|兵变, 哗变|o
+norovirus|诺如病毒|o
+olfactory|嗅觉的|o
+oneself|自己 (one 的反身代词)|o
+partake|参与; 吃, 喝 (partake of)|v;v
+picturesque|风景如画的|o
+pollinator|传粉者|o
+porno|色情作品 (口语)|o
+relaunch|重新推出, 重新发射|v
+resettle|重新安置, 移居|v
+revoke|撤销, 吊销|v
+rubble|瓦砾, 碎石|o
+sediment|沉淀物, 沉积物|o
+senseless|毫无意义的; 不省人事的|o;o
+stratosphere|平流层|o
+substrate|基底, 底层|o
+sullen|闷闷不乐的, 脾气坏的|o
+thieving|偷窃的|o
+treadmill|跑步机; 单调乏味的例行公事|o;o
+tulip|郁金香|o
+unsafe|不安全的, 危险的|o
+veal|小牛肉|o
+adaptable|适应性强的|o
+afterlife|来世|o
+allude|暗指, 影射 (allude to)|v
+apathy|冷漠, 漠不关心|o
+bearer|持有者, 携带者|o
+beleaguered|受围困的, 处境艰难的|o
+benefactor|捐助者, 恩人|o
+biomedical|生物医学的|o
+breadth|宽度; 广度, 范围|o;o
+breastfeed|母乳喂养|v
+briskly|轻快地, 敏捷地|o
+caveat|警告, 附加条件|o
+chaplain|随军牧师, 驻院牧师|o
+cheerio|再见 (口语)|o
+chubby|胖乎乎的|o
+clarinet|单簧管|o
+commend|称赞; 托付|v;v
+concurrent|同时发生的|o
+delve|挖掘, 深入探究 (delve into)|v
+droplet|小滴|o
+edible|可食用的|o
+endlessly|无休止地|o
+genealogy|家谱, 家族史|o
+hahaha|哈哈哈 (笑声)|o
+helix|螺旋|o
+hysteria|歇斯底里, 恐慌|o
+incessantly|不停地|o
+individualism|个人主义|o
+innate|天生的, 固有的|o
+instructive|有启发性的, 有益的|o
+invisibility|隐形, 看不见|o
+localize|使局部化, 局限于一处; 本地化|v;v
+locomotion|运动, 移动|o
+magically|用魔法; 奇妙地|o;o
+matchmaker|媒人, 红娘|o
+multitask|同时做多件事|v
+orchestral|管弦乐的|o
+parallelogram|平行四边形|o
+paranoia|偏执, 多疑|o
+periodically|定期地, 不时地|o
+pertain|有关, 涉及 (pertain to)|v
+pious|虔诚的|o
+pluralistic|多元的|o
+prodigious|巨大的, 惊人的|o
+proletarian|无产阶级的|o
+pulmonary|肺的|o
+reciprocal|相互的, 互惠的|o
+refill|再装满; 续杯, 补充装|v;o
+registrar|登记员, 教务主任|o
+replication|复制, 重复|o
+reprimand|训斥, 谴责; 正式训斥|o;v
+revere|尊敬, 崇敬|v
+rung|ring 的过去分词; 梯级|o;o
+sadden|使悲伤|v
+sandal|凉鞋|o
+shyness|害羞|o
+slob|懒散邋遢的人|o
+snappy|敏捷的, 活泼的; 时髦的; 暴躁的|o;o;o
+snowy|积雪的; 雪白的|o;o
+soloist|独奏者, 独唱者|o
+stave|stave off: 避开, 防止; 桶板; 五线谱|n;o;o
+submerge|浸没, 潜入水中|v
+submersible|可潜水的; 小型潜水器|o;o
+subsp|亚种 (缩写)|o
+subtly|微妙地, 不易察觉地|o
+supersede|取代, 替代|v
+syllable|音节|o
+tentative|犹豫的; 暂定的|o;o
+unambiguous|明确的, 无歧义的|o
+unconstitutional|违宪的|o
+woodland|林地|o
+almond|杏仁|o
+antiderivative|原函数, 反导数|o
+avoidable|可避免的|o
+banjo|班卓琴|o
+bibliography|参考书目|o
+bourgeois|中产阶级的; 物质主义的, 保守的|o;o
+carer|护理者|o
+cervical|子宫颈的; 颈部的|o;o
+characterization|人物塑造; 描述|o;o
+circumference|圆周, 周长|o
+clump|丛, 簇 (树, 头发); 脚步沉重地走|o;v
+coaster|杯垫; 过山车|o;o
+colossal|巨大的|o
+contamination|污染|o
+contentment|满足, 心安|o
+cranky|脾气坏的; 古怪的|o;o
+critter|生物, 动物 (口语)|o
+cronyism|任人唯亲|o
+debilitate|使虚弱|v
+delineate|准确描述; 划定界限|v;v
+demeanour|举止, 风度|o
+deride|嘲笑|v
+eigenvector|特征向量|o
+elasticity|弹性; 弹性 (经济学)|o;o
+emptiness|空, 空虚; 失落感|o;o
+encoding|编码|o
+energize|使充满活力|v
+enmity|敌意|o
+expansive|广阔的, 广泛的; 开朗健谈的|o;o
+extractive|采掘的 (采矿, 钻探)|o
+exuberance|热情洋溢|o
+favorably|赞许地; 有利地|o;o
+forceful|有力的, 强势的|o
+forcibly|强行地|o
+foresight|远见|o
+forestall|预先阻止|v
+formalize|使正式化|v
+gatherer|采集者; hunter-gatherer: 狩猎采集者|o;n
+gymnast|体操运动员|o
+homepage|主页|o
+idiotic|愚蠢的|o
+inhibitor|抑制剂|o
+insured|已投保的; 被保险人|o;o
+intentioned|well-intentioned: 出于好意的|n
+invader|入侵者|o
+layoff|裁员, 下岗|o
+logarithm|对数|o
+man's|男人的 (所有格); man is 的缩写; man has 的缩写|o;o;o
+menstruation|月经|o
+meows|猫叫声; 喵喵叫|o;o
+meritocracy|精英制度, 任人唯贤|o
+miserably|悲惨地; 糟糕地|o;o
+monetization|变现, 货币化|o
+moribund|垂死的; 停滞不前的|o;o
+multiculturalism|多元文化主义|o
+mutate|突变; 变形|v;v
+nanotechnology|纳米技术|o
+nativist|本土主义的|o
+nuance|细微差别|o
+octave|八度音|o
+opium|鸦片|o
+outlier|异常值, 离群值|o
+ovary|卵巢|o
+plebiscite|全民公决|o
+pollinate|给…授粉|v
+populace|民众|o
+powerfully|强有力地|o
+profligacy|挥霍无度|o
+profligate|挥霍的; 放荡的|o;o
+progressively|逐步地|o
+purport|声称 (往往不实)|v
+randomness|随机性|o
+recessionary|经济衰退的|o
+repertoire|全部曲目, 保留节目|o
+replenish|补充, 重新装满|v
+retrospect|in retrospect: 回顾, 事后看来|n
+sizable|相当大的|o
+socialize|交际, 社交|v
+solvent|有偿付能力的; 溶剂|o;o
+strew|撒, 散播|v
+tepid|温热的; 不热情的|o;o
+thickness|厚度, 粗细|o
+thinner|更薄的, 更瘦的 (thin 的比较级); 稀释剂|o;o
+tranquillity|宁静, 平静|o
+uncompetitive|无竞争力的|o
+uncontrollably|无法控制地|o
+utopian|乌托邦的, 理想化的|o
+vanguard|先锋, 前卫; 最前沿|o;o
+vegetarianism|素食主义|o
+wherein|在其中, 在那里|o
+whopping|巨大的 (口语)|o
+absurdity|荒谬|o
+accordion|手风琴|o
+affinity|亲切感, 喜爱; 相似性|o;o
+aft|在船尾|o
+aristocratic|贵族的|o
+beeper|寻呼机, BP机|o
+blasphemy|亵渎神明|o
+burdensome|繁重的, 累赘的|o
+businesswoman|女商人|o
+clot|血块; 凝结成块|o;v
+confinement|监禁; 禁闭|o;o
+continual|频繁的, 持续不断的|o
+cucumber|黄瓜|o
+electrification|电气化, 通电|o
+emphasise|强调|v
+fait|fait accompli: 既成事实|n
+fermentation|发酵|o
+ferocious|凶猛的, 残暴的|o
+flunk|不及格, 考砸 (口语)|v
+freckle|雀斑|o
+guberniya|省 (俄罗斯帝国)|o
+guise|外表, 形式; 伪装|o;o
+harmonic|和声的; 泛音|o;o
+harp|竖琴; harp on: 唠叨, 喋喋不休|o;n
+hazy|朦胧的; 模糊的|o;o
+hepatitis|肝炎|o
+horde|一大群|o
+hospitalize|使住院|v
+identifier|标识符|o
+impart|传授, 赋予 (信息, 特质)|v
+implausible|难以置信的|o
+ingrained|根深蒂固的|o
+internationalist|国际主义的|o
+jug|壶, 罐|o
+leech|水蛭, 蚂蟥; 吸血鬼 (剥削他人者)|o;o
+lull|间歇, 暂停; 安抚, 哄|o;v
+madly|疯狂地; 极其|o;o
+millimetre|毫米|o
+mixtape|混音带, 歌曲合集|o
+namesake|同名者|o
+ordain|任命为神职人员; 命令, 规定|v;v
+outcry|强烈抗议|o
+outstrip|超过|v
+psychoanalysis|精神分析|o
+psychotherapy|心理治疗|o
+puddle|水坑|o
+punter|顾客 (口语); 赌徒|o;o
+rationality|理性|o
+reciprocate|回报, 回应 (感情或行为)|v
+reorganization|改组, 重组|o
+retake|重拍, 重考; 夺回|v;v
+rinse|冲洗, 漂洗|v
+simmer|用文火炖; 内心郁积 (怒火)|v;v
+skim|略读, 浏览; 撇去 (浮物); 掠过|v;v;v
+sleeper|睡觉的人; 枕木; 卧铺列车; 潜伏特工|o;o;o;o
+sodding|该死的 (口语)|o
+southernmost|最南端的|o
+spec|规格, 说明 (口语); on spec: 碰运气地, 无保证地|o;n
+statutory|法定的|o
+steppe|大草原|o
+stratum|层, 地层|o
+striving|努力, 奋斗|o
+subfamily|亚科|o
+symbolism|象征主义, 象征手法|o
+termination|终止; 解雇|o;o
+tripe|牛肚; 废话 (口语)|o;o
+unequivocal|明确的, 毫不含糊的|o
+upstream|逆流而上, 上游; 前期环节|o;o
+vitally|极其, 至关重要地|o
+whim|一时的念头|o
+zeal|热情, 热忱|o
+abolitionist|废奴主义者|o
+accursed|被诅咒的; 可恶的|o;o
+adventurous|大胆的, 爱冒险的|o
+agile|敏捷的, 灵活的|o
+agnostic|不可知论的; 不表态的|o;o
+analyse|分析|v
+annals|编年史, 历史记录|o
+ardent|热情的, 热烈的|o
+aristocrat|贵族|o
+auspice|under the auspices of: 在…的支持下|n
+bask|晒太阳, 取暖; 沉浸于 (关注, 赞誉)|v;v
+benzene|苯|o
+bodily|身体的; 强行地|o;o
+brinkmanship|边缘政策, 冒险策略|o
+byproduct|副产品|o
+cannibal|食人者|o
+circuitry|电路系统|o
+coerce|强迫, 胁迫|v
+culinary|烹饪的|o
+decarbonize|脱碳, 减少碳排放|v
+degenerate|退化, 恶化; 堕落者|v;o
+delicately|轻柔地; 巧妙地, 委婉地|o;o
+despatch|派遣, 发送; 报道, 公文|v;o
+disaffected|不满的, 疏远的|o
+drainage|排水|o
+elitist|精英主义的|o
+exceptionalism|例外论|o
+fathom|理解, 弄懂; 英寻 (水深单位)|v;o
+fauna|动物群|o
+fir|冷杉|o
+foie|foie gras: 鹅肝, 鸭肝|n
+fulfillment|满足感; 履行, 实现|o;o
+gauze|纱布|o
+gild|镀金, 贴金|v
+gras|foie gras: 鹅肝, 鸭肝; Mardi Gras: 狂欢节 (大斋期前)|n;n
+harbinger|预兆, 先兆|o
+harrow|耙; 使痛苦 (通常用 harrowing)|o;v
+hateful|充满仇恨的; 可恨的|o;o
+heartbreaking|令人心碎的|o
+hoe|锄头; 妓女 (口语, = whore)|o;o
+horribly|可怕地, 极其|o
+innumerable|无数的|o
+intake|摄入量; 招收人数|o;o
+jeer|嘲笑, 起哄|v
+kayak|皮划艇|o
+krauts|德国佬 (对德国人的蔑称, 口语)|o
+liquidate|清算 (企业); 杀掉, 清除|v;v
+locket|吊坠盒|o
+meridian|经线; 顶点, 鼎盛|o;o
+micron|微米|o
+microscopy|显微术|o
+mirth|欢笑, 欢乐|o
+mishap|小事故, 不幸|o
+modular|模块化的|o
+molar|臼齿|o
+monograph|专著|o
+nectar|花蜜|o
+nerdy|书呆子气的 (口语)|o
+neurologist|神经科医生|o
+numeric|数字的|o
+occupational|职业的|o
+overt|公开的, 明显的|o
+peacekeeper|维和人员|o
+periscope|潜望镜|o
+pernicious|有害的, 潜移默化地危害的|o
+petrify|使惊呆; 使石化|v;v
+pluralist|多元主义的|o
+presumption|假定, 推测; 傲慢, 放肆|o;o
+pronged|有尖齿的; two-pronged: 双管齐下的|o;n
+quintet|五重奏乐团|o
+ramification|后果, 影响|o
+recurrence|复发, 再现|o
+reminisce|追忆, 缅怀往事|v
+responder|响应者; first responder: 急救人员|o;n
+rouble|卢布|o
+runoff|地表径流; 决选|o;o
+satyr|萨提尔 (半人半羊的神); 好色之徒|o;o
+secrete|分泌; 隐藏|v;v
+shadowy|阴暗的; 神秘的|o;o
+shyster|奸诈的律师或商人 (口语)|o
+silo|筒仓, 粮仓; 导弹发射井; 孤立的部门|o;o;o
+smite|重击|v
+sweatpants|运动裤, 卫裤|o
+tether|拴绳; 拴住|o;v
+transformer|变压器|o
+tunic|束腰外衣|o
+unaffordable|负担不起的|o
+vigor|活力, 精力|o
+vinculum|括线 (数学)|o
+virulent|剧毒的, 致命的 (指疾病); 充满敌意的|o;o
+wellness|健康|o
+wildfire|野火; like wildfire: 迅速地|o;n
+actuator|执行器, 驱动器|o
+adieu|再见|o
+bedrock|基岩; 基础|o;o
+blower|鼓风机; 电话 (口语)|o;o
+bony|骨瘦如柴的; 多骨刺的|o;o
+bookstore|书店|o
+buzzard|秃鹰, 鵟|o
+cartridge|弹药筒, 墨盒|o
+centralization|集中化, 中央集权|o
+charcoal|木炭; 深灰色|o;o
+clergyman|牧师, 神职人员|o
+clitoris|阴蒂|o
+complicit|同谋的, 有牵连的|o
+contort|扭曲|v
+convolution|复杂, 曲折; 卷积|o;o
+cork|软木; 瓶塞|o;o
+curvature|曲率, 弯曲度|o
+deject|使沮丧 (通常用 dejected)|v
+detriment|损害|o
+dictatorial|独裁的, 专横的|o
+dojo|道场|o
+eject|逐出, 驱逐; 弹出|v;v
+envious|嫉妒的|o
+evenly|均匀地, 平稳地|o
+eyelash|睫毛|o
+ferret|雪貂; ferret out: 搜出, 查出|o;n
+fluorine|氟|o
+foliage|树叶, 枝叶|o
+gat|枪 (口语)|o
+graft|移植物; 贪污; 苦干 (口语)|o;o;o
+grate|擦碎 (食物); 使烦躁; 炉栅|v;v;o
+ideologues|空想家, 死守某种意识形态的人 (ideologue 的复数)|o
+imaginative|富有想象力的|o
+iterate|重复, 迭代|v
+jihadi|圣战分子|o
+kosher|符合犹太教规的; 合法的, 正当的 (口语)|o;o
+legalize|使合法化|v
+lighthouse|灯塔|o
+limitless|无限的|o
+medalist|奖牌获得者|o
+mockery|嘲弄; 笑柄, 拙劣的模仿|o;o
+modernism|现代主义|o
+overfishing|过度捕捞|o
+pear|梨|o
+piranha|食人鱼|o
+plunder|掠夺; 掠夺物|v;o
+programmable|可编程的|o
+psychoanalyst|精神分析学家|o
+purity|纯净; 纯洁|o;o
+recapitalize|注资, 资本重组|v
+resin|树脂|o
+saxophonist|萨克斯管演奏者|o
+scenic|风景优美的|o
+scribe|抄写员; 作家|o;o
+sewage|污水|o
+shrewd|精明的|o
+spreadsheet|电子表格|o
+steamboat|汽船|o
+stewardess|空姐|o
+sulfide|硫化物|o
+transcribe|抄录, 转录 (语音)|v
+transporter|运输工具, 运输机|o
+undefined|未定义的|o
+unhappily|不快乐地; 不幸地|o;o
+unlawful|非法的|o
+untold|无数的; 未说出的|o;o
+vascular|血管的|o
+vocalize|说出, 表达|v
+walkable|适合步行的|o
+yurt|蒙古包|o
+abandonment|抛弃, 放弃|o
+advertiser|广告商|o
+airspace|领空|o
+algorithmic|算法的|o
+angiogenesis|血管生成|o
+annualized|按年计算的|o
+antler|鹿角|o
+aperture|孔, 缝隙|o
+ascension|上升; 升天|o;o
+biopsy|活组织检查, 活检|o
+brilliance|光辉, 明亮; 才华|o;o
+camouflage|伪装|o
+centrality|中心地位, 重要性|o
+chemo|化疗 (口语)|o
+clandestine|秘密的|o
+commonplace|平常的, 司空见惯的|o
+crumple|弄皱; 垮下, 瘫倒|v;v
+dainty|小巧精致的|o
+detest|厌恶, 憎恨|v
+doorkeeper|看门人|o
+downwards|向下|o
+engender|引起, 造成|v
+engrave|雕刻|v
+enjoyable|令人愉快的|o
+entirety|整体, 全部|o
+epithet|称号, 绰号; 辱骂语|o;o
+fabricate|捏造; 制造|v;v
+filmography|作品年表 (电影)|o
+fraudulent|欺诈的|o
+gentlewoman|淑女, 名门女子|o
+grandeur|宏伟, 壮丽|o
+headway|进展; make headway: 取得进展|o;n
+heartache|心痛, 伤心|o
+homelessness|无家可归|o
+hydroelectric|水力发电的|o
+immersive|沉浸式的|o
+indent|缩进; 订货单|v;o
+inflammatory|煽动性的; 引起炎症的|o;o
+insta|Instagram (口语)|o
+intergenerational|代际的|o
+joblessness|失业|o
+livery|仆人制服; 公司标志色|o;o
+lustful|好色的, 淫荡的|o
+magenta|品红色|o
+magnate|巨头, 大亨|o
+maple|枫树|o
+mayhem|混乱, 骚乱|o
+meticulously|一丝不苟地|o
+midfielder|中场球员|o
+monologue|独白|o
+muddy|泥泞的, 沾满泥的; 模糊不清的|o;o
+narcissistic|自恋的|o
+nibble|小口咬, 啃; 一小口|v;o
+nightfall|黄昏, 傍晚|o
+northernmost|最北端的|o
+oceanic|海洋的|o
+offline|离线的; 线下的|o;o
+ordinance|法令, 条例|o
+oval|椭圆形的|o
+overcoat|大衣|o
+oversized|超大的|o
+overweight|超重的|o
+piecemeal|零碎地, 逐步地|o
+pong|臭味 (口语); 乒乓球|o;o
+prairie|大草原|o
+predominant|主要的, 占优势的|o
+preparatory|预备的|o
+profusely|大量地, 过多地|o
+qua|作为|o
+quotation|引文, 引语; 报价|o;o
+rabies|狂犬病|o
+reciprocity|互惠|o
+rector|教区牧师; 大学校长|o;o
+reparation|赔偿 (通常用 reparations)|o
+reprogram|重新编程|v
+repulse|使厌恶; 击退|v;v
+residue|残留物, 剩余|o
+resurrect|使复活|v
+retribution|惩罚, 报应|o
+reverie|白日梦, 幻想|o
+rework|修改, 返工|v
+sarcophagus|石棺|o
+secularist|世俗主义者|o
+sensual|感官的, 肉欲的|o
+silky|丝滑的|o
+slang|俚语|o
+southward|向南|o
+spindle|纺锤; 轴, 细杆|o;o
+subtraction|减法|o
+summons|传票|o
+thorium|钍|o
+timeless|永恒的, 不受时间影响的|o
+tot|小孩; 少量 (酒); tot up: 合计|o;o;n
+travail|艰辛, 辛劳|o
+tuft|一簇, 一束 (毛发, 草)|o
+undisclosed|未透露的|o
+unforeseen|意料之外的|o
+unpublished|未出版的, 未发表的|o
+vertically|垂直地|o
+vigilant|警惕的|o
+vividly|生动地, 鲜明地|o
+abundantly|大量地; abundantly clear: 非常清楚|o;n
+affine|仿射的 (数学)|o
+ascribe|归因于, 归功于 (ascribe to)|v
+assail|攻击|v
+bandleader|乐队指挥|o
+battleground|战场|o
+boldness|大胆, 勇敢|o
+companionship|友谊, 陪伴|o
+crossbow|弩|o
+customary|惯常的, 习俗的|o
+cylindrical|圆柱形的|o
+desirous|渴望的|o
+despot|暴君, 专制者|o
+deuce|两点 (纸牌或骰子); 平分 (网球40比40); 见鬼 (口语)|o;o;o
+dictum|格言, 正式声明|o
+dis|侮辱, 不尊重 (口语)|v
+dismissal|解雇; 驳回, 不予理会|o;o
+dither|犹豫不决|v
+downfall|垮台, 衰败|o
+dweller|居民|o
+earmark|指定用途, 专款专用|v
+exaggeration|夸张, 夸大|o
+externally|在外部|o
+fascination|着迷, 浓厚兴趣|o
+gambit|开局, 策略|o
+goddam|该死的 (口语)|o
+gymnasium|体育馆, 健身房|o
+hazardous|危险的|o
+hydropower|水电|o
+impregnate|使怀孕; 浸透, 使饱和|v;v
+inadequacy|不足; 自卑感, 力不从心的感觉|o;o
+incitement|煽动|o
+indefinite|无限期的; 模糊的|o;o
+insolent|无礼的, 傲慢的|o
+intermediation|中介, 居间|o
+intrusion|侵扰, 闯入|o
+logically|合乎逻辑地|o
+maize|玉米|o
+marital|婚姻的|o
+meself|我自己 (口语, = myself)|o
+minivan|小型面包车, 家用厢式车|o
+motherhood|母亲身份|o
+necessitate|使成为必要|v
+negate|抵消; 否定|v;v
+nostalgic|怀旧的|o
+passer|passer-by: 路人; 传球者 (体育)|n;o
+patriarchal|父权制的|o
+perpetrate|犯下 (罪行)|v
+pester|纠缠, 烦扰|v
+plough|犁; 犁地|o;v
+polluter|污染者|o
+posit|假定, 提出|v
+quill|羽毛笔; 豪猪刺|o;o
+raisin|葡萄干|o
+rescind|撤销, 废除 (法律, 决定)|v
+retell|复述, 重述|v
+revaluation|重新估价|o
+salvage|挽救, 抢救; 打捞, 救援 (财物)|v;o
+secessionist|分离主义者|o
+securitization|资产证券化|o
+smother|使窒息, 闷死; 厚厚地覆盖|v;v
+spank|打屁股|v
+strikingly|显著地, 惊人地|o
+supremacist|至上主义者|o
+throttle|掐死; 节流阀, 油门|v;o
+toothless|无牙的; 无实权的|o;o
+unanimity|一致同意|o
+undue|过度的, 不适当的|o
+uneasily|不安地|o
+unfazed|不慌不忙的, 不受影响的|o
+unheard|没听到的; unheard of: 前所未闻的|o;n
+usefulness|有用性|o
+widowed|丧偶的|o
+adaptability|适应性|o
+adoration|爱慕, 崇拜|o
+aforementioned|上述的|o
+allusion|暗指, 典故|o
+apex|顶点, 顶峰|o
+apparition|幽灵|o
+assent|同意, 赞成; 同意|o;v
+auspicious|吉利的, 有利的|o
+bibliographic|书目的|o
+biotech|生物技术|o
+bleach|漂白剂; 漂白|o;v
+blindly|看不见地, 摸索着; 盲目地, 不加思考地|o;o
+boiler|锅炉|o
+bombardment|轰炸, 连续攻击|o
+burrow|地洞; 挖洞|o;v
+centenary|百年纪念|o
+centigrade|摄氏|o
+churn|剧烈搅动; 搅乳器; 客户流失 (商业)|v;o;o
+clog|堵塞; 木屐|v;o
+codon|密码子|o
+comparatively|相对地, 比较而言|o
+compulsive|难以抗拒的; 强迫性的|o;o
+condense|压缩, 精简; 冷凝|v;v
+congenital|先天的|o
+consign|运送, 寄售; 托付, 交付|v;v
+contractionary|紧缩的|o
+cookbook|烹饪书, 食谱|o
+counterintelligence|反间谍活动|o
+courteous|有礼貌的|o
+cowardly|懦弱的|o
+crotch|胯部|o
+decipher|破译, 解读|v
+deign|屈尊 (做)|v
+densely|密集地|o
+devoid|devoid of: 完全没有|n
+differentiation|区分; 分化|o;o
+druggist|药剂师|o
+enigmatic|神秘的, 高深莫测的|o
+entwine|缠绕|v
+epitope|抗原表位|o
+excitable|易激动的|o
+fetal|胎儿的; fetal position: 蜷缩的姿势|o;n
+finder|发现者|o
+flex|屈伸, 绷紧 (肌肉); 炫耀 (口语)|v;v
+fmri|功能性磁共振成像|o
+foreclosure|取消抵押品赎回权, 法拍|o
+freestyle|自由式的, 不拘规则的; 自由泳|o;o
+fundraising|募捐, 筹款|o
+ghastly|可怕的, 恐怖的|o
+glossy|光滑的, 有光泽的|o
+goosebumps|鸡皮疙瘩|o
+groundbreaking|开创性的|o
+heartbreak|心碎, 悲痛|o
+idealism|理想主义|o
+incorrectly|错误地|o
+indescribable|难以形容的|o
+inexplicably|莫名其妙地|o
+infancy|婴儿期; 初期|o;o
+infertility|不孕不育|o
+informer|告密者, 线人|o
+intransigence|不妥协, 固执|o
+joyfully|快乐地|o
+lactose|乳糖|o
+locust|蝗虫|o
+mango|芒果|o
+miraculous|奇迹般的|o
+monopolize|垄断|v
+naught|零, 无; come to naught: 失败, 落空|o;n
+nil|零, 无|o
+normalcy|常态|o
+obstruction|阻塞, 障碍|o
+pager|寻呼机, BP机|o
+participatory|参与式的|o
+peddle|兜售 (挨家挨户); 宣扬 (观点)|v;v
+pediatrician|儿科医生|o
+pelvic|骨盆的|o
+perfectionism|完美主义|o
+pisco|皮斯科酒 (秘鲁白兰地)|o
+predictor|预测指标|o
+psychoanalytic|精神分析的|o
+rapture|狂喜|o
+reimagine|重新构想|v
+relaxation|放松, 休息|o
+scurry|小步快跑|v
+sender|发送者, 寄件人|o
+shipbuilding|造船|o
+sorrowful|悲伤的|o
+spanking|打屁股; 崭新的, 非常 (口语)|o;o
+spire|尖塔|o
+statistician|统计学家|o
+stylistic|风格上的, 文体的|o
+subdivide|细分|v
+sulfur|硫|o
+supermassive|超大质量的 (黑洞)|o
+superstition|迷信|o
+talker|说话者, 健谈的人|o
+teacup|茶杯|o
+telepaths|会读心术的人 (telepath 的复数)|o
+tinge|一丝, 淡淡的痕迹|o
+twig|细枝|o
+unelected|非选举产生的|o
+wanderer|流浪者|o
+wop|意大利佬 (对意大利人的蔑称, 口语)|o
+abet|教唆, 协助 (犯罪)|v
+anatomical|解剖的|o
+anecdote|轶事, 趣闻|o
+artisan|工匠|o
+bigotry|偏执, 偏见|o
+biochemistry|生物化学|o
+blizzard|暴风雪|o
+blogging|写博客|o
+bluster|大话, 虚张声势; 咆哮, 恐吓|o;v
+bulwark|堡垒, 防御墙; 保障|o;o
+bystander|旁观者|o
+centrally|在中心, 集中地|o
+coffer|保险箱 (coffers: 资金)|o
+collusion|勾结, 串通|o
+conspicuous|显眼的|o
+contra|反对, 与…相反|o
+corporatism|社团主义|o
+corporatist|社团主义的|o
+counterbalance|抵消, 平衡|v
+digestive|消化的|o
+digitalization|数字化|o
+dislocate|使脱臼; 扰乱|v;v
+dreary|沉闷的, 阴郁的|o
+eloquence|口才, 雄辩|o
+emotionless|没有感情的|o
+encroachment|侵犯, 侵占|o
+entice|诱惑, 引诱|v
+everlasting|永恒的|o
+experimenter|实验者|o
+extortion|敲诈, 勒索|o
+fiend|恶魔; 狂热者 (口语)|o;o
+firepower|火力|o
+fluoride|氟化物|o
+foothold|立足点|o
+gander|公鹅; 看一眼 (口语)|o;o
+gel|凝胶; 凝聚, 融合|o;v
+giddy|头晕的; 兴奋的|o;o
+hake|无须鳕|o
+header|页眉; 头球 (足球)|o;o
+heavyweight|重量级 (拳击); 重要人物|o;o
+heiress|女继承人|o
+hormonal|激素的|o
+humid|潮湿的, 闷热的|o
+impedance|阻抗|o
+imperfection|缺陷, 瑕疵|o
+impossibility|不可能的事|o
+inescapable|无法避免的|o
+insurrection|起义, 暴动|o
+interconnectedness|相互关联|o
+involuntary|不由自主的, 非自愿的|o
+lexicon|词汇|o
+libertarian|自由意志主义者|o
+lowdown|内幕, 实情 (口语); 卑鄙的|o;o
+marshmallow|棉花糖|o
+mediator|调解人|o
+medley|混合, 大杂烩|o
+migraine|偏头痛|o
+milkshake|奶昔|o
+misrule|治理不善|o
+moderator|主持人; 版主|o;o
+nutritious|有营养的|o
+omission|省略, 遗漏|o
+organist|风琴手|o
+overture|序曲; 主动接触, 提议|o;o
+passively|被动地|o
+payer|付款人|o
+pebble|鹅卵石|o
+penitentiary|监狱|o
+pic|图片, 照片 (口语)|o
+possessive|占有欲强的; 所有格的 (语法)|o;o
+predicate|谓语; 以…为基础 (predicate on)|o;v
+preemptive|先发制人的, 预防性的|o
+preoccupation|全神贯注, 执念|o
+preschool|幼儿园, 学前班|o
+propeller|螺旋桨|o
+protrude|突出, 伸出|v
+radicalize|使激进化|v
+reactive|被动反应的; 活性的, 易起化学反应的|o;o
+reassuringly|令人安心地|o
+reborn|重生的; 焕然一新的|o;o
+redouble|加倍 (努力)|v
+redundancy|裁员; 冗余|o;o
+redundant|多余的; 被裁员的|o;o
+repel|击退, 驱除; 使厌恶|v;v
+rhino|犀牛|o
+skillfully|熟练地, 巧妙地|o
+slander|诽谤, 中伤; 诽谤|o;v
+snowfall|降雪量|o
+stagflation|滞胀|o
+stepmother|继母|o
+stupidly|愚蠢地|o
+swerve|突然转向|v
+taxon|分类单元|o
+theoretically|理论上|o
+totalitarianism|极权主义|o
+traumatize|造成心理创伤|v
+triangular|三角形的|o
+trilateral|三方的|o
+trolley|手推车; 有轨电车|o;o
+trudge|步履艰难地走, 跋涉|v
+uhhh|呃 (表示犹豫)|o
+understate|低估, 轻描淡写|v
+unfounded|毫无根据的|o
+unpredictability|不可预测性|o
+unused|未使用的|o
+varicella|水痘|o
+absorption|吸收; 专注, 全神贯注|o;o
+aggie|农学院学生 (口语)|o
+angelic|天使般的|o
+assuage|缓解, 减轻 (痛苦, 内疚)|v
+attribution|注明出处, 归属|o
+backslide|故态复萌, 旧病复发|v
+barrage|密集炮火; 连珠炮般的 (提问)|o;o
+baton|指挥棒, 接力棒, 警棍|o
+caricature|漫画, 讽刺画|o
+crease|折痕; 起皱, 弄皱|o;v
+discord|不和, 分歧; 刺耳的声音|o;o
+dishonour|耻辱|o
+ecstatic|欣喜若狂的|o
+emancipation|解放|o
+enforceable|可强制执行的|o
+fintech|金融科技|o
+harem|后宫, 闺房; 妻妾|o;o
+headscarf|头巾|o
+incorporation|纳入, 合并; 公司注册成立|o;o
+indiscriminate|不加区别的, 滥用的|o
+instrumentation|仪器, 仪表; 配器, 乐器编配|o;o
+interracial|不同种族之间的|o
+ladle|长柄勺|o
+lowland|低地|o
+manipulator|操纵者|o
+milord|老爷, 大人 (称呼语)|o
+misstep|失误, 失策|o
+normality|常态, 正常状态|o
+normative|规范的|o
+outing|出游, 远足; 公开他人的性取向|o;o
+pariah|被排斥的人, 贱民|o
+petticoat|衬裙|o
+resolutely|坚决地|o
+roadblock|路障; 障碍|o;o
+sari|纱丽|o
+shard|碎片|o
+sterile|不育的; 无菌的|o;o
+topical|时事性的, 热门的; 外用的 (药)|o;o
+wallpaper|墙纸|o
+wean|使断奶; wean off: 使逐渐戒掉|v;n
+wreath|花环|o
+accentuate|强调, 突出|v
+acidification|酸化|o
+acrobat|杂技演员|o
+adept|熟练的, 擅长的|o
+adios|再见 (口语)|o
+adjoin|毗邻, 紧挨|v
+adultery|通奸|o
+airliner|客机|o
+amenable|愿意接受的, 顺从的|o
+anonymity|匿名|o
+arepa|玉米饼 (委内瑞拉, 哥伦比亚)|o
+arousal|唤起, 兴奋|o
+arranger|编曲者|o
+atoll|环礁|o
+atrium|中庭; 心房|o;o
+axial|轴向的|o
+benevolent|仁慈的, 善意的|o
+blockhead|笨蛋|o
+bombard|轰炸, 连续攻击|v
+breathlessly|气喘吁吁地; 激动地|o;o
+capillary|毛细血管|o
+carton|纸箱, 纸盒|o
+caterpillar|毛毛虫|o
+clinically|临床上; 冷漠地|o;o
+colloquially|口语上, 通俗地|o
+cram|塞满; 死记硬背, 临时抱佛脚|v;v
+crevice|裂缝|o
+daydream|白日梦; 做白日梦|o;v
+debit|借记, 扣款|o
+decompose|腐烂; 分解|v;v
+dem|他们 (口语, = them)|o
+detrimental|有害的|o
+deviate|偏离|v
+disapproval|不赞成, 反对|o
+drunkard|酒鬼|o
+electrify|使通电; 使激动|v;v
+falsely|错误地, 虚假地|o
+frontman|主唱; 门面人物|o;o
+generalization|概括, 笼统的说法|o
+geneticist|遗传学家|o
+giraffe|长颈鹿|o
+handicraft|手工艺品|o
+hunh|嗯? (表示惊讶或疑问)|o
+imaginable|可想象的|o
+impulsive|冲动的|o
+incoherent|语无伦次的, 不连贯的|o
+innkeeper|客栈老板|o
+internationalize|使国际化|v
+jargon|行话, 术语|o
+joyride|开偷来的车兜风|o
+justly|公正地|o
+keynote|基调, 主旨; keynote speech: 主旨演讲|o;n
+landowner|地主, 土地所有者|o
+lemme|让我 (口语, let me)|o
+logarithmic|对数的|o
+lore|传说, 传统知识|o
+malignant|恶性的; 恶毒的|o;o
+mildly|稍微, 轻度地; 温和地|o;o
+morbid|病态的, 对死亡着迷的|o
+multisite|多地点的|o
+musing|沉思, 冥想|o
+nab|抓住, 逮住 (口语)|v
+observance|遵守 (法律, 习俗); 宗教仪式|o;o
+orangutan|猩猩, 红毛猩猩|o
+oscillation|振荡, 摆动|o
+outspoken|直言不讳的|o
+overwork|过度劳累|v
+oxidation|氧化|o
+parabola|抛物线|o
+paradoxical|自相矛盾的|o
+perestroika|改革 (苏联)|o
+permissible|允许的|o
+plume|羽毛; 烟柱|o;o
+pretence|假装|o
+puffy|肿胀的|o
+quotient|商|o
+rabble|乌合之众|o
+rebate|部分退款, 返利|o
+renegade|叛徒, 叛逆者|o
+respite|暂时的休息, 喘息|o
+restive|焦躁不安的|o
+scribble|潦草地写|v
+seam|接缝; 煤层|o;o
+shackle|镣铐; 给…戴上镣铐|o;v
+showrunner|剧集总负责人, 节目统筹|o
+shrub|灌木|o
+snare|陷阱, 圈套|o
+snowflake|雪花|o
+sportsman|运动员|o
+stalactite|钟乳石|o
+stationary|静止的|o
+trashed|被毁坏的; 烂醉的 (口语)|o;o
+veterinary|兽医的|o
+visage|面容|o
+viz|即, 也就是|o
+waft|飘荡, 飘散|v
+widget|小装置, 小部件|o
+wriggle|扭动|v
+zoology|动物学|o
+adequacy|充足, 足够|o
+advantageous|有利的|o
+affliction|苦难; 疾病|o;o
+approx|大约 (缩写)|o
+artefact|人工制品, 文物|o
+assailant|袭击者|o
+beholden|欠人情的|o
+binge|放纵, 狂欢|o
+blocker|阻断物, 阻挡者|o
+boson|玻色子|o
+businesspeople|商人|o
+buybacks|股票回购 (buyback 的复数)|o
+carbonate|碳酸盐|o
+celled|有细胞的 (用于 single-celled, many-celled)|o
+chisel|凿子|o
+chump|傻瓜 (口语)|o
+cochlear|耳蜗的|o
+compatriot|同胞|o
+confidant|知己|o
+conspire|密谋|v
+conveniently|方便地|o
+croak|发出低沉沙哑的声音, 呱呱叫; 死 (口语)|v;v
+cubicle|隔间|o
+debrief|听取汇报|v
+demonic|恶魔的|o
+dissonance|不和谐, 冲突|o
+dormant|休眠的, 蛰伏的|o
+dreamy|梦幻般的; 迷人的 (口语)|o;o
+driverless|无人驾驶的|o
+earthworm|蚯蚓|o
+ejaculate|射精; 突然喊出|v;v
+epitomize|成为…的典范|v
+equitably|公平地|o
+fatally|致命地|o
+fateful|决定性的, 重大的|o
+feline|猫科的; 猫科动物|o;o
+filament|细丝, 灯丝|o
+fracking|水力压裂|o
+fractional|微小的; 分数的|o;o
+fungal|真菌的|o
+funnel|漏斗; 引导, 输送|o;v
+gamification|游戏化|o
+geeks|极客, 技术迷 (口语, geek 的复数)|o
+geographer|地理学家|o
+guerilla|游击队员|o
+habitual|习惯性的; 惯常的 (指人)|o;o
+hilt|剑柄, 刀柄; to the hilt: 完全地|o;n
+hopelessly|绝望地; 完全, 无可救药地|o;o
+hotline|热线|o
+hymen|处女膜|o
+hyperbolic|夸张的; 双曲线的|o;o
+hypertension|高血压|o
+hypocritical|虚伪的, 两面派的|o
+illiterate|文盲的|o
+illumination|照明, 光亮; 启发, 领悟|o;o
+incubator|保育箱, 孵化器; 企业孵化器|o;o
+infraction|违规, 违反|o
+insufficiently|不充分地|o
+kilowatt|千瓦|o
+laggard|落后者|o
+laudable|值得称赞的|o
+mammalian|哺乳动物的|o
+mayoral|市长的|o
+mea|mea culpa: 是我的错|n
+microbiome|微生物组|o
+miscarriage|流产; miscarriage of justice: 误判, 冤案|o;n
+mistakenly|错误地|o
+mover|搬家工人, 搬家公司; 提议者, 推动者|o;o
+munch|大声咀嚼, 不停地吃|v
+nomadic|游牧的|o
+nomenclature|命名法, 术语|o
+ominously|不祥地|o
+oncologist|肿瘤科医生|o
+onerous|繁重的|o
+opportunistic|投机取巧的，见机行事的|o
+outreach|外展服务，主动帮扶|o
+pacemaker|心脏起搏器;领跑者|o;o
+pacifist|和平主义者|o
+permutation|排列，一种可能的顺序|o
+petrochemical|石油化工产品|o
+pheromone|信息素|o
+plow|犁地，耕;犁;plow through: 艰难地推进|v;o;n
+plush|豪华的，柔软厚实的;长毛绒|o;o
+prohibitively|高得令人望而却步地|o
+racially|在种族方面|o
+radial|辐射状的，放射状的|o
+rainwater|雨水|o
+rationalize|合理化，为……找借口;使更高效|v;v
+recast|改变……的形式，重塑;重新分配角色|v;v
+redraw|重画，重新划定(边界、计划)|v
+richly|丰富地，华丽地;充分地，完全地|o;o
+righteousness|正义，美德|o
+scorer|得分者;记分员|o;o
+seclusion|隔绝，隐居|o
+solidify|凝固，变硬;巩固|v;v
+starch|淀粉;浆(上浆用)|o;o
+subatomic|亚原子的|o
+taluka|塔鲁卡(印度行政区)|o
+tantrum|发脾气，耍性子|o
+tedious|冗长乏味的，令人厌烦的|o
+tolerable|可以忍受的;还算不错的|o;o
+toolkit|工具包|o
+trachoma|沙眼|o
+trough|饲料槽，水槽;低谷|o;o
+ulcer|溃疡|o
+unchallenged|未受质疑的，无人反对的|o
+undertaker|殡仪员|o
+unimportant|不重要的|o
+untapped|未开发的，未利用的|o
+untouched|未触动的，原封不动的;未吃过的|o;o
+upsurge|激增，高涨|o
+wicket|三柱门(板球);小门|o;o
+acknowledgement|承认，认可;感谢，致谢|o;o
+acumen|敏锐的判断力，精明|o
+append|附加，追加(在末尾)|v
+apprehend|逮捕;理解|v;v
+apprehensive|忧虑的，担心的|o
+archery|射箭|o
+archival|档案的，来自档案的|o
+asphalt|沥青，柏油|o
+avid|热衷的，热切的|o
+barefoot|赤脚的|o
+beak|鸟喙，嘴|o
+beginner|初学者|o
+bravely|勇敢地|o
+breathtaking|惊人的，令人叹为观止的|o
+candidiasis|念珠菌病，鹅口疮|o
+canonical|标准的，公认的;教会法规的，正典的|o;o
+carcass|动物尸体|o
+centipede|蜈蚣|o
+charade|假装，荒唐的伪装;charades: 猜字谜游戏(比划动作)|o;n
+ciphertext|密文|o
+citrus|柑橘类水果|o
+closeness|亲密;接近|o;o
+clueless|一无所知的，没头绪的(口语)|o
+cocksucker|卑鄙的家伙(粗口，口语)|o
+commencement|开始，开端;毕业典礼|o;o
+commonality|共同点|o
+conjugate|列出动词变位;结合的，成对的|v;o
+connectome|连接组(大脑神经连接图谱)|o
+conqueror|征服者，胜利者|o
+conspirator|阴谋者，同谋|o
+decelerate|减速|v
+devilish|邪恶的;淘气的|o;o
+devotional|宗教的，礼拜的|o
+dimple|酒窝|o
+disqualify|取消资格;使不适合|v;v
+dissect|解剖;详细剖析|v;v
+ducky|很好的，棒的(口语);亲爱的(口语)|o;o
+ecclesiastical|教会的，神职人员的|o
+eigenvalue|特征值(数学)|o
+elude|逃避，躲避;难以理解|v;v
+endurance|耐力，持久力|o
+erstwhile|以前的|o
+extravagant|奢侈浪费的，挥霍的;过度的，铺张的|o;o
+fanatical|狂热的|o
+feasibility|可行性|o
+flattery|奉承，恭维|o
+folio|页，张;对开本|o;o
+foo|占位名(编程示例中)|o
+fresco|湿壁画|o
+genocidal|种族灭绝的|o
+genotype|基因型|o
+gladiator|角斗士|o
+grammatical|语法的;合乎语法的|o;o
+habitation|住所;居住|o;o
+hairdresser|理发师，美发师|o
+handshake|握手|o
+hardworking|勤奋的，努力的|o
+hemorrhage|大出血;大量出血;迅速流失|o;v;v
+hombre|男人，家伙(口语)|o
+humanize|使更人道，使人性化|v
+hydro|水电|o
+impairment|损伤，缺陷，残疾|o
+incendiary|引起燃烧的，纵火的;煽动性的，挑衅的|o;o
+incessant|不断的，没完没了的|o
+infringement|侵犯，违反|o
+inkling|模糊的概念，暗示|o
+inspirational|鼓舞人心的|o
+insubordination|不服从，违抗上级|o
+insular|狭隘的，封闭的;岛屿的|o;o
+introductory|介绍性的，入门的|o
+justifiable|有理由的，站得住脚的|o
+liken|比作，比喻|v
+mage|巫师，魔法师|o
+mammogram|乳房X光片|o
+mastermind|幕后策划者，主谋;策划并指挥|o;v
+menstrual|月经的|o
+metropolis|大都市|o
+miniskirt|超短裙|o
+narcissist|自恋者|o
+nightstand|床头柜|o
+nominally|名义上;正式地|o;o
+noteworthy|值得注意的，显著的|o
+occupant|居住者，使用者|o
+odious|可憎的，令人厌恶的|o
+phytoplankton|浮游植物|o
+playable|可玩的，可演奏的|o
+predate|早于|v
+preempt|先发制人，抢先阻止;取代|v;v
+prelude|序幕，前奏;前奏曲|o;o
+provost|学院院长;大学高级行政官员|o;o
+punishable|应受惩罚的|o
+quake|地震;颤抖，发抖|o;v
+rabbinic|拉比的|o
+racer|赛跑者，赛车，赛马|o
+rave|胡言乱语;热烈赞扬;锐舞派对|v;v;o
+regrettably|遗憾的是，不幸地|o
+retrofit|加装，改造(旧设备)|v
+revoir|au revoir: 再见|n
+riff|重复乐段;即兴变奏|o;o
+rightist|右翼的，右派(人士)|o
+saturate|浸透;使饱和|v;v
+securely|牢固地，安全地|o
+sequential|按顺序的，相继的|o
+sequester|隔离，隐居;封存(碳)|v;v
+shoreline|海岸线，湖岸线|o
+snipe|狙击;冷嘲热讽|v;v
+spiritually|精神上，在宗教上|o
+statist|国家主义的，主张国家控制的|o
+subconscious|潜意识的|o
+submissive|顺从的，服从的|o
+subsidiarity|辅助性原则(决策尽量在最低层级作出)|o
+sulfa|sulfa drug: 磺胺类抗菌药|n
+tally|累计数，总数;计算，清点;吻合，相符|o;v;v
+tanker|油轮，罐车|o
+thickly|厚厚地;密集地;声音沙哑地|o;o;o
+thyroid|甲状腺|o
+tracker|追踪器，追踪者|o
+treachery|背叛|o
+treasurer|司库，财务主管|o
+trig|三角学(口语)|o
+undertone|潜在的意味，弦外之音;低声|o;o
+unequivocally|明确地，毫不含糊地|o
+uninhabited|无人居住的|o
+vassal|封臣，诸侯;附庸国|o;o
+vertebrate|脊椎动物|o
+wastewater|废水，污水|o
+wearable|可穿戴的;可穿戴设备|o;o
+webinar|网络研讨会|o
+witty|机智风趣的|o
+accommodative|通融的，乐于助人的;(政策)宽松的|o;o
+acutely|敏锐地，强烈地|o
+amiss|有问题的，不对劲的|o
+analogue|模拟的(非数字);对应物，类似物|o;o
+avalanche|雪崩;大量涌来|o;o
+belligerent|好斗的，挑衅的;交战的|o;o
+bonanza|意外之财，发财机会|o
+bonfire|篝火|o
+buff|爱好者，迷;擦亮;肌肉发达的(口语)|o;v;o
+cadre|骨干队伍;骨干成员，干部|o;o
+cater|承办酒席;cater to: 迎合，满足……的需要|v;n
+checkpoint|检查站|o
+codify|把(法律、规则)编成法典|v
+competency|能力，技能|o
+compliant|守规的，合规的;顺从的|o;o
+contractual|合同的，契约规定的|o
+convincingly|令人信服地|o
+cutback|削减|o
+despotic|专制的，暴虐的|o
+detractor|批评者，贬低者|o
+disdainful|轻蔑的，鄙视的|o
+dynastic|王朝的|o
+elliptical|椭圆的;(言语)省略的，晦涩的|o;o
+ethnically|在族群方面|o
+eukaryote|真核生物|o
+euthanasia|安乐死|o
+extol|高度赞扬|v
+fifteenth|第十五|o
+flask|小酒壶;烧瓶;保温瓶|o;o;o
+generously|慷慨地，大方地|o
+goalkeeper|守门员|o
+grower|种植者|o
+heartfelt|衷心的，真诚的|o
+homogeneous|同类的，均匀的|o
+hyena|鬣狗|o
+inept|笨拙的，无能的|o
+inexorably|不可阻挡地，无情地|o
+inextricably|密不可分地|o
+invoice|发票，账单;开发票|o;v
+irrelevance|无关紧要|o
+irritable|易怒的|o
+koji|曲霉(用于酿造酱油、味噌和清酒)|o
+leeway|回旋余地，余量|o
+liturgical|礼拜仪式的|o
+longitude|经度|o
+lyrically|富有诗意地，抒情地;在歌词方面|o;o
+macroprudential|宏观审慎的|o
+maternity|母性，母亲身份;maternity leave: 产假|o;n
+meritocratic|任人唯贤的，精英制的|o
+micronutrient|微量营养素|o
+misdeed|不端行为，罪行|o
+modus|modus operandi: 作案手法，工作方式|n
+morphology|形态学(生物或词语的形式与结构)|o
+murky|昏暗浑浊的;不清楚的，见不得人的|o;o
+nocturnal|夜间活动的;夜间的|o;o
+obstinacy|固执|o
+omnibus|公共汽车(旧);综合法案，合集|o;o
+paltry|微不足道的，少得可怜的|o
+pastoral|田园的，乡村生活的;牧师关怀的|o;o
+politicization|政治化|o
+poultry|家禽|o
+premiership|首相职位;英超联赛(英国)|o;o
+prima|prima donna: 歌剧女主角，自负任性的人;prima facie: 初步看来|n;n
+prodigy|神童;奇迹|o;o
+pus|脓|o
+pyjama|睡衣的;pyjamas: 睡衣|o;n
+reggae|雷鬼音乐|o
+regionally|按地区，在地区上|o
+requisite|必需的，必要的;必需品|o;o
+retaliatory|报复性的|o
+retention|保留，保持|o
+rotational|旋转的|o
+shithead|蠢货，混蛋(口语)|o
+sidereal|恒星的|o
+sleepover|在朋友家过夜|o
+smelt|熔炼，冶炼;胡瓜鱼;smell 的过去式|v;o;o
+sonnet|十四行诗|o
+splatter|溅，泼;飞溅，溅污|v;o
+strumpet|娼妓，荡妇|o
+stylist|发型师，造型师;文体家|o;o
+subgroup|子群，小组|o
+superhuman|超人的|o
+swimsuit|泳衣|o
+talkative|健谈的，话多的|o
+theorize|创立理论，推测|v
+trapping|设陷阱捕捉;trappings: 外在标志，附属物|o;n
+unambiguously|明确地，毫不含糊地|o
+unfairly|不公平地|o
+unipolar|单极的|o
+untested|未经检验的|o
+upturn|好转，上升|o
+utensil|厨具，器皿|o
+warily|谨慎地，警惕地|o
+amyloid|淀粉样蛋白(组织中的异常沉积)|o
+apparel|服装|o
+aquaculture|水产养殖|o
+beekeeper|养蜂人|o
+behemoth|庞然大物|o
+bioluminescence|生物发光|o
+boron|硼(化学元素B)|o
+budgie|虎皮鹦鹉|o
+collarbone|锁骨|o
+commissary|供应站，小卖部(军队、监狱);食堂|o;o
+concave|凹的|o
+conceptually|在概念上|o
+conduit|管道，渠道;传递的途径，中介|o;o
+constitutionally|依照宪法;天生地，本质上|o;o
+convulsion|抽搐，惊厥;剧变，动乱|o;o
+correctness|正确性;political correctness: 政治正确|o;n
+creatively|富有创造性地|o
+crucify|钉死在十字架上;严厉批评|v;v
+cruelly|残忍地|o
+cynic|愤世嫉俗者|o
+dabble|浅尝，涉猎;戏水|v;v
+darkly|阴沉地，不祥地;用深色|o;o
+dashboard|汽车仪表盘;数据看板|o;o
+declassification|解密(机密文件)|o
+dexterity|手巧，灵巧;思维敏捷|o;o
+dignitary|要人，显贵|o
+dipole|偶极子|o
+distill|蒸馏;提炼精华|v;v
+echolocation|回声定位|o
+embryonic|胚胎的;初期的，萌芽阶段的|o;o
+empathetic|有同理心的，能体谅他人的|o
+enactment|(法律的)颁布;扮演，表演|o;o
+encore|返场加演;再来一个!|o;o
+exhilarating|令人兴奋的|o
+fanaticism|狂热|o
+favela|巴西贫民窟|o
+firecracker|鞭炮，爆竹|o
+fission|裂变(原子或细胞)|o
+fonio|福尼奥米(西非谷物)|o
+foreground|前景|o
+forfeit|(作为惩罚)丧失;罚金，处罚|v;o
+forfeiture|(财产或权利的)没收，丧失|o
+gecko|壁虎|o
+genitalia|生殖器|o
+genomic|基因组的|o
+glade|林间空地|o
+golly|天哪(表示惊讶)(口语)|o
+grotesque|怪诞的，丑陋的|o
+haggle|讨价还价|v
+hardwired|天生的，固有的|o
+horseshoe|马蹄铁|o
+hospice|临终关怀院|o
+imp|小鬼，小恶魔;顽童|o;o
+improbable|不太可能的|o
+insecticide|杀虫剂|o
+instructional|教学的，教育性的|o
+intercontinental|洲际的|o
+intimately|密切地，详尽地;亲密地，私密地|o;o
+intrinsically|本质上，固有地|o
+invariant|不变的;不变量|o;o
+juncture|时刻，关头;接合处|o;o
+keg|小桶|o
+kraut|德国佬(冒犯性，口语);德国酸菜|o;o
+latent|潜在的，潜伏的|o
+legalization|合法化|o
+ligand|配体|o
+livid|暴怒的;青紫色的(瘀伤)|o;o
+megawatt|兆瓦|o
+miscellaneous|混杂的，各种各样的|o
+mismanage|管理不善|v
+mothball|搁置，封存;mothballs: 樟脑丸|v;n
+nape|后颈|o
+nucleic|nucleic acid: 核酸(DNA或RNA)|n
+opine|发表意见|v
+outcast|被社会抛弃的人|o
+perseverance|毅力，坚持不懈|o
+planter|花盆，种植箱;种植园主|o;o
+plasticity|可塑性|o
+primordial|原始的，最初的|o
+projector|投影仪，放映机|o
+protestor|抗议者|o
+protocell|原始细胞|o
+psyche|心灵，灵魂|o
+raincoat|雨衣|o
+reassess|重新评估|v
+recap|概要，摘要;概括，扼要重述|o;v
+recognizable|容易认出的|o
+reload|重新装载|v
+resettlement|重新安置|o
+rigor|严格，严谨;rigor mortis: 尸僵|o;n
+router|路由器;刨槽机|o;o
+rudely|粗鲁地;突然地|o;o
+saree|纱丽(印度女性披挂服装)|o
+savanna|热带稀树草原|o
+scapula|肩胛骨|o
+scour|搜寻，翻找;擦洗|v;v
+seamlessly|无缝地，流畅地|o
+sentient|有知觉的，有意识的|o
+simplification|简化|o
+spoiler|剧透;汽车扰流板|o;o
+sponsorship|赞助|o
+stallion|公马，种马|o
+strum|弹拨(吉他)|v
+subculture|亚文化|o
+sublime|崇高的，壮美的|o
+surveyor|测量员，勘测员|o
+teem|teem with: 充满，挤满;(雨)倾泻|n;v
+teeny|极小的(口语)|o
+tidal|潮汐的|o
+touchy|敏感的，易生气的;棘手的|o;o
+transponder|应答器|o
+unbridled|不受约束的|o
+underline|在……下画线;强调|v;v
+unintentionally|无意地|o
+unmistakable|明白无误的，不会弄错的|o
+usable|可用的|o
+uuh|呃，嗯(犹豫)|o
+variability|可变性|o
+yoy|同比|o
+abdicate|退位，放弃(职责)|v
+adjective|形容词|o
+adventurer|冒险家|o
+afresh|重新，再次|o
+agonize|苦恼，焦虑|v
+altruistic|无私的，利他的|o
+ambivalent|矛盾的，心情复杂的|o
+amplification|放大，扩大|o
+anesthetic|麻醉剂|o
+assimilate|吸收，同化;融入|v;v
+atrocious|糟糕透顶的，极坏的|o
+audiobooks|有声书(audiobook 的复数)|o
+avian|鸟类的|o
+belch|打嗝|v
+bluefin|蓝鳍金枪鱼|o
+bluish|带蓝色的|o
+bookie|赌注登记人|o
+botanist|植物学家|o
+brocade|锦缎|o
+caffeine|咖啡因|o
+calibre|才干，水准;口径|o;o
+cartographer|地图绘制者|o
+causal|因果的|o
+charger|充电器;战马|o;o
+chronological|按时间顺序的|o
+citizenry|全体公民|o
+codependency|共依存(不健康的情感依赖)|o
+comer|来者;all comers: 所有参加者|o;n
+craftsman|工匠，手艺人|o
+craze|一时的风尚，热潮|o
+cuss|骂人，咒骂(口语);人，家伙(口语)|v;o
+deduce|推断，推论|v
+devolve|下放(权力)|v
+dew|露水|o
+disambiguation|消歧义，释义|o
+disenfranchise|剥夺选举权或其他权利|v
+dishonest|不诚实的，欺诈的|o
+dropout|辍学者|o
+eavesdrop|偷听|v
+efface|抹去;efface oneself: 不出风头，躲在幕后|v;n
+endear|endear oneself to: 讨……喜欢|n
+epidemiological|流行病学的|o
+evangelical|福音派的;狂热的|o;o
+evilly|邪恶地|o
+expedient|方便的，权宜的;权宜之计|o;o
+eyesight|视力|o
+facet|方面;(宝石的)刻面|o;o
+fearsome|可怕的|o
+fictionalized|虚构化的，部分虚构的|o
+fondly|深情地;天真地(期望)|o;o
+forgery|赝品，伪造品;伪造(文件)|o;o
+gall|厚颜，胆量;苦涩，怨恨;惹恼|o;o;v
+glutinous|黏的|o
+headland|岬角|o
+healer|治疗者|o
+heist|抢劫|o
+henceforth|从今以后|o
+hernia|疝气|o
+hierarchical|等级制的，分层的|o
+housemaid|女佣|o
+humanism|人文主义|o
+idly|懒散地，无所事事地|o
+imma|我要，我打算(口语)|f1s
+infusion|浸泡的饮品，泡剂;注入;静脉输液|o;o;o
+insensible|失去知觉的;未察觉的;无感觉的|o;o;o
+interstellar|星际的|o
+intravenous|静脉内的|o
+ionic|离子的;爱奥尼亚式的(柱头呈涡卷形)|o;o
+ish|大约，差不多(口语)|o
+keenly|强烈地，热切地|o
+knapsack|背包|o
+lackluster|平淡无奇的，乏味的|o
+lawful|合法的|o
+leaflet|传单，小册子|o
+liquidation|清算，清盘;杀害，消灭|o;o
+marketer|营销人员|o
+medicinal|药用的，有疗效的|o
+menopause|更年期，绝经|o
+merciless|无情的，残忍的|o
+metabolize|代谢(食物、药物)|v
+metaphorical|比喻的，隐喻的|o
+millennial|千禧一代(约1981–1996年出生);千年的|o;o
+mitzva|诫命;善行(犹太教)|o;o
+monetarist|货币主义的|o
+moult|换毛，蜕皮|v
+naturalist|博物学家|o
+nausea|恶心|o
+nonfiction|非虚构作品|o
+overrun|侵占，蜂拥而入;超出(时间、费用)|v;v
+panellist|小组成员，嘉宾|o
+pediatric|儿科的|o
+penchant|爱好，偏好|o
+penetrative|穿透性的，敏锐的|o
+pervade|弥漫，遍及|v
+phenotype|表型|o
+placate|安抚，平息|v
+ploy|策略，花招|o
+podium|讲台，领奖台|o
+qualitative|定性的，质的|o
+receptionist|前台接待员|o
+regrettable|令人遗憾的|o
+relocation|搬迁，迁移|o
+repudiation|拒绝，否认|o
+ruff|褶边领;(鸟兽)颈部的一圈羽毛或毛|o;o
+sanitary|卫生的，清洁的;sanitary pad: 卫生巾|o;n
+sedition|煽动叛乱|o
+seesaw|跷跷板;来回摇摆|o;v
+selectively|有选择地|o
+separatism|分离主义|o
+sexist|性别歧视的|o
+shoelace|鞋带|o
+sidekick|跟班，助手|o
+skyline|天际线|o
+snippet|片段，摘录|o
+sociological|社会学的，社会的|o
+spurn|轻蔑地拒绝|v
+standalone|独立的|o
+suitor|求婚者，追求者|o
+superficial|肤浅的;表面的|o;o
+superstitious|迷信的|o
+teaspoon|茶匙|o
+tellingly|能说明问题地，意味深长地|o
+tenuous|薄弱的，微弱的|o
+toothpaste|牙膏|o
+topography|地形，地势|o
+trainee|受训者，实习生|o
+triplet|三胞胎之一;三个一组|o;o
+unimpressed|不以为然的|o
+unwelcome|不受欢迎的|o
+unyielding|坚定的，不屈的|o
+uptight|紧张的，焦虑的;拘谨的(口语)|o;o
+venerable|德高望重的|o
+veterinarian|兽医|o
+vivo|in vivo: 在活体内|n
+voiceless|无声的，不能说话的;清音的(语音)|o;o
+wasteland|荒地|o
+accompaniment|伴奏;伴随物，配菜|o;o
+acquiescence|默许，默认|o
+adjunct|附属物，辅助物;助理的，兼职的(教师)|o;o
+aggressor|侵略者，攻击者|o
+agribusiness|农业综合企业|o
+ambient|周围的，环境的;ambient music: 氛围音乐|o;n
+amphibious|水陆两栖的|o
+anonymously|匿名地|o
+apt|恰当的，合适的;apt to: 易于，往往会|o;n
+arbiter|仲裁者，裁决者|o
+assorted|各式各样的，混杂的|o
+asymmetrical|不对称的|o
+authorship|作者身份|o
+awash|被水淹没的;awash with: 充斥着|o;n
+banknote|纸币，钞票|o
+baptize|施洗|v
+bewitch|施魔法于，使着迷|v
+biomaterial|生物材料|o
+biometric|生物识别的(指纹、面部等)|o
+blackness|黑暗|o
+brisk|轻快的，干脆利落的;凉爽清新的|o;o
+buoy|浮标;使漂浮;使振作|o;v;v
+caucus|党团会议;党团|o;o
+choral|合唱的|o
+cloudy|多云的;浑浊的，不清楚的|o;o
+codeine|可待因|o
+compatibility|兼容性，相容性|o
+concessional|优惠的(指贷款)|o
+conflagration|大火|o
+cyan|青色|o
+deform|使变形，扭曲|v
+disengage|脱离，撤出|v
+disrespectful|无礼的，不尊重的|o
+dissuade|劝阻|v
+duly|适当地，按时地;果然，如预期|o;o
+ebb|(潮水)退落;衰退;ebb and flow: 起伏，盛衰|v;v;n
+enquire|询问|v
+façade|建筑物正面;假象，外表|o;o
+fluff|绒毛;空洞无物的内容;搞砸|o;o;v
+goofy|傻乎乎的(口语)|o
+hereafter|今后，此后;来世|o;o
+improper|不正确的，不当的;不得体的，下流的|o;o
+imprudence|轻率，不谨慎|o
+lurch|突然倾斜，蹒跚;leave in the lurch: 撇下不管，弃之不顾|v;n
+lush|茂盛的，葱郁的;豪华的|o;o
+malady|疾病|o
+mournful|悲伤的，哀痛的|o
+mutilate|使残废，毁损|v
+piety|虔诚|o
+seasoning|调料，调味品|o
+shamelessly|无耻地|o
+surreal|超现实的，离奇的|o
+unzip|拉开拉链;解压缩(文件)|v;v
+vapour|蒸汽，气体，雾气|o
+vigilance|警惕，警觉|o
+ballroom|舞厅|o
+balm|香膏，药膏;慰藉|o;o
+blazer|西装外套|o
+cauldron|大锅|o
+cetacean|鲸类动物(鲸、海豚、鼠海豚)|o
+communion|Holy Communion: 圣餐;心灵相通|n;o
+courtier|朝臣，廷臣|o
+cower|畏缩，蜷缩|v
+defensively|防御性地，戒备地|o
+doorknob|门把手|o
+edict|法令，敕令|o
+faithfully|忠实地，忠诚地;准确地;yours faithfully: 此致敬礼(正式书信结尾)|o;o;n
+firmness|坚定，决心;坚固，结实|o;o
+flirty|爱调情的|o
+flurry|一阵(雪);一阵忙乱|o;o
+gallantry|英勇;(对女性的)殷勤|o;o
+gash|深长的伤口;划出深伤口|o;v
+glaze|釉，光滑涂层;上釉，涂层;glaze over: (眼神)变得呆滞|o;v;n
+gloss|光泽;词语注释;gloss over: 掩饰，轻描淡写|o;o;n
+hairpin|发夹;hairpin bend: 急转弯|o;n
+harpoon|鱼叉，捕鲸叉|o
+indulgence|放纵，享受;享受之物，犒劳;宽容，纵容|o;o;o
+insatiable|贪得无厌的，永不满足的|o
+knitting|编织|o
+knowingly|故意地，蓄意地;心照不宣地|o;o
+monotonous|单调的，乏味的|o
+mould|霉菌;模具;塑造|o;o;v
+onlooker|旁观者|o
+ooze|渗出，缓慢流出;软泥|v;o
+paralyse|使瘫痪|v
+patter|啪嗒声，轻拍声;流利的顺口话|o;o
+precipice|悬崖|o
+putter|闲逛，慢悠悠地做琐事;推杆(高尔夫)|v;o
+quench|解(渴);扑灭(火)|v;v
+rashly|鲁莽地|o
+rasp|刺耳的刮擦声;粗锉刀|o;o
+relapse|(病或恶习)复发;故态复萌|o;v
+repute|名声，声誉|o
+rivet|铆钉;铆接;吸引(注意力)|o;v;v
+roadside|路边|o
+sanity|神志正常，理智|o
+sedan|轿车;sedan chair: 轿子|o;n
+shabby|破旧的，寒酸的;不公平的，卑劣的|o;o
+sorta|有点儿(口语)|o
+spiky|有尖刺的;易怒的|o;o
+spoonful|一匙|o
+stamen|雄蕊|o
+sundry|各种各样的;all and sundry: 所有人|o;n
+swoon|(因激动)昏倒|v
+tack|图钉，平头钉;方针，方法;粗缝，暂时固定|o;o;v
+tambourine|铃鼓|o
+tipsy|微醉的|o
+truthfully|诚实地，老实说|o
+twas|那是(即 it was)|f3s
+unbreakable|牢不可破的，摔不碎的|o
+unparalleled|无与伦比的|o
+unspeakable|难以形容的(坏)|o
+untimely|过早的;不合时宜的|o;o
+unwell|不舒服的，生病的|o
+unwillingly|不情愿地|o
+wholesome|有益健康的;品德良好的，健康向上的|o;o
+wickedness|邪恶|o
+amorous|多情的，表示爱欲的|o
+backside|屁股;后部|o;o
+baptism|洗礼|o
+berate|严厉斥责|v
+dote|dote on: 溺爱|n
+enigma|谜，难解之事|o
+err|犯错|v
+festivity|庆祝活动|o
+foretell|预言|v
+gilt|镀金层;镀金的|o;o
+imprudent|不明智的，轻率的|o
+insolence|傲慢无礼|o
+mellow|柔和的，醇厚的，悠闲的|o
+morsel|一小口(食物)|o
+nevermind|没关系，算了|o
+nook|角落，隐蔽处|o
+oat|燕麦;oats: 燕麦片|o;n
+realisation|意识到，领悟;实现(目标)|o;o
+repulsive|令人厌恶的|o
+rustic|乡村的，质朴粗犷的|o
+secretive|遮遮掩掩的，守口如瓶的|o
+shockingly|骇人地，糟糕透顶地;惊人地|o;o
+sleepless|失眠的，不眠的|o
+snout|(动物的)口鼻部|o
+stench|恶臭|o
+stony|多石的;冷漠的，无情的|o;o
+subterranean|地下的|o
+tentatively|试探性地，暂时地|o
+unaccountable|无法解释的，奇怪的;不对任何人负责的|o;o
+urchin|顽童，小淘气;sea urchin: 海胆|o;n
+vehemently|激烈地，强烈地|o
+weakling|弱者|o
+befit|适合，与……相称|v
+blacken|使变黑，变黑|v
+blissful|极其幸福的|o
+bulky|庞大笨重的|o
+drawl|拖长腔调说话;慢吞吞的腔调|v;o
+elongate|拉长，延长|v
+ember|余烬|o
+extricate|使摆脱(困境)|v
+flawless|完美无瑕的|o
+gaily|欢快地;色彩鲜艳地|o;o
+ginseng|人参|o
+hanger|衣架|o
+hectic|忙乱的，繁忙的|o
+homeroom|班级教室，点名时间(美国学校)|o
+imbue|使充满，灌输(某种品质)|v
+infirmary|医院;医务室|o;o
+lamentation|哀悼，哀号|o
+nauseous|恶心的，想吐的;令人作呕的|o;o
+ordeal|磨难，痛苦的经历|o
+penance|赎罪，苦行|o
+perspiration|汗水|o
+rebirth|复兴;重生|o;o
+recline|向后靠，斜躺|v
+recluse|隐士，隐居者|o
+reek|发出恶臭;恶臭|v;o
+relent|让步，态度软化|v
+rigging|(船的)索具;操纵(选举)|o;o
+ruddy|红润的(脸色);该死的(口语)|o;o
+ruffian|恶棍，暴徒|o
+shockwave|冲击波;巨大震动，广泛震惊|o;o
+sketchbook|素描本|o
+skillful|熟练的，灵巧的|o
+spout|壶嘴，出水口;喷出;滔滔不绝地说|o;v;v
+stubbornness|固执，倔强|o
+sunflower|向日葵|o
+surly|脾气坏的，粗鲁的|o
+triumphantly|得意洋洋地，胜利地|o
+uncontrollable|无法控制的|o
+vainly|徒劳地;自负地|o;o
+venomous|有毒的;恶毒的|o;o
+volley|(枪弹、拳头的)齐发，一阵;截击(球未落地前击球)|o;o
+watchful|警惕的，留心的|o
+worldly|尘世的，物质的;老练的，世故的|o;o
+abt|关于，大约(口语)|o
+adamant|坚决的，毫不动摇的|o
+affront|侮辱，冒犯;冒犯，得罪|o;v
+anemone|银莲花;sea anemone: 海葵|o;n
+angst|焦虑，忧惧|o
+apologetic|表示歉意的，愧疚的|o
+astray|偏离正路;go astray: 迷路，误入歧途|o;n
+balustrade|栏杆|o
+berth|(船、火车的)铺位;泊位;give a wide berth: 避开，敬而远之|o;o;n
+camper|露营者;房车|o;o
+comprehension|理解|o
+coven|女巫集会|o
+covet|觊觎，垂涎(他人之物)|v
+deflate|放气;使泄气，挫其锐气|v;v
+distraught|心烦意乱的|o
+dreadfully|非常，极其糟糕地|o
+gloomily|忧郁地，悲观地|o
+hysterically|歇斯底里地(笑、哭)|o
+idleness|懒惰;闲散，无所事事|o;o
+impel|驱使，迫使|v
+impotent|无能为力的;阳痿的|o;o
+incredulous|不相信的，怀疑的|o
+makeshift|临时凑合的，权宜的|o
+novice|新手;见习修士或修女|o;o
+ooo|哦(惊讶、喜悦)|o
+permeate|渗透，弥漫|v
+pheasant|野鸡，雉|o
+pleasantry|客套话，寒暄|o
+savour|细细品味|v
+sledge|雪橇;大锤|o;o
+sleeved|有袖的|o
+stately|庄严的，宏伟的|o
+stirrup|马镫|o
+unmoved|无动于衷的|o
+utterance|话语，言论|o
+vortex|漩涡，旋风|o
+whiteness|白色|o
+authoritative|权威的，可靠的;命令式的，威严的|o;o
+brandish|挥舞(武器)|v
+brazen|厚颜无耻的，大胆的|o
+brilliantly|出色地;非常明亮地|o;o
+cavalier|漫不经心的，傲慢的;骑士，保王党人|o;o
+chandelier|枝形吊灯|o
+dint|by dint of: 凭借，依靠|n
+fidelity|忠诚，忠实;准确，保真度|o;o
+forthwith|立即|o
+glorify|赞美，美化|v
+greenish|带绿色的|o
+highschool|高中，中学|o
+lengthen|加长，延长|v
+lighthearted|轻松愉快的，不严肃的|o
+motherly|母亲般的，慈爱的|o
+nourishment|食物，营养|o
+onslaught|猛攻|o
+pasture|牧场|o
+perceptible|可察觉的|o
+placid|平静的，安宁的|o
+relive|重温(回忆中)|v
+resurface|重新出现;重铺路面|v;v
+rune|如尼字母(古代字母);魔法符号|o;o
+sickle|镰刀|o
+silvery|银色的，似银的|o
+snug|温暖舒适的;贴身的|o;o
+stormy|有暴风雨的;动荡的，激烈的|o;o
+supposition|假设，推测|o
+thermometer|温度计|o
+tidings|消息|o
+tiredness|疲劳|o
+understatement|轻描淡写，说得过轻|o
+unkind|不友善的，刻薄的|o
+unstoppable|无法阻挡的|o
+windmill|风车|o
+aggrieve|使受委屈，使苦恼;aggrieved: 感到委屈的，愤愤不平的|v;n
+alleyway|小巷|o
+assuredly|无疑地，肯定地|o
+baronet|准男爵(英国世袭爵位，低于男爵)|o
+benevolence|仁慈，善心|o
+berserk|go berserk: 狂怒，发狂|n
+bookshelf|书架|o
+bugle|军号|o
+cloister|回廊;修道院|o;o
+contemptuously|轻蔑地|o
+cot|婴儿床;折叠床，行军床|o;o
+drowsy|昏昏欲睡的|o
+elegantly|优雅地|o
+elm|榆树|o
+eloquent|雄辩的，有说服力的|o
+expend|花费，耗尽|v
+fain|乐意地，欣然|o
+ferocity|凶猛，残暴|o
+fervor|热情，热忱|o
+gratification|满足，喜悦|o
+humbly|谦卑地|o
+impenetrable|无法穿过的;难以理解的|o;o
+indigo|靛蓝色|o
+inseparable|不可分割的;形影不离的|o;o
+instigate|发起，煽动|v
+introspection|内省，反省|o
+kraken|北海巨妖|o
+legging|leggings: 紧身裤，打底裤|n
+likeness|相似;肖像|o;o
+liquefy|液化|v
+multifaceted|多方面的|o
+obscurity|默默无闻;晦涩，模糊|o;o
+palisade|栅栏，木栅|o
+persevere|坚持不懈|v
+radiance|光辉，光芒;容光焕发|o;o
+retrace|折返，重走|v
+seatbelt|安全带|o
+selfie|自拍照|o
+skater|滑冰者，滑板者|o
+slouch|无精打采地坐或站，垂头弯腰;no slouch: 能手，并非等闲之辈|v;n
+spectre|幽灵;可怕的前景，阴影|o;o
+spurt|喷出，涌出;突然迸发，一阵|v;o
+stateroom|船上的私人舱房;豪华大厅，国宾厅|o;o
+tearful|含泪的，哭泣的|o
+therein|在其中，在那里|o
+thereupon|随即，于是|o
+unbroken|完整的，未破损的;连续不断的|o;o
+unknowingly|不知不觉地，无意中|o
+affirmation|肯定，确认;积极的自我肯定语|o;o
+cinder|煤渣，余烬|o
+cockpit|驾驶舱|o
+detonator|雷管，引爆装置|o
+dilate|扩张，扩大|v
+etiquette|礼仪，礼节|o
+exterminate|消灭，根除|v
+fae|仙灵，精灵族|o
+fervent|热烈的，热情的|o
+flake|薄片(如雪花);靠不住的人(口语);剥落|o;o;v
+foggy|有雾的;糊涂的，模糊的|o;o
+fortitude|坚忍，刚毅|o
+fruitless|徒劳的，无成果的|o
+fulfil|履行，完成;满足|v;v
+furry|毛茸茸的|o
+ghostly|幽灵般的|o
+girdle|紧身褡;腰带|o;o
+haggard|憔悴的|o
+heater|加热器，暖气|o
+impertinent|无礼的，粗鲁的|o
+inexperienced|缺乏经验的|o
+lacrosse|长曲棍球|o
+mahogany|桃花心木|o
+pantry|食品储藏室|o
+perpetually|永远地，不断地|o
+pleasurable|令人愉快的|o
+regal|帝王的，庄严的|o
+ridiculously|荒唐地，可笑地|o
+splutter|语无伦次地说，唾沫飞溅;发出噼啪声|v;v
+sputter|发出噼啪声;(说话、运转)断断续续，结巴|v;v
+tendon|肌腱|o
+thrice|三次|o
+thunderstorm|雷暴，雷雨|o
+unbeknownst|unbeknownst to: 在……不知情的情况下|n
+unsteady|不稳的，摇晃的|o
+wavy|波浪状的，弯曲的|o
+abhor|憎恶|v
+advisable|明智的，可取的|o
+ailment|小病|o
+arduous|艰巨的，费力的|o
+billiard|billiards: 台球|n
+bleacher|bleachers: 露天看台|n
+bloodshot|(眼睛)充血的|o
+bough|大树枝|o
+candlelight|烛光|o
+caprice|任性，心血来潮|o
+casket|棺材;小盒子|o;o
+chastise|严厉斥责|v
+childlike|孩子般的，天真的|o
+colourful|色彩丰富的;生动的，丰富多彩的|o;o
+confessor|听告解的神父;忏悔者，坦白者|o;o
+disconcert|使不安，使慌乱|v
+disgraceful|可耻的|o
+elapse|(时间)流逝|v
+excruciating|极度痛苦的|o
+flannel|法兰绒;洗脸毛巾|o;o
+flog|鞭打;卖(口语)|v;v
+fondness|喜爱|o
+frankness|坦率，直率|o
+futon|日式床垫|o
+gendarme|(法国)宪兵，警察|o
+ghoul|食尸鬼;对恐怖事物感兴趣的人|o;o
+gibbet|绞架|o
+hairstyle|发型|o
+harpy|鹰身女妖;凶恶贪婪的女人|o;o
+hideout|藏身处|o
+jackal|豺，胡狼|o
+matriarch|女家长，女族长|o
+menacingly|威胁地|o
+meticulous|一丝不苟的，精确的|o
+minion|奴才，喽啰|o
+mysteriously|神秘地，莫名其妙地|o
+nigh|接近的;well nigh: 几乎|o;n
+nimble|敏捷的，灵活的|o
+pamper|纵容，娇惯|v
+peculiarly|奇怪地;特别地|o;o
+penthouse|顶层豪华公寓|o
+perchance|或许，偶然|o
+petite|娇小的(指女性)|o
+prod|戳，捅;催促，敦促;一戳|v;v;o
+recharge|再充电;恢复精力|v;v
+refinement|优雅，教养;改进，完善|o;o
+sadistic|施虐的，以他人痛苦为乐的|o
+saffron|藏红花(香料);橘黄色|o;o
+saunter|闲逛，漫步|v
+slither|蛇行，滑行|v
+solstice|至日(夏至或冬至)|o
+starry|布满星星的|o
+stow|收起，存放;stow away: 偷乘(船或飞机)|v;n
+tradesman|店主，商人;手艺人，技工|o;o
+tremor|颤抖;轻微地震|o;o
+unreadable|难以辨认的;(表情)难以捉摸的|o;o
+unruly|难以控制的，不守规矩的|o
+veneer|饰面，薄层;假象，虚饰|o;o
+viciously|凶残地，恶毒地|o
+warble|用颤音唱，啭鸣|v
+barbarous|野蛮的，残暴的;未开化的|o;o
+billow|(烟、帆)翻腾，鼓起;巨浪，滚滚烟云|v;o
+boudoir|女士私室，闺房|o
+bridegroom|新郎|o
+bubbly|活泼的，开朗的;香槟(口语)|o;o
+busily|忙碌地|o
+cask|木桶|o
+chortle|咯咯地笑|v
+cinnamon|肉桂|o
+contemptuous|轻蔑的|o
+defiantly|挑衅地，公然反抗地|o
+delusional|妄想的|o
+earnestness|认真，诚恳|o
+flatly|断然地，直截了当地;平淡地，毫无感情地|o;o
+freshness|新鲜，清新|o
+gunpowder|火药|o
+hoard|秘密囤积;秘藏之物|v;o
+interlock|互锁，连锁|v
+intricacy|错综复杂;intricacies: 细节，复杂之处|o;n
+knack|诀窍，本领|o
+lodger|房客|o
+machete|大砍刀|o
+malevolent|恶意的，恶毒的|o
+mollusk|软体动物(如蜗牛、蛤)|o
+nonstop|不停的，直达的|o
+observant|观察力敏锐的|o
+peal|(钟声)鸣响;(笑声、雷声)一阵|o;o
+pooh|呸(表示厌恶或轻蔑)|g
+purify|净化|v
+rile|惹恼|v
+saucer|茶碟|o
+seedling|幼苗|o
+shipwreck|海难;失事船只|o;o
+spasm|痉挛;一阵发作|o;o
+steely|坚定的，冷峻的;钢铁般的|o;o
+thicken|变厚，变浓|v
+tortoise|陆龟，乌龟|o
+unbuckle|解开搭扣|v
+undoing|毁灭，垮台|o
+unroll|展开(卷着的东西)|v
+whereupon|于是，随即|o
+wholeheartedly|全心全意地|o
+aimlessly|漫无目的地|o
+appendage|附肢，附属物|o
+approbation|认可，赞许|o
+battlements|城垛，雉堞|o
+behead|斩首|v
+beige|米色|o
+betroth|许配;betrothed: 已订婚的|v;n
+betrothal|订婚|o
+bittersweet|苦乐参半的|o
+blabber|喋喋不休，多嘴|v
+bloodline|血统|o
+blot|污渍，污点;吸干;blot out: 遮住，抹去|o;v;n
+brooding|忧郁沉思的;阴森的，令人不安的|o;o
+caramel|焦糖;太妃糖|o;o
+carp|鲤鱼;抱怨，挑剔|o;v
+chasm|深渊，裂缝;巨大分歧|o;o
+concealment|隐藏|o
+conformity|遵从，顺从规范|o
+crinkle|起皱;细皱纹|v;o
+croon|轻声哼唱|v
+defile|玷污，亵渎;隘路，峡谷|v;o
+detour|绕行，绕道|o
+discreetly|谨慎地，不引人注目地|o
+doubly|加倍地|o
+ensnare|诱捕，使陷入|v
+flit|轻快地掠过|v
+gipsy|吉普赛人，罗姆人;流浪者|o;o
+glimmering|发出微光的;微光，迹象|o;o
+godly|虔诚的|o
+halter|笼头，缰绳;halter top: 露背吊带上衣|o;n
+ima|我要，我打算(口语)|f1s
+immature|不成熟的，幼稚的;未长成的|o;o
+inasmuch|inasmuch as: 因为，在……的范围内|n
+inert|静止的，不动的;惰性的|o;o
+inquisitive|好奇的，爱打听的|o
+intoxication|醉酒;陶醉，兴奋|o;o
+jovial|快活的，友善的|o
+lute|鲁特琴|o
+mascara|睫毛膏|o
+matrimony|婚姻|o
+mulberry|桑树;桑葚|o;o
+nosy|爱打听的，好管闲事的|o
+otherworldly|超凡脱俗的，空灵的|o
+pacify|安抚，平息;平定|v;v
+patrician|贵族;贵族的|o;o
+pillage|掠夺，抢劫|v
+pillory|公开嘲弄;颈手枷(示众刑具)|v;o
+quaint|古色古香的，别致的|o
+readjust|重新调整，重新适应|v
+seduction|勾引，诱奸;诱惑力，吸引力|o;o
+shirtless|光着上身的|o
+sift|筛;仔细审查|v;v
+sill|窗台，门槛|o
+slant|倾斜，斜坡;偏向，角度;倾斜|o;o;v
+somber|昏暗的，阴郁的，严肃的|o
+speck|小斑点|o
+spew|喷出，呕吐|v
+splendor|壮丽，辉煌|o
+strut|趾高气扬地走;支柱|v;o
+totter|蹒跚，摇晃|v
+troublemaker|惹是生非者，捣乱分子|o
+unfathomable|深不可测的，难以理解的|o
+vamp|妖妇，荡妇;即兴伴奏|o;v
+visor|帽舌;(头盔的)面罩|o;o
+vocation|使命感，职业|o
+whiff|一股淡淡的气味;一丝迹象|o;o
+windy|多风的|o
+yellowish|带黄色的|o
+ablaze|着火的;灯火辉煌的|o;o
+abreast|并排地;keep abreast of: 了解……的最新情况|o;n
+appreciative|感激的;表示欣赏的|o;o
+asunder|分开，成碎片|o
+ceaseless|不停的，无休止的|o
+censure|谴责，责难;正式谴责|o;v
+cobbler|补鞋匠;水果馅饼(顶部有酥皮)|o;o
+condescension|屈尊俯就的态度，居高临下|o
+dab|轻触，轻涂;少量;dab hand: 能手|v;o;n
+deference|尊重，顺从|o
+delirium|谵妄，神志不清;狂喜|o;o
+delude|欺骗，蒙蔽|v
+despicable|卑鄙的，可鄙的|o
+devout|虔诚的|o
+floral|花的|o
+forefinger|食指|o
+galleon|大帆船(西班牙战舰)|o
+infamy|恶名，耻辱|o
+jerky|颠簸的，不平稳的;肉干|o;o
+lanky|瘦高的|o
+lukewarm|温热的;冷淡的，不热心的|o;o
+mottle|mottled: 斑驳的，杂色的|n
+mutton|羊肉|o
+nightgown|睡袍，睡裙|o
+notary|公证人|o
+pedestal|基座，底座;put on a pedestal: 把……捧上天，理想化|o;n
+promontory|岬角，海角|o
+prostrate|俯卧的;被击垮的;俯伏，拜倒|o;o;v
+pun|双关语|o
+roundhouse|大摆拳，回旋踢;圆形机车库|o;o
+schoolboy|男学生|o
+selfishness|自私|o
+sickening|令人作呕的|o
+skid|打滑，失控滑行|v
+sled|雪橇|o
+smudge|污迹，模糊的痕迹;弄脏，涂污|o;v
+splendour|壮丽，辉煌|o
+unaffected|未受影响的;自然的，真诚的|o;o
+unnerve|使紧张，使不安|v
+wrack|折磨;wrack and ruin: 毁灭，破败|v;n
+battleship|战列舰|o
+canine|犬的;狗;canine tooth: 犬齿|o;o;n
+chai|印度奶茶|o
+cheekbone|颧骨|o
+convulse|剧烈抖动，抽搐|v
+coronet|小冠冕|o
+diligence|勤奋，勤勉|o
+diligently|勤奋地，认真地|o
+dismissively|不屑一顾地|o
+doth|做(does 的古体)|f3s
+emo|情绪硬核风格;情绪硬核迷|o;o
+evince|表明，显示|v
+farthing|法寻(旧时英国硬币，四分之一便士)|o
+fickle|变化无常的，靠不住的|o
+fissure|裂缝|o
+flail|乱挥，胡乱摆动;连枷|v;o
+hag|丑老太婆，巫婆|o
+humanoid|类人生物，人形机器人|o
+hyperventilate|换气过度，呼吸过快|v
+luncheon|午宴|o
+mandible|下颌骨|o
+meekly|温顺地，顺从地|o
+oblivion|被遗忘，湮没;昏迷，不省人事|o;o
+passageway|走廊，通道|o
+skilful|熟练的，灵巧的|o
+stuffy|闷热的，不通风的;古板的，自负的|o;o
+truthful|诚实的|o
+unforgiving|不宽容的;严酷的|o;o
+vehemence|激烈，猛烈|o
+verily|真正地，确实|o
+vibes|氛围，感觉(口语);颤音琴|o;o

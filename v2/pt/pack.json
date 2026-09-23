@@ -1,26 +1,26 @@
 {
   "id": "pt",
-  "version": "1.1.10",
+  "version": "1.1.14",
   "files": {
     "lex": {
       "path": "lex.txt",
       "license": "unencumbered",
-      "sha256": "2be00313c21be59746b46f45c9dbcad02af2a63d3fd287c1a4853a76aa3c1c6b"
+      "sha256": "250c1588803b4e46273995f9f7249b7c8a227dd89b972755900fbfad0f7432cd"
     },
     "gloss.en": {
       "path": "gloss.en.txt",
       "license": "unencumbered",
-      "sha256": "ef078dd0d7f3b88b2ea471d52642f7282dfd6d20f7ed2c3bc5c925c5f51f2afe"
+      "sha256": "c3b70db3e54932482b8e9ab0ba2440fd6dc10852e196ef451c568270c25bc548"
     },
     "ranks": {
       "path": "ranks.txt",
       "license": "CC-BY-SA-4.0",
-      "sha256": "7342876c73d567d9de187c78950907d368cae2db81f7d7d6e1c1f1e40a108ad4"
+      "sha256": "2d0bb1db2ad1e9aad96bb7f0dc368f1b648b10b9c63aed2bfdcfeb2716084ea9"
     },
     "lemmas": {
       "path": "lemmas.txt",
       "license": "ODbL-1.0",
-      "sha256": "050d66c09b27a84c59b0b467c76857fa001ece7b1b71d0c351482549ad96cef4"
+      "sha256": "a7993fb3e40535b0981a77bd44fa5cd10ce5ffaae665b143382d43f146ef04fe"
     },
     "sample": {
       "path": "sample.txt",

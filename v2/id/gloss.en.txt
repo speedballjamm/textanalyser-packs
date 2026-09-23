@@ -9799,3 +9799,2568 @@ terpeleset|to slip, to lose one's footing|v
 toleran|tolerant|o
 lantik|to inaugurate, to swear in (to office)|v
 kemenakan|nephew, niece (= keponakan)|o
+cerpen|short story|o
+sakti|having supernatural power, magically potent|o
+adinda|younger sibling (formal, affectionate); my dear (to a wife or lover)|o;o
+sahut|to reply, to answer (a call)|v
+ilustrator|illustrator|o
+hulubalang|warrior chief, royal commander|o
+nan|that, which (literary, = yang)|o
+ceritera|story (= cerita)|o
+kesaktian|supernatural power, magic power|o
+sirih|betel leaf, betel|o
+biodata|biographical details, bio|o
+titah|royal command, decree|o
+tang|pliers, pincers|o
+punggawa|royal official, courtier|o
+sayembara|contest, competition (for a prize)|o
+tara|equal, match; tiada tara: unequalled, unrivalled|o;n
+intan|diamond|o
+hikayat|tale, chronicle (classical Malay narrative)|o
+telaga|lake, pond|o
+pinta|request, wish|o
+bertapa|to meditate in seclusion, to live as an ascetic|v
+keraton|palace (of a Javanese ruler)|o
+nakhoda|ship's captain, skipper|o
+pinang|areca nut, betel nut|o
+dian|lamp, candle|o
+reka|to devise, to invent|v
+tuk|for, to (colloq., = untuk)|o
+duli|dust; ke bawah duli: at the feet of His Majesty|o;n
+sagu|sago|o
+bedil|gun, rifle|o
+rotan|rattan, cane|o
+menyahut|to reply, to answer (a call)|v
+syahdan|and so, now then (opening a tale)|o
+mah|as for (topic particle) (colloq.)|o
+mengaji|to recite the Qur'an, to study the Qur'an|v
+nujum|astrology, fortune-telling; ahli nujum: astrologer, soothsayer|o;n
+laskar|troops, militia|o
+puan|madam, lady|o
+penelaah|reviewer, examiner (of a text)|o
+nyak|mum, mother (colloq.)|o
+bait|stanza, verse|o
+tapa|ascetic meditation, austerity|o
+pantun|pantun, quatrain (traditional rhyming verse)|o
+meminang|to propose marriage to, to ask for the hand of|v
+satria|knight, noble warrior|o
+merantau|to leave home to seek one's fortune|v
+kening|forehead, brow|o
+arif|wise, sagacious|o
+gada|mace, club (weapon)|o
+tertegun|stunned, taken aback, stopped short|o
+lirih|soft, faint (of a voice)|o
+preposisi|preposition|o
+gamelan|gamelan (Javanese percussion orchestra)|o
+khazanah|treasury; wealth, store (of culture or knowledge)|o;o
+kadi|qadi, Islamic judge|o
+lumbung|rice barn, granary|o
+baharu|new (= baru)|o
+kawula|subject, servant (of a ruler); I, your servant (humble); kawula muda: young people|o;f1s;n
+lauk|side dish (eaten with rice)|o
+alu|pestle (for pounding rice)|o
+nagari|nagari, village community (West Sumatra)|o
+sastrawan|writer, man of letters|o
+tar|cake, tart (usu. kue tar)|o
+cengkih|clove|o
+diceriterakan|told, narrated (= diceritakan)|o
+gasing|spinning top|o
+asri|beautiful, lovely (of scenery)|o
+pinangan|marriage proposal|o
+magrib|sunset; sunset prayer|o;o
+nyaring|loud, shrill, ringing|o
+dwibahasa|bilingual|o
+imajinatif|imaginative|o
+gundah|troubled, uneasy, anxious|o
+serempak|simultaneously, in unison|o
+balairung|audience hall (of a palace)|o
+periuk|cooking pot|o
+angan|thought, imagination; angan-angan: daydream, wishful thinking|o;n
+sarat|laden, loaded, full (of)|o
+pendapa|open pavilion, front hall (of a Javanese house)|o
+royong|gotong royong: mutual help, communal work|n
+kesusastraan|literature|o
+mahligai|palace, royal residence|o
+murung|gloomy, glum, moody|o
+mudik|to go back to one's home town (esp. for Lebaran); to go upstream|v;v
+alkisah|once upon a time, so the story goes|o
+mufakat|agreement, consensus|o
+pelanduk|mouse deer|o
+kolong|space underneath (a bed, table or house)|o
+nira|palm sap|o
+bercucuran|streaming down, pouring (of tears, sweat)|o
+emban|nursemaid (of a royal child), lady-in-waiting|o
+limau|lime, citrus fruit|o
+mangkat|to die, to pass away (of a ruler)|v
+ringgit|ringgit (Malaysian currency)|o
+bakul|basket|o
+bubu|fish trap|o
+lengser|to step down, to abdicate|v
+jeng|Miss, sis (address to a young woman)|o
+alah|oh come on, bah (dismissive)|o
+bersila|to sit cross-legged|v
+nangka|jackfruit|o
+lesung|rice mortar; lesung pipi: dimple|o;n
+tersedu-sedu|sobbing|o
+beradab|civilised, well-mannered|o
+kuli|labourer, coolie, porter|o
+rebah|to collapse, to fall down; to lie down|v;v
+bersimpuh|to sit with legs folded to one side|v
+ditelaah|studied, examined|o
+kahyangan|heaven, abode of the gods|o
+pelosok|remote corner, remote area|o
+pilu|sad, heartbroken|o
+terperanjat|startled, taken aback|o
+bestari|wise, learned, cultivated|o
+kaula|servant, subject; I (humble)|o;f1s
+pesantren|Islamic boarding school|o
+rimbun|dense, leafy (of foliage)|o
+kekar|sturdy, muscular|o
+tersohor|famous, renowned|o
+sigap|quick, alert, deft|o
+berwibawa|authoritative, commanding respect|o
+tangkas|agile, nimble, deft|o
+betah|to feel at home, to be comfortable staying somewhere|v
+gempar|in an uproar, in a commotion|o
+kosa|kosa kata: vocabulary|n
+padepokan|retreat, school (of martial arts or mysticism)|o
+perangai|character, disposition, behaviour|o
+rupawan|handsome, good-looking|o
+biawak|monitor lizard|o
+rantau|land away from home (where one seeks a living)|o
+kendi|earthenware water jug|o
+ilalang|cogon grass|o
+mengelus|to stroke, to caress|v
+mencekam|tense, eerie, gripping|o
+nuri|lory, parrot|o
+pawang|shaman, charmer (of animals or weather)|o
+tunggul|tree stump|o
+isak|sob, sobbing|o
+perkutut|zebra dove|o
+azan|call to prayer|o
+insan|human being|o
+masya|masya Allah: good heavens, my God|n
+menghaturkan|to offer, to convey (respectfully)|v
+mite|myth|o
+menyongsong|to go out to meet, to welcome; to face (the future)|v;v
+mami|mum, mummy (colloq.)|o
+mempersunting|to take as a wife|v
+menyodorkan|to hold out, to hand over, to offer|v
+antarbudaya|intercultural|o
+layu|wilted, withered|o
+rampai|bunga rampai: anthology, miscellany|n
+baliho|billboard|o
+nunggu|to wait (colloq., = menunggu)|v
+lidi|palm-leaf rib; sapu lidi: broom of palm-leaf ribs|o;n
+nian|truly, very (literary)|o
+penggawa|royal official, courtier (= punggawa)|o
+reklame|advertisement, billboard|o
+urung|called off, to not go ahead|o
+penyamun|robber, bandit|o
+menceriterakan|to tell, to narrate (= menceritakan)|v
+merebahkan|to lay down; merebahkan diri: to lie down|v;n
+sayup-sayup|faint, faintly (of a distant sound)|o
+terbahak-bahak|guffawing, laughing uproariously|o
+mujur|lucky, fortunate|o
+ulu|hilt, handle; ulu hati: pit of the stomach|o;n
+manikam|gem, jewel|o
+genderang|large drum, war drum|o
+mandau|mandau (Dayak machete)|o
+paseban|audience hall (of a Javanese court)|o
+tekukur|spotted dove|o
+kemenyan|incense, benzoin|o
+prakata|foreword, preface|o
+bergotong|bergotong royong: to work together, to cooperate|n
+dangau|hut (in a field)|o
+enau|sugar palm|o
+jajan|to buy snacks; snack|v;o
+hahaha|ha ha ha (laughter)|o
+pecel|pecel (vegetables with peanut sauce)|o
+telunjuk|index finger, forefinger|o
+tuak|palm wine|o
+duhai|oh (vocative, literary)|o
+kenduri|ritual feast, communal meal|o
+manggil|to call (colloq., = memanggil)|v
+assalamualaikum|peace be upon you (Muslim greeting)|o
+birahi|lust, sexual desire|o
+keladi|taro|o
+kodrat|(God-given) nature, destiny|o
+hayat|life|o
+gala|gala, festive occasion|o
+menimpali|to chime in, to respond|v
+terkapar|sprawled, lying helpless|o
+tukas|to retort, to snap back|v
+bingkisan|parcel, gift package|o
+laksa|laksa (spicy noodle soup); ten thousand|o;o
+berkecamuk|to rage, to be in turmoil|v
+ijuk|sugar-palm fibre|o
+tempayan|large earthenware jar|o
+bersahutan|to answer one another, to call back and forth|v
+pesanggrahan|rest house, lodge|o
+berlinang|brimming, welling (with tears)|o
+nahkoda|ship's captain, skipper (= nakhoda)|o
+wibawa|authority, dignity, prestige|o
+menerawang|to gaze into space, to daydream|v
+risau|anxious, worried, restless|o
+daku|I, me (literary)|f1s
+dikaji|studied, examined|o
+fasilitator|facilitator|o
+huma|dry field, swidden (for hill rice)|o
+penyuluhan|public education, extension work|o
+angkara|evil, greed; angkara murka: wickedness, tyranny|o;n
+pendopo|open pavilion, front hall (of a Javanese house)|o
+rumbia|sago palm; sago-leaf thatch|o;o
+menghunus|to draw, to unsheathe (a weapon)|v
+buk|ma'am, Mrs (colloq., = bu)|o
+sua|to meet (usu. bersua)|v
+kasuari|cassowary|o
+pedati|cart (drawn by an ox or buffalo)|o
+tergopoh-gopoh|hurriedly, in a flustered rush|o
+halilintar|thunderbolt, lightning|o
+berjajar|in a row, lined up|o
+rima|rhyme|o
+kura|kura-kura: turtle, tortoise|n
+maritim|maritime|o
+folklor|folklore|o
+naratif|narrative|o
+taji|cockspur, spur|o
+balam|turtle dove|o
+ketus|curt, sharp-tongued|o
+leluasa|free, unrestricted, at ease|o
+menumpas|to crush, to wipe out|v
+penat|tired, weary|o
+belimbing|star fruit|o
+gapura|gateway, arched gate|o
+kenari|canary; canarium nut|o;o
+pelita|oil lamp, lamp|o
+peribahasa|proverb, saying|o
+sentosa|peaceful, secure, tranquil|o
+beo|myna bird|o
+bertubi-tubi|repeatedly, in rapid succession|o
+kuali|wok, cooking pan|o
+sesajen|offering (to spirits)|o
+bersua|to meet|v
+semerbak|fragrant, spreading (of a scent)|o
+jejaka|young bachelor, youth|o
+was-was|anxious, apprehensive|o
+narasumber|source, informant, resource person|o
+bersanding|to sit side by side (esp. bride and groom)|v
+depa|fathom (arm-span)|o
+melarat|poor, destitute|o
+semilir|gentle (of a breeze)|o
+sendu|melancholy, sad|o
+disadur|adapted (from another work)|o
+krama|krama (polite register of Javanese)|o
+molek|pretty, lovely|o
+pelepah|frond stalk (of a palm)|o
+temurun|turun-temurun: from generation to generation, hereditary|n
+biduanda|royal page, court attendant|o
+menjalar|to creep, to spread|v
+peluh|sweat|o
+sontak|suddenly, abruptly|o
+cangkul|hoe|o
+janggut|beard|o
+keruh|murky, cloudy, turbid|o
+laun|lambat laun: gradually, eventually|n
+menitahkan|to command, to decree|v
+kudu|must, have to (colloq., = harus)|o
+mempan|effective (on); tidak mempan: immune, unaffected|o;n
+suntuk|bored, fed up; semalam suntuk: all night long|o;n
+terkulai|drooping, limp|o
+bercengkerama|to chat together, to enjoy each other's company|v
+mengucur|to gush, to pour out|v
+papeda|papeda (sago porridge)|o
+belanga|earthenware cooking pot|o
+sorai|sorak sorai: cheers, cheering|n
+glosarium|glossary|o
+manggis|mangosteen|o
+melilit|to wind around, to coil around|v
+sawo|sapodilla|o
+usungan|stretcher, litter|o
+gemerlapan|glittering, sparkling|o
+kati|catty (weight, about 0.6 kg)|o
+ndak|no, not (colloq., = tidak)|o
+aren|sugar palm|o
+kapuk|kapok|o
+meringis|to grimace, to wince|v
+pelupuk|eyelid (usu. pelupuk mata)|o
+perhelatan|celebration, festive event|o
+takzim|respectful, reverent|o
+langsat|langsat (small tropical fruit)|o
+menggempur|to attack, to pound|v
+pening|dizzy, with a headache|o
+rerumputan|grasses, grass|o
+pujangga|poet, man of letters|o
+aha|aha|o
+apak|musty, stale (of a smell)|o
+belia|young, youthful|o
+berjejer|in a row, lined up|o
+kepatihan|residence of the chief minister (patih)|o
+lunglai|limp, weak|o
+sampe|until; to arrive (colloq., = sampai)|o;v
+terisak|sobbing|o
+terisak-isak|sobbing, between sobs|o
+terjal|steep, precipitous|o
+menanak|to cook (rice)|v
+mendekap|to hug, to hold close|v
+petaka|disaster, calamity|o
+alang-alang|cogon grass|o
+hem|hmm; shirt|o;o
+menganga|gaping, wide open|o
+bersemedi|to meditate|v
+cendana|sandalwood|o
+loba|greedy, avaricious|o
+nalar|reason, reasoning|o
+bengong|dazed, staring blankly (colloq.)|o
+perantauan|place away from home (where one seeks a living)|o
+sayu|sad, wistful (of eyes); dim|o;o
+gara|gara-gara: because of|n
+gotong|to carry together; gotong royong: mutual help, communal work|v;n
+rubuh|to collapse, to topple (= roboh)|v
+taraf|level, standard|o
+transliterasi|transliteration|o
+belibis|whistling duck|o
+gubug|hut, shack (= gubuk)|o
+menggarap|to work on; to cultivate (land)|v;v
+menggerutu|to grumble, to mutter|v
+mualim|ship's mate, navigator; religious teacher|o;o
+alunan|swell, waves; strains (of music)|o;o
+gontai|staggering, unsteady (of a gait)|o
+kuduk|nape (of the neck); bulu kuduk: hairs on the back of the neck|o;n
+maligai|palace (= mahligai)|o
+nomina|noun|o
+macapat|macapat (Javanese verse form)|o
+praja|state, government; pamong praja: civil service|o;n
+termangu|lost in thought, dazed|o
+diapit|flanked (by)|o
+gerimis|drizzle|o
+lemang|glutinous rice cooked in bamboo|o
+noken|noken (Papuan string bag)|o
+ruah|melimpah ruah: overflowing, abundant|n
+talas|taro|o
+tambur|drum|o
+zuhur|midday prayer; midday|o;o
+gerutu|grumble|o
+guruh|thunder|o
+majas|figure of speech|o
+sufi|Sufi|o
+taun|year (colloq., = tahun)|o
+tersipu|shy, bashful, embarrassed|o
+gundik|concubine, mistress|o
+lakon|play, drama; role; plot|o;o;o
+lembing|spear, javelin|o
+termasyhur|famous, renowned|o
+berduyun-duyun|in droves, in crowds|o
+berimbas|to have an impact (on)|v
+disuguhkan|served; presented (to)|o;o
+karsa|will, intention|o
+mengi|wheezing, asthma|o
+oya|oh yes, by the way (colloq.)|o
+terlena|lulled, drowsy; carried away|o;o
+ujud|form, shape (= wujud)|o
+digarap|worked on; cultivated|o;o
+golek|wayang golek: wooden rod-puppet theatre|n
+kecut|sour; cowed, afraid|o;o
+ketangkasan|agility, skill|o
+luruh|to fall, to drop (of leaves)|v
+nekat|reckless, desperate; to do at all costs|o;v
+nurut|to obey (colloq., = menurut)|v
+dermawan|generous; philanthropist|o;o
+galah|long pole|o
+gundul|bald, shaven; bare (of hills)|o;o
+jemari|fingers|o
+kraton|palace (of a Javanese ruler) (= keraton)|o
+ooo|oh|o
+anjung|annexe, raised platform (of a house)|o
+makcik|auntie|o
+mamah|mum (colloq.); to chew|o;v
+matra|dimension|o
+onde-onde|onde-onde (sesame-coated rice ball)|o
+penafian|denial, disclaimer|o
+siamang|siamang (black gibbon)|o
+koordinator|coordinator|o
+kopiah|skullcap, peci|o
+mancung|high-bridged, pointed (of a nose)|o
+pundi-pundi|purse, coffers|o
+tentram|peaceful, calm (= tenteram)|o
+ajian|magic spell, charm|o
+berangsur|to proceed gradually; berangsur-angsur: gradually|v;n
+bunting|pregnant (of animals)|o
+dai|preacher, Islamic missionary|o
+jenaka|funny, witty, comic|o
+lugu|naive, innocent, artless|o
+serai|lemongrass|o
+berahi|lust, sexual desire (= birahi)|o
+durja|face, countenance; muram durja: gloomy, downcast|o;n
+nipis|jeruk nipis: lime|n
+nista|disgraceful, contemptible|o
+pukat|trawl net, dragnet|o
+tergesa|in a hurry, hasty (usu. tergesa-gesa)|o
+falsafah|philosophy|o
+gawe|work, job (colloq.)|o
+gempita|thunderous; gegap gempita: uproarious, tumultuous|o;n
+joglo|joglo (traditional Javanese house)|o
+larik|row, line|o
+lauk-pauk|side dishes (eaten with rice)|o
+sanggul|hair bun, chignon|o
+sholat|ritual prayer (= salat)|o
+teko|teapot, kettle|o
+honai|honai (Papuan round hut)|o
+kewibawaan|authority, prestige|o
+lika|lika-liku: twists and turns, ins and outs|n
+sabung|to fight (of cocks); sabung ayam: cockfighting|v;n
+sauh|anchor|o
+terperangah|astonished, dumbfounded|o
+cendekia|learned, intellectual|o
+diselingi|interspersed (with), interrupted (by)|o
+meladeni|to serve, to wait on; to take on (an opponent)|v;v
+tumben|for once, unusually (colloq.)|o
+berlaga|to fight, to compete|v
+lengang|deserted, quiet, empty|o
+madah|hymn of praise, eulogy|o
+referen|referent|o
+sediakala|as before; seperti sediakala: back to normal|o;n
+siswi|schoolgirl, female pupil|o
+syahadat|Islamic confession of faith|o
+ulin|ironwood|o
+balau|kacau balau: chaotic, in disarray|n
+gawai|gadget, device|o
+kusir|coachman, driver (of a horse cart)|o
+menasehati|to advise (= menasihati)|v
+mendongak|to look up, to raise one's head|v
+semarak|splendour, festive glow; lively|o;o
+talam|tray|o
+tapai|tapai (fermented cassava or rice)|o
+etnik|ethnic|o
+khidmat|solemn; reverent|o;o
+murai|magpie robin|o
+suluh|torch|o
+tiung|hill myna|o
+apatah|apatah lagi: let alone, all the more|n
+berbinar|to sparkle, to shine (of eyes)|v
+gemulai|graceful, supple (of movement)|o
+goyah|shaky, unsteady, wavering|o
+titian|footbridge, plank bridge|o
+verba|verb|o
+akh|ah, ugh|o
+dirundung|beset (by), afflicted (by)|o
+jadah|haram jadah: bastard|n
+musti|must (colloq., = mesti)|o
+nda|no, not (colloq., = tidak)|o
+nibung|nibung palm|o
+rampung|finished, completed|o
+suluk|Sufi mystical path|o
+tasawuf|Sufism, Islamic mysticism|o
+berjongkok|to squat|v
+canang|small gong; canang (Balinese offering)|o;o
+masyhur|famous, renowned|o
+suling|bamboo flute|o
+taut|joined, linked (usu. bertaut)|o
+warta|news, report|o
+berkutik|to budge, to stir; tidak berkutik: helpless, powerless to act|v;n
+bertandang|to pay a visit|v
+dulang|tray; pan (for panning gold)|o;o
+hardik|harsh rebuke, snarl|o
+ikal|curly, wavy (of hair)|o
+janur|young coconut leaf (for decorations)|o
+kuskus|cuscus (marsupial)|o
+mengganjal|to prop up, to wedge; to nag at, to bother (of a feeling)|v;v
+paya|swamp, marsh|o
+priyayi|Javanese aristocrat, gentry|o
+sangsi|doubtful, hesitant|o
+biduk|small boat, canoe|o
+kampak|axe|o
+rancak|lively, vigorous; attractive|o;o
+sandang|clothing; sandang pangan: food and clothing|o;n
+melongo|gaping, open-mouthed (colloq.)|o
+salak|snakefruit; bark (of a dog)|o;o
+gelatik|Java sparrow|o
+kelu|tongue-tied, mute|o
+lipan|centipede|o
+membahana|to resound, to echo|v
+nangkap|to catch (colloq., = menangkap)|v
+bergotong-royong|to work together, to cooperate|v
+hara|nutrient; huru-hara: riot, turmoil|o;n
+kasa|gauze|o
+mantu|son-in-law, daughter-in-law (= menantu)|o
+mencubit|to pinch|v
+moga|may, hopefully (= semoga)|o
+nyuruh|to tell, to order (colloq., = menyuruh)|v
+sayup|faint, distant (of a sound)|o
+tamah|ramah tamah: friendly, hospitable|n
+tersulut|ignited, kindled; provoked|o;o
+gabah|unhusked rice grain|o
+gentong|large earthenware jar|o
+lawas|old, vintage|o
+menceburkan|to plunge (into water), to throw in|v
+nanya|to ask (colloq., = bertanya)|v
+tapis|filter, sieve|o
+buntung|cut off, maimed (of a limb)|o
+lha|well, why (colloq.)|o
+mengalun|to swell, to undulate; to lilt (of music)|v;v
+nipah|nipa palm|o
+sunat|circumcision; recommended but not obligatory (in Islam)|o;o
+utan|forest (= hutan)|o
+bergeming|motionless, unmoved|o
+betung|giant bamboo|o
+cemeti|whip|o
+kencur|kencur, aromatic ginger; bau kencur: green, inexperienced|o;n
+membabat|to cut down, to clear; to wipe out|v;v
+nekad|reckless, desperate (= nekat)|o
+nulis|to write (colloq., = menulis)|v
+pasu|basin, bowl|o
+penataran|training course, upgrading course|o
+pulut|glutinous rice|o
+sanggah|objection; to refute|o;v
+berkumandang|to resound, to echo|v
+bumbung|bamboo tube; ridge (of a roof)|o;o
+celetuk|to blurt out, to quip|v
+jagad|world, universe (= jagat)|o
+menjulur|to stick out, to extend|v
+antarmanusia|between people, interpersonal|o
+bertatahkan|studded with, inlaid with|o
+gayung|water dipper, scoop|o
+gudeg|gudeg (young jackfruit stew)|o
+insaf|aware, conscious; repentant|o;o
+jalar|creeping, spreading (usu. menjalar)|o
+karam|to sink, to be shipwrecked|v
+kasmaran|lovesick, infatuated|o
+khasanah|treasury; wealth, store (of culture or knowledge) (= khazanah)|o;o
+pikuk|hiruk pikuk: hustle and bustle, din|n
+rekaan|invention, fabrication; fictional|o;o
+revitalisasi|revitalisation|o
+sanubari|heart, inner self|o
+tulah|curse (as supernatural retribution)|o
+wudu|ritual ablution|o
+beliung|adze; puting beliung: tornado, whirlwind|o;n
+bendi|two-wheeled horse carriage|o
+berembus|to blow (of wind)|v
+dandang|rice steamer|o
+kalut|confused, chaotic, in turmoil|o
+melengking|to screech; shrill|v;o
+melulu|only, nothing but|o
+menyembul|to emerge, to pop up, to protrude|v
+musala|small prayer room, prayer house|o
+ngantuk|sleepy (colloq., = mengantuk)|o
+pakis|fern|o
+sabil|perang sabil: holy war|n
+titisan|incarnation, reincarnation|o
+zamrud|emerald|o
+hiruk|hiruk pikuk: hustle and bustle, din|n
+jenang|jenang (sweet rice-flour confection)|o
+kanak|kanak-kanak: child|n
+lanun|pirate|o
+melantunkan|to sing, to chant (melodiously)|v
+menerka|to guess|v
+mengidam|to have cravings (in pregnancy); to long for|v;v
+nemukan|to find (colloq., = menemukan)|v
+nerima|to accept, to receive (colloq., = menerima)|v
+pencak|pencak silat: Indonesian martial art|n
+pundi|purse (usu. pundi-pundi)|o
+sembrani|kuda sembrani: winged horse|n
+tersedu|sobbing|o
+ngaji|to recite the Qur'an (colloq., = mengaji)|v
+sukur|thank God (= syukur)|o
+terbirit-birit|helter-skelter, in a panic (of running away)|o
+berdecak|to click the tongue|v
+ditabuh|beaten, played (of a drum or gong)|o
+gerah|sultry, stuffy, hot|o
+jukung|dugout canoe|o
+menyeringai|to grin, to grimace|v
+menyeruak|to push one's way through, to burst through|v
+merambah|to clear (forest); to expand into|v;v
+merang|rice straw|o
+ngajak|to invite, to ask along (colloq., = mengajak)|v
+oleng|to roll, to lurch, to sway|v
+rona|colour, hue; complexion|o;o
+terhenyak|stunned, taken aback|o
+alaikum|assalamu alaikum: peace be upon you|n
+deskriptif|descriptive|o
+dianyam|woven, plaited|o
+hiruk-pikuk|hustle and bustle, din|o
+jangkung|tall, lanky|o
+melerai|to break up (a fight), to separate (fighters)|v
+menanjak|to climb, to go uphill|v
+menubruk|to crash into, to bump into; to pounce on|v;v
+nagasari|nagasari (steamed banana cake)|o
+pelik|complicated, intricate|o
+tandas|thoroughly, completely (usu. habis tandas); toilet|o;o
+tempoyak|tempoyak (fermented durian)|o
+tumpuan|support, foothold; focus (of hopes)|o;o
+jongkok|squatting; to squat|o;v
+kualitatif|qualitative|o
+nas|authoritative text (from the Qur'an or hadith)|o
+penyuluh|extension worker, public adviser|o
+siung|clove (of garlic)|o
+suasa|gold-copper alloy|o
+dentuman|boom, bang, thud|o
+ngambil|to take (colloq., = mengambil)|v
+sekuntum|a (single) flower|o
+sembab|swollen, puffy (of eyes)|o
+terhunus|drawn, unsheathed (of a weapon)|o
+ternganga|gaping, open-mouthed|o
+anggrek|orchid|o
+bergidik|to shudder (with fear or disgust)|v
+ikhtiar|effort, endeavour|o
+keriting|curly, frizzy|o
+kudis|scabies, mange|o
+mancanegara|foreign countries, abroad|o
+membuyarkan|to scatter, to break up (thoughts, a crowd)|v
+menyuguhkan|to serve (to a guest); to present|v;v
+ngapa|why (colloq., = mengapa)|o
+saban|every, each|o
+seloka|seloka (Malay verse form)|o
+teki|teka-teki: riddle, puzzle|n
+terpampang|displayed, posted up|o
+waalaikumsalam|and peace be upon you (reply to a greeting)|o
+wedang|hot drink (e.g. ginger tea)|o
+berkelit|to dodge, to evade|v
+berujud|in the form of (= berwujud)|o
+capung|dragonfly|o
+celengan|piggy bank, money box|o
+dibalut|bandaged, wrapped|o
+kuntilanak|kuntilanak (female ghost)|o
+mengelu-elukan|to hail, to acclaim, to cheer|v
+sesumbar|boast, bragging|o
+warni|warna-warni: colourful|n
+anugrah|gift, grace, award (= anugerah)|o
+goni|jute; karung goni: gunny sack|o;n
+hehe|hehe (chuckle)|o
+kemiri|candlenut|o
+kunang|kunang-kunang: firefly|n
+luntur|to fade, to run (of colour); to wane|v;v
+mencangkul|to hoe|v
+pagelaran|performance, show (= pergelaran)|o
+pamali|taboo (colloq.)|o
+purut|jeruk purut: kaffir lime|n
+rebung|bamboo shoot|o
+redaktur|editor|o
+riam|rapids|o
+rohaniah|spiritual|o
+berbinar-binar|sparkling, shining (of eyes)|o
+bermenung|to brood, to muse|v
+eee|er, uh (hesitation)|o
+gotong-royong|mutual help, communal work|o
+kontekstual|contextual|o
+onggokan|heap, pile|o
+pencalang|pencalang (small Malay trading boat)|o
+ayal|tak ayal: inevitably, without doubt|n
+baheula|zaman baheula: the olden days (colloq.)|n
+gemerlap|glittering, sparkling|o
+hehehe|hehehe (chuckle)|o
+kaul|vow|o
+kemilau|gleaming, shining; sheen|o;o
+kesetiakawanan|solidarity|o
+ketam|crab; plane (carpenter's tool)|o;o
+khayangan|heaven, abode of the gods (= kahyangan)|o
+kos|rented room, boarding house|o
+manca|manca negara: foreign countries|n
+menabuh|to beat, to play (a drum or gong)|v
+mengernyitkan|to knit (the brow), to wrinkle|v
+pusara|grave, tomb|o
+seantero|throughout, the whole (of)|o
+suguhan|refreshments (served to guests); performance, show|o;o
+tawakal|trust in God, resignation to God's will|o
+tertatih-tatih|toddling, tottering|o
+ummi|mother, mum (form of address)|o
+bersimbah|drenched, soaked (in blood or sweat)|o
+buaian|cradle; swing|o;o
+butut|worn-out, shabby|o
+kalap|in a frenzy, berserk|o
+kandas|to run aground; to fail, to founder|v;v
+menambatkan|to moor, to tie up|v
+mengibaskan|to flick, to swish, to shake off|v
+pemudi|young woman|o
+pupus|to fade, to wither; to vanish (of hope)|v;v
+raib|to vanish, to disappear|v
+rawit|cabai rawit: bird's-eye chilli|n
+sangar|fierce-looking, menacing; haunted|o;o
+terjerembab|to fall flat, to fall face down|v
+tongkonan|tongkonan (Toraja ancestral house)|o
+bercengkrama|to chat together, to enjoy each other's company (= bercengkerama)|v
+caping|conical bamboo hat|o
+cengkeh|clove|o
+getir|bitter (of an experience)|o
+ikhwal|matters, circumstances (= ihwal)|o
+khusuk|devout, absorbed (in prayer) (= khusyuk)|o
+menenteng|to carry (dangling from the hand)|v
+menilik|to observe, to look into|v
+selempang|sash|o
+terlentang|lying on one's back|o
+tersengal-sengal|panting, gasping|o
+umbul-umbul|pennant, festive banner|o
+netra|eye (literary)|o
+ane|I, me (colloq.)|f1s
+antarsuku|interethnic|o
+bergelantungan|hanging, dangling (in numbers)|o
+insyaallah|God willing|o
+jera|deterred, having learned one's lesson|o
+ketoprak|ketoprak (Javanese folk drama); ketoprak (tofu and noodle dish)|o;o
+khilaf|mistake, oversight; to err|o;v
+kolak|kolak (sweet coconut-milk dessert)|o
+pelit|stingy, mean|o
+realisme|realism|o
+rebana|tambourine, frame drum|o
+rubrik|column, section (of a newspaper)|o
+semburat|streak (of colour or light)|o
+terpaut|attached, bound (of the heart); apart (of ages or amounts)|o;o
+tersipu-sipu|shyly, bashfully|o
+ampas|dregs, pulp, residue|o
+bahari|maritime, nautical; ancient|o;o
+bergerombol|to cluster, to gather in groups|v
+bertualang|to go adventuring|v
+dengkur|snore|o
+diparang|hacked (with a machete)|o
+kalimah|word, phrase (esp. a religious formula)|o
+lagak|swagger, airs, manner|o
+lipstik|lipstick|o
+memboyong|to take (one's family, a bride) to a new home|v
+memo|memo|o
+milih|to choose (colloq., = memilih)|v
+pedagogis|pedagogical|o
+penghayatan|appreciation, deep understanding|o
+puskesmas|community health centre|o
+rintik-rintik|drizzle, patter (of rain)|o
+rujak|rujak (fruit salad with spicy sauce)|o
+seia|seia sekata: in agreement, of one mind|n
+sempoyongan|staggering, reeling|o
+beringsut|to shift, to edge along|v
+dalih|pretext, excuse|o
+disodorkan|held out, handed over, offered|o
+lembayung|violet, crimson-purple (of the sunset sky)|o
+makrifat|mystical knowledge of God|o
+melayat|to pay one's respects to the dead|v
+mendengkur|to snore|v
+palawija|secondary crops (grown after rice)|o
+pinggan|plate, dish|o
+tifa|tifa (Papuan hand drum)|o
+unto|camel (= unta)|o
+peleton|platoon|o
+berembuk|to confer, to discuss|v
+beringas|fierce, wild, savage|o
+dawet|dawet (iced drink with rice-flour jelly)|o
+digencarkan|intensified, stepped up|o
+disuguhi|served, treated (to)|o
+gencar|intense, relentless|o
+hayo|come on; hey (warning) (colloq.)|o;o
+kelor|moringa|o
+klepon|klepon (palm-sugar-filled rice balls)|o
+kuntul|egret|o
+menimang|to rock, to dandle (a baby)|v
+mimik|facial expression|o
+moga-moga|hopefully, may|o
+ransum|ration(s)|o
+sepoi|sepoi-sepoi: gentle (of a breeze)|n
+susila|moral, decent; decency|o;o
+terbahak|guffawing (usu. terbahak-bahak)|o
+tuba|fish poison (derris root)|o
+ulam|raw vegetables (eaten with rice)|o
+akik|agate|o
+berdendang|to sing, to hum|v
+compang-camping|ragged, tattered|o
+duku|duku (fruit related to langsat)|o
+ekstrakurikuler|extracurricular|o
+huru-hara|riot, turmoil|o
+ketela|cassava; ketela rambat: sweet potato|o;n
+mengepalkan|to clench (a fist)|v
+mitologis|mythological|o
+pedukuhan|hamlet|o
+pegal|stiff, aching (of muscles)|o
+pitam|naik pitam: to fly into a rage|n
+waswas|anxious, apprehensive (= was-was)|o
+cebol|dwarf|o
+kesurupan|possessed (by a spirit)|o
+menggelepar|to flounder, to flap about, to writhe|v
+menyibak|to part (hair, curtains), to push aside|v
+mistik|mystical; mysticism|o;o
+pelipis|temple (of the head)|o
+rajah|tattoo; magic inscription|o;o
+salawat|blessings invoked on the Prophet|o
+adab|manners, courtesy, civility|o
+berikhtiar|to strive, to make an effort|v
+berjanggut|bearded|o
+gardu|guard post, sentry box|o
+gatra|aspect, dimension|o
+lontong|lontong (rice cake cooked in banana leaf)|o
+meliuk-liuk|to sway, to twist, to wind|v
+memintal|to spin (thread)|v
+mengeroyok|to gang up on, to mob|v
+montok|plump, chubby, curvaceous|o
+naas|unlucky, ill-fated (= nahas)|o
+perjaka|bachelor, young man; virgin (male)|o;o
+rimbunan|thicket, dense foliage|o
+sekam|rice husk, chaff|o
+seutas|a length (of string or rope)|o
+tilam|mattress|o
+areal|area, tract (of land)|o
+atma|soul (literary)|o
+besan|co-parent-in-law (parent of one's child's spouse)|o
+dadak|sudden (usu. mendadak)|o
+dodol|dodol (sticky toffee-like sweet)|o
+kadangkala|sometimes|o
+kulup|foreskin|o
+lengkuas|galangal|o
+mengguyur|to douse, to pour over; to pour down (of rain)|v;v
+mumpuni|highly skilled, competent|o
+ngilu|aching, sharp pain (of teeth or joints)|o
+penyebarluasan|dissemination|o
+prosentase|percentage (= persentase)|o
+religi|religion, religiosity|o
+saduran|adaptation (of a literary work)|o
+stilistika|stylistics|o
+alhasil|in the end, as a result|o
+bergumul|to wrestle, to grapple; to struggle|v;v
+diksi|diction|o
+ditambatkan|moored, tied up|o
+lantunan|singing, strains (of a song), recitation|o
+menepis|to brush aside, to fend off; to dismiss|v;v
+mengerling|to glance sideways|v
+perdu|shrub, bush|o
+rapor|school report card|o
+tercekat|choked, caught in the throat (of the voice)|o
+terngiang|ringing (in one's ears), echoing (in one's mind)|o
+tertambat|moored, tied; attached (of the heart)|o;o
+majlis|council, assembly (= majelis)|o
+berfoya-foya|to live it up, to squander money on pleasure|v
+bokor|metal bowl (for ceremonies)|o
+dukacita|sorrow, grief; condolences|o;o
+guk|woof (a dog's bark)|o
+jamban|latrine, toilet|o
+kepalan|fist|o
+lori|lorry, truck; railway wagon|o;o
+meledek|to tease, to mock|v
+merisaukan|to worry about; worrying|v;o
+metaforis|metaphorical|o
+nyangka|to expect, to suppose (colloq., = menyangka)|v
+sinopsis|synopsis|o
+tengara|sign, indication; landmark|o;o
+tertelungkup|lying face down|o
+fraktur|fracture|o
+fungi|fungi|o
+gastropoda|gastropod|o
+kembung|bloated; ikan kembung: mackerel|o;n
+palung|trench (in the ocean floor), trough|o
+persilangan|crossing, intersection; crossbreeding|o;o
+prefabrikasi|prefabrication|o
+subduksi|subduction|o
+tinja|faeces, excrement|o
+tonase|tonnage|o
+trampolin|trampoline|o
+translasi|translation (in science)|o
+validasi|validation|o
+ambiguitas|ambiguity|o
+analgesia|analgesia|o
+antiangiogenik|antiangiogenic|o
+antidepresan|antidepressant|o
+aplaus|applause|o
+artritis|arthritis|o
+ayang|darling, honey (colloq., = sayang)|o
+berpendar|to glow, to shimmer|v
+bersungut-sungut|to grumble, to mutter|v
+biadab|barbaric, uncivilised|o
+cekung|concave, sunken, hollow|o
+dijabarkan|elaborated, spelled out|o
+dikukus|steamed|o
+dinihari|early morning (before dawn)|o
+dongkol|annoyed, resentful|o
+eceran|retail; by the piece|o;o
+handai|friend; handai taulan: friends and relations|o;n
+heliks|helix|o
+heroik|heroic|o
+infantri|infantry|o
+jambangan|vase, flower pot|o
+keroncongan|rumbling (of an empty stomach)|o
+klitoris|clitoris|o
+kobra|cobra|o
+kreator|creator|o
+kujang|kujang (Sundanese curved blade)|o
+lengkingan|shriek, screech|o
+linggi|stem (of a boat)|o
+loji|lodge; fortified colonial trading post|o;o
+luwes|supple, graceful; flexible|o;o
+melebur|to melt, to fuse; to merge|v;v
+melongok|to peep, to poke one's head in|v
+mengamen|to busk|v
+mengiakan|to say yes to, to agree to (= mengiyakan)|v
+menyulam|to embroider|v
+ningrat|aristocrat; aristocratic|o;o
+nomaden|nomadic|o
+penahbisan|ordination, consecration|o
+penyelia|supervisor|o
+porak|porak-poranda: in ruins, devastated|n
+purbakala|ancient; antiquity|o;o
+rasial|racial|o
+resveratrol|resveratrol|o
+rintik|raindrop, drizzle|o
+rubi|ruby|o
+sampo|shampoo|o
+sedu|sob, sobbing|o
+striker|striker (in football)|o
+tambatan|mooring, tether; tambatan hati: sweetheart|o;n
+temaram|dim, faint (of light)|o
+tersembul|sticking out, protruding|o
+walang|walang sangit: rice-ear bug|n
+bermediasi|to mediate|v
+cucur|kue cucur: fried palm-sugar cake|n
+dimorfisme|dimorphism|o
+introvert|introvert; introverted|o;o
+kapasitif|capacitive|o
+klasemen|league table, standings|o
+kompres|compress; to apply a compress|o;v
+mortar|mortar|o
+oksidatif|oxidative|o
+replikasi|replication|o
+tubular|tubular|o
+tundra|tundra|o
+wafer|wafer|o
+baji|wedge|o
+bernaung|to take shelter; to be under (the auspices of)|v;v
+borok|festering sore, ulcer|o
+digubah|composed (of music or poetry)|o
+distilasi|distillation|o
+dor|bang (of a gunshot)|o
+ekspositori|expository|o
+ekstruder|extruder|o
+elevasi|elevation|o
+estetik|aesthetic|o
+garing|crisp, dry; lame, unfunny (of a joke) (colloq.)|o;o
+gemericik|gurgle, babble (of water)|o
+gending|gamelan piece, Javanese melody|o
+goblok|stupid; idiot (colloq.)|o;o
+ingus|snot, mucus|o
+kegundahan|anxiety, unease|o
+ketentraman|peace, tranquillity (= ketenteraman)|o
+kuntum|bud, bloom; (counter for flowers)|o;g
+literal|literal|o
+loket|ticket window, counter|o
+mancing|to fish (colloq., = memancing)|v
+memoar|memoir|o
+mencibir|to sneer, to curl one's lip|v
+pelipur|pelipur lara: comfort, consolation|n
+penalaran|reasoning|o
+polikarbonat|polycarbonate|o
+psikoaktif|psychoactive|o
+satai|satay (= sate)|o
+separo|half (= separuh)|o
+seremonial|ceremonial|o
+skripsi|undergraduate thesis|o
+terbersit|to cross one's mind, flash through one's mind|v
+teritori|territory|o
+walet|swiftlet (edible-nest swift)|o
+filogenetik|phylogenetic|o
+firewall|firewall (computing)|o
+germo|pimp, brothel keeper|o
+katrol|pulley|o
+kecambah|sprout, seedling|o
+manipulator|manipulator|o
+motherboard|motherboard|o
+polaritas|polarity|o
+ransomware|ransomware|o
+rebound|rebound (basketball)|o
+relikui|holy relic|o
+sake|sake (Japanese rice wine)|o
+semantik|semantics, semantic|o
+terigu|wheat flour|o
+aerosol|aerosol|o
+arteriola|arteriole|o
+awang-awang|the sky, midair|o
+backend|back end (software)|o
+berdomisili|to be domiciled, reside|v
+bergelut|to wrestle, grapple; to struggle with, be engaged in|v;v
+bertumpu|to rest on, be supported by; to rely on|v;v
+bully|to bully; bullying|v;o
+eliminasi|elimination|o
+hemofilia|haemophilia|o
+historiografi|historiography|o
+inferior|inferior|o
+karawitan|traditional gamelan music|o
+kimiawan|chemist (scientist)|o
+kromatografi|chromatography|o
+lelehan|melted matter, melt (lava, wax)|o
+lembap|damp, humid, moist|o
+mengapit|to flank; to clamp, hold between|v;v
+merona|to glow, flush (of cheeks)|v
+metafase|metaphase|o
+osilasi|oscillation|o
+parlementer|parliamentary|o
+pengkaji|researcher, analyst|o
+porak-poranda|in ruins, devastated, in disarray|o
+rumbai|tassel, fringe|o
+samadi|meditation (= semadi)|o
+selulosa|cellulose|o
+sonar|sonar|o
+tumis|stir-fry, sauté|o
+anekdot|anecdote|o
+aspirin|aspirin|o
+astronaut|astronaut|o
+belatung|maggot|o
+bordil|brothel|o
+borjuasi|bourgeoisie|o
+browsing|browsing (the web)|o
+energik|energetic|o
+impikan|to dream of, long for|v
+konjektur|conjecture|o
+konseptual|conceptual|o
+megawatt|megawatt|o
+memoles|to polish; to gloss over, dress up|v;v
+mensintesis|to synthesise|v
+metalcore|metalcore (music genre)|o
+mikroskopis|microscopic|o
+neurotransmitter|neurotransmitter|o
+nitrazepam|nitrazepam (sedative)|o
+on-line|online|o
+parsec|parsec|o
+poliglot|polyglot|o
+psoriasis|psoriasis|o
+safir|sapphire|o
+sintetik|synthetic|o
+stamina|stamina|o
+timpang|unequal, lopsided; lame, limping|o;o
+voting|vote, voting|o
+adaptif|adaptive|o
+adidaya|superpower|o
+altruisme|altruism|o
+antropogenik|anthropogenic|o
+bio-revolusi|biorevolution|o
+bungee|bungee (jumping)|o
+dicanangkan|to be launched, proclaimed (of a programme)|v
+dikecam|to be criticised, condemned|v
+dililit|to be coiled around, entwined; dililit utang: burdened with debt|v;n
+disintegrasi|disintegration|o
+dorsal|dorsal|o
+emansipasi|emancipation|o
+eskalasi|escalation|o
+fertilitas|fertility|o
+fesyen|fashion|o
+fluktuatif|fluctuating, volatile|o
+formalisasi|formalisation|o
+fundamentalis|fundamentalist|o
+globalisme|globalism|o
+granulasi|granulation|o
+homogen|homogeneous|o
+imaji|image, imagery|o
+inefisiensi|inefficiency|o
+influensa|influenza, flu|o
+inheren|inherent|o
+inositol|inositol|o
+jidat|forehead (colloq.)|o
+kanonik|canonical|o
+kapok|to have learned one's lesson, never again (colloq.); kapok fibre|v;o
+ketidakamanan|insecurity, lack of safety|o
+kolusi|collusion|o
+komersialisasi|commercialisation|o
+komoditi|commodity (= komoditas)|o
+kompetitor|competitor|o
+komplemen|complement|o
+kronometer|chronometer|o
+memprovokasi|to provoke|v
+mending|better, preferably, would rather (colloq., = lebih baik)|o
+menggembar-gemborkan|to trumpet, make a big fuss about|v
+menindaklanjuti|to follow up|v
+mentoring|mentoring|o
+merebak|to spread, break out (disease, smell); to well up (tears)|v;v
+merogoh|to reach into (a pocket or bag); merogoh kocek: to dig into one's pocket, pay|v;n
+merongrong|to undermine, erode, gnaw at|v
+mortalitas|mortality|o
+nambah|to add, increase (colloq., = menambah)|v
+otokratis|autocratic|o
+pasirah|traditional district chief (South Sumatra)|o
+perwara|lady-in-waiting, royal attendant|o
+poci|clay teapot|o
+pongah|arrogant, conceited|o
+pragmatisme|pragmatism|o
+pro-pemerintah|pro-government|o
+proksi|proxy|o
+rajut|knitting, knitted|o
+relung|niche, recess; depths (of the heart)|o;o
+renggang|loose, with gaps; distant, estranged|o;o
+represi|repression|o
+represif|repressive|o
+risih|uneasy, uncomfortable, bothered|o
+salinitas|salinity|o
+secercah|a ray of, a glimmer of|o
+sejoli|couple, pair of lovers|o
+semboyan|motto, slogan|o
+sempoa|abacus|o
+separatis|separatist|o
+serong|slanting, askew; unfaithful (in love)|o;o
+simposium|symposium|o
+sipit|narrow (of eyes), slit-eyed|o
+spekulatif|speculative|o
+stator|stator|o
+stunting|stunting (growth failure in children)|o
+sungkawa|grief, sorrow (usu. bela sungkawa: condolence)|o
+sungut|feeler, antenna (of an insect)|o
+surveilans|surveillance|o
+syak|suspicion, doubt (usu. syak wasangka)|o
+telaten|patient and meticulous, painstaking|o
+temporal|temporal|o
+tergugah|to be moved, stirred, awakened (of feelings)|v
+terlunta-lunta|destitute, adrift, wandering aimlessly|o
+three-in-one|three-in-one (Jakarta car-occupancy rule)|o
+tiriskan|to drain (in recipes)|v
+transformasional|transformational|o
+unilateralisme|unilateralism|o
+adrenalin|adrenaline|o
+adsorpsi|adsorption|o
+akuatik|aquatic|o
+apartheid|apartheid|o
+barbar|barbaric; barbarian|o;o
+cookies|cookies (biscuits; web)|o
+definitif|definitive, final|o
+dojo|dojo|o
+faktorial|factorial|o
+formaldehid|formaldehyde|o
+frontal|frontal, head-on|o
+genius|genius|o
+hip-hop|hip-hop|o
+individualis|individualist|o
+inersia|inertia|o
+intertidal|intertidal|o
+kolibri|hummingbird|o
+kontingen|contingent (team, delegation)|o
+langsir|to shunt (railway cars)|v
+limfosit|lymphocyte|o
+metil|methyl|o
+off-road|off-road|o
+paviliun|pavilion; annex|o;o
+peubah|variable (maths, statistics)|o
+premis|premise|o
+reflektor|reflector|o
+rerata|average, mean|o
+skuat|squad (sport)|o
+spui|sluice, floodgate|o
+subdivisi|subdivision|o
+utas|thread, strand|o
+utopia|utopia|o
+verteks|vertex|o
+win-win|win-win|o
+analgesik|analgesic, painkiller|o
+aromatik|aromatic|o
+bakpia|bakpia (filled pastry)|o
+ciut|to shrink; to lose heart, falter (of courage)|v;v
+deburan|crash, pounding (of waves)|o
+detasemen|detachment (military unit)|o
+dipersunting|to be taken as a wife, married|v
+elektro|electrical, electro-|o
+eukariota|eukaryote|o
+fiktif|fictitious|o
+gubahan|composition, arrangement (music, literature)|o
+hotspot|hotspot|o
+iluminasi|illumination|o
+indung|mother, source; indung telur: ovary|o;n
+iterasi|iteration|o
+kognisi|cognition|o
+kongsi|partnership, joint venture; to share|o;v
+lancip|pointed, tapering|o
+langkan|balustrade, railing|o
+linglung|dazed, confused, absent-minded|o
+membelalak|to open one's eyes wide, stare wide-eyed|v
+mencahari|to seek, look for (= mencari)|v
+mengernyit|to frown, knit one's brows|v
+menyeruput|to sip, slurp|v
+mikir|to think (colloq., = berpikir)|v
+motong|to cut (colloq., = memotong)|v
+muasal|origin (usu. asal-muasal)|o
+mukul|to hit (colloq., = memukul)|v
+nokturnal|nocturnal|o
+nonfiksi|nonfiction|o
+ohm|ohm|o
+parutan|grater; grated (coconut)|o;o
+patologi|pathology|o
+pengisap|suction device, sucker; smoker (of cigarettes, opium)|o;o
+piutang|receivable, money owed to one|o
+prahara|storm, tempest; upheaval|o;o
+reyot|rickety, dilapidated|o
+sabetan|lash, slash (of a whip or blade)|o
+sajen|ritual offering (to spirits)|o
+sauna|sauna|o
+sitokin|cytokine|o
+tabuhan|beating (of drums, gamelan), percussion|o
+tanker|tanker|o
+tender|tender, bid|o
+terjungkal|to fall headlong, tumble over|v
+termangu-mangu|lost in thought, dazed, pensive|o
+webcam|webcam|o
+wudhu|ritual ablution (= wudu)|o
+zodiak|zodiac|o
+angan-angankan|to dream of, imagine|v
+anus|anus|o
+asimilasi|assimilation|o
+bersikukuh|to insist, hold firm|v
+berthawaf|to circle the Kaaba (= bertawaf)|v
+boson|boson|o
+dijebloskan|to be thrown (into prison)|v
+dilebur|to be melted down; to be merged|v;v
+disingkapkan|to be revealed, uncovered|v
+ditasydidkan|to be marked with a shadda (Arabic doubled consonant)|v
+dzarrah|atom, tiny particle (= zarah)|o
+elevator|elevator, lift|o
+fanatisme|fanaticism|o
+fathah|fatha (Arabic vowel mark for a)|o
+fitoplankton|phytoplankton|o
+geologis|geological|o
+goji|goji berry|o
+halau|to drive away, chase off (usu. menghalau)|v
+hijab|hijab, headscarf|o
+intravena|intravenous|o
+isolator|insulator|o
+jargon|jargon|o
+jeans|jeans|o
+jeli|observant, sharp-eyed; jelly|o;o
+kealpaan|negligence, carelessness|o
+kemelaratan|poverty, destitution|o
+kesinambungan|continuity|o
+komputasional|computational|o
+kriminalitas|crime, criminality|o
+landmark|landmark|o
+majrur|genitive (Arabic grammar)|o
+martabak|martabak (stuffed pancake)|o
+mediasi|mediation|o
+mengidgamkan|to assimilate (a letter, in Quran recitation)|v
+mengidhafatkan|to put in a genitive construction (Arabic grammar)|v
+mengimlakkan|to dictate|v
+menyamun|to rob (on the road), waylay|v
+meraup|to scoop up (with both hands); to rake in (profit)|v;v
+mualaf|convert (to Islam)|o
+mut'ah|temporary marriage (Islamic law)|o
+muttashil|attached (pronoun, Arabic grammar)|o
+nakirah|indefinite noun (Arabic grammar)|o
+naluriah|instinctive|o
+negarawan|statesman|o
+nusyuz|a spouse's disobedience (Islamic law)|o
+obyektif|objective (= objektif)|o
+patokan|benchmark, reference point; stake, marker|o;o
+pembilasan|rinsing|o
+piranha|piranha|o
+qalam|pen (Arabic)|o
+radiolog|radiologist|o
+robotik|robotic; robotics|o;o
+sinestesia|synaesthesia|o
+sofosbuvir|sofosbuvir (hepatitis C drug)|o
+spermatozoa|spermatozoa|o
+subjektif|subjective|o
+superstar|superstar|o
+syari'at|sharia, Islamic law (= syariat)|o
+tagut|false god, idol (Islam)|o
+tandan|bunch, cluster (of bananas, palm fruit)|o
+terompah|wooden sandal, clog|o
+tersedak|to choke (on food or drink)|v
+zahir|outward, visible, apparent|o
+arkeologis|archaeological|o
+atrium|atrium|o
+berkacak|berkacak pinggang: to stand with hands on hips|n
+bernalar|to reason|v
+buncit|pot-bellied, bulging (of a belly)|o
+disandang|to be borne, held (a title, status); to be carried on the shoulder|v;v
+elektronegatif|electronegative|o
+gesa|haste (usu. tergesa-gesa)|o
+hidroksida|hydroxide|o
+hipotenusa|hypotenuse|o
+kapasitansi|capacitance|o
+kimchi|kimchi|o
+kinase|kinase|o
+lahar|lahar, volcanic mudflow|o
+mengepal|to clench (a fist)|v
+neurotransmiter|neurotransmitter|o
+osilator|oscillator|o
+pengayom|protector, guardian|o
+permufakatan|agreement, accord; permufakatan jahat: criminal conspiracy|o;n
+reformator|reformer|o
+saturasi|saturation|o
+tematik|thematic|o
+terantuk|to stumble, bump (against)|v
+tilakoid|thylakoid|o
+validitas|validity|o
+anotasi|annotation|o
+desinfektan|disinfectant|o
+detoksifikasi|detoxification|o
+didih|boil, boiling; titik didih: boiling point|o;n
+gorden|curtain|o
+kol|cabbage|o
+komutatif|commutative|o
+kontraindikasi|contraindication|o
+kristalisasi|crystallisation|o
+menautkan|to link, connect, fasten together|v
+pengepresan|pressing (process)|o
+prasekolah|preschool|o
+solenodon|solenodon (shrew-like mammal)|o
+stasioner|stationary|o
+sukulen|succulent (plant)|o
+trilogi|trilogy|o
+adrenal|adrenal|o
+adzan|call to prayer (= azan)|o
+assalamu'alaikum|peace be upon you (Muslim greeting)|o
+blender|blender|o
+cello|cello|o
+delman|horse-drawn cart|o
+ekoregion|ecoregion|o
+galvanisasi|galvanisation|o
+gandaria|gandaria (plum mango)|o
+gerik|movement (usu. gerak-gerik)|o
+imbuh|extra, addition|o
+kalem|calm, composed (colloq.)|o
+keramba|floating fish cage|o
+ketapel|slingshot, catapult|o
+kukus|steamed; to steam|o;v
+kuncup|bud|o
+melenggang|to stroll, sway along; to proceed smoothly|v;v
+menggeluti|to be engaged in, pursue (a field); to wrestle with|v;v
+ngerasa|to feel (colloq., = merasa)|v
+pasah|carpenter's plane|o
+perantau|migrant, one who leaves home to seek a living|o
+perca|scrap, remnant (of cloth)|o
+profesionalisme|professionalism|o
+promotor|promoter; doctoral supervisor|o;o
+ruyung|hard outer wood of a palm trunk|o
+sahdan|then, it is told (story opener)|o
+saung|field hut, shelter|o
+sitrat|citrate|o
+syahdu|solemn, serene, moving|o
+zebra|zebra|o
+agrikultur|agriculture|o
+akuakultur|aquaculture|o
+anafase|anaphase|o
+angkasawan|astronaut|o
+beludru|velvet|o
+berdifusi|to diffuse|v
+byte|byte|o
+eros|eros, erotic love|o
+flavonoid|flavonoid|o
+homozigot|homozygous|o
+hoodie|hoodie|o
+invarian|invariant|o
+kanibalisme|cannibalism|o
+khamir|yeast|o
+kokpit|cockpit|o
+kueri|query (database)|o
+meng-upgrade|to upgrade|v
+menghimbau|to appeal, urge (= mengimbau)|v
+myosin|myosin|o
+nonverbal|nonverbal|o
+optimalisasi|optimisation|o
+parodi|parody|o
+pemantik|lighter; trigger, spark|o;o
+perfeksionis|perfectionist|o
+polar|polar|o
+serebral|cerebral|o
+serialisasi|serialisation|o
+simbiosis|symbiosis|o
+sintaksis|syntax|o
+superkomputer|supercomputer|o
+thimerosal|thimerosal (preservative)|o
+transenden|transcendent|o
+ultraungu|ultraviolet|o
+vial|vial|o
+acap|often (usu. acap kali)|o
+akronim|acronym|o
+almarhumah|the late (of a woman)|o
+amboi|oh my!, wow|o
+amoksisilin|amoxicillin|o
+baskom|basin, bowl|o
+belur|babak belur: black and blue, badly beaten|n
+deadline|deadline|o
+dedak|bran|o
+dekil|grimy, filthy|o
+dendang|lively song, melody|o
+dendeng|jerky, dried spiced meat|o
+dial|dial|o
+dicantumkan|to be listed, stated, included|v
+donk|(emphatic particle) come on, of course (colloq., = dong)|o
+doyan|to be fond of, like (esp. food) (colloq.)|v
+embusan|gust, puff, breath (of wind, air)|o
+engah|panting (usu. terengah-engah)|o
+gamang|afraid of heights, giddy; hesitant, uncertain|o;o
+intrusi|intrusion|o
+kapitalisasi|capitalisation|o
+katarak|cataract|o
+kawung|sugar palm; kawung (batik motif)|o;o
+kecubung|datura, thorn apple; amethyst|o;o
+kodon|codon|o
+korsleting|short circuit|o
+manifes|manifest (cargo, passenger list)|o
+menggelinding|to roll (along)|v
+menggemparkan|to cause a stir, shock|v
+menggotong|to carry together (by hand or on shoulders)|v
+menguak|to reveal, uncover; to push apart|v;v
+miris|pitiful, heartbreaking; to shudder|o;v
+niaga|trade, commerce|o
+ortopedi|orthopaedics|o
+pergumulan|struggle, wrestling|o
+polybag|polybag (plant bag)|o
+poranda|in ruins (usu. porak-poranda)|o
+psikiatri|psychiatry|o
+rabi|rabbi|o
+rama-rama|moth, butterfly|o
+romantisme|romanticism|o
+sampling|sampling|o
+selulit|cellulite|o
+sirene|siren|o
+soko|soko guru: main pillar, mainstay|n
+suai|fit, match (usu. sesuai, menyesuaikan)|o
+subkultur|subculture|o
+tanggul|dyke, embankment, levee|o
+tangsi|barracks|o
+tataran|level, plane (of discussion)|o
+terka|to guess (usu. menerka)|v
+amplifikasi|amplification|o
+aplikator|applicator|o
+dependensi|dependency|o
+eksim|eczema|o
+elektrokimia|electrochemistry|o
+elektrolisis|electrolysis|o
+fanatik|fanatical; fanatic|o;o
+impotensi|impotence|o
+jurnalistik|journalism; journalistic|o;o
+kinetik|kinetic|o
+komponis|composer|o
+komunal|communal|o
+kredensial|credentials|o
+miniseri|miniseries|o
+neurologis|neurological|o
+peristaltik|peristaltic|o
+playlist|playlist|o
+propelan|propellant|o
+propionat|propionate|o
+totol|spot, dot; spotted|o;o
+venue|venue|o
+adenosin|adenosine|o
+almari|cupboard, wardrobe (= lemari)|o
+alpukat|avocado|o
+antisemit|antisemitic|o
+atribusi|attribution|o
+bioavailabilitas|bioavailability|o
+brangkas|safe, strongbox (= brankas)|o
+dogma|dogma|o
+ekstraseluler|extracellular|o
+filtrat|filtrate|o
+garapan|work, production, project; cultivated land|o;o
+helat|celebration, event (usu. menghelat: to hold an event)|o
+informatif|informative|o
+interfase|interphase|o
+karboksilase|carboxylase|o
+kopor|suitcase (= koper)|o
+kran|tap, faucet (= keran)|o
+kupat|rice cake in woven leaves (= ketupat)|o
+madani|civil, civilised; masyarakat madani: civil society|o;n
+mastering|mastering (audio)|o
+mendelik|to glare, stare with bulging eyes|v
+menghampar|to spread out, stretch out (of a landscape)|v
+mengumbar|to give free rein to, indulge; to flaunt, expose|v;v
+metadata|metadata|o
+moksa|moksha, release from rebirth|o
+nuklear|nuclear|o
+nukleotida|nucleotide|o
+perundungan|bullying|o
+rebab|rebab (bowed string instrument)|o
+rempeyek|peanut cracker (= peyek)|o
+sampeyan|you (polite, Javanese) (colloq.)|f2s2p
+sekon|second (unit of time)|o
+sepat|astringent, tart; gourami (fish)|o;o
+sniper|sniper|o
+subunit|subunit|o
+synthesizer|synthesizer|o
+tamtama|enlisted soldier, private|o
+tatah|chisel; inlaid|o;o
+troponin|troponin|o
+valensi|valence|o
+ventral|ventral|o
+yudisial|judicial|o
+afinitas|affinity|o
+aristokrasi|aristocracy|o
+assist|assist (sport)|o
+deathcore|deathcore (music genre)|o
+dupleks|duplex|o
+ekuivalen|equivalent|o
+elektroplating|electroplating|o
+erupsi|eruption|o
+interkoneksi|interconnection|o
+konsentrat|concentrate|o
+kontinental|continental|o
+make-up|make-up|o
+mangrove|mangrove|o
+minaret|minaret|o
+orientalis|orientalist|o
+screenshot|screenshot|o
+semifinal|semifinal|o
+takik|notch, nick|o
+tandatangani|to sign (usu. menandatangani)|v
+zirkonia|zirconia|o
+adas|fennel|o
+akur|in agreement, on good terms|o
+analitis|analytical|o
+argon|argon|o
+asalamualaikum|peace be upon you (Muslim greeting)|o
+berwudu|to perform ritual ablution|v
+cerek|kettle|o
+chipset|chipset|o
+codec|codec|o
+dandelion|dandelion|o
+diakritik|diacritic|o
+diimpikan|to be dreamed of, longed for|v
+disalahartikan|to be misinterpreted|v
+distal|distal|o
+disunat|to be circumcised|v
+e-liquid|e-liquid (vape liquid)|o
+epigenetik|epigenetic|o
+etos|ethos|o
+folat|folate|o
+gemerisik|rustle, rustling|o
+gempur|to attack, assault (usu. menggempur)|v
+gulden|guilder|o
+hartawan|wealthy person|o
+ijab|offer (in a contract); ijab kabul: marriage vows|o;n
+kenanga|ylang-ylang|o
+ketumbar|coriander (seed)|o
+keuletan|tenacity, persistence|o
+kolonisasi|colonisation|o
+lantak|ramrod; luluh lantak: utterly destroyed|o;n
+lesi|lesion|o
+lugas|straightforward, plain, matter-of-fact|o
+lukah|woven fish trap|o
+menggiurkan|tempting, mouth-watering|o
+menoreh|to scratch, cut, carve; to inscribe (an achievement)|v;v
+menuding|to point at; to accuse|v;v
+menyahuti|to answer, respond to|v
+merengut|to pout, scowl, sulk|v
+mikrobiom|microbiome|o
+multiplayer|multiplayer|o
+neutrino|neutrino|o
+nukleat|nucleic|o
+pengerukan|dredging|o
+piawai|skilled, expert, adept|o
+pijar|glowing, incandescent|o
+polisakarida|polysaccharide|o
+ralat|correction, erratum|o
+saur|pre-dawn meal in Ramadan (= sahur)|o
+sembako|basic necessities, staple goods|o
+sharing|sharing, to share (colloq.)|o
+showroom|showroom|o
+soliter|solitary|o
+sunatan|circumcision (ceremony)|o
+terbetik|to emerge (of news); to cross one's mind|v;v
+tokek|tokay gecko|o
+toner|toner|o
+uban|grey hair, white hair|o
+upas|poison, upas (tree sap)|o
+zirah|armour; baju zirah: coat of mail|o;n
+degenerasi|degeneration|o
+diuretik|diuretic|o
+heterozigot|heterozygous|o
+induktif|inductive|o
+instrumentasi|instrumentation|o
+klor|chlorine|o
+koloid|colloid|o
+konsentrator|concentrator|o
+marsupial|marsupial|o
+menggerudi|to drill|v
+milivolt|millivolt|o
+nat|grout (between tiles)|o
+osmosis|osmosis|o
+pleura|pleura|o
+pramugari|flight attendant, stewardess|o
+romansa|romance|o
+signifikansi|significance|o
+simpatik|sympathetic, likeable|o
+skateboard|skateboard|o
+tael|tael (unit of weight)|o
+tropomyosin|tropomyosin|o
+vandalisme|vandalism|o
+zooplankton|zooplankton|o
+apoteker|pharmacist|o
+aromatase|aromatase|o
+berdzikir|to recite dhikr, remember God (= berzikir)|v
+berhadas|to be ritually impure (Islam)|v
+berkhidmat|to serve devotedly|v
+bermuamalat|to transact, deal (in Islamic law)|v
+cendrawasih|bird of paradise|o
+diemban|to be carried out, entrusted (a duty)|v
+dijerumuskan|to be plunged, led astray (into)|v
+duapertiga|two-thirds|o
+elastomer|elastomer|o
+fantastik|fantastic|o
+fiksasi|fixation|o
+garap|to work on, cultivate (usu. menggarap)|v
+goblin|goblin|o
+hashtag|hashtag|o
+hoy|hey! (colloq.)|o
+hudhud|hoopoe (in the Quran)|o
+iktikaf|devotional retreat in a mosque|o
+istighfar|asking God's forgiveness|o
+kemahasempurnaan|absolute perfection (of God)|o
+kenop|knob, button|o
+kerontang|parched, bone-dry (usu. kering kerontang)|o
+keteledoran|carelessness, negligence|o
+kliring|clearing (banking)|o
+konveksi|convection; garment making|o;o
+kronologis|chronological|o
+latensi|latency|o
+mabni|indeclinable (Arabic grammar)|o
+maknawi|relating to meaning, semantic|o
+memporak-porandakan|to wreck, devastate|v
+memvalidasi|to validate|v
+menafikan|to deny, disregard|v
+menalar|to reason, reason out|v
+mencucurkan|to shed (tears), pour (sweat)|v
+mendermakan|to donate|v
+mengembangbiakkan|to breed, propagate|v
+menggunjing|to gossip about|v
+menghujat|to revile, vilify; to blaspheme|v;v
+meranti|meranti (timber tree)|o
+muhkam|clear, unambiguous (of Quranic verses)|o
+mukallaf|legally responsible (Islamic law)|o
+munajat|intimate prayer, supplication|o
+mustatsna|excepted noun (Arabic grammar)|o
+nafkah|living, livelihood; maintenance (for a family)|o;o
+paking|packing, gasket|o
+panter|panther|o
+qishaash|retaliation (Islamic law, = kisas)|o
+reorganisasi|reorganisation|o
+rewel|fussy, whiny (of children)|o
+selawat|prayer of blessing on the Prophet|o
+semanggi|clover|o
+sentripetal|centripetal|o
+simbolisme|symbolism|o
+sopak|vitiligo, blotchy skin disease|o
+stupa|stupa|o
+sulfida|sulphide|o
+superfamili|superfamily|o
+syiar|spreading, propagation (of Islam)|o
+tahajud|optional night prayer (Islam)|o
+taksa|taxa (biology)|o
+theropoda|theropod|o
+torrent|torrent (file sharing)|o
+aklamasi|acclamation|o
+antiviral|antiviral|o
+artifisial|artificial|o
+bio-plastik|bioplastic|o
+biotek|biotech|o
+blak-blakan|frank, blunt, outspoken|o
+bookmark|bookmark|o
+cashback|cashback|o
+chikungunya|chikungunya|o
+dashboard|dashboard|o
+dekolonisasi|decolonisation|o
+demarkasi|demarcation|o
+digusur|to be evicted, cleared (from land)|v
+dimediasi|to be mediated|v
+dipatok|to be fixed, set (price, target); to be pecked|v;v
+dipolitisasi|to be politicised|v
+diputarbalikkan|to be twisted, distorted (of facts)|v
+disalahgunakan|to be misused, abused|v
+diskresi|discretion|o
+draf|draft|o
+dumping|dumping (trade)|o
+e-niaga|e-commerce|o
+eksodus|exodus|o
+federalisme|federalism|o
+gelatin|gelatin|o
+hektare|hectare|o
+hiper-globalisasi|hyperglobalisation|o
+internasionalisme|internationalism|o
+jurisdiksi|jurisdiction (= yurisdiksi)|o
+katalisator|catalyst|o
+ketidakpercayaan|distrust, lack of trust|o
+ketidaksiapan|unpreparedness|o
+kibor|keyboard|o
+kilowat-jam|kilowatt-hour|o
+kista|cyst|o
+klausa|clause (grammar)|o
+kohesi|cohesion|o
+korporat|corporate|o
+kosmopolitan|cosmopolitan|o
+kosmopolitanisme|cosmopolitanism|o
+kronisme|cronyism|o
+legalitas|legality|o
+legislasi|legislation|o
+lokalisasi|localisation; red-light district|o;o
+malai|panicle (botany)|o
+margarin|margarine|o
+mencelupkan|to dip, immerse|v
+mengikutsertakan|to include, involve|v
+merchandise|merchandise|o
+mereplikasi|to replicate|v
+merintis|to pioneer, blaze a trail|v
+merkantilisme|mercantilism|o
+militerisasi|militarisation|o
+modernitas|modernity|o
+nanoteknologi|nanotechnology|o
+nativisme|nativism|o
+neo-nazi|neo-Nazi|o
+neoliberal|neoliberal|o
+neoliberalisme|neoliberalism|o
+neonatal|neonatal|o
+oportunis|opportunist|o
+outsourcing|outsourcing|o
+penggusuran|eviction, clearance (of land)|o
+periferi|periphery|o
+personalisasi|personalisation|o
+pesimisme|pessimism|o
+pluralis|pluralist|o
+pneumokokus|pneumococcus|o
+prematur|premature|o
+premi|premium (insurance); bonus|o;o
+profilaksis|prophylaxis|o
+proposisi|proposition|o
+psikosis|psychosis|o
+psikososial|psychosocial|o
+psikoterapi|psychotherapy|o
+purnawirawan|retired officer (military, police)|o
+radikalisme|radicalism|o
+realokasi|reallocation|o
+rehidrasi|rehydration|o
+reklamasi|land reclamation|o
+repetitif|repetitive|o
+reproduktif|reproductive|o
+retorik|rhetoric; rhetorical|o;o
+sepsis|sepsis|o
+shilling|shilling|o
+simbolik|symbolic|o
+sinergi|synergy|o
+subsisten|subsistence|o
+superioritas|superiority|o
+supranasional|supranational|o
+tersentralisasi|centralised|o
+tersier|tertiary|o
+tradisionalis|traditionalist|o
+transnasional|transnational|o
+utilitarian|utilitarian|o
+utopis|utopian|o
+absurd|absurd|o
+akseptor|acceptor; family-planning participant|o;o
+alap-alap|falcon, kestrel|o
+antikekerasan|nonviolence, anti-violence|o
+asidifikasi|acidification|o
+bilingual|bilingual|o
+biomarker|biomarker|o
+blueberry|blueberry|o
+bolak|bolak-balik: back and forth|n
+defleksi|deflection|o
+demografik|demographic|o
+dermis|dermis|o
+detensi|detention|o
+dwilapis|two-layered|o
+fisi|fission|o
+gamping|limestone, lime|o
+gondok|goitre; resentful, sulky|o;o
+habituasi|habituation|o
+haploid|haploid|o
+hidrotermal|hydrothermal|o
+hipotesa|hypothesis (= hipotesis)|o
+jinjing|to carry by hand (usu. menjinjing)|v
+jins|jeans|o
+jutawan|millionaire|o
+kedirgantaraan|aerospace, aviation|o
+korona|corona; coronavirus|o;o
+manifold|manifold|o
+maple|maple|o
+menyebarluaskan|to disseminate, spread widely|v
+menyisipkan|to insert, slip in|v
+mesofil|mesophyll|o
+metastasis|metastasis|o
+multikomunikasi|multicommunication|o
+neurologi|neurology|o
+persuasi|persuasion|o
+putik|pistil|o
+rabies|rabies|o
+relevansi|relevance|o
+sahur|pre-dawn meal in Ramadan|o
+semisintetis|semisynthetic|o
+sitoplasma|cytoplasm|o
+spageti|spaghetti|o
+standardisasi|standardisation|o
+stomata|stomata|o
+termokopel|thermocouple|o
+trigliserida|triglyceride|o
+tubulus|tubule|o
+uterus|uterus|o
+wewangian|fragrance, perfume|o
+alkaloid|alkaloid|o
+atomisasi|atomisation|o
+basement|basement|o
+diresapi|to be permeated, imbued|v
+disematkan|to be pinned (on); to be bestowed (a title)|v;v
+etil|ethyl|o
+konifer|conifer|o
+maleo|maleo (megapode bird)|o
+ovulasi|ovulation|o
+pengelupasan|peeling, flaking|o
+prestise|prestige|o
+sinema|cinema|o
+stopkontak|power socket|o
+trofi|trophy|o
+vibrator|vibrator|o
+acapkali|often, frequently|o
+ayan|epilepsy|o
+betet|parakeet|o
+bissu|bissu (Bugis androgynous priest)|o
+celemek|apron|o
+efikasi|efficacy|o
+etsa|etching|o
+fax|fax|o
+hipofisis|pituitary gland|o
+keto|keto (diet)|o
+kontaminan|contaminant|o
+kudapan|snack|o
+lembek|soft, mushy; weak, spineless|o;o
+morfisme|morphism|o
+motto|motto (= moto)|o
+penatua|church elder|o
+pickup|pickup truck|o
+rematik|rheumatism|o
+sildenafil|sildenafil|o
+skill|skill (colloq.)|o
+snorkeling|snorkelling|o
+strata|level, stratum; degree level (S1, S2, S3)|o;o
+subkutan|subcutaneous|o
+terakreditasi|accredited|o
+toksin|toxin|o
+tumpas|wiped out, annihilated|o
+agitasi|agitation|o
+anion|anion|o
+auditor|auditor|o
+berkarbonasi|carbonated|o
+daah|bye (colloq.)|o
+epidermis|epidermis|o
+franchise|franchise|o
+inkontinensia|incontinence|o
+jeram|rapids|o
+jok|seat (of a vehicle)|o
+kontinyu|continuous (= kontinu)|o
+lambda|lambda|o
+maternal|maternal|o
+mikroprosesor|microprocessor|o
+miligram|milligram|o
+omset|turnover, sales revenue|o
+penterjemah|translator (= penerjemah)|o
+periferal|peripheral|o
+teruk|severe, badly off; hard, exhausting|o;o
+testimonial|testimonial|o
+tituler|titular, honorary|o
+triptofan|tryptophan|o
+wagon|wagon, carriage (rail)|o
+ansambel|ensemble|o
+aseptik|aseptic|o
+atletis|athletic|o
+auditorium|auditorium|o
+berkutat|to grapple with, be absorbed in (a task)|v
+biopsi|biopsy|o
+bypass|bypass (surgery)|o
+dirigen|conductor (of music)|o
+eksotik|exotic|o
+flens|flange|o
+granular|granular|o
+hippie|hippie|o
+imajiner|imaginary|o
+infertilitas|infertility|o
+interim|interim|o
+kanguru|kangaroo|o
+ketidaksempurnaan|imperfection|o
+koko|older brother (Chinese-Indonesian address); baju koko: collarless Muslim men's shirt|o;n
+kolonoskopi|colonoscopy|o
+komunikatif|communicative|o
+kriptografi|cryptography|o
+kruk|crutch|o
+lilitan|coil, winding|o
+liris|lyrical|o
+magenta|magenta|o
+meletup|to explode, burst|v
+membumbung|to soar, rise high|v
+memproklamirkan|to proclaim|v
+memuai|to expand (with heat)|v
+mencetuskan|to spark, trigger; to express (an idea)|v;v
+metabolik|metabolic|o
+monasit|monazite|o
+muffin|muffin|o
+multipotensial|multipotential|o
+nutrien|nutrient|o
+pastel|savoury fried pastry; pastel (colour)|o;o
+paving|paving block|o
+pensensoran|censorship|o
+penyokong|supporter, backer|o
+polifenol|polyphenol|o
+poundsterling|pound sterling|o
+preparasi|preparation (technical)|o
+prostetik|prosthetic|o
+seluk-beluk|ins and outs, details|o
+sinagoga|synagogue|o
+statin|statin|o
+stroma|stroma|o
+sumbangsih|contribution|o
+tinnitus|tinnitus|o
+trigonometri|trigonometry|o
+volatil|volatile|o
+yaah|aww, oh no (disappointment) (colloq.)|o
+zonasi|zoning|o
+antiseptik|antiseptic|o
+arboreal|arboreal|o
+aristokrat|aristocrat|o
+asiklovir|acyclovir|o
+baht|baht (Thai currency)|o
+biseksual|bisexual|o
+desas-desus|rumour, gossip|o
+determinan|determinant|o
+direvitalisasi|to be revitalized|v
+doping|doping|o
+fenolik|phenolic|o
+fluiditas|fluidity|o
+fungisida|fungicide|o
+generatif|generative|o
+gerigi|serration, teeth (of a saw or gear)|o
+glasial|glacial|o
+hortikultura|horticulture|o
+inert|inert|o
+kiprah|activity, role, involvement|o
+konotasi|connotation|o
+konserto|concerto|o
+kram|cramp|o
+mug|mug|o
+otobiografi|autobiography|o
+pengambilalihan|takeover|o
+penggerebekan|raid|o
+perforasi|perforation|o
+perifer|peripheral|o
+pigmentasi|pigmentation|o
+playboy|playboy|o
+prekursor|precursor|o
+psikotropika|psychotropic drug|o
+sitkom|sitcom|o
+spektroskopi|spectroscopy|o
+varises|varicose veins|o
+adiktif|addictive|o
+alternator|alternator|o
+antihistamin|antihistamine|o
+aterosklerosis|atherosclerosis|o
+austenitik|austenitic|o
+berkecambah|to germinate, sprout|v
+bevel|bevel|o
+dermatitis|dermatitis|o
+diferensiasi|differentiation|o
+dimorfik|dimorphic|o
+edema|edema|o
+ekspo|expo, exhibition|o
+enyah|to go away, get lost|v
+estradiol|estradiol|o
+formaldehida|formaldehyde|o
+hieroglif|hieroglyph|o
+hiperparameter|hyperparameter|o
+histogram|histogram|o
+inkarnasi|incarnation|o
+interpersonal|interpersonal|o
+koaksial|coaxial|o
+kursor|cursor|o
+lavender|lavender|o
+melanin|melanin|o
+merembes|to seep, ooze|v
+metaheuristik|metaheuristic|o
+paladium|palladium|o
+porositas|porosity|o
+prisma|prism|o
+raptor|raptor|o
+retret|retreat (spiritual)|o
+rimpang|rhizome|o
+sob|mate, buddy (colloq., = sobat)|o
+stik|stick (bat, joystick, drumstick)|o
+tadalafil|tadalafil|o
+tamoxifen|tamoxifen|o
+tandatangan|signature (= tanda tangan)|o
+tauhu|tofu (= tahu)|o
+teatrikal|theatrical|o
+titahkan|to command, decree (of a king)|v
+vaskular|vascular|o
+dadih|curd (esp. buffalo-milk curd)|o
+diskursus|discourse|o
+divergensi|divergence|o
+egoisme|egoism, selfishness|o
+fluorida|fluoride|o
+kinetokor|kinetochore|o
+koronavirus|coronavirus|o
+kurs|exchange rate|o
+logaritmik|logarithmic|o
+metalik|metallic|o
+metanol|methanol|o
+molar|molar|o
+olahragawan|athlete, sportsman|o
+operkulum|operculum|o
+penyortiran|sorting|o
+perdikan|tax-exempt (of a village, by royal grant)|o
+pertidaksamaan|inequality (maths)|o
+polip|polyp|o
+progesteron|progesterone|o
+rolet|roulette|o
+sarkofagus|sarcophagus|o
+segmentasi|segmentation|o
+separator|separator|o
+skalar|scalar|o
+stepa|steppe|o
+stoking|stocking|o
+terkelupas|peeled off, flaking|o
+tongkang|barge|o
+totem|totem|o
+zigot|zygote|o
+aerobik|aerobic|o
+alterasi|alteration|o
+asparagus|asparagus|o
+bioaktif|bioactive|o
+fotokopi|photocopy|o
+gabro|gabbro|o
+gluten|gluten|o
+hominid|hominid|o
+hormonal|hormonal|o
+iradat|will (of God)|o
+kekhilafan|oversight, slip, mistake|o
+kenyal|chewy, springy|o
+kontaktor|contactor|o
+lokus|locus|o
+marjinal|marginal|o
+mengayomi|to protect, shelter|v
+pamungkas|final, decisive (blow, weapon)|o
+pendulum|pendulum|o
+penggubah|composer, arranger|o
+podium|podium|o
+propulsi|propulsion|o
+rakun|raccoon|o
+realis|realist|o
+selotip|sticky tape|o
+siluet|silhouette|o
+abalon|abalone|o
+aerasi|aeration|o
+akrobat|acrobat|o
+akupunktur|acupuncture|o
+asistensi|assistance; tutorial session|o;o
+digagas|to be conceived, initiated (of an idea)|v
+disinfektan|disinfectant|o
+distro|independent clothing store; (software) distribution|o;o
+eceng|water hyacinth (usu. eceng gondok)|o
+ekspresif|expressive|o
+epitel|epithelium|o
+feminim|feminine (= feminin)|o
+fruktosa|fructose|o
+galur|strain, line (of descent)|o
+gamifikasi|gamification|o
+gegar|shaking, quaking; gegar otak: concussion|o;n
+hidrasi|hydration|o
+histeria|hysteria|o
+ikonografi|iconography|o
+inorganik|inorganic|o
+jelatang|stinging nettle|o
+keshogunan|shogunate|o
+ketidakhadiran|absence|o
+klas|class (= kelas)|o
+kolonialisme|colonialism|o
+kontrabas|double bass|o
+monoton|monotonous|o
+pelagis|pelagic|o
+pelakon|actor (= pemeran)|o
+pengumban|sling (for throwing stones)|o
+plagioklas|plagioclase|o
+plum|plum|o
+provokatif|provocative|o
+regresi|regression|o
+representatif|representative|o
+rutil|rutile|o
+subkelas|subclass|o
+subkelompok|subgroup|o
+tanjakan|uphill slope, incline|o
+teknolog|technologist|o
+teleologis|teleological|o
+toksik|toxic|o
+wiraswasta|entrepreneur; self-employed|o;o
+woh|whoa (colloq.)|o
+anai-anai|termite|o
+animator|animator|o
+asinkron|asynchronous|o
+astral|astral|o
+barzah|barzakh (the realm between death and resurrection)|o
+benzena|benzene|o
+berdalih|to make excuses, use as a pretext|v
+berdukacita|to grieve, mourn|v
+bergumpal-gumpal|in clumps, clotted|o
+bermubahalah|to call down God's curse on the liar (in a dispute)|v
+berombong-rombongan|in groups, in droves|o
+bersaf-saf|in rows, in ranks|o
+bershaf-shaf|in rows, in ranks (= bersaf-saf)|o
+bertahajud|to perform the tahajud night prayer|v
+bertahkim|to submit to arbitration|v
+celupan|dye; dip, immersion|o;o
+dinafikan|to be denied|v
+dinaungi|to be sheltered, shaded; to be under the auspices of|v;v
+dipingit|to be kept in seclusion (of a girl before marriage)|v
+dipintal|to be spun, twisted (of yarn)|v
+disanggah|to be refuted, disputed|v
+fotorespirasi|photorespiration|o
+gelendong|spool, bobbin|o
+gerudi|drill (= bor)|o
+glaukoma|glaucoma|o
+hadas|ritual impurity|o
+hamparkan|to spread out (a mat, carpet)|v
+humanis|humanist|o
+humektan|humectant|o
+intrik|intrigue|o
+iradiasi|irradiation|o
+istigfar|asking God's forgiveness|o
+kaffarat|expiation, atonement (for a religious breach)|o
+ketidaktaatan|disobedience|o
+lafaz|utterance, wording (of a religious formula)|o
+mafik|mafic|o
+mandibula|mandible|o
+mayit|corpse (= mayat)|o
+membegal|to rob (on the road), mug|v
+menampik|to refuse, reject|v
+mengatasnamakan|to act in the name of|v
+menggelegak|to boil up, seethe|v
+menggilir|to rotate, take turns|v
+menyerapah|to curse, swear|v
+menyitir|to quote, cite|v
+merjan|red coral; coral bead|o;o
+moderator|moderator|o
+muamalah|social and commercial dealings (in Islamic law)|o
+muhshan|married (of an offender, in Islamic law)|o
+mushaharah|kinship by marriage (in Islamic law)|o
+mutakallim|Islamic theologian (of kalam)|o
+mutasyabihat|ambiguous verses (of the Qur'an)|o
+nahas|unlucky, ill-fated|o
+nasakh|abrogation (of a scriptural ruling)|o
+nisbi|relative|o
+nodus|node|o
+parabola|parabola; satellite dish|o;o
+penggerudian|drilling|o
+praduga|presumption; praduga tak bersalah: presumption of innocence|o;n
+rahsia|secret (= rahasia)|o
+refraktori|refractory|o
+saktah|brief pause without breath (in Qur'an recitation)|o
+saripati|essence, extract|o
+sentrosom|centrosome|o
+sepenggalahan|a pole's height (of the morning sun)|o
+serban|turban|o
+shaum|fasting (= puasa)|o
+siklik|cyclic|o
+sipilis|syphilis|o
+swakasir|self-checkout|o
+taklid|blind adherence (to a religious authority)|o
+taklif|religious obligation|o
+tasyrik|hari tasyrik: the three days after Eid al-Adha|n
+tendon|tendon|o
+terkaan|guess, conjecture|o
+ukhrawi|of the hereafter, otherworldly|o
+amnesia|amnesia|o
+bioma|biome|o
+brandy|brandy|o
+bunglon|chameleon|o
+cikrak|dustpan (woven bamboo)|o
+depo|depot|o
+diproklamasikan|to be proclaimed|v
+diurnal|diurnal|o
+domino|dominoes|o
+elektroforesis|electrophoresis|o
+elektronika|electronics|o
+estrogenik|estrogenic|o
+farmakologis|pharmacological|o
+gastrin|gastrin|o
+giok|jade|o
+hipospadia|hypospadias|o
+hoi|hey, oi (colloq.)|o
+kabisat|intercalary; tahun kabisat: leap year|o;n
+krill|krill|o
+lesitin|lecithin|o
+lurik|striped handwoven cloth|o
+mandar-hitam|Eurasian coot|o
+menginstall|to install (= menginstal)|v
+meterai|duty stamp; seal|o;o
+monumental|monumental|o
+nomenklatur|nomenclature|o
+popcorn|popcorn|o
+roset|rosette|o
+sinergis|synergistic|o
+subgenus|subgenus|o
+titrasi|titration|o
+tos|high five; coin toss|o;o
+woah|whoa (colloq.)|o
+agregasi|aggregation|o
+akumulator|accumulator (battery)|o
+anggar|fencing (sport)|o
+anonimitas|anonymity|o
+antarkota|intercity|o
+arester|arrester (lightning)|o
+asbes|asbestos|o
+breksi|breccia|o
+dekomposisi|decomposition|o
+dikotomi|dichotomy|o
+felspar|feldspar|o
+ginekologi|gynaecology|o
+holotipe|holotype|o
+hurikan|hurricane|o
+imersif|immersive|o
+ingot|ingot|o
+interpolasi|interpolation|o
+kardiomiopati|cardiomyopathy|o
+kasau|rafter|o
+klorat|chlorate|o
+loyalis|loyalist|o
+memproklamasikan|to proclaim|v
+meng-upload|to upload (colloq., = mengunggah)|v
+mengeruk|to dredge, scoop out; to rake in (profit)|v;v
+menggubah|to compose (music, poetry)|v
+menggumpal|to clot, clump|v
+pascaperang|postwar|o
+polihedron|polyhedron|o
+prehensil|prehensile|o
+siger|Lampung bridal crown|o
+substitusi|substitution|o
+tarot|tarot|o
+tipografi|typography|o
+urea|urea|o
+vokalisasi|vocalization|o
+afid|aphid|o
+agraris|agrarian|o
+akomodatif|accommodating|o
+amigdala|amygdala|o
+ampere|ampere|o
+apit|pressed between, flanked|o
+arsenik|arsenic|o
+barometer|barometer|o
+bekisting|formwork (for concrete)|o
+berperikemanusiaan|humane|o
+bikarbonat|bicarbonate|o
+biofarmasi|biopharmaceutical|o
+bipartisan|bipartisan|o
+cuitan|tweet|o
+deglobalisasi|deglobalization|o
+delamanid|delamanid (TB drug)|o
+denim|denim|o
+denuklirisasi|denuclearization|o
+desiliter|decilitre|o
+destabilisasi|destabilization|o
+devaluasi|devaluation|o
+difteri|diphtheria|o
+dirampungkan|to be completed|v
+direplikasi|to be replicated|v
+disebarluaskan|to be disseminated, spread widely|v
+diskonto|discount (rate)|o
+diskresioner|discretionary|o
+disparitas|disparity|o
+disposisi|disposition; (official) routing instruction|o;o
+dualisme|dualism|o
+ekstrovert|extrovert|o
+elektrolitik|electrolytic|o
+emitor|emitter|o
+encer|thin, watery, dilute|o
+endemi|endemic (disease)|o
+endemis|endemic|o
+etalase|display case, shop window|o
+faktual|factual|o
+feminisasi|feminization|o
+filantrop|philanthropist|o
+fillet|fillet|o
+fundamentalisme|fundamentalism|o
+gastritis|gastritis|o
+gipsum|gypsum|o
+gliseraldehida|glyceraldehyde|o
+gorila|gorilla|o
+harkat|dignity, worth|o
+harmonisasi|harmonization|o
+hematokrit|hematocrit|o
+heraldik|heraldry; heraldic|o;o
+himbauan|appeal, call (= imbauan)|o
+hiperaktif|hyperactive|o
+ikonis|iconic|o
+imperialis|imperialist|o
+imperialisme|imperialism|o
+individualitas|individuality|o
+indoktrinasi|indoctrination|o
+infiltrasi|infiltration|o
+interoperabilitas|interoperability|o
+irasional|irrational|o
+jelai|barley|o
+kaliper|caliper|o
+kapabilitas|capability|o
+karikatur|caricature, cartoon|o
+katoda|cathode|o
+kedermawanan|generosity|o
+kekenduran|slackness, laxity|o
+ketidakjelasan|lack of clarity, uncertainty|o
+ketidaksesuaian|mismatch, discrepancy|o
+kluster|cluster|o
+koeksistensi|coexistence|o
+koherensi|coherence|o
+komodifikasi|commodification|o
+komorbid|comorbidity|o
+konservatisme|conservatism|o
+kontraproduktif|counterproductive|o
+korektif|corrective|o
+kriminalisasi|criminalization|o
+legalisasi|legalization|o
+libertarianisme|libertarianism|o
+ligamen|ligament|o
+mahasiswi|female university student|o
+medula|medulla|o
+megakota|megacity|o
+mekanisasi|mechanization|o
+melejit|to soar, shoot up|v
+meletupkan|to set off, make burst|v
+mematok|to fix, set (a price, target); to stake out|v;v
+memorak-porandakan|to wreck, devastate|v
+mencanangkan|to launch, proclaim (a programme)|v
+mencicil|to pay in instalments|v
+meng-google|to google (colloq.)|v
+mengeliminasi|to eliminate|v
+mengetes|to test|v
+menggusur|to evict, clear (for demolition)|v
+mengutak-atik|to tinker with, fiddle with|v
+meniskus|meniscus|o
+mensubsidi|to subsidize|v
+mentargetkan|to target (= menargetkan)|v
+merevitalisasi|to revitalize|v
+mikrodetik|microsecond|o
+mikrogram|microgram|o
+miokarditis|myocarditis|o
+molor|to run late, drag on; to stretch|v;v
+monokultur|monoculture|o
+monorel|monorail|o
+monotipe|monotypic|o
+motivator|motivator, motivational speaker|o
+multibahasa|multilingual|o
+multidimensional|multidimensional|o
+netizen|netizen|o
+normatif|normative|o
+obstetri|obstetrics|o
+oligarki|oligarchy|o
+onderdil|spare parts|o
+paleografi|palaeography|o
+paramiliter|paramilitary|o
+paritas|parity|o
+pastoralis|pastoralist|o
+patologis|pathological|o
+pedagogi|pedagogy|o
+penatagunaan|use planning (of land, water)|o
+pengikisan|erosion|o
+penisilin|penicillin|o
+peso|peso|o
+pianis|pianist|o
+pilinan|twist, twisted strand|o
+pituitari|pituitary|o
+plagiarisme|plagiarism|o
+plasenta|placenta|o
+politisasi|politicization|o
+prediktif|predictive|o
+pro-eropa|pro-European|o
+pro-sosial|prosocial|o
+proksimal|proximal|o
+proporsionalitas|proportionality|o
+prospektif|prospective|o
+proteksionis|protectionist|o
+refrain|refrain (of a song)|o
+reorientasi|reorientation|o
+repertoar|repertoire|o
+residensi|residency|o
+revivalisme|revivalism|o
+rinitis|rhinitis|o
+robotisasi|robotization|o
+segiempat|quadrilateral, rectangle (= segi empat)|o
+seksis|sexist|o
+sekuestrasi|sequestration|o
+serabut|fibre|o
+serabutan|odd-job, casual (of work); haphazard|o;o
+serampangan|careless, haphazard, reckless|o
+simpatisan|sympathizer|o
+sistematik|systematic|o
+skalabilitas|scalability|o
+skrining|screening|o
+sopran|soprano|o
+stensil|stencil|o
+stereotipe|stereotype|o
+stigmatisasi|stigmatization|o
+subkulit|subcutaneous|o
+suportif|supportive|o
+swab|swab (test)|o
+terbaharui|renewed, updated (= terbarui)|o
+terhibridisasi|hybridized|o
+tolok|tolok ukur: benchmark, yardstick|n
+tulip|tulip|o
+uretra|urethra|o
+urine|urine|o
+valuasi|valuation|o
+vegetatif|vegetative|o
+wasir|haemorrhoids|o
+ajudan|aide-de-camp, adjutant|o
+asimtotik|asymptotic|o
+autentikator|authenticator|o
+beladiri|self-defence, martial arts (= bela diri)|o
+bentrok|to clash|v
+bromida|bromide|o
+endogen|endogenous|o
+fluor|fluorine|o
+gimnasium|gymnasium|o
+granulator|granulator|o
+haai|hi, hey (colloq.)|o
+intraseluler|intracellular|o
+isap|to suck (= hisap)|v
+klerus|clergy|o
+kuesioner|questionnaire|o
+lorek|striped|o
+navigator|navigator|o
+ohhh|oh (drawn out)|o
+persona|persona|o
+piroksen|pyroxene|o
+seismik|seismic|o
+silikat|silicate|o
+sintaks|syntax|o
+skoliosis|scoliosis|o
+subgenre|subgenre|o
+tempura|tempura|o
+terpatri|firmly fixed, engraved (in memory); soldered|o;o
+zirkonium|zirconium|o
+aagh|argh (colloq.)|o
+anemon|anemone|o
+apoptosis|apoptosis|o
+arde|earth, ground (electrical)|o
+autoimun|autoimmune|o
+bego|stupid, dumb (colloq., = bodoh)|o
+beremigrasi|to emigrate|v
+bisul|boil, abscess|o
+bugil|naked, nude|o
+devosi|devotion (religious)|o
+endokrin|endocrine|o
+gelinding|rolling (usu. menggelinding)|o
+hagiografi|hagiography|o
+ijtihad|independent legal reasoning (in Islamic law)|o
+intermediet|intermediate|o
+intermiten|intermittent|o
+karakterisasi|characterization|o
+kurkumin|curcumin|o
+luring|offline (= luar jaringan)|o
+palka|hold (of a ship)|o
+patri|solder|o
+perancah|scaffolding|o
+piramid|pyramid (= piramida)|o
+pleno|plenary|o
+regularisasi|regularization|o
+reog|reog (East Javanese masked dance)|o
+samovar|samovar|o
+statuta|statute|o
+subtipe|subtype|o
+surfaktan|surfactant|o
+taplak|tablecloth|o
+uduk|nasi uduk: rice cooked in coconut milk|n
+alveolus|alveolus|o
+angkringan|street food cart (Javanese-style)|o
+antijamur|antifungal|o
+bantaran|bank, strip of land along (a river, railway)|o
+berperangai|to have (a certain) temperament|v
+berzinah|to commit adultery, fornicate|v
+bid'ah|heretical innovation (in Islam)|o
+birama|metre, time signature (music)|o
+fosfogliseraldehida|phosphoglyceraldehyde|o
+gavial|gharial|o
+ginekomastia|gynecomastia|o
+giwang|stud earring|o
+gondola|gondola|o
+hermafrodit|hermaphrodite|o
+hinokitiol|hinokitiol|o
+humoral|humoral|o
+ilah|god, deity|o
+infarksi|infarction|o
+inggu|asafoetida|o
+iskemia|ischemia|o
+karotid|carotid|o
+kendur|slack, loose|o
+kombo|combo|o
+kreasionis|creationist|o
+kromatin|chromatin|o
+kusta|leprosy|o
+makrofag|macrophage|o
+mandrel|mandrel|o
+materialisme|materialism|o
+mukormikosis|mucormycosis|o
+musabab|cause; sebab-musabab: causes, reasons|o;n
+oksaloasetat|oxaloacetate|o
+olivin|olivine|o
+orisinalitas|originality|o
+pemintal|spinner (of yarn)|o
+pemoles|polisher|o
+perikardium|pericardium|o
+prangko|postage stamp|o
+protease|protease|o
+raster|raster|o
+reaksioner|reactionary|o
+remisi|remission (of a sentence or disease)|o
+reversibel|reversible|o
+selebritas|celebrity|o
+sitotoksik|cytotoxic|o
+somatik|somatic|o
+surai|mane|o
+telegraf|telegraph|o
+tlah|already (colloq., = telah)|o
+tunika|tunic (membrane layer)|o
+vaginektomi|vaginectomy|o
+yel|yell, chant (usu. yel-yel)|o
+akromegali|acromegaly|o
+atsiri|volatile; minyak atsiri: essential oil|o;n
+bronkitis|bronchitis|o
+desibel|decibel|o
+dicetuskan|to be sparked, initiated; to be expressed|v;v
+dikepang|to be braided|v
+dipugar|to be restored (of a building)|v
+diskrit|discrete|o
+disonansi|dissonance|o
+eksitasi|excitation|o
+elektromagnet|electromagnet|o
+euforia|euphoria|o
+farmakologi|pharmacology|o
+fotokatalis|photocatalyst|o
+gastrointestinal|gastrointestinal|o
+glial|glial|o
+glikol|glycol|o
+hawar|blight (plant disease)|o
+hiperteks|hypertext|o
+kaldera|caldera|o
+kartografi|cartography|o
+kateter|catheter|o
+kemonotonan|monotony|o
+ketidakacuhan|indifference|o
+ketombe|dandruff|o
+koklea|cochlea|o
+konservasionis|conservationist|o
+korset|corset|o
+krisan|chrysanthemum|o
+kromatik|chromatic|o
+manikur|manicure|o
+matematik|mathematical; mathematics (= matematika)|o;o
+memampatkan|to compress|v
+menciut|to shrink|v
+menyamaratakan|to generalize, treat all alike|v
+menyortir|to sort|v
+mikoriza|mycorrhiza|o
+mikrobiota|microbiota|o
+mikrokontroler|microcontroller|o
+mikroskopik|microscopic|o
+mistisisme|mysticism|o
+monolog|monologue|o
+monomer|monomer|o
+neuromodulator|neuromodulator|o
+noradrenalin|noradrenaline|o
+otodidak|self-taught|o
+paliatif|palliative|o
+paranada|staff, stave (music)|o
+pengamplasan|sanding|o
+penggerek|borer (insect pest); drill|o;o
+pinisi|pinisi (traditional Bugis schooner)|o
+polemik|polemic, controversy|o
+predasi|predation|o
+presipitasi|precipitation|o
+primordial|primordial|o
+protosel|protocell|o
+rejimen|regimen|o
+resensi|review (of a book, film)|o
+resistivitas|resistivity|o
+salamander|salamander|o
+seledri|celery|o
+sentrifuga|centrifuge|o
+silabus|syllabus|o
+spidol|marker pen, felt-tip|o
+supel|easygoing, sociable|o
+topologis|topological|o
+transien|transient|o
+yo-yo|yo-yo|o
+amonium|ammonium|o
+senat|senate|o

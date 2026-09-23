@@ -9491,3 +9491,3857 @@ cheat|curang, menipu; cheat on: berselingkuh dari|v;n
 chair|kursi; ketua (rapat)|o;o
 lover|kekasih; pencinta, penggemar|o;o
 dump|membuang, meninggalkan; tempat pembuangan sampah; memutuskan (hubungan)|v;o;v
+smirk|tersenyum sombong, tersenyum puas diri; senyum sombong|v;o
+glare|menatap dengan marah, melotot; cahaya terang yang menyilaukan|v;o
+frown|mengerutkan dahi karena tidak senang; raut muka cemberut|v;o
+shrug|mengangkat bahu (tidak tahu, tidak peduli); gerakan angkat bahu|v;o
+brow|dahi, kening; alis; puncak bukit|o;o;o
+inquire|bertanya; menyelidiki|v;v
+silently|tanpa suara, diam-diam|o
+haired|berambut (jenis tertentu, mis. dark-haired = berambut gelap)|o
+clench|mengatupkan, mengepalkan erat (tinju, gigi, rahang)|v
+countenance|wajah, raut muka; mengizinkan, membiarkan|o;v
+pout|memberengut, memonyongkan bibir karena merajuk; muka cemberut|v;o
+hurriedly|cepat-cepat, tergesa-gesa|o
+purr|mendengkur (kucing yang senang); berbicara dengan lembut dan menggoda|v;v
+cum|merangkap, sekaligus (kitchen-cum-dining room = dapur merangkap ruang makan)|o
+coldly|dengan dingin, tidak ramah|o
+née|terlahir dengan nama (sebelum nama gadis seorang wanita)|o
+huff|mendengus kesal; in a huff: tersinggung, merajuk|v;n
+furrow|mengerutkan (dahi); alur di tanah, kerutan dalam|v;o
+morrow|hari esok; pagi|o;o
+angrily|dengan marah|o
+hast|punya, telah (dengan thou)|f3s
+disbelief|ketidakpercayaan|o
+amidst|di tengah-tengah, di antara|o
+tug|menarik dengan kuat dan tiba-tiba; tarikan keras; kapal tunda|v;o;o
+annoyance|kekesalan, rasa jengkel; hal yang menjengkelkan|o;o
+gleam|berkilau lembut; kilauan, sinar redup|v;o
+astonishment|keheranan besar, rasa takjub|o
+crouch|berjongkok, membungkuk rendah|v
+admiration|kekaguman, rasa hormat; rasa senang memandang sesuatu|o;o
+playful|suka bercanda, jenaka, tidak serius|o
+eagerly|dengan penuh semangat, dengan antusias|o
+wince|meringis sejenak (karena sakit atau malu)|v
+hesitation|keraguan, kebimbangan sebelum bertindak|o
+flicker|berkelip, bergerak tidak tetap; kelip cahaya, sekilas jejak|v;o
+anticipation|pengharapan, penantian|o
+aura|suasana atau kesan di sekitar seseorang atau tempat; cahaya, pancaran|o;o
+continental|kontinental, dari suatu benua; dari daratan Eropa|o;o
+twitch|berkedut, tersentak sedikit; kedutan, gerakan kecil tiba-tiba|v;o
+awkwardly|dengan canggung, kikuk; dengan rikuh, malu-malu|o;o
+flinch|tersentak mundur (karena takut atau sakit)|v
+shudder|bergidik, gemetar (karena takut, dingin atau jijik); gidik, getaran|v;o
+melancholy|kesedihan yang mendalam dan lama, murung; sedih, suram|o;o
+piercing|tajam, menusuk (tatapan, teriakan); tindikan (perhiasan di tubuh)|o;o
+soften|melunakkan, melembutkan, menjadi lunak|v
+plateau|dataran tinggi; masa tanpa kemajuan, stagnasi|o;o
+solace|penghiburan dalam kesedihan|o
+wilt|layu, terkulai; akan (dengan thou)|v;o
+retort|membalas dengan tajam; jawaban tajam|v;o
+playfully|sambil bercanda, dengan jenaka|o
+wrapping|bungkus, kertas pembungkus; bentuk -ing dari wrap (membungkus)|o;o
+presently|segera, sebentar lagi; sekarang, saat ini|o;o
+casually|dengan santai, tidak resmi; secara kebetulan|o;o
+evermore|selamanya, senantiasa|o
+unwavering|teguh, mantap, tidak goyah|o
+mallow|mallow (tanaman berbunga merah muda atau ungu)|o
+squire|tuan tanah di pedesaan; pengawal ksatria|o;o
+uneasy|cemas, gelisah; tidak nyaman|o;o
+flutter|berkibar, mengepak cepat dan ringan; debar-debar, kegugupan|v;o
+aloud|dengan suara keras, bersuara|o
+dost|melakukan (dengan thou)|f3s
+gloomy|gelap, suram; murung, pesimis|o;o
+curiously|dengan rasa ingin tahu; anehnya|o;o
+grit|kerikil, pasir; ketabahan, tekad; mengertakkan (gigi)|o;o;v
+hesitantly|dengan ragu-ragu|o
+bustle|sibuk ke sana kemari; kesibukan, hiruk-pikuk|v;o
+demeanor|sikap, tingkah laku|o
+hasten|bergegas; mempercepat|v;v
+hastily|dengan tergesa-gesa|o
+squint|memicingkan mata, menyipitkan mata; tatapan menyipit|v;o
+clasp|menggenggam erat; gesper, kancing (perhiasan atau tas)|v;o
+haha|(tertawa)|g
+scowl|merengut dengan marah; muka masam|v;o
+quiver|gemetar sedikit; tabung anak panah|v;o
+adorn|menghiasi|v
+anxiously|dengan cemas, dengan gelisah|o
+curate|memilih dan menata (pameran, konten); pendeta pembantu|v;o
+sneer|mencibir, tersenyum mengejek; senyum mengejek|v;o
+motionless|tidak bergerak, diam|o
+hue|warna, rona|o
+darken|menggelapkan, menjadi gelap|v
+hearted|berhati (jenis tertentu, mis. kind-hearted = baik hati)|o
+politely|dengan sopan|o
+furnish|melengkapi dengan perabot; menyediakan, memberikan|v;v
+captivate|memikat, menawan hati|v
+composure|ketenangan, pengendalian diri|o
+errant|menyimpang, berbuat salah; mengembara (knight errant = ksatria pengembara)|o;o
+unexpectedly|secara tak terduga, tiba-tiba|o
+daze|keadaan bingung, linglung; membuat linglung|o;v
+reproach|mencela, menegur dengan kecewa; celaan, teguran|v;o
+brightly|dengan terang, cerah; dengan riang|o;o
+bailiff|juru sita; pengurus tanah, pelayan tuan tanah|o;o
+haste|ketergesaan, kecepatan|o
+rouse|membangunkan; membangkitkan (perasaan, massa)|v;v
+violently|dengan keras, dengan kekerasan; dengan hebat|o;o
+amazement|keheranan, rasa takjub|o
+nudge|menyikut pelan; mendorong, menyemangati; sikutan pelan|v;v;o
+envelop|menyelubungi, menyelimuti sepenuhnya|v
+twinkle|berkelap-kelip; binar (di mata)|v;o
+reluctantly|dengan enggan, dengan berat hati|o
+peddler|pedagang keliling barang kecil; pengedar narkoba|o;o
+shopkeeper|pemilik toko kecil|o
+agitate|membuat gelisah atau resah; mengguncang, mengaduk; berkampanye, menghasut|v;v;v
+bosom|dada, payudara; bosom friend: sahabat karib|o;n
+upright|tegak, lurus; jujur, bermoral|o;o
+endeavour|berusaha keras; usaha, upaya|v;o
+fluster|membuat gugup dan bingung; kegugupan, kebingungan|v;o
+din|kebisingan, suara riuh terus-menerus|o
+mischievous|nakal, jahil; merugikan, mencelakakan|o;o
+recollection|ingatan, kenangan; tindakan mengingat|o;o
+crimson|merah tua|o
+damp|lembap, agak basah|o
+ponder|merenungkan, memikirkan dengan saksama|v
+cautiously|dengan hati-hati|o
+unsure|tidak yakin|o
+faintly|samar-samar, lemah|o
+glide|meluncur dengan mulus dan tenang; melayang (terbang tanpa mesin)|v;v
+solitude|kesendirian, kesepian|o
+wand|tongkat sihir|o
+aback|taken aback: terkejut, kaget|n
+fasten|mengikat, menutup, memasang (sabuk, kancing)|v
+snuggle|meringkuk hangat, berpelukan|v
+rejoin|bergabung kembali, kembali ke; menjawab, membalas|v;v
+tenderness|kelembutan, kasih sayang; rasa nyeri|o;o
+utmost|terbesar, paling tinggi; sebisa mungkin (do your utmost = berusaha sekuat tenaga)|o;o
+intently|dengan penuh perhatian, dengan saksama|o
+spat|bentuk lampau spit (meludah); pertengkaran kecil|o;o
+warmly|dengan ramah, hangat; supaya hangat|o;o
+indifferent|acuh tak acuh, tidak peduli; biasa-biasa saja|o;o
+whence|dari mana|o
+abbe|abbé, pastor Prancis|o
+colonist|kolonis, pemukim di daerah jajahan|o
+proudly|dengan bangga|o
+momentarily|sejenak, sebentar; sebentar lagi, segera|o;o
+speechless|tak bisa berkata-kata (karena terkejut atau terharu)|o
+afterward|kemudian, sesudah itu|o
+jolt|mengguncang tiba-tiba; guncangan, sentakan tiba-tiba|v;o
+shaky|gemetar; goyah, tidak pasti|o;o
+taels|bentuk jamak tael (satuan berat perak Tiongkok, sebagai uang)|o
+agreeable|menyenangkan; mau setuju, bersedia|o;o
+attire|pakaian, busana|o
+innocently|tanpa bersalah; dengan polos, naif|o;o
+trifle|hal sepele; a trifle: sedikit, agak; trifle with: mempermainkan, meremehkan; puding berlapis (trifle)|o;n;n;o
+earnest|serius, sungguh-sungguh; in earnest: dengan serius, sungguhan|o;n
+teammate|rekan setim|o
+licking|bentuk -ing dari lick (menjilat); pukulan, kekalahan telak|o;o
+glint|berkilat, berkilauan; kilatan cahaya kecil|v;o
+concubine|selir, gundik|o
+plainly|jelas, nyata; dengan sederhana|o;o
+fiercely|dengan ganas, dengan sengit|o
+fiery|berapi-api, seperti api; bersemangat, pemarah|o;o
+impatience|ketidaksabaran|o
+pavement|trotoar (UK); permukaan jalan (US)|o;o
+thine|milikmu; -mu (dengan thou)|o;o
+anguish|penderitaan hebat, kesedihan mendalam|o
+converse|bercakap-cakap; kebalikannya|v;o
+slumber|tidur, lelap|o
+swirl|berputar-putar, berpusar; pusaran|v;o
+tho|meskipun, walaupun (bahasa santai, = though)|o
+woah|stop!, wah! (bahasa santai, = whoa)|o
+throb|berdenyut kuat, berdenyut nyeri; denyutan|v;o
+comfortably|dengan nyaman; dengan mudah|o;o
+apprehension|kekhawatiran, ketakutan; pemahaman; penangkapan|o;o;o
+bewilder|membingungkan sama sekali|v
+patiently|dengan sabar, dengan tenang|o
+taunt|mengejek, mencemooh; ejekan|v;o
+traveller|pelancong, orang yang bepergian|o
+lewd|cabul, tidak senonoh|o
+hoarse|serak (suara)|o
+impatiently|dengan tidak sabar, gelisah|o
+quirk|keanehan, kebiasaan ganjil; to quirk (a brow, the lips): menaikkan atau menyunggingkan sedikit|o;v
+sarcastically|dengan sinis, dengan nada mengejek|o
+fluffy|lembut dan ringan, berbulu halus|o
+coachman|kusir kereta kuda|o
+linen|kain linen; seprai, taplak meja|o;o
+disgusted|jijik, muak|o
+frightful|mengerikan, mengejutkan; sangat besar|o;o
+dwelling|tempat tinggal, rumah; bentuk -ing dari dwell (tinggal)|o;o
+graceful|anggun, luwes|o
+hoodie|jaket berkerudung, hoodie|o
+recollect|mengingat|v
+breathless|terengah-engah; sangat bersemangat|o;o
+gallop|berlari kencang (kuda); derap (langkah tercepat kuda)|v;o
+sprint|berlari cepat jarak pendek; lari cepat, sprint|v;o
+weakly|dengan lemah|o
+irritation|kejengkelan; iritasi kulit|o;o
+affectionate|penuh kasih sayang, sayang|o
+doubtless|pasti, tentu, mungkin sekali|o
+perplex|membingungkan|v
+damsel|gadis, perawan|o
+archdeacon|diaken agung (pejabat gereja di bawah uskup)|o
+cringe|mengkerut ketakutan; merasa malu, risih|v;v
+hesitant|ragu-ragu, lambat bertindak|o
+slender|langsing, ramping; kecil, tipis (a slender chance = peluang tipis)|o;o
+thyself|dirimu sendiri (dengan thou)|o
+coarse|kasar (permukaan); kasar, vulgar|o;o
+instinctively|secara naluriah, tanpa berpikir|o
+governess|guru privat wanita yang tinggal di rumah|o
+corral|kandang kuda atau ternak; menggiring, mengumpulkan|o;v
+energetic|penuh energi, aktif|o
+lovingly|dengan penuh kasih|o
+sincerity|ketulusan, kejujuran|o
+gape|melongo, menganga; terbuka lebar|v;v
+ruffle|mengacak-acak (rambut, bulu); mengusik, membuat kesal; rimpel, jumbai|v;v;o
+stout|gemuk, kekar; kuat, berani; bir hitam|o;o;o
+extinguish|memadamkan (api, lampu); mengakhiri|v;v
+brunette|wanita berambut cokelat tua|o
+gallant|gagah berani; sopan kepada wanita|o;o
+mischief|kenakalan, kejahilan; kerugian, masalah|o;o
+effortlessly|dengan mudah, tanpa susah payah|o
+entreat|memohon dengan sungguh-sungguh|v
+exhaustion|kelelahan yang amat sangat; penghabisan, pengurasan|o;o
+icy|sangat dingin, berlapis es; tidak ramah, dingin|o;o
+palpable|begitu kuat hingga terasa nyata; jelas, nyata|o;o
+visibly|tampak jelas, kelihatan|o
+glimmer|berkilau samar; cahaya redup; secercah (a glimmer of hope = secercah harapan)|v;o;o
+lodging|penginapan, kamar sewaan; bentuk -ing dari lodge (menginap)|o;o
+monstrous|raksasa dan mengerikan; keterlaluan, memalukan|o;o
+hone|mengasah; menyempurnakan (keterampilan)|v;v
+armour|baju zirah|o
+eyelid|kelopak mata|o
+yonder|di sana, yang itu (jauh)|o
+exude|mengeluarkan, memancarkan (bau, cairan); menunjukkan dengan jelas (percaya diri, pesona)|v;v
+relish|sangat menikmati; kenikmatan besar; saus, acar|v;o;o
+stoop|membungkuk; merendahkan diri (secara moral); tangga beranda (US)|v;v;o
+attentively|dengan penuh perhatian|o
+blurt|mengucapkan tiba-tiba tanpa berpikir (biasanya blurt out)|v
+disposition|watak, tabiat; susunan, penataan|o;o
+earnestly|dengan sungguh-sungguh, dengan tulus|o
+painfully|dengan rasa sakit; sangat, amat (painfully slow = lambat sekali)|o;o
+uneasiness|kegelisahan, rasa tidak nyaman|o
+probable|mungkin, besar kemungkinan|o
+agitation|kegelisahan, keresahan; guncangan, pengadukan; kampanye, agitasi|o;o;o
+frantically|dengan panik, mati-matian|o
+furiously|dengan sangat marah; dengan sangat bersemangat|o;o
+sternly|dengan tegas, dengan keras|o
+bitterly|dengan getir, penuh dendam atau duka; sangat (bitterly cold = dingin sekali)|o;o
+hitherto|sampai sekarang, hingga kini|o
+unison|in unison: serempak, bersama-sama|n
+valiant|gagah berani|o
+timid|pemalu, penakut|o
+afar|from afar: dari jauh; jauh|n;o
+audible|dapat didengar|o
+brim|bibir (cangkir), pinggiran (topi); penuh, meluap (brim with)|o;v
+enjoyment|kesenangan, kenikmatan|o
+mana|mana, kekuatan sihir (dalam fantasi dan gim)|o
+oblivious|tidak sadar, tidak memperhatikan|o
+brighten|mencerahkan, menjadi cerah atau ceria|v
+hehe|(cekikikan, tertawa)|g
+implore|memohon dengan sangat|v
+involuntarily|tanpa sengaja, di luar kehendak|o
+ornament|hiasan, ornamen|o
+radiate|memancar dari pusat; memancarkan (panas, cahaya); menunjukkan dengan jelas (kegembiraan)|v;v;v
+allure|daya tarik, pesona|o
+exasperate|membuat sangat jengkel|v
+fortnight|dua minggu|o
+helplessly|tanpa daya, tak berdaya|o
+overflow|meluap, tumpah; penuh sesak|v;v
+scorn|cemoohan, penghinaan; mencemooh, memandang rendah|o;v
+elegance|keanggunan|o
+pleading|permohonan, memohon-mohon; bentuk -ing dari plead (memohon)|o;o
+reappear|muncul kembali|v
+lowly|rendah hati, berkedudukan rendah|o
+steamer|kapal uap; panci pengukus, dandang|o;o
+tint|rona, warna samar; mewarnai sedikit|o;v
+tranquil|tenang, damai|o
+bedside|sisi tempat tidur|o
+chivalry|kesopanan, terutama pria kepada wanita; kode kesatria|o;o
+drape|menyampirkan kain; meletakkan dengan santai; tirai, gorden|v;v;o
+footman|pelayan pria berseragam|o
+hurl|melempar dengan kuat; melontarkan (hinaan)|v;v
+intertwine|menjalin, berkaitan erat|v
+nostril|lubang hidung|o
+scrunch|meremas, meremukkan; mengernyitkan (wajah)|v;v
+abyss|jurang yang sangat dalam; bencana, keadaan tanpa harapan|o;o
+cheerfully|dengan riang, dengan senang hati|o
+distinctly|dengan jelas; pasti, jelas-jelas|o;o
+drench|membasahi kuyup|v
+embroider|menyulam; membumbui (cerita) dengan hal tak benar|v;v
+feeble|lemah|o
+gloom|kegelapan; kemurungan|o;o
+heartily|dengan hangat, tulus; dengan lahap, bersemangat (eat heartily = makan dengan lahap); sangat (heartily sick of = sangat muak)|o;o;o
+newfound|baru ditemukan atau didapat|o
+sweetly|dengan manis, ramah|o
+troublesome|merepotkan, menjengkelkan|o
+monseigneur|tuanku (gelar Prancis untuk pangeran atau uskup)|o
+quilt|selimut tebal berlapis|o
+winding|berkelok-kelok (a winding road = jalan berkelok); bentuk -ing dari wind (memutar, berkelok)|o;o
+avail|to no avail: sia-sia, tanpa hasil; to avail oneself of: memanfaatkan|n;n
+beckon|melambai memanggil; memikat, menarik|v;v
+befall|menimpa (hal buruk)|v
+complexion|warna dan tekstur kulit wajah; sifat, watak|o;o
+ignite|menyalakan, terbakar; memicu (perasaan)|v;v
+muscular|berotot, kekar; berkaitan dengan otot|o;o
+parting|perpisahan; belahan rambut|o;o
+perk|tunjangan, fasilitas pekerjaan; perk up: menjadi lebih bersemangat|o;n
+remembrance|kenangan, ingatan; peringatan|o;o
+smug|puas diri, sombong|o
+commotion|keributan, kegaduhan|o
+morph|berubah perlahan menjadi sesuatu yang lain|v
+confidently|dengan yakin, dengan percaya diri|o
+multitude|jumlah besar, banyak sekali; kerumunan|o;o
+rosy|kemerah-merahan, merah muda; cerah, menjanjikan|o;o
+tapestry|permadani dinding, kain bergambar tenunan|o
+throng|kerumunan, khalayak; berjejal, mengerumuni|o;v
+bridal|berkaitan dengan pengantin atau pernikahan|o
+goblin|makhluk kecil jelek yang nakal|o
+personage|tokoh penting|o
+temperament|watak, perangai; kecenderungan murung atau emosional|o;o
+unspoken|tak terucapkan, dipahami tanpa dikatakan|o
+whither|ke mana|v
+displease|membuat kesal, tidak menyenangkan|v
+recoil|mundur tersentak (karena takut atau jijik); hentakan senjata api|v;o
+respectful|penuh hormat, sopan|o
+armchair|kursi berlengan|o
+boar|babi hutan; babi jantan|o;o
+clad|berpakaian, berbalut|o
+dragoon|prajurit berkuda; memaksa (melakukan sesuatu)|o;v
+glisten|berkilau (karena basah)|v
+lackey|pelayan, jongos; antek, pengikut yang patuh buta|o;o
+plop|jatuh berdebur pelan; duduk dengan berat, menjatuhkan diri|v;v
+procure|memperoleh, mendapatkan|v
+railing|pagar, pegangan tangga|o
+ramble|mengoceh tak tentu arah; berjalan-jalan santai di pedesaan|v;v
+dedication|pengabdian, dedikasi; kata persembahan dalam buku|o;o
+exertion|pengerahan tenaga atau pikiran|o
+thither|ke sana|v
+cavern|gua besar|o
+facade|bagian depan bangunan, fasad; kedok, penampilan palsu|o;o
+harshly|dengan keras, dengan kejam|o
+whirl|berputar cepat; kesibukan, hiruk-pikuk|v;o
+alt|alternatif (alt-rock, alt-right); tombol Alt|o;o
+coax|membujuk dengan lembut|v
+fragrance|bau harum, wewangian; parfum|o;o
+honourable|jujur, terhormat; Yang Terhormat (gelar pejabat tertentu)|o;g
+immensely|sangat, amat|o
+leisurely|santai, tidak tergesa-gesa|o
+muse|merenung, berkata sambil merenung; ilham, sumber inspirasi|v;o
+neatly|dengan rapi; dengan cekatan|o;o
+stiffen|menjadi kaku atau tegang|v
+tenderly|dengan lembut, penuh kasih|o
+thoughtfully|sambil berpikir dalam-dalam; dengan penuh perhatian, penuh pertimbangan|o;o
+droop|terkulai, merunduk|v
+coldness|kedinginan, hawa dingin; sikap dingin, tidak ramah|o;o
+continually|terus-menerus, berulang-ulang|o
+encouragement|dorongan, dukungan, semangat|o
+intricate|rumit, detail|o
+sarcastic|sinis, sarkastis (mengejek dengan kata-kata berlawanan)|o
+bulge|menggembung, menonjol; tonjolan, benjolan|v;o
+drool|meneteskan air liur, ngiler; drool over: sangat menginginkan, ngiler melihat|v;n
+etch|mengetsa, mengukir (pola) pada permukaan; terpatri kuat (etched in memory = terpatri dalam ingatan)|v;v
+exceedingly|sangat, amat|o
+aroma|bau harum, aroma|o
+dusk|senja, magrib|o
+saliva|air liur, ludah|o
+vex|menjengkelkan, merisaukan|v
+wildly|dengan liar, tak terkendali; sangat, luar biasa|o;o
+bitterness|kepahitan hati, dendam; rasa pahit|o;o
+curling|bentuk -ing dari curl (mengeriting, melingkar); curling (olahraga musim dingin dengan batu di atas es)|o;o
+graze|merumput; menggores kulit sedikit, lecet; ngemil|v;v;v
+indignation|kemarahan karena ketidakadilan|o
+nervousness|kegugupan, kecemasan|o
+parlour|ruang duduk, ruang tamu; salon, kedai (beauty parlour = salon kecantikan)|o;o
+promptly|segera; tepat waktu|o;o
+amiable|ramah, bersahabat|o
+confide|menceritakan rahasia kepada orang yang dipercaya|v
+interruption|jeda, gangguan; tindakan menyela|o;o
+intoxicate|memabukkan; sangat menggairahkan|v;v
+teleport|berteleportasi, berpindah seketika ke tempat lain|v
+emissary|utusan, duta|o
+feign|berpura-pura|v
+huddle|berkerumun rapat (agar hangat atau aman); kelompok yang rapat|v;o
+weaving|kerajinan menenun, tenunan; bentuk -ing dari weave (menenun)|o;o
+dismay|kecemasan, kekecewaan; membuat cemas, mengecewakan|o;v
+gateway|gerbang, pintu masuk; jalan menuju sesuatu|o;o
+repose|istirahat; beristirahat, berbaring|o;v
+volleyball|bola voli|o
+engross|menyita perhatian (biasanya engrossed in = asyik dengan)|v
+horseback|on horseback: menunggang kuda|n
+idk|nggak tahu (bahasa santai, = I don't know)|f1s
+lunge|menerjang, menyergap tiba-tiba; terjangan|v;o
+resemblance|kemiripan, persamaan|o
+saber|pedang melengkung|o
+savor|menikmati perlahan-lahan|v
+d'état|coup d'état: kudeta, perebutan kekuasaan secara tiba-tiba|n
+joyful|sangat gembira|o
+subside|mereda, berkurang; turun, amblas|v;v
+ascertain|memastikan|v
+beforehand|sebelumnya, terlebih dahulu|o
+calmness|ketenangan|o
+fleeting|sekilas, cepat berlalu|o
+gravely|dengan serius, dengan sungguh-sungguh|o
+lol|wkwk (tertawa; tanda bercanda) (bahasa santai)|o
+politeness|kesopanan|o
+suspiciously|dengan curiga; secara mencurigakan|o;o
+blankly|dengan tatapan kosong, tanpa ekspresi|o
+gracefully|dengan anggun; dengan sopan, dengan lapang dada|o;o
+jokingly|sambil bercanda|o
+obediently|dengan patuh|o
+pronoun|kata ganti (he, she, it)|o
+unconsciously|tanpa sadar|o
+waver|ragu-ragu, bimbang; berkelip, bergetar|v;v
+craving|keinginan kuat, ngidam; bentuk -ing dari crave (sangat menginginkan)|o;o
+gnaw|menggerogoti, mengunyah terus-menerus; terus menghantui, merisaukan|v;v
+hind|belakang (hind legs = kaki belakang); rusa betina|o;o
+musket|senapan laras panjang kuno, bedil|o
+passionately|dengan penuh gairah, dengan penuh perasaan|o
+quicken|menjadi lebih cepat; merangsang, membangkitkan|v;v
+squirm|menggeliat; merasa malu, risih|v;v
+steward|pengurus rumah tangga atau tanah milik; pramugara|o;o
+twirl|berputar-putar ringan, memutar-mutar|v
+waistcoat|rompi (dipakai di bawah jas)|o
+doze|tertidur ringan, terkantuk-kantuk; tidur sebentar|v;o
+mantle|mantel, jubah; peran, tanggung jawab (take up the mantle = mengambil alih peran); lapisan penutup|o;o;o
+outburst|ledakan emosi|o
+primal|dasar, primitif, naluriah|o
+sarcasm|sarkasme, sindiran tajam|o
+stirring|menggugah, membangkitkan semangat; tanda awal (perasaan); bentuk -ing dari stir (mengaduk, bergerak)|o;o;o
+tingle|merasa geli atau kesemutan|v
+torso|batang tubuh, torso|o
+workman|pekerja kasar, tukang|o
+banter|olok-olok, canda ramah|o
+conjure|memunculkan dengan sihir; membayangkan, menghadirkan dalam pikiran (conjure up)|v;v
+delicacy|makanan lezat atau langka; kehalusan, kerapuhan; kebijaksanaan, kepekaan|o;o;o
+eagerness|semangat, keinginan besar|o
+gratify|menyenangkan; memuaskan|v;v
+interject|menyela dengan komentar|v
+islet|pulau kecil|o
+joyous|penuh sukacita, gembira|o
+ledge|langkan, tepian sempit (pada dinding, tebing)|o
+pang|rasa sakit atau perasaan yang tiba-tiba dan tajam|o
+shimmer|berkilau berkilat-kilat|v
+trample|menginjak-injak|v
+writhe|menggeliat kesakitan|v
+alight|menyala, terbakar; terang benderang; turun (dari kendaraan); hinggap, mendarat|o;o;v;v
+sensibility|kepekaan rasa (seni, emosi); kepekaan, sensitivitas|o;o
+solemnly|dengan khidmat, dengan sungguh-sungguh|o
+tentacle|tentakel (lengan gurita atau cumi-cumi)|o
+dimly|redup, remang-remang; samar-samar|o;o
+enchantment|mantra, guna-guna; pesona, kesenangan|o;o
+forcefully|dengan kuat, dengan paksa; dengan tegas, meyakinkan|o;o
+serene|tenang, damai|o
+torrent|arus deras; banjir, luapan (kata-kata, makian)|o;o
+dumbfounded|tercengang, terperangah|o
+parchment|perkamen (bahan tulis dari kulit hewan); naskah kuno|o;o
+radiant|bersinar, berseri; berseri-seri, tampak bahagia|o;o
+scoot|bergegas, pergi cepat; bergeser (di kursi)|v;v
+spar|berlatih tinju; berdebat secara bersahabat; tiang kapal|v;v;o
+trot|berlari-lari kecil, berderap; derap, lari kecil; on the trot: berturut-turut|v;o;n
+tumultuous|riuh, gegap gempita; kacau, bergejolak|o;o
+lazily|dengan malas, santai|o
+oni|oni, setan atau raksasa Jepang|o
+plump|montok, gemuk berisi; plump for: memilih|o;n
+seep|merembes|v
+admirable|patut dikagumi, terpuji|o
+boldly|dengan berani, dengan percaya diri|o
+contrive|berhasil melakukan; merancang dengan cerdik atau licik|v;v
+dismount|turun (dari kuda, sepeda)|v
+dissipate|menghilang, menyebar; menghambur-hamburkan|v;v
+gratefully|dengan rasa terima kasih|o
+knit|merajut; mengerutkan (alis)|v;v
+oppress|menindas; membebani (pikiran)|v;v
+sideways|ke samping, dari samping|v
+tiptoe|berjingkat; on tiptoe: berjinjit|v;n
+warlock|penyihir pria, dukun|o
+arcade|lorong beratap berisi toko; ruang permainan ding-dong, arkade|o;o
+bellow|berteriak keras, meraung|v
+deafen|membuat tuli; memekakkan telinga|v;v
+fumble|memegang dengan kikuk, meraba-raba; mencari dengan canggung|v;v
+hoist|mengerek, mengangkat (dengan tali); derek, katrol|v;o
+labyrinth|labirin|o
+lifeless|mati, tak bernyawa; lesu, tanpa semangat|o;o
+upbringing|didikan, asuhan masa kecil|o
+crave|sangat menginginkan, mendambakan|v
+dangle|berjuntai, bergelantung; menawarkan sebagai umpan|v;v
+displeasure|rasa tidak senang, ketidaksetujuan|o
+dissatisfied|tidak puas|o
+faceless|tanpa identitas, anonim|o
+gust|embusan angin kencang tiba-tiba|o
+inexplicable|tak dapat dijelaskan|o
+majestic|agung, megah|o
+overjoyed|sangat gembira|o
+overpower|mengalahkan dengan kekuatan lebih besar; menguasai, membuat kewalahan|v;v
+postgraduate|mahasiswa pascasarjana; pascasarjana|o;o
+prefect|siswa senior yang bertugas (sekolah); prefek (pejabat tinggi di Prancis, Romawi kuno)|o;o
+resolute|teguh, tegas|o
+shawl|selendang, syal|o
+striker|penyerang (sepak bola); pekerja yang mogok|o;o
+toga|toga (jubah Romawi kuno)|o
+tracing|jiplakan; bentuk -ing dari trace (menelusuri, menjiplak)|o;o
+communiqué|pernyataan resmi, komunike|o
+coolness|ketenangan; sikap dingin, tidak ramah; kesejukan|o;o;o
+frantic|panik, kalang kabut|o
+incense|dupa, kemenyan; membuat sangat marah|o;v
+resound|bergema, berkumandang|v
+unbutton|membuka kancing|v
+vindicate|membuktikan benar; membersihkan dari tuduhan|v;v
+affectionately|dengan penuh kasih sayang|o
+braid|mengepang (rambut); kepang; tali hias, jalinan|v;o;o
+edifice|bangunan besar; sistem yang rumit (kepercayaan)|o;o
+entangle|menjerat, melibatkan dalam kesulitan|v
+goblet|piala, gelas berkaki|o
+hasty|tergesa-gesa, gegabah|o
+intensely|sangat, dengan kuat|o
+lass|gadis, perempuan muda|o
+rejoice|bersukacita, bergembira|v
+sou|sou (koin kecil Prancis kuno); not a sou: sepeser pun tidak|o;n
+bristle|bulu kaku, bulu sikat; menjadi marah atau defensif; bristle with: penuh dengan|o;v;n
+fro|to and fro: bolak-balik, mondar-mandir|n
+irresistible|tak tertahankan, sangat memikat|o
+luxurious|mewah|o
+softening|pelunakan, melunak; bentuk -ing dari soften (melunakkan)|o;o
+sombre|gelap, suram; serius, muram|o;o
+trance|keadaan seperti mimpi, kesurupan, trans|o
+yeoman|petani pemilik tanah sendiri; pengawal, penjaga|o;o
+brainstorm|bertukar pikiran mencari ide bersama, curah pendapat; ide tiba-tiba|v;o
+fester|bernanah, meradang; makin parah (dendam)|v;v
+feverish|demam; panik, gelisah|o;o
+furnace|tungku, perapian (untuk pemanas, peleburan logam)|o
+landlady|ibu kos, pemilik rumah sewaan (wanita)|o
+misty|berkabut; berkaca-kaca (mata)|o;o
+obedient|patuh, penurut|o
+penalize|menghukum; merugikan|v;v
+pique|kekesalan karena harga diri terluka; membangkitkan (minat, rasa ingin tahu)|o;v
+vanquish|mengalahkan sama sekali|v
+activation|pengaktifan, aktivasi|o
+backbone|tulang punggung; tulang punggung, penopang utama; keberanian, keteguhan|o;o;o
+baffle|membingungkan sama sekali|v
+bonnet|topi bertali di bawah dagu; kap mesin mobil (UK)|o;o
+cabaret|kabaret (hiburan lagu dan tari di klub malam)|o
+enrage|membuat sangat marah|v
+firewood|kayu bakar|o
+fume|sangat marah, naik pitam; fumes: asap atau gas berbahaya|v;n
+inscribe|menuliskan, mengukir (kata-kata) pada sesuatu|v
+interpose|menyisipkan di antara; menyela dengan|v;v
+junta|junta (kelompok militer yang berkuasa setelah merebut kekuasaan)|o
+momentary|sesaat, sebentar|o
+natured|berwatak (jenis tertentu, mis. good-natured = baik hati)|o
+oar|dayung|o
+oddly|anehnya, secara aneh|o
+orchard|kebun buah|o
+reverberate|bergema; berdampak panjang|v;v
+ridicule|ejekan, cemoohan; mengejek, menertawakan|o;v
+rummage|mengobrak-abrik, mencari dengan berantakan|v
+scorch|menghanguskan permukaan|v
+thence|dari sana; oleh karena itu|o;o
+timidly|dengan malu-malu, takut-takut|o
+whisker|kumis (kucing dan hewan lain); whiskers: cambang, jambang; by a whisker: nyaris, dengan selisih sangat tipis|o;n;n
+yearning|kerinduan, dambaan; bentuk -ing dari yearn (merindukan)|o;o
+beset|terus merundung, dilanda (beset by problems = dilanda masalah)|v
+conjecture|dugaan, terkaan; menduga, menerka|o;v
+epiphany|pencerahan tiba-tiba; Epifani (hari raya Kristen tiga Raja, 6 Januari)|o;o
+excerpt|kutipan, cuplikan (dari buku, film)|o
+flux|perubahan terus-menerus|o
+galley|dapur kapal; kapal kuno yang didayung|o;o
+hither|ke sini; hither and thither: ke sana kemari|v;n
+jag|ujung tajam, gerigi; serangan, luapan (a crying jag = tangis yang tak berhenti)|o;o
+mesmerize|memukau, menghipnotis|v
+porridge|bubur (gandum oat dengan air atau susu)|o
+reframe|mengungkapkan atau melihat dengan cara lain|v
+sorceress|penyihir wanita|o
+abdomen|perut|o
+eccentric|eksentrik, aneh, tidak lazim; orang eksentrik|o;o
+hem|kelim, keliman; hem in: mengepung, membatasi|o;n
+panacea|obat mujarab untuk segala penyakit|o
+reorganize|menata ulang|v
+replay|memutar ulang; tayangan ulang|v;o
+seriousness|keseriusan|o
+shroud|kain kafan; menyelubungi, menyembunyikan|o;v
+talon|cakar (burung pemangsa)|o
+viceroy|raja muda, wakil raja di daerah jajahan|o
+weariness|kelelahan, keletihan|o
+attentive|penuh perhatian, saksama; peduli, perhatian|o;o
+attractiveness|daya tarik|o
+canteen|kantin; botol air, veldples|o;o
+capitalization|penggunaan huruf kapital; kapitalisasi pasar perusahaan|o;o
+carelessly|dengan ceroboh, sembarangan|o
+commune|komune (kelompok yang hidup bersama dan berbagi); menyatu erat (commune with nature = menyatu dengan alam)|o;v
+disseminate|menyebarluaskan (informasi)|v
+flagship|unggulan, andalan; kapal bendera, kapal laksamana|o;o
+garde|avant-garde: pelopor, baru dan eksperimental (gagasan, seniman)|n
+macroeconomics|ekonomi makro|o
+merrily|dengan riang|o
+novella|novel pendek, novelet|o
+proclamation|proklamasi, pengumuman resmi|o
+purposely|dengan sengaja|o
+reconnect|menghubungkan kembali, tersambung lagi|v
+repudiate|menolak, menyangkal|v
+rigidity|kekakuan; ketidakluwesan|o;o
+standpoint|sudut pandang|o
+startup|perusahaan rintisan, startup|o
+stubbornly|dengan keras kepala|o
+unmarried|belum menikah, lajang|o
+wiggle|menggoyang-goyangkan, menggeliat|v
+adolescence|masa remaja|o
+amygdala|amigdala (bagian otak yang berkaitan dengan emosi dan rasa takut)|o
+assertiveness|ketegasan, sikap asertif|o
+braille|huruf Braille (tulisan titik timbul untuk tunanetra)|o
+curator|kurator (pengelola museum atau koleksi)|o
+deflect|membelokkan, menangkis|v
+desolate|sepi dan tandus; merana, kesepian|o;o
+developmental|berkaitan dengan perkembangan atau pertumbuhan|o
+dune|bukit pasir|o
+estimation|penilaian, pendapat; perkiraan kasar|o;o
+ethos|etos, semangat dan nilai-nilai (suatu kelompok)|o
+exclamation|seruan|o
+fidget|gelisah, tidak bisa diam|v
+fragrant|harum, wangi|o
+freshen|menyegarkan; freshen up: mencuci muka dan merapikan diri|v;n
+frock|gaun, rok terusan|o
+habitable|layak huni|o
+influenza|influenza, flu|o
+intentionally|dengan sengaja|o
+litre|liter|o
+modesty|kerendahan hati; kesopanan dalam berpakaian dan bersikap|o;o
+ointment|salep|o
+olé|olé!, bravo! (sorakan)|o
+pendant|liontin|o
+redden|menjadi merah; tersipu, memerah (wajah)|v;v
+repressor|represor (protein yang menghambat aktivitas gen)|o
+residency|tempat tinggal, masa tinggal; masa residensi (pelatihan dokter atau seniman)|o;o
+retrospective|retrospektif, melihat ke belakang; pameran retrospektif (karya seumur hidup seniman)|o;o
+rhetorical|retoris, berkaitan dengan seni berpidato; rhetorical question: pertanyaan retoris|o;n
+satin|kain satin|o
+saxophone|saksofon|o
+shrill|melengking, nyaring menusuk|o
+sprinkle|memercikkan, menaburkan|v
+stillness|keheningan, ketenangan, tanpa gerak|o
+sulk|merajuk, ngambek|v
+sweetness|rasa manis, kemanisan|o
+toddler|balita, anak yang baru belajar berjalan|o
+transformational|transformatif, membawa perubahan besar|o
+troupe|rombongan pemain, grup kesenian|o
+turbine|turbin|o
+validity|keabsahan, validitas|o
+whirlwind|angin puting beliung; kilat, sangat cepat (a whirlwind romance = cinta kilat)|o;o
+acronym|akronim (NATO)|o
+appeasement|politik peredaan, menuruti tuntutan demi perdamaian|o
+biographer|penulis biografi|o
+bloat|menggembung, membengkak|v
+captivity|penawanan, kurungan|o
+carefree|tanpa beban, riang|o
+ceremonial|seremonial, resmi|o
+contraception|kontrasepsi, pencegahan kehamilan|o
+defunct|tidak ada lagi, tidak berfungsi lagi|o
+disagreeable|tidak menyenangkan; pemarah, tidak ramah|o;o
+doubtful|ragu-ragu, tidak yakin; diragukan, tidak mungkin|o;o
+excavate|menggali|v
+excursion|tamasya, perjalanan singkat|o
+extradition|ekstradisi|o
+factual|faktual, berdasarkan fakta|o
+fend|fend off: menangkis, mempertahankan diri dari; fend for oneself: mengurus diri sendiri|n;n
+freight|barang angkutan, muatan|o
+frontline|garis depan pertempuran; garda terdepan (frontline workers = pekerja garda terdepan)|o;o
+geostrategic|geostrategis|o
+glut|kelebihan pasokan, kebanjiran|o
+homegrown|hasil dalam negeri, produksi lokal|o
+incorrect|salah, tidak benar|o
+indignant|marah karena diperlakukan tidak adil|o
+intellect|intelek, daya pikir|o
+isolationist|isolasionis (tidak mau ikut campur urusan negara lain)|o
+memorable|berkesan, patut dikenang|o
+midterm|pertengahan masa jabatan atau semester; pemilu sela (US)|o;o
+misinformation|informasi keliru, misinformasi|o
+monsoon|musim hujan (Asia Selatan); angin muson dan hujan lebat musiman|o;o
+mound|gundukan, bukit kecil; tumpukan, timbunan|o;o
+muzzle|moncong hewan; berangus, penutup moncong; mulut laras senjata|o;o;o
+overcapacity|kelebihan kapasitas|o
+overshadow|membayangi, membuat tampak kurang penting; menaungi, menutupi dengan bayangan|v;v
+parental|berkaitan dengan orang tua|o
+prominently|secara mencolok, jelas terlihat; secara menonjol, penting|o;o
+recursively|secara rekursif|o
+refreshment|makanan dan minuman ringan, hidangan; penyegaran, pemulihan tenaga|o;o
+renegotiation|perundingan ulang|o
+retrain|melatih ulang (untuk pekerjaan baru)|v
+therapeutic|menyembuhkan, terapeutik; menenangkan, baik bagi jiwa|o;o
+trafficker|pedagang gelap (narkoba, manusia)|o
+unseen|tak terlihat, tersembunyi|o
+valour|keberanian besar, kepahlawanan|o
+warhead|hulu ledak|o
+wasteful|boros|o
+watchman|penjaga, peronda malam|o
+windfall|rezeki nomplok; buah yang jatuh tertiup angin|o;o
+yeast|ragi|o
+beatboxing|beatbox (menirukan bunyi drum dengan mulut)|o
+broccoli|brokoli|o
+coexistence|hidup berdampingan secara damai, koeksistensi|o
+defilade|perlindungan medan dari tembakan musuh|o
+disparate|sangat berbeda, tidak berhubungan|o
+eel|belut, sidat|o
+ethereal|halus, surgawi, tidak duniawi|o
+fingertip|ujung jari|o
+formulation|perumusan (rencana, teori); formula, ramuan (obat)|o;o
+humane|manusiawi, berperikemanusiaan|o
+intentional|disengaja|o
+lightbulb|bola lampu|o
+luminous|bercahaya, berpendar dalam gelap|o
+malice|niat jahat, dengki|o
+maxim|pepatah, prinsip hidup|o
+measurable|dapat diukur; berarti, nyata|o;o
+moist|lembap|o
+mythical|mitos, berkaitan dengan mitos; khayalan, rekaan|o;o
+nicotine|nikotin|o
+packaging|kemasan, bahan pembungkus|o
+regenerative|regeneratif, dapat tumbuh kembali atau memperbarui diri|o
+toil|bekerja keras, membanting tulang; kerja keras, jerih payah|v;o
+unimaginable|tak terbayangkan|o
+unreal|tidak nyata, seperti mimpi; luar biasa, nggak masuk akal (bahasa santai)|o;o
+warship|kapal perang|o
+youthful|muda, belia; awet muda, berjiwa muda|o;o
+altruism|altruisme, sikap mementingkan orang lain|o
+anamorph|anamorf (gambar terdistorsi yang tampak normal dari satu sudut)|o
+anesthesia|anestesi, pembiusan|o
+attainment|pencapaian, prestasi|o
+bilingual|dwibahasa|o
+canoe|kano, sampan|o
+coastline|garis pantai|o
+comedic|komedi, lucu|o
+commemoration|peringatan, penghormatan kenangan|o
+coolly|dengan tenang; dengan dingin, tidak ramah|o;o
+detach|melepaskan, memisahkan|v
+dignify|memuliakan, memberi kehormatan|v
+dribble|meneteskan air liur; menetes, mengalir sedikit-sedikit; menggiring bola|v;v;v
+egregious|sangat buruk, keterlaluan|o
+entreaty|permohonan sungguh-sungguh|o
+fashionable|modis, sedang tren|o
+feral|liar (hewan yang dulu jinak)|o
+graphical|grafis|o
+gush|menyembur, memancar; memuji berlebihan|v;v
+homage|penghormatan|o
+homophobia|homofobia|o
+interchange|pertukaran; persimpangan jalan, simpang susun|o;o
+intuitively|secara intuitif, secara naluriah|o
+millet|jawawut, milet|o
+mouthful|sesuap, seteguk; kata panjang yang sulit diucapkan|o;o
+narrowing|penyempitan; bentuk -ing dari narrow (menyempit)|o;o
+northward|ke arah utara|o
+notification|pemberitahuan, notifikasi|o
+pest|hama; pengganggu, orang yang menyebalkan|o;o
+puberty|pubertas, masa akil balig|o
+pulp|bubur, daging buah; fiksi murahan yang sensasional|o;o
+radicalization|radikalisasi|o
+recreation|rekreasi, hiburan|o
+residual|sisa, tersisa|o
+staunch|setia, teguh; menghentikan (aliran darah)|o;v
+technologist|ahli teknologi, teknolog|o
+triad|tiga serangkai; triad (geng kriminal Tionghoa)|o;o
+uncommon|jarang, tidak biasa|o
+unnatural|tidak wajar, abnormal; buatan, dibuat-buat|o;o
+vagabond|pengembara, gelandangan|o
+wag|mengibas-ngibaskan (ekor); pelawak, orang jenaka|v;o
+whichever|yang mana saja; apa pun, mana pun|o;o
+woefully|sangat buruk, menyedihkan (woefully inadequate = sangat tidak memadai)|o
+wormhole|lubang cacing (terowongan hipotetis dalam ruang-waktu); lubang bekas cacing|o;o
+zinc|seng|o
+accelerator|pedal gas; akselerator partikel|o;o
+adhesive|lem, perekat; lengket|o;o
+ameliorate|memperbaiki|v
+analogous|serupa, sebanding|o
+appliance|peralatan rumah tangga (kulkas, pemanggang roti)|o
+astound|mengherankan, mencengangkan|v
+beehive|sarang lebah|o
+biosphere|biosfer|o
+bowler|pelempar bola (kriket); bowler hat: topi bundar hitam|o;n
+changer|pengubah (game changer = pengubah keadaan)|o
+cheesy|murahan dan cengeng, norak; berkeju|o;o
+childbirth|persalinan, melahirkan|o
+choreography|koreografi|o
+climber|pendaki, pemanjat; tanaman merambat|o;o
+coating|lapisan|o
+conserve|melestarikan, menghemat; selai|v;o
+cultivation|pertanian, budi daya tanaman; pengembangan, pemupukan (keterampilan, persahabatan)|o;o
+cynicism|sinisme|o
+existent|ada, yang ada|o
+giver|pemberi|o
+interbank|antarbank|o
+intro|pengantar, intro (bahasa santai)|o
+loyalist|loyalis, orang yang tetap setia kepada penguasa atau pemerintah|o
+monetize|memonetisasi, menghasilkan uang dari|v
+orb|bola, bulatan; bola bertatahkan permata (lambang raja)|o;o
+outstretch|merentangkan (biasanya outstretched arms = tangan terentang)|v
+ozone|ozon; ozone layer: lapisan ozon|o;n
+photosynthesis|fotosintesis|o
+ramen|ramen (sup mi Jepang)|o
+reactionary|reaksioner, menentang perubahan atau reformasi|o
+realist|orang realistis; seniman atau penulis realis|o;o
+reissue|menerbitkan ulang; edisi baru, terbitan ulang|v;o
+resonance|gema, dengung yang dalam; makna, daya sentuh emosional|o;o
+resurrection|kebangkitan dari kematian; kebangkitan kembali|o;o
+sapiens|Homo sapiens: manusia modern|n
+scolding|omelan, dampratan; bentuk -ing dari scold (memarahi)|o;o
+smoker|perokok|o
+squarely|langsung, tepat; sepenuhnya|o;o
+stymie|menghalangi, merintangi|v
+telomere|telomer (ujung pelindung kromosom)|o
+unanimous|bulat, sepakat semua|o
+undocumented|tidak tercatat; tanpa dokumen resmi (imigran)|o;o
+attendee|peserta, hadirin|o
+backer|pendukung, penyandang dana|o
+blurry|buram, kabur|o
+classify|mengelompokkan, menggolongkan|v
+demographics|data demografi|o
+devotee|penganut setia, penggemar|o
+discrepancy|ketidaksesuaian, selisih|o
+dormitory|kamar tidur bersama; asrama mahasiswa (US)|o;o
+downplay|mengecilkan arti, meremehkan|v
+enclosure|area berpagar, kandang; lampiran surat|o;o
+endpoint|titik akhir; perangkat ujung jaringan|o;o
+executioner|algojo|o
+haughty|angkuh, sombong|o
+helper|penolong, pembantu|o
+inconvenient|merepotkan, tidak praktis|o
+knave|bajingan, orang licik; jack, pangeran (kartu)|o;o
+laborer|buruh, pekerja kasar|o
+launcher|peluncur (roket); peluncur aplikasi|o;o
+legation|perwakilan diplomatik di bawah kedutaan, legasi|o
+metallic|logam, seperti logam|o
+miniature|sangat kecil, mini; miniatur, lukisan kecil|o;o
+plentiful|berlimpah, banyak|o
+procurator|kuasa, agen resmi; gubernur (Romawi kuno)|o;o
+recruitment|perekrutan|o
+reliably|dengan andal, dapat dipercaya|o
+satisfactory|memuaskan, cukup baik|o
+serotonin|serotonin (zat kimia otak yang berkaitan dengan suasana hati)|o
+subdivision|pembagian lebih lanjut; kompleks perumahan|o;o
+tumult|kegaduhan, huru-hara|o
+undemocratic|tidak demokratis|o
+unnoticed|tidak diperhatikan, tidak terlihat|o
+valet|pelayan pribadi pria; petugas parkir valet|o;o
+vegetation|tumbuh-tumbuhan, vegetasi|o
+webpage|halaman web|o
+wring|memeras (air); wring one's hands: meremas-remas tangan karena resah|v;n
+ail|menyusahkan, membuat sakit|v
+allege|menuduh, mengklaim tanpa bukti|v
+ancestral|leluhur, warisan nenek moyang|o
+antidepressant|obat antidepresan|o
+auditorium|auditorium, aula|o
+bacterium|bakteri (satu sel)|o
+bewilderment|kebingungan|o
+blatant|terang-terangan, tanpa malu|o
+bribery|penyuapan|o
+budge|bergeser sedikit; berubah pikiran|v;v
+citadel|benteng di atas kota|o
+coercive|memaksa, dengan paksaan atau ancaman|o
+coil|gulungan, lilitan; menggulung, melilit|o;v
+coordinator|koordinator|o
+deficient|kurang, tidak memadai|o
+dissatisfaction|ketidakpuasan|o
+divergent|berbeda, menyimpang|o
+etcetera|dan sebagainya|o
+fore|to the fore: ke permukaan, menonjol; depan|n;o
+fortification|benteng, kubu pertahanan; penguatan|o;o
+gala|gala, perayaan besar|o
+garland|kalung bunga, karangan bunga|o
+grub|makanan (bahasa santai); larva, ulat|o;o
+holdout|orang yang tetap menolak atau bertahan|o
+immoral|tidak bermoral, jahat|o
+impersonate|menyamar sebagai, meniru (orang lain)|v
+interwar|antara dua perang dunia|o
+jeopardy|bahaya (in jeopardy = dalam bahaya)|o
+knowhow|pengetahuan praktis, keahlian|o
+languish|merana, terlantar; melemah|v;v
+lavish|royal, mewah; menghujani, memberi berlimpah|o;v
+legality|keabsahan hukum, legalitas|o
+librarian|pustakawan|o
+magnify|memperbesar|v
+malicious|jahat, berniat buruk|o
+mammoth|raksasa, sangat besar; mamut|o;o
+miscalculation|salah perhitungan|o
+mycelium|miselium (benang-benang jamur seperti akar)|o
+ohhh|ohhh! (menyadari, terkejut)|o
+pane|kaca jendela, panel kaca|o
+parliamentarian|anggota parlemen|o
+progression|perkembangan bertahap|o
+promoter|penyelenggara acara, promotor; pendukung gagasan|o;o
+quip|kelakar, celetukan jenaka; berkelakar|o;v
+recurrent|berulang-ulang, kambuhan|o
+segregate|memisahkan (terutama berdasarkan ras)|v
+sentry|penjaga, prajurit jaga|o
+shipyard|galangan kapal|o
+spontaneously|secara spontan|o
+stewardship|pengelolaan yang bertanggung jawab|o
+suffragette|suffragette (wanita pejuang hak pilih, awal abad ke-20)|o
+tycoon|taipan, konglomerat|o
+unreliable|tidak dapat diandalkan|o
+victorious|menang, jaya|o
+weighing|bentuk -ing dari weigh (menimbang)|o
+airstrike|serangan udara|o
+applicable|berlaku, relevan|o
+attributable|disebabkan oleh|o
+bandwidth|bandwidth, kapasitas transfer data; kapasitas mental, waktu dan tenaga (bahasa santai)|o;o
+besiege|mengepung dan menyerang; membanjiri (dengan permintaan)|v;v
+blight|penyakit tanaman; perusak, noda|o;o
+cavity|rongga; gigi berlubang|o;o
+diffuse|menyebar luas; tersebar, tidak terpusat|v;o
+digitally|secara digital|o
+divinity|keilahian; dewa; teologi, ilmu ketuhanan|o;o;o
+domino|domino (kartu kecil bertitik untuk permainan); domino effect: efek domino, reaksi berantai|o;n
+enthusiastically|dengan antusias|o
+equate|menyamakan|v
+femme|femme fatale: wanita penggoda yang berbahaya|n
+feud|permusuhan lama yang sengit|o
+grader|penilai tugas; murid kelas tertentu (fifth grader = murid kelas lima)|o;o
+greasy|berminyak|o
+hearty|hangat, bersemangat; mengenyangkan (makanan)|o;o
+inflame|mengobarkan kemarahan atau kekerasan; membuat meradang|v;v
+insignificant|tidak penting, sangat kecil|o
+internship|magang|o
+invaluable|sangat berharga|o
+latch|gerendel, palang pintu; latch onto: menempel pada, menyambar|o;n
+loosening|bentuk -ing dari loosen (melonggarkan)|o
+mag|majalah (bahasa santai)|o
+mutualization|mutualisasi, pembagian risiko atau biaya antaranggota|o
+odour|bau|o
+overload|membebani berlebihan; kelebihan beban|v;o
+pollutant|polutan, zat pencemar|o
+pristine|bersih sempurna, masih asli|o
+provocative|provokatif, memancing; menggoda secara seksual|o;o
+reestablish|membangun kembali, memulihkan|v
+reflective|termenung, merenung; memantulkan cahaya, reflektif|o;o
+revel|sangat menikmati (revel in); berpesta pora|v;v
+reverence|rasa hormat yang mendalam|o
+rugged|terjal, berbatu; tegap, kasar dan kuat|o;o
+scalable|dapat dikembangkan dengan mudah, skalabel|o
+skiff|perahu kecil ringan, sampan|o
+suicidal|ingin bunuh diri; sangat berbahaya, nekat|o;o
+taker|pengambil, peminat (risk-taker = pengambil risiko; any takers? = ada yang mau?)|o
+tar|ter, aspal|o
+timetable|jadwal|o
+tranquility|ketenangan, kedamaian|o
+treacherous|khianat; berbahaya|o;o
+uncomfortably|dengan tidak nyaman|o
+uplift|mengangkat, membangkitkan semangat; peningkatan, dorongan semangat|v;o
+vie|bersaing (vie for = bersaing memperebutkan)|v
+wasp|tawon|o
+anyplace|di mana saja|o
+bashing|kecaman keras di depan umum; bentuk -ing dari bash (memukul)|o;o
+bridle|tali kekang; menunjukkan kemarahan, tersinggung|o;v
+cello|selo|o
+cerebral|intelektual; berkaitan dengan otak|o;o
+circumstantial|tidak langsung, berdasarkan keadaan (circumstantial evidence = bukti tidak langsung)|o
+clockwise|searah jarum jam|o
+credibly|secara meyakinkan, dapat dipercaya|o
+cyclone|siklon, badai berputar|o
+dearth|kekurangan, kelangkaan|o
+denomination|denominasi, aliran agama; nilai nominal (uang logam atau kertas)|o;o
+fertilize|menyuburkan, membuahi; memupuk|v;v
+foil|kertas timah, aluminium foil; menggagalkan; pembanding, tokoh kontras|o;v;o
+graffito|grafiti (satu buah)|o
+grope|meraba-raba; meraba secara tidak senonoh|v;v
+grossly|sangat, keterlaluan|o
+hermit|pertapa|o
+homesick|rindu kampung halaman|o
+honeybee|lebah madu|o
+illustrious|termasyhur, terkemuka|o
+implosion|implosi, runtuh ke dalam|o
+ingenious|cerdik, penuh akal|o
+issuer|penerbit (saham, kartu)|o
+jobless|menganggur|o
+lapse|batal, tidak berlaku lagi; terjerumus (ke dalam); kelalaian sesaat, jeda|v;v;o
+literal|harfiah, kata demi kata|o
+millisecond|milidetik|o
+mite|tungau; anak kecil; a mite: sedikit, agak|o;o;n
+monumental|monumental, sangat besar dan penting|o
+mundane|biasa, membosankan|o
+mythological|mitologis|o
+obstinate|keras kepala|o
+ouster|penggulingan, pencopotan dari kekuasaan|o
+perceptual|perseptual, berkaitan dengan persepsi|o
+pore|pori-pori; pore over: menelaah dengan saksama|o;n
+pornographic|pornografis|o
+quatrain|kuatren, bait empat baris|o
+rapidity|kecepatan|o
+reassurance|penenteraman hati, jaminan|o
+referee|wasit; pemberi referensi|o;o
+remarry|menikah lagi|v
+rim|bibir, tepi (cangkir, roda)|o
+seminal|sangat berpengaruh|o
+spectacularly|secara spektakuler|o
+summation|ringkasan, rangkuman; penjumlahan|o;o
+symmetrical|simetris|o
+televise|menyiarkan di televisi|v
+tertiary|tersier, ketiga; berkaitan dengan pendidikan tinggi|o;o
+thirteenth|ketiga belas|o
+tweak|menyesuaikan sedikit; mencubit dan memelintir|v;v
+unease|kegelisahan, kecemasan|o
+unprepared|tidak siap|o
+unrelated|tidak berhubungan|o
+validate|mengesahkan, membuktikan sah; mengakui (perasaan)|v;v
+vomiting|muntah; bentuk -ing dari vomit (memuntahkan)|o;o
+washroom|kamar kecil, toilet|o
+westward|ke arah barat|o
+whataboutism|whataboutism (membalas kritik dengan menunjuk kesalahan orang lain)|o
+workpiece|benda kerja|o
+abate|mereda, berkurang|v
+appointee|orang yang ditunjuk|o
+atheism|ateisme|o
+averse|enggan, tidak suka (averse to)|o
+bluntly|terus terang, blak-blakan|o
+boredom|kebosanan|o
+bottleneck|titik hambatan, kemacetan|o
+buildup|peningkatan bertahap, penumpukan|o
+caliphate|kekhalifahan|o
+communicable|menular (penyakit)|o
+contingency|kemungkinan kejadian di masa depan; contingency plan: rencana cadangan|o;n
+convertibility|keterkonversian (mata uang)|o
+coping|mengatasi kesulitan; bentuk -ing dari cope (mengatasi)|o;o
+counterweight|pemberat pengimbang|o
+diagnostics|diagnostik, pemeriksaan untuk menemukan kerusakan atau penyakit|o
+dispel|mengusir, menghilangkan (ketakutan, keraguan)|v
+encircle|mengelilingi, mengepung|v
+falsehood|kebohongan, dusta; ketidakbenaran|o;o
+freshly|baru saja|o
+glitch|gangguan kecil|o
+ideologically|secara ideologis|o
+imperialist|imperialis|o
+implicate|melibatkan, menunjukkan keterlibatan (dalam kejahatan)|v
+inadvertently|secara tidak sengaja|o
+intangible|tidak berwujud, sulit didefinisikan|o
+interlocutor|lawan bicara|o
+keyhole|lubang kunci|o
+laissez|laissez-faire: kebijakan tidak campur tangan|n
+logistical|logistik, berkaitan dengan pengaturan praktis|o
+malign|menjelek-jelekkan, memfitnah; jahat, merugikan|v;o
+momentous|sangat penting, bersejarah|o
+oxide|oksida|o
+paraphrase|menyatakan dengan kata-kata lain; parafrasa|v;o
+perilous|berbahaya|o
+premia|bentuk jamak premium (premi)|o
+questioner|penanya|o
+raspberry|buah raspberi; bunyi ejekan dengan lidah|o;o
+rebuke|menegur dengan keras; teguran keras|v;o
+recapture|merebut kembali, menangkap lagi; menghidupkan kembali (perasaan)|v;v
+relinquish|melepaskan, menyerahkan|v
+renege|ingkar (janji)|v
+saith|berkata (dengan he, she, it)|f3s
+seductive|menggoda, memikat|o
+seventeenth|ketujuh belas|o
+shortsighted|berpandangan pendek; rabun jauh|o;o
+showdown|konfrontasi terakhir, pertarungan penentuan|o
+signify|berarti, menandakan|v
+sixteenth|keenam belas|o
+sociologist|sosiolog|o
+stellar|luar biasa, cemerlang; berkaitan dengan bintang|o;o
+triumphant|menang, penuh kemenangan|o
+undesirable|tidak diinginkan|o
+unjust|tidak adil|o
+unnecessarily|tanpa perlu|o
+watermelon|semangka|o
+agility|kelincahan, ketangkasan|o
+antigen|antigen|o
+backseat|kursi belakang mobil; take a backseat: mengambil peran yang kurang aktif|o;n
+campfire|api unggun|o
+caretaker|penjaga gedung, perawat; sementara (caretaker government = pemerintahan sementara)|o;o
+cartilage|tulang rawan|o
+childcare|pengasuhan anak|o
+cognition|kognisi, proses berpikir dan mengetahui|o
+colonize|menjajah, mendirikan koloni di|v
+decentralization|desentralisasi|o
+deprivation|kekurangan kebutuhan pokok; kesengsaraan|o;o
+dilute|mengencerkan|v
+dresser|lemari laci; orang yang berpakaian (a smart dresser = orang yang berpakaian rapi)|o;o
+dumbass|orang bego, goblok (bahasa kasar)|o
+enhancement|peningkatan, perbaikan|o
+evoke|membangkitkan, mengingatkan pada|v
+exorbitant|terlalu mahal, selangit (harga)|o
+expanse|hamparan luas|o
+extrovert|ekstrovert, orang yang supel|o
+fluent|fasih, lancar|o
+forecaster|peramal cuaca, prakirawan|o
+forsake|meninggalkan, menelantarkan|v
+frigate|fregat (kapal perang)|o
+hygiene|kebersihan, higiene|o
+insignia|lencana, lambang|o
+lessen|mengurangi|v
+mausoleum|mausoleum, makam megah|o
+navigator|navigator, penunjuk jalan|o
+oppressive|menindas, kejam; berat, pengap|o;o
+parasitic|parasit, hidup menumpang pada organisme lain|o
+persuasion|bujukan, persuasi; keyakinan, aliran|o;o
+pigment|pigmen, zat warna|o
+plotting|persekongkolan, perencanaan jahat; bentuk -ing dari plot (merencanakan, bersekongkol)|o;o
+pogrom|pogrom (pembantaian terorganisir terhadap kaum minoritas)|o
+predictive|prediktif, dapat meramalkan|o
+rectangular|berbentuk persegi panjang|o
+repentance|pertobatan, penyesalan tulus|o
+repetitive|berulang-ulang, monoton|o
+roil|mengaduk, mengacaukan|v
+scruple|keraguan moral (biasanya scruples)|o
+sharpen|menajamkan, mengasah|v
+snapshot|foto sekilas, jepretan; gambaran singkat|o;o
+stabilizer|penstabil|o
+standstill|terhenti total, mandek|o
+stupefy|membuat tercengang, membius|v
+sturdy|kokoh, kuat|o
+subconsciously|secara bawah sadar|o
+subvert|merongrong, menumbangkan|v
+temporal|berkaitan dengan waktu; duniawi, tidak religius|o;o
+topper|topi tinggi; hiasan di atas|o;o
+unproductive|tidak produktif|o
+vacancy|lowongan kerja; kamar kosong|o;o
+visceral|mendalam, naluriah|o
+wedge|baji, ganjal; menjejalkan ke celah sempit|o;v
+yearly|tahunan, setiap tahun|o
+anarchy|anarki, kekacauan tanpa pemerintahan|o
+audacity|keberanian, kelancangan|o
+axle|as roda, gandar|o
+bereaved|berduka karena ditinggal mati orang tersayang|o
+biologically|secara biologis|o
+bipolar|berkutub dua; mengidap gangguan bipolar|o;o
+calibrate|mengkalibrasi|v
+carbohydrate|karbohidrat|o
+chiefly|terutama|o
+chopstick|sumpit|o
+choreograph|menata tari, membuat koreografi; mengatur dengan cermat|v;v
+clergy|rohaniwan, pendeta|o
+coherence|koherensi, keruntutan logis|o
+confrontational|konfrontatif, suka berdebat|o
+dealings|urusan, hubungan (bisnis atau pribadi)|o
+demonize|menjelek-jelekkan sebagai jahat, mengiblis-iblisan|v
+deposition|kesaksian di bawah sumpah; pemakzulan, pencopotan dari jabatan|o;o
+dogma|dogma|o
+expressive|ekspresif|o
+fig|buah ara|o
+foothill|kaki bukit, kaki gunung|o
+goddamned|sialan, terkutuk (umpatan kasar)|o
+godmother|ibu baptis|o
+gorge|ngarai, jurang sempit; melahap dengan rakus|o;v
+grad|lulusan (bahasa santai)|o
+hijack|membajak (kendaraan, pesawat); membajak, mengambil alih untuk kepentingan sendiri|v;v
+holosuite|ruang simulasi holografik (fiksi ilmiah)|o
+improvisation|improvisasi|o
+infernal|berkaitan dengan neraka; sialan, menjengkelkan|o;o
+insurmountable|tak teratasi|o
+internationalism|internasionalisme|o
+intolerable|tak tertahankan|o
+lawman|penegak hukum, sheriff|o
+lifeline|tali penyelamat; sandaran hidup, penopang vital|o;o
+mechanically|secara mekanis; secara otomatis, tanpa berpikir|o;o
+monastic|berkaitan dengan biarawan atau biara|o
+nascent|baru muncul, baru lahir|o
+nationalization|nasionalisasi|o
+neoliberalism|neoliberalisme|o
+newsletter|buletin, nawala|o
+nomad|pengembara, nomaden|o
+numerical|numerik, berkaitan dengan angka|o
+plural|bentuk jamak|o
+posthumous|anumerta, setelah meninggal|o
+posturing|sikap sok, tingkah untuk pamer; bentuk -ing dari posture (bergaya, berlagak)|o;o
+preposterous|konyol, tidak masuk akal|o
+principally|terutama|o
+propulsion|daya dorong, propulsi|o
+prospective|calon, yang akan datang|o
+randomize|mengacak|v
+realistically|secara realistis; secara hidup, seperti aslinya|o;o
+replica|replika, tiruan persis|o
+revisionist|revisionis|o
+sectoral|sektoral|o
+simulator|simulator (flight simulator = simulator penerbangan)|o
+socket|stopkontak; rongga (sendi atau mata)|o;o
+stairwell|ruang tangga|o
+subspecies|subspesies|o
+symbolize|melambangkan|v
+synonymous|bersinonim, sama artinya; identik, lekat dengan|o;o
+tandem|in tandem: bersama-sama, beriringan; sepeda tandem (untuk dua orang)|n;o
+thunderclap|gelegar guntur|o
+unfavorable|tidak menguntungkan, merugikan|o
+wetness|kebasahan|o
+abusive|kasar, menghina; kejam, suka menganiaya|o;o
+adversely|secara merugikan|o
+arbitration|arbitrase|o
+backstory|latar belakang cerita tokoh|o
+charisma|karisma|o
+commuter|penglaju, komuter|o
+complacent|berpuas diri, lengah|o
+contemplation|perenungan|o
+crores|bentuk jamak crore (sepuluh juta, dalam bahasa Inggris India)|o
+cruiser|kapal penjelajah; kapal pesiar bermotor; mobil patroli polisi (US)|o;o;o
+deceit|tipu daya, kebohongan|o
+def|pasti, jelas (bahasa santai)|o
+deregulate|menderegulasi, menghapus peraturan|v
+dipshit|orang tolol (bahasa kasar)|o
+eater|pemakan|o
+epicenter|episentrum; pusat (kegiatan)|o;o
+erection|ereksi; bangunan, pendirian|o;o
+exalt|memuja, memuliakan; mengangkat derajat|v;v
+eyeglass|kacamata berlensa satu, monokel; eyeglasses: kacamata (US)|o;n
+ferment|berfermentasi; keresahan, pergolakan|v;o
+filial|sebagai anak (filial duty = bakti anak)|o
+grating|kasar dan menjengkelkan; jeruji, kisi-kisi besi|o;o
+grumpy|pemarah, mudah uring-uringan|o
+hyperinflation|hiperinflasi|o
+impartial|adil, tidak memihak|o
+incomprehensible|tak dapat dipahami|o
+infighting|pertikaian internal|o
+instill|menanamkan (dalam pikiran seseorang)|v
+labium|labia, lipatan seperti bibir (anatomi)|o
+methyl|metil|o
+monopolist|pemegang monopoli|o
+narration|penuturan cerita; narasi, komentar|o;o
+pounce|menerkam|v
+reassign|memindahtugaskan, menugaskan kembali|v
+reptile|reptil|o
+schoolgirl|siswi|o
+seethe|geram dalam diam; mendidih, berkerumun|v;v
+slur|hinaan, cercaan; berbicara tidak jelas, cadel|o;v
+snuff|memadamkan (lilin); tembakau hirup; snuff out: mengakhiri, membunuh|v;o;n
+sooo|begitu, sangat (dipanjangkan untuk penekanan) (bahasa santai, = so)|o
+sorcerer|penyihir pria|o
+spacious|lapang, luas|o
+specialization|spesialisasi|o
+speedily|dengan cepat|o
+spinster|perawan tua|o
+steadfast|teguh, setia|o
+subtree|subpohon (bagian struktur pohon dengan akar sendiri, komputasi)|o
+temperate|sedang, beriklim sedang; tidak berlebihan|o;o
+thaw|mencair; menjadi lebih ramah|v;v
+unworthy|tidak layak|o
+urn|guci abu jenazah; wadah besar untuk minuman panas|o;o
+weirdly|anehnya|o
+yearn|merindukan, mendambakan|v
+abominable|keji, mengerikan|o
+adoptive|angkat (adoptive parents = orang tua angkat)|o
+anterior|di bagian depan, anterior|o
+antics|tingkah konyol atau lucu|o
+apiece|masing-masing|o
+aquatic|akuatik, hidup di air|o
+armament|persenjataan; pengerahan senjata untuk perang|o;o
+auditory|berkaitan dengan pendengaran|o
+bleat|mengembik; mengeluh dengan lemah|v;v
+booster|pendorong, penguat (kepercayaan diri, tenaga); dosis penguat vaksin, booster|o;o
+brig|kapal layar bertiang dua; penjara kapal|o;o
+characterise|menggambarkan sifat; menjadi ciri khas|v;v
+classifier|pengklasifikasi|o
+commemorative|peringatan, untuk mengenang|o
+compost|kompos|o
+cycling|bersepeda; bentuk -ing dari cycle (bersepeda, berputar)|o;o
+dispense|membagikan; dispense with: meniadakan, tidak memerlukan|v;n
+dozy|mengantuk; bego, lamban (bahasa santai)|o;o
+egalitarian|egaliter|o
+eggbeater|pengocok telur|o
+ellipse|elips, bentuk lonjong|o
+embroidery|sulaman, bordir|o
+eunuch|kasim, sida-sida|o
+finalize|menyelesaikan, memfinalkan|v
+guarantor|penjamin|o
+harmonization|penyelarasan, harmonisasi|o
+hearth|lantai perapian; rumah, keluarga|o;o
+hurrah|hore|o
+imitation|tiruan; imitasi, barang palsu|o;o
+inconceivable|tak terbayangkan|o
+inexpensive|murah|o
+informally|secara tidak resmi, santai|o
+internalize|menghayati, menerima sebagai milik sendiri|v
+invert|membalikkan, menjungkirbalikkan|v
+lingerie|pakaian dalam wanita|o
+milligram|miligram|o
+misconception|kesalahpahaman, anggapan keliru|o
+neocortex|neokorteks (bagian luar otak untuk berpikir tingkat tinggi)|o
+nestle|meringkuk dengan nyaman, bersandar nyaman|v
+nobleman|bangsawan|o
+orthogonal|tegak lurus, ortogonal; independen, tidak berkaitan|o;o
+perennial|abadi, bertahan bertahun-tahun; tanaman menahun|o;o
+phage|fag, bakteriofag (virus yang menginfeksi bakteri)|o
+pleasantly|dengan menyenangkan|o
+ponytail|rambut kuncir kuda|o
+porcelain|porselen|o
+principled|berprinsip|o
+prowess|keterampilan, kehebatan|o
+resurgent|bangkit kembali|o
+retract|menarik kembali (pernyataan); menarik ke dalam|v;v
+rodent|hewan pengerat|o
+seafood|makanan laut, hidangan laut|o
+silhouette|siluet, bayangan gelap|o
+sling|melempar; kain gendongan lengan; ketapel, umban|v;o;o
+softness|kelembutan, kelunakan|o
+supplant|menggantikan|v
+sus|mencurigakan (bahasa santai)|o
+synchronize|menyinkronkan|v
+synthesizer|synthesizer, alat musik keyboard elektronik|o
+thicket|semak belukar|o
+trout|ikan trout|o
+turnover|pergantian (karyawan); omzet, total penjualan; kue pastri kecil berisi|o;o;o
+unintelligible|tak dapat dipahami|o
+unman|menciutkan nyali|v
+uproar|kegemparan, kehebohan|o
+upswing|peningkatan, kenaikan|o
+wildcat|kucing liar; wildcat strike: mogok kerja mendadak tanpa izin serikat|o;n
+wiring|instalasi kabel listrik|o
+wobble|bergoyang-goyang, goyah|v
+abnormal|tidak normal|o
+adherent|penganut, pengikut|o
+advert|iklan|o
+alienation|rasa terasing, keterasingan; kerenggangan hubungan|o;o
+amass|mengumpulkan dalam jumlah besar|v
+amphitheatre|amfiteater|o
+balk|ragu, menolak (balk at)|v
+barren|tandus, mandul, gersang|o
+bicker|bertengkar soal hal sepele, cekcok|v
+bladder|kandung kemih|o
+blather|mengoceh omong kosong|v
+camaraderie|persahabatan, setia kawan|o
+chestnut|kastanye, berangan; cokelat kemerahan; old chestnut: cerita atau lelucon basi|o;o;n
+cholesterol|kolesterol|o
+cohesive|kompak, padu|o
+commensurate|sepadan, sebanding|o
+confluence|pertemuan sungai; pertemuan, perpaduan|o;o
+countryman|sebangsa, rekan senegara; orang desa|o;o
+creditworthiness|kelayakan kredit|o
+criminalize|mengkriminalisasi, menjadikan ilegal|v
+cumbersome|besar dan merepotkan, tidak praktis|o
+deliverance|penyelamatan, pembebasan|o
+dislocation|dislokasi, pergeseran tulang; gangguan, kekacauan|o;o
+eco|ramah lingkungan, ekologis (eco-friendly)|o
+expressionist|seniman ekspresionis|o
+fanatic|fanatik, orang fanatik|o
+firefighter|pemadam kebakaran|o
+fluctuate|naik turun, berfluktuasi|v
+fortify|memperkuat, membentengi|v
+freelance|lepas, pekerja lepas (untuk beberapa klien)|o
+gallows|tiang gantungan|o
+genomics|genomika|o
+grassland|padang rumput|o
+haze|kabut, jerebu; kebingungan, pikiran kabur|o;o
+hedgehog|landak susu|o
+holistic|holistik, menyeluruh|o
+horrid|mengerikan, menjijikkan|o
+horseman|penunggang kuda|o
+illiquid|tidak likuid, sulit dicairkan|o
+incipient|baru mulai, tahap awal|o
+infer|menyimpulkan|v
+intrinsic|intrinsik, hakiki|o
+leukemia|leukemia, kanker darah|o
+marginalization|peminggiran, marginalisasi|o
+melodic|merdu, melodis|o
+mindful|sadar, ingat|o
+nourish|memberi makan, menyehatkan|v
+nucleotide|nukleotida|o
+pancreatic|pankreas, berkaitan dengan pankreas|o
+persuasive|meyakinkan, persuasif|o
+pouch|kantong kecil; kantong kulit (kanguru)|o;o
+relegate|menurunkan, mendegradasi|v
+resumption|dimulainya kembali|o
+revamp|merombak, memperbarui|v
+salient|paling menonjol, penting|o
+schoolchild|anak sekolah|o
+segregation|pemisahan, segregasi (terutama berdasarkan ras)|o
+sickly|sakit-sakitan; manis memuakkan|o;o
+speedy|cepat|o
+subsistence|sekadar bertahan hidup, nafkah seadanya|o
+sustainably|secara berkelanjutan|o
+tantamount|sama dengan, setara (tantamount to)|o
+tapir|tapir|o
+thirdly|ketiga|o
+tinker|mengutak-atik; tukang patri keliling|v;o
+unwind|bersantai; mengurai, membuka gulungan|v;v
+uterine|berkaitan dengan rahim|o
+ventricle|bilik jantung; rongga otak, ventrikel|o;o
+vexation|kekesalan, kejengkelan|o
+watchdog|anjing penjaga; lembaga pengawas|o;o
+workable|dapat dilaksanakan, praktis|o
+wrongly|keliru, salah; secara tidak adil|o;o
+abode|tempat tinggal, kediaman|o
+acquiesce|menyetujui tanpa protes, menurut|v
+agora|agora (alun-alun umum di Yunani kuno)|o
+authorization|izin resmi, otorisasi|o
+breech|pangkal laras senjata; breech birth: kelahiran sungsang|o;n
+carving|ukiran, pahatan; mengiris daging matang|o;o
+chronically|secara kronis, menahun|o
+clinician|klinisi, tenaga medis yang menangani pasien langsung|o
+coexist|hidup berdampingan|v
+confound|membingungkan; membuktikan salah|v;v
+convex|cembung|o
+counterintuitive|berlawanan dengan intuisi|o
+decidedly|jelas, tegas|o
+decimate|membinasakan sebagian besar|v
+disarm|melucuti senjata; meluluhkan, memikat|v;v
+empathize|berempati|v
+enthusiast|penggemar, peminat|o
+equator|khatulistiwa|o
+fixate|terobsesi (dengan)|v
+goldfish|ikan mas koki|o
+gon|(dalam gonna) akan (bahasa santai, = going to)|o
+handler|pawang, pelatih hewan; pengurus, penasihat|o;o
+industrialist|industriawan|o
+intrusive|mengganggu, mencampuri privasi|o
+juggle|melempar-lempar beberapa benda sekaligus, main sulap bola; mengurus beberapa tugas sekaligus|v;v
+kimono|kimono|o
+lotta|banyak (bahasa santai, = a lot of)|o
+lullaby|lagu nina bobo|o
+mangrove|bakau|o
+marmot|marmut tanah|o
+measle|(dalam measles) campak|o
+mediocre|biasa-biasa saja, sedang|o
+mod|modifikasi gim atau perangkat (bahasa santai); moderator forum daring (bahasa santai); anggota gaya anak muda Inggris 1960-an|o;o;o
+moisture|kelembapan|o
+multimedia|multimedia|o
+nanometer|nanometer|o
+needy|miskin, membutuhkan; haus perhatian|o;o
+neon|neon (gas untuk papan bercahaya); sangat terang, mencolok (warna)|o;o
+outskirts|pinggiran kota|o
+pederast|pederas (pria yang berhubungan seks dengan anak laki-laki)|o
+prehistoric|prasejarah|o
+propagation|penyebaran, perambatan; perbanyakan tanaman|o;o
+propensity|kecenderungan|o
+proverb|peribahasa|o
+rearrange|menata ulang|v
+rebellious|suka memberontak, pembangkang|o
+rediscover|menemukan kembali|v
+restorative|memulihkan, menyegarkan kembali|o
+scattering|sedikit yang tersebar; penghamburan, penyebaran|o;o
+scythe|sabit besar|o
+sorely|sangat, amat|o
+tic|tik (kedutan tak disengaja); kebiasaan aneh|o;o
+transactional|transaksional; semata-mata timbal balik, pamrih|o;o
+trustworthy|dapat dipercaya|o
+unwise|tidak bijaksana|o
+alteration|perubahan; permak pakaian|o;o
+antisemitic|antisemit, anti-Yahudi|o
+arbitrarily|secara sewenang-wenang, acak|o
+bah|cih!, huh! (tanda cemooh atau tidak sabar)|o
+baritone|bariton|o
+bastion|benteng, pembela suatu perjuangan|o
+birthplace|tempat lahir|o
+blaxploitation|blaxploitation (film 1970-an dengan pemeran kulit hitam untuk penonton kulit hitam)|o
+chlorine|klorin|o
+cleavage|belahan dada; perpecahan, pembelahan|o;o
+combustion|pembakaran|o
+considerate|penuh perhatian, tenggang rasa|o
+contraceptive|kontrasepsi, mencegah kehamilan; alat atau pil kontrasepsi|o;o
+cyanide|sianida|o
+detainee|tahanan|o
+dialog|percakapan, dialog; kotak dialog (komputer)|o;o
+disapprove|tidak setuju, tidak menyukai|v
+disengagement|penarikan diri, pelepasan keterlibatan|o
+disobedience|ketidakpatuhan, pembangkangan|o
+ecocide|ekosida, perusakan lingkungan besar-besaran|o
+elastic|elastis, lentur; karet, tali elastis|o;o
+eminent|terkemuka, terpandang|o
+epoch|zaman, era|o
+etymology|etimologi, asal-usul kata|o
+fern|pakis|o
+flout|melanggar secara terang-terangan (aturan)|v
+foment|mengobarkan, menghasut (kerusuhan)|v
+fowl|unggas|o
+gaiety|keriangan, kegembiraan|o
+handout|bantuan uang atau makanan; lembar bahan yang dibagikan|o;o
+hardcore|ekstrem, intens; paling setia, garis keras; porno eksplisit|o;o;o
+husky|serak, parau (suara); anjing husky (penarik kereta salju); besar dan kekar|o;o;o
+imperil|membahayakan|v
+internationalization|internasionalisasi; penyesuaian perangkat lunak untuk bahasa lain|o;o
+intestine|usus|o
+invalid|tidak sah, tidak berlaku; orang yang lemah karena sakit|o;o
+lightweight|ringan; orang yang tidak penting, kelas teri|o;o
+loathe|membenci|v
+managerial|manajerial|o
+masculinity|maskulinitas, kejantanan|o
+midway|di tengah jalan, pertengahan|o
+mixer|mesin pengaduk, mixer; minuman pencampur alkohol; pesta perkenalan|o;o;o
+mol|mol (satuan jumlah zat)|o
+munition|amunisi, persenjataan (biasanya munitions)|o
+mystical|mistis, gaib|o
+outnumber|melebihi jumlah|v
+outpost|pos terdepan, permukiman terpencil|o
+pendulum|bandul|o
+persecute|menganiaya (karena keyakinan atau identitas)|v
+pitfall|jebakan, bahaya tersembunyi|o
+playlist|daftar putar|o
+posse|kelompok orang yang dikumpulkan sheriff; geng teman (bahasa santai)|o;o
+sayonara|selamat tinggal (bahasa santai)|o
+sham|palsu, kepura-puraan|o
+slab|lempengan tebal (batu, daging, dsb.)|o
+sleek|licin dan mengilap; ramping, bergaya|o;o
+smut|bahan cabul; butir jelaga|o;o
+soybean|kedelai|o
+stepfather|ayah tiri|o
+teary|berlinang air mata, hampir menangis|o
+theologian|teolog|o
+variously|dengan berbagai cara|o
+vineyard|kebun anggur|o
+watcher|pengamat|o
+waterway|jalur air, perairan (sungai atau kanal)|o
+wrestler|pegulat|o
+aaagh|aaargh! (jeritan sakit, takut atau frustrasi)|o
+acknowledgment|pengakuan; ucapan terima kasih (dalam buku)|o;o
+animosity|permusuhan, rasa benci|o
+ante|taruhan awal sebelum kartu dibagikan; up the ante: menaikkan taruhan|o;n
+appendix|lampiran, apendiks; usus buntu|o;o
+blacksmith|pandai besi|o
+boulder|batu besar|o
+boundless|tak terbatas|o
+brawl|perkelahian, tawuran; berkelahi dengan ribut|o;v
+carnage|pembantaian|o
+caviar|kaviar|o
+centric|berpusat pada (biasanya dalam kata majemuk)|o
+chauvinism|chauvinisme|o
+climax|klimaks, puncak; orgasme|o;o
+coitus|senggama|o
+coupla|beberapa, dua-tiga (bahasa santai, = couple of)|o
+cozzers|polisi (bahasa santai)|o
+customize|menyesuaikan dengan kebutuhan pribadi|v
+decry|mengecam di depan umum|v
+deletion|penghapusan, pembuangan|o
+destabilization|destabilisasi, pengacauan|o
+earthly|duniawi, tentang kehidupan di bumi; no earthly: sama sekali tidak terbayangkan|o;n
+electro|musik dansa elektronik|o
+eligibility|kelayakan, keberhakan|o
+emergent|baru muncul, sedang berkembang|o
+enchanter|penyihir, tukang sihir|o
+epidemiology|epidemiologi, ilmu penyebaran penyakit|o
+favourable|menyetujui, positif; menguntungkan|o;o
+fook|keparat, sialan (kasar, bahasa lisan, = fuck)|o
+forearm|lengan bawah|o
+frenzy|kegilaan, kehebohan tak terkendali|o
+gamers|para pemain gim video, bentuk jamak dari gamer|o
+harmonious|rukun, selaras; merdu|o;o
+headphone|pelantang telinga (biasanya headphones)|o
+heartbroken|patah hati, sangat sedih|o
+hostel|penginapan murah bersama|o
+immortality|keabadian, hidup kekal; kemasyhuran abadi|o;o
+incidentally|omong-omong, ngomong-ngomong|o
+inconsistency|ketidakkonsistenan, pertentangan|o
+initiation|penerimaan ke dalam kelompok, inisiasi; permulaan|o;o
+internment|penahanan tanpa pengadilan|o
+interventionist|mendukung campur tangan (dalam ekonomi atau di luar negeri)|o
+jurist|ahli hukum|o
+lipid|lemak atau minyak (biologi)|o
+mercantilist|mendukung surplus perdagangan dan kekayaan negara|o
+microfinance|pinjaman kecil bagi orang miskin|o
+microorganism|jasad renik, mikroorganisme|o
+midday|tengah hari|o
+militarize|memiliterisasi, melengkapi dengan kekuatan militer|v
+moderately|cukup, sedang-sedang saja|o
+modestly|dengan rendah hati; sedikit, secukupnya|o;o
+mystic|ahli mistik, pencari kebenaran rohani; mistis|o;o
+noticeable|mudah terlihat, kentara|o
+obedience|kepatuhan, ketaatan|o
+obstetric|berkaitan dengan persalinan|o
+overshoot|melampaui (sasaran)|v
+parlance|cara bicara, istilah|o
+pinpoint|menentukan dengan tepat; titik yang sangat kecil|v;o
+piracy|pembajakan di laut; pembajakan (penyalinan ilegal)|o;o
+precedence|prioritas, hak didahulukan; take precedence: lebih penting, didahulukan|o;n
+predictability|keterdugaan, sifat mudah ditebak|o
+prerogative|hak istimewa, hak khusus|o
+prologue|prolog, bagian pembuka|o
+proverbial|seperti dalam pepatah|o
+quadruple|melipatempatkan, mengalikan empat; empat kali lipat|v;o
+quell|menumpas, meredam; menenangkan|v;v
+realignment|penataan ulang posisi atau persekutuan|o
+refute|membantah, membuktikan salah|v
+scrutinize|meneliti dengan cermat|v
+semblance|kesan luar, sedikit jejak|o
+soundly|lelap (tidur); sepenuhnya, telak; dengan bijak|o;o;o
+sparse|jarang, tersebar|o
+stampede|serbuan panik hewan atau orang; berlarian panik|o;v
+sympathize|merasa kasihan (kepada); setuju (dengan)|v;v
+tatter|sobekan kain; in tatters: compang-camping, hancur|o;n
+taxis|taksi-taksi, bentuk jamak dari taxi|o
+tendril|sulur (tanaman); ikal rambut|o;o
+tragically|dengan tragis, secara menyedihkan|o
+turnaround|perubahan ke arah lebih baik; waktu penyelesaian (tugas)|o;o
+typeface|rupa huruf, fon|o
+underdeveloped|belum tumbuh sempurna; terbelakang, kurang maju|o;o
+unreleased|belum dirilis, belum diumumkan|o
+vapor|uap, gas|o
+vitality|vitalitas, semangat hidup|o
+wager|taruhan; bertaruh|o;v
+wench|gadis, pelayan perempuan|o
+wetland|lahan basah, rawa|o
+wraith|hantu|o
+yous|kalian (bahasa lisan, = you)|f2s2p
+accede|menyetujui (permintaan); menduduki (jabatan, takhta)|v;v
+addictive|bikin ketagihan, adiktif|o
+arthritis|radang sendi|o
+automaton|robot, boneka mekanis; orang yang bertindak seperti mesin|o;o
+batsman|pemukul (kriket)|o
+chariot|kereta perang beroda dua|o
+chez|di rumah (seseorang)|o
+claret|anggur merah Bordeaux; merah tua|o;o
+clique|kelompok kecil yang eksklusif, geng|o
+conform|mematuhi aturan atau kebiasaan; sesuai, cocok|v;v
+counteract|melawan, menetralkan|v
+crackle|berderak, bergemeretak; bunyi derak|v;o
+creed|kredo, keyakinan|o
+cryptocurrency|mata uang kripto seperti Bitcoin|o
+depletion|penghabisan, pengurangan|o
+derivation|asal, sumber; penurunan (kata, rumus)|o;o
+doodle|coretan iseng; mencoret-coret|o;v
+downstream|ke hilir; pada tahap berikutnya|o;o
+engraving|gambar cetakan dari pelat ukir; pengukiran|o;o
+ethanol|etanol, alkohol untuk minuman dan bahan bakar|o
+euphoria|euforia, kegembiraan meluap|o
+expatriate|ekspatriat, orang yang tinggal di luar negerinya|o
+fourteenth|ke-14, keempat belas|o
+gastroenteritis|radang lambung dan usus|o
+hardcover|buku bersampul keras|o
+heartland|daerah inti, jantung wilayah|o
+hijab|jilbab, kerudung|o
+inactive|tidak aktif, menganggur|o
+inflammation|peradangan|o
+infuse|mengisi (dengan suatu sifat); menyeduh (teh, rempah)|v;v
+kindle|menyalakan (api); membangkitkan (perasaan)|v;v
+laud|memuji|v
+mediation|mediasi, penengahan sengketa|o
+mow|memotong (rumput)|v
+pamphlet|pamflet, buku kecil tipis|o
+preface|kata pengantar|o
+pretense|kepura-puraan|o
+propriety|kesopanan, kepatutan|o
+quagmire|rawa, lumpur hisap; situasi sulit yang susah dikeluari|o;o
+reinstate|memulihkan ke posisi semula|v
+remaster|membuat rekaman baru yang disempurnakan dari aslinya|v
+repatriate|memulangkan ke negara asal|v
+rife|merajalela (hal buruk); rife with: penuh dengan|o;n
+scuba|alat selam|o
+serenity|ketenangan, kedamaian|o
+sexism|seksisme, diskriminasi berdasarkan jenis kelamin|o
+solemnity|kekhidmatan, keagungan|o
+straddle|mengangkang (di atas sesuatu)|v
+swoop|menukik tiba-tiba; serangan mendadak|v;o
+talkie|film bersuara (awal)|o
+topping|taburan, lapisan atas makanan; hebat (bahasa lisan)|o;o
+unwarranted|tidak beralasan|o
+wad|gepok, gumpalan (kertas, uang)|o
+watery|berair; encer, hambar|o;o
+abstain|menahan diri (dari); abstain, tidak memberi suara|v;v
+afloat|terapung; bebas utang|o;o
+ahhh|ah (lega, senang, atau baru paham)|o
+analytics|analitik, analisis data|o
+anew|lagi, dengan cara baru|o
+apocalyptic|tentang kiamat; dahsyat, membawa bencana|o;o
+arbitrage|arbitrase, mencari untung dari selisih harga antarpasar|o
+audiobook|buku audio|o
+awkwardness|rasa canggung; kekikukan|o;o
+bazooka|bazoka, peluncur roket portabel|o
+blogger|penulis blog|o
+brightness|kecerahan, sinar|o
+cashier|kasir|o
+chum|teman, sobat (bahasa lisan); umpan ikan|o;o
+comfy|nyaman (bahasa lisan)|o
+commoner|rakyat biasa, bukan bangsawan|o
+complicity|keterlibatan dalam kejahatan|o
+conceivable|terbayangkan, mungkin|o
+condescend|bersikap merendahkan (terhadap)|v
+contour|garis bentuk, lekuk; garis kontur (pada peta)|o;o
+crunchy|renyah, garing|o
+daybreak|fajar, subuh|o
+digitization|digitalisasi|o
+doublet|jaket ketat pria zaman dulu; salah satu dari sepasang|o;o
+draught|angin dingin yang masuk; tegukan; on draught: disajikan langsung dari tong|o;o;n
+enclave|enklave, wilayah yang dikelilingi wilayah lain|o
+endow|menyumbangkan dana abadi; endowed with: dianugerahi (suatu sifat)|v;n
+ethically|secara etis, secara moral|o
+farmland|lahan pertanian|o
+filmmaking|pembuatan film|o
+firewall|tembok api, pengaman jaringan komputer|o
+forestry|kehutanan|o
+ganja|ganja (bahasa lisan)|o
+gentleness|kelembutan, kebaikan hati|o
+geographically|secara geografis|o
+gravel|kerikil|o
+illiteracy|buta huruf|o
+inwardly|dalam hati|o
+kowtow|menjilat, merendah berlebihan (kepada)|v
+ladyship|sebutan untuk wanita bangsawan (your ladyship)|o
+legislate|membuat undang-undang|v
+mortify|mempermalukan, membuat sangat malu|v
+niche|ceruk di dinding; ceruk pasar, bidang khusus|o;o
+nicker|ringkik pelan kuda; pound sterling (bahasa lisan)|o;o
+nutritional|tentang gizi, bergizi|o
+overreach|bertindak terlalu jauh, melampaui batas|v
+pander|menuruti (selera atau keinginan rendah)|v
+petal|kelopak bunga|o
+philanthropic|dermawan, filantropis|o
+physique|bentuk tubuh, perawakan|o
+playbook|siasat, strategi|o
+prematurely|terlalu dini, prematur|o
+profess|mengaku; menyatakan secara terbuka (iman, keyakinan)|v;v
+quad|halaman dalam kampus; motor roda empat (quad bike); otot paha (bahasa lisan)|o;o;o
+quay|dermaga|o
+rake|garu; menggaru; lelaki hidung belang|o;v;o
+rant|mengomel panjang lebar; omelan|v;o
+recombination|penggabungan ulang (terutama gen)|o
+reddish|kemerahan|o
+regressive|mundur; regresif (pajak yang memberatkan orang miskin)|o;o
+satsang|pertemuan rohani (agama-agama India)|o
+seaman|pelaut|o
+seclude|mengasingkan, memencilkan|v
+secondhand|bekas, tidak baru; tidak langsung|o;o
+shaman|dukun, syaman|o
+sophistication|kecanggihan, kehalusan selera; kerumitan|o;o
+spoof|parodi, olok-olok|o
+stronghold|benteng; basis dukungan|o;o
+subscript|huruf atau angka di bawah garis, subskrip|o
+surfer|peselancar|o
+suspense|ketegangan, rasa penasaran|o
+swimmer|perenang|o
+tarnish|memudarkan kilap; mencemarkan (nama baik)|v;v
+unforgettable|tak terlupakan|o
+ventilation|ventilasi, peredaran udara segar|o
+ventilator|ventilator, alat bantu napas|o
+wonderfully|luar biasa baik|o
+acquit|membebaskan dari dakwaan; acquit oneself: membawakan diri, tampil|v;n
+acquittal|putusan bebas|o
+antagonize|memusuhi, membuat bermusuhan|v
+bloodstain|noda darah|o
+boomer|orang kelahiran masa ledakan bayi pascaperang|o
+bootstrap|memulai dengan modal seadanya; tali di belakang sepatu bot|v;o
+castaway|korban kapal karam|o
+cinch|pekerjaan gampang (bahasa lisan); mengikat erat|o;v
+collagen|kolagen|o
+concurrently|bersamaan, serentak|o
+condone|membiarkan, memaafkan (kesalahan)|v
+cordial|ramah dan hangat; sirup buah pekat|o;o
+dispatcher|petugas pengirim kendaraan atau tim darurat|o
+estrange|mengasingkan, merenggangkan (biasanya estranged)|v
+exasperation|kejengkelan yang amat sangat|o
+familiarity|pengenalan yang akrab, pengetahuan mendalam; keakraban, sikap tidak formal|o;o
+flatten|meratakan|v
+gait|cara berjalan, gaya jalan|o
+grocer|pedagang bahan makanan|o
+helplessness|ketidakberdayaan|o
+heterosexuality|heteroseksualitas|o
+hindsight|pemahaman setelah kejadian|o
+hologram|hologram|o
+illusory|semu, menipu|o
+impeach|mendakwa (pejabat) atas pelanggaran, memakzulkan|v
+implode|runtuh ke dalam|v
+infuriate|membuat sangat marah|v
+inshallah|insya Allah|o
+interpolation|penyisipan; interpolasi, perkiraan di antara nilai yang diketahui|o;o
+intersex|interseks, memiliki ciri biologis pria dan wanita|o
+interstate|antarnegara bagian; jalan tol antarnegara bagian (AS)|o;o
+login|proses masuk (akun); nama pengguna dan kata sandi|o;o
+manually|secara manual, dengan tangan|o
+mortuary|kamar mayat|o
+mutiny|pemberontakan pelaut atau prajurit|o
+norovirus|norovirus, virus penyebab muntah dan diare|o
+olfactory|tentang penciuman|o
+oneself|diri sendiri (refleksif dari one)|o
+partake|ikut serta; menyantap, mencicipi (makanan, minuman)|v;v
+picturesque|indah dipandang|o
+pollinator|penyerbuk|o
+porno|porno (bahasa lisan)|o
+relaunch|meluncurkan kembali|v
+resettle|bermukim kembali, memindahkan ke tempat baru|v
+revoke|mencabut, membatalkan|v
+rubble|puing, reruntuhan|o
+sediment|endapan|o
+senseless|sia-sia, tak berarti; pingsan, tak sadar|o;o
+stratosphere|stratosfer, lapisan atas atmosfer|o
+substrate|lapisan dasar, alas|o
+sullen|merajuk, cemberut|o
+thieving|suka mencuri|o
+treadmill|treadmill, alat lari di tempat; rutinitas yang membosankan|o;o
+tulip|tulip|o
+unsafe|berbahaya, tidak aman|o
+veal|daging anak sapi|o
+adaptable|mudah menyesuaikan diri|o
+afterlife|alam baka, kehidupan setelah mati|o
+allude|menyinggung secara tidak langsung|v
+apathy|sikap apatis, ketidakpedulian|o
+bearer|pembawa, pemegang|o
+beleaguered|terkepung, dalam kesulitan|o
+benefactor|dermawan, penyantun|o
+biomedical|biomedis|o
+breadth|lebar; cakupan, keluasan|o;o
+breastfeed|menyusui|v
+briskly|dengan cepat, dengan bersemangat|o
+caveat|peringatan, syarat|o
+chaplain|pendeta atau rohaniwan di lembaga atau ketentaraan|o
+cheerio|dadah, sampai jumpa (bahasa lisan)|o
+chubby|montok, tembam|o
+clarinet|klarinet|o
+commend|memuji; menitipkan, mempercayakan|v;v
+concurrent|bersamaan, serentak|o
+delve|menggali, menyelidiki lebih dalam|v
+droplet|tetesan kecil|o
+edible|dapat dimakan|o
+endlessly|tanpa henti|o
+genealogy|silsilah, asal-usul keluarga|o
+hahaha|hahaha (tawa)|o
+helix|spiral, heliks|o
+hysteria|histeria, kepanikan tak terkendali|o
+incessantly|tanpa henti, terus-menerus|o
+individualism|individualisme|o
+innate|bawaan, alami|o
+instructive|mendidik, informatif|o
+invisibility|ketidaktampakan|o
+localize|membatasi pada satu daerah; melokalkan, menyesuaikan untuk pasar setempat|v;v
+locomotion|gerak berpindah tempat|o
+magically|secara ajaib, dengan sihir; dengan luar biasa|o;o
+matchmaker|mak comblang, perantara jodoh|o
+multitask|mengerjakan beberapa hal sekaligus|v
+orchestral|tentang orkestra|o
+parallelogram|jajaran genjang|o
+paranoia|paranoia, kecurigaan berlebihan|o
+periodically|sesekali, secara berkala|o
+pertain|berkaitan (dengan)|v
+pious|saleh, taat beragama|o
+pluralistic|majemuk, pluralistis|o
+prodigious|luar biasa besar, mengagumkan|o
+proletarian|tentang kaum buruh, proletar|o
+pulmonary|tentang paru-paru|o
+reciprocal|timbal balik, saling|o
+refill|mengisi ulang; isi ulang|v;o
+registrar|petugas pencatat, panitera|o
+replication|penggandaan, pengulangan|o
+reprimand|teguran resmi; menegur secara resmi|o;v
+revere|memuliakan, sangat menghormati|v
+rung|rung, bentuk past participle dari ring; anak tangga|o;o
+sadden|membuat sedih|v
+sandal|sandal|o
+shyness|rasa malu, sifat pemalu|o
+slob|orang malas dan jorok|o
+snappy|cepat, lincah; bergaya, necis; mudah marah|o;o;o
+snowy|bersalju; putih seperti salju|o;o
+soloist|pemain solo, solois|o
+stave|stave off: menangkal, mencegah; bilah kayu tong; paranada|n;o;o
+submerge|menenggelamkan, menyelam|v
+submersible|dapat menyelam; kapal selam kecil|o;o
+subsp|subspesies (singkatan)|o
+subtly|secara halus, samar-samar|o
+supersede|menggantikan|v
+syllable|suku kata|o
+tentative|ragu-ragu; sementara, belum pasti|o;o
+unambiguous|jelas, tidak bermakna ganda|o
+unconstitutional|inkonstitusional, melanggar undang-undang dasar|o
+woodland|hutan, daerah berhutan|o
+almond|kacang almond|o
+antiderivative|antiturunan, integral tak tentu|o
+avoidable|dapat dihindari|o
+banjo|banjo|o
+bibliography|daftar pustaka, bibliografi|o
+bourgeois|kelas menengah, borjuis; materialistis, konvensional|o;o
+carer|perawat, pengasuh (orang sakit atau difabel)|o
+cervical|tentang leher rahim, serviks; tentang leher|o;o
+characterization|penokohan; penggambaran, deskripsi|o;o
+circumference|keliling lingkaran|o
+clump|gerombol, rumpun (pohon, rambut); berjalan dengan langkah berat|o;v
+coaster|tatakan gelas; roller coaster|o;o
+colossal|sangat besar, raksasa|o
+contamination|pencemaran, kontaminasi|o
+contentment|rasa puas, ketenteraman hati|o
+cranky|pemarah, rewel; aneh, eksentrik|o;o
+critter|makhluk, binatang (bahasa lisan)|o
+cronyism|kronisme, memberi jabatan kepada kawan|o
+debilitate|melemahkan|v
+delineate|menguraikan dengan tepat; menandai batas|v;v
+demeanour|sikap, tingkah laku|o
+deride|mengejek, mencemooh|v
+eigenvector|vektor eigen|o
+elasticity|kelenturan; elastisitas (ekonomi)|o;o
+emptiness|kekosongan; rasa hampa|o;o
+encoding|pengodean, penyandian|o
+energize|memberi tenaga, menyemangati|v
+enmity|permusuhan|o
+expansive|luas, lebar; terbuka dan banyak bicara|o;o
+extractive|ekstraktif (pertambangan, pengeboran)|o
+exuberance|semangat meluap-luap|o
+favorably|dengan setuju, secara positif; secara menguntungkan|o;o
+forceful|kuat, tegas|o
+forcibly|secara paksa|o
+foresight|pandangan jauh ke depan|o
+forestall|mencegah dengan bertindak lebih dulu|v
+formalize|meresmikan|v
+gatherer|pengumpul; hunter-gatherer: pemburu-peramu|o;n
+gymnast|pesenam|o
+homepage|beranda, halaman utama situs web|o
+idiotic|sangat bodoh, tolol|o
+inhibitor|penghambat, inhibitor|o
+insured|diasuransikan; tertanggung, pemegang polis|o;o
+intentioned|well-intentioned: bermaksud baik|n
+invader|penyerbu, penjajah|o
+layoff|pemutusan hubungan kerja, PHK|o
+logarithm|logaritma|o
+man's|milik laki-laki (posesif); man is (laki-laki itu adalah); man has (laki-laki itu punya, sudah)|o;o;o
+menstruation|menstruasi, haid|o
+meows|ngeong-ngeong kucing; mengeong|o;o
+meritocracy|meritokrasi|o
+miserably|dengan sedih; dengan menyedihkan, buruk sekali|o;o
+monetization|monetisasi|o
+moribund|sekarat; mandek|o;o
+multiculturalism|multikulturalisme|o
+mutate|bermutasi (secara genetik); berubah bentuk|v;v
+nanotechnology|nanoteknologi|o
+nativist|nativis, mengutamakan penduduk asli daripada imigran|o
+nuance|nuansa, perbedaan halus|o
+octave|oktaf|o
+opium|candu, opium|o
+outlier|pencilan, nilai yang jauh dari yang lain|o
+ovary|indung telur, ovarium|o
+plebiscite|plebisit, pemungutan suara rakyat secara langsung|o
+pollinate|menyerbuki|v
+populace|rakyat, khalayak umum|o
+powerfully|dengan kuat|o
+profligacy|pemborosan besar-besaran|o
+profligate|boros; bejat, tidak bermoral|o;o
+progressively|secara bertahap, makin lama makin|o
+purport|mengaku (secara palsu)|v
+randomness|keacakan|o
+recessionary|menyebabkan atau berkaitan dengan resesi|o
+repertoire|repertoar, daftar karya yang dikuasai pemain|o
+replenish|mengisi kembali|v
+retrospect|in retrospect: jika dipikir kembali|n
+sizable|cukup besar|o
+socialize|bergaul, bersosialisasi|v
+solvent|mampu membayar utang; pelarut|o;o
+strew|menebarkan, menghamburkan|v
+tepid|suam-suam kuku; kurang bersemangat|o;o
+thickness|ketebalan|o
+thinner|lebih tipis, bentuk komparatif dari thin; tiner, pengencer cat|o;o
+tranquillity|ketenangan, kedamaian|o
+uncompetitive|tidak mampu bersaing|o
+uncontrollably|tanpa terkendali|o
+utopian|utopis, idealis|o
+vanguard|garda depan; barisan terdepan, pelopor|o;o
+vegetarianism|vegetarianisme, tidak makan daging|o
+wherein|di mana, yang di dalamnya|o
+whopping|sangat besar (bahasa lisan)|o
+absurdity|kekonyolan, absurditas|o
+accordion|akordeon|o
+affinity|rasa suka alami, ketertarikan; kemiripan|o;o
+aft|ke arah buritan|o
+aristocratic|ningrat, aristokratis|o
+beeper|pager, penyeranta|o
+blasphemy|penghujatan, penistaan agama|o
+burdensome|memberatkan, menyusahkan|o
+businesswoman|pengusaha wanita|o
+clot|gumpalan darah; menggumpal|o;v
+confinement|pemenjaraan, kurungan; keadaan terkurung|o;o
+continual|berulang-ulang, terus-menerus|o
+cucumber|mentimun|o
+electrification|elektrifikasi, penyediaan listrik|o
+emphasise|menekankan|v
+fait|fait accompli: kenyataan yang sudah terjadi dan tak bisa diubah|n
+fermentation|fermentasi, peragian|o
+ferocious|ganas, buas|o
+flunk|gagal, tidak lulus (ujian) (bahasa lisan)|v
+freckle|bintik-bintik cokelat di kulit|o
+guberniya|provinsi Kekaisaran Rusia|o
+guise|wujud luar, kedok; penyamaran|o;o
+harmonic|tentang harmoni; nada harmonik|o;o
+harp|harpa; harp on: terus-menerus membicarakan|o;n
+hazy|berkabut; samar-samar|o;o
+hepatitis|hepatitis, radang hati|o
+horde|gerombolan besar|o
+hospitalize|merawat di rumah sakit|v
+identifier|pengenal|o
+impart|menyampaikan, menularkan (informasi, sifat)|v
+implausible|tidak masuk akal, sulit dipercaya|o
+ingrained|mendarah daging|o
+internationalist|internasionalis, mendukung kerja sama antarbangsa|o
+jug|kendi, teko|o
+leech|lintah; benalu, orang yang memeras orang lain|o;o
+lull|jeda tenang; meninabobokan, menenangkan|o;v
+madly|dengan liar, seperti orang gila; sangat|o;o
+millimetre|milimeter|o
+mixtape|kompilasi lagu|o
+namesake|orang yang bernama sama|o
+ordain|menahbiskan (menjadi imam); menetapkan secara resmi|v;v
+outcry|protes publik|o
+outstrip|melampaui, mengungguli|v
+psychoanalysis|psikoanalisis|o
+psychotherapy|psikoterapi|o
+puddle|genangan air|o
+punter|pelanggan (bahasa lisan); penjudi|o;o
+rationality|rasionalitas, kewajaran berpikir|o
+reciprocate|membalas (perasaan atau perbuatan)|v
+reorganization|reorganisasi, penataan ulang|o
+retake|mengambil lagi, mengulang; merebut kembali|v;v
+rinse|membilas|v
+simmer|merebus dengan api kecil; memendam amarah|v;v
+skim|membaca sekilas; menyendoki dari permukaan; meluncur di atas|v;v;v
+sleeper|orang yang tidur; bantalan rel; kereta tidur; agen rahasia terpendam|o;o;o;o
+sodding|sialan (bahasa lisan)|o
+southernmost|paling selatan|o
+spec|spesifikasi (bahasa lisan); on spec: tanpa jaminan, untung-untungan|o;n
+statutory|diwajibkan undang-undang|o
+steppe|stepa, padang rumput luas|o
+stratum|lapisan|o
+striving|usaha, jerih payah|o
+subfamily|subfamili, anak suku (biologi)|o
+symbolism|simbolisme, perlambangan|o
+termination|pengakhiran; pemecatan|o;o
+tripe|babat; omong kosong (bahasa lisan)|o;o
+unequivocal|tegas, tidak bermakna ganda|o
+upstream|ke hulu, melawan arus; pada tahap lebih awal|o;o
+vitally|sangat penting, secara mendasar|o
+whim|keinginan mendadak, iseng|o
+zeal|semangat berkobar-kobar|o
+abolitionist|penentang perbudakan|o
+accursed|terkutuk; dibenci, menjengkelkan|o;o
+adventurous|suka bertualang, berani|o
+agile|lincah, gesit|o
+agnostic|agnostik; tidak memihak|o;o
+analyse|menganalisis|v
+annals|catatan sejarah, babad|o
+ardent|bersemangat, penuh gairah|o
+aristocrat|bangsawan, ningrat|o
+auspice|under the auspices of: dengan dukungan, di bawah naungan|n
+bask|berjemur, menghangatkan diri; menikmati (perhatian)|v;v
+benzene|benzena|o
+bodily|jasmani, fisik; secara paksa (dengan tenaga fisik)|o;o
+brinkmanship|politik di ambang bahaya demi menang|o
+byproduct|produk sampingan|o
+cannibal|kanibal, pemakan daging manusia|o
+circuitry|rangkaian listrik|o
+coerce|memaksa, menekan|v
+culinary|tentang masak-memasak, kuliner|o
+decarbonize|mengurangi emisi karbon|v
+degenerate|merosot, memburuk; orang bejat|v;o
+delicately|dengan lembut, hati-hati; dengan bijaksana|o;o
+despatch|mengirim; kiriman berita, laporan|v;o
+disaffected|tidak puas, terasing|o
+drainage|drainase, pembuangan air|o
+elitist|elitis|o
+exceptionalism|keyakinan bahwa suatu bangsa istimewa|o
+fathom|memahami; depa (ukuran kedalaman air)|v;o
+fauna|fauna, dunia hewan suatu daerah|o
+fir|cemara|o
+foie|foie gras: hati angsa atau bebek yang digemukkan|n
+fulfillment|kepuasan batin; pelaksanaan, pemenuhan|o;o
+gauze|kain kasa|o
+gild|menyepuh emas|v
+gras|foie gras: hati angsa atau bebek yang digemukkan; Mardi Gras: karnaval menjelang masa Prapaskah|n;n
+harbinger|pertanda, tanda-tanda|o
+harrow|garu (alat pertanian); menyiksa batin (biasanya harrowing)|o;v
+hateful|penuh kebencian; dibenci, menjijikkan|o;o
+heartbreaking|sangat menyedihkan, memilukan|o
+hoe|cangkul; pelacur (bahasa lisan, = whore)|o;o
+horribly|dengan mengerikan, parah sekali|o
+innumerable|tak terhitung|o
+intake|asupan, jumlah yang masuk; angkatan (yang diterima)|o;o
+jeer|mencemooh, menyoraki|v
+kayak|kayak, sampan tertutup|o
+krauts|sebutan menghina untuk orang Jerman (bahasa lisan)|o
+liquidate|melikuidasi (usaha); membunuh, menghabisi|v;v
+locket|liontin berongga|o
+meridian|garis bujur, meridian; titik puncak|o;o
+micron|mikron|o
+microscopy|mikroskopi|o
+mirth|kegembiraan, gelak tawa|o
+mishap|kecelakaan kecil, kemalangan|o
+modular|modular, tersusun dari unit-unit terpisah|o
+molar|geraham|o
+monograph|monograf|o
+nectar|nektar, madu bunga|o
+nerdy|kutu buku dan canggung (bahasa lisan)|o
+neurologist|dokter saraf, neurolog|o
+numeric|numerik, berupa angka|o
+occupational|berkaitan dengan pekerjaan|o
+overt|terang-terangan, tidak tersembunyi|o
+peacekeeper|pasukan penjaga perdamaian|o
+periscope|periskop|o
+pernicious|merusak secara perlahan|o
+petrify|membuat sangat ketakutan; membatu|v;v
+pluralist|pluralis|o
+presumption|anggapan, dugaan; kelancangan, kesombongan|o;o
+pronged|bercabang; two-pronged: dua arah, dengan dua pendekatan|o;n
+quintet|kuintet|o
+ramification|akibat, dampak|o
+recurrence|terulangnya, kekambuhan|o
+reminisce|mengenang masa lalu|v
+responder|penanggap; first responder: petugas tanggap darurat|o;n
+rouble|rubel|o
+runoff|limpasan air; pemilihan putaran kedua|o;o
+satyr|satir (makhluk setengah manusia setengah kambing); lelaki mata keranjang|o;o
+secrete|mengeluarkan, menyekresi (cairan); menyembunyikan|v;v
+shadowy|gelap, remang-remang; misterius|o;o
+shyster|pengacara atau pengusaha curang (bahasa lisan)|o
+silo|silo, lumbung menara; silo rudal bawah tanah; unit yang terisolasi|o;o;o
+smite|memukul keras|v
+sweatpants|celana olahraga longgar|o
+tether|tali penambat; menambatkan|o;v
+transformer|trafo, transformator|o
+tunic|tunik|o
+unaffordable|tak terjangkau, terlalu mahal|o
+vigor|tenaga, kekuatan|o
+vinculum|garis di atas angka (matematika)|o
+virulent|ganas (penyakit); sangat bermusuhan|o;o
+wellness|kesehatan, kebugaran|o
+wildfire|kebakaran hutan; like wildfire: sangat cepat|o;n
+actuator|aktuator, penggerak|o
+adieu|selamat tinggal|o
+bedrock|batuan dasar; landasan, fondasi|o;o
+blower|peniup udara, blower; telepon (bahasa lisan)|o;o
+bony|kurus kering; banyak tulangnya|o;o
+bookstore|toko buku|o
+buzzard|elang|o
+cartridge|selongsong peluru, kartrid tinta|o
+centralization|sentralisasi, pemusatan kekuasaan|o
+charcoal|arang; abu-abu tua|o;o
+clergyman|pendeta, rohaniwan|o
+clitoris|klitoris, kelentit|o
+complicit|terlibat dalam kejahatan|o
+contort|memutarbalikkan, meliuk-liukkan|v
+convolution|kerumitan, lilitan; konvolusi (matematika)|o;o
+cork|gabus; sumbat botol|o;o
+curvature|kelengkungan|o
+deject|membuat sedih, membuat patah semangat (biasanya dejected)|v
+detriment|kerugian|o
+dictatorial|diktatoris, suka memerintah|o
+dojo|dojo, tempat latihan bela diri|o
+eject|mengeluarkan, melontarkan; mengusir|v;v
+envious|iri hati|o
+evenly|merata, rata|o
+eyelash|bulu mata|o
+ferret|musang; ferret out: menemukan dengan mencari-cari|o;n
+fluorine|fluor|o
+foliage|dedaunan|o
+gat|pistol (bahasa lisan)|o
+graft|cangkokan jaringan; korupsi; kerja keras (bahasa lisan)|o;o;o
+grate|memarut; menjengkelkan; rangka perapian|v;v;o
+ideologues|para ideolog, bentuk jamak dari ideologue|o
+imaginative|imajinatif, kreatif|o
+iterate|mengulang|v
+jihadi|pejuang jihad militan|o
+kosher|halal menurut hukum Yahudi, kosher; sah, beres (bahasa lisan)|o;o
+legalize|melegalkan|v
+lighthouse|mercusuar|o
+limitless|tak terbatas|o
+medalist|peraih medali|o
+mockery|ejekan, cemoohan; lelucon, penghinaan (terhadap sesuatu)|o;o
+modernism|modernisme|o
+overfishing|penangkapan ikan berlebihan|o
+pear|pir|o
+piranha|piranha|o
+plunder|menjarah; jarahan|v;o
+programmable|dapat diprogram|o
+psychoanalyst|psikoanalis|o
+purity|kemurnian, kebersihan; kesucian|o;o
+recapitalize|merekapitalisasi, menambah modal baru|v
+resin|damar, getah|o
+saxophonist|pemain saksofon|o
+scenic|berpemandangan indah|o
+scribe|juru tulis; penulis|o;o
+sewage|limbah, air kotor|o
+shrewd|cerdik, lihai|o
+spreadsheet|lembar kerja, spreadsheet|o
+steamboat|kapal uap|o
+stewardess|pramugari|o
+sulfide|sulfida|o
+transcribe|mencatat, mentranskripsikan (ucapan)|v
+transporter|alat angkut, kendaraan pengangkut|o
+undefined|tidak terdefinisi, tak jelas|o
+unhappily|dengan sedih; sayangnya|o;o
+unlawful|melanggar hukum|o
+untold|tak terhitung; tak terungkap|o;o
+vascular|tentang pembuluh darah|o
+vocalize|mengungkapkan dengan kata-kata|v
+walkable|bisa dijalani kaki|o
+yurt|yurt, tenda bundar kaum nomaden Asia Tengah|o
+abandonment|penelantaran, pengabaian|o
+advertiser|pengiklan|o
+airspace|wilayah udara|o
+algorithmic|algoritmis|o
+angiogenesis|angiogenesis, pembentukan pembuluh darah baru|o
+annualized|disetahunkan|o
+antler|tanduk rusa|o
+aperture|celah, bukaan|o
+ascension|kenaikan; kenaikan ke surga|o;o
+biopsy|biopsi|o
+brilliance|kecemerlangan, kilau; kejeniusan|o;o
+camouflage|kamuflase, penyamaran|o
+centrality|sentralitas, kedudukan penting|o
+chemo|kemo (bahasa lisan)|o
+clandestine|rahasia, sembunyi-sembunyi|o
+commonplace|biasa, lumrah|o
+crumple|meremas, meremukkan; ambruk|v;v
+dainty|mungil, anggun|o
+detest|membenci|v
+doorkeeper|penjaga pintu|o
+downwards|ke bawah|o
+engender|menimbulkan, menyebabkan|v
+engrave|mengukir, menggrafir|v
+enjoyable|menyenangkan|o
+entirety|keseluruhan|o
+epithet|julukan; makian|o;o
+fabricate|mengarang (kebohongan); membuat, memproduksi|v;v
+filmography|filmografi|o
+fraudulent|curang, palsu|o
+gentlewoman|wanita terhormat|o
+grandeur|kemegahan|o
+headway|kemajuan; make headway: mengalami kemajuan|o;n
+heartache|sakit hati, duka|o
+homelessness|tunawisma, ketiadaan tempat tinggal|o
+hydroelectric|hidroelektrik, tenaga air|o
+immersive|imersif, membuat larut sepenuhnya|o
+indent|menjorokkan teks; pesanan resmi barang|v;o
+inflammatory|menghasut, provokatif; menyebabkan peradangan|o;o
+insta|Instagram (bahasa lisan)|o
+intergenerational|antargenerasi|o
+joblessness|pengangguran|o
+livery|seragam pelayan; warna khas perusahaan|o;o
+lustful|penuh nafsu birahi|o
+magenta|merah keunguan, magenta|o
+magnate|taipan, konglomerat|o
+maple|pohon maple|o
+mayhem|kekacauan|o
+meticulously|dengan sangat teliti|o
+midfielder|gelandang|o
+monologue|monolog|o
+muddy|berlumpur; keruh, tidak jelas|o;o
+narcissistic|narsistik|o
+nibble|menggigit sedikit-sedikit; gigitan kecil|v;o
+nightfall|senja, malam tiba|o
+northernmost|paling utara|o
+oceanic|tentang samudra|o
+offline|luring, tidak terhubung ke internet; tatap muka|o;o
+ordinance|peraturan, perda|o
+oval|lonjong, bulat telur|o
+overcoat|mantel panjang|o
+oversized|berukuran besar, kebesaran|o
+overweight|kelebihan berat badan|o
+piecemeal|sedikit demi sedikit|o
+pong|bau busuk (bahasa lisan); tenis meja|o;o
+prairie|padang rumput luas|o
+predominant|utama, paling umum|o
+preparatory|persiapan, pendahuluan|o
+profusely|berlimpah-limpah|o
+qua|sebagai, dalam kapasitas sebagai|o
+quotation|kutipan; penawaran harga|o;o
+rabies|rabies|o
+reciprocity|timbal balik, resiprositas|o
+rector|pastor paroki; rektor|o;o
+reparation|ganti rugi (biasanya reparations)|o
+reprogram|memprogram ulang|v
+repulse|menjijikkan; memukul mundur|v;v
+residue|sisa, residu|o
+resurrect|menghidupkan kembali|v
+retribution|pembalasan, hukuman|o
+reverie|lamunan|o
+rework|merevisi, mengerjakan ulang|v
+sarcophagus|sarkofagus, peti mati batu|o
+secularist|pendukung sekularisme|o
+sensual|sensual, memanjakan indra|o
+silky|halus seperti sutra|o
+slang|bahasa gaul, slang|o
+southward|ke arah selatan|o
+spindle|kumparan pemintal; poros tipis|o;o
+subtraction|pengurangan|o
+summons|surat panggilan pengadilan|o
+thorium|torium|o
+timeless|abadi, tak lekang oleh waktu|o
+tot|balita; seteguk minuman keras; tot up: menjumlahkan|o;o;n
+travail|jerih payah, penderitaan|o
+tuft|jumput, gumpal (rambut, rumput)|o
+undisclosed|dirahasiakan, tidak diungkapkan|o
+unforeseen|tak terduga|o
+unpublished|belum diterbitkan|o
+vertically|secara vertikal, tegak lurus|o
+vigilant|waspada|o
+vividly|dengan jelas, dengan hidup|o
+abundantly|berlimpah-limpah; abundantly clear: sangat jelas|o;n
+affine|afin (matematika)|o
+ascribe|menganggap berasal (dari), menghubungkan (dengan)|v
+assail|menyerang|v
+bandleader|pemimpin band|o
+battleground|medan pertempuran|o
+boldness|keberanian|o
+companionship|persahabatan, kebersamaan|o
+crossbow|busur silang|o
+customary|lazim, biasa|o
+cylindrical|berbentuk silinder|o
+desirous|berhasrat, menginginkan|o
+despot|tiran, lalim|o
+deuce|dua (kartu atau dadu); deuce, skor 40-40 dalam tenis; setan (bahasa lisan)|o;o;o
+dictum|diktum, pernyataan resmi|o
+dis|menghina, meremehkan (bahasa lisan)|v
+dismissal|pemecatan; penolakan|o;o
+dither|ragu-ragu, bimbang|v
+downfall|kejatuhan, keruntuhan|o
+dweller|penghuni, penduduk|o
+earmark|menyisihkan untuk tujuan tertentu|v
+exaggeration|pernyataan yang dilebih-lebihkan|o
+externally|di bagian luar|o
+fascination|ketertarikan yang kuat|o
+gambit|langkah pembuka, taktik|o
+goddam|sialan (bahasa lisan)|o
+gymnasium|gedung olahraga|o
+hazardous|berbahaya|o
+hydropower|tenaga air|o
+impregnate|menghamili; meresapi, merendam|v;v
+inadequacy|kekurangan; rasa tidak mampu|o;o
+incitement|hasutan|o
+indefinite|tanpa batas waktu; samar, tidak pasti|o;o
+insolent|kurang ajar|o
+intermediation|perantaraan|o
+intrusion|gangguan, penyusupan|o
+logically|secara logis|o
+maize|jagung|o
+marital|perkawinan|o
+meself|diriku sendiri (bahasa lisan, = myself)|o
+minivan|minivan, mobil keluarga|o
+motherhood|keibuan, menjadi ibu|o
+necessitate|mengharuskan|v
+negate|meniadakan; menyangkal|v;v
+nostalgic|rindu masa lalu, nostalgis|o
+passer|passer-by: orang yang lewat; pengumpan (olahraga)|n;o
+patriarchal|patriarkal, dikuasai laki-laki|o
+perpetrate|melakukan (kejahatan)|v
+pester|merecoki, mengganggu dengan permintaan terus-menerus|v
+plough|bajak; membajak|o;v
+polluter|pencemar|o
+posit|mengemukakan, mengandaikan|v
+quill|pena bulu; duri landak|o;o
+raisin|kismis|o
+rescind|mencabut, membatalkan (undang-undang, keputusan)|v
+retell|menceritakan kembali|v
+revaluation|penilaian kembali, revaluasi|o
+salvage|menyelamatkan (dari kehancuran); penyelamatan barang|v;o
+secessionist|separatis, pendukung pemisahan diri|o
+securitization|sekuritisasi|o
+smother|membekap, mencekik; melumuri tebal|v;v
+spank|memukul pantat|v
+strikingly|sangat mencolok|o
+supremacist|penganut paham keunggulan kelompoknya|o
+throttle|mencekik; katup gas|v;o
+toothless|ompong; tidak berdaya|o;o
+unanimity|kebulatan suara|o
+undue|berlebihan|o
+uneasily|dengan cemas|o
+unfazed|tidak terusik, tenang saja|o
+unheard|tidak didengar; unheard of: belum pernah terjadi|o;n
+usefulness|kegunaan|o
+widowed|menjanda, menduda|o
+adaptability|kemampuan beradaptasi|o
+adoration|pemujaan, cinta mendalam|o
+aforementioned|tersebut di atas|o
+allusion|sindiran, kiasan|o
+apex|puncak|o
+apparition|hantu, penampakan|o
+assent|persetujuan; menyetujui|o;v
+auspicious|menjanjikan, membawa keberuntungan|o
+bibliographic|bibliografis|o
+biotech|bioteknologi|o
+bleach|pemutih; memutihkan|o;v
+blindly|tanpa melihat; membabi buta|o;o
+boiler|ketel uap, pemanas air|o
+bombardment|pengeboman, serangan bertubi-tubi|o
+burrow|liang; menggali|o;v
+centenary|peringatan seratus tahun|o
+centigrade|Celsius|o
+churn|mengaduk kuat-kuat; alat pengocok mentega; hilangnya pelanggan (bisnis)|v;o;o
+clog|menyumbat; bakiak|v;o
+codon|kodon|o
+comparatively|secara relatif|o
+compulsive|tak tertahankan; kompulsif|o;o
+condense|meringkas; mengembun|v;v
+congenital|bawaan lahir|o
+consign|mengirimkan; menyerahkan|v;v
+contractionary|kontraktif (mengurangi kegiatan ekonomi)|o
+cookbook|buku resep|o
+counterintelligence|kontraintelijen|o
+courteous|sopan|o
+cowardly|pengecut|o
+crotch|selangkangan|o
+decipher|memecahkan (sandi, tulisan)|v
+deign|sudi, berkenan (melakukan)|v
+densely|dengan padat|o
+devoid|devoid of: sama sekali tanpa|n
+differentiation|pembedaan; diferensiasi|o;o
+druggist|apoteker|o
+enigmatic|penuh teka-teki, misterius|o
+entwine|menjalin, membelit|v
+epitope|epitop|o
+excitable|mudah bergairah, gampang terangsang|o
+fetal|tentang janin; fetal position: posisi meringkuk|o;n
+finder|penemu|o
+flex|melenturkan (otot); pamer (bahasa lisan)|v;v
+fmri|fMRI, pemindaian aktivitas otak|o
+foreclosure|penyitaan jaminan hipotek|o
+freestyle|gaya bebas; renang gaya bebas|o;o
+fundraising|penggalangan dana|o
+ghastly|mengerikan|o
+glossy|mengilap|o
+goosebumps|merinding, bulu kuduk berdiri|o
+groundbreaking|terobosan baru, inovatif|o
+heartbreak|patah hati, duka mendalam|o
+idealism|idealisme|o
+incorrectly|dengan salah|o
+indescribable|tak terlukiskan|o
+inexplicably|secara tak terjelaskan|o
+infancy|masa bayi; tahap awal|o;o
+infertility|kemandulan|o
+informer|informan, pengadu|o
+intransigence|sikap keras kepala|o
+joyfully|dengan gembira|o
+lactose|laktosa|o
+locust|belalang kembara|o
+mango|mangga|o
+miraculous|ajaib|o
+monopolize|memonopoli|v
+naught|nihil, tidak ada; come to naught: gagal|o;n
+nil|nihil, nol|o
+normalcy|kenormalan|o
+obstruction|hambatan, penyumbatan|o
+pager|pager, penyeranta|o
+participatory|partisipatif|o
+peddle|menjajakan; menyebarkan (gagasan)|v;v
+pediatrician|dokter anak|o
+pelvic|tentang panggul|o
+perfectionism|perfeksionisme|o
+pisco|pisco, brendi Peru|o
+predictor|peramal, penanda masa depan|o
+psychoanalytic|psikoanalitis|o
+rapture|kegembiraan meluap, ekstase|o
+reimagine|membayangkan ulang, memikirkan kembali|v
+relaxation|relaksasi, istirahat|o
+scurry|berlari kecil tergesa-gesa|v
+sender|pengirim|o
+shipbuilding|pembuatan kapal|o
+sorrowful|sedih, pilu|o
+spanking|pukulan di pantat; baru gres (bahasa lisan)|o;o
+spire|menara lancip|o
+statistician|ahli statistik|o
+stylistic|tentang gaya|o
+subdivide|membagi lagi|v
+sulfur|belerang|o
+supermassive|supermasif (lubang hitam)|o
+superstition|takhayul|o
+talker|pembicara|o
+teacup|cangkir teh|o
+telepaths|para telepat, bentuk jamak dari telepath|o
+tinge|sedikit sentuhan, semburat|o
+twig|ranting|o
+unelected|tidak dipilih|o
+wanderer|pengembara|o
+wop|sebutan menghina untuk orang Italia (bahasa lisan)|o
+abet|membantu (kejahatan)|v
+anatomical|anatomis|o
+anecdote|anekdot|o
+artisan|perajin, tukang|o
+bigotry|kefanatikan, intoleransi|o
+biochemistry|biokimia|o
+blizzard|badai salju|o
+blogging|ngeblog|o
+bluster|gertakan kosong; menggertak|o;v
+bulwark|tembok pertahanan; benteng pelindung|o;o
+bystander|penonton, orang yang kebetulan ada|o
+centrally|di pusat|o
+coffer|peti uang (biasanya coffers: kas, dana)|o
+collusion|kolusi, persekongkolan|o
+conspicuous|mencolok|o
+contra|melawan, bertentangan dengan|o
+corporatism|korporatisme|o
+corporatist|korporatis|o
+counterbalance|mengimbangi|v
+digestive|tentang pencernaan|o
+digitalization|digitalisasi|o
+dislocate|terkilir, keseleo; mengacaukan|v;v
+dreary|suram, membosankan|o
+eloquence|kefasihan berbicara|o
+emotionless|tanpa emosi|o
+encroachment|perambahan, penyerobotan|o
+entice|membujuk, memikat|v
+everlasting|abadi|o
+experimenter|peneliti, pelaku percobaan|o
+extortion|pemerasan|o
+fiend|iblis; penggila (bahasa lisan)|o;o
+firepower|daya tembak|o
+fluoride|fluorida|o
+foothold|pijakan, posisi yang kokoh|o
+gander|angsa jantan; lihat sekilas (bahasa lisan)|o;o
+gel|gel; kompak, menyatu|o;v
+giddy|pusing; girang|o;o
+hake|ikan hake|o
+header|kepala halaman; sundulan (sepak bola)|o;o
+heavyweight|kelas berat (tinju); tokoh penting|o;o
+heiress|ahli waris perempuan|o
+hormonal|hormonal|o
+humid|lembap, gerah|o
+impedance|impedansi|o
+imperfection|cacat, ketidaksempurnaan|o
+impossibility|kemustahilan|o
+inescapable|tak terelakkan|o
+insurrection|pemberontakan|o
+interconnectedness|keterkaitan|o
+involuntary|tak disengaja, tanpa sadar|o
+lexicon|kosakata, leksikon|o
+libertarian|libertarian, penganut kebebasan individu|o
+lowdown|fakta sebenarnya (bahasa lisan); hina, tidak terhormat|o;o
+marshmallow|marshmallow|o
+mediator|penengah, mediator|o
+medley|campuran|o
+migraine|migrain|o
+milkshake|milkshake, susu kocok|o
+misrule|pemerintahan yang buruk|o
+moderator|moderator, pemimpin diskusi; moderator forum|o;o
+nutritious|bergizi|o
+omission|penghilangan, kelalaian|o
+organist|pemain organ|o
+overture|overtur, musik pembuka; pendekatan awal|o;o
+passively|secara pasif|o
+payer|pembayar|o
+pebble|kerikil|o
+penitentiary|penjara|o
+pic|foto (bahasa lisan)|o
+possessive|posesif, cemburu mengekang; posesif, penanda milik (tata bahasa)|o;o
+predicate|predikat (bagian kalimat); mendasarkan (pada)|o;v
+preemptive|preventif, mendahului untuk mencegah|o
+preoccupation|keasyikan, obsesi|o
+preschool|taman kanak-kanak, prasekolah|o
+propeller|baling-baling|o
+protrude|menonjol, mencuat|v
+radicalize|meradikalisasi|v
+reactive|reaktif, menanggapi alih-alih memulai; reaktif (secara kimia)|o;o
+reassuringly|dengan menenangkan|o
+reborn|terlahir kembali; diperbarui, bangkit kembali|o;o
+redouble|melipatgandakan (usaha)|v
+redundancy|pemutusan hubungan kerja; pengulangan yang tidak perlu|o;o
+redundant|berlebihan, tidak diperlukan; di-PHK|o;o
+repel|memukul mundur, menangkis; menjijikkan|v;v
+rhino|badak|o
+skillfully|dengan terampil|o
+slander|fitnah; memfitnah|o;v
+snowfall|curah salju|o
+stagflation|stagflasi|o
+stepmother|ibu tiri|o
+stupidly|dengan bodoh|o
+swerve|membelok tiba-tiba|v
+taxon|takson|o
+theoretically|secara teori|o
+totalitarianism|totalitarianisme|o
+traumatize|membuat trauma|v
+triangular|berbentuk segitiga|o
+trilateral|trilateral, tiga pihak|o
+trolley|troli, kereta dorong; trem|o;o
+trudge|berjalan dengan susah payah|v
+uhhh|eee (ragu-ragu)|o
+understate|mengecilkan, menyatakan lebih ringan dari kenyataan|v
+unfounded|tidak berdasar|o
+unpredictability|ketidakpastian, sifat sulit ditebak|o
+unused|tidak terpakai|o
+varicella|cacar air|o
+absorption|penyerapan; keasyikan, kekhusyukan|o;o
+aggie|mahasiswa sekolah pertanian (bahasa lisan)|o
+angelic|seperti malaikat|o
+assuage|meredakan (rasa sakit, rasa bersalah)|v
+attribution|atribusi, penyebutan sumber|o
+backslide|kembali ke kebiasaan buruk|v
+barrage|tembakan bertubi-tubi; rentetan (pertanyaan)|o;o
+baton|tongkat (dirigen, pelari estafet, atau polisi)|o
+caricature|karikatur|o
+crease|lipatan, kerutan; mengerut, melipat|o;v
+discord|perselisihan; bunyi sumbang|o;o
+dishonour|aib, noda|o
+ecstatic|sangat gembira|o
+emancipation|emansipasi, pembebasan|o
+enforceable|dapat ditegakkan|o
+fintech|teknologi finansial, tekfin|o
+harem|harem (tempat tinggal kaum wanita); para istri seorang lelaki|o;o
+headscarf|kerudung, tudung kepala|o
+incorporation|pemasukan, penggabungan; pendirian perusahaan|o;o
+indiscriminate|sembarangan, membabi buta|o
+instrumentation|peralatan, instrumen yang dipakai; aransemen instrumen musik|o;o
+interracial|antarras|o
+ladle|sendok sayur, gayung|o
+lowland|dataran rendah|o
+manipulator|manipulator, orang yang suka memanipulasi|o
+milord|tuanku (sapaan)|o
+misstep|kesalahan, salah langkah|o
+normality|keadaan normal|o
+normative|normatif|o
+outing|tamasya, jalan-jalan; pengungkapan orientasi seksual seseorang|o;o
+pariah|orang buangan, paria|o
+petticoat|rok dalam|o
+resolutely|dengan tegas, dengan teguh|o
+roadblock|penghalang jalan; hambatan|o;o
+sari|sari (pakaian wanita Asia Selatan)|o
+shard|pecahan tajam, beling|o
+sterile|mandul; steril, suci hama|o;o
+topical|aktual, hangat diberitakan; topikal, dioleskan pada kulit|o;o
+wallpaper|kertas dinding|o
+wean|menyapih; wean off: membuat berhenti secara bertahap|v;n
+wreath|karangan bunga|o
+accentuate|menonjolkan, menekankan|v
+acidification|pengasaman|o
+acrobat|akrobat, pemain akrobat|o
+adept|mahir|o
+adios|dadah, sampai jumpa (bahasa lisan)|o
+adjoin|bersebelahan dengan|v
+adultery|perzinaan, perselingkuhan|o
+airliner|pesawat penumpang|o
+amenable|bersedia, terbuka|o
+anonymity|anonimitas, ketanpanamaan|o
+arepa|arepa, roti pipih jagung (Venezuela, Kolombia)|o
+arousal|gairah, rangsangan|o
+arranger|penata musik, arranger|o
+atoll|atol, pulau karang berbentuk cincin|o
+atrium|atrium, ruang tengah; serambi jantung|o;o
+axial|aksial, tentang poros|o
+benevolent|baik hati, murah hati|o
+blockhead|orang bodoh, dungu|o
+bombard|membombardir, menyerang bertubi-tubi|v
+breathlessly|dengan terengah-engah; dengan penuh semangat|o;o
+capillary|pembuluh kapiler|o
+carton|kotak karton, kardus|o
+caterpillar|ulat|o
+clinically|secara klinis, secara medis; secara dingin|o;o
+colloquially|dalam bahasa sehari-hari|o
+cram|menjejalkan; belajar sistem kebut semalam|v;v
+crevice|celah sempit|o
+daydream|lamunan; melamun|o;v
+debit|debit|o
+decompose|membusuk; terurai|v;v
+dem|mereka (bahasa lisan, = them)|o
+detrimental|merugikan|o
+deviate|menyimpang|v
+disapproval|ketidaksetujuan|o
+drunkard|pemabuk|o
+electrify|mengalirkan listrik; menggetarkan hati|v;v
+falsely|secara keliru, secara tidak benar|o
+frontman|vokalis utama; wajah publik, juru bicara|o;o
+generalization|generalisasi|o
+geneticist|ahli genetika|o
+giraffe|jerapah|o
+handicraft|kerajinan tangan|o
+hunh|hah? (heran atau bertanya)|o
+imaginable|terbayangkan|o
+impulsive|impulsif, menurutkan dorongan hati|o
+incoherent|tidak runtut, tidak jelas|o
+innkeeper|pemilik penginapan|o
+internationalize|menginternasionalkan|v
+jargon|jargon, istilah khusus|o
+joyride|kebut-kebutan dengan mobil curian|o
+justly|dengan adil|o
+keynote|tema pokok; keynote speech: pidato utama|o;n
+landowner|tuan tanah, pemilik tanah|o
+lemme|biar aku (bahasa lisan)|o
+logarithmic|logaritmis|o
+lore|pengetahuan tradisional, cerita turun-temurun|o
+malignant|ganas (kanker); jahat|o;o
+mildly|sedikit, agak; dengan lembut|o;o
+morbid|muram, terobsesi pada kematian|o
+multisite|di beberapa lokasi|o
+musing|renungan|o
+nab|menangkap, menyambar (bahasa lisan)|v
+observance|kepatuhan (pada hukum, adat); upacara keagamaan|o;o
+orangutan|orang utan|o
+oscillation|osilasi, ayunan bolak-balik|o
+outspoken|blak-blakan, terus terang|o
+overwork|bekerja terlalu keras|v
+oxidation|oksidasi|o
+parabola|parabola|o
+paradoxical|paradoksal|o
+perestroika|perestroika, restrukturisasi Soviet|o
+permissible|diperbolehkan|o
+plume|bulu; kepulan asap|o;o
+pretence|kepura-puraan|o
+puffy|bengkak, sembap|o
+quotient|hasil bagi|o
+rabble|gerombolan orang yang ricuh|o
+rebate|potongan harga, pengembalian sebagian uang|o
+renegade|pengkhianat, pembelot|o
+respite|jeda, istirahat sejenak|o
+restive|gelisah|o
+scribble|mencoret-coret, menulis asal-asalan|v
+seam|jahitan, kampuh; lapisan batu bara|o;o
+shackle|belenggu; membelenggu|o;v
+showrunner|penanggung jawab utama serial TV|o
+shrub|semak|o
+snare|jerat|o
+snowflake|kepingan salju|o
+sportsman|olahragawan|o
+stalactite|stalaktit|o
+stationary|tidak bergerak, diam|o
+trashed|hancur, rusak berat; mabuk berat (bahasa lisan)|o;o
+veterinary|tentang kedokteran hewan|o
+visage|wajah, raut muka|o
+viz|yaitu, yakni|o
+waft|melayang lembut di udara|v
+widget|gawai kecil, widget|o
+wriggle|menggeliat|v
+zoology|zoologi, ilmu hewan|o
+adequacy|kecukupan, kememadaian|o
+advantageous|menguntungkan|o
+affliction|penderitaan; penyakit|o;o
+approx|kira-kira (singkatan)|o
+artefact|artefak, benda buatan manusia|o
+assailant|penyerang|o
+beholden|berutang budi|o
+binge|pesta berlebihan, makan atau minum sepuasnya|o
+blocker|penghalang, penghambat|o
+boson|boson|o
+businesspeople|kalangan pengusaha|o
+buybacks|pembelian kembali saham, bentuk jamak dari buyback|o
+carbonate|karbonat|o
+celled|bersel (dalam single-celled, many-celled)|o
+chisel|pahat|o
+chump|orang bodoh (bahasa lisan)|o
+cochlear|tentang koklea, rumah siput telinga|o
+compatriot|teman senegara|o
+confidant|orang kepercayaan, teman curhat|o
+conspire|bersekongkol|v
+conveniently|dengan mudah, kebetulan pas|o
+croak|menguak, bersuara parau; mampus (bahasa lisan)|v;v
+cubicle|bilik|o
+debrief|meminta laporan setelah tugas|v
+demonic|seperti setan, kesetanan|o
+dissonance|ketidakselarasan, disonansi|o
+dormant|tidak aktif, dorman|o
+dreamy|seperti mimpi; menawan (bahasa lisan)|o;o
+driverless|tanpa pengemudi, swakemudi|o
+earthworm|cacing tanah|o
+ejaculate|berejakulasi; berseru|v;v
+epitomize|melambangkan, menjadi contoh sempurna|v
+equitably|dengan adil|o
+fatally|secara fatal, mematikan|o
+fateful|menentukan, bersejarah|o
+feline|tentang kucing; kucing, hewan sebangsa kucing|o;o
+filament|filamen, benang halus|o
+fracking|fracking, rekah hidraulik|o
+fractional|sangat kecil; tentang pecahan|o;o
+fungal|tentang jamur|o
+funnel|corong; menyalurkan|o;v
+gamification|gamifikasi|o
+geeks|para kutu buku, penggemar berat (bahasa lisan), bentuk jamak dari geek|o
+geographer|ahli geografi|o
+guerilla|gerilyawan|o
+habitual|biasa, karena kebiasaan; tetap, langganan (orang yang biasa melakukan sesuatu)|o;o
+hilt|gagang pedang atau pisau; to the hilt: sepenuhnya|o;n
+hopelessly|tanpa harapan; benar-benar, sama sekali|o;o
+hotline|saluran siaga, hotline|o
+hymen|selaput dara|o
+hyperbolic|hiperbolis, dilebih-lebihkan; tentang hiperbola|o;o
+hypertension|tekanan darah tinggi, hipertensi|o
+hypocritical|munafik, bermuka dua|o
+illiterate|buta huruf|o
+illumination|penerangan, cahaya; pencerahan, pemahaman|o;o
+incubator|inkubator (bayi atau telur); inkubator bisnis|o;o
+infraction|pelanggaran|o
+insufficiently|kurang memadai|o
+kilowatt|kilowatt|o
+laggard|orang yang lamban, yang tertinggal|o
+laudable|terpuji|o
+mammalian|tentang mamalia|o
+mayoral|tentang wali kota|o
+mea|mea culpa: salahku, pengakuan kesalahan|n
+microbiome|mikrobioma|o
+miscarriage|keguguran; miscarriage of justice: salah vonis, peradilan sesat|o;n
+mistakenly|secara keliru|o
+mover|jasa pindahan; penggerak, pengusul|o;o
+munch|mengunyah, makan dengan lahap|v
+nomadic|nomaden, berpindah-pindah|o
+nomenclature|tata nama, nomenklatur|o
+ominously|dengan mengancam, menandakan hal buruk|o
+oncologist|dokter kanker, onkolog|o
+onerous|memberatkan|o
+opportunistic|oportunis, memanfaatkan kesempatan, sering demi diri sendiri|o
+outreach|upaya menjangkau dan membantu masyarakat|o
+pacemaker|alat pacu jantung; pelari penentu kecepatan|o;o
+pacifist|penganut pasifisme, penentang segala perang dan kekerasan|o
+permutation|permutasi, salah satu kemungkinan urutan|o
+petrochemical|bahan petrokimia, zat kimia dari minyak atau gas|o
+pheromone|feromon, sinyal kimia yang dilepaskan hewan|o
+plow|membajak; bajak, alat pembalik tanah; plow through: menerobos dengan susah payah|v;o;n
+plush|mewah, lembut dan tebal; kain beludru tebal|o;o
+prohibitively|begitu tinggi sampai tak terjangkau|o
+racially|secara ras, dari segi ras|o
+radial|menyebar dari titik pusat|o
+rainwater|air hujan|o
+rationalize|mencari alasan pembenaran; mengefisienkan|v;v
+recast|mengubah bentuk, menyusun ulang; mengganti pemeran|v;v
+redraw|menggambar ulang, mengubah (batas, rencana)|v
+richly|dengan mewah, berlimpah; sepenuhnya, sungguh-sungguh|o;o
+righteousness|kebenaran moral, kesalehan|o
+scorer|pencetak gol, pencetak angka; pencatat skor|o;o
+seclusion|keterasingan, pengasingan diri|o
+solidify|mengeras, memadat; memperkuat, memantapkan|v;v
+starch|pati, karbohidrat dalam kentang, nasi, dsb.; kanji pengeras kain|o;o
+subatomic|subatom, lebih kecil dari atom|o
+taluka|wilayah administratif di India|o
+tantrum|amukan, ledakan marah seperti anak kecil|o
+tedious|membosankan dan bertele-tele, melelahkan|o
+tolerable|dapat ditoleransi, tertahankan; lumayan|o;o
+toolkit|perangkat alat, seperangkat perkakas|o
+trachoma|trakoma, infeksi mata menular|o
+trough|palung, bak tempat makan atau minum ternak; titik terendah|o;o
+ulcer|tukak, luka terbuka, misalnya di lambung|o
+unchallenged|tidak dipertanyakan atau ditentang|o
+undertaker|pengurus jenazah, pengurus pemakaman|o
+unimportant|tidak penting|o
+untapped|belum dimanfaatkan|o
+untouched|tidak tersentuh, tidak berubah; tidak dimakan|o;o
+upsurge|lonjakan, peningkatan mendadak|o
+wicket|gawang dalam kriket; pintu pagar kecil|o;o
+acknowledgement|pengakuan; ucapan terima kasih, penghargaan|o;o
+acumen|ketajaman pikiran, kecakapan|o
+append|menambahkan di akhir|v
+apprehend|menangkap, menahan; memahami|v;v
+apprehensive|cemas, khawatir|o
+archery|panahan|o
+archival|arsip, dari catatan arsip|o
+asphalt|aspal|o
+avid|gemar, antusias|o
+barefoot|bertelanjang kaki, tanpa alas kaki|o
+beak|paruh|o
+beginner|pemula|o
+bravely|dengan berani|o
+breathtaking|menakjubkan, memukau|o
+candidiasis|kandidiasis, infeksi jamur|o
+canonical|baku, diterima umum; kanonik, menurut hukum gereja atau kitab suci|o;o
+carcass|bangkai|o
+centipede|lipan, kelabang|o
+charade|kepura-puraan, sandiwara konyol; charades: permainan tebak kata dengan peragaan|o;n
+ciphertext|teks sandi, teks terenkripsi|o
+citrus|jeruk-jerukan, seperti jeruk, lemon, jeruk nipis|o
+closeness|keakraban; kedekatan jarak|o;o
+clueless|tidak tahu apa-apa, bodoh (cakapan)|o
+cocksucker|bajingan, makian kasar untuk laki-laki (cakapan)|o
+commencement|permulaan, awal; upacara wisuda|o;o
+commonality|kesamaan, ciri bersama|o
+conjugate|mengonjugasikan, menyebutkan bentuk-bentuk kata kerja; terkonjugasi, berpasangan|v;o
+connectome|konektom, peta semua sambungan saraf di otak|o
+conqueror|penakluk, pemenang|o
+conspirator|komplotan, anggota persekongkolan|o
+decelerate|memperlambat, melambat|v
+devilish|jahat, keji; nakal, usil|o;o
+devotional|religius, bersifat ibadah|o
+dimple|lesung pipit|o
+disqualify|mendiskualifikasi; membuat tidak layak|v;v
+dissect|membedah; mengupas secara rinci|v;v
+ducky|bagus, hebat (cakapan); sayang (cakapan)|o;o
+ecclesiastical|gerejawi, berkaitan dengan gereja atau rohaniwan|o
+eigenvalue|nilai eigen (matematika)|o
+elude|menghindari, lolos dari; sulit dipahami|v;v
+endurance|daya tahan, stamina|o
+erstwhile|dahulu, bekas, mantan|o
+extravagant|boros, berlebihan dalam belanja; berlebihan, mencolok|o;o
+fanatical|fanatik|o
+feasibility|kelayakan, dapat tidaknya sesuatu dilakukan|o
+flattery|sanjungan, pujian berlebihan|o
+folio|lembar, halaman; buku berformat besar|o;o
+foo|nama contoh (dalam contoh pemrograman)|o
+fresco|fresko, lukisan pada plester basah|o
+genocidal|bersifat genosida, bertujuan memusnahkan suatu bangsa|o
+genotype|genotipe, susunan genetik|o
+gladiator|gladiator, petarung bersenjata di Roma kuno|o
+grammatical|gramatikal, tentang tata bahasa; sesuai kaidah tata bahasa|o;o
+habitation|tempat tinggal, hunian; hal mendiami suatu tempat|o;o
+hairdresser|penata rambut, tukang pangkas|o
+handshake|jabat tangan|o
+hardworking|rajin, pekerja keras|o
+hemorrhage|pendarahan hebat; mengalami pendarahan hebat; kehilangan dengan cepat|o;v;v
+hombre|lelaki, bung (cakapan)|o
+humanize|memanusiakan, membuat lebih manusiawi|v
+hydro|tenaga air, listrik tenaga air|o
+impairment|gangguan, kerusakan, disabilitas|o
+incendiary|pembakar, dapat menyulut api; menghasut, provokatif|o;o
+incessant|terus-menerus, tiada henti|o
+infringement|pelanggaran|o
+inkling|firasat, sedikit gambaran|o
+inspirational|inspiratif, memberi ilham|o
+insubordination|pembangkangan terhadap atasan|o
+insular|berpikiran sempit, tertutup; kepulauan, berkaitan dengan pulau|o;o
+introductory|pengantar, pendahuluan|o
+justifiable|dapat dibenarkan, dapat dipertanggungjawabkan|o
+liken|mengibaratkan, menyamakan|v
+mage|penyihir, ahli sihir|o
+mammogram|mamogram, rontgen payudara|o
+mastermind|dalang, otak di balik rencana; mendalangi, merencanakan dan mengarahkan|o;v
+menstrual|haid, menstruasi|o
+metropolis|kota besar, metropolitan|o
+miniskirt|rok mini|o
+narcissist|narsisis, orang yang terobsesi pada diri sendiri|o
+nightstand|meja samping tempat tidur|o
+nominally|hanya di atas kertas, hanya namanya; secara resmi|o;o
+noteworthy|patut dicatat, menonjol|o
+occupant|penghuni, pemakai tempat|o
+odious|menjijikkan, memuakkan|o
+phytoplankton|fitoplankton, tumbuhan mikroskopis yang mengapung di air|o
+playable|dapat dimainkan|o
+predate|mendahului, lebih dulu ada|v
+preempt|mendahului untuk mencegah; menggantikan|v;v
+prelude|pendahuluan, awal; prelude, musik pembuka pendek|o;o
+provost|kepala kolese; pejabat senior universitas|o;o
+punishable|dapat dihukum|o
+quake|gempa bumi; gemetar, bergetar|o;v
+rabbinic|kerabian, berkaitan dengan rabi|o
+racer|pembalap, kendaraan atau hewan pacu|o
+rave|meracau; memuji habis-habisan; pesta dansa besar|v;v;o
+regrettably|sayangnya|o
+retrofit|memasang komponen baru pada barang lama|v
+revoir|au revoir: sampai jumpa|n
+riff|riff, frase musik pendek yang diulang; variasi dari suatu tema|o;o
+rightist|berhaluan kanan, orang sayap kanan|o
+saturate|merendam sepenuhnya; memenuhi hingga jenuh|v;v
+securely|dengan kuat, dengan aman|o
+sequential|berurutan, satu demi satu|o
+sequester|mengasingkan, mengisolasi; menyimpan (karbon)|v;v
+shoreline|garis pantai, tepi laut atau danau|o
+snipe|menembak dari persembunyian; menyindir, melontarkan kritik tajam|v;v
+spiritually|secara rohani, secara religius|o
+statist|etatis, mendukung kendali negara|o
+subconscious|bawah sadar|o
+submissive|patuh, penurut|o
+subsidiarity|subsidiaritas, prinsip bahwa keputusan diambil di tingkat serendah mungkin|o
+sulfa|sulfa drug: obat antibakteri sulfonamida|n
+tally|hitungan berjalan, jumlah; menghitung; cocok, sesuai|o;v;v
+tanker|kapal tanker, truk tangki|o
+thickly|dengan lapisan tebal; dengan lebat, padat; dengan suara serak|o;o;o
+thyroid|tiroid, kelenjar gondok|o
+tracker|pelacak|o
+treachery|pengkhianatan|o
+treasurer|bendahara|o
+trig|trigonometri (cakapan)|o
+undertone|nada tersirat, nuansa tersembunyi; suara pelan|o;o
+unequivocally|dengan tegas, tanpa keraguan|o
+uninhabited|tidak berpenghuni|o
+vassal|vasal, bawahan feodal yang terikat pada tuan; negara bawahan|o;o
+vertebrate|vertebrata, hewan bertulang belakang|o
+wastewater|air limbah|o
+wearable|dapat dipakai; perangkat yang dikenakan di badan|o;o
+webinar|webinar, seminar daring|o
+witty|jenaka, cerdas dan lucu|o
+accommodative|akomodatif, suka membantu; (tentang kebijakan) mendorong pinjaman|o;o
+acutely|dengan tajam, sangat|o
+amiss|keliru, tidak beres|o
+analogue|analog, bukan digital; padanan, pasangan setara|o;o
+avalanche|longsoran salju; banjir, jumlah yang sangat besar|o;o
+belligerent|agresif, suka bermusuhan; berperang, yang bertikai|o;o
+bonanza|rezeki nomplok, kekayaan mendadak|o
+bonfire|api unggun besar|o
+buff|penggemar berat; menggosok hingga mengilap; berotot (cakapan)|o;v;o
+cadre|kelompok inti orang terlatih; kader, anggota kelompok itu|o;o
+cater|menyediakan makanan untuk acara; cater to: melayani kebutuhan|v;n
+checkpoint|pos pemeriksaan|o
+codify|mengodifikasi, menyusun (hukum, aturan) menjadi sistem|v
+competency|kompetensi, kecakapan|o
+compliant|patuh aturan; penurut|o;o
+contractual|kontraktual, berdasarkan kontrak|o
+convincingly|secara meyakinkan|o
+cutback|pemangkasan, pengurangan|o
+despotic|lalim, sewenang-wenang|o
+detractor|pengkritik, pencela|o
+disdainful|meremehkan, menghina|o
+dynastic|dinasti, berkaitan dengan dinasti|o
+elliptical|lonjong, oval; (tentang ucapan) elips, tersirat, samar|o;o
+ethnically|secara etnis|o
+eukaryote|eukariota, organisme yang selnya berinti|o
+euthanasia|eutanasia, suntik mati|o
+extol|memuji setinggi langit|v
+fifteenth|ke-15, kelima belas|o
+flask|botol kecil, botol saku; labu laboratorium; termos|o;o;o
+generously|dengan murah hati, memberi lebih dari cukup|o
+goalkeeper|penjaga gawang, kiper|o
+grower|penanam, petani|o
+heartfelt|tulus, sepenuh hati|o
+homogeneous|homogen, seragam|o
+hyena|hiena, dubuk|o
+inept|kikuk, tidak cakap|o
+inexorably|tak terelakkan, tanpa henti|o
+inextricably|tak terpisahkan|o
+invoice|faktur, tagihan; menagih|o;v
+irrelevance|ketidakrelevanan|o
+irritable|mudah tersinggung, lekas marah|o
+koji|koji, jamur untuk memfermentasi kecap, miso dan sake|o
+leeway|kelonggaran, keleluasaan|o
+liturgical|liturgis, berkaitan dengan ibadah gereja|o
+longitude|garis bujur|o
+lyrically|secara puitis, ekspresif; dari segi lirik lagu|o;o
+macroprudential|makroprudensial, tentang regulasi yang melindungi seluruh sistem keuangan|o
+maternity|keibuan; maternity leave: cuti melahirkan|o;n
+meritocratic|meritokratis, berdasarkan prestasi|o
+micronutrient|zat gizi mikro, vitamin atau mineral yang dibutuhkan sedikit|o
+misdeed|perbuatan jahat, kejahatan|o
+modus|modus operandi: cara kerja|n
+morphology|morfologi, bentuk dan struktur (organisme atau kata)|o
+murky|keruh, gelap dan kotor; tidak jelas, mencurigakan|o;o
+nocturnal|aktif pada malam hari; malam, nokturnal|o;o
+obstinacy|kekeraskepalaan|o
+omnibus|bus (kuno); undang-undang atau buku gabungan, omnibus|o;o
+paltry|remeh, sedikit sekali|o
+pastoral|pedesaan, tentang kehidupan desa; pastoral, tentang pelayanan rohani oleh imam|o;o
+politicization|politisasi|o
+poultry|unggas ternak, ayam, bebek, dsb.|o
+premiership|jabatan perdana menteri; liga utama sepak bola (Inggris)|o;o
+prima|prima donna: penyanyi utama opera, orang yang manja dan angkuh; prima facie: pada pandangan pertama|n;n
+prodigy|anak ajaib, orang muda berbakat luar biasa; keajaiban|o;o
+pus|nanah|o
+pyjama|piama; pyjamas: pakaian tidur|o;n
+reggae|reggae, musik populer Jamaika|o
+regionally|per wilayah, di tingkat daerah|o
+requisite|yang diperlukan, wajib; keperluan, syarat|o;o
+retaliatory|bersifat pembalasan|o
+retention|penyimpanan, hal mempertahankan|o
+rotational|rotasi, berkaitan dengan perputaran|o
+shithead|orang tolol, bajingan (cakapan)|o
+sidereal|sideris, berkaitan dengan bintang|o
+sleepover|menginap di rumah teman|o
+smelt|melebur bijih logam; ikan smelt, ikan kecil keperakan; bentuk lampau smell (mencium bau)|v;o;o
+sonnet|soneta, puisi empat belas baris|o
+splatter|memercik; percikan|v;o
+strumpet|pelacur, perempuan jalang|o
+stylist|penata rambut, penata gaya; penulis dengan gaya bahasa indah|o;o
+subgroup|subkelompok|o
+superhuman|melampaui kemampuan manusia|o
+swimsuit|baju renang|o
+talkative|suka bicara, cerewet|o
+theorize|berteori, berspekulasi|v
+trapping|penangkapan dengan perangkap; trappings: tanda-tanda lahiriah, atribut|o;n
+unambiguously|dengan jelas, tanpa makna ganda|o
+unfairly|secara tidak adil|o
+unipolar|unipolar, dengan satu kutub atau satu kekuatan dominan|o
+untested|belum diuji|o
+upturn|perbaikan, kenaikan|o
+utensil|perkakas dapur|o
+warily|dengan waspada, dengan curiga|o
+amyloid|amiloid, endapan protein abnormal (dalam jaringan)|o
+apparel|pakaian, busana|o
+aquaculture|akuakultur, budi daya ikan dan hasil laut|o
+beekeeper|peternak lebah|o
+behemoth|raksasa, sesuatu yang besar dan kuat|o
+bioluminescence|bioluminesensi, cahaya yang dihasilkan makhluk hidup|o
+boron|boron, unsur kimia (B)|o
+budgie|parkit, burung nuri kecil peliharaan|o
+collarbone|tulang selangka|o
+commissary|toko penyedia makanan dan barang (tentara, penjara); kantin|o;o
+concave|cekung|o
+conceptually|secara konseptual|o
+conduit|saluran, pipa; perantara, sarana penyalur|o;o
+constitutionally|secara konstitusional; menurut pembawaan, secara alami|o;o
+convulsion|kejang, sawan; pergolakan|o;o
+correctness|kebenaran, ketepatan; political correctness: menghindari bahasa yang menyinggung|o;n
+creatively|secara kreatif|o
+crucify|menyalibkan; mengecam habis-habisan|v;v
+cruelly|dengan kejam|o
+cynic|orang sinis, orang yang curiga pada niat orang lain|o
+dabble|mencoba-coba, menekuni sambil lalu; berkecipak|v;v
+darkly|dengan muram, secara mengancam; dengan warna gelap|o;o
+dashboard|dasbor mobil, panel instrumen; dasbor, layar ringkasan data|o;o
+declassification|deklasifikasi, pembukaan dokumen rahasia|o
+dexterity|ketangkasan tangan; kecekatan berpikir|o;o
+dignitary|pejabat tinggi, orang terhormat|o
+dipole|dipol, pasangan muatan atau kutub berlawanan|o
+distill|menyuling; menyarikan, mengambil intisari|v;v
+echolocation|ekolokasi, menemukan benda lewat gema, seperti kelelawar|o
+embryonic|embrionik, berkaitan dengan embrio; masih dalam tahap awal|o;o
+empathetic|empatik, memahami perasaan orang lain|o
+enactment|pengesahan undang-undang; pemeragaan, memerankan|o;o
+encore|pertunjukan tambahan atas permintaan penonton; lagi!|o;o
+exhilarating|menggembirakan, mendebarkan|o
+fanaticism|fanatisme|o
+favela|favela, permukiman kumuh di Brasil|o
+firecracker|petasan, mercon|o
+fission|fisi, pembelahan (atom atau sel)|o
+fonio|fonio, biji-bijian serealia Afrika Barat|o
+foreground|latar depan|o
+forfeit|kehilangan sebagai hukuman; denda, hukuman|v;o
+forfeiture|penyitaan, hilangnya harta atau hak sebagai hukuman|o
+gecko|cicak, tokek|o
+genitalia|alat kelamin|o
+genomic|genomik, berkaitan dengan genom|o
+glade|tanah lapang di tengah hutan|o
+golly|astaga (kaget) (cakapan)|o
+grotesque|aneh dan buruk rupa, ganjil|o
+haggle|menawar harga|v
+hardwired|bawaan, sudah tertanam|o
+horseshoe|ladam, tapal kuda|o
+hospice|rumah perawatan pasien menjelang ajal|o
+imp|setan kecil; anak nakal|o;o
+improbable|tidak mungkin, kecil kemungkinannya|o
+insecticide|insektisida, obat pembasmi serangga|o
+instructional|instruksional, bersifat mengajar|o
+intercontinental|antarbenua|o
+intimately|secara mendalam, akrab; secara intim, pribadi|o;o
+intrinsically|pada dasarnya, secara hakiki|o
+invariant|tetap, tidak berubah; invarian, besaran yang tidak berubah|o;o
+juncture|saat, titik waktu; sambungan|o;o
+keg|tong kecil|o
+kraut|orang Jerman (hinaan, cakapan); asinan kubis ala Jerman|o;o
+latent|laten, tersembunyi, terpendam|o
+legalization|legalisasi, pengesahan|o
+ligand|ligan, molekul yang mengikat molekul lain|o
+livid|sangat marah; biru lebam (tentang memar)|o;o
+megawatt|megawatt, sejuta watt|o
+miscellaneous|serba-serbi, aneka ragam|o
+mismanage|salah urus, mengelola dengan buruk|v
+mothball|menunda, menyimpan di gudang; mothballs: kapur barus|v;n
+nape|tengkuk|o
+nucleic|nucleic acid: asam nukleat, DNA atau RNA|n
+opine|berpendapat, menyatakan pendapat|v
+outcast|orang buangan, orang yang dikucilkan masyarakat|o
+perseverance|ketekunan, kegigihan|o
+planter|pot tanaman; pemilik perkebunan|o;o
+plasticity|plastisitas, kelenturan, kemampuan beradaptasi|o
+primordial|purba, ada sejak awal|o
+projector|proyektor|o
+protestor|pengunjuk rasa, demonstran|o
+protocell|protosel, struktur primitif mirip sel|o
+psyche|jiwa, batin|o
+raincoat|jas hujan|o
+reassess|menilai kembali|v
+recap|ringkasan, rekap; merangkum|o;v
+recognizable|mudah dikenali|o
+reload|mengisi ulang, memuat ulang|v
+resettlement|pemukiman kembali|o
+rigor|ketelitian, ketegasan; rigor mortis: kaku mayat|o;n
+router|router, perangkat pengatur lalu lintas jaringan; mesin pengukir kayu|o;o
+rudely|dengan kasar, tidak sopan; secara tiba-tiba|o;o
+saree|sari, kain panjang yang dililitkan perempuan India|o
+savanna|sabana, padang rumput tropis|o
+scapula|tulang belikat|o
+scour|menjelajahi, mencari dengan teliti; menggosok|v;v
+seamlessly|dengan mulus, tanpa jeda|o
+sentient|berperasaan, sadar|o
+simplification|penyederhanaan|o
+spoiler|bocoran cerita; spoiler, sayap pembelok udara pada mobil|o;o
+sponsorship|sponsor, dukungan dana|o
+stallion|kuda jantan|o
+strum|memetik gitar dengan menyapu senar, genjreng|v
+subculture|subkultur|o
+sublime|agung, sangat indah dan menggugah|o
+surveyor|juru ukur, surveyor|o
+teem|teem with: penuh dengan, dipenuhi; turun deras (hujan)|n;v
+teeny|kecil sekali, mungil (cakapan)|o
+tidal|pasang surut|o
+touchy|mudah tersinggung, sensitif; peka, rawan|o;o
+transponder|transponder, perangkat pengirim sinyal balasan|o
+unbridled|tak terkendali|o
+underline|menggarisbawahi; menekankan|v;v
+unintentionally|tanpa sengaja|o
+unmistakable|jelas, tidak mungkin keliru|o
+usable|dapat digunakan|o
+uuh|eh, em (ragu-ragu)|o
+variability|variabilitas, keragaman|o
+yoy|dibandingkan tahun lalu, tahun ke tahun|o
+abdicate|turun takhta, melepaskan tugas|v
+adjective|kata sifat, adjektiva|o
+adventurer|petualang|o
+afresh|dari awal lagi, kembali|o
+agonize|sangat cemas, bergulat dengan pikiran|v
+altruistic|altruistis, tidak mementingkan diri sendiri|o
+ambivalent|ambivalen, berperasaan campur aduk|o
+amplification|penguatan, amplifikasi|o
+anesthetic|obat bius, anestesi|o
+assimilate|menyerap, mengintegrasikan; berbaur|v;v
+atrocious|mengerikan, sangat buruk|o
+audiobooks|buku audio, bentuk jamak audiobook|o
+avian|burung, berkaitan dengan unggas|o
+belch|bersendawa|v
+bluefin|tuna sirip biru|o
+bluish|kebiruan|o
+bookie|bandar taruhan|o
+botanist|ahli botani|o
+brocade|brokat|o
+caffeine|kafein|o
+calibre|mutu, taraf; kaliber, diameter laras senapan|o;o
+cartographer|kartografer, pembuat peta|o
+causal|kausal, berkaitan dengan sebab akibat|o
+charger|pengisi daya, casan; kuda perang|o;o
+chronological|kronologis, menurut urutan waktu|o
+citizenry|seluruh warga negara|o
+codependency|kodependensi, ketergantungan emosional yang tidak sehat|o
+comer|orang yang datang; all comers: siapa saja yang ikut|o;n
+craftsman|perajin, tukang terampil|o
+craze|tren sesaat, demam|o
+cuss|mengumpat (cakapan); orang, sosok (cakapan)|v;o
+deduce|menyimpulkan, mendeduksi|v
+devolve|melimpahkan (kekuasaan) ke bawah|v
+dew|embun|o
+disambiguation|disambiguasi, penjelasan makna|o
+disenfranchise|mencabut hak pilih atau hak-hak|v
+dishonest|tidak jujur, curang|o
+dropout|orang yang putus sekolah|o
+eavesdrop|menguping|v
+efface|menghapus; efface oneself: menyembunyikan diri, tidak menonjolkan diri|v;n
+endear|endear oneself to: membuat diri disukai oleh|n
+epidemiological|epidemiologis, berkaitan dengan ilmu penyebaran penyakit|o
+evangelical|evangelikal, aliran Kristen Protestan yang menekankan pertobatan; bersemangat, getol|o;o
+evilly|dengan jahat|o
+expedient|praktis, menguntungkan; cara untuk mencapai tujuan|o;o
+eyesight|penglihatan|o
+facet|aspek, segi; faset, bidang datar batu permata|o;o
+fearsome|menakutkan|o
+fictionalized|difiksikan, sebagian dikarang|o
+fondly|dengan sayang; dengan naif (berharap)|o;o
+forgery|barang palsu; pemalsuan dokumen|o;o
+gall|kelancangan, keberanian kurang ajar; kepahitan; menjengkelkan|o;o;v
+glutinous|lengket, pulen|o
+headland|tanjung|o
+healer|penyembuh, tabib|o
+heist|perampokan|o
+henceforth|mulai sekarang, selanjutnya|o
+hernia|hernia, turun berok|o
+hierarchical|hierarkis, berjenjang|o
+housemaid|pembantu rumah tangga perempuan|o
+humanism|humanisme|o
+idly|dengan malas, tanpa tujuan|o
+imma|aku mau, aku akan (cakapan)|f1s
+infusion|seduhan; pemasukan, suntikan (dana, ide); infus|o;o;o
+insensible|pingsan, tak sadarkan diri; tidak menyadari; mati rasa|o;o;o
+interstellar|antarbintang|o
+intravenous|intravena, melalui pembuluh darah|o
+ionic|ionik, berkaitan dengan ion; (tentang tiang) bergaya Ionia, berkepala gulungan|o;o
+ish|kira-kira, kurang lebih (cakapan)|o
+keenly|dengan sangat, dengan bersemangat|o
+knapsack|ransel|o
+lackluster|lesu, hambar, tidak bergairah|o
+lawful|sah, legal|o
+leaflet|selebaran, brosur|o
+liquidation|likuidasi, pembubaran perusahaan dan penjualan asetnya; pembunuhan, pelenyapan|o;o
+marketer|pemasar|o
+medicinal|berkhasiat obat|o
+menopause|menopause|o
+merciless|tanpa ampun, kejam|o
+metabolize|memetabolisme, mengolah (makanan, obat) dalam tubuh|v
+metaphorical|metaforis, kiasan|o
+millennial|milenial, orang yang lahir sekitar 1981–1996; seribu tahun, milenium|o;o
+mitzva|perintah agama; perbuatan baik (dalam Yudaisme)|o;o
+monetarist|monetaris, mendukung pengendalian jumlah uang beredar|o
+moult|meranggas, rontok bulu, berganti kulit|v
+naturalist|naturalis, pengamat alam|o
+nausea|mual|o
+nonfiction|nonfiksi|o
+overrun|menyerbu, membanjiri; melebihi (waktu, biaya)|v;v
+panellist|panelis|o
+pediatric|pediatrik, berkaitan dengan kesehatan anak|o
+penchant|kegemaran, kesukaan|o
+penetrative|tajam, menembus|o
+pervade|merasuki, menyebar ke seluruh|v
+phenotype|fenotipe, sifat yang tampak pada organisme|o
+placate|menenangkan, meredakan|v
+ploy|siasat, taktik|o
+podium|podium, panggung|o
+qualitative|kualitatif|o
+receptionist|resepsionis|o
+regrettable|disayangkan|o
+relocation|relokasi, pemindahan|o
+repudiation|penolakan, penyangkalan|o
+ruff|kerah berkerut; lingkaran bulu di leher|o;o
+sanitary|sanitasi, bersih, higienis; sanitary pad: pembalut wanita|o;n
+sedition|penghasutan untuk memberontak terhadap negara|o
+seesaw|jungkat-jungkit; naik turun, berayun bolak-balik|o;v
+selectively|secara selektif|o
+separatism|separatisme|o
+sexist|seksis|o
+shoelace|tali sepatu|o
+sidekick|sahabat karib, pendamping, asisten|o
+skyline|kaki langit, siluet gedung-gedung|o
+snippet|potongan, cuplikan|o
+sociological|sosiologis|o
+spurn|menolak dengan hina|v
+standalone|mandiri, berdiri sendiri|o
+suitor|pelamar, lelaki yang meminang|o
+superficial|dangkal; di permukaan|o;o
+superstitious|percaya takhayul|o
+teaspoon|sendok teh|o
+tellingly|secara gamblang, dengan menyingkap|o
+tenuous|lemah, tipis|o
+toothpaste|pasta gigi, odol|o
+topography|topografi, bentuk permukaan tanah|o
+trainee|peserta pelatihan, calon pegawai|o
+triplet|anak kembar tiga; kelompok bertiga|o;o
+unimpressed|tidak terkesan|o
+unwelcome|tidak diinginkan|o
+unyielding|teguh, tidak mau mengalah|o
+uptight|tegang, gelisah; kaku, sok alim (cakapan)|o;o
+venerable|terhormat karena usia atau kearifan|o
+veterinarian|dokter hewan|o
+vivo|in vivo: di dalam organisme hidup|n
+voiceless|tanpa suara, bisu; tak bersuara (bunyi)|o;o
+wasteland|tanah tandus|o
+accompaniment|iringan musik; pendamping, pelengkap|o;o
+acquiescence|persetujuan pasif, sikap menurut|o
+adjunct|tambahan, pelengkap; asisten, (dosen) paruh waktu|o;o
+aggressor|agresor, penyerang|o
+agribusiness|agribisnis|o
+ambient|sekitar, di lingkungan sekeliling; ambient music: musik latar yang membangun suasana|o;n
+amphibious|amfibi, dapat hidup atau beroperasi di darat dan air|o
+anonymously|secara anonim, tanpa nama|o
+apt|tepat, cocok; apt to: cenderung|o;n
+arbiter|penengah, wasit|o
+assorted|campuran, aneka|o
+asymmetrical|asimetris, tidak seimbang|o
+authorship|kepengarangan|o
+awash|tergenang, kebanjiran; awash with: dipenuhi, banjir|o;n
+banknote|uang kertas|o
+baptize|membaptis|v
+bewitch|menyihir, memikat|v
+biomaterial|biomaterial, bahan untuk implan medis|o
+biometric|biometrik, pengukuran tubuh (sidik jari, wajah) untuk identifikasi|o
+blackness|kegelapan, kehitaman|o
+brisk|cepat, bersemangat; dingin dan segar|o;o
+buoy|pelampung penanda; mengapungkan; membesarkan hati|o;v;v
+caucus|rapat anggota partai; kaukus, kelompok partai|o;o
+choral|paduan suara|o
+cloudy|berawan, mendung; keruh|o;o
+codeine|kodein, obat pereda nyeri dari opium|o
+compatibility|kecocokan, kompatibilitas|o
+concessional|lunak, dengan syarat ringan (tentang pinjaman)|o
+conflagration|kebakaran besar|o
+cyan|sian, biru kehijauan|o
+deform|mengubah bentuk, merusak bentuk|v
+disengage|melepaskan diri, menarik diri|v
+disrespectful|tidak sopan, tidak hormat|o
+dissuade|membujuk agar tidak|v
+duly|sebagaimana mestinya; sesuai harapan|o;o
+ebb|(tentang air laut) surut; merosot, menurun; ebb and flow: pasang surut|v;v;n
+enquire|bertanya, menanyakan|v
+façade|muka bangunan, fasad; kedok, tampilan palsu|o;o
+fluff|bulu halus, serat lembut; isi remeh; mengacaukan, gagal melakukan|o;o;v
+goofy|konyol (cakapan)|o
+hereafter|mulai sekarang, selanjutnya; akhirat|o;o
+improper|tidak benar, keliru; tidak senonoh|o;o
+imprudence|kecerobohan|o
+lurch|terhuyung, bergerak tiba-tiba; leave in the lurch: menelantarkan|v;n
+lush|rimbun, hijau subur; mewah|o;o
+malady|penyakit|o
+mournful|sedih, berduka|o
+mutilate|memutilasi, mencacati|v
+piety|kesalehan|o
+seasoning|bumbu, penyedap|o
+shamelessly|tanpa malu|o
+surreal|seperti mimpi, ganjil, surealis|o
+unzip|membuka ritsleting; mengekstrak berkas terkompresi|v;v
+vapour|uap, gas, kabut|o
+vigilance|kewaspadaan|o
+ballroom|ruang dansa|o
+balm|balsem, salep penenang; penghiburan|o;o
+blazer|jas, blazer|o
+cauldron|kuali besar, kawah|o
+cetacean|setasea, paus, lumba-lumba atau pesut|o
+communion|Holy Communion: Perjamuan Kudus, komuni; persekutuan batin, berbagi perasaan|n;o
+courtier|abdi dalem, punggawa istana|o
+cower|meringkuk ketakutan|v
+defensively|secara defensif, seperti diserang|o
+doorknob|tombol pintu, gagang pintu bulat|o
+edict|maklumat, dekret|o
+faithfully|dengan setia; dengan tepat; yours faithfully: hormat saya (penutup surat resmi)|o;o;n
+firmness|keteguhan; kekerasan, kepadatan|o;o
+flirty|genit, suka menggoda|o
+flurry|embusan salju mendadak; kesibukan mendadak|o;o
+gallantry|keberanian; kesopanan terhadap perempuan|o;o
+gash|luka sayat yang dalam; menyayat dalam|o;v
+glaze|lapisan kaca, glasir; melapisi; glaze over: (tentang mata) menjadi kosong, menerawang|o;v;n
+gloss|kilap; keterangan singkat arti kata, glosa; gloss over: menutupi, mengecilkan|o;o;n
+hairpin|jepit rambut; hairpin bend: tikungan tajam|o;n
+harpoon|tombak ikan paus, harpun|o
+indulgence|memanjakan diri; kesenangan, suguhan; kelonggaran, sikap membiarkan|o;o;o
+insatiable|tak pernah puas, rakus|o
+knitting|merajut, rajutan|o
+knowingly|dengan sengaja; dengan penuh arti, seolah tahu|o;o
+monotonous|monoton, membosankan|o
+mould|jamur, kapang; cetakan; membentuk|o;o;v
+onlooker|penonton, orang yang menyaksikan|o
+ooze|merembes, meleleh perlahan; lumpur lembek|v;o
+paralyse|melumpuhkan|v
+patter|bunyi ketukan ringan; omongan cepat dan lancar|o;o
+precipice|tepi jurang, tebing curam|o
+putter|mengerjakan hal-hal kecil dengan santai; stik golf untuk memukul bola ke lubang|v;o
+quench|melepas (dahaga); memadamkan (api)|v;v
+rashly|dengan gegabah|o
+rasp|bunyi parau, berderit; kikir kasar|o;o
+relapse|kambuh; kembali lagi, jatuh lagi|o;v
+repute|reputasi, nama baik|o
+rivet|paku keling; memasang paku keling; memaku (perhatian)|o;v;v
+roadside|tepi jalan, pinggir jalan|o
+sanity|kewarasan|o
+sedan|mobil sedan; sedan chair: tandu beratap|o;n
+shabby|lusuh, usang; picik, tidak adil|o;o
+sorta|agak, semacam (cakapan)|o
+spiky|berduri, runcing; mudah tersinggung|o;o
+spoonful|sesendok|o
+stamen|benang sari|o
+sundry|aneka, macam-macam; all and sundry: semua orang|o;n
+swoon|pingsan (karena emosi), terpesona|v
+tack|paku payung; pendekatan, haluan; menjelujur, memasang sementara|o;o;v
+tambourine|rebana, tamborin|o
+tipsy|agak mabuk|o
+truthfully|dengan jujur|o
+twas|itu adalah (lampau, 'twas = it was)|f3s
+unbreakable|tidak bisa pecah, tak terpatahkan|o
+unparalleled|tiada tanding, tak tertandingi|o
+unspeakable|tak terkatakan, terlalu mengerikan untuk dilukiskan|o
+untimely|sebelum waktunya, prematur; tidak tepat waktunya|o;o
+unwell|sakit, tidak enak badan|o
+unwillingly|dengan enggan|o
+wholesome|sehat, menyehatkan; baik secara moral|o;o
+wickedness|kejahatan|o
+amorous|penuh gairah cinta, bernafsu|o
+backside|pantat, bokong; bagian belakang|o;o
+baptism|pembaptisan|o
+berate|memarahi, mendamprat|v
+dote|dote on: terlalu menyayangi, memanjakan|n
+enigma|teka-teki, misteri|o
+err|keliru, berbuat salah|v
+festivity|perayaan, kemeriahan|o
+foretell|meramalkan|v
+gilt|sepuhan emas; bersepuh emas|o;o
+imprudent|tidak bijaksana, ceroboh|o
+insolence|kekurangajaran|o
+mellow|lembut, empuk, santai|o
+morsel|sesuap, sepotong kecil makanan|o
+nevermind|sudahlah, tidak apa-apa|o
+nook|sudut kecil, ceruk|o
+oat|gandum oat; oats: oat, gandum untuk bubur|o;n
+realisation|kesadaran, menyadari; perwujudan (tujuan)|o;o
+repulsive|menjijikkan|o
+rustic|pedesaan, sederhana dan kasar|o
+secretive|suka merahasiakan, tertutup|o
+shockingly|secara mengejutkan, sangat buruk; secara tak terduga|o;o
+sleepless|tanpa tidur|o
+snout|moncong|o
+stench|bau busuk|o
+stony|berbatu; dingin, tanpa perasaan|o;o
+subterranean|bawah tanah|o
+tentatively|dengan ragu-ragu, untuk sementara|o
+unaccountable|tak dapat dijelaskan, aneh; tidak bertanggung jawab kepada siapa pun|o;o
+urchin|anak jalanan yang nakal; sea urchin: bulu babi|o;n
+vehemently|dengan keras, dengan berapi-api|o
+weakling|orang lemah|o
+befit|pantas bagi, layak untuk|v
+blacken|menghitamkan, menghitam|v
+blissful|sangat bahagia|o
+bulky|besar dan tidak praktis, makan tempat|o
+drawl|berbicara lambat dengan vokal dipanjangkan; logat bicara yang lambat|v;o
+elongate|memanjangkan|v
+ember|bara|o
+extricate|melepaskan, membebaskan dari kesulitan|v
+flawless|sempurna, tanpa cacat|o
+gaily|dengan riang; dengan cerah, meriah|o;o
+ginseng|ginseng|o
+hanger|gantungan baju|o
+hectic|sangat sibuk, hiruk-pikuk|o
+homeroom|kelas perwalian, jam absensi kelas (sekolah AS)|o
+imbue|mengilhami, meresapi (dengan suatu sifat)|v
+infirmary|rumah sakit; ruang perawatan, klinik|o;o
+lamentation|ratapan, tangisan|o
+nauseous|mual; memualkan|o;o
+ordeal|cobaan berat, pengalaman pahit|o
+penance|penitensi, hukuman diri atas dosa|o
+perspiration|keringat|o
+rebirth|kebangkitan kembali; kelahiran kembali|o;o
+recline|bersandar, berbaring|v
+recluse|pertapa, penyendiri|o
+reek|berbau busuk; bau busuk menyengat|v;o
+relent|mengalah, melunak|v
+rigging|tali-temali kapal; kecurangan (tentang pemungutan suara)|o;o
+ruddy|kemerahan (tentang wajah); sialan (cakapan)|o;o
+ruffian|preman, bajingan|o
+shockwave|gelombang kejut; kejutan yang meluas|o;o
+sketchbook|buku sketsa|o
+skillful|terampil, ahli|o
+spout|corot, cerat; menyembur; berceloteh panjang lebar|o;v;v
+stubbornness|kekeraskepalaan|o
+sunflower|bunga matahari|o
+surly|ketus, kasar|o
+triumphantly|dengan penuh kemenangan|o
+uncontrollable|tak terkendali|o
+vainly|sia-sia; dengan sombong|o;o
+venomous|berbisa; penuh dengki|o;o
+volley|hujan tembakan atau pukulan; voli, memukul bola sebelum memantul|o;o
+watchful|waspada, awas|o
+worldly|duniawi, kebendaan; berpengalaman, luas pergaulan|o;o
+abt|tentang (cakapan)|o
+adamant|bersikeras, bertekad kuat|o
+affront|penghinaan; menyinggung|o;v
+anemone|bunga anemon; sea anemone: anemon laut|o;n
+angst|kecemasan, rasa takut|o
+apologetic|meminta maaf, menyesal|o
+astray|keluar dari jalur; go astray: tersesat, menyimpang|o;n
+balustrade|langkan, pagar tiang|o
+berth|tempat tidur di kapal atau kereta; tambatan kapal; give a wide berth: menghindari, menjauhi|o;o;n
+camper|orang yang berkemah; mobil kemah|o;o
+comprehension|pemahaman|o
+coven|kelompok penyihir|o
+covet|mendambakan (milik orang lain), mengingini|v
+deflate|mengempiskan; menjatuhkan kepercayaan diri|v;v
+distraught|sangat bingung dan sedih|o
+dreadfully|sangat, sangat buruk|o
+gloomily|dengan murung, dengan pesimis|o
+hysterically|secara histeris (tertawa, menangis)|o
+idleness|kemalasan; keadaan menganggur|o;o
+impel|mendorong, memaksa|v
+impotent|tak berdaya; impoten|o;o
+incredulous|tidak percaya, ragu|o
+makeshift|darurat, sementara|o
+novice|pemula; calon biarawan atau biarawati, novis|o;o
+ooo|oh (heran, senang)|o
+permeate|meresapi, menyebar ke seluruh|v
+pheasant|burung kuau, pegar|o
+pleasantry|basa-basi, obrolan ringan|o
+savour|menikmati perlahan|v
+sledge|kereta luncur; palu godam|o;o
+sleeved|berlengan|o
+stately|agung, anggun|o
+stirrup|sanggurdi|o
+unmoved|tidak tergerak hatinya|o
+utterance|ucapan, tuturan|o
+vortex|pusaran air, pusaran angin|o
+whiteness|keputihan, warna putih|o
+authoritative|tepercaya, dapat diandalkan; berwibawa|o;o
+brandish|mengacung-acungkan (senjata)|v
+brazen|tak tahu malu, lancang|o
+brilliantly|dengan cemerlang, luar biasa; dengan sangat terang|o;o
+cavalier|seenaknya, tidak peduli; penunggang kuda, pendukung raja|o;o
+chandelier|lampu gantung kristal, kandelir|o
+dint|by dint of: dengan cara, berkat|n
+fidelity|kesetiaan; ketepatan, akurasi|o;o
+forthwith|segera, seketika|o
+glorify|memuliakan, mengagungkan|v
+greenish|kehijauan|o
+highschool|sekolah menengah, SMA|o
+lengthen|memperpanjang|v
+lighthearted|riang, santai, tidak serius|o
+motherly|keibuan, penuh kasih|o
+nourishment|makanan, gizi|o
+onslaught|serangan dahsyat|o
+pasture|padang rumput, tempat menggembala|o
+perceptible|dapat dirasakan, kentara|o
+placid|tenang, damai|o
+relive|mengalami kembali (dalam ingatan)|v
+resurface|muncul kembali; melapisi ulang permukaan|v;v
+rune|rune, huruf abjad kuno; simbol gaib|o;o
+sickle|sabit, arit|o
+silvery|keperakan|o
+snug|nyaman, hangat; pas di badan|o;o
+stormy|berbadai; penuh gejolak|o;o
+supposition|dugaan, anggapan|o
+thermometer|termometer|o
+tidings|kabar, berita|o
+tiredness|kelelahan, rasa capek|o
+understatement|pernyataan yang terlalu merendah|o
+unkind|tidak baik, kejam|o
+unstoppable|tak terbendung|o
+windmill|kincir angin|o
+aggrieve|menyakiti hati, merugikan; aggrieved: merasa dirugikan, sakit hati|v;n
+alleyway|gang, lorong sempit|o
+assuredly|tentu, pasti|o
+baronet|baronet, gelar bangsawan Inggris turun-temurun di bawah baron|o
+benevolence|kebaikan hati, kemurahan hati|o
+berserk|go berserk: mengamuk|n
+bookshelf|rak buku|o
+bugle|terompet kecil, bugel|o
+cloister|serambi beratap di sekeliling halaman; biara|o;o
+contemptuously|dengan menghina|o
+cot|ranjang bayi, boks bayi; ranjang lipat|o;o
+drowsy|mengantuk|o
+elegantly|dengan anggun|o
+elm|pohon elm|o
+eloquent|fasih, pandai berbicara|o
+expend|mengeluarkan, menghabiskan|v
+fain|dengan senang hati, dengan rela|o
+ferocity|keganasan|o
+fervor|semangat berkobar, gairah|o
+gratification|kepuasan, kesenangan|o
+humbly|dengan rendah hati|o
+impenetrable|tak tertembus; tak dapat dipahami|o;o
+indigo|nila, biru keunguan tua|o
+inseparable|tak terpisahkan; selalu bersama|o;o
+instigate|memprakarsai, menghasut|v
+introspection|introspeksi, mawas diri|o
+kraken|kraken, monster laut raksasa|o
+legging|leggings: celana ketat elastis, legging|n
+likeness|kemiripan; potret, gambar|o;o
+liquefy|mencairkan, mencair|v
+multifaceted|beragam segi, multidimensi|o
+obscurity|ketidakterkenalan; ketidakjelasan|o;o
+palisade|pagar kayu runcing, pagar pancang|o
+persevere|bertekun, pantang menyerah|v
+radiance|cahaya berpendar; wajah berseri-seri, kebahagiaan yang terpancar|o;o
+retrace|menelusuri kembali|v
+seatbelt|sabuk pengaman|o
+selfie|swafoto|o
+skater|pemain seluncur, pemain skate|o
+slouch|duduk atau berdiri membungkuk; no slouch: cukup mahir|v;n
+spectre|hantu; ancaman yang membayangi|o;o
+spurt|menyembur; semburan, lonjakan tiba-tiba|v;o
+stateroom|kabin pribadi di kapal; ruang megah|o;o
+tearful|berlinang air mata, hampir menangis|o
+therein|di dalamnya, di situ|o
+thereupon|segera sesudah itu|o
+unbroken|utuh; tak terputus|o;o
+unknowingly|tanpa sadar|o
+affirmation|penegasan, konfirmasi; afirmasi, pernyataan positif|o;o
+cinder|arang, bara sisa|o
+cockpit|kokpit|o
+detonator|detonator, alat peledak pemicu bom|o
+dilate|melebar, membesar|v
+etiquette|etiket, tata krama|o
+exterminate|membasmi, memusnahkan|v
+fae|peri, bangsa peri|o
+fervent|bersemangat, berapi-api|o
+flake|serpihan, misalnya kepingan salju; orang yang tidak bisa diandalkan (cakapan); mengelupas|o;o;v
+foggy|berkabut; bingung, samar|o;o
+fortitude|ketabahan|o
+fruitless|sia-sia, tidak berhasil|o
+fulfil|memenuhi, melaksanakan; memuaskan|v;v
+furry|berbulu|o
+ghostly|seperti hantu|o
+girdle|korset; ikat pinggang|o;o
+haggard|kuyu, tampak letih|o
+heater|pemanas|o
+impertinent|kurang ajar, lancang|o
+inexperienced|kurang berpengalaman|o
+lacrosse|lacrosse, permainan beregu dengan tongkat berjaring|o
+mahogany|mahoni|o
+pantry|dapur penyimpanan, lemari makanan|o
+perpetually|terus-menerus, selamanya|o
+pleasurable|menyenangkan|o
+regal|seperti raja, agung|o
+ridiculously|sangat konyol, keterlaluan|o
+splutter|berbicara tergagap sambil menyembur; berbunyi seperti meludah|v;v
+sputter|berbunyi letup-letup, memercik; tersendat, goyah|v;v
+tendon|tendon, urat|o
+thrice|tiga kali|o
+thunderstorm|badai petir|o
+unbeknownst|unbeknownst to: tanpa sepengetahuan|n
+unsteady|goyah, gemetar|o
+wavy|bergelombang, ikal|o
+abhor|membenci, jijik|v
+advisable|dianjurkan, bijaksana|o
+ailment|penyakit ringan|o
+arduous|sulit, berat|o
+billiard|billiards: biliar|n
+bleacher|bleachers: tribun terbuka|n
+bloodshot|(tentang mata) merah|o
+bough|dahan besar|o
+candlelight|cahaya lilin|o
+caprice|tingkah, keinginan mendadak|o
+casket|peti mati; kotak kecil|o;o
+chastise|memarahi keras, menghukum|v
+childlike|seperti anak kecil, polos|o
+colourful|berwarna-warni; hidup, semarak|o;o
+confessor|pastor penerima pengakuan dosa; orang yang mengaku|o;o
+disconcert|membingungkan, mengusik|v
+disgraceful|memalukan|o
+elapse|(tentang waktu) berlalu|v
+excruciating|sangat menyakitkan|o
+flannel|flanel; waslap|o;o
+flog|mencambuk; menjual (cakapan)|v;v
+fondness|rasa sayang, kegemaran|o
+frankness|keterusterangan, kejujuran|o
+futon|futon, kasur lantai atau di atas rangka lipat|o
+gendarme|polisi Prancis, gendarme|o
+ghoul|hantu jahat, setan pemakan mayat; orang yang gemar hal-hal mengerikan|o;o
+gibbet|tiang gantungan|o
+hairstyle|gaya rambut|o
+harpy|harpy, monster mitos setengah perempuan setengah burung; perempuan jahat dan serakah|o;o
+hideout|tempat persembunyian|o
+jackal|serigala, jakal|o
+matriarch|kepala keluarga perempuan, ibu besar|o
+menacingly|dengan mengancam|o
+meticulous|teliti, cermat|o
+minion|antek, kaki tangan|o
+mysteriously|secara misterius, secara tak terjelaskan|o
+nigh|dekat; well nigh: hampir|o;n
+nimble|lincah, gesit|o
+pamper|memanjakan|v
+peculiarly|dengan aneh; khususnya|o;o
+penthouse|penthouse, apartemen mewah di lantai teratas|o
+perchance|barangkali, kebetulan|o
+petite|mungil (tentang perempuan)|o
+prod|menyodok; mendesak; sodokan|v;v;o
+recharge|mengisi ulang daya; memulihkan tenaga|v;v
+refinement|kehalusan budi, keanggunan; penyempurnaan|o;o
+sadistic|sadis|o
+saffron|kunyit Eropa, safron; kuning jingga|o;o
+saunter|berjalan santai, berjalan-jalan|v
+slither|merayap, meluncur seperti ular|v
+solstice|titik balik matahari|o
+starry|berbintang|o
+stow|menyimpan, mengemas; stow away: menumpang gelap di kapal atau pesawat|v;n
+tradesman|pemilik toko, pedagang; tukang terampil|o;o
+tremor|getaran, gemetar; gempa kecil|o;o
+unreadable|tidak terbaca; (tentang wajah) sulit ditebak|o;o
+unruly|sulit diatur, liar|o
+veneer|lapisan tipis, venir; kedok, tampilan luar yang palsu|o;o
+viciously|dengan ganas, dengan kejam|o
+warble|berkicau|v
+barbarous|biadab, kejam; tidak beradab|o;o
+billow|menggelembung, mengepul (asap, layar); gelombang atau gumpalan besar|v;o
+boudoir|kamar pribadi perempuan|o
+bridegroom|mempelai pria|o
+bubbly|periang, ceria; sampanye (cakapan)|o;o
+busily|dengan sibuk|o
+cask|tong|o
+chortle|terkekeh|v
+cinnamon|kayu manis|o
+contemptuous|menghina, meremehkan|o
+defiantly|dengan menantang|o
+delusional|berdelusi, berkhayal|o
+earnestness|kesungguhan, ketulusan|o
+flatly|dengan tegas, terus terang; tanpa emosi, datar|o;o
+freshness|kesegaran|o
+gunpowder|mesiu|o
+hoard|menimbun diam-diam; timbunan rahasia|v;o
+interlock|saling mengunci, saling mengait|v
+intricacy|kerumitan; intricacies: seluk-beluk|o;n
+knack|bakat, keterampilan|o
+lodger|penyewa kamar, anak kos|o
+machete|parang, golok|o
+malevolent|berniat jahat, dengki|o
+mollusk|moluska, hewan bertubuh lunak seperti siput atau kerang|o
+nonstop|tanpa henti, nonstop|o
+observant|jeli, cermat mengamati|o
+peal|dentang lonceng; gelegar (tawa, guntur)|o;o
+pooh|(seruan jijik atau meremehkan)|g
+purify|memurnikan, menyucikan|v
+rile|menjengkelkan|v
+saucer|tatakan cangkir, lepek|o
+seedling|bibit, semaian|o
+shipwreck|karamnya kapal; bangkai kapal|o;o
+spasm|kejang otot; ledakan mendadak|o;o
+steely|keras, tegas; seperti baja|o;o
+thicken|mengentalkan, menebal|v
+tortoise|kura-kura darat|o
+unbuckle|membuka gesper|v
+undoing|kehancuran, kejatuhan|o
+unroll|membuka gulungan, membentangkan|v
+whereupon|lalu, sesudah itu|o
+wholeheartedly|sepenuh hati|o
+aimlessly|tanpa tujuan|o
+appendage|anggota badan, tambahan yang melekat|o
+approbation|persetujuan, restu|o
+battlements|benteng bergerigi, dinding kastel bercelah tembak|o
+behead|memenggal|v
+beige|krem, cokelat pasir muda|o
+betroth|menjodohkan, mempertunangkan; betrothed: bertunangan|v;n
+betrothal|pertunangan|o
+bittersweet|pahit-manis, bahagia sekaligus sedih|o
+blabber|mengoceh, membocorkan|v
+bloodline|garis keturunan|o
+blot|noda, cela; menyerap, mengeringkan; blot out: menutupi, menghalangi|o;v;n
+brooding|murung dan termenung; mengancam|o;o
+caramel|karamel; permen karamel|o;o
+carp|ikan mas; mengomel, menggerutu|o;v
+chasm|jurang, celah dalam di tanah; kesenjangan lebar|o;o
+concealment|penyembunyian|o
+conformity|kepatuhan pada aturan atau norma, konformitas|o
+crinkle|mengerut, keriput; kerutan kecil|v;o
+croon|bersenandung lembut|v
+defile|menodai, menajiskan; celah gunung yang sempit|v;o
+detour|jalan memutar|o
+discreetly|dengan bijaksana, diam-diam|o
+doubly|dua kali lipat|o
+ensnare|menjerat|v
+flit|melesat, melayang ringan|v
+gipsy|gipsi, orang Romani; pengembara|o;o
+glimmering|berkilau redup; secercah, tanda samar|o;o
+godly|saleh, taat beragama|o
+halter|tali kekang kuda; halter top: atasan bertali leher dengan punggung terbuka|o;n
+ima|aku mau, aku akan (cakapan)|f1s
+immature|kekanak-kanakan; belum dewasa, belum matang|o;o
+inasmuch|inasmuch as: karena, sejauh|n
+inert|diam, tidak bergerak; lembam, tidak reaktif secara kimia|o;o
+inquisitive|ingin tahu, suka mengorek|o
+intoxication|kemabukan; kegirangan, mabuk kepayang|o;o
+jovial|riang, ramah|o
+lute|kecapi Eropa, lute|o
+mascara|maskara|o
+matrimony|pernikahan, perkawinan|o
+mulberry|pohon murbei; buah murbei|o;o
+nosy|suka ikut campur, terlalu ingin tahu|o
+otherworldly|tidak duniawi, rohani, gaib|o
+pacify|menenangkan; mendamaikan|v;v
+patrician|bangsawan, ningrat; aristokratis|o;o
+pillage|menjarah|v
+pillory|mempermalukan di depan umum; pasung, alat hukuman di muka umum|v;o
+quaint|kuno yang menawan, antik|o
+readjust|menyesuaikan kembali|v
+seduction|rayuan, godaan untuk berhubungan seks; daya pikat|o;o
+shirtless|bertelanjang dada|o
+sift|mengayak; memilah, memeriksa dengan teliti|v;v
+sill|ambang jendela, ambang pintu|o
+slant|kemiringan, lereng; sudut pandang, kecenderungan; miring, memiringkan|o;o;v
+somber|suram, muram, serius|o
+speck|bintik, noktah|o
+spew|menyemburkan, memuntahkan|v
+splendor|kemegahan, keindahan|o
+strut|berjalan dengan angkuh; batang penyangga|v;o
+totter|terhuyung-huyung|v
+troublemaker|pembuat onar|o
+unfathomable|tak terselami, sulit dipahami|o
+vamp|perempuan penggoda; berimprovisasi|o;v
+visor|pet topi; pelindung wajah pada helm|o;o
+vocation|panggilan jiwa, profesi|o
+whiff|bau samar, embusan bau; sedikit jejak|o;o
+windy|berangin|o
+yellowish|kekuningan|o
+ablaze|terbakar, berkobar; terang benderang|o;o
+abreast|berdampingan, berjajar; keep abreast of: terus mengikuti perkembangan|o;n
+appreciative|berterima kasih; menghargai|o;o
+asunder|tercerai-berai, hancur berkeping|o
+ceaseless|tak henti-hentinya|o
+censure|kecaman resmi; mengecam secara resmi|o;v
+cobbler|tukang sol sepatu; pai buah berlapis adonan di atasnya|o;o
+condescension|sikap merendahkan, sok menggurui|o
+dab|mengusap, menepuk ringan; sedikit, secolek; dab hand: ahli|v;o;n
+deference|rasa hormat, sikap tunduk|o
+delirium|delirium, kebingungan mental; kegembiraan meluap-luap|o;o
+delude|menipu, memperdaya|v
+despicable|hina, tercela|o
+devout|saleh, taat beragama|o
+floral|bunga, bermotif bunga|o
+forefinger|jari telunjuk|o
+galleon|galiung, kapal perang layar besar|o
+infamy|keburukan nama, aib|o
+jerky|tersentak-sentak, tidak mulus; dendeng|o;o
+lanky|tinggi kurus, jangkung|o
+lukewarm|suam-suam kuku, hangat-hangat kuku; setengah hati, tidak antusias|o;o
+mottle|mottled: berbelang, berbintik-bintik warna|n
+mutton|daging domba|o
+nightgown|baju tidur, gaun tidur|o
+notary|notaris|o
+pedestal|alas patung, tumpuan; put on a pedestal: mengidolakan, memuja|o;n
+promontory|tanjung|o
+prostrate|tertelungkup, tiarap; tak berdaya, terpukul; bersujud, menelungkup|o;o;v
+pun|plesetan kata, permainan kata|o
+roundhouse|pukulan atau tendangan melingkar; bengkel lokomotif berbentuk bundar|o;o
+schoolboy|anak sekolah laki-laki|o
+selfishness|keegoisan, sikap mementingkan diri sendiri|o
+sickening|memuakkan, menjijikkan|o
+skid|tergelincir, selip|v
+sled|kereta luncur|o
+smudge|noda, coreng; mencoreng, membuat noda|o;v
+splendour|kemegahan, keindahan|o
+unaffected|tidak terpengaruh; wajar, tulus|o;o
+unnerve|membuat gugup, menciutkan nyali|v
+wrack|menyiksa; wrack and ruin: kehancuran|v;n
+battleship|kapal tempur|o
+canine|anjing, berkaitan dengan anjing; anjing; canine tooth: gigi taring|o;o;n
+chai|chai, teh susu berempah|o
+cheekbone|tulang pipi|o
+convulse|kejang, berguncang hebat|v
+coronet|mahkota kecil|o
+diligence|ketekunan, kerajinan|o
+diligently|dengan tekun, dengan rajin|o
+dismissively|dengan meremehkan|o
+doth|(dia) melakukan (bentuk kuno does)|f3s
+emo|emo, gaya punk emosional; penggemar emo|o;o
+evince|menunjukkan, memperlihatkan|v
+farthing|farthing, koin lama senilai seperempat penny|o
+fickle|plin-plan, mudah berubah|o
+fissure|celah, retakan|o
+flail|meronta-ronta, menggapai-gapai; alat penebah padi|v;o
+hag|nenek sihir, perempuan tua yang buruk rupa|o
+humanoid|humanoid, makhluk mirip manusia|o
+hyperventilate|bernapas terlalu cepat, hiperventilasi|v
+luncheon|jamuan makan siang|o
+mandible|rahang|o
+meekly|dengan patuh, dengan tenang|o
+oblivion|keterlupaan, dilupakan orang; ketidaksadaran|o;o
+passageway|lorong, koridor|o
+skilful|terampil, cakap|o
+stuffy|pengap; kaku, angkuh|o;o
+truthful|jujur|o
+unforgiving|tidak pemaaf; keras, berat|o;o
+vehemence|kegarangan, kesungguhan yang berapi-api|o
+verily|sungguh, sesungguhnya|o
+vibes|suasana, rasa, aura (cakapan); vibrafon|o;o

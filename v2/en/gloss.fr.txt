@@ -9491,3 +9491,3857 @@ cheat|tricher; cheat on: tromper|v;n
 chair|chaise; président (d'une réunion)|o;o
 lover|amant, amante; amateur, passionné|o;o
 dump|abandonner, déposer; décharge (ordures); larguer, plaquer (quelqu'un)|v;o;v
+smirk|sourire d'un air suffisant; sourire suffisant|v;o
+glare|lancer un regard furieux; lumière crue, éblouissante|v;o
+frown|froncer les sourcils; air mécontent|v;o
+shrug|hausser les épaules (ignorance, indifférence); haussement d'épaules|v;o
+brow|front; sourcil; sommet d'une colline|o;o;o
+inquire|demander, se renseigner; enquêter|v;v
+silently|sans bruit, sans rien dire|o
+haired|aux cheveux de tel type (dark-haired, long-haired)|o
+clench|serrer fort (le poing, les dents, la mâchoire)|v
+countenance|visage, expression; admettre, tolérer|o;v
+pout|faire la moue; moue boudeuse|v;o
+hurriedly|vite, à la hâte|o
+purr|ronronner (chat); parler d'une voix douce et séductrice|v;v
+cum|combiné avec, servant aussi de (kitchen-cum-dining room)|o
+coldly|froidement, sans amabilité|o
+née|née (devant le nom de jeune fille)|o
+huff|souffler d'agacement; in a huff: vexé, boudeur|v;n
+furrow|plisser (le front); sillon, ride profonde|v;o
+morrow|le lendemain; le matin|o;o
+angrily|avec colère|o
+hast|as (avec thou)|f3s
+disbelief|incrédulité|o
+amidst|au milieu de, parmi|o
+tug|tirer d'un coup sec; coup sec; remorqueur|v;o;o
+annoyance|agacement, contrariété; source d'agacement|o;o
+gleam|luire doucement; faible lueur, reflet|v;o
+astonishment|grand étonnement|o
+crouch|s'accroupir|v
+admiration|estime, approbation; plaisir à contempler quelque chose|o;o
+playful|enjoué, taquin, pas sérieux|o
+eagerly|avec empressement, avec grand intérêt|o
+wince|tressaillir, grimacer (de douleur ou de gêne)|v
+hesitation|temps d'arrêt avant d'agir, incertitude|o
+flicker|vaciller, trembloter; lueur vacillante, trace fugace|v;o
+anticipation|attente, impatience de ce qui vient|o
+aura|atmosphère, aura autour d'une personne ou d'un lieu; halo lumineux|o;o
+continental|continental; d'Europe continentale|o;o
+twitch|tressaillir, se contracter brusquement; petit mouvement brusque, tic|v;o
+awkwardly|maladroitement; avec gêne, mal à l'aise|o;o
+flinch|reculer brusquement (de peur ou de douleur)|v
+shudder|frissonner (de peur, de froid, de dégoût); frisson|v;o
+melancholy|mélancolie, tristesse profonde; mélancolique, morne|o;o
+piercing|perçant (regard, cri); piercing (bijou dans le corps)|o;o
+soften|adoucir, s'adoucir, ramollir|v
+plateau|plateau (relief); palier, stagnation|o;o
+solace|réconfort dans le chagrin|o
+wilt|se faner, flétrir; (avec thou) veux, vas (futur)|v;o
+retort|rétorquer sèchement; riposte|v;o
+playfully|en jouant, pour taquiner|o
+wrapping|emballage, papier d'emballage; wrapping, participe présent de wrap|o;o
+presently|bientôt; actuellement, en ce moment|o;o
+casually|de façon détendue, décontractée; par hasard|o;o
+evermore|pour toujours, à jamais|o
+unwavering|inébranlable, ferme, constant|o
+mallow|mauve (plante à fleurs roses ou violettes)|o
+squire|propriétaire terrien, châtelain; écuyer|o;o
+uneasy|inquiet, anxieux; mal à l'aise|o;o
+flutter|voleter, battre (des ailes, des cils); émoi, agitation nerveuse|v;o
+aloud|à voix haute|o
+dost|fais (avec thou)|f3s
+gloomy|sombre, obscur; triste, pessimiste|o;o
+curiously|avec curiosité; curieusement, étrangement|o;o
+grit|gravillons, sable; cran, détermination; serrer (les dents)|o;o;v
+hesitantly|avec hésitation, timidement|o
+bustle|s'affairer; agitation, animation|v;o
+demeanor|attitude, comportement|o
+hasten|se hâter; hâter, précipiter|v;v
+hastily|à la hâte, précipitamment|o
+squint|plisser les yeux; regard plissé|v;o
+clasp|serrer, étreindre; fermoir (bijou, sac)|v;o
+haha|(rire)|g
+scowl|lancer un regard noir; air renfrogné|v;o
+quiver|frémir, trembler; carquois|v;o
+adorn|orner, parer|v
+anxiously|avec inquiétude, anxieusement|o
+curate|sélectionner et organiser (expositions, contenus); vicaire|v;o
+sneer|ricaner, parler avec mépris; sourire méprisant|v;o
+motionless|immobile|o
+hue|teinte, nuance|o
+darken|assombrir, s'assombrir|v
+hearted|au cœur de tel type (kind-hearted, broken-hearted)|o
+politely|poliment|o
+furnish|meubler; fournir|v;v
+captivate|captiver, charmer|v
+composure|calme, sang-froid|o
+errant|égaré, fautif; errant (knight errant)|o;o
+unexpectedly|de façon inattendue, sans prévenir|o
+daze|état d'hébétude; étourdir, abasourdir|o;v
+reproach|reprocher, faire des reproches à; reproche, blâme|v;o
+brightly|avec éclat (lumière, couleur); gaiement|o;o
+bailiff|huissier; régisseur, intendant|o;o
+haste|hâte, précipitation|o
+rouse|réveiller; éveiller, soulever (un sentiment, une foule)|v;v
+violently|violemment; intensément|o;o
+amazement|stupéfaction|o
+nudge|donner un coup de coude; inciter, pousser doucement; petit coup de coude|v;v;o
+envelop|envelopper, entourer complètement|v
+twinkle|scintiller; pétillement (dans les yeux)|v;o
+reluctantly|à contrecœur|o
+peddler|colporteur, marchand ambulant; revendeur de drogue|o;o
+shopkeeper|commerçant|o
+agitate|inquiéter, troubler; agiter, remuer; militer, faire campagne|v;v;v
+bosom|poitrine, sein; bosom friend: ami intime|o;n
+upright|droit, vertical; honnête, intègre|o;o
+endeavour|s'efforcer; effort, tentative|v;o
+fluster|troubler, énerver; trouble, énervement|v;o
+din|vacarme|o
+mischievous|espiègle, coquin; malveillant, nuisible|o;o
+recollection|souvenir; fait de se souvenir|o;o
+crimson|cramoisi|o
+damp|humide, moite|o
+ponder|réfléchir à, méditer|v
+cautiously|prudemment|o
+unsure|incertain, pas sûr|o
+faintly|légèrement, faiblement|o
+glide|glisser (sans bruit); planer|v;v
+solitude|solitude, isolement|o
+wand|baguette magique|o
+aback|taken aback: surpris, déconcerté|n
+fasten|attacher, fermer, boutonner (une ceinture, un bouton)|v
+snuggle|se blottir, se pelotonner|v
+rejoin|rejoindre, retourner à; répliquer|v;v
+tenderness|tendresse, douceur; sensibilité (douleur)|o;o
+utmost|extrême, le plus grand; le maximum (do your utmost)|o;o
+intently|attentivement|o
+spat|spat, passé de spit (cracher); prise de bec, chamaillerie|o;o
+warmly|chaleureusement; chaudement|o;o
+indifferent|indifférent; médiocre|o;o
+whence|d'où|o
+abbe|abbé|o
+colonist|colon|o
+proudly|fièrement|o
+momentarily|un instant; dans un instant|o;o
+speechless|sans voix (sous le choc ou l'émotion)|o
+afterward|ensuite, après|o
+jolt|secouer brusquement; secousse, choc|v;o
+shaky|tremblant; chancelant, incertain|o;o
+taels|taels, pluriel de tael (poids d'argent chinois servant de monnaie)|o
+agreeable|agréable; disposé à accepter|o;o
+attire|tenue, vêtements|o
+innocently|innocemment; naïvement|o;o
+trifle|bagatelle; a trifle: un peu, légèrement; trifle with: prendre à la légère; trifle (dessert en couches)|o;n;n;o
+earnest|sérieux, sincère; in earnest: sérieusement, pour de bon|o;n
+teammate|coéquipier|o
+licking|licking, participe présent de lick (lécher); raclée, défaite|o;o
+glint|briller, étinceler; éclat, reflet|v;o
+concubine|concubine|o
+plainly|clairement, manifestement; simplement|o;o
+fiercely|violemment, farouchement|o
+fiery|ardent, de feu; fougueux, emporté|o;o
+impatience|impatience|o
+pavement|trottoir (UK); chaussée (US)|o;o
+thine|le tien, la tienne; ton, ta (avec thou)|o;o
+anguish|angoisse, grande détresse|o
+converse|converser; l'inverse, le contraire|v;o
+slumber|sommeil|o
+swirl|tourbillonner; tourbillon|v;o
+tho|pourtant, quand même (fam., = though)|o
+woah|stop !, waouh ! (fam., = whoa)|o
+throb|battre fort, élancer; battement, élancement|v;o
+comfortably|confortablement; facilement|o;o
+apprehension|appréhension, crainte; compréhension; arrestation|o;o;o
+bewilder|déconcerter, dérouter|v
+patiently|patiemment|o
+taunt|railler, provoquer; sarcasme, raillerie|v;o
+traveller|voyageur|o
+lewd|obscène, lubrique|o
+hoarse|rauque, enroué (voix)|o
+impatiently|avec impatience|o
+quirk|bizarrerie, particularité; to quirk (a brow, the lips): hausser, tordre légèrement|o;v
+sarcastically|de façon sarcastique|o
+fluffy|duveteux, moelleux|o
+coachman|cocher|o
+linen|lin (tissu); linge (draps, nappes)|o;o
+disgusted|dégoûté, écœuré|o
+frightful|affreux, épouvantable; énorme, terrible|o;o
+dwelling|demeure, habitation; dwelling, participe présent de dwell|o;o
+graceful|gracieux, élégant|o
+hoodie|sweat à capuche|o
+recollect|se rappeler, se souvenir de|v
+breathless|hors d'haleine, essoufflé; très excité|o;o
+gallop|galoper; galop|v;o
+sprint|sprinter; sprint|v;o
+weakly|faiblement|o
+irritation|agacement; irritation (de la peau)|o;o
+affectionate|affectueux, tendre|o
+doubtless|sans doute, certainement|o
+perplex|rendre perplexe, déconcerter|v
+damsel|demoiselle, jeune fille|o
+archdeacon|archidiacre|o
+cringe|avoir un mouvement de recul; avoir honte, être gêné|v;v
+hesitant|hésitant|o
+slender|mince, svelte; faible (a slender chance)|o;o
+thyself|toi-même (avec thou)|o
+coarse|grossier, rugueux; vulgaire, grossier|o;o
+instinctively|instinctivement|o
+governess|gouvernante, préceptrice|o
+corral|enclos (chevaux, bétail); rassembler|o;v
+energetic|énergique, dynamique|o
+lovingly|avec amour, tendrement|o
+sincerity|sincérité|o
+gape|regarder bouche bée; être béant|v;v
+ruffle|ébouriffer (cheveux, plumes); froisser, troubler; volant (de tissu)|v;v;o
+stout|corpulent, robuste; vaillant, résolu; stout (bière brune)|o;o;o
+extinguish|éteindre (un feu, une lumière); mettre fin à|v;v
+brunette|brune|o
+gallant|brave, vaillant; galant|o;o
+mischief|espièglerie, bêtises; mal, tort|o;o
+effortlessly|sans effort, facilement|o
+entreat|supplier, implorer|v
+exhaustion|épuisement; épuisement (des ressources)|o;o
+icy|glacial, verglacé; froid, hostile|o;o
+palpable|palpable; évident, manifeste|o;o
+visibly|visiblement|o
+glimmer|luire faiblement; faible lueur; lueur (a glimmer of hope)|v;o;o
+lodging|logement, chambre louée; lodging, participe présent de lodge|o;o
+monstrous|énorme et effrayant; monstrueux, scandaleux|o;o
+hone|aiguiser; perfectionner (une compétence)|v;v
+armour|armure|o
+eyelid|paupière|o
+yonder|là-bas, ce...-là (au loin)|o
+exude|exsuder, dégager (odeur, liquide); respirer, dégager (assurance, charme)|v;v
+relish|savourer; grand plaisir; condiment, sauce|v;o;o
+stoop|se pencher, se baisser; s'abaisser (moralement); perron (US)|v;v;o
+attentively|attentivement|o
+blurt|lâcher sans réfléchir (souvent blurt out)|v
+disposition|tempérament, caractère; disposition, agencement|o;o
+earnestly|sérieusement, sincèrement|o
+painfully|douloureusement; terriblement (painfully slow)|o;o
+uneasiness|malaise, inquiétude|o
+probable|probable|o
+agitation|agitation, inquiétude; agitation, brassage; campagne militante|o;o;o
+frantically|frénétiquement, désespérément|o
+furiously|avec fureur; avec acharnement|o;o
+sternly|sévèrement|o
+bitterly|amèrement; terriblement (bitterly cold)|o;o
+hitherto|jusqu'ici, jusqu'à présent|o
+unison|in unison: à l'unisson, tous ensemble|n
+valiant|vaillant, courageux|o
+timid|timide, craintif|o
+afar|from afar: de loin; au loin|n;o
+audible|audible|o
+brim|bord (d'une tasse, d'un chapeau); déborder (brim with)|o;v
+enjoyment|plaisir|o
+mana|mana, énergie magique (fantasy, jeux)|o
+oblivious|inconscient, qui ne remarque pas|o
+brighten|éclaircir, s'éclairer, égayer|v
+hehe|(petit rire)|g
+implore|implorer, supplier|v
+involuntarily|involontairement|o
+ornament|ornement, objet décoratif|o
+radiate|rayonner (depuis un centre); dégager, émettre (chaleur, lumière); respirer, rayonner de (joie)|v;v;v
+allure|attrait, charme|o
+exasperate|exaspérer|v
+fortnight|quinze jours, deux semaines|o
+helplessly|sans pouvoir s'en empêcher, impuissant|o
+overflow|déborder; être plein à craquer|v;v
+scorn|mépris; mépriser|o;v
+elegance|élégance|o
+pleading|supplication; pleading, participe présent de plead|o;o
+reappear|réapparaître|v
+lowly|humble, modeste|o
+steamer|bateau à vapeur; cuit-vapeur|o;o
+tint|teinte, nuance; teinter légèrement|o;v
+tranquil|calme, paisible|o
+bedside|chevet|o
+chivalry|galanterie; chevalerie (code des chevaliers)|o;o
+drape|draper; poser négligemment; rideau|v;v;o
+footman|valet de pied|o
+hurl|lancer violemment; lancer (des insultes)|v;v
+intertwine|entrelacer, lier étroitement|v
+nostril|narine|o
+scrunch|froisser, écraser; plisser (le visage)|v;v
+abyss|abîme, gouffre; catastrophe, situation désespérée|o;o
+cheerfully|gaiement, de bon cœur|o
+distinctly|distinctement, clairement; décidément, nettement|o;o
+drench|tremper complètement|v
+embroider|broder; enjoliver (une histoire)|v;v
+feeble|faible|o
+gloom|obscurité; tristesse, morosité|o;o
+heartily|chaleureusement, sincèrement; de bon appétit (eat heartily); profondément (heartily sick of)|o;o;o
+newfound|nouveau, récemment acquis|o
+sweetly|gentiment, avec douceur|o
+troublesome|gênant, pénible|o
+monseigneur|monseigneur (titre d'un prince ou d'un évêque)|o
+quilt|édredon, couette|o
+winding|sinueux (a winding road); winding, participe présent de wind|o;o
+avail|to no avail: en vain; to avail oneself of: profiter de, utiliser|n;n
+beckon|faire signe de venir; attirer|v;v
+befall|arriver à (un malheur)|v
+complexion|teint; caractère, nature|o;o
+ignite|allumer, s'enflammer; déclencher (un sentiment)|v;v
+muscular|musclé; musculaire|o;o
+parting|séparation, adieux; raie (des cheveux)|o;o
+perk|avantage (d'un emploi); perk up: se ranimer, reprendre du poil de la bête|o;n
+remembrance|souvenir; commémoration|o;o
+smug|suffisant, content de soi|o
+commotion|agitation, tumulte|o
+morph|se transformer peu à peu|v
+confidently|avec assurance|o
+multitude|multitude, grand nombre; foule|o;o
+rosy|rose; prometteur, optimiste|o;o
+tapestry|tapisserie|o
+throng|foule; se presser dans|o;v
+bridal|nuptial, de mariée|o
+goblin|lutin, gobelin|o
+personage|personnage (important)|o
+temperament|tempérament, caractère; humeur changeante|o;o
+unspoken|tacite, sous-entendu|o
+whither|où (vers quel lieu)|v
+displease|déplaire à, mécontenter|v
+recoil|reculer (de peur, de dégoût); recul (d'une arme)|v;o
+respectful|respectueux|o
+armchair|fauteuil|o
+boar|sanglier; verrat|o;o
+clad|vêtu, recouvert|o
+dragoon|dragon (soldat à cheval); contraindre (à faire quelque chose)|o;v
+glisten|luire, briller (surface mouillée)|v
+lackey|laquais; larbin, béni-oui-oui|o;o
+plop|tomber avec un petit plouf; s'affaler|v;v
+procure|obtenir, se procurer|v
+railing|grille, rambarde|o
+ramble|divaguer, parler sans suite; se promener à la campagne|v;v
+dedication|dévouement, engagement; dédicace|o;o
+exertion|effort|o
+thither|là, vers ce lieu|v
+cavern|caverne|o
+facade|façade; façade, fausse apparence|o;o
+harshly|durement, sévèrement|o
+whirl|tournoyer; tourbillon (d'activité)|v;o
+alt|alternatif (alt-rock, alt-right); touche Alt|o;o
+coax|amadouer, persuader en douceur|v
+fragrance|parfum, bonne odeur; parfum (produit)|o;o
+honourable|honorable, digne de respect; (titre de certains hauts responsables)|o;g
+immensely|énormément, extrêmement|o
+leisurely|tranquille, sans se presser|o
+muse|méditer, songer tout haut; muse|v;o
+neatly|soigneusement, proprement; habilement|o;o
+stiffen|se raidir, se crisper|v
+tenderly|tendrement|o
+thoughtfully|pensivement; avec prévenance|o;o
+droop|pendre, s'affaisser|v
+coldness|froid, froideur; froideur, manque d'amabilité|o;o
+continually|continuellement, sans cesse|o
+encouragement|encouragement|o
+intricate|complexe, compliqué, minutieux|o
+sarcastic|sarcastique|o
+bulge|bomber, gonfler; renflement, bosse|v;o
+drool|baver; drool over: baver d'envie devant|v;n
+etch|graver; graver (dans la mémoire, etched in memory)|v;v
+exceedingly|extrêmement|o
+aroma|arôme|o
+dusk|crépuscule|o
+saliva|salive|o
+vex|contrarier, tracasser|v
+wildly|de façon incontrôlée, frénétiquement; extrêmement|o;o
+bitterness|amertume, rancœur; amertume (goût)|o;o
+curling|curling, participe présent de curl; curling (sport sur glace)|o;o
+graze|brouter, paître; érafler; grignoter|v;v;v
+indignation|indignation|o
+nervousness|nervosité|o
+parlour|salon; salon, boutique (beauty parlour, ice-cream parlour)|o;o
+promptly|aussitôt, sans tarder; ponctuellement|o;o
+amiable|aimable|o
+confide|confier (un secret)|v
+interruption|interruption, coupure; fait d'interrompre|o;o
+intoxicate|enivrer, soûler; griser, exalter|v;v
+teleport|se téléporter|v
+emissary|émissaire|o
+feign|feindre, simuler|v
+huddle|se blottir les uns contre les autres; petit groupe serré|v;o
+weaving|tissage; weaving, participe présent de weave|o;o
+dismay|consternation, désarroi; consterner|o;v
+gateway|entrée, portail; porte d'accès (vers quelque chose)|o;o
+repose|repos; se reposer, reposer|o;v
+volleyball|volley-ball|o
+engross|absorber (souvent engrossed in)|v
+horseback|on horseback: à cheval|n
+idk|je sais pas (fam.)|f1s
+lunge|se jeter en avant (pour attaquer, saisir); mouvement brusque en avant|v;o
+resemblance|ressemblance|o
+saber|sabre|o
+savor|savourer|v
+d'état|coup d'état: coup d'État|n
+joyful|joyeux|o
+subside|s'apaiser, diminuer; s'affaisser|v;v
+ascertain|établir, vérifier|v
+beforehand|à l'avance, auparavant|o
+calmness|calme|o
+fleeting|fugace, passager|o
+gravely|gravement, sérieusement|o
+lol|mdr (rire, pour marquer une blague) (fam.)|o
+politeness|politesse|o
+suspiciously|avec méfiance; de façon suspecte, louche|o;o
+blankly|d'un air absent, sans comprendre|o
+gracefully|avec grâce; avec élégance, dignement|o;o
+jokingly|pour rire, en plaisantant|o
+obediently|docilement, avec obéissance|o
+pronoun|pronom (he, she, it)|o
+unconsciously|inconsciemment|o
+waver|hésiter, vaciller; trembler, vaciller (flamme)|v;v
+craving|envie irrésistible; craving, participe présent de crave|o;o
+gnaw|ronger; tourmenter, ronger|v;v
+hind|arrière (hind legs); biche|o;o
+musket|mousquet|o
+passionately|passionnément|o
+quicken|s'accélérer; stimuler, aviver|v;v
+squirm|se tortiller; être mal à l'aise|v;v
+steward|intendant, régisseur; steward, agent de bord|o;o
+twirl|tournoyer, faire tourner|v
+waistcoat|gilet (de costume)|o
+doze|somnoler; petit somme|v;o
+mantle|cape, manteau; rôle, responsabilité (take up the mantle); couche, manteau|o;o;o
+outburst|explosion, accès (de colère, d'émotion)|o
+primal|primitif, primordial, instinctif|o
+sarcasm|sarcasme|o
+stirring|émouvant, exaltant; premier frémissement (d'un sentiment); stirring, participe présent de stir|o;o;o
+tingle|picoter, fourmiller|v
+torso|torse, tronc|o
+workman|ouvrier|o
+banter|badinage, plaisanteries|o
+conjure|faire apparaître par magie; évoquer (conjure up)|v;v
+delicacy|mets délicat, gourmandise; finesse, fragilité; tact, délicatesse|o;o;o
+eagerness|empressement, vif intérêt|o
+gratify|faire plaisir à; satisfaire|v;v
+interject|lancer (une remarque), intervenir|v
+islet|îlot|o
+joyous|joyeux|o
+ledge|rebord, saillie (d'un mur, d'une falaise)|o
+pang|pincement, élancement (douleur ou émotion)|o
+shimmer|miroiter, chatoyer|v
+trample|piétiner|v
+writhe|se tordre (de douleur)|v
+alight|en feu; illuminé; descendre (d'un véhicule); se poser|o;o;v;v
+sensibility|sensibilité (à l'art, aux émotions); susceptibilité, sensibilité|o;o
+solemnly|solennellement, gravement|o
+tentacle|tentacule|o
+dimly|faiblement, sans éclat; vaguement|o;o
+enchantment|enchantement, sortilège; ravissement, charme|o;o
+forcefully|avec force; fermement, de façon convaincante|o;o
+serene|serein, paisible|o
+torrent|torrent; flot (de paroles, d'injures)|o;o
+dumbfounded|abasourdi, sidéré|o
+parchment|parchemin; vieux document|o;o
+radiant|rayonnant, éclatant; radieux|o;o
+scoot|filer, se dépêcher; se glisser (sur un siège)|v;v
+spar|s'entraîner à la boxe; se chamailler amicalement; espar (mât, vergue)|v;v;o
+trot|trotter; trot; on the trot: d'affilée|v;o;n
+tumultuous|tumultueux, agité; confus, mouvementé|o;o
+lazily|paresseusement, nonchalamment|o
+oni|oni (démon, ogre japonais)|o
+plump|dodu, potelé; plump for: opter pour|o;n
+seep|suinter, s'infiltrer|v
+admirable|admirable|o
+boldly|hardiment, avec audace|o
+contrive|parvenir à, s'arranger pour; manigancer, combiner|v;v
+dismount|descendre (de cheval, de vélo)|v
+dissipate|se dissiper, disperser; gaspiller|v;v
+gratefully|avec gratitude|o
+knit|tricoter; froncer (les sourcils)|v;v
+oppress|opprimer; accabler, oppresser|v;v
+sideways|de côté, latéralement|v
+tiptoe|marcher sur la pointe des pieds; on tiptoe: sur la pointe des pieds|v;n
+warlock|sorcier|o
+arcade|galerie marchande; salle de jeux d'arcade|o;o
+bellow|beugler, hurler|v
+deafen|rendre sourd; assourdir|v;v
+fumble|manipuler maladroitement; fouiller, tâtonner|v;v
+hoist|hisser; palan|v;o
+labyrinth|labyrinthe|o
+lifeless|sans vie, inanimé; sans énergie, terne|o;o
+upbringing|éducation (reçue dans l'enfance)|o
+crave|avoir très envie de|v
+dangle|pendre, pendiller; faire miroiter|v;v
+displeasure|mécontentement|o
+dissatisfied|insatisfait, mécontent|o
+faceless|sans visage, anonyme|o
+gust|rafale|o
+inexplicable|inexplicable|o
+majestic|majestueux|o
+overjoyed|fou de joie|o
+overpower|maîtriser, vaincre par la force; accabler, submerger|v;v
+postgraduate|étudiant de troisième cycle; de troisième cycle|o;o
+prefect|élève chargé de responsabilités (école); préfet (France, Rome antique)|o;o
+resolute|résolu, déterminé|o
+shawl|châle|o
+striker|attaquant (football); gréviste|o;o
+toga|toge|o
+tracing|calque; tracing, participe présent de trace|o;o
+communiqué|communiqué|o
+coolness|calme, sang-froid; froideur; fraîcheur|o;o;o
+frantic|affolé, frénétique|o
+incense|encens; mettre en rage|o;v
+resound|résonner, retentir|v
+unbutton|déboutonner|v
+vindicate|donner raison à; disculper, innocenter|v;v
+affectionately|affectueusement|o
+braid|tresser, natter; tresse, natte; galon|v;o;o
+edifice|édifice; édifice (de croyances)|o;o
+entangle|emmêler, empêtrer|v
+goblet|coupe, verre à pied|o
+hasty|hâtif, irréfléchi|o
+intensely|intensément, extrêmement|o
+lass|jeune fille|o
+rejoice|se réjouir|v
+sou|sou (ancienne pièce française); not a sou: pas un sou|o;n
+bristle|poil raide, soie; se hérisser, se braquer; bristle with: fourmiller de|o;v;n
+fro|to and fro: de long en large, dans un sens puis dans l'autre|n
+irresistible|irrésistible|o
+luxurious|luxueux|o
+softening|adoucissement, ramollissement; softening, participe présent de soften|o;o
+sombre|sombre, morne; grave, sérieux|o;o
+trance|transe|o
+yeoman|petit propriétaire terrien; garde, serviteur|o;o
+brainstorm|faire un remue-méninges; idée soudaine|v;o
+fester|s'infecter; s'envenimer (rancœur)|v;v
+feverish|fiévreux; fébrile, agité|o;o
+furnace|fourneau, fournaise|o
+landlady|propriétaire, logeuse|o
+misty|brumeux; embué (yeux)|o;o
+obedient|obéissant|o
+penalize|pénaliser, sanctionner; désavantager|v;v
+pique|dépit; piquer, éveiller (l'intérêt, la curiosité)|o;v
+vanquish|vaincre|v
+activation|activation, mise en marche|o
+backbone|colonne vertébrale; pilier, soutien principal; cran, courage|o;o;o
+baffle|déconcerter, laisser perplexe|v
+bonnet|bonnet, capote (nouée sous le menton); capot (UK)|o;o
+cabaret|cabaret|o
+enrage|rendre furieux|v
+firewood|bois de chauffage|o
+fume|fulminer, rager; fumes: fumées, émanations|v;n
+inscribe|inscrire, graver|v
+interpose|interposer; intervenir, glisser (une remarque)|v;v
+junta|junte|o
+momentary|momentané, bref|o
+natured|au caractère de tel type (good-natured, ill-natured)|o
+oar|rame, aviron|o
+oddly|bizarrement, étrangement|o
+orchard|verger|o
+reverberate|résonner, se répercuter; avoir des répercussions|v;v
+ridicule|moquerie, ridicule; ridiculiser, se moquer de|o;v
+rummage|fouiller|v
+scorch|roussir, brûler en surface|v
+thence|de là; par conséquent|o;o
+timidly|timidement|o
+whisker|moustache (d'un animal); whiskers: favoris; by a whisker: de justesse|o;n;n
+yearning|désir ardent, nostalgie; yearning, participe présent de yearn|o;o
+beset|assaillir (beset by problems)|v
+conjecture|conjecture, supposition; conjecturer, supposer|o;v
+epiphany|révélation soudaine; Épiphanie (6 janvier)|o;o
+excerpt|extrait|o
+flux|changement perpétuel|o
+galley|cuisine (d'un navire); galère|o;o
+hither|ici; hither and thither: çà et là|v;n
+jag|pointe, aspérité; crise de (a crying jag)|o;o
+mesmerize|fasciner, hypnotiser|v
+porridge|porridge, bouillie d'avoine|o
+reframe|reformuler, voir sous un autre angle|v
+sorceress|sorcière, magicienne|o
+abdomen|abdomen, ventre|o
+eccentric|excentrique, original; excentrique (personne)|o;o
+hem|ourlet; hem in: encercler, restreindre|o;n
+panacea|panacée|o
+reorganize|réorganiser|v
+replay|rejouer, repasser; rediffusion, ralenti|v;o
+seriousness|sérieux, gravité|o
+shroud|linceul; envelopper, voiler|o;v
+talon|serre (d'un rapace)|o
+viceroy|vice-roi|o
+weariness|lassitude, fatigue|o
+attentive|attentif; prévenant, attentionné|o;o
+attractiveness|attrait, charme|o
+canteen|cantine; gourde|o;o
+capitalization|emploi des majuscules; capitalisation boursière|o;o
+carelessly|négligemment, sans soin|o
+commune|communauté; communier (commune with nature)|o;v
+disseminate|diffuser, répandre|v
+flagship|fleuron, produit phare; vaisseau amiral|o;o
+garde|avant-garde: d'avant-garde, expérimental|n
+macroeconomics|macroéconomie|o
+merrily|gaiement|o
+novella|court roman, nouvelle|o
+proclamation|proclamation|o
+purposely|exprès, délibérément|o
+reconnect|reconnecter, renouer|v
+repudiate|rejeter, désavouer|v
+rigidity|raideur, rigidité; inflexibilité|o;o
+standpoint|point de vue|o
+startup|start-up, jeune entreprise|o
+stubbornly|obstinément|o
+unmarried|célibataire|o
+wiggle|se tortiller, remuer|v
+adolescence|adolescence|o
+amygdala|amygdale (cérébrale)|o
+assertiveness|assurance, affirmation de soi|o
+braille|braille|o
+curator|conservateur (de musée, de collection)|o
+deflect|détourner, dévier|v
+desolate|désolé, lugubre; malheureux, esseulé|o;o
+developmental|du développement, de la croissance|o
+dune|dune|o
+estimation|jugement, opinion; estimation|o;o
+ethos|éthique, valeurs (d'un groupe)|o
+exclamation|exclamation|o
+fidget|gigoter, ne pas tenir en place|v
+fragrant|parfumé, odorant|o
+freshen|rafraîchir; freshen up: faire un brin de toilette|v;n
+frock|robe|o
+habitable|habitable|o
+influenza|grippe|o
+intentionally|intentionnellement, exprès|o
+litre|litre|o
+modesty|modestie; pudeur|o;o
+ointment|pommade|o
+olé|olé !, bravo !|o
+pendant|pendentif|o
+redden|rougir, devenir rouge; rougir (de honte, de gêne)|v;v
+repressor|répresseur (protéine qui bloque un gène)|o
+residency|résidence, séjour; internat (médecine), résidence d'artiste|o;o
+retrospective|rétrospectif; rétrospective (exposition)|o;o
+rhetorical|rhétorique, oratoire; rhetorical question: question rhétorique|o;n
+satin|satin|o
+saxophone|saxophone|o
+shrill|strident, perçant|o
+sprinkle|saupoudrer, asperger|v
+stillness|calme, silence, immobilité|o
+sulk|bouder|v
+sweetness|douceur|o
+toddler|tout-petit, bambin|o
+transformational|transformateur, porteur de grands changements|o
+troupe|troupe|o
+turbine|turbine|o
+validity|validité, bien-fondé|o
+whirlwind|tourbillon; éclair, fulgurant (a whirlwind romance)|o;o
+acronym|sigle, acronyme (NATO)|o
+appeasement|apaisement, politique de conciliation|o
+biographer|biographe|o
+bloat|gonfler, enfler|v
+captivity|captivité|o
+carefree|insouciant|o
+ceremonial|cérémoniel, solennel|o
+contraception|contraception|o
+defunct|disparu, hors d'usage|o
+disagreeable|désagréable; désagréable, grincheux|o;o
+doubtful|incertain, dubitatif; douteux, peu probable|o;o
+excavate|déterrer, fouiller, creuser|v
+excursion|excursion|o
+extradition|extradition|o
+factual|factuel|o
+fend|fend off: repousser, parer; fend for oneself: se débrouiller seul|n;n
+freight|fret, marchandises|o
+frontline|ligne de front; en première ligne (frontline workers)|o;o
+geostrategic|géostratégique|o
+glut|surabondance, excédent|o
+homegrown|local, du cru|o
+incorrect|incorrect, faux|o
+indignant|indigné|o
+intellect|intelligence, intellect|o
+isolationist|isolationniste|o
+memorable|mémorable|o
+midterm|mi-mandat, mi-trimestre; élections de mi-mandat (US)|o;o
+misinformation|désinformation|o
+monsoon|saison des pluies (Asie du Sud); mousson|o;o
+mound|butte, monticule; tas|o;o
+muzzle|museau; muselière; bouche (d'un canon)|o;o;o
+overcapacity|surcapacité|o
+overshadow|éclipser, reléguer au second plan; assombrir|v;v
+parental|parental|o
+prominently|bien en vue; de façon marquante|o;o
+recursively|récursivement|o
+refreshment|rafraîchissements; délassement, reprise des forces|o;o
+renegotiation|renégociation|o
+retrain|se reconvertir, recycler|v
+therapeutic|thérapeutique; apaisant, bienfaisant|o;o
+trafficker|trafiquant|o
+unseen|invisible, caché|o
+valour|bravoure|o
+warhead|ogive|o
+wasteful|gaspilleur|o
+watchman|gardien, veilleur de nuit|o
+windfall|aubaine, manne; fruit tombé (abattu par le vent)|o;o
+yeast|levure|o
+beatboxing|beatbox|o
+broccoli|brocoli|o
+coexistence|coexistence|o
+defilade|défilement (protection par le terrain)|o
+disparate|disparate, sans rapport|o
+eel|anguille|o
+ethereal|éthéré, céleste, irréel|o
+fingertip|bout du doigt|o
+formulation|formulation, élaboration (d'un plan, d'une théorie); formule, composition (d'un médicament)|o;o
+humane|humain, compatissant|o
+intentional|intentionnel, délibéré|o
+lightbulb|ampoule|o
+luminous|lumineux, phosphorescent|o
+malice|malveillance|o
+maxim|maxime|o
+measurable|mesurable; sensible, notable|o;o
+moist|humide, moite|o
+mythical|mythique; imaginaire|o;o
+nicotine|nicotine|o
+packaging|emballage|o
+regenerative|régénérateur|o
+toil|trimer, peiner; labeur|v;o
+unimaginable|inimaginable|o
+unreal|irréel; incroyable (fam.)|o;o
+warship|navire de guerre|o
+youthful|jeune; juvénile, plein de jeunesse|o;o
+altruism|altruisme|o
+anamorph|anamorphose|o
+anesthesia|anesthésie|o
+attainment|réalisation, réussite|o
+bilingual|bilingue|o
+canoe|canoë|o
+coastline|littoral, côte|o
+comedic|comique|o
+commemoration|commémoration|o
+coolly|calmement; froidement|o;o
+detach|détacher, séparer|v
+dignify|honorer, donner de l'importance à|v
+dribble|baver; dégouliner; dribbler|v;v;v
+egregious|énorme, flagrant|o
+entreaty|supplication, prière|o
+fashionable|à la mode, chic|o
+feral|sauvage, retourné à l'état sauvage|o
+graphical|graphique|o
+gush|jaillir; s'extasier, s'emballer|v;v
+homage|hommage|o
+homophobia|homophobie|o
+interchange|échange; échangeur (routier)|o;o
+intuitively|intuitivement|o
+millet|millet, mil|o
+mouthful|bouchée; mot à rallonge|o;o
+narrowing|rétrécissement; narrowing, participe présent de narrow|o;o
+northward|vers le nord|o
+notification|notification, avis|o
+pest|nuisible, parasite; casse-pieds|o;o
+puberty|puberté|o
+pulp|pulpe, bouillie; romans de gare|o;o
+radicalization|radicalisation|o
+recreation|loisirs, détente|o
+residual|résiduel, restant|o
+staunch|loyal, inébranlable; étancher (le sang)|o;v
+technologist|technologue|o
+triad|triade; triade (mafia chinoise)|o;o
+uncommon|rare, peu commun|o
+unnatural|anormal, contre nature; artificiel, affecté|o;o
+vagabond|vagabond|o
+wag|remuer (la queue); plaisantin|v;o
+whichever|celui qui, n'importe lequel; quel que soit|o;o
+woefully|lamentablement (woefully inadequate)|o
+wormhole|trou de ver (espace-temps); trou de ver (fait par un ver)|o;o
+zinc|zinc|o
+accelerator|accélérateur (pédale); accélérateur de particules|o;o
+adhesive|adhésif, colle; adhésif, collant|o;o
+ameliorate|améliorer|v
+analogous|analogue, comparable|o
+appliance|appareil ménager (frigo, grille-pain)|o
+astound|stupéfier|v
+beehive|ruche|o
+biosphere|biosphère|o
+bowler|lanceur (cricket); bowler hat: chapeau melon|o;n
+changer|ce qui change quelque chose (game changer)|o
+cheesy|ringard, à l'eau de rose; au fromage|o;o
+childbirth|accouchement|o
+choreography|chorégraphie|o
+climber|grimpeur, alpiniste; plante grimpante|o;o
+coating|couche, revêtement|o
+conserve|préserver, économiser; confiture|v;o
+cultivation|culture (des terres); entretien, développement (d'une compétence, d'une amitié)|o;o
+cynicism|cynisme|o
+existent|existant|o
+giver|donateur, personne qui donne|o
+interbank|interbancaire|o
+intro|intro (fam.)|o
+loyalist|loyaliste|o
+monetize|monétiser, rentabiliser|v
+orb|sphère, globe; globe impérial (orné de joyaux)|o;o
+outstretch|tendre, étendre (surtout outstretched arms)|v
+ozone|ozone; ozone layer: couche d'ozone|o;n
+photosynthesis|photosynthèse|o
+ramen|ramen (soupe de nouilles japonaise)|o
+reactionary|réactionnaire|o
+realist|réaliste, personne pragmatique; réaliste (artiste, écrivain)|o;o
+reissue|rééditer; réédition|v;o
+resonance|résonance; portée, force émotionnelle|o;o
+resurrection|résurrection; renouveau, renaissance|o;o
+sapiens|Homo sapiens: espèce humaine moderne|n
+scolding|réprimande, savon; scolding, participe présent de scold|o;o
+smoker|fumeur|o
+squarely|carrément, en plein; entièrement|o;o
+stymie|entraver, bloquer|v
+telomere|télomère|o
+unanimous|unanime|o
+undocumented|non documenté; sans papiers|o;o
+attendee|participant|o
+backer|soutien, bailleur de fonds|o
+blurry|flou|o
+classify|classer, classifier|v
+demographics|données démographiques|o
+devotee|fervent adepte, passionné|o
+discrepancy|écart, divergence|o
+dormitory|dortoir; résidence universitaire (US)|o;o
+downplay|minimiser|v
+enclosure|enclos; pièce jointe (à une lettre)|o;o
+endpoint|point final, aboutissement; terminal (d'un réseau)|o;o
+executioner|bourreau|o
+haughty|hautain, arrogant|o
+helper|aide, assistant|o
+inconvenient|gênant, malcommode|o
+knave|fripon, coquin; valet (cartes)|o;o
+laborer|manœuvre, ouvrier|o
+launcher|lanceur (fusées); lanceur (d'applications)|o;o
+legation|légation|o
+metallic|métallique|o
+miniature|minuscule, miniature; miniature (copie, peinture)|o;o
+plentiful|abondant|o
+procurator|mandataire; procurateur (Rome antique)|o;o
+recruitment|recrutement|o
+reliably|de façon fiable|o
+satisfactory|satisfaisant|o
+serotonin|sérotonine|o
+subdivision|subdivision; lotissement|o;o
+tumult|tumulte, vacarme|o
+undemocratic|antidémocratique|o
+unnoticed|inaperçu|o
+valet|valet de chambre; voiturier|o;o
+vegetation|végétation|o
+webpage|page web|o
+wring|tordre, essorer; wring one's hands: se tordre les mains (de désespoir)|v;n
+ail|affliger, rendre malade|v
+allege|prétendre, alléguer|v
+ancestral|ancestral|o
+antidepressant|antidépresseur|o
+auditorium|auditorium, salle|o
+bacterium|bactérie|o
+bewilderment|perplexité, désarroi|o
+blatant|flagrant, éhonté|o
+bribery|corruption|o
+budge|bouger légèrement; céder, changer d'avis|v;v
+citadel|citadelle|o
+coercive|coercitif|o
+coil|boucle, spirale; enrouler|o;v
+coordinator|coordinateur|o
+deficient|déficient, insuffisant|o
+dissatisfaction|insatisfaction, mécontentement|o
+divergent|divergent|o
+etcetera|et cetera, et ainsi de suite|o
+fore|to the fore: au premier plan; avant, devant|n;o
+fortification|fortification; renforcement|o;o
+gala|gala|o
+garland|guirlande, couronne de fleurs|o
+grub|bouffe (fam.); larve|o;o
+holdout|récalcitrant, irréductible|o
+immoral|immoral|o
+impersonate|se faire passer pour, imiter|v
+interwar|de l'entre-deux-guerres|o
+jeopardy|danger, péril (in jeopardy)|o
+knowhow|savoir-faire|o
+languish|languir, croupir; dépérir|v;v
+lavish|généreux, somptueux; prodiguer|o;v
+legality|légalité|o
+librarian|bibliothécaire|o
+magnify|grossir, agrandir|v
+malicious|malveillant|o
+mammoth|gigantesque; mammouth|o;o
+miscalculation|erreur de calcul, mauvais calcul|o
+mycelium|mycélium|o
+ohhh|ohhh ! (prise de conscience, surprise)|o
+pane|vitre, carreau|o
+parliamentarian|parlementaire|o
+progression|progression|o
+promoter|organisateur (d'événements); promoteur, défenseur (d'une idée)|o;o
+quip|bon mot, trait d'esprit; plaisanter|o;v
+recurrent|récurrent|o
+segregate|séparer, ségréguer|v
+sentry|sentinelle|o
+shipyard|chantier naval|o
+spontaneously|spontanément|o
+stewardship|gestion, intendance|o
+suffragette|suffragette|o
+tycoon|magnat|o
+unreliable|peu fiable|o
+victorious|victorieux|o
+weighing|weighing, participe présent de weigh|o
+airstrike|frappe aérienne|o
+applicable|applicable, pertinent|o
+attributable|attribuable, imputable|o
+bandwidth|bande passante; disponibilité, capacité mentale (fam.)|o;o
+besiege|assiéger; assaillir (de demandes)|v;v
+blight|maladie des plantes, rouille; fléau|o;o
+cavity|cavité; carie|o;o
+diffuse|diffuser, se répandre; diffus|v;o
+digitally|numériquement|o
+divinity|divinité, caractère divin; une divinité; théologie|o;o;o
+domino|domino; domino effect: effet domino|o;n
+enthusiastically|avec enthousiasme|o
+equate|assimiler, mettre sur le même plan|v
+femme|femme fatale: femme fatale|n
+feud|querelle, vendetta|o
+grader|correcteur; élève de telle classe (fifth grader)|o;o
+greasy|graisseux, gras|o
+hearty|chaleureux, enthousiaste; copieux (repas)|o;o
+inflame|attiser, enflammer; enflammer (irriter)|v;v
+insignificant|insignifiant|o
+internship|stage|o
+invaluable|inestimable, précieux|o
+latch|loquet; latch onto: s'accrocher à, saisir|o;n
+loosening|loosening, participe présent de loosen|o
+mag|magazine (fam.)|o
+mutualization|mutualisation|o
+odour|odeur|o
+overload|surcharger; surcharge, excès|v;o
+pollutant|polluant|o
+pristine|immaculé, intact|o
+provocative|provocateur; provocant, suggestif|o;o
+reestablish|rétablir|v
+reflective|réfléchi, pensif; réfléchissant|o;o
+revel|se délecter (revel in); faire la fête|v;v
+reverence|vénération, profond respect|o
+rugged|accidenté, rocailleux; aux traits marqués, robuste|o;o
+scalable|évolutif, extensible|o
+skiff|esquif|o
+suicidal|suicidaire; suicidaire, très dangereux|o;o
+taker|preneur, amateur (risk-taker; any takers?)|o
+tar|goudron|o
+timetable|horaire, emploi du temps|o
+tranquility|tranquillité, calme|o
+treacherous|traître, déloyal; dangereux, traître|o;o
+uncomfortably|inconfortablement, mal à l'aise|o
+uplift|élever, remonter le moral; amélioration, regain de moral|v;o
+vie|rivaliser (vie for)|v
+wasp|guêpe|o
+anyplace|n'importe où|o
+bashing|dénigrement, lynchage médiatique; bashing, participe présent de bash|o;o
+bridle|bride; se rebiffer, se hérisser|o;v
+cello|violoncelle|o
+cerebral|intellectuel; cérébral|o;o
+circumstantial|indirect, circonstanciel (circumstantial evidence)|o
+clockwise|dans le sens des aiguilles d'une montre|o
+credibly|de façon crédible|o
+cyclone|cyclone|o
+dearth|pénurie, manque|o
+denomination|confession, culte; valeur (d'une pièce, d'un billet)|o;o
+fertilize|féconder; fertiliser|v;v
+foil|papier aluminium, feuille de métal; déjouer, contrecarrer; faire-valoir|o;v;o
+graffito|graffiti (un seul)|o
+grope|tâtonner; tripoter, peloter|v;v
+grossly|grossièrement, extrêmement|o
+hermit|ermite|o
+homesick|qui a le mal du pays|o
+honeybee|abeille (domestique)|o
+illustrious|illustre|o
+implosion|implosion|o
+ingenious|ingénieux|o
+issuer|émetteur (d'actions, de cartes)|o
+jobless|sans emploi|o
+lapse|expirer, devenir caduc; retomber (dans); défaillance, trou|v;v;o
+literal|littéral, mot à mot|o
+millisecond|milliseconde|o
+mite|acarien; petit bout (enfant); a mite: un peu, légèrement|o;o;n
+monumental|monumental, colossal|o
+mundane|banal, terre à terre|o
+mythological|mythologique|o
+obstinate|obstiné, têtu|o
+ouster|éviction, destitution|o
+perceptual|perceptif|o
+pore|pore; pore over: étudier de près, se plonger dans|o;n
+pornographic|pornographique|o
+quatrain|quatrain|o
+rapidity|rapidité|o
+reassurance|réconfort, propos rassurants|o
+referee|arbitre; répondant (qui fournit des références)|o;o
+remarry|se remarier|v
+rim|bord, jante|o
+seminal|fondateur, très influent|o
+spectacularly|spectaculairement|o
+summation|résumé; addition, somme|o;o
+symmetrical|symétrique|o
+televise|téléviser|v
+tertiary|tertiaire; supérieur (enseignement)|o;o
+thirteenth|treizième|o
+tweak|ajuster, peaufiner; pincer en tordant|v;v
+unease|malaise, inquiétude|o
+unprepared|pas préparé|o
+unrelated|sans rapport|o
+validate|valider, confirmer; reconnaître (des sentiments)|v;v
+vomiting|vomissements; vomiting, participe présent de vomit|o;o
+washroom|toilettes|o
+westward|vers l'ouest|o
+whataboutism|whataboutisme, et-toi-isme|o
+workpiece|pièce à usiner|o
+abate|diminuer, s'apaiser|v
+appointee|personne nommée|o
+atheism|athéisme|o
+averse|opposé, réticent (averse to)|o
+bluntly|franchement, sans ménagement|o
+boredom|ennui|o
+bottleneck|goulot d'étranglement|o
+buildup|accumulation, montée progressive|o
+caliphate|califat|o
+communicable|transmissible (maladie)|o
+contingency|éventualité, imprévu; contingency plan: plan de secours|o;n
+convertibility|convertibilité (monnaie)|o
+coping|gestion des difficultés; coping, participe présent de cope|o;o
+counterweight|contrepoids|o
+diagnostics|diagnostic, tests de détection (panne, maladie)|o
+dispel|dissiper (craintes, doutes)|v
+encircle|encercler|v
+falsehood|mensonge; fausseté|o;o
+freshly|fraîchement, tout juste|o
+glitch|bug, petit problème|o
+ideologically|idéologiquement|o
+imperialist|impérialiste|o
+implicate|impliquer (dans un crime)|v
+inadvertently|par inadvertance|o
+intangible|intangible, immatériel|o
+interlocutor|interlocuteur|o
+keyhole|trou de serrure|o
+laissez|laissez-faire: laisser-faire|n
+logistical|logistique|o
+malign|calomnier, dénigrer; nuisible, malfaisant|v;o
+momentous|capital, historique|o
+oxide|oxyde|o
+paraphrase|paraphraser; paraphrase|v;o
+perilous|périlleux|o
+premia|premia, pluriel de premium|o
+questioner|questionneur, interrogateur|o
+raspberry|framboise; bruit moqueur fait avec la langue|o;o
+rebuke|réprimander; réprimande|v;o
+recapture|reprendre, recapturer; retrouver, faire revivre (un sentiment)|v;v
+relinquish|renoncer à, céder|v
+renege|revenir sur (une promesse)|v
+saith|dit (avec he, she, it)|f3s
+seductive|séduisant, séducteur|o
+seventeenth|dix-septième|o
+shortsighted|à courte vue, imprévoyant; myope|o;o
+showdown|confrontation finale|o
+signify|signifier, indiquer|v
+sixteenth|seizième|o
+sociologist|sociologue|o
+stellar|excellent, brillant; stellaire|o;o
+triumphant|triomphant|o
+undesirable|indésirable|o
+unjust|injuste|o
+unnecessarily|inutilement|o
+watermelon|pastèque|o
+agility|agilité|o
+antigen|antigène|o
+backseat|siège arrière; take a backseat: passer au second plan|o;n
+campfire|feu de camp|o
+caretaker|gardien, concierge, aide-soignant; intérimaire (caretaker government)|o;o
+cartilage|cartilage|o
+childcare|garde d'enfants|o
+cognition|cognition|o
+colonize|coloniser|v
+decentralization|décentralisation|o
+deprivation|privation, dénuement; épreuves, misère|o;o
+dilute|diluer|v
+dresser|commode; personne qui s'habille (a smart dresser)|o;o
+dumbass|abruti, crétin (fam., vulgaire)|o
+enhancement|amélioration|o
+evoke|évoquer|v
+exorbitant|exorbitant|o
+expanse|étendue|o
+extrovert|extraverti|o
+fluent|qui parle couramment, aisé|o
+forecaster|prévisionniste (météo)|o
+forsake|abandonner|v
+frigate|frégate|o
+hygiene|hygiène|o
+insignia|insigne, emblème|o
+lessen|diminuer, réduire|v
+mausoleum|mausolée|o
+navigator|navigateur (qui trace la route)|o
+oppressive|oppressif; lourd, étouffant|o;o
+parasitic|parasite, parasitaire|o
+persuasion|persuasion; conviction, confession|o;o
+pigment|pigment|o
+plotting|machinations, complots; plotting, participe présent de plot|o;o
+pogrom|pogrom|o
+predictive|prédictif|o
+rectangular|rectangulaire|o
+repentance|repentir|o
+repetitive|répétitif, monotone|o
+roil|agiter, troubler|v
+scruple|scrupule (surtout scruples)|o
+sharpen|aiguiser, tailler|v
+snapshot|instantané, photo; aperçu|o;o
+stabilizer|stabilisateur|o
+standstill|arrêt complet, point mort|o
+stupefy|stupéfier, abasourdir|v
+sturdy|robuste, solide|o
+subconsciously|inconsciemment|o
+subvert|saper, subvertir|v
+temporal|temporel; temporel, séculier|o;o
+topper|haut-de-forme; garniture, ce qui couronne|o;o
+unproductive|improductif|o
+vacancy|poste vacant; chambre libre|o;o
+visceral|viscéral|o
+wedge|cale, coin; coincer, caler|o;v
+yearly|annuel, chaque année|o
+anarchy|anarchie|o
+audacity|audace, culot|o
+axle|essieu|o
+bereaved|endeuillé|o
+biologically|biologiquement|o
+bipolar|bipolaire (à deux pôles); bipolaire (trouble)|o;o
+calibrate|calibrer, étalonner|v
+carbohydrate|glucide|o
+chiefly|principalement|o
+chopstick|baguette (pour manger)|o
+choreograph|chorégraphier; orchestrer, organiser soigneusement|v;v
+clergy|clergé|o
+coherence|cohérence|o
+confrontational|conflictuel, agressif|o
+dealings|relations, affaires|o
+demonize|diaboliser|v
+deposition|déposition (sous serment); destitution|o;o
+dogma|dogme|o
+expressive|expressif|o
+fig|figue|o
+foothill|contrefort|o
+goddamned|foutu, maudit (juron fort)|o
+godmother|marraine|o
+gorge|gorge (vallée); se goinfrer|o;v
+grad|diplômé (fam.)|o
+hijack|détourner (un véhicule, un avion); détourner à son profit|v;v
+holosuite|holosuite (salle de simulations holographiques, science-fiction)|o
+improvisation|improvisation|o
+infernal|infernal (de l'enfer); infernal, insupportable|o;o
+insurmountable|insurmontable|o
+internationalism|internationalisme|o
+intolerable|intolérable|o
+lawman|représentant de la loi, shérif|o
+lifeline|bouée, corde de sauvetage; bouée de sauvetage, soutien vital|o;o
+mechanically|mécaniquement; machinalement|o;o
+monastic|monastique|o
+nascent|naissant|o
+nationalization|nationalisation|o
+neoliberalism|néolibéralisme|o
+newsletter|lettre d'information|o
+nomad|nomade|o
+numerical|numérique, chiffré|o
+plural|pluriel|o
+posthumous|posthume|o
+posturing|poses, gesticulations; posturing, participe présent de posture|o;o
+preposterous|absurde, grotesque|o
+principally|principalement|o
+propulsion|propulsion|o
+prospective|futur, potentiel|o
+randomize|rendre aléatoire, randomiser|v
+realistically|de façon réaliste, en pratique; avec réalisme|o;o
+replica|réplique|o
+revisionist|révisionniste|o
+sectoral|sectoriel|o
+simulator|simulateur (flight simulator)|o
+socket|prise (électrique); cavité, orbite|o;o
+stairwell|cage d'escalier|o
+subspecies|sous-espèce|o
+symbolize|symboliser|v
+synonymous|synonyme; indissociable de|o;o
+tandem|in tandem: de concert, ensemble; tandem (vélo)|n;o
+thunderclap|coup de tonnerre|o
+unfavorable|défavorable|o
+wetness|humidité|o
+abusive|injurieux; violent, maltraitant|o;o
+adversely|défavorablement|o
+arbitration|arbitrage|o
+backstory|passé du personnage, genèse|o
+charisma|charisme|o
+commuter|navetteur, banlieusard|o
+complacent|trop sûr de soi, complaisant|o
+contemplation|contemplation, réflexion|o
+crores|crores, pluriel de crore (dix millions, en anglais indien)|o
+cruiser|croiseur; bateau de plaisance; voiture de police (US)|o;o;o
+deceit|tromperie, mensonge|o
+def|carrément, c'est sûr (fam.)|o
+deregulate|déréglementer|v
+dipshit|connard, abruti (fam., vulgaire)|o
+eater|mangeur|o
+epicenter|épicentre; épicentre, centre (d'activité)|o;o
+erection|érection; construction, édifice|o;o
+exalt|exalter, glorifier; élever (en rang)|v;v
+eyeglass|monocle; eyeglasses: lunettes (US)|o;n
+ferment|fermenter; agitation, effervescence|v;o
+filial|filial (filial duty)|o
+grating|grinçant, agaçant; grille|o;o
+grumpy|grincheux, ronchon|o
+hyperinflation|hyperinflation|o
+impartial|impartial|o
+incomprehensible|incompréhensible|o
+infighting|luttes internes|o
+instill|inculquer, instiller|v
+labium|lèvre (anatomie)|o
+methyl|méthyle|o
+monopolist|monopoliste|o
+narration|narration, récit; commentaire|o;o
+pounce|bondir (pour saisir)|v
+reassign|réaffecter|v
+reptile|reptile|o
+schoolgirl|écolière|o
+seethe|bouillir de rage; bouillonner, grouiller|v;v
+slur|insulte; mal articuler|o;v
+snuff|moucher (une bougie); tabac à priser; snuff out: étouffer, supprimer|v;o;n
+sooo|tellement, trop (insistant) (fam., = so)|o
+sorcerer|sorcier, magicien|o
+spacious|spacieux|o
+specialization|spécialisation|o
+speedily|rapidement|o
+spinster|vieille fille|o
+steadfast|constant, loyal|o
+subtree|sous-arbre (informatique)|o
+temperate|tempéré (climat); modéré, mesuré|o;o
+thaw|fondre, dégeler; se dégeler, se détendre|v;v
+unworthy|indigne|o
+urn|urne (funéraire); fontaine à thé ou à café|o;o
+weirdly|bizarrement|o
+yearn|aspirer à, languir de|v
+abominable|abominable|o
+adoptive|adoptif (adoptive parents)|o
+anterior|antérieur|o
+antics|pitreries, bouffonneries|o
+apiece|chacun, la pièce|o
+aquatic|aquatique|o
+armament|armement; armement (préparation à la guerre)|o;o
+auditory|auditif|o
+bleat|bêler; geindre, se plaindre mollement|v;v
+booster|stimulant, coup de pouce; rappel (de vaccin)|o;o
+brig|brick (voilier à deux mâts); prison (d'un navire)|o;o
+characterise|caractériser, décrire; caractériser, être typique de|v;v
+classifier|classificateur|o
+commemorative|commémoratif|o
+compost|compost|o
+cycling|cyclisme, vélo; cycling, participe présent de cycle|o;o
+dispense|distribuer; dispense with: se passer de|v;n
+dozy|somnolent; idiot, empoté (fam.)|o;o
+egalitarian|égalitaire|o
+eggbeater|batteur à œufs, fouet|o
+ellipse|ellipse, ovale|o
+embroidery|broderie|o
+eunuch|eunuque|o
+finalize|finaliser|v
+guarantor|garant|o
+harmonization|harmonisation|o
+hearth|âtre; foyer|o;o
+hurrah|hourra|o
+imitation|imitation, copie; contrefaçon, faux|o;o
+inconceivable|inconcevable|o
+inexpensive|bon marché, pas cher|o
+informally|de façon informelle, officieusement|o
+internalize|intérioriser, assimiler|v
+invert|inverser, retourner|v
+lingerie|lingerie|o
+milligram|milligramme|o
+misconception|idée fausse|o
+neocortex|néocortex|o
+nestle|se nicher, se blottir|v
+nobleman|noble, aristocrate|o
+orthogonal|orthogonal, à angle droit; indépendant, sans rapport|o;o
+perennial|éternel, perpétuel; plante vivace|o;o
+phage|phage, bactériophage|o
+pleasantly|agréablement|o
+ponytail|queue de cheval|o
+porcelain|porcelaine|o
+principled|qui a des principes|o
+prowess|prouesse, talent|o
+resurgent|renaissant, en plein renouveau|o
+retract|retirer, se rétracter (sur une déclaration); rentrer, escamoter|v;v
+rodent|rongeur|o
+seafood|fruits de mer, produits de la mer|o
+silhouette|silhouette|o
+sling|lancer; écharpe (pour le bras); fronde|v;o;o
+softness|douceur|o
+supplant|supplanter, remplacer|v
+sus|louche, suspect (fam.)|o
+synchronize|synchroniser|v
+synthesizer|synthétiseur|o
+thicket|fourré, taillis|o
+trout|truite|o
+turnover|rotation (du personnel); chiffre d'affaires; chausson (pâtisserie)|o;o;o
+unintelligible|inintelligible|o
+unman|faire perdre courage à|v
+uproar|tumulte, tollé|o
+upswing|reprise, hausse|o
+wildcat|chat sauvage; wildcat strike: grève sauvage|o;n
+wiring|câblage, installation électrique|o
+wobble|vaciller, branler|v
+abnormal|anormal|o
+adherent|adepte, partisan|o
+advert|pub, publicité|o
+alienation|aliénation, sentiment d'isolement; éloignement, brouille|o;o
+amass|amasser, accumuler|v
+amphitheatre|amphithéâtre|o
+balk|hésiter, rechigner (balk at)|v
+barren|stérile, aride|o
+bicker|se chamailler|v
+bladder|vessie|o
+blather|débiter des sornettes|v
+camaraderie|camaraderie|o
+chestnut|châtaigne, marron; châtain, auburn; old chestnut: vieille rengaine, histoire rebattue|o;o;n
+cholesterol|cholestérol|o
+cohesive|soudé, cohérent|o
+commensurate|proportionné à|o
+confluence|confluent; convergence, rencontre|o;o
+countryman|compatriote; campagnard|o;o
+creditworthiness|solvabilité|o
+criminalize|criminaliser|v
+cumbersome|encombrant, lourd|o
+deliverance|délivrance|o
+dislocation|luxation; bouleversement, perturbation|o;o
+eco|éco-, écologique (eco-friendly)|o
+expressionist|expressionniste|o
+fanatic|fanatique|o
+firefighter|pompier|o
+fluctuate|fluctuer|v
+fortify|fortifier, renforcer|v
+freelance|indépendant, free-lance|o
+gallows|potence, gibet|o
+genomics|génomique|o
+grassland|prairie, herbage|o
+haze|brume; confusion, brouillard|o;o
+hedgehog|hérisson|o
+holistic|holistique, global|o
+horrid|horrible, méchant|o
+horseman|cavalier|o
+illiquid|illiquide, peu liquide|o
+incipient|naissant|o
+infer|déduire|v
+intrinsic|intrinsèque|o
+leukemia|leucémie|o
+marginalization|marginalisation|o
+melodic|mélodieux|o
+mindful|attentif, conscient|o
+nourish|nourrir|v
+nucleotide|nucléotide|o
+pancreatic|pancréatique|o
+persuasive|convaincant, persuasif|o
+pouch|pochette, petit sac; poche ventrale (kangourou)|o;o
+relegate|reléguer, rétrograder|v
+resumption|reprise|o
+revamp|rénover, remanier|v
+salient|saillant, marquant|o
+schoolchild|écolier|o
+segregation|ségrégation|o
+sickly|maladif; écœurant (trop sucré)|o;o
+speedy|rapide|o
+subsistence|subsistance|o
+sustainably|durablement|o
+tantamount|équivalent (tantamount to)|o
+tapir|tapir|o
+thirdly|troisièmement|o
+tinker|bricoler, retoucher; rétameur ambulant|v;o
+unwind|se détendre; dérouler|v;v
+uterine|utérin|o
+ventricle|ventricule (du cœur); ventricule (cérébral)|o;o
+vexation|contrariété, agacement|o
+watchdog|chien de garde; organisme de contrôle|o;o
+workable|réalisable, viable|o
+wrongly|à tort, par erreur; injustement|o;o
+abode|demeure|o
+acquiesce|acquiescer, se plier à|v
+agora|agora|o
+authorization|autorisation|o
+breech|culasse; breech birth: accouchement par le siège|o;n
+carving|sculpture (objet sculpté); découpe (de la viande cuite)|o;o
+chronically|chroniquement|o
+clinician|clinicien, soignant|o
+coexist|coexister|v
+confound|déconcerter, dérouter; démentir|v;v
+convex|convexe|o
+counterintuitive|contre-intuitif|o
+decidedly|résolument, nettement|o
+decimate|décimer|v
+disarm|désarmer; désarmer, charmer|v;v
+empathize|compatir, ressentir de l'empathie|v
+enthusiast|passionné, amateur|o
+equator|équateur|o
+fixate|faire une fixation (sur)|v
+goldfish|poisson rouge|o
+gon|(dans gonna) aller (futur proche) (fam.)|o
+handler|dresseur, maître-chien; conseiller, manager|o;o
+industrialist|industriel|o
+intrusive|envahissant, indiscret|o
+juggle|jongler; jongler (entre plusieurs tâches)|v;v
+kimono|kimono|o
+lotta|plein de, beaucoup de (fam.)|o
+lullaby|berceuse|o
+mangrove|palétuvier, mangrove|o
+marmot|marmotte|o
+measle|(dans measles) rougeole|o
+mediocre|médiocre|o
+mod|mod, modification (d'un jeu, d'un appareil) (fam.); modérateur (d'un forum) (fam.); mod (style de la jeunesse britannique des années 1960)|o;o;o
+moisture|humidité|o
+multimedia|multimédia|o
+nanometer|nanomètre|o
+needy|nécessiteux; en demande d'attention, collant|o;o
+neon|néon; fluo (couleurs)|o;o
+outskirts|périphérie, abords|o
+pederast|pédéraste|o
+prehistoric|préhistorique|o
+propagation|propagation, transmission; multiplication (des plantes)|o;o
+propensity|propension, tendance|o
+proverb|proverbe|o
+rearrange|réorganiser, réarranger|v
+rebellious|rebelle|o
+rediscover|redécouvrir|v
+restorative|réparateur, fortifiant|o
+scattering|poignée, quelques-uns (éparpillés); dispersion|o;o
+scythe|faux|o
+sorely|cruellement, grandement|o
+tic|tic (nerveux); manie|o;o
+transactional|transactionnel; purement intéressé, donnant-donnant|o;o
+trustworthy|digne de confiance|o
+unwise|imprudent, peu judicieux|o
+alteration|changement, modification; retouche (vêtement)|o;o
+antisemitic|antisémite|o
+arbitrarily|arbitrairement|o
+bah|bah ! (mépris, impatience)|o
+baritone|baryton|o
+bastion|bastion|o
+birthplace|lieu de naissance|o
+blaxploitation|blaxploitation (films des années 1970 avec des acteurs noirs, pour un public noir)|o
+chlorine|chlore|o
+cleavage|décolleté; clivage, division|o;o
+combustion|combustion|o
+considerate|prévenant, attentionné|o
+contraceptive|contraceptif; contraceptif (pilule, dispositif)|o;o
+cyanide|cyanure|o
+detainee|détenu|o
+dialog|dialogue; boîte de dialogue (informatique)|o;o
+disapprove|désapprouver|v
+disengagement|désengagement|o
+disobedience|désobéissance|o
+ecocide|écocide|o
+elastic|élastique (extensible); élastique (bande, tissu)|o;o
+eminent|éminent|o
+epoch|époque, ère|o
+etymology|étymologie|o
+fern|fougère|o
+flout|bafouer, enfreindre ouvertement|v
+foment|fomenter|v
+fowl|volaille|o
+gaiety|gaieté|o
+handout|aumône, don; polycopié, document distribué|o;o
+hardcore|extrême, intense; pur et dur; hard, pornographique|o;o;o
+husky|rauque (voix); husky (chien de traîneau); costaud|o;o;o
+imperil|mettre en péril|v
+internationalization|internationalisation; internationalisation (d'un logiciel)|o;o
+intestine|intestin|o
+invalid|non valide, invalide; invalide, infirme|o;o
+lightweight|léger; poids plume, personne sans envergure|o;o
+loathe|détester, avoir en horreur|v
+managerial|managérial, de gestion|o
+masculinity|masculinité|o
+midway|à mi-chemin|o
+mixer|mixeur, batteur; soda (pour cocktail); soirée de rencontre|o;o;o
+mol|mole (unité de quantité de matière)|o
+munition|munitions (surtout munitions)|o
+mystical|mystique|o
+outnumber|être plus nombreux que|v
+outpost|avant-poste|o
+pendulum|pendule, balancier|o
+persecute|persécuter|v
+pitfall|piège, écueil|o
+playlist|playlist, liste de lecture|o
+posse|détachement (réuni par un shérif); bande de potes (fam.)|o;o
+sayonara|sayonara, au revoir (fam.)|o
+sham|imposture, simulacre|o
+slab|dalle, bloc, tranche épaisse (pierre, viande)|o
+sleek|lisse et brillant; élégant, profilé|o;o
+smut|obscénités; flocon de suie|o;o
+soybean|soja, graine de soja|o
+stepfather|beau-père (mari de la mère)|o
+teary|larmoyant, au bord des larmes|o
+theologian|théologien|o
+variously|diversement|o
+vineyard|vignoble|o
+watcher|observateur|o
+waterway|voie navigable|o
+wrestler|lutteur, catcheur|o
+aaagh|aaah ! (cri de douleur, de peur, de frustration)|o
+acknowledgment|reconnaissance, aveu; remerciements (dans un livre)|o;o
+animosity|animosité|o
+ante|mise (avant la donne); up the ante: faire monter les enchères|o;n
+appendix|annexe, appendice (d'un livre); appendice (intestin)|o;o
+blacksmith|forgeron|o
+boulder|rocher|o
+boundless|illimité, sans bornes|o
+brawl|bagarre, rixe; se bagarrer|o;v
+carnage|carnage|o
+caviar|caviar|o
+centric|centré sur (surtout en composés)|o
+chauvinism|chauvinisme, machisme|o
+climax|point culminant, apogée; orgasme|o;o
+coitus|coït|o
+coupla|deux ou trois, quelques (fam.)|o
+cozzers|flics (fam.)|o
+customize|personnaliser|v
+decry|condamner publiquement, décrier|v
+deletion|suppression, effacement|o
+destabilization|déstabilisation|o
+earthly|terrestre, de la vie ici-bas; no earthly: aucun … concevable|o;n
+electro|musique électronique de danse|o
+eligibility|fait de remplir les conditions requises, admissibilité|o
+emergent|naissant, en développement|o
+enchanter|enchanteur, magicien|o
+epidemiology|étude de la propagation des maladies|o
+favourable|approbateur; avantageux|o;o
+fook|putain (fam., = fuck)|o
+forearm|avant-bras|o
+frenzy|frénésie, agitation incontrôlée|o
+gamers|joueurs de jeux vidéo, pluriel de gamer|o
+harmonious|paisible, en accord; mélodieux|o;o
+headphone|écouteur (surtout au pluriel : casque)|o
+heartbroken|au cœur brisé, très triste|o
+hostel|auberge de jeunesse, hébergement bon marché partagé|o
+immortality|immortalité, vie éternelle; gloire durable|o;o
+incidentally|au fait, soit dit en passant|o
+inconsistency|incohérence, contradiction|o
+initiation|admission dans un groupe; commencement|o;o
+internment|internement, détention sans procès|o
+interventionist|interventionniste (dans l'économie ou à l'étranger)|o
+jurist|juriste|o
+lipid|lipide, graisse ou huile (biologie)|o
+mercantilist|mercantiliste, favorable aux excédents commerciaux|o
+microfinance|microcrédit aux personnes pauvres|o
+microorganism|micro-organisme|o
+midday|midi|o
+militarize|militariser|v
+moderately|modérément, moyennement|o
+modestly|humblement; légèrement, modérément|o;o
+mystic|mystique (personne en quête de vérité spirituelle); mystique (adjectif)|o;o
+noticeable|visible, perceptible|o
+obedience|obéissance|o
+obstetric|obstétrical, relatif à l'accouchement|o
+overshoot|dépasser (une cible)|v
+parlance|langage, jargon|o
+pinpoint|localiser précisément; point minuscule|v;o
+piracy|piraterie en mer; piratage, copie illégale|o;o
+precedence|priorité; take precedence: primer, être plus important|o;n
+predictability|prévisibilité|o
+prerogative|prérogative, droit exclusif|o
+prologue|prologue, introduction|o
+proverbial|proverbial, comme dans le dicton|o
+quadruple|quadrupler; quadruple|v;o
+quell|réprimer, étouffer; apaiser|v;v
+realignment|réalignement, changement de position ou d'alliance|o
+refute|réfuter|v
+scrutinize|examiner attentivement, scruter|v
+semblance|apparence, semblant|o
+soundly|profondément (sommeil); complètement; judicieusement|o;o;o
+sparse|clairsemé, épars|o
+stampede|fuite en panique, débandade; fuir en panique|o;v
+sympathize|compatir (avec); être d'accord (avec)|v;v
+tatter|lambeau; in tatters: en lambeaux, ruiné|o;n
+taxis|taxis, pluriel de taxi|o
+tendril|vrille (de plante); mèche de cheveux bouclée|o;o
+tragically|tragiquement|o
+turnaround|redressement, revirement favorable; délai d'exécution|o;o
+typeface|police de caractères|o
+underdeveloped|insuffisamment développé; sous-développé|o;o
+unreleased|inédit, pas encore publié|o
+vapor|vapeur, brume|o
+vitality|vitalité, énergie|o
+wager|pari; parier|o;v
+wench|jeune femme, servante|o
+wetland|marais, zone humide|o
+wraith|spectre, fantôme|o
+yous|vous (pluriel) (fam., = you)|f2s2p
+accede|accéder (à une demande), consentir; accéder (à un poste)|v;v
+addictive|addictif, qui crée une dépendance|o
+arthritis|arthrite|o
+automaton|automate; personne qui agit machinalement|o;o
+batsman|batteur (cricket)|o
+chariot|char (à deux roues, tiré par des chevaux)|o
+chez|chez|o
+claret|bordeaux rouge; rouge foncé|o;o
+clique|clan, coterie|o
+conform|se conformer (aux règles, aux usages); correspondre|v;v
+counteract|contrecarrer, neutraliser|v
+crackle|crépiter; crépitement|v;o
+creed|credo, croyances|o
+cryptocurrency|cryptomonnaie|o
+depletion|épuisement, diminution|o
+derivation|origine, source; dérivation|o;o
+doodle|gribouillage; gribouiller|o;v
+downstream|en aval (d'un cours d'eau); en aval (d'un processus)|o;o
+engraving|gravure (image imprimée); gravure (action de graver)|o;o
+ethanol|éthanol, alcool|o
+euphoria|euphorie|o
+expatriate|expatrié|o
+fourteenth|quatorzième|o
+gastroenteritis|gastro-entérite|o
+hardcover|livre relié, à couverture rigide|o
+heartland|cœur, région centrale|o
+hijab|foulard porté par les femmes musulmanes|o
+inactive|inactif, oisif|o
+inflammation|inflammation|o
+infuse|imprégner (d'une qualité); faire infuser (thé, herbes)|v;v
+kindle|allumer (un feu); éveiller (un sentiment)|v;v
+laud|louer, faire l'éloge de|v
+mediation|médiation|o
+mow|tondre (l'herbe)|v
+pamphlet|brochure|o
+preface|préface|o
+pretense|faux-semblant, simulacre|o
+propriety|bienséance, décence|o
+quagmire|bourbier; situation inextricable|o;o
+reinstate|réintégrer, rétablir|v
+remaster|remasteriser|v
+repatriate|rapatrier|v
+rife|répandu (d'une chose néfaste); rife with: plein de|o;n
+scuba|scaphandre autonome|o
+serenity|sérénité, calme|o
+sexism|sexisme|o
+solemnity|solennité, gravité|o
+straddle|être à califourchon sur, enjamber|v
+swoop|fondre sur, piquer; attaque soudaine|v;o
+talkie|film parlant|o
+topping|garniture, nappage; excellent (fam.)|o;o
+unwarranted|injustifié|o
+wad|liasse, tas (de papier, d'argent)|o
+watery|plein d'eau, aqueux; délavé, trop dilué|o;o
+abstain|s'abstenir (de); s'abstenir de voter|v;v
+afloat|à flot; sans dettes|o;o
+ahhh|son de soulagement, de plaisir ou de compréhension|o
+analytics|analyse de données|o
+anew|de nouveau, autrement|o
+apocalyptic|apocalyptique, de la fin du monde; désastreux|o;o
+arbitrage|arbitrage (profit sur les écarts de prix entre marchés)|o
+audiobook|livre audio|o
+awkwardness|gêne; maladresse|o;o
+bazooka|bazooka, lance-roquettes portatif|o
+blogger|blogueur|o
+brightness|luminosité, éclat|o
+cashier|caissier|o
+chum|pote (fam.); appât pour poissons|o;o
+comfy|confortable (fam.)|o
+commoner|roturier|o
+complicity|complicité|o
+conceivable|imaginable, concevable|o
+condescend|se montrer condescendant (envers)|v
+contour|contour, forme; courbe de niveau|o;o
+crunchy|croquant, croustillant|o
+daybreak|aube, point du jour|o
+digitization|numérisation|o
+doublet|pourpoint; élément d'une paire|o;o
+draught|courant d'air; gorgée; on draught: à la pression|o;o;n
+enclave|enclave|o
+endow|doter, financer; endowed with: doté de|v;n
+ethically|éthiquement, moralement|o
+farmland|terres agricoles|o
+filmmaking|réalisation de films, cinéma|o
+firewall|pare-feu|o
+forestry|sylviculture, gestion des forêts|o
+ganja|cannabis (fam.)|o
+gentleness|douceur, gentillesse|o
+geographically|géographiquement|o
+gravel|gravier|o
+illiteracy|analphabétisme|o
+inwardly|intérieurement, en son for intérieur|o
+kowtow|se prosterner (devant), faire des courbettes|v
+ladyship|titre d'une noble (your ladyship : madame)|o
+legislate|légiférer|v
+mortify|humilier, mortifier|v
+niche|niche (dans un mur); créneau, niche de marché|o;o
+nicker|hennissement doux; livre sterling (fam.)|o;o
+nutritional|nutritionnel|o
+overreach|viser trop haut, aller trop loin|v
+pander|flatter, céder (aux bas instincts ou aux goûts)|v
+petal|pétale|o
+philanthropic|philanthropique, caritatif|o
+physique|physique, carrure|o
+playbook|stratégie, tactique|o
+prematurely|prématurément|o
+profess|prétendre; professer (une foi, une croyance)|v;v
+quad|cour d'un collège universitaire; quad (moto à quatre roues); quadriceps (fam.)|o;o;o
+quay|quai|o
+rake|râteau; ratisser; débauché|o;v;o
+rant|déblatérer, fulminer; diatribe|v;o
+recombination|recombinaison (surtout génétique)|o
+reddish|rougeâtre|o
+regressive|régressif (qui recule); régressif (impôt qui pèse plus sur les pauvres)|o;o
+satsang|réunion spirituelle (religions indiennes)|o
+seaman|marin|o
+seclude|isoler, tenir à l'écart|v
+secondhand|d'occasion; indirect|o;o
+shaman|chaman|o
+sophistication|raffinement; complexité|o;o
+spoof|parodie|o
+stronghold|forteresse; bastion|o;o
+subscript|indice|o
+surfer|surfeur|o
+suspense|suspense, attente anxieuse|o
+swimmer|nageur|o
+tarnish|ternir; ternir (une réputation)|v;v
+unforgettable|inoubliable|o
+ventilation|aération, ventilation|o
+ventilator|respirateur artificiel|o
+wonderfully|merveilleusement|o
+acquit|acquitter; acquit oneself: s'acquitter, se comporter|v;n
+acquittal|acquittement|o
+antagonize|contrarier, se mettre à dos|v
+bloodstain|tache de sang|o
+boomer|baby-boomeur|o
+bootstrap|démarrer avec des moyens minimes; tirant de botte|v;o
+castaway|naufragé|o
+cinch|jeu d'enfant (fam.); serrer fort|o;v
+collagen|collagène|o
+concurrently|simultanément|o
+condone|tolérer, fermer les yeux sur|v
+cordial|chaleureux, cordial; sirop de fruits|o;o
+dispatcher|répartiteur|o
+estrange|éloigner, brouiller (surtout estranged : brouillé)|v
+exasperation|exaspération|o
+familiarity|connaissance intime; familiarité|o;o
+flatten|aplatir|v
+gait|démarche|o
+grocer|épicier|o
+helplessness|impuissance|o
+heterosexuality|hétérosexualité|o
+hindsight|recul, rétrospectivement|o
+hologram|hologramme|o
+illusory|illusoire|o
+impeach|mettre en accusation (un responsable public)|v
+implode|imploser|v
+infuriate|rendre furieux|v
+inshallah|si Dieu le veut|o
+interpolation|insertion; interpolation (estimation)|o;o
+intersex|intersexe|o
+interstate|entre États; autoroute américaine|o;o
+login|connexion; identifiants|o;o
+manually|à la main, manuellement|o
+mortuary|morgue|o
+mutiny|mutinerie|o
+norovirus|norovirus (vomissements et diarrhée)|o
+olfactory|olfactif|o
+oneself|soi-même (réfléchi de one)|o
+partake|participer; manger ou boire (de)|v;v
+picturesque|pittoresque|o
+pollinator|pollinisateur|o
+porno|porno (fam.)|o
+relaunch|relancer|v
+resettle|réinstaller, se réinstaller|v
+revoke|révoquer, annuler|v
+rubble|décombres, gravats|o
+sediment|sédiment, dépôt|o
+senseless|insensé; inconscient|o;o
+stratosphere|stratosphère|o
+substrate|substrat, couche sous-jacente|o
+sullen|maussade, renfrogné|o
+thieving|vol, chapardage|o
+treadmill|tapis de course; routine abrutissante|o;o
+tulip|tulipe|o
+unsafe|dangereux|o
+veal|veau (viande)|o
+adaptable|adaptable|o
+afterlife|vie après la mort, au-delà|o
+allude|faire allusion (à)|v
+apathy|apathie, indifférence|o
+bearer|porteur, détenteur|o
+beleaguered|assiégé, en difficulté|o
+benefactor|bienfaiteur|o
+biomedical|biomédical|o
+breadth|largeur; étendue|o;o
+breastfeed|allaiter|v
+briskly|vivement, énergiquement|o
+caveat|mise en garde, réserve|o
+chaplain|aumônier|o
+cheerio|salut, au revoir (fam.)|o
+chubby|potelé, dodu|o
+clarinet|clarinette|o
+commend|louer, recommander; confier|v;v
+concurrent|simultané, concomitant|o
+delve|fouiller, creuser (dans)|v
+droplet|gouttelette|o
+edible|comestible|o
+endlessly|sans fin, interminablement|o
+genealogy|généalogie|o
+hahaha|son du rire|o
+helix|hélice, spirale|o
+hysteria|hystérie, panique incontrôlée|o
+incessantly|sans cesse|o
+individualism|individualisme|o
+innate|inné, naturel|o
+instructive|instructif|o
+invisibility|invisibilité|o
+localize|circonscrire, localiser; adapter au marché local|v;v
+locomotion|locomotion|o
+magically|par magie; merveilleusement|o;o
+matchmaker|marieur, entremetteur|o
+multitask|faire plusieurs choses à la fois|v
+orchestral|orchestral|o
+parallelogram|parallélogramme|o
+paranoia|paranoïa, méfiance irrationnelle|o
+periodically|de temps en temps, périodiquement|o
+pertain|se rapporter (à)|v
+pious|pieux|o
+pluralistic|pluraliste|o
+prodigious|prodigieux, énorme|o
+proletarian|prolétarien, de la classe ouvrière|o
+pulmonary|pulmonaire|o
+reciprocal|réciproque, mutuel|o
+refill|remplir à nouveau; recharge|v;o
+registrar|officier d'état civil, greffier|o
+replication|reproduction, réplication|o
+reprimand|réprimande; réprimander|o;v
+revere|vénérer, révérer|v
+rung|rung, participe passé de ring; barreau d'échelle|o;o
+sadden|attrister|v
+sandal|sandale|o
+shyness|timidité|o
+slob|flemmard négligé|o
+snappy|vif, rapide; chic; irritable|o;o;o
+snowy|enneigé; blanc comme neige|o;o
+soloist|soliste|o
+stave|stave off: repousser, prévenir; douve (de tonneau); portée (musique)|n;o;o
+submerge|submerger, immerger|v
+submersible|submersible; petit sous-marin|o;o
+subsp|sous-espèce (abréviation)|o
+subtly|subtilement|o
+supersede|remplacer, supplanter|v
+syllable|syllabe|o
+tentative|hésitant; provisoire|o;o
+unambiguous|sans ambiguïté, clair|o
+unconstitutional|anticonstitutionnel|o
+woodland|bois, région boisée|o
+almond|amande|o
+antiderivative|primitive (d'une fonction)|o
+avoidable|évitable|o
+banjo|banjo|o
+bibliography|bibliographie|o
+bourgeois|bourgeois (de la classe moyenne); bourgeois (matérialiste, conformiste)|o;o
+carer|aidant, auxiliaire de vie|o
+cervical|du col de l'utérus; cervical, du cou|o;o
+characterization|caractérisation des personnages; description|o;o
+circumference|circonférence|o
+clump|bouquet, touffe (d'arbres, de cheveux); marcher lourdement|o;v
+coaster|sous-verre; montagnes russes|o;o
+colossal|colossal, énorme|o
+contamination|contamination, pollution|o
+contentment|contentement, sérénité|o
+cranky|grincheux; excentrique|o;o
+critter|bestiole (fam.)|o
+cronyism|copinage, favoritisme|o
+debilitate|affaiblir|v
+delineate|décrire précisément; délimiter|v;v
+demeanour|attitude, comportement|o
+deride|se moquer de, tourner en dérision|v
+eigenvector|vecteur propre|o
+elasticity|élasticité; élasticité (économie)|o;o
+emptiness|vide; sentiment de vide|o;o
+encoding|encodage, codage|o
+energize|dynamiser, donner de l'énergie à|v
+enmity|inimitié, hostilité|o
+expansive|vaste, étendu; expansif|o;o
+extractive|extractif (mines, forages)|o
+exuberance|exubérance|o
+favorably|favorablement; avantageusement|o;o
+forceful|énergique, affirmé|o
+forcibly|de force|o
+foresight|prévoyance|o
+forestall|devancer, prévenir|v
+formalize|officialiser|v
+gatherer|collecteur; hunter-gatherer: chasseur-cueilleur|o;n
+gymnast|gymnaste|o
+homepage|page d'accueil|o
+idiotic|idiot, stupide|o
+inhibitor|inhibiteur|o
+insured|assuré (couvert par une assurance); assuré (titulaire d'une police)|o;o
+intentioned|well-intentioned: bien intentionné|n
+invader|envahisseur|o
+layoff|licenciement (économique)|o
+logarithm|logarithme|o
+man's|d'un homme (possessif); l'homme est; l'homme a|o;o;o
+menstruation|menstruation, règles|o
+meows|miaulements; miaule|o;o
+meritocracy|méritocratie|o
+miserably|malheureusement, tristement; lamentablement|o;o
+monetization|monétisation|o
+moribund|moribond; stagnant|o;o
+multiculturalism|multiculturalisme|o
+mutate|muter; se transformer|v;v
+nanotechnology|nanotechnologie|o
+nativist|nativiste (favorable aux natifs contre les immigrés)|o
+nuance|nuance|o
+octave|octave|o
+opium|opium|o
+outlier|valeur aberrante|o
+ovary|ovaire|o
+plebiscite|plébiscite, référendum|o
+pollinate|polliniser|v
+populace|population, peuple|o
+powerfully|puissamment, fortement|o
+profligacy|prodigalité, gaspillage|o
+profligate|dépensier, gaspilleur; débauché|o;o
+progressively|progressivement|o
+purport|prétendre (à tort)|v
+randomness|caractère aléatoire|o
+recessionary|récessionniste, de récession|o
+repertoire|répertoire|o
+replenish|réapprovisionner, remplir|v
+retrospect|in retrospect: rétrospectivement, avec le recul|n
+sizable|assez important, considérable|o
+socialize|fréquenter du monde, sociabiliser|v
+solvent|solvable; solvant|o;o
+strew|éparpiller, joncher|v
+tepid|tiède; peu enthousiaste|o;o
+thickness|épaisseur|o
+thinner|plus mince, comparatif de thin; diluant|o;o
+tranquillity|tranquillité, calme|o
+uncompetitive|non compétitif|o
+uncontrollably|de manière incontrôlable|o
+utopian|utopique|o
+vanguard|avant-garde; premier rang|o;o
+vegetarianism|végétarisme|o
+wherein|dans lequel, où|o
+whopping|énorme (fam.)|o
+absurdity|absurdité|o
+accordion|accordéon|o
+affinity|affinité, attirance; ressemblance|o;o
+aft|à l'arrière (d'un navire)|o
+aristocratic|aristocratique|o
+beeper|bipeur|o
+blasphemy|blasphème|o
+burdensome|pesant, contraignant|o
+businesswoman|femme d'affaires|o
+clot|caillot; coaguler, cailler|o;v
+confinement|incarcération; enfermement|o;o
+continual|continuel, incessant|o
+cucumber|concombre|o
+electrification|électrification|o
+emphasise|souligner, insister sur|v
+fait|fait accompli: fait accompli, chose irréversible|n
+fermentation|fermentation|o
+ferocious|féroce|o
+flunk|rater (un examen) (fam.)|v
+freckle|tache de rousseur|o
+guberniya|gouvernement (province de la Russie impériale)|o
+guise|apparence; déguisement|o;o
+harmonic|harmonique (de l'harmonie); harmonique (son)|o;o
+harp|harpe; harp on: rabâcher|o;n
+hazy|brumeux; vague, flou|o;o
+hepatitis|hépatite|o
+horde|horde, foule|o
+hospitalize|hospitaliser|v
+identifier|identifiant|o
+impart|transmettre (une information, une qualité)|v
+implausible|invraisemblable|o
+ingrained|enraciné|o
+internationalist|internationaliste|o
+jug|cruche, pichet|o
+leech|sangsue; profiteur, parasite|o;o
+lull|accalmie; bercer, apaiser|o;v
+madly|follement; extrêmement|o;o
+millimetre|millimètre|o
+mixtape|compilation de chansons|o
+namesake|homonyme|o
+ordain|ordonner (prêtre); décréter|v;v
+outcry|tollé|o
+outstrip|surpasser, dépasser|v
+psychoanalysis|psychanalyse|o
+psychotherapy|psychothérapie|o
+puddle|flaque|o
+punter|client (fam.); parieur|o;o
+rationality|rationalité|o
+reciprocate|rendre la pareille, retourner (un sentiment, un geste)|v
+reorganization|réorganisation, restructuration|o
+retake|reprendre (refaire); reprendre (reconquérir)|v;v
+rinse|rincer|v
+simmer|mijoter; bouillir intérieurement|v;v
+skim|parcourir, survoler; écumer; effleurer|v;v;v
+sleeper|dormeur; traverse (de voie ferrée); train-couchettes; agent dormant|o;o;o;o
+sodding|foutu (fam.)|o
+southernmost|le plus au sud|o
+spec|spécification (fam.); on spec: sans garantie|o;n
+statutory|légal, obligatoire|o
+steppe|steppe|o
+stratum|strate, couche|o
+striving|effort|o
+subfamily|sous-famille|o
+symbolism|symbolisme|o
+termination|fin, résiliation; licenciement|o;o
+tripe|tripes; âneries (fam.)|o;o
+unequivocal|sans équivoque|o
+upstream|en amont (d'un cours d'eau); en amont (d'un processus)|o;o
+vitally|essentiellement, de façon cruciale|o
+whim|caprice, lubie|o
+zeal|zèle|o
+abolitionist|abolitionniste (de l'esclavage)|o
+accursed|maudit; odieux|o;o
+adventurous|aventureux, audacieux|o
+agile|agile|o
+agnostic|agnostique; sans avis tranché|o;o
+analyse|analyser|v
+annals|annales|o
+ardent|ardent, passionné|o
+aristocrat|aristocrate|o
+auspice|under the auspices of: sous l'égide de|n
+bask|se prélasser (au soleil, à la chaleur); savourer (l'attention)|v;v
+benzene|benzène|o
+bodily|corporel, physique; physiquement, de force|o;o
+brinkmanship|politique du bord du gouffre|o
+byproduct|sous-produit, produit dérivé|o
+cannibal|cannibale|o
+circuitry|circuits électriques|o
+coerce|contraindre, forcer|v
+culinary|culinaire|o
+decarbonize|décarboner|v
+degenerate|dégénérer, se détériorer; dégénéré, dépravé|v;o
+delicately|délicatement; avec tact|o;o
+despatch|expédier, envoyer; dépêche, rapport|v;o
+disaffected|mécontent, désabusé|o
+drainage|drainage, évacuation des eaux|o
+elitist|élitiste|o
+exceptionalism|exceptionnalisme|o
+fathom|comprendre, saisir; brasse (mesure de profondeur)|v;o
+fauna|faune|o
+fir|sapin|o
+foie|foie gras: foie gras (de canard ou d'oie)|n
+fulfillment|épanouissement, satisfaction; exécution, accomplissement|o;o
+gauze|gaze|o
+gild|dorer|v
+gras|foie gras: foie gras (de canard ou d'oie); Mardi Gras: mardi gras, carnaval avant le carême|n;n
+harbinger|signe avant-coureur, présage|o
+harrow|herse; tourmenter (surtout harrowing : poignant)|o;v
+hateful|haineux; odieux|o;o
+heartbreaking|déchirant, navrant|o
+hoe|binette, houe; pute (fam., = whore)|o;o
+horribly|horriblement|o
+innumerable|innombrable|o
+intake|consommation, apport; promotion, effectif admis|o;o
+jeer|huer, conspuer|v
+kayak|kayak|o
+krauts|boches, terme péjoratif pour les Allemands (fam.)|o
+liquidate|liquider (une entreprise); liquider, tuer|v;v
+locket|médaillon|o
+meridian|méridien; zénith, apogée|o;o
+micron|micron, micromètre|o
+microscopy|microscopie|o
+mirth|hilarité, gaieté|o
+mishap|mésaventure, petit accident|o
+modular|modulaire|o
+molar|molaire|o
+monograph|monographie|o
+nectar|nectar|o
+nerdy|intello et un peu asocial (fam.)|o
+neurologist|neurologue|o
+numeric|numérique, chiffré|o
+occupational|professionnel|o
+overt|manifeste, non dissimulé|o
+peacekeeper|soldat de la paix, casque bleu|o
+periscope|périscope|o
+pernicious|pernicieux|o
+petrify|terrifier, pétrifier; pétrifier (changer en pierre)|v;v
+pluralist|pluraliste|o
+presumption|présomption, supposition; présomption, arrogance|o;o
+pronged|à dents, à pointes; two-pronged: à double volet|o;n
+quintet|quintette|o
+ramification|ramification, conséquence|o
+recurrence|récurrence, réapparition|o
+reminisce|évoquer ses souvenirs|v
+responder|personne qui répond; first responder: premier intervenant, secouriste|o;n
+rouble|rouble|o
+runoff|ruissellement; second tour (d'une élection)|o;o
+satyr|satyre (créature mi-homme mi-bouc); satyre (homme lubrique)|o;o
+secrete|sécréter; cacher|v;v
+shadowy|sombre, ombragé; mystérieux|o;o
+shyster|escroc, avocat véreux (fam.)|o
+silo|silo à grain; silo à missiles; unité cloisonnée|o;o;o
+smite|frapper violemment|v
+sweatpants|pantalon de jogging|o
+tether|longe, attache; attacher|o;v
+transformer|transformateur|o
+tunic|tunique|o
+unaffordable|inabordable, trop cher|o
+vigor|vigueur, énergie|o
+vinculum|barre placée au-dessus de chiffres (mathématiques)|o
+virulent|virulent (maladie); virulent, hostile|o;o
+wellness|bien-être, santé|o
+wildfire|feu de forêt, incendie incontrôlé; like wildfire: comme une traînée de poudre|o;n
+actuator|actionneur|o
+adieu|adieu|o
+bedrock|roche en place, socle rocheux; fondement|o;o
+blower|souffleur, soufflerie; téléphone (fam.)|o;o
+bony|osseux, décharné; plein d'arêtes, plein d'os|o;o
+bookstore|librairie|o
+buzzard|buse|o
+cartridge|cartouche|o
+centralization|centralisation|o
+charcoal|charbon de bois; gris anthracite|o;o
+clergyman|ecclésiastique, pasteur|o
+clitoris|clitoris|o
+complicit|complice|o
+contort|tordre, déformer|v
+convolution|complexité, circonvolution; convolution (mathématiques)|o;o
+cork|liège; bouchon|o;o
+curvature|courbure|o
+deject|abattre, décourager (surtout dejected : abattu)|v
+detriment|détriment, préjudice|o
+dictatorial|dictatorial, autoritaire|o
+dojo|dojo, salle d'arts martiaux|o
+eject|expulser, jeter dehors; éjecter|v;v
+envious|envieux, jaloux|o
+evenly|uniformément, également|o
+eyelash|cil|o
+ferret|furet; ferret out: dénicher|o;n
+fluorine|fluor|o
+foliage|feuillage|o
+gat|flingue (fam.)|o
+graft|greffe; corruption; boulot acharné (fam.)|o;o;o
+grate|râper; agacer; grille de foyer|v;v;o
+ideologues|idéologues, pluriel de ideologue|o
+imaginative|imaginatif, créatif|o
+iterate|répéter, itérer|v
+jihadi|djihadiste|o
+kosher|casher; réglo (fam.)|o;o
+legalize|légaliser|v
+lighthouse|phare|o
+limitless|illimité, sans limites|o
+medalist|médaillé|o
+mockery|moquerie; parodie, simulacre|o;o
+modernism|modernisme|o
+overfishing|surpêche|o
+pear|poire|o
+piranha|piranha|o
+plunder|piller; butin|v;o
+programmable|programmable|o
+psychoanalyst|psychanalyste|o
+purity|pureté, propreté; pureté, innocence|o;o
+recapitalize|recapitaliser|v
+resin|résine|o
+saxophonist|saxophoniste|o
+scenic|pittoresque, panoramique|o
+scribe|scribe, copiste; écrivain|o;o
+sewage|eaux usées|o
+shrewd|astucieux, perspicace|o
+spreadsheet|tableur, feuille de calcul|o
+steamboat|bateau à vapeur|o
+stewardess|hôtesse de l'air|o
+sulfide|sulfure|o
+transcribe|transcrire|v
+transporter|transporteur|o
+undefined|non défini, indéfini|o
+unhappily|tristement; malheureusement|o;o
+unlawful|illégal|o
+untold|innombrable, incalculable; inédit, jamais raconté|o;o
+vascular|vasculaire|o
+vocalize|exprimer, formuler|v
+walkable|praticable à pied|o
+yurt|yourte|o
+abandonment|abandon|o
+advertiser|annonceur|o
+airspace|espace aérien|o
+algorithmic|algorithmique|o
+angiogenesis|angiogenèse|o
+annualized|annualisé|o
+antler|bois (de cerf)|o
+aperture|ouverture|o
+ascension|ascension, élévation; ascension au ciel|o;o
+biopsy|biopsie|o
+brilliance|éclat; génie|o;o
+camouflage|camouflage|o
+centrality|centralité, importance|o
+chemo|chimio (fam.)|o
+clandestine|clandestin, secret|o
+commonplace|banal, courant|o
+crumple|froisser, chiffonner; s'effondrer|v;v
+dainty|délicat, menu et joli|o
+detest|détester|v
+doorkeeper|portier|o
+downwards|vers le bas|o
+engender|engendrer, provoquer|v
+engrave|graver|v
+enjoyable|agréable|o
+entirety|totalité, intégralité|o
+epithet|épithète, qualificatif; insulte|o;o
+fabricate|inventer (des mensonges); fabriquer|v;v
+filmography|filmographie|o
+fraudulent|frauduleux|o
+gentlewoman|dame de bonne famille|o
+grandeur|grandeur, splendeur|o
+headway|progrès; make headway: progresser|o;n
+heartache|chagrin, peine de cœur|o
+homelessness|sans-abrisme, fait d'être sans abri|o
+hydroelectric|hydroélectrique|o
+immersive|immersif|o
+indent|mettre en retrait (un texte); commande officielle de marchandises|v;o
+inflammatory|incendiaire, provocateur; inflammatoire|o;o
+insta|Instagram (fam.)|o
+intergenerational|intergénérationnel|o
+joblessness|chômage|o
+livery|livrée (des domestiques); couleurs d'une entreprise|o;o
+lustful|lubrique, concupiscent|o
+magenta|magenta|o
+magnate|magnat|o
+maple|érable|o
+mayhem|chaos, pagaille|o
+meticulously|méticuleusement|o
+midfielder|milieu de terrain (joueur)|o
+monologue|monologue|o
+muddy|boueux; confus|o;o
+narcissistic|narcissique|o
+nibble|grignoter, mordiller; petite bouchée|v;o
+nightfall|tombée de la nuit, crépuscule|o
+northernmost|le plus au nord|o
+oceanic|océanique|o
+offline|hors ligne; en personne|o;o
+ordinance|ordonnance, arrêté municipal|o
+oval|ovale|o
+overcoat|pardessus, manteau|o
+oversized|surdimensionné, trop grand|o
+overweight|en surpoids, trop lourd|o
+piecemeal|petit à petit, au coup par coup|o
+pong|mauvaise odeur (fam.); ping-pong|o;o
+prairie|prairie, grande plaine herbeuse|o
+predominant|prédominant|o
+preparatory|préparatoire|o
+profusely|abondamment, avec profusion|o
+qua|en tant que|o
+quotation|citation; devis|o;o
+rabies|rage (maladie)|o
+reciprocity|réciprocité|o
+rector|curé (d'une paroisse); recteur (d'une université)|o;o
+reparation|réparation (surtout reparations : indemnités)|o
+reprogram|reprogrammer|v
+repulse|dégoûter; repousser|v;v
+residue|résidu, reste|o
+resurrect|ressusciter|v
+retribution|châtiment, vengeance|o
+reverie|rêverie|o
+rework|remanier, retravailler|v
+sarcophagus|sarcophage|o
+secularist|partisan de la laïcité|o
+sensual|sensuel|o
+silky|soyeux|o
+slang|argot|o
+southward|vers le sud|o
+spindle|fuseau; axe, broche|o;o
+subtraction|soustraction|o
+summons|citation à comparaître, assignation|o
+thorium|thorium|o
+timeless|intemporel|o
+tot|bambin; petit verre; tot up: additionner|o;o;n
+travail|labeur, épreuve|o
+tuft|touffe (de cheveux, d'herbe)|o
+undisclosed|non divulgué|o
+unforeseen|imprévu|o
+unpublished|inédit, non publié|o
+vertically|verticalement|o
+vigilant|vigilant|o
+vividly|de façon vivante, avec éclat|o
+abundantly|abondamment; abundantly clear: parfaitement clair|o;n
+affine|affine (mathématiques)|o
+ascribe|attribuer (à)|v
+assail|assaillir, attaquer|v
+bandleader|chef d'orchestre (d'un groupe)|o
+battleground|champ de bataille|o
+boldness|audace|o
+companionship|compagnie, camaraderie|o
+crossbow|arbalète|o
+customary|habituel, coutumier|o
+cylindrical|cylindrique|o
+desirous|désireux|o
+despot|despote, tyran|o
+deuce|deux (cartes, dés); égalité à 40-40 (tennis); diable (fam.)|o;o;o
+dictum|maxime, déclaration solennelle|o
+dis|insulter, manquer de respect à (fam.)|v
+dismissal|licenciement, renvoi; rejet|o;o
+dither|hésiter, tergiverser|v
+downfall|chute, ruine|o
+dweller|habitant|o
+earmark|affecter, réserver (à un usage)|v
+exaggeration|exagération|o
+externally|à l'extérieur|o
+fascination|fascination|o
+gambit|stratagème, manœuvre d'ouverture|o
+goddam|foutu, sacré (fam.)|o
+gymnasium|gymnase|o
+hazardous|dangereux|o
+hydropower|hydroélectricité|o
+impregnate|féconder, rendre enceinte; imprégner, saturer|v;v
+inadequacy|insuffisance; sentiment d'infériorité|o;o
+incitement|incitation (à la violence, au crime)|o
+indefinite|indéfini, illimité; vague|o;o
+insolent|insolent|o
+intermediation|intermédiation|o
+intrusion|intrusion|o
+logically|logiquement|o
+maize|maïs|o
+marital|conjugal, matrimonial|o
+meself|moi-même (fam., = myself)|o
+minivan|monospace|o
+motherhood|maternité|o
+necessitate|nécessiter|v
+negate|annuler, neutraliser; nier|v;v
+nostalgic|nostalgique|o
+passer|passer-by: passant; passeur (sport)|n;o
+patriarchal|patriarcal|o
+perpetrate|commettre, perpétrer (un crime)|v
+pester|harceler, importuner|v
+plough|charrue; labourer|o;v
+polluter|pollueur|o
+posit|postuler, avancer|v
+quill|plume d'oie; piquant de porc-épic|o;o
+raisin|raisin sec|o
+rescind|abroger, annuler (une loi, une décision)|v
+retell|raconter à nouveau|v
+revaluation|réévaluation|o
+salvage|sauver, récupérer; sauvetage de biens|v;o
+secessionist|sécessionniste|o
+securitization|titrisation|o
+smother|étouffer; recouvrir abondamment|v;v
+spank|donner une fessée à|v
+strikingly|remarquablement, de façon frappante|o
+supremacist|suprémaciste|o
+throttle|étrangler; papillon des gaz, accélérateur|v;o
+toothless|édenté; impuissant, sans mordant|o;o
+unanimity|unanimité|o
+undue|excessif, indu|o
+uneasily|avec inquiétude, mal à l'aise|o
+unfazed|imperturbable, pas démonté|o
+unheard|inentendu; unheard of: sans précédent, inouï|o;n
+usefulness|utilité|o
+widowed|veuf|o
+adaptability|adaptabilité, faculté d'adaptation|o
+adoration|adoration|o
+aforementioned|susmentionné, précité|o
+allusion|allusion|o
+apex|sommet|o
+apparition|apparition, fantôme|o
+assent|assentiment; donner son assentiment|o;v
+auspicious|prometteur, favorable|o
+bibliographic|bibliographique|o
+biotech|biotechnologie|o
+bleach|eau de Javel, décolorant; blanchir, décolorer|o;v
+blindly|à l'aveugle; aveuglément|o;o
+boiler|chaudière|o
+bombardment|bombardement|o
+burrow|terrier; creuser|o;v
+centenary|centenaire|o
+centigrade|Celsius, centigrade|o
+churn|agiter, brasser; baratte; attrition de la clientèle (commerce)|v;o;o
+clog|boucher, obstruer; sabot|v;o
+codon|codon|o
+comparatively|relativement, comparativement|o
+compulsive|irrésistible; compulsif, obsessionnel|o;o
+condense|condenser, abréger; condenser (gaz en liquide)|v;v
+congenital|congénital|o
+consign|expédier; confier, remettre|v;v
+contractionary|restrictif (qui freine l'activité économique)|o
+cookbook|livre de cuisine|o
+counterintelligence|contre-espionnage|o
+courteous|courtois, poli|o
+cowardly|lâche|o
+crotch|entrejambe|o
+decipher|déchiffrer|v
+deign|daigner|v
+densely|densément|o
+devoid|devoid of: dépourvu de|n
+differentiation|distinction; différenciation|o;o
+druggist|pharmacien|o
+enigmatic|énigmatique|o
+entwine|entrelacer|v
+epitope|épitope|o
+excitable|excitable, nerveux|o
+fetal|fœtal; fetal position: position fœtale|o;n
+finder|personne qui trouve|o
+flex|fléchir, contracter (un muscle); frimer (fam.)|v;v
+fmri|IRM fonctionnelle|o
+foreclosure|saisie immobilière|o
+freestyle|libre, sans règles fixes; nage libre, crawl|o;o
+fundraising|collecte de fonds|o
+ghastly|horrible, affreux|o
+glossy|brillant, luisant|o
+goosebumps|chair de poule|o
+groundbreaking|novateur, révolutionnaire|o
+heartbreak|chagrin immense|o
+idealism|idéalisme|o
+incorrectly|incorrectement|o
+indescribable|indescriptible|o
+inexplicably|inexplicablement|o
+infancy|petite enfance; débuts|o;o
+infertility|infertilité, stérilité|o
+informer|informateur, indicateur|o
+intransigence|intransigeance|o
+joyfully|joyeusement|o
+lactose|lactose|o
+locust|criquet|o
+mango|mangue|o
+miraculous|miraculeux|o
+monopolize|monopoliser|v
+naught|rien, néant; come to naught: échouer|o;n
+nil|zéro, néant|o
+normalcy|normalité|o
+obstruction|obstruction, blocage|o
+pager|bipeur|o
+participatory|participatif|o
+peddle|colporter (des marchandises); colporter (des idées)|v;v
+pediatrician|pédiatre|o
+pelvic|pelvien|o
+perfectionism|perfectionnisme|o
+pisco|pisco, eau-de-vie péruvienne|o
+predictor|indicateur, prédicteur|o
+psychoanalytic|psychanalytique|o
+rapture|extase, ravissement|o
+reimagine|repenser, réinventer|v
+relaxation|détente, repos|o
+scurry|trottiner, filer à petits pas|v
+sender|expéditeur|o
+shipbuilding|construction navale|o
+sorrowful|triste, affligé|o
+spanking|fessée; tout (neuf) (fam.)|o;o
+spire|flèche (d'église)|o
+statistician|statisticien|o
+stylistic|stylistique|o
+subdivide|subdiviser|v
+sulfur|soufre|o
+supermassive|supermassif (trou noir)|o
+superstition|superstition|o
+talker|bavard, orateur|o
+teacup|tasse à thé|o
+telepaths|télépathes, pluriel de telepath|o
+tinge|pointe, nuance|o
+twig|brindille|o
+unelected|non élu|o
+wanderer|vagabond, voyageur errant|o
+wop|terme péjoratif pour un Italien, rital (fam.)|o
+abet|être complice de, encourager (un crime)|v
+anatomical|anatomique|o
+anecdote|anecdote|o
+artisan|artisan|o
+bigotry|sectarisme, intolérance|o
+biochemistry|biochimie|o
+blizzard|tempête de neige, blizzard|o
+blogging|blogging, tenue d'un blog|o
+bluster|fanfaronnades; parler avec arrogance|o;v
+bulwark|rempart; protection|o;o
+bystander|témoin, spectateur|o
+centrally|au centre|o
+coffer|coffre (surtout coffers : caisses, fonds)|o
+collusion|collusion|o
+conspicuous|voyant, remarquable|o
+contra|contre, contrairement à|o
+corporatism|corporatisme|o
+corporatist|corporatiste|o
+counterbalance|contrebalancer|v
+digestive|digestif|o
+digitalization|numérisation|o
+dislocate|luxer, déboîter; perturber|v;v
+dreary|morne, lugubre|o
+eloquence|éloquence|o
+emotionless|impassible, sans émotion|o
+encroachment|empiètement|o
+entice|attirer, séduire|v
+everlasting|éternel|o
+experimenter|expérimentateur|o
+extortion|extorsion|o
+fiend|démon; fanatique, accro (fam.)|o;o
+firepower|puissance de feu|o
+fluoride|fluorure|o
+foothold|point d'appui, prise|o
+gander|jars; coup d'œil (fam.)|o;o
+gel|gel; prendre forme, se souder|o;v
+giddy|pris de vertige; surexcité|o;o
+hake|merlu|o
+header|en-tête; tête (football)|o;o
+heavyweight|poids lourd (boxe); poids lourd (personne importante)|o;o
+heiress|héritière|o
+hormonal|hormonal|o
+humid|humide, moite|o
+impedance|impédance|o
+imperfection|imperfection, défaut|o
+impossibility|impossibilité|o
+inescapable|inéluctable, inévitable|o
+insurrection|insurrection|o
+interconnectedness|interdépendance|o
+involuntary|involontaire|o
+lexicon|lexique, vocabulaire|o
+libertarian|libertarien|o
+lowdown|tuyaux, fin mot de l'histoire (fam.); bas, méprisable|o;o
+marshmallow|guimauve|o
+mediator|médiateur|o
+medley|mélange, pot-pourri|o
+migraine|migraine|o
+milkshake|milk-shake|o
+misrule|mauvais gouvernement|o
+moderator|modérateur, président de séance; modérateur (de forum)|o;o
+nutritious|nourrissant, nutritif|o
+omission|omission|o
+organist|organiste|o
+overture|ouverture (musicale); avance, ouverture|o;o
+passively|passivement|o
+payer|payeur|o
+pebble|galet, caillou|o
+penitentiary|pénitencier, prison|o
+pic|photo (fam.)|o
+possessive|possessif (jaloux); possessif (grammaire)|o;o
+predicate|prédicat; fonder (sur)|o;v
+preemptive|préventif|o
+preoccupation|préoccupation, obsession|o
+preschool|école maternelle|o
+propeller|hélice|o
+protrude|dépasser, saillir|v
+radicalize|radicaliser|v
+reactive|réactif (qui réagit au lieu d'agir); réactif (chimie)|o;o
+reassuringly|de façon rassurante|o
+reborn|réincarné, né de nouveau; renouvelé|o;o
+redouble|redoubler (d'efforts)|v
+redundancy|licenciement; redondance|o;o
+redundant|superflu, redondant; licencié|o;o
+repel|repousser; dégoûter|v;v
+rhino|rhinocéros|o
+skillfully|habilement|o
+slander|calomnie; calomnier, diffamer|o;v
+snowfall|chute de neige|o
+stagflation|stagflation|o
+stepmother|belle-mère (épouse du père)|o
+stupidly|bêtement|o
+swerve|faire une embardée|v
+taxon|taxon|o
+theoretically|en théorie, théoriquement|o
+totalitarianism|totalitarisme|o
+traumatize|traumatiser|v
+triangular|triangulaire|o
+trilateral|trilatéral, tripartite|o
+trolley|chariot; tramway|o;o
+trudge|marcher péniblement|v
+uhhh|son d'hésitation, euh|o
+understate|minimiser|v
+unfounded|infondé|o
+unpredictability|imprévisibilité|o
+unused|inutilisé|o
+varicella|varicelle|o
+absorption|absorption; concentration, immersion|o;o
+aggie|étudiant d'une école d'agriculture (fam.)|o
+angelic|angélique|o
+assuage|apaiser, soulager (une douleur, une culpabilité)|v
+attribution|attribution (d'une source)|o
+backslide|rechuter, retomber dans ses travers|v
+barrage|tir de barrage; avalanche (de questions)|o;o
+baton|bâton (de chef d'orchestre, de relais), matraque|o
+caricature|caricature|o
+crease|pli; froisser|o;v
+discord|discorde; dissonance|o;o
+dishonour|déshonneur|o
+ecstatic|fou de joie, extatique|o
+emancipation|émancipation|o
+enforceable|exécutoire, applicable|o
+fintech|technologie financière|o
+harem|harem (appartements des femmes); harem (épouses d'un homme)|o;o
+headscarf|foulard|o
+incorporation|incorporation, intégration; constitution en société|o;o
+indiscriminate|aveugle, sans discernement|o
+instrumentation|instruments; orchestration|o;o
+interracial|interracial|o
+ladle|louche|o
+lowland|plaine, basses terres|o
+manipulator|manipulateur|o
+milord|monseigneur (formule d'adresse)|o
+misstep|faux pas|o
+normality|normalité|o
+normative|normatif|o
+outing|sortie, excursion; outing (révélation de l'homosexualité)|o;o
+pariah|paria|o
+petticoat|jupon|o
+resolutely|résolument|o
+roadblock|barrage routier; obstacle|o;o
+sari|sari|o
+shard|éclat, tesson|o
+sterile|stérile (infertile); stérile (sans germes)|o;o
+topical|d'actualité; à usage local, topique|o;o
+wallpaper|papier peint|o
+wean|sevrer; wean off: désaccoutumer progressivement|v;n
+wreath|couronne (de fleurs, de feuillage)|o
+accentuate|accentuer|v
+acidification|acidification|o
+acrobat|acrobate|o
+adept|habile, expert|o
+adios|salut, adieu (fam.)|o
+adjoin|être contigu à|v
+adultery|adultère|o
+airliner|avion de ligne|o
+amenable|disposé, ouvert|o
+anonymity|anonymat|o
+arepa|galette de maïs (vénézuélienne, colombienne)|o
+arousal|excitation|o
+arranger|arrangeur (musique)|o
+atoll|atoll|o
+atrium|atrium, hall central; oreillette (du cœur)|o;o
+axial|axial|o
+benevolent|bienveillant|o
+blockhead|imbécile|o
+bombard|bombarder|v
+breathlessly|à bout de souffle; fébrilement|o;o
+capillary|capillaire (vaisseau)|o
+carton|carton, boîte en carton|o
+caterpillar|chenille|o
+clinically|cliniquement; froidement|o;o
+colloquially|familièrement|o
+cram|bourrer, entasser; bachoter|v;v
+crevice|fissure, crevasse|o
+daydream|rêverie; rêvasser|o;v
+debit|débit|o
+decompose|se décomposer, pourrir; décomposer|v;v
+dem|eux (fam., = them)|o
+detrimental|préjudiciable, nuisible|o
+deviate|dévier, s'écarter de|v
+disapproval|désapprobation|o
+drunkard|ivrogne|o
+electrify|électrifier; électriser|v;v
+falsely|faussement, à tort|o
+frontman|chanteur principal; figure de proue|o;o
+generalization|généralisation|o
+geneticist|généticien|o
+giraffe|girafe|o
+handicraft|artisanat, objet artisanal|o
+hunh|son de surprise ou d'interrogation, hein|o
+imaginable|imaginable|o
+impulsive|impulsif|o
+incoherent|incohérent|o
+innkeeper|aubergiste|o
+internationalize|internationaliser|v
+jargon|jargon|o
+joyride|virée en voiture volée|o
+justly|justement, équitablement|o
+keynote|thème principal; keynote speech: discours d'ouverture|o;n
+landowner|propriétaire foncier|o
+lemme|laisse-moi (fam.)|o
+logarithmic|logarithmique|o
+lore|tradition, savoir populaire|o
+malignant|malin (tumeur); malveillant|o;o
+mildly|légèrement; doucement|o;o
+morbid|morbide|o
+multisite|multisite|o
+musing|réflexion, méditation|o
+nab|attraper, choper (fam.)|v
+observance|respect (d'une loi, d'une coutume); rite religieux|o;o
+orangutan|orang-outan|o
+oscillation|oscillation|o
+outspoken|franc, direct|o
+overwork|se surmener|v
+oxidation|oxydation|o
+parabola|parabole|o
+paradoxical|paradoxal|o
+perestroika|perestroïka|o
+permissible|permis, admissible|o
+plume|plume, panache; panache de fumée|o;o
+pretence|faux-semblant, simulacre|o
+puffy|gonflé, bouffi|o
+quotient|quotient|o
+rabble|cohue, populace|o
+rebate|remboursement partiel, ristourne|o
+renegade|renégat, rebelle|o
+respite|répit|o
+restive|agité, rétif|o
+scribble|griffonner|v
+seam|couture; filon, veine (de charbon)|o;o
+shackle|entrave, fer; enchaîner|o;v
+showrunner|directeur de série télévisée|o
+shrub|arbuste, buisson|o
+snare|piège, collet|o
+snowflake|flocon de neige|o
+sportsman|sportif|o
+stalactite|stalactite|o
+stationary|immobile, stationnaire|o
+trashed|saccagé; bourré, ivre mort (fam.)|o;o
+veterinary|vétérinaire|o
+visage|visage|o
+viz|à savoir|o
+waft|flotter, se répandre dans l'air|v
+widget|gadget, bidule|o
+wriggle|se tortiller|v
+zoology|zoologie|o
+adequacy|adéquation, suffisance|o
+advantageous|avantageux|o
+affliction|affliction, souffrance; maladie|o;o
+approx|environ (abréviation)|o
+artefact|objet fabriqué, artefact|o
+assailant|agresseur, assaillant|o
+beholden|redevable|o
+binge|excès, frénésie (de nourriture, d'alcool)|o
+blocker|bloqueur|o
+boson|boson|o
+businesspeople|gens d'affaires|o
+buybacks|rachats d'actions, pluriel de buyback|o
+carbonate|carbonate|o
+celled|à cellules (dans single-celled : unicellulaire, many-celled : pluricellulaire)|o
+chisel|ciseau, burin|o
+chump|nigaud (fam.)|o
+cochlear|cochléaire|o
+compatriot|compatriote|o
+confidant|confident|o
+conspire|conspirer, comploter|v
+conveniently|commodément, opportunément|o
+croak|coasser, parler d'une voix rauque; crever, mourir (fam.)|v;v
+cubicle|box, cabine|o
+debrief|débriefer, interroger au retour d'une mission|v
+demonic|démoniaque|o
+dissonance|dissonance, discordance|o
+dormant|dormant, en sommeil|o
+dreamy|rêveur, onirique; craquant (fam.)|o;o
+driverless|sans conducteur, autonome|o
+earthworm|ver de terre|o
+ejaculate|éjaculer; s'exclamer|v;v
+epitomize|incarner, être l'archétype de|v
+equitably|équitablement|o
+fatally|mortellement|o
+fateful|fatidique, décisif|o
+feline|félin (adjectif); félin, chat|o;o
+filament|filament|o
+fracking|fracturation hydraulique|o
+fractional|infime; fractionnaire|o;o
+fungal|fongique|o
+funnel|entonnoir; canaliser|o;v
+gamification|ludification|o
+geeks|passionnés, geeks (fam.), pluriel de geek|o
+geographer|géographe|o
+guerilla|guérillero|o
+habitual|habituel; invétéré|o;o
+hilt|garde, poignée (d'épée, de couteau); to the hilt: à fond, complètement|o;n
+hopelessly|désespérément; complètement, irrémédiablement|o;o
+hotline|ligne d'assistance, numéro d'urgence|o
+hymen|hymen|o
+hyperbolic|hyperbolique, exagéré; hyperbolique (d'une hyperbole)|o;o
+hypertension|hypertension|o
+hypocritical|hypocrite|o
+illiterate|analphabète|o
+illumination|éclairage, lumière; illumination, révélation|o;o
+incubator|couveuse, incubateur; incubateur d'entreprises|o;o
+infraction|infraction|o
+insufficiently|insuffisamment|o
+kilowatt|kilowatt|o
+laggard|traînard, retardataire|o
+laudable|louable|o
+mammalian|des mammifères|o
+mayoral|du maire, municipal|o
+mea|mea culpa: mea culpa, aveu de faute|n
+microbiome|microbiome|o
+miscarriage|fausse couche; miscarriage of justice: erreur judiciaire|o;n
+mistakenly|par erreur, à tort|o
+mover|déménageur; moteur, instigateur|o;o
+munch|mastiquer bruyamment, grignoter|v
+nomadic|nomade|o
+nomenclature|nomenclature, terminologie|o
+ominously|de façon menaçante, de mauvais augure|o
+oncologist|oncologue, cancérologue|o
+onerous|lourd, pénible|o
+opportunistic|opportuniste, qui profite des occasions|o
+outreach|action de proximité, démarche vers le public|o
+pacemaker|stimulateur cardiaque; lièvre (coureur qui mène l'allure)|o;o
+pacifist|pacifiste|o
+permutation|permutation, ordre possible|o
+petrochemical|produit pétrochimique|o
+pheromone|phéromone|o
+plow|labourer; charrue; plow through: avancer péniblement à travers|v;o;n
+plush|luxueux, moelleux; peluche|o;o
+prohibitively|au point d'être inabordable|o
+racially|sur le plan racial|o
+radial|radial, rayonnant|o
+rainwater|eau de pluie|o
+rationalize|justifier après coup; rationaliser (rendre plus efficace)|v;v
+recast|remanier, refondre; redistribuer (un rôle)|v;v
+redraw|redessiner, retracer (frontières, plans)|v
+richly|richement, somptueusement; pleinement, amplement|o;o
+righteousness|droiture, vertu|o
+scorer|buteur, marqueur; marqueur (qui tient le score)|o;o
+seclusion|isolement, retraite|o
+solidify|se solidifier, durcir; consolider|v;v
+starch|amidon, fécule; amidon (pour le linge)|o;o
+subatomic|subatomique|o
+taluka|district administratif en Inde|o
+tantrum|caprice, crise de colère|o
+tedious|fastidieux, ennuyeux|o
+tolerable|supportable; passable|o;o
+toolkit|trousse à outils|o
+trachoma|trachome|o
+trough|auge, abreuvoir; creux, point bas|o;o
+ulcer|ulcère|o
+unchallenged|incontesté|o
+undertaker|entrepreneur de pompes funèbres|o
+unimportant|sans importance|o
+untapped|inexploité|o
+untouched|intact, inchangé; pas touché (plat)|o;o
+upsurge|recrudescence, forte hausse|o
+wicket|guichet (cricket); portillon|o;o
+acknowledgement|reconnaissance, aveu; remerciements|o;o
+acumen|perspicacité, flair|o
+append|ajouter à la fin|v
+apprehend|appréhender, arrêter; saisir, comprendre|v;v
+apprehensive|inquiet, anxieux|o
+archery|tir à l'arc|o
+archival|d'archives|o
+asphalt|asphalte, bitume|o
+avid|passionné, avide|o
+barefoot|pieds nus|o
+beak|bec|o
+beginner|débutant|o
+bravely|courageusement|o
+breathtaking|à couper le souffle, époustouflant|o
+candidiasis|candidose, mycose|o
+canonical|canonique, standard; canonique (du droit ou des Écritures)|o;o
+carcass|carcasse|o
+centipede|mille-pattes|o
+charade|mascarade, comédie; charades: jeu de mime à deviner|o;n
+ciphertext|texte chiffré|o
+citrus|agrume|o
+closeness|intimité, proximité affective; proximité|o;o
+clueless|paumé, qui n'y connaît rien (fam.)|o
+cocksucker|enfoiré, fils de pute (vulg.)|o
+commencement|commencement, début; cérémonie de remise des diplômes|o;o
+commonality|point commun|o
+conjugate|conjuguer; conjugué, apparié|v;o
+connectome|connectome|o
+conqueror|conquérant, vainqueur|o
+conspirator|conspirateur, conjuré|o
+decelerate|ralentir, décélérer|v
+devilish|diabolique; espiègle, malicieux|o;o
+devotional|de dévotion, religieux|o
+dimple|fossette|o
+disqualify|disqualifier; rendre inapte|v;v
+dissect|disséquer; analyser en détail|v;v
+ducky|super, impeccable (fam.); mon chou (fam.)|o;o
+ecclesiastical|ecclésiastique|o
+eigenvalue|valeur propre (maths)|o
+elude|échapper à, esquiver; échapper (à la compréhension)|v;v
+endurance|endurance, résistance|o
+erstwhile|ancien, d'autrefois|o
+extravagant|dépensier, prodigue; extravagant, excessif, tape-à-l'œil|o;o
+fanatical|fanatique|o
+feasibility|faisabilité|o
+flattery|flatterie|o
+folio|feuillet, folio; in-folio|o;o
+foo|nom générique (dans les exemples de programmation)|o
+fresco|fresque|o
+genocidal|génocidaire|o
+genotype|génotype|o
+gladiator|gladiateur|o
+grammatical|grammatical; grammaticalement correct|o;o
+habitation|habitation, demeure; fait d'habiter|o;o
+hairdresser|coiffeur|o
+handshake|poignée de main|o
+hardworking|travailleur, assidu|o
+hemorrhage|hémorragie; saigner abondamment; perdre massivement|o;v;v
+hombre|mec, type (fam.)|o
+humanize|humaniser|v
+hydro|hydroélectricité|o
+impairment|déficience, altération, handicap|o
+incendiary|incendiaire; incendiaire, provocateur|o;o
+incessant|incessant, continuel|o
+infringement|infraction, violation|o
+inkling|vague idée, soupçon|o
+inspirational|inspirant|o
+insubordination|insubordination|o
+insular|borné, replié sur soi; insulaire|o;o
+introductory|introductif, préliminaire|o
+justifiable|justifiable, défendable|o
+liken|comparer|v
+mage|mage, magicien|o
+mammogram|mammographie|o
+mastermind|cerveau (d'une opération); orchestrer, organiser|o;v
+menstrual|menstruel|o
+metropolis|métropole|o
+miniskirt|minijupe|o
+narcissist|narcissique|o
+nightstand|table de chevet|o
+nominally|nominalement, de nom seulement; officiellement|o;o
+noteworthy|notable, remarquable|o
+occupant|occupant|o
+odious|odieux, répugnant|o
+phytoplankton|phytoplancton|o
+playable|jouable|o
+predate|précéder, être antérieur à|v
+preempt|devancer, prévenir; remplacer, supplanter|v;v
+prelude|prélude, préliminaire; prélude (musique)|o;o
+provost|directeur de collège; haut responsable universitaire|o;o
+punishable|punissable, passible de sanctions|o
+quake|tremblement de terre; trembler|o;v
+rabbinic|rabbinique|o
+racer|coureur (personne, voiture ou animal)|o
+rave|délirer, divaguer; s'extasier sur; rave (fête)|v;v;o
+regrettably|malheureusement|o
+retrofit|moderniser, rééquiper|v
+revoir|au revoir: au revoir|n
+riff|riff; variation sur un thème|o;o
+rightist|de droite (personne)|o
+saturate|saturer, imbiber; saturer, remplir au maximum|v;v
+securely|solidement, en sécurité|o
+sequential|séquentiel, successif|o
+sequester|isoler, séquestrer; stocker (le carbone)|v;v
+shoreline|littoral, rivage|o
+snipe|tirer embusqué; lancer des piques|v;v
+spiritually|spirituellement|o
+statist|étatiste|o
+subconscious|subconscient|o
+submissive|soumis, docile|o
+subsidiarity|subsidiarité|o
+sulfa|sulfa drug: sulfamide|n
+tally|décompte, total; compter, totaliser; concorder|o;v;v
+tanker|pétrolier, camion-citerne|o
+thickly|en couche épaisse; densément; d'une voix rauque|o;o;o
+thyroid|thyroïde|o
+tracker|traceur, pisteur|o
+treachery|trahison, traîtrise|o
+treasurer|trésorier|o
+trig|trigo (fam.)|o
+undertone|fond, sous-entendu; voix basse|o;o
+unequivocally|sans équivoque|o
+uninhabited|inhabité|o
+vassal|vassal; État vassal|o;o
+vertebrate|vertébré|o
+wastewater|eaux usées|o
+wearable|portable, mettable; objet connecté portable|o;o
+webinar|webinaire|o
+witty|spirituel, plein d'esprit|o
+accommodative|accommodant, serviable; accommodant (politique monétaire favorisant le crédit)|o;o
+acutely|vivement, intensément|o
+amiss|de travers, qui cloche|o
+analogue|analogique; équivalent, homologue|o;o
+avalanche|avalanche; déluge, flot|o;o
+belligerent|belliqueux, agressif; belligérant|o;o
+bonanza|aubaine, filon|o
+bonfire|feu de joie, grand feu|o
+buff|passionné, mordu; lustrer, polir; musclé, baraqué (fam.)|o;v;o
+cadre|noyau, encadrement; cadre (membre)|o;o
+cater|assurer la restauration; cater to: répondre aux besoins de|v;n
+checkpoint|poste de contrôle|o
+codify|codifier|v
+competency|compétence|o
+compliant|conforme, respectueux des règles; docile|o;o
+contractual|contractuel|o
+convincingly|de façon convaincante|o
+cutback|réduction, coupe|o
+despotic|despotique, tyrannique|o
+detractor|détracteur|o
+disdainful|dédaigneux, méprisant|o
+dynastic|dynastique|o
+elliptical|elliptique, ovale; elliptique (discours), obscur|o;o
+ethnically|sur le plan ethnique|o
+eukaryote|eucaryote|o
+euthanasia|euthanasie|o
+extol|vanter, louer|v
+fifteenth|quinzième|o
+flask|flasque, gourde; fiole, ballon; thermos|o;o;o
+generously|généreusement|o
+goalkeeper|gardien de but|o
+grower|cultivateur, producteur|o
+heartfelt|sincère, profond|o
+homogeneous|homogène|o
+hyena|hyène|o
+inept|inepte, incompétent|o
+inexorably|inexorablement|o
+inextricably|inextricablement|o
+invoice|facture; facturer|o;v
+irrelevance|manque de pertinence|o
+irritable|irritable|o
+koji|koji (moisissure pour sauce soja, miso et saké)|o
+leeway|marge de manœuvre, latitude|o
+liturgical|liturgique|o
+longitude|longitude|o
+lyrically|lyriquement, avec lyrisme; sur le plan des paroles|o;o
+macroprudential|macroprudentiel|o
+maternity|maternité; maternity leave: congé de maternité|o;n
+meritocratic|méritocratique|o
+micronutrient|micronutriment|o
+misdeed|méfait|o
+modus|modus operandi: mode opératoire|n
+morphology|morphologie|o
+murky|trouble, sombre; louche, obscur|o;o
+nocturnal|nocturne (animal); nocturne, de la nuit|o;o
+obstinacy|obstination, entêtement|o
+omnibus|omnibus (ancien autobus); texte ou recueil regroupant plusieurs éléments|o;o
+paltry|dérisoire, maigre|o
+pastoral|pastoral, champêtre; pastoral (soin des âmes)|o;o
+politicization|politisation|o
+poultry|volaille|o
+premiership|fonction de Premier ministre; Premier League (football anglais)|o;o
+prima|prima donna: diva, personne capricieuse; prima facie: de prime abord|n;n
+prodigy|prodige; merveille|o;o
+pus|pus|o
+pyjama|de pyjama; pyjamas: pyjama|o;n
+reggae|reggae|o
+regionally|régionalement, par région|o
+requisite|requis, nécessaire; condition requise|o;o
+retaliatory|de représailles|o
+retention|rétention, conservation|o
+rotational|de rotation|o
+shithead|connard, abruti (vulg.)|o
+sidereal|sidéral|o
+sleepover|soirée pyjama|o
+smelt|fondre (du minerai); éperlan; senti (passé de smell)|v;o;o
+sonnet|sonnet|o
+splatter|éclabousser; éclaboussure|v;o
+strumpet|catin, traînée|o
+stylist|coiffeur, styliste; styliste (écrivain)|o;o
+subgroup|sous-groupe|o
+superhuman|surhumain|o
+swimsuit|maillot de bain|o
+talkative|bavard, loquace|o
+theorize|théoriser, spéculer|v
+trapping|piégeage; trappings: signes extérieurs, attributs|o;n
+unambiguously|sans ambiguïté|o
+unfairly|injustement|o
+unipolar|unipolaire|o
+untested|non testé, pas encore éprouvé|o
+upturn|reprise, amélioration|o
+utensil|ustensile|o
+warily|avec méfiance, prudemment|o
+amyloid|dépôt amyloïde (dans les tissus)|o
+apparel|vêtements, habillement|o
+aquaculture|aquaculture|o
+beekeeper|apiculteur|o
+behemoth|mastodonte, géant|o
+bioluminescence|bioluminescence|o
+boron|bore (B)|o
+budgie|perruche|o
+collarbone|clavicule|o
+commissary|économat, intendance (armée, prison); cantine|o;o
+concave|concave|o
+conceptually|conceptuellement|o
+conduit|conduit, canalisation; vecteur, intermédiaire|o;o
+constitutionally|constitutionnellement; de nature, par tempérament|o;o
+convulsion|convulsion, crise; bouleversement|o;o
+correctness|exactitude, justesse; political correctness: politiquement correct|o;n
+creatively|de façon créative|o
+crucify|crucifier; éreinter, descendre en flammes|v;v
+cruelly|cruellement|o
+cynic|cynique|o
+dabble|toucher à, s'essayer à; barboter|v;v
+darkly|d'un air sombre, sinistrement; dans des tons sombres|o;o
+dashboard|tableau de bord (voiture); tableau de bord (données)|o;o
+declassification|déclassification|o
+dexterity|dextérité, habileté manuelle; vivacité d'esprit|o;o
+dignitary|dignitaire|o
+dipole|dipôle|o
+distill|distiller; extraire l'essence de|v;v
+echolocation|écholocation|o
+embryonic|embryonnaire; naissant, à l'état embryonnaire|o;o
+empathetic|empathique|o
+enactment|promulgation, adoption (d'une loi); mise en scène, reconstitution|o;o
+encore|rappel, bis; bis !|o;o
+exhilarating|grisant, exaltant|o
+fanaticism|fanatisme|o
+favela|favela|o
+firecracker|pétard|o
+fission|fission|o
+fonio|fonio|o
+foreground|premier plan|o
+forfeit|perdre, être privé de; gage, pénalité|v;o
+forfeiture|confiscation, déchéance|o
+gecko|gecko|o
+genitalia|organes génitaux|o
+genomic|génomique|o
+glade|clairière|o
+golly|mince alors, ça alors (fam.)|o
+grotesque|grotesque, difforme|o
+haggle|marchander|v
+hardwired|inné, câblé|o
+horseshoe|fer à cheval|o
+hospice|centre de soins palliatifs|o
+imp|lutin, diablotin; petit diable (enfant)|o;o
+improbable|improbable|o
+insecticide|insecticide|o
+instructional|pédagogique, éducatif|o
+intercontinental|intercontinental|o
+intimately|intimement, en profondeur; intimement (sexuellement)|o;o
+intrinsically|intrinsèquement|o
+invariant|invariable; invariant|o;o
+juncture|moment, conjoncture; jointure|o;o
+keg|tonnelet, fût|o
+kraut|boche (injurieux, fam.); choucroute|o;o
+latent|latent, dormant|o
+legalization|légalisation|o
+ligand|ligand|o
+livid|furieux; livide, violacé (ecchymose)|o;o
+megawatt|mégawatt|o
+miscellaneous|divers, varié|o
+mismanage|mal gérer|v
+mothball|mettre en sommeil, remiser; mothballs: boules de naphtaline|v;n
+nape|nuque|o
+nucleic|nucleic acid: acide nucléique (ADN ou ARN)|n
+opine|opiner, donner son avis|v
+outcast|paria, exclu|o
+perseverance|persévérance|o
+planter|jardinière, bac à plantes; planteur|o;o
+plasticity|plasticité|o
+primordial|primordial, originel|o
+projector|projecteur|o
+protestor|manifestant|o
+protocell|protocellule|o
+psyche|psyché, esprit|o
+raincoat|imperméable|o
+reassess|réévaluer|v
+recap|récapitulatif; récapituler|o;v
+recognizable|reconnaissable|o
+reload|recharger|v
+resettlement|réinstallation, relogement|o
+rigor|rigueur; rigor mortis: rigidité cadavérique|o;n
+router|routeur; défonceuse|o;o
+rudely|grossièrement, impoliment; brusquement|o;o
+saree|sari|o
+savanna|savane|o
+scapula|omoplate|o
+scour|ratisser, fouiller; récurer|v;v
+seamlessly|sans accroc, de façon fluide|o
+sentient|sensible, doué de sensibilité|o
+simplification|simplification|o
+spoiler|divulgâcheur, spoiler; becquet, aileron|o;o
+sponsorship|parrainage, sponsoring|o
+stallion|étalon|o
+strum|gratter (une guitare)|v
+subculture|sous-culture|o
+sublime|sublime|o
+surveyor|géomètre, expert|o
+teem|teem with: grouiller de; pleuvoir à verse|n;v
+teeny|minuscule, tout petit (fam.)|o
+tidal|des marées|o
+touchy|susceptible; délicat, épineux|o;o
+transponder|transpondeur|o
+unbridled|débridé, effréné|o
+underline|souligner; souligner, mettre en évidence|v;v
+unintentionally|involontairement, sans le vouloir|o
+unmistakable|indubitable, reconnaissable entre tous|o
+usable|utilisable|o
+uuh|euh (hésitation)|o
+variability|variabilité|o
+yoy|en glissement annuel|o
+abdicate|abdiquer, renoncer à|v
+adjective|adjectif|o
+adventurer|aventurier|o
+afresh|à nouveau, de nouveau|o
+agonize|se tourmenter, se ronger|v
+altruistic|altruiste|o
+ambivalent|ambivalent|o
+amplification|amplification|o
+anesthetic|anesthésique|o
+assimilate|assimiler, intégrer; s'intégrer, se fondre|v;v
+atrocious|atroce, épouvantable|o
+audiobooks|livres audio (pluriel de audiobook)|o
+avian|aviaire|o
+belch|roter|v
+bluefin|thon rouge|o
+bluish|bleuâtre|o
+bookie|bookmaker|o
+botanist|botaniste|o
+brocade|brocart|o
+caffeine|caféine|o
+calibre|calibre, envergure; calibre (d'une arme)|o;o
+cartographer|cartographe|o
+causal|causal|o
+charger|chargeur; destrier|o;o
+chronological|chronologique|o
+citizenry|ensemble des citoyens|o
+codependency|codépendance|o
+comer|arrivant; all comers: tous les participants|o;n
+craftsman|artisan|o
+craze|engouement, mode passagère|o
+cuss|jurer (fam.); type, gars (fam.)|v;o
+deduce|déduire|v
+devolve|déléguer, décentraliser (le pouvoir)|v
+dew|rosée|o
+disambiguation|désambiguïsation|o
+disenfranchise|priver du droit de vote, priver de ses droits|v
+dishonest|malhonnête|o
+dropout|décrocheur (scolaire)|o
+eavesdrop|écouter aux portes|v
+efface|effacer; efface oneself: s'effacer|v;n
+endear|endear oneself to: se faire aimer de|n
+epidemiological|épidémiologique|o
+evangelical|évangélique; zélé, prosélyte|o;o
+evilly|méchamment|o
+expedient|opportun, pratique; expédient|o;o
+eyesight|vue|o
+facet|facette, aspect; facette (d'une pierre)|o;o
+fearsome|redoutable, effrayant|o
+fictionalized|romancé|o
+fondly|tendrement; naïvement (espérer)|o;o
+forgery|faux, contrefaçon; falsification|o;o
+gall|culot, toupet; amertume; agacer|o;o;v
+glutinous|gluant, collant|o
+headland|promontoire, cap|o
+healer|guérisseur|o
+heist|braquage, casse|o
+henceforth|désormais, dorénavant|o
+hernia|hernie|o
+hierarchical|hiérarchique|o
+housemaid|bonne, domestique|o
+humanism|humanisme|o
+idly|paresseusement, sans but|o
+imma|je vais (fam.)|f1s
+infusion|infusion; apport, injection; perfusion|o;o;o
+insensible|inconscient, sans connaissance; ignorant, inconscient de; insensible|o;o;o
+interstellar|interstellaire|o
+intravenous|intraveineux|o
+ionic|ionique; ionique (colonne)|o;o
+ish|à peu près, environ (fam.)|o
+keenly|vivement, ardemment|o
+knapsack|sac à dos|o
+lackluster|terne, sans éclat|o
+lawful|légal, licite|o
+leaflet|dépliant, tract|o
+liquidation|liquidation (d'une société); élimination, assassinat|o;o
+marketer|spécialiste du marketing|o
+medicinal|médicinal|o
+menopause|ménopause|o
+merciless|impitoyable, sans pitié|o
+metabolize|métaboliser|v
+metaphorical|métaphorique, figuré|o
+millennial|millénial (né vers 1981–1996); millénaire|o;o
+mitzva|commandement religieux; bonne action (judaïsme)|o;o
+monetarist|monétariste|o
+moult|muer|v
+naturalist|naturaliste|o
+nausea|nausée|o
+nonfiction|documentaire, ouvrages non romanesques|o
+overrun|envahir, submerger; dépasser (délai, budget)|v;v
+panellist|membre d'un jury, intervenant|o
+pediatric|pédiatrique|o
+penchant|penchant, goût|o
+penetrative|pénétrant, perçant|o
+pervade|imprégner, se répandre dans|v
+phenotype|phénotype|o
+placate|apaiser, calmer|v
+ploy|stratagème, manœuvre|o
+podium|estrade, podium|o
+qualitative|qualitatif|o
+receptionist|réceptionniste|o
+regrettable|regrettable|o
+relocation|déménagement, délocalisation|o
+repudiation|rejet, désaveu|o
+ruff|fraise (col); collerette (plumes, poils)|o;o
+sanitary|sanitaire, hygiénique; sanitary pad: serviette hygiénique|o;n
+sedition|sédition|o
+seesaw|bascule, tape-cul; osciller, faire la navette|o;v
+selectively|sélectivement|o
+separatism|séparatisme|o
+sexist|sexiste|o
+shoelace|lacet|o
+sidekick|acolyte, comparse|o
+skyline|ligne d'horizon, silhouette de la ville|o
+snippet|extrait, bribe|o
+sociological|sociologique|o
+spurn|repousser, dédaigner|v
+standalone|autonome, indépendant|o
+suitor|prétendant|o
+superficial|superficiel; superficiel, en surface|o;o
+superstitious|superstitieux|o
+teaspoon|cuillère à café|o
+tellingly|de façon révélatrice|o
+tenuous|ténu, mince|o
+toothpaste|dentifrice|o
+topography|topographie, relief|o
+trainee|stagiaire, apprenti|o
+triplet|triplé; triplet, trio|o;o
+unimpressed|pas impressionné|o
+unwelcome|importun, malvenu|o
+unyielding|inflexible, intransigeant|o
+uptight|tendu, crispé; coincé (fam.)|o;o
+venerable|vénérable|o
+veterinarian|vétérinaire|o
+vivo|in vivo: dans un organisme vivant|n
+voiceless|sans voix, muet; sourd (son)|o;o
+wasteland|terrain vague, désert|o
+accompaniment|accompagnement (musical); accompagnement, garniture|o;o
+acquiescence|acquiescement, consentement tacite|o
+adjunct|complément, accessoire; adjoint, vacataire (enseignant)|o;o
+aggressor|agresseur|o
+agribusiness|agro-industrie|o
+ambient|ambiant; ambient music: musique d'ambiance|o;n
+amphibious|amphibie|o
+anonymously|anonymement|o
+apt|approprié, pertinent; apt to: enclin à, susceptible de|o;n
+arbiter|arbitre|o
+assorted|assorti, varié|o
+asymmetrical|asymétrique|o
+authorship|paternité (d'une œuvre)|o
+awash|inondé; awash with: regorgeant de|o;n
+banknote|billet de banque|o
+baptize|baptiser|v
+bewitch|ensorceler, envoûter|v
+biomaterial|biomatériau|o
+biometric|biométrique|o
+blackness|noirceur, obscurité|o
+brisk|vif, énergique; frais, vivifiant|o;o
+buoy|bouée; maintenir à flot; remonter le moral|o;v;v
+caucus|réunion des membres d'un parti; groupe parlementaire|o;o
+choral|choral|o
+cloudy|nuageux; trouble|o;o
+codeine|codéine|o
+compatibility|compatibilité|o
+concessional|concessionnel, à taux préférentiel (prêts)|o
+conflagration|incendie, embrasement|o
+cyan|cyan, bleu-vert|o
+deform|déformer|v
+disengage|dégager, se désengager|v
+disrespectful|irrespectueux|o
+dissuade|dissuader|v
+duly|dûment; comme prévu|o;o
+ebb|refluer, descendre (marée); décliner; ebb and flow: flux et reflux|v;v;n
+enquire|se renseigner, demander|v
+façade|façade; façade, apparence trompeuse|o;o
+fluff|peluches, duvet; futilités, remplissage; rater, bâcler|o;o;v
+goofy|loufoque, niais (fam.)|o
+hereafter|désormais, ci-après; l'au-delà|o;o
+improper|incorrect, inapproprié; indécent|o;o
+imprudence|imprudence|o
+lurch|tituber, faire une embardée; leave in the lurch: laisser en plan|v;n
+lush|luxuriant; luxueux|o;o
+malady|maladie, mal|o
+mournful|mélancolique, affligé|o
+mutilate|mutiler|v
+piety|piété|o
+seasoning|assaisonnement|o
+shamelessly|sans vergogne, effrontément|o
+surreal|surréaliste, onirique|o
+unzip|ouvrir la fermeture éclair; décompresser (un fichier)|v;v
+vapour|vapeur, buée|o
+vigilance|vigilance|o
+ballroom|salle de bal|o
+balm|baume; réconfort|o;o
+blazer|blazer, veste|o
+cauldron|chaudron|o
+cetacean|cétacé|o
+communion|Holy Communion: communion, eucharistie; communion (d'esprit)|n;o
+courtier|courtisan|o
+cower|se recroqueviller de peur|v
+defensively|sur la défensive|o
+doorknob|poignée de porte, bouton de porte|o
+edict|édit, décret|o
+faithfully|fidèlement, loyalement; fidèlement, exactement; yours faithfully: veuillez agréer mes salutations distinguées|o;o;n
+firmness|fermeté, résolution; solidité|o;o
+flirty|dragueur, charmeur|o
+flurry|rafale (de neige); tourbillon d'activité|o;o
+gallantry|bravoure; galanterie|o;o
+gash|entaille, balafre; entailler|o;v
+glaze|glaçure, vernis, glaçage; vernir, glacer; glaze over: devenir vitreux (regard)|o;v;n
+gloss|brillant, lustre; glose; gloss over: passer sous silence, minimiser|o;o;n
+hairpin|épingle à cheveux; hairpin bend: virage en épingle à cheveux|o;n
+harpoon|harpon|o
+indulgence|plaisir qu'on s'accorde; gâterie, petit plaisir; indulgence, tolérance|o;o;o
+insatiable|insatiable|o
+knitting|tricot|o
+knowingly|sciemment, délibérément; d'un air entendu|o;o
+monotonous|monotone|o
+mould|moisissure; moule; mouler, façonner|o;o;v
+onlooker|spectateur, badaud|o
+ooze|suinter; vase, boue|v;o
+paralyse|paralyser|v
+patter|crépitement, tapotement; baratin, boniment|o;o
+precipice|précipice|o
+putter|bricoler, traînasser; putter (golf)|v;o
+quench|étancher (la soif); éteindre (un feu)|v;v
+rashly|imprudemment, inconsidérément|o
+rasp|grincement, raclement; râpe|o;o
+relapse|rechute; rechuter|o;v
+repute|réputation, renom|o
+rivet|rivet; riveter; captiver (l'attention)|o;v;v
+roadside|bord de la route|o
+sanity|santé mentale, raison|o
+sedan|berline; sedan chair: chaise à porteurs|o;n
+shabby|miteux, usé; mesquin|o;o
+sorta|genre, un peu (fam.)|o
+spiky|hérissé de pointes; irritable|o;o
+spoonful|cuillerée|o
+stamen|étamine|o
+sundry|divers; all and sundry: tout le monde|o;n
+swoon|se pâmer, défaillir|v
+tack|punaise, semence; tactique, cap; faufiler, fixer provisoirement|o;o;v
+tambourine|tambourin|o
+tipsy|éméché, pompette|o
+truthfully|honnêtement, sincèrement|o
+twas|c'était ('twas)|f3s
+unbreakable|incassable|o
+unparalleled|sans égal, sans précédent|o
+unspeakable|indicible, innommable|o
+untimely|prématuré; inopportun|o;o
+unwell|souffrant|o
+unwillingly|à contrecœur|o
+wholesome|sain; moral, honnête|o;o
+wickedness|méchanceté, perversité|o
+amorous|amoureux, galant|o
+backside|derrière, postérieur; arrière|o;o
+baptism|baptême|o
+berate|réprimander, tancer|v
+dote|dote on: être gaga de, adorer|n
+enigma|énigme|o
+err|se tromper, errer|v
+festivity|festivité, fête|o
+foretell|prédire|v
+gilt|dorure; doré|o;o
+imprudent|imprudent|o
+insolence|insolence|o
+mellow|doux, velouté, détendu|o
+morsel|morceau, bouchée|o
+nevermind|peu importe, laisse tomber|o
+nook|recoin, coin|o
+oat|avoine; oats: flocons d'avoine|o;n
+realisation|prise de conscience; réalisation (d'un objectif)|o;o
+repulsive|repoussant, répugnant|o
+rustic|rustique|o
+secretive|cachottier, secret|o
+shockingly|scandaleusement, effroyablement; étonnamment|o;o
+sleepless|sans sommeil, blanc (nuit)|o
+snout|museau, groin|o
+stench|puanteur|o
+stony|pierreux, caillouteux; froid, de marbre|o;o
+subterranean|souterrain|o
+tentatively|timidement, provisoirement|o
+unaccountable|inexplicable, étrange; qui n'a de comptes à rendre à personne|o;o
+urchin|gamin des rues, galopin; sea urchin: oursin|o;n
+vehemently|avec véhémence|o
+weakling|gringalet, faible|o
+befit|convenir à, seoir à|v
+blacken|noircir|v
+blissful|merveilleux, béat|o
+bulky|volumineux, encombrant|o
+drawl|parler d'une voix traînante; voix traînante|v;o
+elongate|allonger|v
+ember|braise|o
+extricate|dégager, tirer d'affaire|v
+flawless|parfait, impeccable|o
+gaily|gaiement; de couleurs vives|o;o
+ginseng|ginseng|o
+hanger|cintre|o
+hectic|trépidant, mouvementé|o
+homeroom|salle de classe principale, appel du matin (école américaine)|o
+imbue|imprégner, pénétrer (d'une qualité)|v
+infirmary|hôpital; infirmerie|o;o
+lamentation|lamentation|o
+nauseous|nauséeux; écœurant|o;o
+ordeal|épreuve, calvaire|o
+penance|pénitence|o
+perspiration|transpiration, sueur|o
+rebirth|renaissance; nouvelle naissance|o;o
+recline|s'allonger, se renverser en arrière|v
+recluse|reclus, ermite|o
+reek|puer, empester; puanteur|v;o
+relent|céder, s'adoucir|v
+rigging|gréement; truquage (d'un vote)|o;o
+ruddy|rubicond, rougeaud; fichu, sacré (fam.)|o;o
+ruffian|voyou, brute|o
+shockwave|onde de choc; onde de choc (émotion collective)|o;o
+sketchbook|carnet de croquis|o
+skillful|habile, adroit|o
+spout|bec (verseur); jaillir; débiter, pérorer|o;v;v
+stubbornness|entêtement, obstination|o
+sunflower|tournesol|o
+surly|bourru, revêche|o
+triumphantly|triomphalement|o
+uncontrollable|incontrôlable|o
+vainly|en vain; avec vanité|o;o
+venomous|venimeux; venimeux, malveillant|o;o
+volley|salve, volée; volée (frapper la balle avant le rebond)|o;o
+watchful|vigilant, attentif|o
+worldly|terrestre, matériel; expérimenté, qui connaît le monde|o;o
+abt|à propos de, environ (fam.)|o
+adamant|catégorique, inflexible|o
+affront|affront, insulte; offenser|o;v
+anemone|anémone; sea anemone: anémone de mer|o;n
+angst|angoisse|o
+apologetic|d'excuse, désolé|o
+astray|hors du droit chemin; go astray: s'égarer, mal tourner|o;n
+balustrade|balustrade|o
+berth|couchette; mouillage, poste d'amarrage; give a wide berth: éviter soigneusement|o;o;n
+camper|campeur; camping-car|o;o
+comprehension|compréhension|o
+coven|cercle de sorcières|o
+covet|convoiter|v
+deflate|dégonfler; démoraliser|v;v
+distraught|éperdu, bouleversé|o
+dreadfully|terriblement, affreusement|o
+gloomily|tristement, d'un air sombre|o
+hysterically|nerveusement, de façon hystérique (rire, pleurer)|o
+idleness|oisiveté, paresse; inactivité|o;o
+impel|pousser, contraindre|v
+impotent|impuissant; impuissant (sexuellement)|o;o
+incredulous|incrédule|o
+makeshift|de fortune, improvisé|o
+novice|novice, débutant; novice (religieux)|o;o
+ooo|oh (surprise, plaisir)|o
+permeate|imprégner, se répandre dans|v
+pheasant|faisan|o
+pleasantry|civilité, propos aimable|o
+savour|savourer|v
+sledge|luge, traîneau; masse (marteau)|o;o
+sleeved|à manches|o
+stately|majestueux, imposant|o
+stirrup|étrier|o
+unmoved|impassible, insensible|o
+utterance|énoncé, propos|o
+vortex|tourbillon, vortex|o
+whiteness|blancheur|o
+authoritative|qui fait autorité, fiable; autoritaire, impérieux|o;o
+brandish|brandir|v
+brazen|effronté, éhonté|o
+brilliantly|brillamment; avec éclat|o;o
+cavalier|cavalier, désinvolte; cavalier, royaliste|o;o
+chandelier|lustre|o
+dint|by dint of: à force de|n
+fidelity|fidélité; fidélité, exactitude|o;o
+forthwith|sur-le-champ, immédiatement|o
+glorify|glorifier, magnifier|v
+greenish|verdâtre|o
+highschool|lycée, établissement secondaire|o
+lengthen|allonger, rallonger|v
+lighthearted|enjoué, léger|o
+motherly|maternel|o
+nourishment|nourriture, alimentation|o
+onslaught|assaut, attaque violente|o
+pasture|pâturage, pâture|o
+perceptible|perceptible, sensible|o
+placid|placide, calme|o
+relive|revivre|v
+resurface|refaire surface; refaire le revêtement de|v;v
+rune|rune; symbole magique|o;o
+sickle|faucille|o
+silvery|argenté|o
+snug|douillet, confortable; ajusté, près du corps|o;o
+stormy|orageux; houleux, tumultueux|o;o
+supposition|supposition, hypothèse|o
+thermometer|thermomètre|o
+tidings|nouvelles|o
+tiredness|fatigue|o
+understatement|euphémisme, litote|o
+unkind|désagréable, méchant|o
+unstoppable|irrésistible, inarrêtable|o
+windmill|moulin à vent|o
+aggrieve|léser, affliger; aggrieved: lésé, qui s'estime injustement traité|v;n
+alleyway|ruelle|o
+assuredly|assurément|o
+baronet|baronnet|o
+benevolence|bienveillance|o
+berserk|go berserk: devenir fou furieux|n
+bookshelf|étagère à livres|o
+bugle|clairon|o
+cloister|cloître (galerie); cloître, monastère|o;o
+contemptuously|avec mépris|o
+cot|lit de bébé; lit de camp|o;o
+drowsy|somnolent|o
+elegantly|élégamment|o
+elm|orme|o
+eloquent|éloquent|o
+expend|dépenser, consommer|v
+fain|volontiers, de bon cœur|o
+ferocity|férocité|o
+fervor|ferveur, zèle|o
+gratification|satisfaction, plaisir|o
+humbly|humblement|o
+impenetrable|impénétrable; incompréhensible|o;o
+indigo|indigo|o
+inseparable|indissociable; inséparable|o;o
+instigate|provoquer, déclencher|v
+introspection|introspection|o
+kraken|kraken|o
+legging|leggings: legging, caleçon|n
+likeness|ressemblance; portrait|o;o
+liquefy|liquéfier, se liquéfier|v
+multifaceted|aux multiples facettes|o
+obscurity|anonymat, oubli; obscurité, manque de clarté|o;o
+palisade|palissade|o
+persevere|persévérer|v
+radiance|éclat, rayonnement; rayonnement (de bonheur)|o;o
+retrace|retracer, revenir sur|v
+seatbelt|ceinture de sécurité|o
+selfie|selfie, égoportrait|o
+skater|patineur|o
+slouch|être avachi, se tenir voûté; no slouch: pas manchot, doué|v;n
+spectre|spectre, fantôme; spectre, menace|o;o
+spurt|jaillir, gicler; sursaut, poussée|v;o
+stateroom|cabine particulière; salon d'apparat|o;o
+tearful|en larmes, larmoyant|o
+therein|en cela, là-dedans|o
+thereupon|sur ce, aussitôt|o
+unbroken|intact; ininterrompu|o;o
+unknowingly|sans le savoir, à son insu|o
+affirmation|confirmation; affirmation positive|o;o
+cinder|escarbille, cendre|o
+cockpit|cockpit, poste de pilotage|o
+detonator|détonateur|o
+dilate|dilater, se dilater|v
+etiquette|étiquette, bienséance|o
+exterminate|exterminer|v
+fae|fées, peuple féerique|o
+fervent|fervent, ardent|o
+flake|flocon, écaille; personne peu fiable (fam.); s'écailler|o;o;v
+foggy|brumeux; confus, flou|o;o
+fortitude|force d'âme, courage|o
+fruitless|vain, infructueux|o
+fulfil|accomplir, remplir; satisfaire, combler|v;v
+furry|à fourrure, poilu|o
+ghostly|fantomatique, spectral|o
+girdle|gaine, corset; ceinture|o;o
+haggard|hagard, défait|o
+heater|radiateur, appareil de chauffage|o
+impertinent|impertinent, insolent|o
+inexperienced|inexpérimenté|o
+lacrosse|crosse (sport)|o
+mahogany|acajou|o
+pantry|garde-manger, office|o
+perpetually|perpétuellement, sans cesse|o
+pleasurable|agréable|o
+regal|royal, majestueux|o
+ridiculously|ridiculement|o
+splutter|bredouiller, postillonner; crachoter|v;v
+sputter|crachoter, crépiter; faiblir, hoqueter|v;v
+tendon|tendon|o
+thrice|trois fois|o
+thunderstorm|orage|o
+unbeknownst|unbeknownst to: à l'insu de|n
+unsteady|chancelant, instable|o
+wavy|ondulé|o
+abhor|abhorrer, détester|v
+advisable|conseillé, recommandé|o
+ailment|affection, mal bénin|o
+arduous|ardu, pénible|o
+billiard|billiards: billard|n
+bleacher|bleachers: gradins découverts|n
+bloodshot|injecté de sang (yeux)|o
+bough|grosse branche, rameau|o
+candlelight|lueur des bougies|o
+caprice|caprice|o
+casket|cercueil; coffret|o;o
+chastise|châtier, réprimander|v
+childlike|enfantin, innocent|o
+colourful|coloré; pittoresque, haut en couleur|o;o
+confessor|confesseur; personne qui avoue|o;o
+disconcert|déconcerter, décontenancer|v
+disgraceful|honteux, scandaleux|o
+elapse|s'écouler (temps)|v
+excruciating|atroce, insoutenable|o
+flannel|flanelle; gant de toilette|o;o
+flog|fouetter, flageller; fourguer, vendre (fam.)|v;v
+fondness|affection, tendresse|o
+frankness|franchise|o
+futon|futon|o
+gendarme|gendarme|o
+ghoul|goule; personne fascinée par le macabre|o;o
+gibbet|gibet, potence|o
+hairstyle|coiffure|o
+harpy|harpie (monstre); harpie, mégère|o;o
+hideout|cachette, planque|o
+jackal|chacal|o
+matriarch|matriarche|o
+menacingly|d'un air menaçant|o
+meticulous|méticuleux|o
+minion|sbire, larbin|o
+mysteriously|mystérieusement|o
+nigh|proche; well nigh: presque|o;n
+nimble|agile, leste|o
+pamper|choyer, dorloter|v
+peculiarly|étrangement; particulièrement|o;o
+penthouse|penthouse, appartement de luxe au dernier étage|o
+perchance|peut-être, par hasard|o
+petite|menue, fine|o
+prod|pousser du doigt; aiguillonner, inciter; petite poussée|v;v;o
+recharge|recharger; reprendre des forces|v;v
+refinement|raffinement; amélioration, perfectionnement|o;o
+sadistic|sadique|o
+saffron|safran; jaune safran|o;o
+saunter|flâner, déambuler|v
+slither|glisser, ramper|v
+solstice|solstice|o
+starry|étoilé|o
+stow|ranger; stow away: voyager clandestinement|v;n
+tradesman|commerçant; artisan|o;o
+tremor|tremblement; secousse sismique|o;o
+unreadable|illisible; impénétrable (visage)|o;o
+unruly|indiscipliné, turbulent|o
+veneer|placage; vernis, façade|o;o
+viciously|sauvagement, cruellement|o
+warble|gazouiller, faire des trilles|v
+barbarous|barbare, cruel; barbare, non civilisé|o;o
+billow|se gonfler, tourbillonner (fumée, voiles); grande vague, nuage épais|v;o
+boudoir|boudoir|o
+bridegroom|futur marié|o
+bubbly|pétillant, plein d'entrain; champagne (fam.)|o;o
+busily|activement|o
+cask|fût, tonneau|o
+chortle|glousser|v
+cinnamon|cannelle|o
+contemptuous|méprisant|o
+defiantly|avec défi|o
+delusional|délirant|o
+earnestness|sérieux, sincérité|o
+flatly|catégoriquement, sans détour; d'une voix monocorde|o;o
+freshness|fraîcheur|o
+gunpowder|poudre à canon|o
+hoard|amasser, stocker en secret; magot, réserve secrète|v;o
+interlock|s'emboîter|v
+intricacy|complexité; intricacies: subtilités, détails|o;n
+knack|don, talent|o
+lodger|locataire, pensionnaire|o
+machete|machette|o
+malevolent|malveillant|o
+mollusk|mollusque|o
+nonstop|sans arrêt|o
+observant|observateur|o
+peal|carillon; éclat (de rire, de tonnerre)|o;o
+pooh|pouah, peuh (dégoût ou mépris)|g
+purify|purifier|v
+rile|agacer, énerver|v
+saucer|soucoupe|o
+seedling|semis, jeune plant|o
+shipwreck|naufrage; épave|o;o
+spasm|spasme; accès, sursaut|o;o
+steely|d'acier, inflexible; métallique, comme l'acier|o;o
+thicken|épaissir|v
+tortoise|tortue (terrestre)|o
+unbuckle|déboucler, dégrafer|v
+undoing|perte, ruine|o
+unroll|dérouler|v
+whereupon|sur quoi, après quoi|o
+wholeheartedly|sans réserve, de tout cœur|o
+aimlessly|sans but|o
+appendage|appendice, membre|o
+approbation|approbation|o
+battlements|créneaux, remparts crénelés|o
+behead|décapiter|v
+beige|beige|o
+betroth|fiancer; betrothed: fiancé|v;n
+betrothal|fiançailles|o
+bittersweet|doux-amer|o
+blabber|jacasser, bavarder|v
+bloodline|lignée, lignage|o
+blot|tache; éponger, sécher; blot out: masquer, effacer|o;v;n
+brooding|sombre, pensif; menaçant|o;o
+caramel|caramel; caramel (bonbon)|o;o
+carp|carpe; râler, ronchonner|o;v
+chasm|gouffre, abîme; fossé|o;o
+concealment|dissimulation|o
+conformity|conformité, conformisme|o
+crinkle|froisser, se plisser; petit pli, ride|v;o
+croon|fredonner, chanter doucement|v
+defile|souiller, profaner; défilé (passage étroit)|v;o
+detour|détour|o
+discreetly|discrètement|o
+doubly|doublement|o
+ensnare|prendre au piège|v
+flit|voleter, passer rapidement|v
+gipsy|gitan, bohémien; vagabond|o;o
+glimmering|scintillant, faiblement lumineux; lueur, faible signe|o;o
+godly|pieux, dévot|o
+halter|licou; halter top: dos-nu|o;n
+ima|je vais (fam.)|f1s
+immature|immature, puéril; pas encore adulte, immature|o;o
+inasmuch|inasmuch as: dans la mesure où, vu que|n
+inert|inerte, immobile; inerte (chimiquement)|o;o
+inquisitive|curieux, indiscret|o
+intoxication|ivresse, ébriété; griserie, exaltation|o;o
+jovial|jovial, enjoué|o
+lute|luth|o
+mascara|mascara|o
+matrimony|mariage|o
+mulberry|mûrier; mûre|o;o
+nosy|curieux, fouineur|o
+otherworldly|surnaturel, éthéré|o
+pacify|apaiser, calmer; pacifier|v;v
+patrician|patricien, aristocrate; aristocratique|o;o
+pillage|piller|v
+pillory|clouer au pilori; pilori|v;o
+quaint|pittoresque, au charme désuet|o
+readjust|réajuster, se réadapter|v
+seduction|séduction (sexuelle); attrait, charme|o;o
+shirtless|torse nu|o
+sift|tamiser; passer au crible|v;v
+sill|rebord (de fenêtre), seuil|o
+slant|pente, inclinaison; parti pris, angle; pencher, être en pente|o;o;v
+somber|sombre, grave|o
+speck|point, grain|o
+spew|cracher, vomir|v
+splendor|splendeur|o
+strut|se pavaner; entretoise, étai|v;o
+totter|chanceler, tituber|v
+troublemaker|fauteur de troubles|o
+unfathomable|insondable, incompréhensible|o
+vamp|vamp, femme fatale; improviser|o;v
+visor|visière (de casquette); visière (de casque)|o;o
+vocation|vocation, métier|o
+whiff|bouffée, effluve; soupçon, trace|o;o
+windy|venteux|o
+yellowish|jaunâtre|o
+ablaze|en flammes; illuminé, étincelant|o;o
+abreast|côte à côte; keep abreast of: se tenir au courant de|o;n
+appreciative|reconnaissant; appréciateur, élogieux|o;o
+asunder|en morceaux, en pièces|o
+ceaseless|incessant|o
+censure|blâme, censure; blâmer, censurer|o;v
+cobbler|cordonnier; tourte aux fruits (croûte sur le dessus)|o;o
+condescension|condescendance|o
+dab|tamponner, effleurer; petite touche, noisette; dab hand: expert, as|v;o;n
+deference|déférence|o
+delirium|délire; délire, exaltation|o;o
+delude|tromper, abuser|v
+despicable|méprisable, ignoble|o
+devout|pieux, dévot|o
+floral|floral|o
+forefinger|index|o
+galleon|galion|o
+infamy|infamie, déshonneur|o
+jerky|saccadé; viande séchée|o;o
+lanky|dégingandé|o
+lukewarm|tiède; tiède, peu enthousiaste|o;o
+mottle|mottled: tacheté, marbré|n
+mutton|mouton (viande)|o
+nightgown|chemise de nuit|o
+notary|notaire|o
+pedestal|piédestal, socle; put on a pedestal: idéaliser, mettre sur un piédestal|o;n
+promontory|promontoire|o
+prostrate|prostré, étendu face contre terre; accablé; se prosterner|o;o;v
+pun|jeu de mots, calembour|o
+roundhouse|coup circulaire (poing ou pied); rotonde (dépôt de locomotives)|o;o
+schoolboy|écolier|o
+selfishness|égoïsme|o
+sickening|écœurant, révoltant|o
+skid|déraper|v
+sled|luge, traîneau|o
+smudge|trace, bavure; étaler, maculer|o;v
+splendour|splendeur|o
+unaffected|non affecté, inchangé; naturel, sincère|o;o
+unnerve|déstabiliser, troubler|v
+wrack|tourmenter, ravager; wrack and ruin: ruine, perdition|v;n
+battleship|cuirassé|o
+canine|canin; chien; canine tooth: canine|o;o;n
+chai|chai, thé épicé au lait|o
+cheekbone|pommette|o
+convulse|se convulser, secouer violemment|v
+coronet|petite couronne, diadème|o
+diligence|zèle, application|o
+diligently|avec application, assidûment|o
+dismissively|avec dédain|o
+doth|fait (forme archaïque de does)|f3s
+emo|emo (style punk émotionnel); emo (adepte)|o;o
+evince|manifester, témoigner de|v
+farthing|liard (ancienne pièce, un quart de penny)|o
+fickle|inconstant, versatile|o
+fissure|fissure, crevasse|o
+flail|se débattre, battre des bras; fléau|v;o
+hag|vieille sorcière, harpie|o
+humanoid|humanoïde|o
+hyperventilate|hyperventiler|v
+luncheon|déjeuner officiel|o
+mandible|mandibule, mâchoire|o
+meekly|docilement, humblement|o
+oblivion|oubli; inconscience, néant|o;o
+passageway|couloir, passage|o
+skilful|habile, adroit|o
+stuffy|étouffant, mal aéré; guindé, compassé|o;o
+truthful|honnête, sincère|o
+unforgiving|rancunier, impitoyable; rude, sans pitié|o;o
+vehemence|véhémence|o
+verily|en vérité|o
+vibes|ambiance, feeling (fam.); vibraphone|o;o
