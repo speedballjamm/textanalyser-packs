@@ -197,3 +197,458 @@ au revoir
 à bientôt
 à demain
 mon dieu
+
+# ==== The 2026-09-23 expansion (phase 4): proposed by a model, kept only where
+# `measure:phrase-fit` over fiction and OPUS found it and a read of its sampled
+# sentences found the idiomatic reading carrying it.
+# ---- avoir + noun
+avoir hâte
+avoir beau
+avoir l' intention
+avoir l' impression
+avoir pitié
+avoir horreur
+avoir recours à
+avoir la trouille
+avoir le cœur
+avoir l' œil
+avoir de quoi
+avoir des ennuis
+avoir qu' à
+en avoir marre
+en avoir assez
+en avoir pour
+avoir affaire
+# ---- faire + noun and causatives
+faire peur
+faire confiance
+faire partie
+faire face
+faire de ? mieux
+faire du bien
+faire plaisir
+faire signe
+faire mine de
+faire le tour
+faire un tour
+faire allusion
+faire de la peine
+faire marcher
+faire savoir
+faire venir
+faire taire
+faire croire
+faire remarquer
+faire valoir
+faire l' affaire
+faire du souci
+faire la cour
+faire part
+faire la grasse matinée
+faire nuit
+faire beau
+faire froid
+faire chaud
+faire ? valise
+faire en sorte
+t' en faire
+vous en faire
+ça ne fait rien
+ça fait longtemps
+# ---- prendre / mettre / tenir / donner / rendre
+prendre la fuite
+prendre garde
+prendre la parole
+prendre l' air
+prendre congé
+prendre place
+en prendre à
+prendre un verre
+prendre dans ? bras
+y prendre
+mettre de côté
+mettre les pieds
+mettre la main sur
+se mettre à table
+tenir le coup
+tenir tête
+tenir bon
+tenir debout
+tenir compte
+tenir à
+donner raison
+donner sur
+rendre visite
+rendre service
+# ---- tomber / aller / venir / passer / other verbs
+tomber amoureux
+tomber sur
+aller chercher
+aller mieux
+aller jusqu' à
+on y va
+venir à bout
+en venir à
+venir à l' esprit
+se passer
+se passer de
+passer pour
+se douter
+se demander
+je me demande
+s' attendre à
+m' attendre à
+servir de
+servir à
+occuper de
+en occuper
+moquer de
+en tirer
+en foutre
+en finir
+en rester là
+où en être
+en pouvoir plus
+en remettre
+en revenir
+y être pour
+y connaître
+y tenir
+vouloir dire
+entendre dire
+entendre parler
+on dirait
+dis donc
+dites donc
+valoir mieux
+mieux vaut
+valoir le coup
+laisser faire
+laisser tranquille
+manquer de
+me manquer
+que je sache
+je ne sais quoi
+on ne peut plus
+perdre connaissance
+perdre la tête
+perdre ? temps
+gagner ? vie
+jeter un œil
+serrer la main
+serrer dans ? bras
+tendre la main
+pousser un cri
+fondre en larmes
+éclater de rire
+éclater en sanglots
+rire aux éclats
+mourir de faim
+donner ? parole
+reprendre ? souffle
+se tromper
+# ---- Pronominal and clitic formulas
+m' est égal
+ça suffit
+il suffit de
+il paraît que
+il se trouve que
+il y a longtemps
+pas de quoi
+il va sans dire
+c' est pourquoi
+c' est pour ça
+c' est ça
+c' est bon
+c' est parti
+pas grave
+c' est pas vrai
+ça marche
+ça craint
+ça alors
+comment ça
+comment ça va
+qu' importe
+que dalle
+ne serait-ce que
+# ---- Connectives and discourse markers
+sans doute
+au fond
+en fin de compte
+tout compte fait
+à la fois
+à tout prix
+à force de
+à moins que
+à moins de
+au cas où
+de sorte que
+si bien que
+aussi bien que
+d' autant plus
+d' ailleurs
+en revanche
+par conséquent
+en outre
+en plus
+du moins
+pour ainsi dire
+à vrai dire
+à savoir
+même si
+même pas
+pas même
+pas encore
+non plus
+moi non plus
+pas grand-chose
+pas question
+hors de question
+tant pis
+tant mieux
+tant bien que mal
+de même
+ainsi que
+de manière à
+de façon à
+au point de
+au point que
+vu que
+lors de
+avant tout
+en tant que
+en guise de
+en vue de
+quant à
+au sujet de
+en ce qui concerne
+à propos de
+à l' égard de
+à l' insu de
+faute de
+à défaut de
+afin de
+de peur que
+de crainte que
+de peur de
+pour peu que
+sans que
+si ce n' est
+d' après
+d' où
+d' autre part
+d' un côté
+cela dit
+en passant
+ou bien
+eh bien
+ah bon
+oh là là
+et alors
+comme quoi
+comme d' habitude
+d' habitude
+comme il faut
+et ainsi de suite
+quoi qu' il en soit
+quoi qu' il arrive
+quoi que ce soit
+qui que ce soit
+coûte que coûte
+quel que
+n' importe quel
+n' importe quand
+peu importe
+en quelque sorte
+en somme
+bien entendu
+bien des
+pour sûr
+à coup sûr
+pour de bon
+pour rien
+rien que
+rien du tout
+rien à voir
+rien à faire
+le moins du monde
+pas tout à fait
+pas vrai
+ou quoi
+y compris
+à part
+loin de là
+sans compter
+non sans
+# ---- Time
+à l' instant
+à la longue
+à jamais
+de temps à autre
+à partir de
+dès lors
+d' avance
+de nos jours
+à l' époque
+en attendant
+au départ
+une fois que
+des fois
+de suite
+sur le point de
+en un clin d' œil
+de bonne heure
+cette nuit
+du jour au lendemain
+à mesure que
+au bout de
+par la suite
+au plus vite
+sans cesse
+tout d' un coup
+sur le coup
+tout d' abord
+# ---- Manner and place
+à haute voix
+à voix basse
+à genoux
+à tâtons
+à la renverse
+en hâte
+à bout de souffle
+peu à peu
+à peu près
+à peine
+au hasard
+par hasard
+par cœur
+de travers
+de côté
+en douce
+à pas de loup
+de loin
+de près
+au juste
+à merveille
+à l' aise
+mal à l' aise
+à bout
+à bout de
+sens dessus dessous
+de long en large
+de plus en plus
+de plus belle
+à perte de vue
+à l' improviste
+à la place
+à ta place
+à votre place
+à son tour
+à mon tour
+à leur tour
+tour à tour
+en face
+en haut
+en bas
+en avant
+en arrière
+en route
+tout droit
+tout bas
+tout haut
+tout juste
+tout au plus
+tout court
+au loin
+le long de
+à travers
+à l' abri
+par terre
+à terre
+par ici
+par là
+à l' étranger
+en plein
+en plein air
+au beau milieu
+au grand jour
+à bord
+au large
+à deux doigts de
+sur la pointe des pieds
+de la part de
+nulle part
+du côté de
+dans le coin
+dans le pétrin
+# ---- States: être + prepositional phrase
+en vie
+en colère
+en forme
+en panne
+à la hauteur
+au courant
+de retour
+à même de
+en mesure de
+sur ? gardes
+en tête
+bon marché
+pas terrible
+# ---- Fixed nouns whose parts mislead
+chemin de fer
+hôtel de ville
+petit déjeuner
+lune de miel
+gueule de bois
+chair de poule
+jeune fille
+jeunes gens
+bonne femme
+femme de chambre
+peur bleue
+fou rire
+clin d' œil
+coup d' œil
+coup de main
+coup de fil
+coup de foudre
+coup de feu
+coup de vent
+# ---- Fixed dialogue and forms of address
+bon sang
+nom de dieu
+mon vieux
+ma vieille
+mon pote
+mon cher
+ma chère
+mon petit
+ma petite
+mon chéri
+ma chérie
+ma belle
+mon gars
+au secours
+à l' aide
+à l' aide de
+je vous en prie
+à tout à l' heure
+à plus tard
+à la bonne heure
+quoi de neuf
+sans blague
+et voilà
+voilà tout
+ma parole
+tu parles
+tous les deux
+toutes les deux
+l' un l' autre
+les uns les autres
+l' un et l' autre
+ni l' un ni l' autre
+un tas de
+des tas de
+quelque peu
+pas mal de

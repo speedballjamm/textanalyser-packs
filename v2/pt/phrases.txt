@@ -199,3 +199,441 @@ muito prazer
 não faz mal
 filho da puta
 puta que pariu
+
+# ==== The 2026-09-23 expansion (phase 4): proposed by a model, kept only where
+# `measure:phrase-fit` over fiction and OPUS found it and a read of its sampled
+# sentences found the idiomatic reading carrying it.
+# ---- Verbal periphrases and verb + particle
+acabar por
+acabar com
+haver de
+tornar a
+pôr se a
+ir ter com
+ouvir falar
+ouvir dizer
+querer dizer
+contar com
+dar se conta
+tratar se de
+estar a fim
+não ter como
+não há como
+não poder deixar de
+não passar de
+não ver a hora
+tomara que
+quem me dera
+será que
+estar brincando
+estar a brincar
+falar sério
+deixar cair
+deixar em paz
+deixa pra lá
+deixa para lá
+deixa comigo
+pode deixar
+mandar embora
+# ---- ter + noun and estar com + noun
+ter sede
+ter ideia
+ter a certeza
+ter vontade
+ter vergonha
+ter culpa
+ter lugar
+ter pena
+ter dó
+ter calma
+nada a ver
+ter cara de
+ter uma queda
+estar com fome
+estar com sede
+estar com sono
+estar com medo
+estar com pressa
+estar com frio
+estar com raiva
+estar com saudade
+morrer de fome
+morto de
+# ---- dar
+dar um jeito
+dar uma volta
+dar um tempo
+dar o fora
+dar no pé
+dar um pulo
+dar ouvidos
+dar razão
+dar a entender
+dar as costas
+dar de ombros
+dar de cara com
+dar uma de
+dar trabalho
+dar vontade
+dar medo
+dar nojo
+dar tempo
+dar com a língua nos dentes
+dar o troco
+dar a mínima
+dar no mesmo
+dar licença
+dar ao luxo
+dar sorte
+dar azar
+dar cabo de
+dar aula
+# ---- fazer
+fazer falta
+fazer questão
+fazer de conta
+fazer mal
+fazer bem
+fazer ideia
+fazer caso
+fazer anos
+fazer as malas
+fazer a barba
+fazer uma pergunta
+fazer frio
+fazer calor
+fazer parte
+fazer careta
+fazer merda
+fazer o quê
+fazer tempo
+fazer muito tempo
+fazer de bobo
+# ---- ficar, estar
+ficar sabendo
+ficar de pé
+ficar em pé
+ficar sem
+ficar bem
+ficar à vontade
+ficar tranquilo
+fica frio
+estar de saída
+estar por fora
+estar na hora
+está na hora
+estar ferrado
+estar a par
+estar de olho
+estar nem aí
+# ---- tomar, levar, pôr, tirar, meter, botar
+tomar banho
+tomar um banho
+tomar café
+levar a cabo
+levar a mal
+levar a sério
+levar em conta
+levar jeito
+levar um tiro
+meter medo
+tirar uma foto
+tirar sarro
+tirar proveito
+tirar uma soneca
+# ---- passar, cair, sair, pegar, bater, abrir, other verbs
+passar mal
+passar a perna
+passar fome
+passar pela cabeça
+vir à tona
+vir ao caso
+cair bem
+cair na real
+cair fora
+cair no sono
+pegar no sono
+pegar fogo
+pega leve
+pegar o jeito
+bater papo
+bater palmas
+abrir mão
+abrir o jogo
+correr bem
+correr atrás
+engolir em seco
+custe o que custar
+encher o saco
+encher a cara
+pisar na bola
+perder tempo
+mudar de ideia
+chamar a atenção
+sentir falta
+voltar atrás
+ir atrás
+ir com calma
+ir à merda
+vai se foder
+se manda
+se liga
+não custa
+não adianta
+não tem jeito
+não há de quê
+não tem de quê
+nem que seja
+# ---- Connectives and discourse markers
+a propósito
+por falar nisso
+falando nisso
+de resto
+ou melhor
+antes de mais nada
+pelo contrário
+ao contrário
+em compensação
+de qualquer modo
+em todo caso
+em todo o caso
+seja como for
+mesmo que
+ainda que
+se bem que
+nem que
+por mais que
+a não ser que
+a não ser
+a menos que
+caso contrário
+assim que
+logo que
+à medida que
+ao passo que
+visto que
+posto que
+de modo que
+só que
+até porque
+além do mais
+ainda por cima
+por sua vez
+sendo assim
+pensando bem
+cá entre nós
+quanto a
+a respeito de
+acerca de
+por volta de
+por conta de
+por conta própria
+em lugar de
+à procura de
+diante de
+dentro de
+ao pé de
+# ---- Degree, modality, evaluation
+nem pensar
+nem por isso
+nem tanto
+de modo algum
+de maneira nenhuma
+de forma alguma
+sem falta
+claro que
+quem sabe
+sei lá
+pelo visto
+pelo jeito
+ao que parece
+por sinal
+já não
+até mesmo
+muito menos
+quanto mais
+menos mal
+ainda bem
+ainda bem que
+tanto faz
+mais vale
+bem feito
+de propósito
+sem querer
+de graça
+ação de graças
+a sério
+de brincadeira
+à toa
+à vontade
+à beça
+pra caramba
+pra caralho
+pra valer
+para valer
+um monte de
+um bocado
+de sobra
+de certo modo
+de certa forma
+de algum modo
+de alguma forma
+isso mesmo
+assim mesmo
+si mesmo
+por si só
+um ao outro
+uns aos outros
+um do outro
+# ---- Time
+de manhã
+à tarde
+de tarde
+à noite
+de noite
+de madrugada
+na hora
+em cima da hora
+em seguida
+daqui a pouco
+daqui a
+de agora em diante
+há pouco
+há muito tempo
+há tempos
+há anos
+há dias
+por ora
+por fim
+mais de uma vez
+de uma vez
+de uma vez por todas
+de vez
+era uma vez
+por vezes
+toda vez que
+de quando em quando
+aos poucos
+outro dia
+um dia desses
+da noite para o dia
+de antemão
+todo dia
+todo o dia
+enquanto isso
+já já
+já volto
+já vou
+já era
+desde logo
+# ---- Place and posture
+lá fora
+lá dentro
+por aqui
+por aí
+em volta
+à volta
+ao fundo
+no fundo
+pela frente
+por trás
+por cima
+por baixo
+por dentro
+por fora
+por toda parte
+em toda parte
+lugar nenhum
+para trás
+pra trás
+pra frente
+logo ali
+de pé
+em pé
+de joelhos
+de costas
+de bruços
+de lado
+de cabeça para baixo
+de pernas para o ar
+a pé
+a sós
+à solta
+à deriva
+às escondidas
+às pressas
+à tona
+em cheio
+em branco
+em jogo
+fora de si
+na cara
+cara de pau
+sangue frio
+pão duro
+café da manhã
+pequeno almoço
+sala de estar
+carteira de motorista
+# ---- People and address
+a gente
+o senhor
+a senhora
+os senhores
+todo mundo
+todo o mundo
+toda a gente
+o pessoal
+meu bem
+meu caro
+o tal
+# ---- Questions and reactions
+o quê
+para quê
+pra quê
+pra que
+como assim
+como é que
+o que é que
+o que foi
+o que houve
+o que há
+e aí
+e daí
+e se
+é o seguinte
+é isso aí
+não é mesmo
+é mesmo
+pois é
+pois não
+pois sim
+pois bem
+ora essa
+olha só
+veja só
+tá bom
+tá legal
+tudo certo
+como vai
+espera aí
+espere aí
+calma aí
+vem cá
+por nada
+graças a deus
+pelo amor de deus
+se deus quiser
+só deus sabe
+nossa senhora
+minha nossa
+que bom
+que droga
+que merda
+que diabo
+o que diabo
+que porra
+sem essa
+puta merda
+quem diria
+se calhar

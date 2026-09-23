@@ -7721,7 +7721,7 @@
 一律|all, without exception|o
 一无是处|good for nothing, without a single merit|o
 一概而论|to lump together, generalize (usu. 不能一概而论)|v
-一言千金|a promise worth a thousand in gold|o
+一言千金|words of great weight; a promise that must be kept|o;o
 七月份|July|o
 万千|myriad, countless|o
 万名|ten thousand (people)|o
@@ -7968,7 +7968,7 @@
 寸草不生|barren, not a blade of grass|o
 对冲|to hedge|v
 小儿|young child; my son (humble)|o;o
-小儿科|paediatrics; child's play, trivial|o;o
+小儿科|child's play, trivial; paediatrics|o;o
 小册子|booklet, pamphlet|o
 小路|path, lane|o
 尽兴|to enjoy oneself fully|v
@@ -8080,7 +8080,7 @@
 摔角|wrestling|o
 摧残|to devastate, ravage|v
 撑杆|pole; 撑杆跳: pole vault|o;n
-擦身而过|to brush past|v
+擦身而过|to brush past; to narrowly miss (a chance, a danger)|v;v
 攻读|to study, pursue (a degree)|v
 散布|to spread, scatter|v
 敦促|to urge, to press|v
@@ -8721,6 +8721,7 @@
 功率|power (output), wattage|o
 征税|to levy taxes|v
 缺口|gap, breach; shortfall|o;o
+恨不得|to be itching to, wish one could (even if impossible)|v
 轮回|reincarnation, samsara; cycle|o;o
 间接|indirect|o
 拓扑|topology|o
@@ -8841,7 +8842,7 @@
 朝廷|imperial court|o
 进球|to score a goal; goal|v;o
 适用|to be applicable|v
-从天而降|to fall from the sky|v
+从天而降|to fall from the sky; to appear out of the blue, unexpectedly|v;v
 低效|inefficient|o
 侵略|to invade; aggression|v;o
 堪称|can be called, rank as|o
@@ -10122,9 +10123,11 @@
 流传|to spread, to be handed down|v
 海面|sea surface|o
 缝隙|crack, gap|o
+脑筋|brains, way of thinking; 动脑筋: to use one's head|o;n
 航线|route (air, sea)|o
 行人|pedestrian|o
 赎金|ransom|o
+不得已|having no choice; reluctantly|o;o
 二级|second level, grade two|o
 园区|park, zone (industrial, tech)|o
 围观|to gather round to watch|v
@@ -10268,6 +10271,7 @@
 站点|website; station, stop|o;o
 线条|line; contours (of a figure)|o;o
 绝伦|unrivalled, peerless|o
+顾不得|to have no time to care about, be unable to spare a thought for|v
 乡亲|fellow villager, folks from home|o
 倡导|to advocate, to promote|v
 双腿|both legs|o
@@ -11085,6 +11089,7 @@
 石碑|stone tablet|o
 磷酸|phosphoric acid|o
 自爆|to self-destruct; to reveal about oneself|v;v
+舍不得|to hate to part with; to begrudge (spending, using)|v;v
 观光|to go sightseeing|v
 酝酿|to brew, to ferment; to build up, to be in the making|v;v
 鱼头|fish head|o
@@ -11124,6 +11129,7 @@
 随机数|random number|o
 骨骼|skeleton, bones|o
 书房|study (room)|o
+免不了|unavoidable, bound to happen|o
 名气|fame, reputation|o
 呼啦圈|hula hoop|o
 咧嘴|to grin|v
@@ -11135,6 +11141,7 @@
 通报|to notify; bulletin|v;o
 不佳|poor, not good|o
 不易|not easy|o
+不见得|not necessarily, unlikely|o
 不详|unknown, not clear|o
 中介|agent, intermediary|o
 主帅|commander-in-chief; head coach|o;o
@@ -11402,6 +11409,7 @@
 锐利|sharp, keen|o
 鸿沟|chasm, gulf|o
 上风|upper hand; windward|o;o
+交道|dealings; 打交道: to deal with, have dealings with|o;n
 仲裁|arbitration|o
 倒地|to fall to the ground|v
 制动|brake; to brake|o;v
@@ -11525,6 +11533,7 @@
 臣服|to submit, to pledge allegiance|v
 航天局|space agency|o
 营救|to rescue|v
+袖手旁观|to stand by and do nothing|v
 记起|to recall, to remember|v
 连载|to serialize; serial|v;o
 阴森|gloomy, eerie|o
@@ -11549,6 +11558,7 @@
 须臾|a moment, an instant|o
 默许|to tacitly consent|v
 不妥|inappropriate, not right|o
+二话不说|without a word of objection, without hesitation|o
 伦理学|ethics|o
 假名|false name, alias; kana (Japanese)|o;o
 光泽|luster, gloss|o
@@ -11585,7 +11595,9 @@
 送死|to court death, to go to one's death|v
 逃税|to evade tax|v
 除外|except, excluding|o
+面面相觑|to look at each other in dismay|v
 预警|early warning|o
+与日俱增|to grow day by day, steadily increase|v
 乡巴佬|country bumpkin|o
 书信|letter, correspondence|o
 何方|where, which direction|o
@@ -11599,6 +11611,7 @@
 局限性|limitations|o
 招致|to bring about, to incur|v
 提早|earlier than planned, in advance|o
+摇摇欲坠|tottering, on the verge of collapse|o
 核子|nucleus; nuclear|o;o
 检察|to prosecute; procuratorial|v;o
 植根于|rooted in|o
@@ -11613,8 +11626,10 @@
 解码器|decoder|o
 说唱|rap (music); storytelling with song|o;o
 象棋|Chinese chess|o
+重中之重|top priority, most important of all|o
 非线性|nonlinear|o
 高压|high pressure; high voltage; high-handed|o;o;o
+先发制人|to strike first, pre-empt|v
 办案|to handle a case|v
 厚重|thick and heavy; profound|o;o
 吻合|to match, to tally|v
@@ -11630,6 +11645,7 @@
 率先|to take the lead, to be the first|v
 稀奇|rare, strange|o
 笔直|perfectly straight|o
+自力更生|self-reliance, to stand on one's own feet|o
 试一试|to give it a try|v
 赞赏|to admire, to praise|v
 阈值|threshold|o
@@ -11773,6 +11789,7 @@
 婆子|old woman|o
 层层|layer upon layer|o
 山河|mountains and rivers; the land, the country|o;o
+悬而未决|unresolved, pending|o
 意味深长|meaningful, significant|o
 报废|to scrap, to write off|v
 攻克|to capture; to overcome|v;v
@@ -11781,6 +11798,7 @@
 短剑|dagger, short sword|o
 篮子|basket|o
 翻身|to turn over; to free oneself, to turn the tables|v;v
+自不量力|to overrate one's own abilities (word-order variant)|v
 莫大|greatest, immense|o
 藤蔓|vine, creeper|o
 辅酶|coenzyme|o
@@ -11816,6 +11834,7 @@
 眉毛|eyebrow|o
 看错|to misjudge, to see wrongly|v
 芭蕾|ballet|o
+花招|trick, ploy|o
 计较|to fuss about, to haggle|v
 豺狼|jackals and wolves; cruel people|o;o
 贵宾|distinguished guest, VIP|o
@@ -11825,6 +11844,7 @@
 阵容|lineup|o
 领取|to receive, to collect|v
 上位|to rise to power; superior position|v;o
+不遗余力|to spare no effort|v
 丧命|to lose one's life|v
 亮光|light, gleam|o
 作风|style, way of doing things|o
@@ -11849,6 +11869,7 @@
 几率|probability, chance|o
 双眸|both eyes|o
 名号|name, title|o
+始作俑者|originator of a bad practice, instigator|o
 并肩|shoulder to shoulder|o
 底线|bottom line; baseline|o;o
 挪动|to move, to shift|v
@@ -11882,6 +11903,7 @@
 身手|skill, agility|o
 金银|gold and silver|o
 飞龙|flying dragon, wyvern|o
+死灰复燃|to revive, flare up again (of something bad)|v
 跌倒|to fall down|v
 佩戴|to wear (a badge, sword)|v
 先行|to go ahead; beforehand|v;o
@@ -11891,6 +11913,7 @@
 带路|to lead the way|v
 开辟|to open up, to start|v
 新兵|new recruit|o
+无济于事|to be of no help, futile|v
 科长|section chief|o
 粗糙|rough, coarse|o
 蒸发|to evaporate|v
@@ -11945,8 +11968,12 @@
 少有|rare, uncommon|o
 巨兽|giant beast|o
 心有余悸|to have lingering fear|v
+忧心忡忡|deeply worried|o
 抛出|to throw out, to toss|v
+束手无策|at a loss what to do, helpless|o
 欢快|cheerful, lively|o
+深思熟虑|careful consideration, well thought out|o
+看不起|to look down on, despise|v
 祭祀|to offer sacrifices (to gods or ancestors)|v
 禀报|to report (to a superior)|v
 称得上|can be called, to deserve to be called|o
@@ -12062,6 +12089,7 @@
 魔王|demon king|o
 上身|upper body; to possess (by a spirit)|o;v
 届时|at the appointed time, then|o
+岂有此理|outrageous, preposterous|o
 峡谷|canyon, gorge|o
 异口同声|with one voice, in unison|o
 弹头|warhead, bullet|o
@@ -12088,6 +12116,7 @@
 丘陵|hills|o
 中途|halfway, midway|o
 伤人|to hurt someone|v
+似笑非笑|with a faint, ambiguous smile|o
 作对|to oppose, to set oneself against|v
 全套|complete set|o
 医术|medical skill|o
@@ -12095,6 +12124,7 @@
 可好|just then, luckily; 这可好: now look what's happened|o;n
 喷涌|to gush, to spurt|v
 堆积|to pile up, to accumulate|v
+大获全胜|to win a complete victory|v
 宏伟|grand, magnificent|o
 实战|real combat|o
 底细|inside story, background|o
@@ -12106,6 +12136,8 @@
 镶嵌|to inlay, to set|v
 闹事|to make trouble, to riot|v
 霹雳|thunderbolt|o
+首当其冲|to be the first affected, bear the brunt|v
+马屁|flattery; 拍马屁: to flatter, suck up to|o;n
 古墓|ancient tomb|o
 太监|eunuch|o
 射手|shooter, archer; striker (football)|o;o
@@ -12156,6 +12188,8 @@
 前几天|a few days ago|o
 动人|moving, touching|o
 合力|to join forces; resultant force|v;o
+后腿|hind leg; 拉后腿: to hold someone back|o;n
+嗤之以鼻|to sneer at, scoff at|v
 对阵|to face off, to play against|v
 小区|residential compound, housing estate|o
 巨蟒|giant python|o
@@ -12170,6 +12204,7 @@
 集结|to assemble, to gather|v
 雷声|thunder|o
 一声不吭|without a word|o
+多管闲事|to meddle in others' business, nosy|v
 威风|imposing, awe-inspiring; prestige|o;o
 带队|to lead a team|v
 广阔|vast, wide|o
@@ -12211,6 +12246,7 @@
 逼近|to close in on, to approach|v
 遮住|to cover, to block|v
 高阶|high-level, high-rank|o
+不出所料|as expected|o
 不堪一击|unable to withstand a single blow|o
 府邸|mansion, residence|o
 指头|finger|o
@@ -12220,35 +12256,72 @@
 满心|with one's whole heart|o
 牲口|livestock, draft animal|o
 脖颈|neck|o
+自给自足|self-sufficient|o
 补习|to take extra lessons, tutoring|v
 诱人|tempting, attractive|o
 调侃|to tease, to ridicule|v
 轰动|to cause a sensation, to stir|v
 迷雾|dense fog; mystery|o;o
+一席之地|a place, a foothold (in a field)|o
+一目了然|clear at a glance|o
+一见钟情|love at first sight|o
+一视同仁|to treat everyone equally|v
+不亦乐乎|extremely, like mad (after 得)|o
+不在话下|not worth mentioning, no trouble at all|o
+不折不扣|out-and-out, one hundred percent|o
+不言自明|self-evident|o
+东山再起|to make a comeback|v
+举足轻重|pivotal, highly influential|o
+于事无补|of no help, futile|o
+例行公事|routine business, mere formality|o
 到位|to arrive in place; spot-on, proper|v;o
 卷起|to roll up; to stir up|v;v
 古籍|ancient books|o
+各式各样|all kinds of, various|o
 地牢|dungeon|o
 坚毅|resolute, firm|o
+大行其道|to be in vogue, prevail|v
+如火如荼|in full swing, flourishing|o
 娇小|petite, delicate|o
+孤家寡人|someone left alone, isolated person|o
+孤注一掷|to stake everything on one throw|v
 尘埃|dust|o
+年复一年|year after year|o
+心知肚明|to know full well (without saying)|v
+志同道合|like-minded, sharing the same goals|o
 怨毒|venomous hatred|o
 怨气|resentment, grievance|o
+感同身受|to feel as if it happened to oneself, empathise|v
+指日可待|imminent, just around the corner|o
+挺身而出|to step forward bravely|v
 显露|to reveal, to show|v
+更有甚者|what is more, worse still|o
+更胜一筹|a cut above, even better|o
 期盼|to look forward to, to hope for|v
+派上用场|to come in handy, be put to use|v
 淋漓|dripping; thoroughly|o;o
 深沉|deep; reserved, undemonstrative|o;o
+滔滔不绝|to talk on and on, a torrent of words|v
 火海|sea of flames|o
 火苗|flame|o
+炙手可热|hot, much sought after|o
 猖獗|rampant, running wild|o
+目不转睛|to stare intently, without blinking|v
+直截了当|straightforward, blunt|o
 着魔|to be possessed, to be obsessed|v
+绰绰有余|more than enough|o
 老朽|old and useless; I (an old man, humble)|o;f1s
+自相残杀|to kill one another, internecine fighting|v
 花朵|flower|o
 蜂拥|to swarm|v
+随心所欲|as one pleases|o
+难上加难|harder still, extremely difficult|o
+顾名思义|as the name suggests|o
 高举|to hold high|v
 一丁点|a tiny bit|o
 似地|(as if, like: after a noun or clause)|g
 光彩|splendour, lustre; honourable|o;o
+单枪匹马|single-handed, alone|o
 可知|it can be seen; do you know|f3s;f3s
 唯恐|for fear that|o
 嫌弃|to dislike, to turn one's nose up at|v
@@ -12299,6 +12372,7 @@
 倾泻|to pour down|v
 参谋|staff officer; to give advice|o;v
 好汉|hero, true man|o
+少不了|indispensable, cannot do without; bound to be|o;o
 幻境|fantasy world, illusion|o
 得手|to succeed, to pull it off|v
 恳求|to implore, to beg|v
@@ -12307,6 +12381,7 @@
 拍打|to pat, to slap|v
 搀扶|to support (someone by the arm)|v
 敬佩|to admire, to esteem|v
+权宜之计|stopgap measure, expedient|o
 疆域|territory, domain|o
 瞩目|to focus attention on|v
 硬着头皮|to force oneself (to do something unpleasant)|v
@@ -12322,11 +12397,14 @@
 出战|to go into battle|v
 劝说|to persuade|v
 印刷厂|printing house|o
+哈欠|yawn; 打哈欠: to yawn|o;n
 奈何|what can be done; 无可奈何: to have no way out|o;n
 孱弱|frail, weak|o
+屁滚尿流|scared witless, fleeing in terror|o
 恍如|as if, just like|o
 打入|to break into; to infiltrate|v;v
 按理说|logically speaking, normally|o
+挥之不去|impossible to shake off, lingering|o
 收服|to subdue, to bring under control|v
 无与伦比|incomparable|o
 无趣|dull, boring|o
@@ -12358,6 +12436,7 @@
 大虾|prawn|o
 奄奄一息|at one's last gasp|o
 奇珍|rare treasure|o
+如出一辙|exactly the same, cut from the same cloth|o
 如初|as before|o
 宫女|palace maid|o
 对白|dialogue|o
@@ -12383,6 +12462,7 @@
 无言|speechless, wordless|o
 旺盛|vigorous, exuberant|o
 暴风雪|blizzard|o
+模棱两可|ambiguous, equivocal|o
 游荡|to wander, to roam|v
 火热|fiery, burning hot|o
 灵性|spirituality; intelligence|o;o
@@ -12444,6 +12524,7 @@
 提防|to guard against, to beware of|v
 春雨|spring rain|o
 有理|reasonable, right|o
+果不其然|sure enough, just as expected|o
 气喘吁吁|out of breath, panting|o
 气流|airflow|o
 浑浊|muddy, turbid|o
@@ -12460,6 +12541,7 @@
 连累|to implicate, to drag in|v
 邋遢|slovenly, sloppy|o
 面目|appearance, face; features|o;o
+不紧不慢|unhurried, at a steady pace|o
 九成|ninety percent|o
 争夺战|struggle, battle for|o
 伯母|aunt (father's elder brother's wife)|o
@@ -12509,6 +12591,7 @@
 小妹|little sister; young girl|o;o
 霸王|overlord, tyrant|o
 不便|inconvenient|o
+以邻为壑|to shift one's troubles onto one's neighbours, beggar-thy-neighbour|v
 依稀|vaguely, dimly|o
 半场|half (of a game); half-court|o;o
 好用|easy to use, handy|o
@@ -12530,6 +12613,7 @@
 黄昏|dusk|o
 上当|to be taken in, to be fooled|v
 不休|endlessly, ceaselessly|o
+不慌不忙|calm and unhurried|o
 别有|to have a different, special (flavour, purpose)|v
 功效|effect, efficacy|o
 埋怨|to complain, to blame|v
@@ -12554,6 +12638,7 @@
 粉末|powder|o
 退路|way out, room for retreat|o
 镖局|armed escort agency|o
+举步维艰|every step is a struggle, in dire straits|o
 剿灭|to exterminate, to wipe out|v
 墓碑|tombstone|o
 头目|ringleader, chieftain|o
@@ -12569,12 +12654,14 @@
 胸脯|chest|o
 脱手|to slip from one's hand; to sell off|v;v
 虎视眈眈|to eye covetously|v
+记不得|to be unable to remember|v
 赞许|to praise, to approve of|v
 跺脚|to stamp one's feet|v
 附着|to adhere, to attach to|v
 驱魔|to exorcise|v
 公道|justice, fairness; fair, reasonable|o;o
 冲刺|to sprint|v
+大惊小怪|to make a fuss over nothing|v
 威武|mighty, powerful|o
 宽阔|broad, wide|o
 平和|gentle, mild|o
@@ -12606,6 +12693,7 @@
 凝望|to gaze at|v
 出嫁|to marry (of a woman)|v
 双双|both, in pairs|o
+双管齐下|two-pronged, on two fronts at once|o
 号令|order, command|o
 咯咯|(giggling, clucking)|g
 哎呦|ouch; oh|o;o
@@ -12614,6 +12702,7 @@
 大神|god; (colloq.) expert, guru|o;o
 寒暄|to exchange pleasantries|v
 山崖|cliff|o
+彻头彻尾|through and through, out-and-out|o
 打磨|to polish, to grind|v
 抛开|to throw aside, to cast off|v
 擦拭|to wipe, to clean|v
@@ -12657,6 +12746,7 @@
 统领|to lead, to command; commander|v;o
 聚拢|to gather together|v
 衣裳|clothes|o
+说来话长|it's a long story|f3s
 走近|to approach|v
 踉跄|to stagger|v
 过年|to celebrate the New Year|v
@@ -12672,9 +12762,10 @@
 宽大|spacious, roomy; lenient|o;o
 寄托|to place (hopes) on; to entrust|v;v
 小混混|small-time hoodlum|o
-居高临下|to look down from a height|v
+居高临下|to look down from a height; to hold the high ground; condescending|v;v;o
 山巅|mountain top|o
 幻影|phantom, illusion|o
+有何贵干|what can I do for you?, what brings you here?|o
 标枪|javelin|o
 气急败坏|flustered and exasperated|o
 活捉|to capture alive|v
@@ -12685,6 +12776,7 @@
 蜕变|to transform; to shed skin|v;v
 车窗|car window|o
 闪闪|glittering, sparkling|o
+陈词滥调|cliché, platitude|o
 雪山|snow mountain|o
 靠山|backer, patron|o
 骨灰|ashes (of the dead)|o
@@ -12696,7 +12788,9 @@
 五彩|multicolored|o
 传讯|to summon, to subpoena; to send a message|v;v
 利剑|sharp sword|o
+势在必行|imperative, must be done|o
 后辈|younger generation, juniors|o
+咄咄逼人|aggressive, overbearing|o
 多言|talkative; to say more|o;v
 寒风|cold wind|o
 帝王|emperor|o
@@ -12706,6 +12800,7 @@
 惊惶|panic-stricken|o
 探查|to investigate, to probe|v
 攀爬|to climb|v
+欲言又止|to be about to speak but hold back|v
 沉着|calm, composed|o
 猛兽|beast of prey|o
 祸害|scourge, curse; to damage|o;v
@@ -12730,8 +12825,11 @@
 征兵|to conscript, draft|v
 心狠手辣|ruthless, vicious|o
 战战兢兢|trembling with fear, on tenterhooks|o
+扑面而来|to hit one in the face, sweep over one|v
+推波助澜|to add fuel to the fire, stir things up|v
 滑头|slippery, sly; slippery customer|o;o
 炮灰|cannon fodder|o
+直言不讳|to speak frankly, outspoken|v
 眺望|to gaze into the distance|v
 站稳|to stand firm, steady oneself|v
 终归|after all, in the end|o
@@ -12772,6 +12870,7 @@
 隆隆|rumble, boom|o
 震怒|to be furious|v
 下身|lower body; genitals|o;o
+不为所动|unmoved, unswayed|o
 俯身|to bend over, lean down|v
 出众|outstanding, remarkable|o
 劈开|to split open, chop apart|v
@@ -12791,6 +12890,9 @@
 抽空|to make time, find time|v
 柱子|pillar, column|o
 淡漠|indifferent, apathetic; faint (memory)|o;o
+渐行渐远|to drift apart, grow ever more distant|v
+玩世不恭|cynical, flippant about everything|o
+相形见绌|to pale by comparison|v
 石洞|cave, grotto|o
 神祇|gods, deities|o
 稿费|author's fee, royalties|o
@@ -12805,6 +12907,7 @@
 黯然|gloomy, downcast; dim|o;o
 一举一动|every move|o
 一大早|early in the morning|o
+一天到晚|all day long, from morning till night|o
 云霄|the skies, the heavens|o
 全无|completely without, none at all|o
 出力|to put in effort, pitch in|v
@@ -12819,6 +12922,7 @@
 岸边|shore, riverbank|o
 开打|to start fighting; to kick off (a match)|v;v
 心急|impatient, anxious|o
+心惊胆战|terrified, trembling with fear|o
 忽悠|to con, sweet-talk (colloq.)|v
 打通|to open up, get through|v
 扣动|to pull (a trigger)|v
@@ -12844,9 +12948,12 @@
 雪地|snowfield, snow-covered ground|o
 风光|scenery; glory, glamorous|o;o
 驱赶|to drive away, chase off|v
+一走了之|to walk away from it all, leave problems behind|v
+应运而生|to arise to meet the times, emerge in response|v
 忠心|loyalty, devotion|o
 无缘无故|for no reason at all|o
 跳进|to jump into|v
+遮天蔽日|blotting out the sky, overwhelming|o
 两手|both hands; two-pronged approach|o;o
 依附|to depend on, attach oneself to|v
 俯瞰|to look down on, overlook|v
@@ -12877,6 +12984,7 @@
 胡思乱想|to let one's imagination run wild|v
 自始至终|from start to finish|o
 蒲团|meditation cushion|o
+蠢蠢欲动|restless and ready to make trouble, stirring|o
 触须|feeler, antenna; tendril|o;o
 身家|family fortune, net worth; one's life and family|o;o
 飘荡|to drift, float, flutter|v
@@ -12896,6 +13004,7 @@
 接二连三|one after another|o
 断定|to conclude, determine|v
 权贵|the powerful, dignitaries|o
+毕恭毕敬|extremely respectful, deferential|o
 求饶|to beg for mercy|v
 江山|country, realm; rivers and mountains|o;o
 火把|torch|o
@@ -12910,12 +13019,14 @@
 阴险|sinister, insidious|o
 隐患|hidden danger|o
 魂飞魄散|scared out of one's wits|o
+全心全意|wholeheartedly|o
 动向|trend, movements|o
 夜幕|nightfall, cover of night|o
 大风|gale, strong wind|o
 宠爱|to dote on; favour|v;o
 异教徒|heathen, infidel|o
 断绝|to break off, sever|v
+明目张胆|brazenly, openly (of wrongdoing)|o
 杀气腾腾|murderous, full of killing intent|o
 来意|purpose of one's visit|o
 棺木|coffin|o
@@ -12924,6 +13035,7 @@
 水兵|sailor, seaman|o
 流畅|fluent, smooth|o
 海神|sea god|o
+混为一谈|to lump together, confuse (different things)|v
 点球|penalty kick|o
 烙印|brand, mark; to brand|o;v
 烧烤|barbecue|o
@@ -12945,11 +13057,14 @@
 风度|poise, bearing, grace|o
 一味|blindly, persistently|o
 且不说|let alone, not to mention|o
+五脏六腑|internal organs; innermost being|o;o
 从头到尾|from beginning to end|o
 低阶|low-level, low-rank|o
+信誓旦旦|to vow solemnly|v
 公安局|public security bureau, police station|o
 兴高采烈|in high spirits, elated|o
 凡间|mortal world|o
+同归于尽|to perish together, mutual destruction|v
 喊叫|to shout, cry out|v
 嘈杂|noisy, clamorous|o
 心愿|wish, desire|o
@@ -12969,11 +13084,531 @@
 鄙夷|to disdain, despise|v
 不宜|not suitable, inadvisable|o
 不胜|extremely; unable to bear|o;o
+为时已晚|too late|o
 人脉|connections, network|o
 刺刀|bayonet|o
 半山腰|halfway up a mountain|o
 发怒|to get angry|v
 叫喊|to shout, yell|v
+方兴未艾|still on the rise, in the ascendant|o
+无稽之谈|nonsense, groundless talk|o
+有朝一日|some day, one day|o
+未雨绸缪|to prepare in advance, plan for a rainy day|v
+远走高飞|to go far away, flee|v
+跃跃欲试|eager to have a go|o
+鬼鬼祟祟|sneaky, furtive|o
+争先恐后|to scramble to be first|v
+栩栩如生|lifelike, vivid|o
+碎尸万段|to hack to pieces (as a threat)|v
+离不开|to be inseparable from, depend on|v
+七七八八|almost all, nearly done; miscellaneous, odds and ends|o;o
+全神贯注|fully absorbed, with total concentration|o
+天翻地覆|earth-shaking, turned upside down|o
+张牙舞爪|menacing, baring fangs and claws|o
+步履蹒跚|to stagger, walk unsteadily|v
+火上浇油|to add fuel to the fire|v
+焦头烂额|harassed, in a terrible fix|o
+牢骚|grievance, complaint; 发牢骚: to grumble|o;n
+话锋一转|to change the subject abruptly|v
+为所欲为|to do whatever one likes (without restraint)|v
+姗姗来迟|to arrive late, be slow in coming|v
+撕心裂肺|heart-rending, agonising|o
+无足轻重|insignificant, of no consequence|o
+洗耳恭听|to listen respectfully, be all ears|v
+粉身碎骨|to be smashed to pieces; to lay down one's life|v;v
+触目惊心|shocking, alarming to see|o
+人山人海|huge crowds, a sea of people|o
+恼羞成怒|to fly into a rage from embarrassment|v
+破口大骂|to curse loudly, hurl abuse|v
+笨手笨脚|clumsy|o
+非同小可|no small matter, extremely serious|o
+一劳永逸|once and for all|o
+一拥而上|to rush forward in a crowd, swarm in|v
+一无所获|to gain nothing, come away empty-handed|v
+不自量力|to overrate one's own abilities|v
+以牙还牙|an eye for an eye, tit for tat|o
+你死我活|life-and-death (struggle)|o
+司空见惯|commonplace, nothing unusual|o
+同日而语|to mention in the same breath (usu. negated)|v
+嫣然一笑|to smile sweetly|v
+当机立断|to make a prompt decision|v
+形形色色|of every kind, all sorts|o
+此起彼伏|to rise one after another, wave after wave|v
+老生常谈|platitude, commonplace remark|o
+轻手轻脚|softly, quietly (of movement)|o
+兼而有之|to have both|v
+南辕北辙|to act contrary to one's aim, going the wrong way|v
+变本加厉|to intensify, get worse|v
+子虚乌有|fictitious, nonexistent|o
+屡见不鲜|common, nothing new|o
+巴不得|to be eager for, only too glad to|v
+得不偿失|the loss outweighs the gain, not worth it|o
+心安理得|with a clear conscience|o
+捉襟见肘|hard up, stretched thin|o
+板上钉钉|settled, a done deal|o
+耳熟能详|familiar, often heard|o
+走火入魔|obsessed, carried away to excess|o
+钉子|nail; 碰钉子: to meet with a rebuff|o;n
+两败俱伤|both sides lose, lose-lose|o
+丧心病狂|deranged, utterly inhuman|o
+若有若无|faint, barely perceptible|o
+身无分文|penniless|o
+一败涂地|to suffer a crushing defeat|v
+一蹶不振|never to recover after a setback|o
+哑然失笑|to burst out laughing despite oneself|v
+灵丹妙药|miracle cure, panacea|o
+突飞猛进|to advance by leaps and bounds|v
+翻天覆地|earth-shaking, sweeping (change)|o
+自欺欺人|to deceive oneself and others|v
+虚张声势|to bluff, make an empty show of strength|v
+不寒而栗|to shudder, chill to the bone|v
+何去何从|what course to take, which way to go|o
+刮目相看|to see in a new light, regard with new respect|v
+前车之鉴|a lesson from others' mistakes|o
+善罢甘休|to let the matter drop (usu. negated)|v
+如释重负|relieved, as if a weight were lifted|o
+实事求是|to be realistic, seek truth from facts|v
+寿终正寝|to die a natural death; to come to an end|v;v
+差强人意|barely satisfactory, passable|o
+急转直下|to take a sudden turn (usu. for the worse)|v
+愤世嫉俗|cynical, embittered with the world|o
+束手就擒|to give up without a fight, surrender|v
+疑神疑鬼|paranoid, suspicious of everything|o
+空空如也|completely empty|o
+置若罔闻|to turn a deaf ear to|v
+与生俱来|innate, inborn|o
+勇往直前|to press forward bravely|v
+喷嚏|sneeze; 打喷嚏: to sneeze|o;n
+声名狼藉|notorious, disgraced|o
+实不相瞒|to be honest, to tell you the truth|v
+欣欣向荣|thriving, flourishing|o
+正儿八经|serious, proper, in earnest|o
+灯火通明|brightly lit|o
+风驰电掣|at lightning speed|o
+默不作声|silent, without saying a word|o
+一蹴而就|to succeed in one step, overnight (usu. negated)|v
+兹事体大|this is a serious matter|o
+坐以待毙|to wait passively for death, sit and do nothing|v
+夸夸其谈|to talk big, bombastic|v
+得过且过|to muddle along, get by without caring|v
+恰如其分|just right, appropriate|o
+意气风发|high-spirited, full of confidence|o
+斩钉截铁|resolute, categorical|o
+日新月异|changing with each passing day, rapid progress|o
+每况愈下|to go from bad to worse|v
+沾沾自喜|smug, pleased with oneself|o
+瞌睡|drowsiness; 打瞌睡: to doze off, nod off|o;n
+至高无上|supreme, paramount|o
+长途跋涉|long, arduous journey|o
+一头雾水|confused, baffled|o
+万无一失|foolproof, perfectly safe|o
+不言而喻|it goes without saying|f3s
+后会有期|we'll meet again, until next time|f1p
+声嘶力竭|to shout oneself hoarse|v
+惊涛骇浪|stormy seas; great upheaval|o;o
+特立独行|independent-minded, going one's own way|o
+眉开眼笑|beaming with joy|o
+立竿见影|immediate results, instant effect|o
+若无其事|as if nothing had happened, nonchalant|o
+蛛丝马迹|faint clues, traces|o
+见多识广|experienced, well-informed|o
+踌躇满志|complacent, full of ambition and self-satisfaction|o
+一意孤行|to insist on having one's own way, obstinate|v
+关子|climax of a story; 卖关子: to keep people in suspense|o;n
+出其不意|to take by surprise, unexpectedly|v
+分道扬镳|to part ways|v
+引人入胜|fascinating, absorbing|o
+愤愤不平|indignant, resentful|o
+水涨船高|to rise along with something else (in step)|v
+花言巧语|sweet talk, smooth words|o
+装模作样|to put on an act, pretend|v
+齐头并进|to advance side by side, in parallel|v
+一触即发|on a hair trigger, about to break out|o
+久仰大名|I've long heard of you (polite greeting)|f1s
+凶多吉少|the outlook is grim, likely to end badly|o
+名不虚传|deserving of its reputation|o
+平白无故|for no reason at all|o
+手足无措|at a loss what to do, flustered|o
+改头换面|to make superficial changes, revamp|v
+数一数二|one of the very best, top-ranking|o
+无忧无虑|carefree|o
+有条不紊|methodical, orderly|o
+胸有成竹|to have a plan in mind, confident|v
+速战速决|to settle quickly, a quick decision|v
+鲜为人知|little-known|o
+一马当先|to take the lead, be in the forefront|v
+了如指掌|to know like the back of one's hand|v
+千军万马|a vast army, huge numbers|o
+大呼小叫|to shout and yell, make a racket|v
+心不在焉|absent-minded, distracted|o
+所剩无几|very few left|o
+拔地而起|to rise from the ground, tower up|v
+津津有味|with great relish|o
+神出鬼没|elusive, coming and going unpredictably|o
+落井下石|to kick someone when they are down|v
+靠不住|unreliable, untrustworthy|o
+一帆风顺|plain sailing, smooth progress|o
+另辟蹊径|to find a new way, blaze a new trail|v
+掉以轻心|to let one's guard down, be careless|v
+提心吊胆|on tenterhooks, very anxious|o
+无所不在|omnipresent, everywhere|o
+灵机一动|to have a sudden bright idea|v
+甜言蜜语|sweet talk, honeyed words|o
+痴人说梦|a pipe dream, wishful nonsense|o
+胆战心惊|terrified, trembling with fear|o
+首屈一指|second to none, the very best|o
+七情六欲|all human emotions and desires|o
+不卑不亢|neither servile nor arrogant, dignified|o
+单打独斗|to go it alone|v
+发号施令|to give orders, boss around|v
+名列前茅|to rank among the top|v
+名正言顺|fully justified, legitimate|o
+尽收眼底|to take in the whole view at a glance|v
+弱肉强食|law of the jungle, the strong prey on the weak|o
+深恶痛绝|to detest bitterly|v
+焕然一新|completely renewed, brand new look|o
+瞠目结舌|dumbfounded, speechless|o
+行尸走肉|a walking corpse, living without purpose|o
+误入歧途|to go astray|v
+不敢当|I don't deserve it (modest reply to praise)|f1s
+众说纷纭|opinions differ widely|o
+口诛笔伐|to denounce in speech and writing|v
+大同小异|largely the same, differing in details|o
+夷为平地|to raze to the ground|v
+小菜一碟|a piece of cake, very easy|o
+弄巧成拙|to be too clever and make things worse, backfire|v
+操之过急|to act too hastily|v
+无价之宝|priceless treasure|o
+杯水车薪|a drop in the ocean, hopelessly inadequate|o
+置身事外|to stay out of it, keep aloof|v
+自生自灭|to be left to fend for oneself|v
+轩然大波|a great uproar, a storm (of controversy)|o
+那还用说|needless to say, of course|o
+顺理成章|logical, a natural consequence|o
+一瘸一拐|limping, hobbling|o
+一饮而尽|to drain in one gulp|v
+不像话|outrageous, unacceptable|o
+乱成一团|in total chaos|o
+今非昔比|things are not what they were|o
+依依不舍|reluctant to part|o
+冷嘲热讽|sneering and mockery|o
+勃然大怒|to fly into a rage|v
+千载难逢|once in a lifetime|o
+打家劫舍|to rob and plunder homes|v
+有说有笑|chatting and laughing|o
+欺人太甚|to push someone too far, go too far|v
+死气沉沉|lifeless, dull, stagnant|o
+苟延残喘|to hang on by a thread, barely survive|v
+货真价实|genuine, the real thing|o
+铁石心肠|heart of stone, heartless|o
+闷闷不乐|depressed, in low spirits|o
+鱼死网破|a fight to the death, mutual destruction|o
+一家之主|head of the household|o
+一望无际|boundless, stretching to the horizon|o
+一网打尽|to round up all at once, wipe out entirely|v
+三言两语|in a few words|o
+下不为例|just this once, not to be repeated|o
+不依不饶|to refuse to let it go, relentless|v
+不速之客|uninvited guest|o
+五颜六色|multicoloured, colourful|o
+凤毛麟角|extremely rare|o
+大名鼎鼎|famous, renowned|o
+大言不惭|to boast shamelessly|v
+如临大敌|as if facing a mortal enemy, on high alert|o
+心领神会|to understand tacitly|v
+擦肩而过|to brush past; to narrowly miss|v;v
+无计可施|at one's wits' end|o
+满打满算|at the very most, all told|o
+点石成金|to work wonders, turn things to gold|v
+理直气壮|confident in being right, self-righteous|o
+碍手碍脚|to be in the way, a hindrance|v
+精挑细选|carefully selected|o
+胆大包天|extremely audacious, reckless|o
+脱口而出|to blurt out|v
+赤手空拳|bare-handed, unarmed|o
+起死回生|to bring back from the dead, revive|v
+跌跌撞撞|stumbling, staggering|o
+骂骂咧咧|cursing and grumbling|o
+一笔勾销|to write off, cancel entirely|v
+公之于众|to make public|v
+前所未见|never seen before, unprecedented|o
+大失所望|greatly disappointed|o
+恋恋不舍|reluctant to leave, unable to let go|o
+意犹未尽|wanting more, not yet satisfied|o
+打草惊蛇|to tip off the enemy, alert someone prematurely|v
+无休无止|endless, ceaseless|o
+有惊无险|a close call, scary but unharmed|o
+死而复生|to come back from the dead|v
+比比皆是|found everywhere, very common|o
+翻来覆去|tossing and turning; over and over|o;o
+荡然无存|completely gone, nothing left|o
+一五一十|in full detail, everything exactly|o
+久而久之|over time, eventually|o
+亦步亦趋|to blindly follow, imitate slavishly|v
+光天化日|broad daylight|o
+剑拔弩张|tense, on the brink of conflict|o
+名存实亡|existing in name only|o
+吞吞吐吐|hesitant, hemming and hawing|o
+善解人意|understanding, considerate|o
+失魂落魄|distraught, out of one's wits|o
+密不透风|airtight, impenetrable|o
+屈指可数|very few, countable on one's fingers|o
+心烦意乱|agitated, upset|o
+忘恩负义|ungrateful|o
+愁眉苦脸|worried look, long face|o
+成百上千|hundreds and thousands, a great many|o
+手无寸铁|unarmed, defenceless|o
+按部就班|step by step, by the book|o
+无伤大雅|harmless, no big deal|o
+昂首挺胸|head up and chest out, proudly|o
+横冲直撞|to charge about recklessly|v
+泪流满面|face streaming with tears|o
+深信不疑|to believe firmly|v
+漏网之鱼|one who got away|o
+破门而入|to break in|v
+繁文缛节|red tape, excessive formalities|o
+闭目养神|to rest with eyes closed|v
+马脚|telltale sign; 露马脚: to give oneself away|o;n
+万劫不复|irredeemable, beyond salvation|o
+不请自来|uninvited, to show up unasked|o
+不闻不问|to be indifferent, ignore completely|v
+势如破竹|unstoppable, sweeping all before one|o
+合不来|to not get along|v
+垂头丧气|dejected, crestfallen|o
+奇形怪状|grotesque, strangely shaped|o
+容光焕发|glowing, radiant|o
+屁颠屁颠|eagerly, fawningly (trotting along)|o
+拭目以待|to wait and see|v
+日复一日|day after day|o
+相依为命|to depend on each other to survive|v
+耀武扬威|to show off one's power, swagger|v
+自知之明|self-awareness, knowing one's limits|o
+节骨眼儿|critical moment, crucial point|o
+莞尔一笑|to smile faintly|v
+走投无路|at a dead end, with nowhere to turn|o
+身经百战|battle-hardened, very experienced|o
+远道而来|to come from afar|v
+三头六臂|superhuman abilities|o
+不省人事|unconscious|o
+不谋而合|to agree without prior consultation, coincide|v
+九牛一毛|a drop in the bucket, negligible|o
+似是而非|specious, plausible but wrong|o
+充耳不闻|to turn a deaf ear|v
+冒名顶替|to impersonate, pose as someone else|v
+别无二致|no different, identical|o
+半信半疑|half-believing, doubtful|o
+半途而废|to give up halfway|v
+危言耸听|alarmist talk, scaremongering|o
+多了去了|loads, plenty, far more than enough|o
+多愁善感|oversensitive, sentimental|o
+大张旗鼓|with great fanfare, on a grand scale|o
+家喻户晓|known to everyone, a household name|o
+崭露头角|to first show one's talent, emerge|v
+手到擒来|easily done, in the bag|o
+扑朔迷离|confusing, baffling|o
+投鼠忌器|to hold back for fear of collateral damage|v
+敬而远之|to keep at a respectful distance|v
+有目共睹|plain for all to see|o
+来龙去脉|the whole story, ins and outs|o
+桀骜不驯|unruly, defiant|o
+水落石出|the truth comes out|o
+筋疲力尽|exhausted, worn out|o
+算不了|to not count as, be nothing much|v
+绝无仅有|unique, the only one of its kind|o
+绞尽脑汁|to rack one's brains|v
+言下之意|implication, what is implied|o
+言简意赅|concise and to the point|o
+高枕无忧|to rest easy, free of worries|v
+一扫而空|to sweep away completely, clear out|v
+东张西望|to look around, glance about|v
+乌合之众|a rabble, mob|o
+任人宰割|to be at someone's mercy|v
+优柔寡断|indecisive|o
+凶神恶煞|fiendish, menacing (person)|o
+势均力敌|evenly matched|o
+天方夜谭|a fantasy, a tall tale|o
+如法炮制|to follow the same method, copy|v
+并驾齐驱|to keep pace, be on a par|v
+彬彬有礼|refined and courteous|o
+望而却步|to shrink back, be deterred|v
+深仇大恨|deep hatred, bitter enmity|o
+游手好闲|idle, loafing about|o
+灭顶之灾|catastrophe, utter ruin|o
+知难而退|to back off in the face of difficulty|v
+背井离乡|to leave one's homeland|v
+胡作非为|to act outrageously, run amok|v
+落荒而逃|to flee in panic|v
+蒙混过关|to get away with it by deception|v
+面不改色|without batting an eye, unflinching|o
+风生水起|thriving, flourishing|o
+齐聚一堂|to gather together in one place|v
+一落千丈|to plummet, decline sharply|v
+力不从心|unable to do what one wishes, not up to it|o
+变幻莫测|unpredictable, ever-changing|o
+平起平坐|on an equal footing|o
+形同虚设|useless, existing in name only|o
+风起云涌|surging, rising in great waves|o
+高谈阔论|to hold forth, talk grandly|v
+一往无前|to press on fearlessly|v
+一筹莫展|at a complete loss, helpless|o
+一鼓作气|in one go, pressing on without letup|o
+不知所踪|whereabouts unknown|o
+严刑拷打|to torture brutally|v
+冠冕堂皇|high-sounding, specious|o
+口干舌燥|parched, dry-mouthed (from talking)|o
+大摇大摆|swaggering|o
+天壤之别|a world of difference|o
+建功立业|to make one's mark, achieve great things|v
+强人所难|to force someone to do what they cannot|v
+得偿所愿|to have one's wish fulfilled|v
+德高望重|highly respected, of great virtue|o
+心平气和|calm and composed|o
+无坚不摧|all-conquering, irresistible|o
+暴跳如雷|to fly into a violent rage|v
+格杀勿论|to kill on sight|v
+气定神闲|calm and relaxed|o
+没心没肺|heartless; carefree, thoughtless|o;o
+添油加醋|to embellish a story, exaggerate|v
+满目疮痍|devastation everywhere|o
+牢狱之灾|imprisonment, jail time|o
+瓮声瓮气|in a low muffled voice|o
+看得起|to think highly of, respect|v
+肃然起敬|to feel deep respect|v
+马马虎虎|so-so; careless|o;o
+一语不发|without a word|o
+井井有条|orderly, shipshape|o
+人满为患|overcrowded|o
+回心转意|to change one's mind, come round|v
+守口如瓶|tight-lipped, to keep a secret|o
+富丽堂皇|magnificent, splendid|o
+恨之入骨|to hate to the core|v
+慢条斯理|unhurried, leisurely|o
+成群结队|in crowds, in droves|o
+手舞足蹈|to dance for joy|v
+无精打采|listless, dispirited|o
+昏昏欲睡|drowsy|o
+易如反掌|very easy, a piece of cake|o
+狗头军师|bad adviser, schemer|o
+眼花缭乱|dazzled, bewildered|o
+神清气爽|refreshed, clear-headed|o
+精疲力尽|exhausted|o
+自投罗网|to walk into a trap|v
+装神弄鬼|to play tricks, mystify|v
+贪得无厌|insatiably greedy|o
+风吹草动|the slightest sign of trouble|o
+一事无成|to accomplish nothing|v
+七嘴八舌|all talking at once|o
+不声不响|quietly, without a word|o
+中流砥柱|pillar, mainstay|o
+亡羊补牢|better late than never, fix it after the damage|o
+人来人往|people coming and going, bustling|o
+出神入化|consummate, masterly|o
+化为乌有|to vanish into nothing, come to nothing|v
+哗众取宠|to play to the gallery, seek attention|v
+天差地别|worlds apart, completely different|o
+天经地义|perfectly natural and right, beyond question|o
+异想天开|wildly fanciful, to have a crazy idea|o
+心高气傲|proud and arrogant|o
+念念不忘|to never forget, keep in mind constantly|v
+怀璧其罪|to invite trouble by having something valuable|v
+斩草除根|to root out completely, eliminate at the source|v
+游刃有余|to handle with ease, more than competent|v
+热火朝天|buzzing with activity, in full swing|o
+相安无事|to live in peace, get along without trouble|v
+穷凶极恶|utterly vicious, extremely brutal|o
+笑而不语|to smile without answering|v
+耿耿于怀|to brood over, be unable to let go|v
+自告奋勇|to volunteer (for a difficult task)|v
+落于下风|to be at a disadvantage, lose the upper hand|v
+轻车熟路|to know the ropes, do something familiar with ease|v
+面红耳赤|red in the face (from anger or shame)|o
+鬼哭狼嚎|to wail and howl, hideous shrieking|v
+三三两两|in twos and threes, in small groups|o
+义愤填膺|filled with righteous indignation|o
+亡命之徒|desperado, someone with nothing to lose|o
+众目睽睽|in full view of everyone|o
+伤筋动骨|seriously injured; drastic, fundamental (change)|o;o
+似懂非懂|to half understand|v
+光棍|bachelor, single man; hooligan|o;o
+千奇百怪|all kinds of strange things, bizarre|o
+发扬光大|to develop and carry forward (a tradition)|v
+叹为观止|to marvel at, breathtaking|v
+土生土长|born and raised locally, native|o
+处心积虑|to scheme deliberately, plot long in advance|v
+夜深人静|in the dead of night|o
+天衣无缝|flawless, seamless|o
+如愿以偿|to get what one wished for|v
+如虎添翼|to be made even stronger, gain a great advantage|v
+如雷贯耳|famous, a name one has heard a lot about|o
+家破人亡|family ruined and scattered|o
+异曲同工|different approaches, equally good results|o
+当之无愧|fully deserving, worthy of the title|o
+得天独厚|uniquely blessed, naturally advantaged|o
+怜香惜玉|tender towards women|o
+恨不能|to wish one could (= 恨不得)|v
+想不开|to take things too hard, brood|v
+担惊受怕|to live in fear, be anxious|v
+无功而返|to come back empty-handed, fail|v
+无所不知|all-knowing, to know everything|o
+无理取闹|to make a scene for no reason|v
+杀人灭口|to kill a witness to silence them|v
+横七竖八|in a mess, scattered every which way|o
+浑浑噩噩|muddle-headed, going through life in a daze|o
+浮光掠影|superficial, cursory|o
+犯不着|not worth it, no need to|o
+眼疾手快|quick-eyed and deft, quick to react|o
+睡眼惺忪|bleary-eyed, half awake|o
+血债血偿|blood for blood, a life for a life|o
+言听计从|to do whatever someone says, blindly obey|v
+遍体鳞伤|covered in wounds, battered all over|o
+风平浪静|calm, peaceful, uneventful|o
+不共戴天|mortal (enemy), irreconcilable|o
+不甘示弱|unwilling to be outdone|o
+从长计议|to take time to consider, think it over carefully|v
+侃侃而谈|to speak with confidence and ease|v
+刻骨铭心|unforgettable, deeply engraved in memory|o
+化整为零|to break up into small parts|v
+千辛万苦|countless hardships, great effort|o
+同流合污|to go along with wrongdoers, join in corruption|v
+心服口服|fully convinced, to concede defeat sincerely|o
+愁眉不展|to look worried, knit one's brows|v
+所向披靡|invincible, sweeping all before one|o
+打道回府|to go back home, head back|v
+无以复加|to the utmost, in the extreme|v
+欢天喜地|overjoyed, jubilant|o
+海市蜃楼|mirage; illusion|o;o
+石破天惊|earth-shattering, astounding|o
+精益求精|to keep perfecting, strive for excellence|v
+翻江倒海|overwhelming, turbulent; (stomach) churning|o;o
+连滚带爬|scrambling away in a panic|o
+连绵不绝|continuous, unending|o
+重色轻友|to put a lover before friends|v
+小题大做|to make a fuss over nothing|v
+稍纵即逝|fleeting, gone in an instant|o
+脱胎换骨|to be completely transformed, reborn|v
+鹤立鸡群|to stand out from the crowd|v
+冷眼旁观|to watch coldly from the sidelines|v
+出类拔萃|outstanding, head and shoulders above the rest|o
+卑躬屈膝|servile, to bow and scrape|o
+无路可走|to have no way out, be at a dead end|v
+死于非命|to die a violent death|v
+血流成河|rivers of blood, bloodbath|o
+闻风丧胆|terrified at the mere mention|o
+养家糊口|to support one's family, make a living|v
+听天由命|to leave it to fate, resign oneself|v
+咬紧牙关|to grit one's teeth, endure|v
+寄予厚望|to place great hopes on|v
+得心应手|to do with skill and ease|v
+循规蹈矩|to follow the rules, conventional|v
+情有可原|excusable, understandable|o
+赶尽杀绝|to exterminate, show no mercy|v
+呼风唤雨|to wield great power, work miracles|v
+精疲力竭|exhausted, worn out|o
+只字不提|not to mention a single word about|o
+潜移默化|to influence imperceptibly|v
+闭门羹|a cold shoulder; 吃闭门羹: to be turned away at the door|o;n
+白手起家|to build from nothing, self-made|v
+洋相|spectacle; 出洋相: to make a fool of oneself|o;n
 平|flat, level; peaceful|o;o
 音|sound, tone|o
 斩|to chop, behead|v
@@ -13233,6 +13868,7 @@
 麻|hemp; numb|o;o
 掌|palm of the hand; to be in charge of|o;v
 绳|rope, string|o
+拐|to turn (a corner); to abduct; crutch|v;v;o
 叮|to sting, bite (insects); ding (sound); to urge (叮嘱)|v;o;v
 抗|to resist|v
 宅|residence, house; to stay indoors|o;v
@@ -13427,6 +14063,7 @@
 翼|wing|o
 诡|deceitful; strange|o;o
 伐|to fell (trees); to attack|v;v
+拷|to beat, torture; to copy (拷贝)|v;v
 江|river (esp. the Yangtze)|o
 勿|do not (prohibition)|f3s
 掏|to pull out (from a pocket); to dig|v;v
@@ -13435,6 +14072,7 @@
 哲|wise; philosophy|o;o
 湮|to sink into oblivion, be buried|v
 盗|to steal; a bandit|v;o
+谭|tale, talk|o
 展|to unfold, to display|v
 拥|to embrace; to crowd|v;v
 碳|carbon|o
@@ -13462,6 +14100,7 @@
 阴|shady, dark; the yin|o;o
 浮|to float; superficial|v;o
 姊|elder sister|o
+浇|to water, pour|v
 献|to offer, to dedicate|v
 铜|copper, bronze|o
 嘟|to pout; toot, beep (sound)|v;o
@@ -13528,11 +14167,13 @@
 皇|emperor, imperial|o
 荐|to recommend|v
 汪|woof (bark); vast (water); pool|o;o;o
+瘸|lame, limping|o
 昆|(in 昆虫: insect)|g
 泣|to weep|v
 浸|to soak, immerse|v
 攀|to climb|v
 泪|tear (from the eye)|o
+嘶|to neigh, hiss; hoarse|v;o
 鉴|mirror; to reflect on|o;v
 陛|(in 陛下: Your Majesty)|g
 惩|to punish|v
@@ -13542,7 +14183,9 @@
 浴|to bathe|v
 阵|battle array; a spell of, a burst|o;o
 舒|to stretch out; comfortable|v;o
+鹤|crane (bird)|o
 宗|clan; sect, school|o;o
+跋|to trek; postscript|v;o
 晓|dawn; to know|o;v
 削|to peel, pare; to cut, reduce|v;v
 悠|leisurely; long, distant|o;o
@@ -13568,6 +14211,7 @@
 靴|boot|o
 扬|to raise, lift; to spread, publicise|v;v
 掀|to lift (a cover), raise|v
+逸|leisure, ease; to escape|o;v
 鲜|fresh; delicious|o;o
 桨|oar, paddle|o
 兮|(classical exclamatory particle)|g
@@ -13595,6 +14239,7 @@
 勇|brave|o
 卒|soldier, pawn; to die|o;v
 怨|to resent; a grievance|v;o
+愁|worry, sorrow|o
 揾|to look for (colloq., = 找)|v
 校|school; to check|o;v
 允|to permit, to allow|v
@@ -13630,6 +14275,7 @@
 峰|peak, summit|o
 秘|secret, mysterious|o
 耗|to consume, use up|v
+绞|to twist, wring; to strangle|v;v
 膀|shoulder|o
 诉|to tell; to sue, to complain|v;v
 误|mistake; to miss, to delay|o;v
@@ -13659,6 +14305,7 @@
 驶|to drive, to sail|v
 矛|spear; contradiction (矛盾)|o;o
 胎|foetus; tyre|o;o
+津|saliva; ferry, ford|o;o
 译|to translate|v
 抵|to resist; to reach; to be worth|v;v;v
 穴|cave, hole|o
@@ -13695,6 +14342,7 @@
 志|will, ambition; records|o;o
 荣|honour, glory; to flourish|o;v
 戮|to kill, to slaughter|v
+擒|to capture, seize|v
 沟|ditch, gully; gap|o;o
 耐|to endure, to bear|v
 逆|contrary, counter-; to go against|o;v
@@ -13727,11 +14375,13 @@
 逞|to show off; to indulge|v;v
 匪|bandit|o
 导|to guide, to lead; to conduct|v;v
+屡|repeatedly|o
 恰|just, exactly|o
 醇|mellow, pure; alcohol (chemistry)|o;o
 馅|filling, stuffing|o
 暴|violent, sudden; to expose|o;v
 橡|oak; rubber|o;o
+踌|hesitating|o
 吠|to bark|v
 拾|to pick up|v
 监|to supervise; prison|v;o
@@ -13757,6 +14407,7 @@
 皱|to wrinkle; wrinkle|v;o
 户|door; household; account|o;o;o
 枉|in vain; to wrong (someone)|o;v
+竹|bamboo|o
 继|to continue, to succeed|v
 蛙|frog|o
 担|to carry on the shoulder; to take on|v;v
@@ -13782,6 +14433,7 @@
 植|to plant|v
 岗|post, sentry; mound|o;o
 梯|ladder, stairs|o
+瓮|urn, earthen jar|o
 缀|to sew, stitch; to embellish|v;v
 嗣|heir, descendant|o
 噜|呼噜: snore|n
@@ -13813,6 +14465,7 @@
 滩|beach, sandbank|o
 宴|banquet, feast|o
 毅|resolute, firm|o
+焉|how, where (classical); thereupon|o;o
 镖|dart, throwing weapon (in 保镖)|o
 颖|clever, talented|o
 景|scenery, view; situation|o;o
@@ -13837,6 +14490,7 @@
 振|to shake, to rouse|v
 筹|to plan; chip, token|v;o
 缓|slow; to delay, to relax|o;v
+逢|to meet, encounter|v
 互|mutual, each other|o
 寨|stockade, fortified village|o
 柔|soft, gentle|o
@@ -13862,9 +14516,11 @@
 雀|sparrow, small bird|o
 廉|honest, upright; cheap|o;o
 氢|hydrogen|o
+羹|thick soup, broth|o
 摧|to destroy, to break|v
 沸|to boil|v
 缸|jar, vat; tub|o;o
+躬|to bow; in person|v;o
 预|in advance, beforehand|o
 骆|camel (as in 骆驼)|o
 函|letter; function (math.)|o;o
@@ -13958,6 +14614,7 @@
 颜|face; colour|o;o
 夥|(traditional variant of 伙: companion)|g
 幽|secluded, dim; ghostly|o;o
+弩|crossbow|o
 损|to damage, to lose|v
 纵|to let loose; vertical; even if|v;o;o
 续|to continue, to renew|v
@@ -13971,6 +14628,7 @@
 炎|inflammation; scorching hot|o;o
 袜|socks, stockings|o
 训|to train, to instruct; a lesson|v;o
+躇|hesitating|o
 亩|mu (unit of land, about 667 m²)|o
 侣|companion|o
 俘|to capture; a prisoner of war|v;o
@@ -14009,6 +14667,7 @@
 农|farming, agriculture|o
 孕|pregnancy|o
 庭|courtyard; court (of law)|o;o
+彬|refined, courteous|o
 沫|foam, froth|o
 犹|still, yet; like|o;o
 蓬|fluffy, dishevelled|o
@@ -14016,6 +14675,7 @@
 窒|to stifle, to suffocate|v
 飙|whirlwind; to soar, surge|o;v
 匙|spoon; key (钥匙)|o;o
+咄|aggressive, overbearing; tut|o;o
 境|border; circumstances|o;o
 崎|崎岖: rugged, rough|n
 棺|coffin|o
@@ -14040,6 +14700,7 @@
 拟|to draft; to imitate|v;v
 携|to carry, to take along|v
 斧|axe|o
+砥|whetstone; to temper|o;v
 陡|steep; suddenly|o;o
 嘈|noisy|o
 媲|媲美: to rival, match|n
@@ -14057,6 +14718,7 @@
 乓|乒乓: ping-pong|n
 乞|to beg|v
 习|to practise; habit|v;o
+亢|haughty, high; excited|o;o
 享|to enjoy, to have the benefit of|v
 亵|obscene, irreverent|o
 仰|to look up; to admire|v;v
@@ -14072,6 +14734,7 @@
 侮|to insult, to humiliate|v
 侵|to invade, to encroach on|v
 促|to urge, to promote|v
+俑|tomb figurine|o
 俯|to bow, look down|v
 倘|if, supposing|o
 倚|to lean on, rely on|v
@@ -14142,11 +14805,13 @@
 喃|to murmur|v
 喻|metaphor, analogy; to explain|o;v
 嗓|throat, voice|o
+嗤|to sneer, scoff|v
 嗽|(in 咳嗽: to cough)|g
 嘱|to enjoin, to instruct|v
 嘲|to mock, to jeer at|v
 噩|dreadful, ill-omened|o
 噬|to bite, to devour|v
+嚏|sneeze|o
 嚓|crack, snap (sound)|o
 嚣|clamour, noise; arrogant|o;o
 囔|嘟囔: to mumble|n
@@ -14167,6 +14832,7 @@
 墅|(in 别墅: villa)|g
 增|to increase, to add|v
 墟|ruins|o
+壑|gully, ravine|o
 壤|soil, earth|o
 夭|to die young|v
 央|centre; to plead with|o;v
@@ -14178,6 +14844,7 @@
 妒|to be jealous of|v
 妨|to hinder, to obstruct|v
 姑|aunt (father's sister); girl|o;o
+姗|slowly, leisurely|o
 姻|marriage, in-law relations|o
 娇|delicate, charming; pampered|o;o
 娱|to amuse; entertainment|v;o
@@ -14189,6 +14856,7 @@
 媳|daughter-in-law; wife|o;o
 嫉|to envy, to be jealous|v
 嫡|legitimate, of the main line|o
+嫣|bright, charming|o
 孱|frail, weak|o
 孵|to hatch, incubate|v
 宇|space, the universe; eaves|o;o
@@ -14200,6 +14868,7 @@
 宿|to stay the night; lodging|v;o
 寂|quiet, lonely|o
 寓|to reside; residence; to imply|v;o;v
+寝|sleep, bedroom|o
 寞|(in 寂寞: lonely)|g
 寡|few; widowed|o;o
 寥|sparse, few; empty|o;o
@@ -14242,7 +14911,9 @@
 忏|to repent, to confess|v
 忐|忐忑: uneasy, nervous|n
 忑|忐忑: uneasy, nervous|n
+忡|worried, anxious|o
 忧|worry, anxiety|o
+忪|bleary, drowsy|o
 态|manner, state, attitude|o
 怖|terror, dread|o
 怯|timid, cowardly|o
@@ -14263,8 +14934,10 @@
 惚|恍惚: dazed, in a trance|n
 惜|to cherish; to regret|v;v
 惫|(in 疲惫: worn out)|g
+惭|ashamed|o
 惮|to dread, fear|v
 惶|panic, alarm|o
+惺|bleary; to pretend|o;v
 愉|pleased, cheerful|o
 愕|stunned, astonished|o
 愚|foolish, stupid|o
@@ -14326,6 +14999,7 @@
 曝|to expose to the sun or light|v
 曦|sunlight, dawn light|o
 曳|to drag, trail|v
+朔|first day of lunar month; north|o;o
 朦|朦胧: hazy, dim|n
 朽|rotten, decayed|o
 构|to construct; structure|v;o
@@ -14335,12 +15009,16 @@
 栅|fence, railing|o
 栈|warehouse, inn; plank road|o;o
 栖|to perch, dwell|v
+栗|chestnut; to shiver|o;v
+栩|lifelike, vivid|o
+桀|unruly, wild|o
 桐|tung tree, paulownia|o
 桦|birch|o
 梧|梧桐: parasol tree|n
 梭|shuttle (weaving)|o
 械|implement, weapon; machine|o;o
 棘|thorn; thorny (棘手)|o;o
+棱|edge, ridge|o
 概|general, approximate; outline|o;o
 榄|(in 橄榄: olive)|g
 榈|棕榈: palm tree|n
@@ -14378,6 +15056,7 @@
 济|to help; to cross a river|v;v
 浏|浏览: to browse|n
 涉|to wade; to involve|v;v
+涛|big wave, billow|o
 涟|ripple|o
 涡|whirlpool, eddy|o
 涯|shore, limit (生涯 career)|o
@@ -14424,6 +15103,7 @@
 烯|-ene (alkene)|o
 烷|-ane (alkane)|o
 烹|to cook, to boil|v
+焕|shining, radiant|o
 焚|to burn|v
 焰|flame|o
 煌|bright, brilliant|o
@@ -14457,6 +15137,7 @@
 瑜|瑜伽: yoga; lustre of jade, excellence|n;o
 瑰|(in 玫瑰: rose); marvellous|g;o
 璀|璀璨: bright, resplendent|n
+璧|jade disc|o
 璨|bright, resplendent|o
 畅|smooth, unimpeded; free, uninhibited|o;o
 畔|bank, side (of a river, lake)|o
@@ -14468,7 +15149,9 @@
 疚|guilt, remorse|o
 疟|malaria|o
 疫|epidemic, plague|o
+疮|sore, wound|o
 疲|weary, exhausted|o
+痍|wound, injury|o
 痪|(in 瘫痪: paralysed)|g
 痹|numbness, paralysis|o
 瘟|plague, pestilence|o
@@ -14479,6 +15162,9 @@
 眺|to look into the distance|v
 睛|eyeball (眼睛)|o
 督|to supervise, to oversee|v
+睽|to stare, gaze|v
+瞌|drowsy|o
+瞠|to stare|v
 瞰|to look down at|v
 研|to grind; to research|v;v
 础|foundation, base|o
@@ -14492,6 +15178,7 @@
 祀|to sacrifice, to worship|v
 祈|to pray for|v
 祉|blessing, happiness|o
+祟|evil spirit, haunting; furtive|o;o
 祷|to pray|v
 禀|to report (to a superior); natural endowment|v;o
 禽|birds, fowl|o
@@ -14505,6 +15192,7 @@
 窿|窟窿: hole; 穹窿: dome|n;n
 竞|to compete|v
 竣|to complete, finish (竣工)|v
+竿|pole, rod|o
 筑|to build|v
 筛|to sieve, sift; sieve|v;o
 筷|chopsticks|o
@@ -14518,9 +15206,11 @@
 纠|to correct; to entangle|v;v
 纤|fine, slender; fibre|o;o
 紊|disorderly (紊乱)|o
+纭|confused, numerous|o
 纲|outline, key principle|o
 纷|numerous, confused|o
 绅|gentry, gentleman|o
+绌|insufficient, inferior|o
 绍|to introduce, to carry on|v
 绎|to unravel, deduce (演绎)|v
 络|net, network|o
@@ -14529,19 +15219,24 @@
 绪|thread, beginnings; mood|o;o
 绰|ample, spacious; graceful|o;o
 绵|continuous; soft; cotton|o;o;o
+绸|silk; to prepare|o;v
 综|to sum up, synthesise|v
 绽|to split open, burst; to bloom|v;v
 缆|cable, hawser|o
 缉|to seize, to arrest|v
+缛|elaborate, cumbersome|o
 繁|numerous, complex; prosperous|o;o
+缪|to prepare, bind; error|v;o
 缭|to wind around; 眼花缭乱: dazzled|v;n
 纂|to compile, edit|v
+罔|to disregard; not|v;o
 罕|rare, seldom|o
 羡|to envy, to admire|v
 耀|to shine, to dazzle|v
 耦|coupling (耦合)|o
 耸|to tower, rise high; to shrug|v;v
 耽|to delay, to indulge in|v
+耿|upright, honest; troubled|o;o
 聆|to listen|v
 聘|to hire, engage|v
 聪|clever, sharp of hearing|o
@@ -14560,10 +15255,12 @@
 脂|fat, grease|o
 脯|dried meat; breast (胸脯)|o;o
 腐|rotten, corrupt; bean curd|o;o
+腑|internal organs|o
 腥|fishy, the smell of blood|o
 腺|gland|o
 膊|(in 胳膊: arm)|g
 膨|to swell, to expand|v
+膺|breast, chest; to receive|o;v
 臾|须臾: a moment|n
 舅|uncle (mother's brother)|o
 航|to navigate, to fly|v
@@ -14574,6 +15271,7 @@
 芦|reed|o
 芯|core, wick; chip|o;o
 苍|dark green, grey; vast|o;o
+苟|careless, casual; if|o;o
 苹|(in 苹果: apple)|g
 茁|sturdy, thriving (茁壮)|o
 茄|aubergine; (in 雪茄: cigar)|o;g
@@ -14581,9 +15279,12 @@
 茉|(in 茉莉: jasmine)|g
 茫|vast, boundless; at a loss|o;o
 荧|glimmering; fluorescent|o;o
+荼|bitter herb; to poison|o;v
 莅|to arrive, attend (莅临)|v
 莓|(in 草莓: strawberry)|g
+莞|to smile|v
 莽|rash; dense grass|o;o
+萃|to gather; collection|v;o
 萄|(in 葡萄: grape)|g
 萤|firefly|o
 萦|to wind around, linger|v
@@ -14603,6 +15304,7 @@
 蚀|to erode, eat away|v
 蚂|(in 蚂蚁: ant)|g
 蛟|flood dragon|o
+蜃|mirage|o
 蜕|to shed skin, slough|v
 蜘|(in 蜘蛛: spider)|g
 蜥|lizard (as in 蜥蜴)|o
@@ -14627,10 +15329,13 @@
 袖|sleeve|o
 裨|benefit, advantage (裨益)|o
 裳|skirt, clothing|o
+襟|front of a garment; mind, heart|o;o
 规|rule, regulation; compasses|o;o
 览|to view, to look over|v
+觑|to peek, look|v
 讥|to mock, ridicule|v
 议|to discuss; opinion, proposal|v;o
+讳|taboo; to avoid mentioning|o;v
 讶|surprised, astonished|o
 讼|lawsuit, litigation|o
 访|to visit, to call on|v
@@ -14668,23 +15373,32 @@
 贿|to bribe|v
 赂|(in 贿赂: to bribe)|g
 资|funds, resources; qualifications|o;o
+赅|comprehensive, concise|o
 赠|to give as a gift|v
 赦|to pardon, to remit|v
 趋|to tend towards; to hasten|v;v
 趣|interest, delight|o
 跃|to leap, to jump|v
 跄|踉跄: to stagger|n
+跚|staggering, hobbling|o
 践|to tread; to carry out|v;v
 跻|to rise to, ascend|v
 踉|踉跄: to stagger|n
 蹂|to trample (as in 蹂躏)|v
+蹊|path; strange (蹊跷)|o;o
+蹒|staggering, hobbling|o
+蹴|to kick; to accomplish (一蹴而就)|v;v
+蹶|to stumble, fall|v
 躁|restless, impetuous|o
 躏|to trample (as in 蹂躏)|v
 躯|body, trunk|o
 轨|track, rails; course|o;o
+轩|high; pavilion|o;o
 辐|spoke; to radiate|o;v
 辑|to compile, to edit|v
+辕|shaft (of a cart)|o
 辖|to govern, have jurisdiction over|v
+辙|rut, track|o
 辜|guilt, crime|o
 辟|to open up, develop; to refute; penetrating|v;v;o
 辩|to argue, to debate|v
@@ -14717,6 +15431,7 @@
 锹|shovel, spade|o
 锻|to forge, to temper|v
 镰|sickle|o
+镳|bridle bit|o
 闺|boudoir, women's quarters|o
 阁|pavilion; cabinet (government)|o;o
 阅|to read, to review|v
@@ -14750,12 +15465,14 @@
 饪|(in 烹饪: cooking)|g
 馈|to present, give; feedback (反馈)|v;o
 驭|to drive, control|v
+驯|to tame; tame|v;o
 驰|to gallop, speed|v
 驱|to drive, to expel|v
 驳|to refute, contradict|v
 驼|camel; hunchbacked|o;o
 骄|proud, arrogant|o
 骇|to shock, terrify|v
+骜|untamed, unruly|o
 骤|sudden; a step in a sequence|o;o
 骷|骷髅: skeleton, skull|n
 骼|skeleton (骨骼)|o
@@ -14779,6 +15496,7 @@
 麟|麒麟: qilin, Chinese unicorn|n
 麾|commander's banner; to command|o;v
 黯|dark, gloomy|o
+鼎|ancient cauldron; great, grand|o;o
 龄|age, years|o
 般若波罗蜜多|the perfection of transcendent wisdom (Buddhist)|o
 般若|transcendent wisdom, insight (Buddhist)|o

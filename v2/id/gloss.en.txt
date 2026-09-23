@@ -12364,3 +12364,428 @@ transien|transient|o
 yo-yo|yo-yo|o
 amonium|ammonium|o
 senat|senate|o
+akan tetapi|however, but|o
+dalam hati|inwardly, to oneself; in one's heart|o;o
+selamat datang|welcome|o
+omong kosong|nonsense, empty talk|o
+makan malam|dinner; to have dinner|o;v
+apa kabar|how are you?|o
+air mata|tears|o
+selamat tinggal|goodbye (said by the one leaving)|o
+hak cipta|copyright|o
+selamat pagi|good morning|o
+kata pengantar|foreword, preface|o
+anak muda|young man, youth; young people|o;o
+jatuh cinta|to fall in love|v
+budi pekerti|character, morals|o
+masuk akal|to make sense; reasonable|v;o
+makan siang|lunch; to have lunch|o;v
+bunuh diri|suicide; to commit suicide|o;v
+bisa jadi|maybe, it may be; (literally) can become|o;o
+mencari tahu|to find out|v
+musim panas|summer|o
+ya ampun|oh my goodness!, good grief!|o
+alam semesta|universe|o
+jalan keluar|way out, solution; exit|o;o
+memberi tahu|to tell, inform|v
+kasih sayang|love, affection|o
+lagi pula|besides, moreover|o
+putus asa|to despair; desperate, hopeless|v;o
+tutup mulut|shut up!, to keep quiet; (literally) to cover one's mouth|o;v
+orang banyak|the public, the crowd|o
+angkatan laut|navy|o
+meninggal dunia|to pass away, die|v
+kepala sekolah|headmaster, principal|o
+cari tahu|to find out|v
+rumah tangga|household; married life|o;o
+anak gadis|daughter; young girl, maiden|o;o
+nenek moyang|ancestors|o
+suami istri|husband and wife, married couple|o
+sayang sekali|what a pity, too bad; (literally) to love very much|o;v
+kurang ajar|rude, insolent; (as a curse) you bastard!|o;f2s2p
+anak panah|arrow|o
+ilmu pengetahuan|science; knowledge|o;o
+mengambil alih|to take over|v
+dahulu kala|long ago, once upon a time|o
+atas nama|on behalf of, in the name of|o
+akhir pekan|weekend|o
+percaya diri|self-confident; self-confidence|o;o
+batu bara|coal|o
+luar angkasa|outer space|o
+kurang lebih|more or less, approximately|o
+sampai ketemu|see you (later); (literally) until (it is) found|o;o
+keras kepala|stubborn|o
+tanah air|homeland, native country|o
+kampung halaman|hometown, home village|o
+beri tahu|to tell, inform|v
+perdana menteri|prime minister|o
+musim dingin|winter|o
+bukan main|incredibly, extraordinarily; amazing!|o;o
+ibu tiri|stepmother|o
+obat bius|anaesthetic; narcotics|o;o
+masa kini|the present day, nowadays|o
+berjalan kaki|to walk, go on foot|v
+mata pelajaran|(school) subject|o
+mata air|spring (of water)|o
+perguruan tinggi|university, college|o
+surat kabar|newspaper|o
+kerja sama|cooperation; to cooperate|o;v
+masa kecil|childhood|o
+kakak beradik|siblings (of each other)|o
+cantik jelita|ravishingly beautiful|o
+bawah sadar|subconscious|o
+musim semi|spring (season)|o
+jati diri|identity, true self|o
+belas kasihan|pity, mercy, compassion|o
+buang air|to relieve oneself|v
+ruang tamu|living room, front room|o
+anak cucu|descendants, posterity|o
+sidik jari|fingerprint|o
+yatim piatu|orphan (without either parent); orphaned|o;o
+selamat siang|good day, good afternoon|o
+bela diri|self-defence; martial arts|o;o
+orang besar|important person, dignitary; (literally) big person|o;o
+ruang angkasa|(outer) space|o
+larut malam|late at night|o
+rendah hati|humble|o
+harga diri|self-esteem, pride, dignity|o
+kaya raya|very rich, wealthy|o
+adat istiadat|customs and traditions|o
+telapak tangan|palm (of the hand)|o
+kebun binatang|zoo|o
+surat perintah|warrant; written order|o;o
+anak tangga|step, stair; rung|o;o
+sumber daya|resources|o
+musim kemarau|dry season|o
+daya tarik|attraction, appeal|o
+sopan santun|good manners, courtesy|o
+anak angkat|adopted child|o
+salah paham|misunderstanding; to misunderstand|o;v
+mencari nafkah|to earn a living|v
+juru masak|cook|o
+kembang api|fireworks|o
+selamat jalan|goodbye, bon voyage (said to the one leaving)|o
+rumah panggung|house on stilts|o
+angkatan udara|air force|o
+panjang umur|long life; long live!|o;o
+lepas landas|to take off (of an aircraft); take-off|v;o
+uang tunai|cash|o
+tata letak|layout|o
+isi hati|one's feelings, what is in one's heart|o
+patah hati|heartbroken; heartbreak|o;o
+tahu diri|to know one's place; tidak tahu diri: presumptuous|v;n
+sanak saudara|relatives|o
+berat badan|body weight|o
+selamat sore|good afternoon, good evening|o
+burung hantu|owl|o
+tutur kata|way of speaking, speech|o
+panjang lebar|at length, in detail|o
+lebih kurang|approximately, more or less; (literally) even less|o;o
+jalan setapak|footpath, trail|o
+jalan kaki|to walk, go on foot; walking|v;o
+perawan tua|spinster, old maid|o
+tanah liat|clay|o
+tukang kebun|gardener|o
+berat hati|reluctant, heavy-hearted|o
+anak kandung|one's own (biological) child|o
+menghela napas|to sigh|v
+gelap gulita|pitch-dark|o
+tata cara|procedure, way, protocol|o
+raut wajah|facial features, expression|o
+tipu muslihat|trickery, ruse|o
+panti asuhan|orphanage|o
+jalan pintas|shortcut|o
+singkat cerita|long story short, in short|o
+silih berganti|one after another, in turn|o
+kapal induk|aircraft carrier; mother ship|o;o
+musim gugur|autumn|o
+kapal selam|submarine|o
+sepenuh hati|wholeheartedly|o
+suka cita|joy|o
+kutu buku|bookworm|o
+hati nurani|conscience|o
+ruang tengah|family room, central room|o
+api unggun|campfire, bonfire|o
+makhluk halus|spirit, supernatural being|o
+kata hati|conscience, inner voice|o
+gula pasir|granulated sugar|o
+bawang merah|shallot|o
+dini hari|small hours, early morning|o
+murah hati|generous|o
+buah hati|beloved child, darling|o
+anak sungai|tributary, stream|o
+akal sehat|common sense|o
+ambil alih|to take over|v
+air putih|(plain drinking) water|o
+tata surya|solar system|o
+kamar kecil|toilet; (literally) small room|o;o
+jatuh hati|to fall in love|v
+batu karang|coral rock, reef|o
+sakit jiwa|mentally ill, insane|o
+saudara kandung|sibling (by blood)|o
+tanda tanya|question mark; mystery|o;o
+tangan kosong|empty-handed; bare-handed|o;o
+sanak keluarga|relatives, kin|o
+ikan duyung|dugong; mermaid|o;o
+setengah mati|terribly, to death (intensifier); (literally) half-dead|o;o
+merah putih|the Red and White (Indonesian flag); red and white|o;o
+ibu jari|thumb; big toe|o;o
+hari raya|(religious) holiday, festival; Eid|o;o
+korek api|match; lighter|o;o
+bunga rampai|anthology|o
+angkatan darat|army|o
+kacang hijau|mung bean|o
+wali kelas|homeroom teacher|o
+kayu manis|cinnamon|o
+mata pencaharian|livelihood|o
+semata wayang|only (child)|o
+ayah tiri|stepfather|o
+air liur|saliva|o
+ibu bapak|parents|o
+ilmu hitam|black magic|o
+gula merah|palm sugar|o
+ubi jalar|sweet potato|o
+akhir hayat|end of one's life, death|o
+bulu tangkis|badminton|o
+kaki tangan|accomplice, henchman; (literally) hands and feet|o;o
+pihak berwenang|the authorities|o
+batu bata|brick|o
+tahu malu|to have a sense of shame; tidak tahu malu: shameless|v;n
+alih bahasa|translation; translated by|o;o
+kaca mata|glasses, spectacles|o
+ibu kandung|birth mother|o
+terang benderang|brightly lit, dazzling|o
+anak didik|pupil, protégé|o
+anak tiri|stepchild|o
+anak istri|wife and children, family|o
+orang pintar|shaman, healer; (literally) clever person|o;o
+turun temurun|hereditary, handed down through generations|o
+juru tulis|clerk, scribe|o
+hari jadi|anniversary; birthday|o;o
+paruh baya|middle-aged|o
+tempo hari|the other day|o
+hilir mudik|back and forth, to and fro|o
+sakit keras|seriously ill|o
+tukang cukur|barber|o
+lemari es|refrigerator|o
+sapu tangan|handkerchief|o
+ikan mas|goldfish; carp|o;o
+pendek kata|in short|o
+tenaga kerja|workforce, labour; worker|o;o
+hati kecil|one's heart of hearts, inner voice|o
+pegawai negeri|civil servant|o
+tua bangka|old codger (derogatory)|o
+gotong royong|mutual cooperation, communal work|o
+tegur sapa|greeting, exchange of greetings|o
+masa bodoh|(I) don't care, whatever|o
+tulang belulang|bones, skeleton|o
+boleh jadi|perhaps, possibly; (literally) can be, may happen|o;o
+uang muka|down payment, advance|o
+jiwa raga|body and soul|o
+nafsu makan|appetite|o
+selamat tidur|good night, sleep well|o
+jeruk nipis|lime|o
+air tawar|fresh water|o
+mata uang|currency|o
+anak dara|maiden, virgin|o
+mencuri hati|to steal (someone's) heart|v
+angin ribut|storm, gale|o
+ambil bagian|to take part; (literally) to take a portion|v;v
+juru mudi|helmsman|o
+menarik diri|to withdraw|v
+makan pagi|breakfast; to have breakfast|o;v
+rumah makan|restaurant|o
+tipu daya|trickery, deceit|o
+hawa nafsu|lust, passion, desire|o
+air bah|flood, deluge|o
+tata krama|etiquette, manners|o
+belas kasih|compassion, mercy|o
+berbesar hati|to be proud, glad; to take heart|v;v
+angkat bicara|to speak up|v
+pencak silat|pencak silat (martial art)|o
+juru bicara|spokesperson|o
+buah bibir|talk of the town|o
+hiruk pikuk|hustle and bustle, commotion|o
+rakyat jelata|common people|o
+tanah longsor|landslide|o
+budi bahasa|manners, courtesy|o
+kaki seribu|millipede|o
+bulu kuduk|hairs on the back of the neck|o
+tenaga dalam|inner power (martial arts)|o
+jual beli|trade, buying and selling|o
+mati rasa|numb|o
+turun tangan|to step in, intervene|v
+titik balik|turning point; solstice|o;o
+lampu hijau|green light (permission); (literally) green traffic light|o;o
+fakir miskin|the destitute, the poor|o
+merah padam|flushed red (with anger or shame)|o
+besar hati|proud, glad; magnanimous|o;o
+pulang pergi|round trip, return; to commute|o;v
+air muka|facial expression, countenance|o
+kaum kerabat|relatives, kinsfolk|o
+kacang tanah|peanut|o
+lupa diri|to forget oneself, get carried away|v
+pucat pasi|deathly pale|o
+ubi kayu|cassava|o
+setengah baya|middle-aged|o
+lalu lalang|back and forth, to and fro|o
+pagi buta|crack of dawn|o
+hak asasi|basic rights; hak asasi manusia: human rights|o;n
+mengambil hati|to win (someone's) favour; (literally) to take the liver|v;v
+kasih tahu|to tell (colloquial)|v
+buta huruf|illiterate|o
+lahir batin|outwardly and inwardly, body and soul|o
+anak haram|illegitimate child, bastard|o
+tata bahasa|grammar|o
+uang jajan|pocket money (for snacks)|o
+putri duyung|mermaid|o
+bulu mata|eyelash|o
+balas budi|to repay a kindness; gratitude|v;o
+rendah diri|low self-esteem, inferiority; humble|o;o
+anak emas|favourite, golden boy|o
+rumah kaca|greenhouse|o
+hilang akal|to lose one's head, be at one's wits' end|v
+ujung tombak|spearhead (fig.), vanguard; (literally) spear tip|o;o
+kacang panjang|yardlong bean|o
+naik kelas|to move up a year (at school)|v
+bulan puasa|fasting month, Ramadan|o
+ibu suri|queen mother|o
+malam minggu|Saturday night|o
+biji mata|eyeball; apple of one's eye|o;o
+kata sifat|adjective|o
+orang utan|orangutan|o
+banyak akal|resourceful|o
+naik haji|to go on the hajj|v
+jari telunjuk|index finger|o
+tanya jawab|question and answer|o
+kambing hitam|scapegoat; (literally) black goat|o;o
+kipas angin|electric fan|o
+darah daging|one's own flesh and blood|o
+mengerutkan kening|to frown|v
+bapak ibu|ladies and gentlemen; parents|o;o
+sok pintar|smart alec, know-it-all|o
+naik darah|to lose one's temper|v
+tua renta|frail with age, decrepit|o
+mata kuliah|(university) course, subject|o
+pasang surut|tide, ebb and flow; ups and downs|o;o
+mata angin|point of the compass|o
+kata sepakat|agreement, consensus|o
+tangan hampa|empty-handed|o
+ramah tamah|friendly, hospitable; hospitality|o;o
+ulu hati|pit of the stomach|o
+berkecil hati|to lose heart, be discouraged|v
+alam gaib|the unseen world, the supernatural|o
+alam baka|the afterlife|o
+garis besar|outline; secara garis besar: broadly|o;n
+masuk angin|to catch a chill|v
+daya tahan|endurance, resistance; immunity|o;o
+sok tahu|know-it-all|o
+kalang kabut|in a panic, in disarray|o
+akhir kata|finally, in closing|o
+makan waktu|to take time|v
+saudara tiri|stepbrother, stepsister; half-sibling|o;o
+tanah kelahiran|birthplace, homeland|o
+menaruh hati|to take a fancy to, have feelings for|v
+istri muda|second (younger) wife|o
+buah dada|breast|o
+tulang punggung|backbone (fig.), breadwinner; (literally) spine|o;o
+sunyi senyap|utterly silent|o
+balas jasa|reward, repayment for a service|o
+membanting tulang|to work oneself to the bone|v
+kata benda|noun|o
+naik pitam|to fly into a rage|v
+lapang dada|open-hearted, graciously accepting|o
+tata tertib|rules, regulations; order|o;o
+tali pusar|umbilical cord|o
+putus sekolah|to drop out of school; dropout|v;o
+kuda nil|hippopotamus|o
+buah tangan|gift brought for one's host, souvenir|o
+air mani|semen|o
+memutar otak|to rack one's brains|v
+pulang kampung|to go back to one's hometown|v
+salah tingkah|awkward, flustered|o
+dunia maya|cyberspace, the online world|o
+kata kerja|verb|o
+jam malam|curfew|o
+suka duka|joys and sorrows|o
+mati listrik|power cut, blackout|o
+buah pikiran|idea, brainchild|o
+anjing laut|seal|o
+daun telinga|outer ear|o
+patah semangat|to lose heart|v
+air seni|urine|o
+lepas pantai|offshore|o
+lanjut usia|elderly|o
+kerja bakti|communal work, community service|o
+buka puasa|to break the fast; iftar|v;o
+sedikit banyak|to some extent, more or less|v
+jalan tikus|back alley, rat run|o
+telur dadar|omelette|o
+gawat darurat|emergency|o
+bulu roma|body hair; bulu roma berdiri: one's hair stands on end|o;n
+cabai rawit|bird's eye chilli|o
+menelan ludah|to swallow hard, gulp|v
+burung gereja|sparrow|o
+kaki lima|street vendor (pedagang kaki lima); street stall|o;o
+besar kepala|conceited, big-headed|o
+macan tutul|leopard|o
+tinggi hati|arrogant, haughty|o
+bulan sabit|crescent moon|o
+siang bolong|broad daylight|o
+duka cita|sorrow; condolence|o;o
+cuci mulut|dessert|o
+nenek sihir|witch|o
+batu loncatan|stepping stone (fig.)|o
+kabar angin|rumour|o
+kuda lumping|kuda lumping (trance dance with a woven horse)|o
+jari manis|ring finger|o
+ujung tanduk|on the brink, in peril (di ujung tanduk); (literally) tip of a horn|o;o
+suka rela|voluntary; voluntarily|o;o
+kaki langit|horizon|o
+ambil pusing|to bother, care; tidak ambil pusing: not to care|v;n
+timbal balik|reciprocal, mutual|o
+ringan tangan|helpful, ready to help; quick to hit|o;o
+mengangkat bahu|to shrug|v
+mata kaki|ankle|o
+main hakim|to act as judge; main hakim sendiri: to take the law into one's own hands|v;n
+porak poranda|in ruins, devastated|o
+hitam legam|jet-black|o
+sabung ayam|cockfighting|o
+ayam kampung|free-range chicken|o
+puting beliung|tornado, whirlwind|o
+membuang muka|to look away (in disdain)|v
+ibu pertiwi|the motherland|o
+berat sebelah|biased, one-sided; lopsided|o;o
+banyak tingkah|fussy, full of airs|o
+juru kunci|caretaker (of a sacred site); bottom of the table|o;o
+mati konyol|to die for nothing|v
+jatuh tempo|to fall due; due date|v;o
+kecil hati|discouraged; offended|o;o
+muda belia|very young|o
+bunga tidur|dream|o
+lidah buaya|aloe vera|o
+lintah darat|loan shark|o
+jatuh bangun|stumbling, falling and rising again; ups and downs|o;o
+simpang siur|confused, contradictory; crisscrossing|o;o
+tawar menawar|bargaining, haggling|o
+mengerutkan dahi|to frown|v
+lupa daratan|to get carried away, forget oneself|v
+batang hidung|bridge of the nose; tidak tampak batang hidungnya: nowhere to be seen|o;o
+kebun raya|botanical garden|o
+tali pusat|umbilical cord|o
+darah tinggi|high blood pressure|o
+adu domba|to pit (people) against each other; (literally) ram fight|v;o
+mata hati|the mind's eye, inner eye|o
+tenggang rasa|tolerance, consideration|o
+jantung hati|sweetheart, darling|o
+tanda mata|keepsake, souvenir|o
+tata usaha|administration (office)|o
+duduk perkara|the facts of the matter|o
+gula jawa|palm sugar|o
+polisi tidur|speed bump|o
+titik tolak|starting point|o
+roh halus|spirit|o
+sama rata|equally, evenly|o
+mengelus dada|to bear something patiently; (literally) to stroke one's chest|v;v
+unjuk rasa|demonstration, protest|o
+tata kelola|governance|o

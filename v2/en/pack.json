@@ -1,6 +1,6 @@
 {
   "id": "en",
-  "version": "1.0.93",
+  "version": "1.0.94",
   "files": {
     "lex": {
       "path": "lex.txt",
@@ -30,12 +30,12 @@
     "phrases": {
       "path": "phrases.txt",
       "license": "unencumbered",
-      "sha256": "d8744b6c63bb55e11a5112563769a75da3b5d863aacb3f54e7b5565f1bfdcd96"
+      "sha256": "9990afd067d47c67d8665bdf3e16276b0595b53fa7fad3caa521f292aea0022f"
     },
     "phrases.en": {
       "path": "phrases.en.txt",
       "license": "unencumbered",
-      "sha256": "417bf749ec559fd86412c6e176051c193572032200fe7330a7b01e2c2b6de1d1"
+      "sha256": "697c27d0bd6de4cd871faf6688551cc3d0d2c47aaf1db3056dacbd084d99b607"
     },
     "gloss.id": {
       "path": "gloss.id.txt",
@@ -45,7 +45,7 @@
     "phrases.id": {
       "path": "phrases.id.txt",
       "license": "unencumbered",
-      "sha256": "eb6b077e36c17a13be37a9460479032cc5a3115c666c49bf088e28e74f3818b8"
+      "sha256": "5ef8169ea8448a2e846c4e9d2f5b191040a3233a31a432da660216ace132d6d5"
     },
     "gloss.zh": {
       "path": "gloss.zh.txt",
@@ -55,7 +55,7 @@
     "phrases.zh": {
       "path": "phrases.zh.txt",
       "license": "unencumbered",
-      "sha256": "e38913b98849794987b0e7934e7d6aac89914e769192b74642603c692ee9edb6"
+      "sha256": "61449988e2407585752b1f55acb6dc1585c8100faecedeeda88d8f3042589193"
     },
     "gloss.es": {
       "path": "gloss.es.txt",
@@ -65,7 +65,7 @@
     "phrases.es": {
       "path": "phrases.es.txt",
       "license": "unencumbered",
-      "sha256": "fbc362f88540b3d753a846519b8e1e5d7e90ff50687d4396864949e4bc1e8aa2"
+      "sha256": "a7e48aa964d41e7c243235bd64c9661b2d319e56d2739e256b9d946ee1e58852"
     },
     "gloss.fr": {
       "path": "gloss.fr.txt",
@@ -75,7 +75,7 @@
     "phrases.fr": {
       "path": "phrases.fr.txt",
       "license": "unencumbered",
-      "sha256": "8259d6966a4f9e409e0aabf77f96a65a4e58953bfb1c2e8d80bcf7b759c5b7fc"
+      "sha256": "656f75f913127de38e91e8b2bd3f5de63a1ce516ab2c7f4b914a95f81c517b9f"
     },
     "gloss.pt": {
       "path": "gloss.pt.txt",
@@ -85,7 +85,7 @@
     "phrases.pt": {
       "path": "phrases.pt.txt",
       "license": "unencumbered",
-      "sha256": "d3b345e5e42e39fa2293675439d04248192ae393db52bd289508d3c42ae20d6a"
+      "sha256": "23c6a0a94c28d1a799423913e8a39737b13a1ff93e6c818cc0c121da2854300e"
     }
   }
 }
