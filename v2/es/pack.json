@@ -1,6 +1,6 @@
 {
   "id": "es",
-  "version": "1.1.17",
+  "version": "1.1.18",
   "files": {
     "lex": {
       "path": "lex.txt",
@@ -40,7 +40,7 @@
     "gloss.id": {
       "path": "gloss.id.txt",
       "license": "unencumbered",
-      "sha256": "ac0b905d4544785cabb9e7793525b7a5bcc06973e67f85e13d85d5d3bd69d718"
+      "sha256": "0fab25d76805df310829bfab90d4afb3031fffb9cef3c728c538b507fdfa5e05"
     },
     "phrases.id": {
       "path": "phrases.id.txt",
