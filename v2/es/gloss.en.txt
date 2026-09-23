@@ -92,7 +92,7 @@ tiene|he/she/it has, you have (formal)|f3s
 puedo|I can|f1s
 ella|she|f3s
 quiero|I want|f1s
-fue|he/she/it was; went|f3s;o
+fue|he/she/it was; went; fue a: went to|f3s;o;n
 gracias|thanks|o
 era|(identity, characteristic) I was; he/she/it was|f1s;f3s
 soy|(identity, characteristic) I am|f1s

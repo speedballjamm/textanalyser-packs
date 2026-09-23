@@ -86,7 +86,7 @@ tiene|dia punya, Anda punya (formal)|f3s
 puedo|saya bisa|f1s
 ella|dia (perempuan)|f3s
 quiero|saya mau|f1s
-fue|dia adalah (bentuk lampau); dia pergi (bentuk lampau)|f3s;o
+fue|dia adalah (bentuk lampau); dia pergi (bentuk lampau); fue a: pergi untuk, pergi ke|f3s;o;n
 gracias|terima kasih|o
 era|(jati diri, sifat) saya adalah (bentuk lampau); dia adalah (bentuk lampau)|f1s;f3s
 soy|(jati diri, sifat) saya adalah|f1s
