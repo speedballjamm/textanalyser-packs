@@ -87,7 +87,7 @@ tiene||tener|
 puedo||poder|
 ella|||
 quiero||querer|
-fue|||
+fue||ser,ir|
 gracias|||
 era||ser|
 soy||ser|

@@ -45,7 +45,7 @@ aqui|||adv
 mais|||
 dizer|||
 tem||ter|
-foi|||
+foi||ser,ir|
 ver|||
 as|||art
 vai||ir|
