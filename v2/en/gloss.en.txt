@@ -6727,7 +6727,7 @@ renminbi|the currency of China|o
 uncontrolled|not controlled or restrained|o
 migrant|a person who moves to another place or country|o
 subsequently|afterwards, later|o
-augur|to predict, to be a sign of (augur well: promise a good result)|v
+augur|to predict, to be a sign of; augur well: to promise a good result|v;n
 comprehensive|complete, including everything|o
 reinforce|to strengthen, to support|v
 macroeconomic|relating to the economy as a whole|o
@@ -8285,7 +8285,7 @@ glucose|simple sugar, the body's main fuel|o
 hesitant|unsure, slow to act|o
 indirectly|not directly, in a roundabout way|o
 muddle|confusion, mess|o
-par|normal or expected level (on par with: equal to)|o
+par|normal or expected level; on par with: equal to|o;n
 quasi|seemingly, partly, almost|o
 slender|slim, thin; small (a slender chance)|o;o
 technocratic|run by technical experts|o

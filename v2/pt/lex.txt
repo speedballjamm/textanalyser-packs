@@ -1539,7 +1539,7 @@ doer|||
 aviso|||nm
 onda|||nf
 tempestade|||nf
-feita||feito|
+feita||fazer|
 durar|||
 derrubar|||
 contente|||adj
@@ -1702,7 +1702,7 @@ presença|||nf
 prostituto|||nmf
 posto||pôr|
 produto|||nm
-ha||há|
+ha||haver|
 acontecido||acontecer|
 fronteira|||nf
 venda|||nf
@@ -4460,7 +4460,7 @@ oponente|||nmf
 excesso|||nm
 individual|||adj
 modesto|||adj
-cortada||cortado|
+cortada||cortar|
 semestre|||nm
 pobreza|||nf
 autorizar|||
@@ -4567,7 +4567,7 @@ costurar|||
 idiotice|||nf
 batido||bater|
 ditado|||nm
-tirada||tirado|
+tirada||tirar|
 frequentemente|||adv
 comprido|||adj
 irrelevante|||adj
@@ -4898,7 +4898,7 @@ formando||formar|
 suspender|||
 cera|||nf
 antepassado|||nm
-atacada||atacado|
+atacada||atacar|
 ajeitar|||
 fenômeno|||nm
 convés|||nm
@@ -4915,7 +4915,7 @@ carregado||carregar|
 confrontar|||
 primitivo|||adj
 vó||avó|nf
-queimada||queimado|
+queimada||queimar|
 serial|||adj
 pêlo|||nm
 viado|||nm
@@ -5036,7 +5036,7 @@ planejei||planejar|
 blues|||nm
 sequestrador|||nm
 democrata|||nmf
-forçada||forçado|
+forçada||forçar|
 postar|||
 pula||pular|
 sacanagem|||nf
@@ -5077,7 +5077,7 @@ impaciente|||adj
 seminário|||nm
 agredir|||
 alimentação|||nf
-deitada||deitado|
+deitada||deitar|
 memorial|||nm
 compatível|||adj
 inúmero|||adj
@@ -5825,7 +5825,7 @@ alga|||nf
 formado||formar|
 frita||fritar|
 hospício|||nm
-tratada||tratado|
+tratada||tratar|
 devastador|||adj
 especializado|||adj
 ente|||nm
@@ -6266,7 +6266,7 @@ facada|||nf
 afetado||afetar|
 inclinado||inclinar|
 coiote|||nm
-dita||dito|
+dita||dizer|
 encosta|||nf
 larva|||nf
 cookie|||nm
@@ -6318,7 +6318,7 @@ urna|||nf
 alternativo|||adj
 descida|||nf
 repolho|||nm
-cancelada||cancelado|
+cancelada||cancelar|
 elaborado|||adj
 legumes|||nm
 poupança|||nf
@@ -7040,7 +7040,7 @@ atmosférico|||
 beneficiário|||nm
 cerâmica|||nf
 critério|||nm
-directa||direta|
+directa||direto|
 econômicas||econômico|
 efectivamente|5|efetivamente|
 influente|||
@@ -7749,7 +7749,7 @@ feedback|||nm
 incitar|||
 isento|||
 micro|||
-partilhado|5|compartilhado|
+partilhado|5|partilhar|
 pressupor|5||
 queniano|5||nm
 redistribuição|5||nf
@@ -7953,7 +7953,7 @@ protão|5|próton|nm
 quadrilha|||nf
 recitar|||
 trezentos|||
-vencida||vencido|adj
+vencida||vencer|adj
 capacitor|||nm
 mineração|||nf
 residencial|||
@@ -8082,7 +8082,7 @@ normalidade|||nf
 numerário|5||nm
 proceder|||
 rodoviário|||
-sao||são|
+sao||ser|
 transações||transação|nf
 verba|||nf
 analogia|||nf
@@ -8179,7 +8179,7 @@ clamor|||nm
 cobiça|||nf
 diária|||nf
 enchente|||nf
-envolta||envolto|adj
+envolta||envolver|adj
 estrondo|||nm
 fartar|5||
 feitor|5||nm
@@ -9575,7 +9575,7 @@ patriarcado|5||nm
 penetração|||nf
 perdôo||perdoar|v
 pique|||nm
-planeado||planejado|adj
+planeado||planejar|adj
 portuário|5||adj
 privar|||
 proa|||nf
@@ -10063,7 +10063,7 @@ somatório|5||nm
 sultão|||nm
 transcender|||
 vitorioso|||adj
-afectado|5|afetado|adj
+afectado|5|afetar|adj
 algarismo|5||nm
 ambientalmente|5||adv
 ameaçador|||adj
@@ -10159,7 +10159,7 @@ arcaico|||adj
 cancerígeno|5||adj
 capilar|||adj
 deslize|||nm
-estao||estão|v
+estao||estar|v
 micélio|5||nm
 paraquedas|||nm
 quinhentos|||num
@@ -10189,7 +10189,7 @@ algoz|5||nm
 amuado|5||
 angustiado|||
 asco|||nm
-atirada||atirado|adj
+atirada||atirar|adj
 avaria|||nf
 borbulhar|5||
 bordar|||
@@ -12339,7 +12339,7 @@ variabilidade|5||nf
 visceral|||
 xamã|||nmf
 antagonista|5||nmf
-atualizados||atualizado|
+atualizados||atualizar|
 atualizações|||nf
 background|5||nm
 cafeína|||nf
@@ -13277,7 +13277,7 @@ soldo|||nm
 cadeado|||nm
 fervente|||
 persiana|||nf
-abrigada|5|abrigado|
+abrigada|5|abrigar|
 acalorado|5||
 acarinhar|5||
 achatado|||

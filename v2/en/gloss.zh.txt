@@ -6705,7 +6705,7 @@ renminbi|人民币|o
 uncontrolled|失控的, 不受控制的|o
 migrant|移民, 流动人口|o
 subsequently|随后, 后来|o
-augur|预示, 预兆 (augur well: 预示好结果)|v
+augur|预示, 预兆; augur well: 预示好结果|v;n
 comprehensive|全面的, 综合的|o
 reinforce|加强, 巩固|v
 macroeconomic|宏观经济的|o
@@ -8075,7 +8075,7 @@ takeover|收购, 接管|o
 glucose|葡萄糖|o
 indirectly|间接地|o
 muddle|混乱, 糊涂|o
-par|正常水平, 标准 (on par with: 与…同等)|o
+par|正常水平, 标准; on par with: 与…同等|o;n
 quasi|类似, 准, 半|o
 technocratic|技术官僚的, 由技术专家治理的|o
 wavelength|波长; 想法, 思路 (on the same wavelength: 想法一致)|o;o

@@ -6705,7 +6705,7 @@ renminbi|renminbi, mata uang Tiongkok|o
 uncontrolled|tidak terkendali|o
 migrant|pendatang, migran, orang yang pindah ke tempat atau negara lain|o
 subsequently|kemudian, sesudah itu|o
-augur|meramalkan, menjadi pertanda (augur well: menjanjikan hasil baik)|v
+augur|meramalkan, menjadi pertanda; augur well: menjanjikan hasil baik|v;n
 comprehensive|menyeluruh, lengkap|o
 reinforce|memperkuat, mendukung|v
 macroeconomic|makroekonomi, berkaitan dengan ekonomi secara keseluruhan|o
@@ -8075,7 +8075,7 @@ takeover|pengambilalihan perusahaan atau negara|o
 glucose|glukosa, gula sederhana, sumber energi utama tubuh|o
 indirectly|secara tidak langsung|o
 muddle|kekacauan, kebingungan|o
-par|tingkat normal atau yang diharapkan (on par with: setara dengan)|o
+par|tingkat normal atau yang diharapkan; on par with: setara dengan|o;n
 quasi|kuasi, semu, setengah, hampir|o
 technocratic|teknokratis, dijalankan oleh para ahli teknis|o
 wavelength|panjang gelombang; cara berpikir (on the same wavelength: sepaham, sehati)|o;o

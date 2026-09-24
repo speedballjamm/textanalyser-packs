@@ -632,7 +632,7 @@ acara|event, programme|o
 pesta|party, celebration|o
 ulang|to repeat|v
 ulang tahun|birthday|o
-raya|great (hari raya: holiday)|o
+raya|great|o
 hadiah|gift, prize|o
 biasa|usual, ordinary|o
 biasa-biasa|ordinary, nothing special (usu. biasa-biasa saja)|o
@@ -743,7 +743,7 @@ uji|to test (ujian: exam)|v
 nilai|value; grade, score|o;o
 tingkat|level, degree|o
 jaga|to guard, watch over|v
-jaga-jaga|to take precautions, be on guard (untuk jaga-jaga: just in case)|v
+jaga-jaga|to take precautions, be on guard; untuk jaga-jaga: just in case|v;n
 rawat|to care for, nurse|v
 obat|medicine|o
 sembuh|to recover, heal|v
@@ -973,7 +973,7 @@ langkah|step|o
 belok|to turn (direction)|v
 putar|to turn, rotate|v
 seberang|across, opposite side|o
-lintas|to cross (lalu lintas: traffic)|v
+lintas|to cross|v
 lalu lintas|traffic|o
 tumpang|to ride along|v
 angkut|to transport|v
@@ -1045,7 +1045,7 @@ hapus|to erase, delete|v
 unduh|to download|v
 unggah|to upload|v
 akun|account|o
-sandi|code (kata sandi: password)|o
+sandi|code; kata sandi: password|o;n
 berkas|file, document|o
 email|email|o
 wartawan|journalist|o
@@ -6389,7 +6389,7 @@ tercekik|choked, strangled|o
 tersulit|most difficult|o
 tertular|infected, caught (a disease)|o
 tercipta|created|o
-ternilai|valued (tak ternilai: priceless)|o
+ternilai|valued; tak ternilai: priceless|o;n
 tertuju|aimed at, directed to|o
 terlempar|thrown, flung|o
 terkini|latest, current|o
@@ -6842,7 +6842,7 @@ berotot|muscular|o
 bermutasi|to mutate|v
 bergulat|to wrestle|v
 berhubung|since, because of|o
-bermuka|to have a face (bermuka dua: two-faced)|v
+bermuka|to have a face; bermuka dua: two-faced|v;n
 beragam|varied, diverse|o
 bersarang|to nest|v
 berpura|to pretend (berpura-pura)|v
@@ -6871,7 +6871,7 @@ mengerikan|terrifying, horrific|o
 menghentikan|to stop (something)|v
 menyelesaikan|to finish, resolve|v
 menginginkan|to want, desire|v
-melarikan|to run off with (melarikan diri: to flee)|v
+melarikan|to run off with; melarikan diri: to flee|v;n
 merupakan|to be, constitute|v
 memastikan|to make sure, ensure|v
 menjelaskan|to explain|v
@@ -7293,7 +7293,7 @@ ketahanan|endurance, resilience, resistance|o
 tebus|to redeem, pay off; to ransom|v;v
 mewah|luxurious, lavish|o
 koki|cook, chef|o
-sepak|to kick (sepak bola: football, soccer)|v
+sepak|to kick|v
 bantah|to deny, contradict, argue back|v
 benak|mind, thoughts|o
 tetas|to hatch|v
@@ -8470,7 +8470,7 @@ kubik|cubic|o
 kultur|culture|o
 ente|you (familiar, in Arab-Indonesian speech)|f2s2p
 opioid|opioid|o
-serba|all, entirely (serba baru: all new)|o
+serba|all, entirely; serba baru: all new|o;n
 alumina|alumina|o
 freezer|freezer|o
 impedansi|impedance|o
@@ -8824,7 +8824,7 @@ kondensasi|condensation|o
 pori-pori|pores|o
 sinetron|television drama serial|o
 astronom|astronomer|o
-baya|age (setengah baya: middle-aged)|o
+baya|age|o
 bertanggungjawab|to be responsible, to answer for|v
 mantera|spell, incantation|o
 mustard|mustard|o
@@ -8941,7 +8941,7 @@ munkar|reprehensible, forbidden (in religion)|o
 nasab|lineage, descent|o
 plak|plaque|o
 polis|policy (insurance)|o
-senda|jest (senda gurau: joking around)|o
+senda|jest; senda gurau: joking around|o;n
 suplementasi|supplementation|o
 takbir|the saying of "God is greatest"|o
 tegalan|dry unirrigated field|o
@@ -9021,7 +9021,7 @@ bangau|heron, stork|o
 bas|bus|o
 inkubasi|incubation|o
 kastor|castor|o
-mancur|to spurt, to gush (air mancur: fountain)|v
+mancur|to spurt, to gush; air mancur: fountain|v;n
 mint|mint|o
 naturalis|naturalist|o
 arbiter|arbiter|o
@@ -9137,7 +9137,7 @@ bushing|bushing|o
 jamaah|congregation, body of worshippers|o
 lumen|lumen|o
 pertussis|pertussis|o
-rejan|whooping (batuk rejan: whooping cough)|o
+rejan|whooping; batuk rejan: whooping cough|o;n
 trio|trio|o
 akselerasi|acceleration|o
 atensi|attention|o
@@ -9220,7 +9220,7 @@ aransemen|arrangement (musical)|o
 asosiatif|associative|o
 eksponen|exponent|o
 intrinsik|intrinsic|o
-kemih|urine (saluran kemih: urinary tract)|o
+kemih|urine; saluran kemih: urinary tract|o;n
 konvoi|convoy|o
 koroner|coronary|o
 korvet|corvette|o
@@ -9457,7 +9457,7 @@ akad|contract, agreement (esp. of marriage)|o
 aktuator|actuator|o
 berbondong-bondong|in droves, in throngs|o
 berihram|to enter the state of ritual consecration|v
-berpangku|to hold on the lap (berpangku tangan: to sit idle)|v
+berpangku|to hold on the lap; berpangku tangan: to sit idle|v;n
 bertarikh|dated, bearing the date|o
 bertikai|to quarrel, to be in conflict|v
 cagarbudaya|cultural heritage site|o
@@ -10889,7 +10889,7 @@ sipit|narrow (of eyes), slit-eyed|o
 spekulatif|speculative|o
 stator|stator|o
 stunting|stunting (growth failure in children)|o
-sungkawa|grief, sorrow (usu. bela sungkawa: condolence)|o
+sungkawa|grief, sorrow; bela sungkawa: condolence|o;n
 sungut|feeler, antenna (of an insect)|o
 surveilans|surveillance|o
 syak|suspicion, doubt (usu. syak wasangka)|o

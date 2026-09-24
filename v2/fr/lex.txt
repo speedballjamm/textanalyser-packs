@@ -5817,7 +5817,7 @@ bd|||nf
 batteur|||nm
 cire|||nf
 esclavage|||nm
-crue||cru|
+crue|||
 humiliant|||
 zero||zéro|num
 brune||brun|
@@ -9382,7 +9382,7 @@ incitatif|5||
 infecter|||
 infime|||
 jacente|5||adj
-manœuvres||manœuvre|nf
+manœuvres||manoeuvre|nf
 méduse|||nf
 perturbateur|||adj;nm
 pincer|||

@@ -6705,7 +6705,7 @@ renminbi|la moneda de China|o
 uncontrolled|sin control ni freno|o
 migrant|persona que se traslada a otro lugar o país|o
 subsequently|después, más tarde|o
-augur|predecir, ser señal de (augur well: prometer un buen resultado)|v
+augur|predecir, ser señal de; augur well: prometer un buen resultado|v;n
 comprehensive|completo, que lo incluye todo|o
 reinforce|reforzar, apoyar|v
 macroeconomic|relativo a la economía en su conjunto|o
@@ -8075,7 +8075,7 @@ takeover|toma del control de una empresa o un país, adquisición|o
 glucose|azúcar simple, principal combustible del cuerpo, glucosa|o
 indirectly|de forma indirecta, dando rodeos|o
 muddle|confusión, lío|o
-par|nivel normal o esperado (on par with: a la par de, igual a)|o
+par|nivel normal o esperado; on par with: a la par de, igual a|o;n
 quasi|aparentemente, en parte, casi|o
 technocratic|dirigido por expertos técnicos, tecnocrático|o
 wavelength|distancia entre ondas, longitud de onda; forma de pensar (on the same wavelength: en la misma sintonía)|o;o

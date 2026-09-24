@@ -1,6 +1,6 @@
 {
   "id": "en",
-  "version": "1.0.95",
+  "version": "1.0.101",
   "files": {
     "lex": {
       "path": "lex.txt",
@@ -10,7 +10,7 @@
     "gloss.en": {
       "path": "gloss.en.txt",
       "license": "unencumbered",
-      "sha256": "63dd2c66089d5649884208bf03d7b5279d594a5be09d4b0bd3cbfae37e0cfb77"
+      "sha256": "81637ea610b6880b40711ca6f777fbf81dcb836100cc76b6bc0e14571d71f028"
     },
     "ranks": {
       "path": "ranks.txt",
@@ -40,7 +40,7 @@
     "gloss.id": {
       "path": "gloss.id.txt",
       "license": "unencumbered",
-      "sha256": "cc7099bb5d8e8ef6d0ee68534efd9f56691310b21fd986a2a46992506600c279"
+      "sha256": "a16f31694b404aaa21bb6ce60ac09a6fd9a4896cd89cd8e794cee1dde5747a21"
     },
     "phrases.id": {
       "path": "phrases.id.txt",
@@ -50,7 +50,7 @@
     "gloss.zh": {
       "path": "gloss.zh.txt",
       "license": "unencumbered",
-      "sha256": "2740b112e4cac9b915c2ed6eb8fd89105fbb7e9ae202680d4ba04db6af6fddd3"
+      "sha256": "6d102f80b1ae5756630c876562be6e818359b7cf0a815d081effa0411f700b77"
     },
     "phrases.zh": {
       "path": "phrases.zh.txt",
@@ -60,7 +60,7 @@
     "gloss.es": {
       "path": "gloss.es.txt",
       "license": "unencumbered",
-      "sha256": "89a6c1dd98c8317f52bbe642f054ea8a40936319b1d5149cfccc3fc403898f7a"
+      "sha256": "6343ca6375e4f7a253d2daf6d395443c5ebcd61c9f50be95dc519661b7bcd006"
     },
     "phrases.es": {
       "path": "phrases.es.txt",
@@ -70,7 +70,7 @@
     "gloss.fr": {
       "path": "gloss.fr.txt",
       "license": "unencumbered",
-      "sha256": "6c439d571abc5ea7da9db12da478fe33f69a62fb3a1e4e62aa513d56afe49123"
+      "sha256": "452bd4c40f7928f52ff69759312d5b04b5977576d4dac7610c8692fd4a3743ff"
     },
     "phrases.fr": {
       "path": "phrases.fr.txt",
@@ -80,7 +80,7 @@
     "gloss.pt": {
       "path": "gloss.pt.txt",
       "license": "unencumbered",
-      "sha256": "e9c0670cc48dd5ceaaa7a674ff9a47e16920c5bb2818031d208f2bbb39599ee0"
+      "sha256": "4527da2b8df5f7a3c6b9d576d4b74de77646346724e583dca5279ee976693578"
     },
     "phrases.pt": {
       "path": "phrases.pt.txt",

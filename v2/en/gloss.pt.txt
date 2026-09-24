@@ -6705,7 +6705,7 @@ renminbi|renminbi (moeda da China)|o
 uncontrolled|descontrolado|o
 migrant|migrante|o
 subsequently|posteriormente, depois|o
-augur|pressagiar, ser sinal de (augur well: prometer bom resultado)|v
+augur|pressagiar, ser sinal de; augur well: prometer bom resultado|v;n
 comprehensive|abrangente, completo|o
 reinforce|reforçar, fortalecer|v
 macroeconomic|macroeconômico|o
@@ -8075,7 +8075,7 @@ takeover|aquisição, tomada de controle|o
 glucose|glicose|o
 indirectly|indiretamente|o
 muddle|confusão, bagunça|o
-par|nível normal ou esperado (em on par with: equivalente a)|o
+par|nível normal ou esperado; on par with: equivalente a|o;n
 quasi|quase, semi|o
 technocratic|tecnocrático|o
 wavelength|comprimento de onda; sintonia (on the same wavelength)|o;o

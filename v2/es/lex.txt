@@ -38,10 +38,10 @@ su|||
 las|||
 yo|||
 tu|||
-decir|||
 ver|||
 bueno|||
 todo|||
+decir|||
 tener|||
 poder|||
 del|||
@@ -562,6 +562,7 @@ cambio|||nm
 verte||ver|
 imaginar|||
 carta|||nf
+di||dar,decir|
 referir|||
 cual|||
 dado||dar|
@@ -1420,7 +1421,7 @@ declarar|||
 suficientemente|||
 primo|||nm
 haberte||haber|
-estan||están|
+estan||estar|
 social|||
 sombrero|||nm
 valiente|||
@@ -2250,7 +2251,7 @@ templo|||nm
 fijar|||
 junta|||nf
 ponerte||poner|
-muévanse||moverse|
+muévanse||mover|
 estupidez|||nf
 ayudante|||nmf
 hmm|||
@@ -2278,7 +2279,7 @@ actuación|||nf
 almacén|||nm
 conde|||nm
 julio|||nm
-quítate||quitarse|
+quítate||quitar|
 deshacer|||
 helicóptero|||nm
 revolución|||nf
@@ -2293,7 +2294,7 @@ guau|||
 payaso|||nm
 internacional|||
 asegurarme||asegurar|
-asegúrate||asegurarse|
+asegúrate||asegurar|
 diseñar|||
 darles||dar|
 signo|||nm
@@ -2500,7 +2501,7 @@ delicado|||
 actriz|||nf
 déjala||dejar|
 combustible|||nm
-casarte||casarse|
+casarte||casar|
 dias||día|nm
 solucionar|||
 echado||echar|
@@ -2622,8 +2623,8 @@ religioso|||
 antecedente|||nm
 garaje|||nm
 enloquecer|||
-váyanse||irse|
-quedarnos||quedarse|
+váyanse||ir|
+quedarnos||quedar|
 capa|||nf
 nazi|||
 ooh|||
@@ -2693,7 +2694,7 @@ conocerlo||conocer|
 convertirse||convertir|
 publicidad|||nf
 aliado|||nm
-váyase||irse|
+váyase||ir|
 básico|||
 elevar|||
 obedecer|||
@@ -2776,12 +2777,12 @@ háblame||hablar|
 caos|||nm
 pedirte||pedir|
 sueldo|||nm
-sentarme||sentarse|
+sentarme||sentar|
 callejón|||nm
 verdaderamente|||adv
 enhorabuena|||nf
 embajador|||nm
-mia||mía|
+mia||mío|
 tímido|||
 encubrir|||
 fracaso|||nm
@@ -2823,10 +2824,10 @@ refuerzo|||nm
 caridad|||nf
 sudar|||
 relajar|||
-disculparme||disculparse|
+disculparme||disculpar|
 llegada|||nf
 sentirse||sentir|
-quédese||quedarse|
+quédese||quedar|
 leal|||
 simpático|||
 jersey|||nm
@@ -2860,7 +2861,7 @@ mascota|||nf
 chaval|||nm
 suelto|||
 juzgado|||nm
-mantente||mantenerse|
+mantente||mantener|
 investigador|||nm
 jaula|||nf
 oxígeno|||nm
@@ -2893,7 +2894,7 @@ burlar|||
 díselo||decir|
 consejero|||nm
 intenso|||
-enterado||enterarse|
+enterado||enterar|
 cincuenta|||num
 inconsciente|||
 reportero|||nm
@@ -3035,7 +3036,7 @@ región|||nf
 fíjate||fijar|
 conducta|||nf
 rango|||nm
-sentarte||sentarse|
+sentarte||sentar|
 grita||gritar|
 academia|||nf
 probarlo||probar|
@@ -3057,7 +3058,7 @@ abril|||nm
 excepción|||nf
 engaño|||nm
 función|||nf
-encontrarme||encontrarse|
+encontrarme||encontrar|
 consumir|||
 perrito|||nm
 bárbaro|||
@@ -3202,7 +3203,7 @@ interrogatorio|||nm
 pila|||nf
 profesión|||nf
 octubre|||nm
-sentirme||sentirse|
+sentirme||sentir|
 estimar|||
 dificil||difícil|
 ingreso|||nm
@@ -3213,7 +3214,7 @@ bate|||nm
 fastidiar|||
 cómplice|||nmf
 decírmelo||decir|
-tómate||tomarse|
+tómate||tomar|
 dió||dar|
 exposición|||nf
 quizas||quizás|
@@ -3267,7 +3268,7 @@ afectado||afectar|
 suma|||nf
 tonelada|||nf
 parto|||nm
-prepárate||prepararse|
+prepárate||preparar|
 clavar|||
 submarino|||nm
 inferior|||
@@ -3420,7 +3421,7 @@ cretino|||nm
 biológico|||
 especialista|||nmf
 global|||
-quédense||quedarse|
+quédense||quedar|
 manual|||nm
 ejecutivo|||
 vagina|||nf
@@ -3429,7 +3430,7 @@ escucharme||escuchar|
 cuero|||nm
 costo|||nm
 marzo|||nm
-meterme||meterse|
+meterme||meter|
 formación|||nf
 azar|||nm
 gatillo|||nm
@@ -3474,7 +3475,7 @@ pop|||
 siesta|||nf
 inicio|||nm
 protegerte||proteger|
-meterte||meterse|
+meterte||meter|
 shock|||nm
 titular|||nm
 quinto|||
@@ -3557,7 +3558,7 @@ timbre|||nm
 explorar|||
 ji|||
 servidor|||nm
-casarnos||casarse|
+casarnos||casar|
 vena|||nf
 hemorragia|||nf
 tolerar|||
@@ -3579,7 +3580,7 @@ goma|||nf
 propina|||nf
 cordero|||nm
 república|||nf
-siéntense||sentarse|
+siéntense||sentar|
 menú|||nm
 matrícula|||nf
 ácido|||
@@ -3623,7 +3624,7 @@ repartir|||
 linear|||
 terriblemente|||adv
 sos||ser|
-preocuparme||preocuparse|
+preocuparme||preocupar|
 barril|||nm
 lavado|||nm
 volumen|||nm
@@ -3677,7 +3678,7 @@ flotar|||
 hágalo||hacer|
 granada|||nf
 citar|||
-llévate||llevarse|
+llévate||llevar|
 salva||salvar|
 combatir|||
 musulmán|||
@@ -3719,10 +3720,10 @@ escucharlo||escuchar|
 tejado|||nm
 espiar|||
 sacudir|||
-vamonos||irse|
+vamonos||ir|
 litro|||nm
 íntimo|||
-acércate||acercarse|
+acércate||acercar|
 pañal|||nm
 estricto|||
 cuestionar|||
@@ -4485,7 +4486,7 @@ tóxico|||
 cuchara|||nf
 flaco|||
 levantarme||levantar|
-callate||cállate|
+callate||callar|
 arbusto|||nm
 cóctel|||nm
 embarazoso|||
@@ -4914,7 +4915,7 @@ champaña|||nm
 pezón|||nm
 detenerlos||detener|
 esparcir|||
-quedate||quédate|
+quedate||quedar|
 mariscal|||nm
 bájate||bajar|
 palanca|||nf
@@ -5285,7 +5286,7 @@ proyectar|||
 sede|||nf
 póquer|||nm
 desactivar|||
-escuchame||escúchame|
+escuchame||escuchar|
 medicar|||
 tercio|||nm
 cría|||nf
@@ -6038,7 +6039,7 @@ debilitar|||
 visitarme||visitar|
 electrónica|||nf
 espionaje|||nm
-sientate||siéntate|
+sientate||sentar|
 homenaje|||nm
 tropical|||
 australiano|||
@@ -6188,7 +6189,7 @@ moción|||nf
 milicia|||nf
 rosado|||
 reliquia|||nf
-aléjese||alejarse|
+aléjese||alejar|
 vainilla|||nf
 cruzada|||nf
 aló|||
@@ -6249,7 +6250,7 @@ bah|||
 difundir|||
 circulación|||nf
 melón|||nm
-vayámonos||irse|
+vayámonos||ir|
 conquista|||nf
 publicación|||nf
 silbato|||nm
@@ -6360,7 +6361,7 @@ tributo|||nm
 loro|||nm
 morirse||morir|
 entusiasta|||
-acercarte||acercarse|
+acercarte||acercar|
 enviarle||enviar|
 cafe||café|nm
 rap|||nm
@@ -6384,7 +6385,7 @@ comestible|||
 mediana|||
 recogerlo||recoger|
 uh-huh|||
-vestirme||vestirse|
+vestirme||vestir|
 aportar|||
 magistrado|||nm
 secta|||nf
@@ -6404,7 +6405,7 @@ voltear|||
 caluroso|||
 adversario|||nm
 asignación|||nf
-sentaos||sentarse|
+sentaos||sentar|
 prepararse||preparar|
 choza|||nf
 filósofo|||nm
@@ -6426,7 +6427,7 @@ celeste|||
 desvío|||nm
 karate|||nm
 desconocer|||
-esconderme||esconderse|
+esconderme||esconder|
 consistente|||
 mercurio|||nm
 deciros||decir|
@@ -6450,7 +6451,7 @@ agonía|||nf
 cancela||cancelar|
 panecillo|||nm
 escorpión|||nm
-enfrentarme||enfrentarse|
+enfrentarme||enfrentar|
 golpearme||golpear|
 pelar|||
 peli|||nf
@@ -6486,7 +6487,7 @@ vestirse||vestir|
 infante|||nm
 aurora|||nf
 sabotear|||
-levántese||levantarse|
+levántese||levantar|
 ofrenda|||nf
 póngame||poner|
 realeza|||nf
@@ -6504,7 +6505,7 @@ enfrentamiento|||nm
 extinción|||nf
 aposento|||nm
 haria||hacer|
-prepararte||prepararse|
+prepararte||preparar|
 accionista|||nmf
 conspirar|||
 encendedor|||nm
@@ -6538,12 +6539,11 @@ viola||violar|
 créanme||creer|
 dote|||nf
 estima|||nf
-relajarme||relajarse|
+relajarme||relajar|
 reposo|||nm
 satisfactorio|||
 serial|||nm
 codicia|||nf
-mudarte||mudarse|
 monetario|||
 climático|||
 exclamar|5||
@@ -8715,7 +8715,7 @@ auditorio|||nm
 basándose|||
 compás|||nm
 decretar|5||
-descubierta||descubierto|
+descubierta||descubrir|
 desembocadura|5||nf
 débito|||nm
 educador|||nmf
@@ -11615,7 +11615,7 @@ fondear|5||
 fragancia|||nf
 fugaz|||
 generacional|5||
-grandísima||grandísimo|
+grandísima||grande|
 hallándose|5|hallar|
 honroso|5||
 imperar|5||

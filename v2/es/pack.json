@@ -1,26 +1,26 @@
 {
   "id": "es",
-  "version": "1.1.21",
+  "version": "1.1.28",
   "files": {
     "lex": {
       "path": "lex.txt",
       "license": "unencumbered",
-      "sha256": "142aa58ade0cacc436703d7e6d172253f75106431207f00e5e129705033484a5"
+      "sha256": "cbcf46ac1c4979a3d0b739de7e4bc0f6dfbd62e0593cb36a7a3b8fa90c0c92aa"
     },
     "gloss.en": {
       "path": "gloss.en.txt",
       "license": "unencumbered",
-      "sha256": "b4b45f5f1d2ead8429ae5ba60620e234a8c77ab9bfcda2e441aada63e77b8d8b"
+      "sha256": "36a92817ae14c7b955be21eae5d56feb2bda6f8f88edac45f8ff8e684499800b"
     },
     "ranks": {
       "path": "ranks.txt",
       "license": "CC-BY-SA-4.0",
-      "sha256": "a18ac144402868d2d75de5257ac1d1e5f8f1b9d09409e2602b327339d74c28b4"
+      "sha256": "2dcce8f19dbc513e75df635a6d3b581d4cde0ba9874ebf997524631998b5ce07"
     },
     "lemmas": {
       "path": "lemmas.txt",
       "license": "ODbL-1.0",
-      "sha256": "812e163a8913f8a1fdf120159bc256fca6f5970294fd945fd380a7897bfede32"
+      "sha256": "22348e0c7a27a23ca9e1b82d9313824abf639b50a0f644591a23fcaf94e9c1ed"
     },
     "sample": {
       "path": "sample.txt",
@@ -40,7 +40,7 @@
     "gloss.id": {
       "path": "gloss.id.txt",
       "license": "unencumbered",
-      "sha256": "4780feaf7bac0be9a37421b75b4ac5e5caf115136ff7f7ed3ae134a72454b320"
+      "sha256": "d3ef6bc97ced3657541507f4dc49d4a62ba48ac1f1843e41de928b57e4f638bc"
     },
     "phrases.id": {
       "path": "phrases.id.txt",

@@ -13,10 +13,10 @@ pero>peros
 si>sis
 bien>bienes
 tu>tus
-decir>decid,decimos,decía,decíamos,decían,decías,decís,di,dice,dicen,dices,dichas,dichos,diciendo,diga,digamos,digan,digas,digo,digáis,dijera,dijeran,dijeras,dijeron,dijese,dijeses,dijimos,dijiste,dijisteis,dijéramos,diremos,dirá,dirán,dirás,diré,diréis,diría,diríamos,dirían,dirías
 ver>vea,veamos,vean,veas,ved,veis,vemos,ven,veo,veremos,verá,verán,verás,veré,veréis,vería,veríamos,verían,verías,ves,veáis,veía,veíamos,veían,veías,vi,viendo,viera,vieran,vieras,vieron,viese,vieses,vimos,vio,vistas,viste,visteis,visto,vistos,viéramos
 bueno>buen,buena,buenas,buenos,óptima,óptimo
 todo>toda,todas
+decir>decid,decimos,decía,decíamos,decían,decías,decís,dice,dicen,dices,dichas,dichos,diciendo,diga,digamos,digan,digas,digo,digáis,dijera,dijeran,dijeras,dijeron,dijese,dijeses,dijimos,dijiste,dijisteis,dijéramos,diremos,dirá,dirán,dirás,diré,diréis,diría,diríamos,dirían,dirías
 tener>ten,tendremos,tendrá,tendrán,tendrás,tendré,tendréis,tendría,tendríais,tendríamos,tendrían,tendrías,tened,tenga,tengamos,tengan,tengas,tengáis,tenido,teniendo,tenéis,tenía,teníais,teníamos,tenían,tenías,tienen,tuve,tuviera,tuvierais,tuvieran,tuvieras,tuvieron,tuviese,tuviesen,tuvieses,tuvimos,tuviste,tuvisteis,tuviéramos,tuviésemos,tuvo
 poder>podamos,podemos,poderes,podido,podremos,podrá,podrán,podrás,podré,podréis,podría,podríais,podríamos,podrían,podrías,podáis,podéis,podía,podíais,podíamos,podían,podías,pude,pudiendo,pudiera,pudierais,pudieran,pudieras,pudieron,pudiese,pudiesen,pudieses,pudimos,pudiste,pudisteis,pudiéramos,pudiésemos,pudo,pueda,puedan,puedas,pueden
 haber>habido,habiendo,habremos,habrá,habrán,habrás,habré,habréis,habría,habríais,habríamos,habrían,habrías,habéis,había,habíais,habíamos,habían,habías,han,hayamos,hayan,hayas,hayáis,hemos,hubiera,hubierais,hubieran,hubieras,hubieron,hubiese,hubiesen,hubieses,hubiéramos,hubiésemos,hubo
