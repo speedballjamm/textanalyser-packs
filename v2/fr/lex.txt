@@ -61,7 +61,7 @@ te|||
 au|||
 dire|||
 moi|||
-s'||se|bound
+s'||se,si|bound
 oui|||
 va||aller|
 aller|||
@@ -268,7 +268,7 @@ assez|||
 eh|||
 chance|||nf
 coup|||nm
-porte|||nf
+porte|||nf;v;v
 fou|||
 minute|||nf
 pris||prendre|
@@ -395,7 +395,6 @@ suite|||nf
 cause|||nf
 là-bas|||
 vers|||nm
-marier|||
 tomber|||
 devant|||
 fin|||nf
@@ -437,7 +436,7 @@ dur|||
 a-t-il||avoir|
 vérité|||nf
 confiance|||nf
-téléphone|||nm
+téléphone|||nm;v;v
 journée|||nf
 apprendre|||
 seconde|||nf
@@ -468,6 +467,7 @@ content|||
 gentil|||
 battre|||
 livre|||
+marier|||
 appelé||appeler|
 noir|||
 sécurité|||nf
@@ -483,11 +483,11 @@ foutre|||
 envie|||nf
 porter|||
 ordre|||nm
-vue|||nf
+vue|||nf;v
 accepter|||
 lieu|||nm
 valoir|||
-rêve|||nm
+rêve|||nm;v;v
 pied|||nm
 haut|||
 suffire|||
@@ -556,7 +556,7 @@ ensuite|||
 oublié||oublier|
 rire|||
 idiot|||nm
-doute|||nm;adv
+doute|||nm;adv;v;v
 malade|||
 allons-y||aller|
 victime|||nf
@@ -564,7 +564,7 @@ erreur|||nf
 rapport|||nm;nm;prep
 marcher|||
 dîner|||nm
-force|||nf
+force|||nf;v;v
 pauvre|||
 appel|||nm
 ferme|||nf
@@ -608,7 +608,6 @@ poser|||
 manque|||nm
 balle|||nf
 puis-je||pouvoir|
-épouser|||
 roi|||nm
 avis|||nm
 soirée|||nf;nf
@@ -632,7 +631,7 @@ groupe|||nm
 préférer|||
 six|||num
 vivant|||
-recherche|||nf
+recherche|||nf;v;v
 reçu||recevoir|
 intérieur|||nm
 grave|||
@@ -641,7 +640,7 @@ bras|||nm
 face|||nf
 général|||
 gamin|||nm
-risque|||nm
+risque|||nm;v;v
 lettre|||nf
 retard|||nm
 chanter|||
@@ -659,7 +658,7 @@ sort|||nm
 monter|||
 bois|||nm
 sinon|||
-maître|||nm
+maître|||nm;nf
 conduire|||
 ecoute||écouter|
 honneur|||nm
@@ -681,7 +680,7 @@ libre|||
 assurer|||
 coucher|||
 soeur||sœur|nf
-voyage|||nm
+voyage|||nm;v;v
 messieurs||monsieur|nm
 rouge|||
 accident|||nm
@@ -699,7 +698,7 @@ bout|||nm
 ligne|||nf;adv
 grâce|||nf
 permettre|||
-venue|||nf
+venue|||nf;v
 relation|||nf
 incroyable|||
 dis-moi||dire|
@@ -802,8 +801,8 @@ jurer|||
 ennemi|||nm
 avion|||nm
 lever|||
-signe|||nm
-prince|||nm
+signe|||nm;v;v
+prince|||nm;nf
 intéresser|||
 autour|||
 prévoir|||
@@ -825,7 +824,7 @@ paraître|||
 dégager|||
 gagné||gagner|
 or|||nm
-attaque|||nf
+attaque|||nf;v;v
 toucher|||
 hors|||
 soin|||nm
@@ -838,7 +837,7 @@ tranquille|||
 mission|||nf
 âme|||nf
 professeur|||nm
-visite|||nf
+visite|||nf;v;v
 attraper|||
 plusieurs|||
 passe-t-il||passer|
@@ -853,10 +852,11 @@ poste|||nm
 choisir|||
 prouver|||
 chacun|||
-offre|||nf
+offre|||nf;v;v
 allez-y||aller|
 surveiller|||
-juge|||nm
+juge|||nm;v;v
+épouser|||
 drogue|||nf
 signifier|||
 intéressant|||
@@ -864,7 +864,7 @@ montre|||nf
 soleil|||nm
 touche|||nf
 mur|||nm
-blague|||nf
+blague|||nf;v;v
 déjeuner|||nm
 manquer|||
 allô|||
@@ -878,7 +878,7 @@ discuter|||
 selon|||
 classe|||nf
 danger|||nm
-enquête|||nf
+enquête|||nf;v;v
 bleu|||
 sentiment|||nm
 responsable|||
@@ -890,7 +890,7 @@ animal|||nm
 souhaiter|||
 doucement|||
 triste|||
-arrivée|||nf
+arrivée|||nf;v
 tue||tuer|
 don|||nm
 mignon|||
@@ -1036,11 +1036,11 @@ voie|||nf
 commandant|||nm
 connu||connaître|
 construire|||
-allée|||nf
+allée|||nf;v
 peau|||nf
 bande|||nf;nf;nf
 position|||nf
-danse|||nf
+danse|||nf;v;v
 niveau|||nm
 habiter|||
 retourne||retourner|
@@ -1081,7 +1081,7 @@ impliquer|||
 zone|||nf
 traiter|||
 ridicule|||
-approche|||nf
+approche|||nf;v;v;v
 poursuivre|||
 ecoutez||écouter|
 départ|||nm
@@ -1108,12 +1108,12 @@ justice|||nf
 rapide|||
 criminel|||nm
 couvrir|||
-produit|||nm
+produit|||nm;v;v
 secours|||nm
 planète|||nf
 lune|||nf
 coûter|||
-mise|||nf;nf;nf;nf
+mise|||nf;nf;nf;nf;v
 partager|||
 disparaître|||
 couleur|||nf
@@ -1188,7 +1188,7 @@ sud|||nm
 spectacle|||nm
 info|||nf
 cent|||num
-presse|||nf
+presse|||nf;v;v;v
 lien|||nm
 couple|||nm
 frais|||
@@ -1217,7 +1217,7 @@ ange|||nm
 maladie|||nf
 français|||
 rendu||rendre|
-acteur|||nm
+acteur|||nm;nf
 fumer|||
 cousin|||nm
 importance|||nf
@@ -1235,15 +1235,15 @@ travaillé||travailler|
 pression|||nf
 fantôme|||nm
 énergie|||nf
-menace|||nf
+menace|||nf;v;v
 vacance|||nf
 pousser|||
-rencontre|||nf
+rencontre|||nf;v;v
 unité|||nf
 intention|||nf
 charmant|||
 costume|||nm
-marque|||nf;nf
+marque|||nf;nf;v;v
 série|||nf
 bouteille|||nf
 partenaire|||nm
@@ -1318,13 +1318,14 @@ bus|||nm
 mériter|||
 lâcher|||
 malin|||
+mariée||marier|adj;nf
 signal|||nm
 donnez-moi||donner|
 fiancé|||nm
 dure||dur|
 utile|||
 goût|||nm
-sorcier|||nm
+sorcier|||nm;nf
 excuse-moi||excuser|
 changement|||nm
 vécu||vivre|
@@ -1414,6 +1415,7 @@ chasse|||nf
 prudent|||
 procureur|||nm
 formidable|||
+épouse||épouser|nf;v;v
 réussir|||
 troisième|||
 tribunal|||nm
@@ -1761,7 +1763,7 @@ indien|||
 remplir|||
 puce|||nf
 tendre|||
-annonce|||nf
+annonce|||nf;v;v
 forêt|||nf
 bouton|||nm
 neige|||nf
@@ -1805,7 +1807,7 @@ civil|||nm
 confirmer|||
 puissance|||nf
 lourd|||
-prêtre|||nm
+prêtre|||nm;nf
 épaule|||nf
 juger|||
 hâte|||nf
@@ -1831,7 +1833,7 @@ là-dessus|||
 signé||signer|
 accorder|||
 tester|||
-divorce|||nm
+divorce|||nm;v;v
 lunette|||nf
 sandwich|||nm
 second|||
@@ -2008,7 +2010,7 @@ foyer|||nm
 explication|||nf
 énervé||énerver|
 autorisé||autoriser|
-midi|||nm
+midi|||nm;nm
 hmm||hum|
 dessous|||
 déçu||décevoir|
@@ -2124,7 +2126,7 @@ opportunité|||nf
 enfance|||nf
 remonte||remonter|
 prénom|||nm
-empire|||nm
+empire|||nm;v
 écran|||nm
 tien|||
 jaune|||
@@ -2196,7 +2198,7 @@ séance|||nf
 positif|||
 surface|||nf
 récompense|||nf
-comte|||nm
+comte|||nm;nf
 plante|||nf
 dis-tu||dire|
 vierge|||
@@ -2253,7 +2255,7 @@ mars|||nm
 pilule|||nf
 effrayé||effrayer|
 ordinaire|||
-gêne|||nf
+gêne|||nf;v;v
 miroir|||nm
 saisir|||
 déclencher|||
@@ -2302,7 +2304,7 @@ hurler|||
 nationale||national|
 équipage|||nm
 espagnol|||
-panique|||nf
+panique|||nf;v;v
 tireur|||nm
 dépêchez-vous||dépêcher|
 chiner|||
@@ -2381,7 +2383,7 @@ lion|||nm
 relever|||
 flipper|||
 appelle-moi||appeler|
-figure|||nf;nf
+figure|||nf;nf;v
 fidèle|||
 piger|||
 génération|||nf
@@ -2545,7 +2547,7 @@ producteur|||nm
 appart|||nm
 tatouage|||nm
 serrer|||
-vendeur|||nm
+vendeur|||nm;nf
 outil|||nm
 briller|||
 minable|||
@@ -2752,7 +2754,7 @@ trés||très|
 mai|||nm
 avérer|||
 humour|||nm
-veuf|||nm
+veuf|||nm;nf
 balancer|||
 pervers|||nm
 rigoler|||

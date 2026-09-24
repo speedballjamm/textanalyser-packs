@@ -37,7 +37,7 @@ kita|||
 mereka|||
 kalian|||
 orang|||
-apa|||pron.;part.
+apa|||pron.;part.;conj.
 apa-apa|||pron.;interj.
 apakan||apa|v.
 siapa|||
@@ -119,7 +119,7 @@ harus|||
 perlu|||
 mau|||v.;aux.
 ingin|||
-suka|||
+suka|||v.;adv.
 tahu|||v.;n.
 kenal|||
 paham|||
@@ -138,7 +138,7 @@ diamati||amat|v.
 terlalu|||
 cukup|||adj.;adv.
 memadai|||adj.
-kurang|||adv.;adj.
+kurang|||adv.;adj.;adv.
 lebih|||
 melebih||lebih|v.
 melebihkan||lebih|v.
@@ -157,7 +157,7 @@ beberapa||berapa|
 masing|||
 lain|||
 lain-lain|||n.;n.
-sama|||adj.;prep.;pron.
+sama|||adj.;prep.;pron.;prep.;prep.
 sama-sama|||interj.;adv.
 menyamakan||sama|v.
 menyamai||sama|v.
@@ -176,7 +176,7 @@ andaikan||andai|v.
 karena|||
 sebab|||n.;conj.
 gara-gara|||prep.
-jadi|||conj.;v.
+jadi|||conj.;v.;v.
 maka|||
 tetapi|||
 tapi|||
@@ -199,7 +199,7 @@ sebelum||belum|
 sesudah||sudah|
 setelah||telah|
 sejak|||
-sampai|||prep.;v.
+sampai|||prep.;v.;conj.
 sampai-sampai|||conj.
 hingga|||
 tentang|||
@@ -213,7 +213,7 @@ belakang|||
 tengah|||
 samping|||
 dekat|||adj.
-jauh|||adj.
+jauh|||adj.;adv.
 sini|||
 sinikan||sini|v.
 situ|||
@@ -232,7 +232,7 @@ terima kasih|||
 selamat|||adj.;interj.
 nama|||
 rumah|||
-jalan|||n.;v.
+jalan|||n.;v.;v.
 kota|||
 negara|||
 negeri|||
@@ -280,7 +280,7 @@ tutup|||
 mulai||mula|
 selesai|||
 habis|||
-terus|||v.;adv.
+terus|||v.;adv.;adv.;conj.;adv.
 lanjut|||
 henti|||
 coba|||
@@ -326,7 +326,7 @@ berat|||
 ringan|||adj.;adj.
 tebal|||adj.
 tipis|||adj.
-cepat|||adj.
+cepat|||adj.;interj.
 lambat|||adj.
 pelan|||adj.;adj.
 mudah|||adj.
@@ -636,7 +636,7 @@ hebat|||adj.
 istimewa|||adj.
 sibuk|||adj.
 santai|||adj.
-serius|||adj.
+serius|||adj.;interj.
 lucu|||
 seru|||adj.
 tugas|||
@@ -713,7 +713,7 @@ lari|||
 renang|||
 terbang|||
 tiba|||
-kembali|||v.;adv.
+kembali|||v.;adv.;interj.
 balik|||
 pindah|||
 diam|||adj.;v.
@@ -783,7 +783,7 @@ ramai|||adj.
 sepi|||adj.
 gelap|||adj.
 terang|||adj.
-jelas|||adj.
+jelas|||adj.;adv.
 muncul|||
 hilang|||adj.;v.
 tampak|||
@@ -1263,7 +1263,7 @@ rajin|||adj.
 sopan|||adj.
 ramah|||adj.
 sombong|||adj.
-tenang|||adj.
+tenang|||adj.;interj.
 sabar|||adj.
 kecewa|||adj.
 kaget|||adj.
@@ -1666,7 +1666,7 @@ kisah|||
 alih|||
 alih-alih|||conj.
 asli|||
-menakjubkan|||adj.
+menakjubkan||takjub|adj.
 awas|||
 konyol|||adj.
 sisa|||
@@ -2210,7 +2210,7 @@ rela|||
 kembang|||
 bis|||
 robek|||
-mendadak|||adv.
+mendadak||dadak|adv.
 tinju|||
 hyung|||
 info|||
@@ -3246,7 +3246,7 @@ bisu|||
 serbu|||
 visa|||
 gerombolan|||
-mendidih|||
+mendidih||didih|
 bidik|||
 duit|||
 mengemis|||
@@ -4129,7 +4129,7 @@ tempuh|||
 migrasi|||
 fitnah|||
 sirat|||
-merajut|||
+merajut||rajut|
 redam|||
 birokrasi|||
 pelana|||
@@ -4778,7 +4778,7 @@ vektor|||
 kerut|||
 gadai|||
 degup|||
-menyalak|||
+menyalak||salak|
 usap|||
 wisma|||
 luap|||
@@ -5172,7 +5172,7 @@ jelma|||
 sela|||
 gelung|||
 kenan|||
-meraung-raung|||
+meraung-raung||raung|
 tercebur|||
 mega|||
 oase|||
@@ -7164,7 +7164,7 @@ ojek|||n.
 sepoi-sepoi|||adj.
 kosakata|||n.
 menoleh|||v.
-mengisap|||v.
+mengisap||isap|v.
 sejengkal|||n.
 deg-degan|||adj.
 dengerin||dengar|v.
@@ -7211,8 +7211,8 @@ terburu-buru|||adj.
 berhati-hati|||v.
 kemana-mana|||adv.
 dimana-mana|||adv.
-membuang-buang|||v.
-menakut-nakuti|||v.
+membuang-buang||buang-buang|v.
+menakut-nakuti||takut|v.
 berjam-jam|||adv.
 tergila-gila|||adj.
 berkali-kali|||adv.
@@ -7220,7 +7220,7 @@ berabad-abad|||adv.
 menyia-nyiakan|||v.;v.
 sia-siakan|||v.;v.
 mudah-mudahan|||adv.
-memata-matai|||v.
+memata-matai||mata-mata|v.
 selama-lamanya|||adv.
 besar-besaran|||adj.
 berturut-turut|||adv.
@@ -7234,14 +7234,14 @@ seakan-akan|||conj.
 dua-duanya|||pron.
 sekali-kali|||adv.;adv.
 kenang-kenangan|||n.
-mengada-ada|||v.
+mengada-ada||ada|v.
 mati-matian|||adv.
-melebih-lebihkan|||v.
+melebih-lebihkan||lebih|v.
 kedua-duanya|||pron.
 sekurang-kurangnya|||adv.
 terang-terangan|||adj.;adv.
 bercita-cita|||v.
-mengolok-olok|||v.
+mengolok-olok||olok-olok|v.
 iring-iringan|||n.
 orang-orangan|||n.;n.
 semata-mata|||adv.
@@ -7407,7 +7407,7 @@ suplemen|||
 bertasbih|||v.
 bar|||
 sirip|||
-merujuk|||v.
+merujuk||rujuk|v.
 manufaktur|||
 multilateral|||
 output|||
@@ -7504,7 +7504,7 @@ kreditor|||
 grafik|||
 dakwah|||
 hidayah|||
-menafkahkan|||v.
+menafkahkan||nafkah|v.
 diabetes|||
 survei|||
 input|||
@@ -7540,7 +7540,7 @@ inflasi|||
 narasi|||
 singel|||
 kontrasepsi|||
-menandatangani|||v.
+menandatangani||tanda tangan|v.
 merespons|||v.
 sejarawan||sejarah|
 bit|||
@@ -8289,7 +8289,7 @@ diskriminatif|||
 erosi|||
 kakao|||
 median|||
-melanggengkan|||v.
+melanggengkan||langgeng|v.
 meratifikasi||ratifikasi|v.
 miliarder|||
 pangsa|||
@@ -8488,7 +8488,7 @@ manakala|||
 mengemban|||v.
 menghisab||hisab|v.
 menuturkan||tutur|v.
-menyanggah|||v.
+menyanggah||sanggah|v.
 morfologi|||
 sekonyong-konyong|||
 sukatan|||
@@ -8514,7 +8514,7 @@ difabel|||
 implikasi|||
 makro|||
 mapan|||
-menstimulasi|||v.
+menstimulasi||stimulasi|v.
 merombak|||v.
 notifikasi|||
 otomasi|||
@@ -8774,7 +8774,7 @@ hujatan|||
 magma|||
 manna|||
 menaungi|||v.
-menghardik|||v.
+menghardik||hardik|v.
 menyandangkan|||v.
 mihrab|||
 penangkaran|||
@@ -9062,9 +9062,9 @@ kekhusyukan||khusyuk|n.
 lahiriah|||
 lailatulkadar|||
 majaz|||
-memilukan|||v.
+memilukan||pilu|v.
 mengecam|||v.
-menghalau|||v.
+menghalau||halau|v.
 menyapih|||v.
 menyungkur|||v.
 meresap|||v.
@@ -9184,7 +9184,7 @@ keling|||
 kromatid|||
 mamogram|||
 menelaah|||v.
-mengenyahkan|||v.
+mengenyahkan||enyah|v.
 menyunting|||v.
 mosaik|||
 panorama|||
@@ -9324,7 +9324,7 @@ marginalisasi|||
 mengenyam|||v.
 mengerami|||v.
 menjabarkan|||v.
-menormalisasi|||v.
+menormalisasi||normalisasi|v.
 menyalahgunakan|||v.
 menyulut|||v.
 merestrukturisasi||restrukturisasi|v.
@@ -12095,7 +12095,7 @@ melejit|||
 meletupkan|||
 mematok|||
 memorak-porandakan||porak-poranda|
-mencanangkan|||
+mencanangkan||canang|
 mencicil|||
 meng-google|||
 mengeliminasi||eliminasi|
@@ -12784,3 +12784,30 @@ sama rata|||
 mengelus dada|||idiom
 unjuk rasa|||
 tata kelola|||
+seorang||orang|
+sebuah||buah|
+seseorang||orang|
+apapun||apa|
+selama||lama|
+secara||cara|
+meninggal||tinggal|
+menarik||tarik|adj.;v.;v.
+kedua||dua|
+ketiga||tiga|
+sepanjang||panjang|
+menyerah||serah|
+semalam||malam|
+seharian||hari|
+sejujurnya||jujur|
+sedangkan||sedang|
+seakan||akan|
+seketika||ketika|
+selagi||lagi|
+sekadar||kadar|
+menyangkut||sangkut|
+bagaimanapun||bagaimana|
+untungnya||untung|
+pokoknya||pokok|
+makanya||maka|
+sekalipun||sekali|
+soalnya||soal|

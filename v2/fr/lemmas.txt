@@ -223,7 +223,6 @@ pardon>pardons
 montrer>montra,montraient,montrais,montrait,montrant,montrent,montrera,montrerai,montrerais,montrerait,montreras,montrerez,montrerons,montreront,montres,montrez,montriez,montrons,montré,montrée,montrées,montrés
 suite>suites
 cause>causes
-marier>maria,mariais,mariait,mariant,marie,marient,mariera,marierai,marierais,marierait,marieras,marierons,maries,mariez,marions,mariée,mariées,mariés
 tomber>tomba,tombaient,tombais,tombait,tombent,tombera,tomberai,tomberaient,tomberais,tomberait,tomberas,tomberez,tomberont,tombes,tombez,tombiez,tombons,tombèrent,tombées,tombés
 devant>devants
 fin>fines,fins
@@ -279,6 +278,7 @@ content>contente,contentes,contents
 gentil>gentille,gentilles,gentils
 battre>bat,bats,battaient,battais,battait,battent,battes,battez,battiez,battons,battra,battrai,battrais,battrait,battras,battrez,battrons,battront,battues,battus
 livre>livres
+marier>maria,mariais,mariait,mariant,marie,marient,mariera,marierai,marierais,marierait,marieras,marierons,maries,mariez,marions,mariées,mariés
 noir>noire,noires,noirs
 sécurité>sécurités
 numéro>numéros
@@ -393,7 +393,6 @@ cacher>cachaient,cachais,cachait,cachant,cachent,cachera,cacherai,cacherais,cach
 poser>posa,posaient,posais,posait,posant,posent,posera,poserai,poserais,poserait,poseras,poseront,poses,posez,posiez,posons,posée,posées,posés
 manque>manques
 balle>balles
-épouser>épousa,épousais,épousait,épousant,épouse,épousent,épousera,épouserai,épouserais,épouserait,épouseras,épouserez,épouses,épousez,épousé
 roi>rois
 soirée>soirées
 seigneur>seigneurs
@@ -594,6 +593,7 @@ chacun>chacune
 offre>offres
 surveiller>surveillaient,surveillais,surveillait,surveille,surveillent,surveillera,surveillerai,surveilles,surveillez,surveilliez,surveillons,surveillé,surveillée,surveillées,surveillés
 juge>juges
+épouser>épousa,épousais,épousait,épousant,épousent,épousera,épouserai,épouserais,épouserait,épouseras,épouserez,épouses,épousez,épousé
 drogue>drogues
 signifier>signifiait,signifie,signifient,signifiera,signifierait,signifié
 intéressant>intéressante,intéressantes,intéressants

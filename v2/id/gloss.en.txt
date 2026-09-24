@@ -28,7 +28,7 @@ ada|there is, there are; to be there, be present; to exist|o;v;v
 tidak|no, not|o
 bukan|not, is not (of nouns); isn't it?, right? (tag question)|o;o
 bukankan|isn't it?, didn't you? (= bukankah)|o
-ya|yes|o
+ya|yes; right?, OK? (tag at the end of a sentence)|o;o
 iya|yes (colloq.)|o
 mengiyakan|to say yes to, to agree to|v
 saya|I, me (formal)|f1s
@@ -42,16 +42,16 @@ kita|we (including you)|f1p
 mereka|they|f3p
 kalian|you (plural)|f2s2p
 orang|person, people|o
-apa|what; (marks a yes/no question)|o;g
+apa|what; (marks a yes/no question); or (colloq., between alternatives: teh apa kopi?)|o;g;o
 apa-apa|anything, nothing (in a negated clause); tidak apa-apa: it's all right, never mind|o;n
 apakan|to do what with|v
 siapa|who|o
 siapa-siapa|anyone, nobody (in a negated clause)|o
-mana|which, where|o
+mana|which, where; how could, surely not (mana mungkin = no way, mana bisa)|o;o
 mana-mana|anywhere, everywhere (with di or ke)|o
 bagaimana|how|o
 mengapa|why|o
-kenapa|why|o
+kenapa|why; what's wrong (with) (kamu kenapa? = what's wrong with you?)|o;o
 kapan|when|o
 kapan-kapan|sometime, some other time|o
 berapa|how much, how many|o
@@ -93,13 +93,13 @@ detik|second (of time)|o
 waktu|time; when (at the time that)|o;o
 saat|moment; when|o;o
 sekarang|now|o
-nanti|later|o
+nanti|later; or else, otherwise (warning: nanti kau jatuh = you'll fall)|o;o
 tadi|just now, earlier|o
 besok|tomorrow|o
 kemarin|yesterday|o
 dulu|before, first (in time)|o
 dahulu|before, formerly|o
-sudah|already; (marks a completed action)|o;g
+sudah|already; (marks a completed action); that's enough!, stop it!|o;g;o
 sudahi|to end, to stop|v
 sudahkan|have you already...? (= sudahkah)|f2s2p
 berkesudahan|coming to an end (usu. tak berkesudahan, endless)|o
@@ -107,30 +107,30 @@ telah|already (formal)|o
 belum|not yet|o
 sedang|currently, in the middle of; medium, moderate|o;o
 masih|still|o
-akan|will, going to|o
+akan|will, going to; of, about (after some verbs and adjectives: sadar akan, takut akan)|o;o
 baru|new; just, only just; only then|o;o;o
 baru-baru|recently (usu. baru-baru ini)|o
-lagi|again; more, another; in the middle of doing (colloquial)|o;o;o
+lagi|again; more, another; in the middle of doing (colloquial); any more, any longer (with a negative: tidak lagi)|o;o;o;o
 pernah|ever, once; (with a negative) never, not once|o;o
 sering|often|o
 selalu|always|o
 jarang|seldom, rare|o
 kadang|sometimes|o
 segera|immediately, soon|o
-bisa|can, able to|o
+bisa|can, able to; poison, venom|o;o
 dapat|can, be able to; to get, receive|o;v
-boleh|may, allowed|o
+boleh|may, allowed; sure, go ahead (agreeing: boleh!)|o;o
 harus|must, have to|o
 perlu|to need|v
 mau|to want; will, be about to|v;o
 ingin|to want, to wish|v
-suka|to like|v
+suka|to like; often, tend to (suka lupa = keeps forgetting)|v;o
 tahu|to know; tofu|v;o
 kenal|to know (a person)|v
 paham|to understand|v
 mengerti|to understand|v
 arti|meaning|o
-juga|also, too|o
+juga|also, too; quite, rather (after an adjective: lumayan juga)|o;o
 hanya|only|o
 saja|just, only; (after a question word) -ever, any at all|o;o
 sangat|very|o
@@ -143,7 +143,7 @@ diamati|to be observed|v
 terlalu|too (excessively)|o
 cukup|enough, sufficient; quite, fairly|o;o
 memadai|adequate, sufficient|o
-kurang|less; lacking, not enough|o;o
+kurang|less; lacking, not enough; not very, not really (before an adjective or verb: kurang suka)|o;o;o
 lebih|more|o
 melebih|to exceed, go beyond|v
 melebihkan|to overdo, to put too much on|v
@@ -162,7 +162,7 @@ beberapa|several, some|o
 masing|each (masing-masing)|o
 lain|other, different|o
 lain-lain|others, the rest; dan lain-lain: and so on, et cetera|o;n
-sama|same; with, and (colloquial); satu sama lain: each other, one another|o;o;n
+sama|same; with, and (colloquial); satu sama lain: each other, one another; to, at (a person) (colloq.: bilang sama dia, marah sama aku); by (the doer of a passive) (colloq.: dipukul sama dia)|o;o;n;o;o
 sama-sama|not at all, you're welcome (reply to thanks); both, together, alike|o;o
 menyamakan|to equate, to make the same|v
 menyamai|to equal, to match|v
@@ -172,7 +172,7 @@ beda|different|o
 seperti|like, as|o
 sebagai|as, in the role of; dan sebagainya: and so on, et cetera|o;n
 bahwa|that (conjunction)|o
-kalau|if|o
+kalau|if; as for (kalau saya = as for me)|o;o
 kalau-kalau|in case, lest; whether, if by chance (after a verb of checking)|o;o
 jika|if|o
 andai|if, supposing|o
@@ -181,7 +181,7 @@ andaikan|suppose, if|o
 karena|because|o
 sebab|cause; because|o;o
 gara-gara|because of, on account of|o
-jadi|so; to become|o;v
+jadi|so; to become; to go ahead, happen after all (jadi pergi? = still going?)|o;v;v
 maka|then, therefore|o
 tetapi|but|o
 tapi|but|o
@@ -204,40 +204,40 @@ sebelum|before|o
 sesudah|after|o
 setelah|after|o
 sejak|since|o
-sampai|until, up to; to arrive at, reach|o;v
+sampai|until, up to; to arrive at, reach; so much that, to the point that (sampai aku menangis = so much that I cried)|o;v;o
 sampai-sampai|so much so that, to the point that|o
 hingga|until|o
 tentang|about, concerning|o
 antara|between, among|o
 dalam|in, inside; deep|o;o
 luar|outside|o
-atas|above, top|o
+atas|above, top; for, on (terima kasih atas = thank you for; atas nama = in the name of)|o;o
 bawah|below, under|o
 depan|front; next, coming|o;o
 belakang|back, behind|o
-tengah|middle, center|o
+tengah|middle, center; in the middle of (doing), currently (formal); tengah malam: midnight|o;o;n
 samping|side, beside|o
 dekat|near|o
-jauh|far|o
-sini|here|o
+jauh|far; much, far (before a comparative: jauh lebih baik)|o;o
+sini|here; come here!|o;o
 sinikan|hand it over, bring it here (colloq.)|o
 situ|there|o
-sana|over there|o
-mari|let's|o
+sana|over there; go on!, off you go (pergi sana = go away)|o;o
+mari|let's; goodbye, I'll be going (taking leave: mari, Pak)|o;o
 ayo|come on, let's|o
 jangan|don't|o
 jangan-jangan|what if, don't tell me (voicing a suspicion)|o
 jangankan|let alone, never mind|o
 silakan|please (go ahead)|o
 tolong|please; to help|o;v
-maaf|sorry|o
+maaf|sorry; excuse me (to get attention or pass)|o;o
 terima|to receive, to accept|v
 kasih|to give; affection|v;o
 terima kasih|thank you|o
 selamat|safe; congratulations|o;o
 nama|name|o
 rumah|house, home|o
-jalan|road, street; to walk|o;v
+jalan|road, street; to walk; to run, work (of a machine, a plan)|o;v;v
 kota|city|o
 negara|country, state|o
 negeri|land, country|o
@@ -247,7 +247,7 @@ daerah|region, area|o
 pergi|to go|v
 datang|to come|v
 pulang|to go home|v
-masuk|to enter, go in|v
+masuk|to enter, go in; to go to (work, school) (tidak masuk = absent)|v;v
 keluar|to go out, exit|v
 naik|to go up, rise; to get on, board|v;v
 turun|to go down, descend|v
@@ -270,7 +270,7 @@ pikir|to think|v
 rasa|feeling, taste; to feel|o;v
 ingat|to remember|v
 lupa|to forget|v
-harap|to hope|v
+harap|to hope; please (in notices and formal requests: harap tenang = please be quiet)|v;o
 tunggu|to wait|v
 cari|to look for, seek|v
 temu|to meet, to find|v
@@ -281,14 +281,14 @@ kirim|to send|v
 taruh|to put, place|v
 letak|position; to put|o;v
 buka|to open|v
-tutup|to close, shut|v
-mulai|to begin, start|v
+tutup|to close, shut; closed (of a shop, an office)|v;o
+mulai|to begin, start; from, starting (a time: mulai besok = from tomorrow)|v;o
 selesai|finished, done|o
-habis|used up, finished|o
-terus|to continue; continuously, the whole time; dan seterusnya: and so on, et cetera|v;o;n
+habis|used up, finished; after (habis makan = after eating); because (colloq.)|o;o;o
+terus|to continue; continuously, the whole time; dan seterusnya: and so on, et cetera; then, and then (colloq.); straight on, straight ahead|v;o;n;o;o
 lanjut|to continue|v
 henti|to stop|v
-coba|to try|v
+coba|to try; go on and, just (softening a request: coba lihat = have a look)|v;o
 coba-coba|to try out, experiment; to dare, try anything (esp. after jangan)|v;v
 pakai|to use; to wear|v;v
 guna|use, purpose|o
@@ -314,7 +314,7 @@ baik-baik|fine, all right; carefully, properly|o;o
 bagus|good, nice|o
 buruk|bad|o
 jelek|bad, ugly|o
-benar|true, correct|o
+benar|true, correct; really, truly (after an adjective: cantik benar)|o;o
 benar-benar|really, truly, genuinely|o
 betul|correct, right|o
 betul-betul|really, truly|o
@@ -331,7 +331,7 @@ berat|heavy; serious|o;o
 ringan|light (in weight); mild, minor|o;o
 tebal|thick|o
 tipis|thin|o
-cepat|fast, quick|o
+cepat|fast, quick; quickly!, hurry up!|o;o
 lambat|slow|o
 pelan|slow; soft|o;o
 mudah|easy|o
@@ -538,7 +538,7 @@ pulau|island|o
 desa|village|o
 kampung|village; hometown|o;o
 sendiri|alone, by oneself; own, self|o;o
-punya|to have, to own|v
+punya|to have, to own; belonging to, -'s (colloq.: punya siapa? = whose?)|v;o
 milik|possession, belonging to|o
 hidup|to live; on, working (of a device); life; alive|v;o;o;o
 hidup-hidup|alive (while still living)|o
@@ -591,7 +591,7 @@ buang|to throw away|v
 buang-buang|to waste (time, money)|v
 sampah|garbage, rubbish|o
 pilih|to choose; to vote|v;v
-tentu|certain, sure|o
+tentu|certain, sure; of course|o;o
 tunjuk|to point, to show|v
 tanda|sign, mark|o
 bukti|proof, evidence|o
@@ -634,14 +634,14 @@ ulang|to repeat|v
 ulang tahun|birthday|o
 raya|great|o
 hadiah|gift, prize|o
-biasa|usual, ordinary|o
+biasa|usual, ordinary; used to, accustomed to (sudah biasa = used to it)|o;o
 biasa-biasa|ordinary, nothing special (usu. biasa-biasa saja)|o
 aneh|strange, odd|o
 hebat|great, awesome|o
 istimewa|special|o
 sibuk|busy|o
 santai|relaxed|o
-serius|serious|o
+serius|serious; seriously?, really? (in questions)|o;o
 lucu|funny; cute|o;o
 seru|exciting (colloq.)|o
 tugas|task, assignment|o
@@ -718,7 +718,7 @@ lari|to run|v
 renang|swimming|o
 terbang|to fly|v
 tiba|to arrive|v
-kembali|to return; again|v;o
+kembali|to return; again; you're welcome (reply to thanks)|v;o;f2s2p
 balik|to return, reverse|v
 pindah|to move (house etc.)|v
 diam|silent; to stay still|o;v
@@ -761,7 +761,7 @@ setuju|to agree|v
 tolak|to refuse, reject; to push away|v;v
 dorong|to push|v
 tarik|to pull; to attract|v;v
-angkat|to lift, raise|v
+angkat|to lift, raise; angkat telepon: to answer the phone|v;n
 pegang|to hold|v
 lempar|to throw|v
 tangkap|to catch|v
@@ -788,7 +788,7 @@ ramai|crowded, lively|o
 sepi|quiet, deserted|o
 gelap|dark|o
 terang|bright, clear|o
-jelas|clear, obvious|o
+jelas|clear, obvious; of course, obviously|o;o
 muncul|to appear, emerge|v
 hilang|lost; to disappear|o;v
 tampak|visible, to appear|o
@@ -805,7 +805,7 @@ tambah|to add|v
 ganti|to replace, change|v
 ubah|to change|v
 merubah|to change (nonstandard spelling of mengubah)|v
-kali|time(s), occurrence|o
+kali|time(s), occurrence; maybe, I guess (colloq., at the end of a clause); times, multiplied by|o;o;o
 perkalian|multiplication|o
 jumlah|amount, total|o
 hasil|result, product|o
@@ -813,7 +813,7 @@ akibat|result, consequence|o
 tuju|to head toward (tujuan: goal, purpose)|v
 maksud|intention, meaning|o
 istirahat|rest, break|o
-siap|ready|o
+siap|ready; yes, sir!, will do (acknowledging an order)|o;o
 sedia|ready; to provide|o;v
 ternyata|it turns out that|f3s
 nyata|real, evident|o
@@ -1268,7 +1268,7 @@ rajin|diligent|o
 sopan|polite|o
 ramah|friendly|o
 sombong|arrogant|o
-tenang|calm|o
+tenang|calm; relax!, don't worry (tenang saja = take it easy)|o;o
 sabar|patient|o
 kecewa|disappointed|o
 kaget|startled|o
@@ -1430,22 +1430,22 @@ nyonya|madam|o
 gak|not (colloq.)|o
 nggak|not (colloq.)|o
 ga|not (colloq.)|o
-udah|already (colloq.)|o
-aja|just, only (colloq.)|o
+udah|already (colloq.); that's enough!, stop it! (colloq.)|o;o
+aja|just, only (colloq.); (after a question word) -ever, any at all (colloq.)|o;o
 banget|very (colloq.)|o
-gitu|like that (colloq.)|o
+gitu|like that (colloq.); that, so (degree: nggak gitu penting = not that important); or something (at the end of a clause)|o;o;o
 gini|like this (colloq.)|o
 gimana|how (colloq.)|o
-kok|(particle: surprise, how come)|g
-sih|(softening particle)|g
-dong|(emphasising particle)|g
-deh|(emphasising particle)|g
-kan|right?, you know (particle)|o
-nih|here, this (colloq.)|o
-tuh|there, that (colloq.)|o
-lho|(surprise particle)|g
-loh|(surprise particle)|g
-wah|wow|o
+kok|how come?, why? (surprised); really, you know (reassuring: nggak apa-apa kok)|o;o
+sih|actually, though (softening: nggak tahu sih); … anyway?, … then? (in questions: apa sih?)|o;o
+dong|come on, … will you (urging: ayo dong); of course, obviously (in replies: iya dong)|o;o
+deh|all right then, OK (settling: ya udah deh); just, do (urging: coba deh = just try it)|o;o
+kan|right?, you know (particle); after all (reminding: kan sudah kubilang = I told you so)|o;o
+nih|here, this (colloq.); here you are (handing something over)|o;o
+tuh|there, that (colloq.); see?, look (pointing something out)|o;o
+lho|hey!, what? (surprise); you know (warning or reminding: nanti telat lho)|o;f2s2p
+loh|hey!, what? (surprise); you know (warning or reminding: nanti telat loh)|o;f2s2p
+wah|wow; oh no (dismay)|o;o
 aduh|ouch, oh dear|o
 oke|okay|o
 hai|hi|o
@@ -1514,7 +1514,7 @@ takkan|will not, won't|o
 tidakkan|will not (tidak akan)|o
 cuma|only, just (colloq.)|o
 kayak|like, as if (colloq.)|o
-emang|indeed (colloq., = memang)|o
+emang|indeed (colloq., = memang); really? (in questions: emang kenapa? = so what?)|o;o
 sesuatu|something|o
 bilang|say, tell (colloq.)|o
 pria|man|o
@@ -1581,7 +1581,7 @@ barang|thing, object; goods|o;o
 agak|rather, somewhat|o
 awak|I, me (regional); crew|f1s;o
 benda|object, thing|o
-mengenai|about, concerning, regarding|o
+mengenai|about, concerning, regarding; to hit, strike (a target); to affect, apply to (dikenai: to be subjected to)|o;v;v
 saling|each other, mutually|o
 betapa|how (+ adj., exclamatory)|o
 sisi|side|o
@@ -1621,13 +1621,13 @@ nyaman|comfortable|o
 layak|worthy, proper, deserving|o
 persetan|to hell with, damn (vulgar)|v
 penyihir|witch, sorcerer|o
-dah|already (colloq., short for sudah)|o
+dah|already (colloq., short for sudah); bye! (colloq.)|o;o
 monster|monster|o
 mayat|corpse|o
 bom|bomb|o
 pacar|boyfriend, girlfriend|o
 asing|foreign, strange|o
-bau|smell|o
+bau|smell; smelly, to stink|o;o
 normal|normal|o
 prajurit|soldier|o
 selatan|south|o
@@ -1829,7 +1829,7 @@ cewek|girl, chick (informal)|o
 kagak|not, no (very colloq.)|o
 lumayan|fairly good, decent, not bad|o
 kendaraan|vehicle|o
-kalo|if (colloq. for kalau)|o
+kalo|if (colloq. for kalau); as for (colloq.: kalo aku = as for me)|o;o
 kuasa|power, authority|o
 jaksa|prosecutor|o
 harta|wealth, property, treasure|o
@@ -2334,7 +2334,7 @@ thailand|Thailand|o
 konsentrasi|concentration|o
 mula|beginning, origin|o
 mula-mula|at first, initially|o
-memulakan|to begin, to start (Malay)|v
+memulakan|to begin, to start (Malay, = memulai)|v
 konser|concert|o
 saus|sauce|o
 dering|ring, ringing|o
@@ -4392,14 +4392,14 @@ pangkas|trim, cut|o
 alzheimer|Alzheimer's|o
 cangkang|shell (egg/nut)|o
 liberal|liberal|o
-abis|finished, all gone (colloq.)|o
+abis|finished, all gone (colloq.); after (colloq.: abis makan = after eating); because (colloq.)|o;o;o
 pertapa|hermit|o
 pelumas|lubricant|o
 suaka|asylum|o
 karibia|Caribbean|o
 silinder|cylinder|o
 tonik|tonic|o
-temen|friend (colloq., short for teman)|o
+temen|friend (colloq., short for teman); to keep (someone) company (temenin, nemenin)|o;v
 dioksida|dioxide|o
 gendang|drum|o
 dokumentasi|documentation|o
@@ -6857,7 +6857,7 @@ meninggalkan|to leave, abandon|v
 memberikan|to give|v
 menggunakan|to use|v
 menyelamatkan|to save, rescue|v
-menyenangkan|pleasant, enjoyable|o
+menyenangkan|pleasant, enjoyable; to please, make happy|o;v
 membiarkan|to let, allow|v
 membutuhkan|to need, require|v
 menunjukkan|to show, indicate|v
@@ -6885,7 +6885,7 @@ menjalankan|to run, operate|v
 melupakan|to forget|v
 membersihkan|to clean|v
 melepaskan|to release, let go|v
-menakutkan|frightening|o
+menakutkan|frightening; to fear, be afraid of; to frighten, scare|o;v;v
 memenangkan|to win|v
 membuktikan|to prove|v
 mengucapkan|to utter, express|v
@@ -6916,7 +6916,7 @@ melaporkan|to report|v
 mengerjakan|to work on, do|v
 mengharapkan|to hope for, expect|v
 menyalahkan|to blame|v
-mengejutkan|surprising, shocking|o
+mengejutkan|surprising, shocking; to surprise, startle|o;v
 menyingkirkan|to get rid of|v
 menjatuhkan|to drop, bring down|v
 menyaksikan|to witness|v
@@ -6952,13 +6952,13 @@ memanfaatkan|to make use of, exploit|v
 menyampaikan|to convey, deliver|v
 menyembuhkan|to cure, heal|v
 mengungkapkan|to reveal; to express|v;v
-mengecewakan|disappointing|o
+mengecewakan|to disappoint, let down; disappointing|v;o
 menyarankan|to suggest|v
 menjadikan|to make into|v
 menurunkan|to lower; to drop off|v;v
 membawakan|to bring for; present|v;o
 memerintahkan|to order, command|v
-mengkhawatirkan|worrying|o
+mengkhawatirkan|to worry about, be anxious about; worrying, alarming|v;o
 menyanyikan|to sing (a song)|v
 memisahkan|to separate|v
 mencurigakan|suspicious|o
@@ -6977,7 +6977,7 @@ menjanjikan|to promise; promising|v;o
 meragukan|to doubt; doubtful|v;o
 membesarkan|to raise; to enlarge|v;v
 memberitahukan|to inform, notify|v
-menguntungkan|profitable, advantageous|o
+menguntungkan|profitable, advantageous; to benefit, favour|o;v
 membingungkan|confusing|o
 menyebarkan|to spread, distribute|v
 menghidupkan|to turn on; to revive|v;v
@@ -7000,7 +7000,7 @@ menyesuaikan|to adjust, adapt|v
 menuliskan|to write down|v
 membangkitkan|to arouse, generate|v
 melelahkan|exhausting|o
-memuaskan|satisfying|o
+memuaskan|satisfying; to satisfy|o;v
 melaksanakan|to carry out, implement|v
 menjauhkan|to keep away|v
 menaikkan|to raise, increase|v
@@ -7034,7 +7034,7 @@ memimpikan|to dream of|v
 meminjamkan|to lend|v
 menggabungkan|to combine, merge|v
 merekomendasikan|to recommend|v
-menyegarkan|refreshing|o
+menyegarkan|refreshing; to refresh|o;v
 mengusulkan|to propose|v
 membunyikan|to sound, play|v
 mengakibatkan|to result in|v
@@ -7046,7 +7046,7 @@ menegaskan|to affirm, stress|v
 menodongkan|to point (a weapon)|v
 mengosongkan|to empty, vacate|v
 menggemaskan|adorable|o
-mencemaskan|worrying|o
+mencemaskan|to worry about; worrying|v;o
 meluruskan|to straighten|v
 melegakan|relieving|o
 mencarikan|to find for someone|v
@@ -12789,3 +12789,30 @@ sama rata|equally, evenly|o
 mengelus dada|to bear something patiently; (literally) to stroke one's chest|v;v
 unjuk rasa|demonstration, protest|o
 tata kelola|governance|o
+seorang|a, one (before a person: seorang guru = a teacher); seorang diri: all alone|o;n
+sebuah|a, one (before a thing: sebuah rumah = a house)|o
+seseorang|someone, somebody|o
+apapun|whatever, anything (at all), no matter what|o
+selama|during, for (a length of time); as long as, while|o;o
+secara|in a … way, -ly (secara resmi = officially); in terms of (secara teknis = technically)|o;o
+meninggal|to die, pass away|v
+menarik|interesting, attractive; to pull, draw (out); to attract (menarik perhatian = to attract attention)|o;v;v
+kedua|second; both (before a noun: kedua tangan = both hands)|o;o
+ketiga|third; all three (before a noun)|o;o
+sepanjang|along, all along; throughout, all (sepanjang hari = all day); as long as|o;o;o
+menyerah|to give up, surrender|v
+semalam|last night; all night|o;o
+seharian|all day long|o
+sejujurnya|honestly, to be honest|o
+sedangkan|whereas, while|o
+seakan|as if, as though|o
+seketika|instantly, at once|o
+selagi|while (there is still time), as long as|o
+sekadar|merely, just|o
+menyangkut|concerning, regarding; to involve|o;v
+bagaimanapun|however, anyway; in any case, no matter how|o;o
+untungnya|luckily, fortunately|o
+pokoknya|the main thing is, basically, anyway (colloq.)|o
+makanya|that's why, so (colloq.)|o
+sekalipun|even if, even though; even|o;o
+soalnya|the thing is, because (colloq.)|o

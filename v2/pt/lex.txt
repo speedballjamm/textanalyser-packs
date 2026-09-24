@@ -137,7 +137,7 @@ ainda|||adv
 tão|||adv
 dos|||
 homem|||nm
-senhor|||nm;pron;nm
+senhor|||nm;pron;nm;nf
 noite|||nf
 favor|||nm
 sem|||prep
@@ -1003,7 +1003,7 @@ explodir|||
 foder|||
 memória|||nf
 sul|||nm
-marca|||nf;nf
+marca|||nf;nf;v;v
 cheiro|||nm
 direto|||adj
 assumir|||

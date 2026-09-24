@@ -29,10 +29,10 @@ me|me|o
 this|this (this one, near me)|o
 he|he|f3s
 do|to do; (makes questions and negatives: do you know?)|v;g
-for|for|o
+for|for (intended for); for (a length of time); for, because; for, in favour of|o;o;o;o
 have|to have; (makes the perfect: I have seen); have to: must|v;g;n
 my|my|o
-on|on|o
+on|on, on top of; on (a day or date); on, about (a subject); on, switched on, working|o;o;o;o
 your|your|o
 no|no (refusing, disagreeing); no, not any|o;o
 was|I was; he/she/it was|f1s;f3s
@@ -45,7 +45,7 @@ don|(do not, in don't)|g
 're|you are; we/they are|f2s2p;f1p
 can|can, to be able to; (in can't) cannot; a can, a tin|o;o;o
 with|with|o
-but|but|o
+but|but, however; but, except (all but one)|o;o
 all|all, everything|o
 go|to go|v
 so|so, therefore; so (to that degree)|o;o
@@ -58,15 +58,15 @@ they|they|f3p
 'll|will|o
 she|she|f3s
 come|to come|v
-if|if|o
+if|if (on condition that); if, whether|o;o
 right|right, correct; right (the side); (interjection) okay; a right, an entitlement|o;o;o;o
 want|to want|v
 out|out, outside|o
-about|about, concerning; about, roughly|o;o
-up|up|o
-at|at|o
+about|about, concerning; about, roughly; about to: on the point of|o;o;n
+up|up, to or in a higher place; up, out of bed, awake; up, over, finished (time's up)|o;o;o
+at|at (a place); at (a time); at, towards (look at, throw at)|o;o;o
 him|him|o
-one|one|o
+one|one, the number 1; one, a single thing or person (the red one); one, you, people in general|o;o;o
 now|now|o
 oh|oh (surprise, realisation)|o
 see|to see; to understand|v;v
@@ -82,7 +82,7 @@ got|got, past of get; have got: to have|o;n
 okay|okay, all right|o
 as|as, like; as (while)|o;o
 take|to take|v
-good|good|o
+good|good, of high quality; good, kind, well-behaved; good, pleasant, enjoyable; goods: things for sale|o;o;o;n
 let|to let, to allow|v
 did|past form of do|o
 who|who|o
@@ -109,11 +109,11 @@ had|past form of have|o
 or|or|o
 been|been|o
 need|to need|v
-thing|thing|o
+thing|thing, an object; thing, a matter, an affair|o;o
 our|our|o
 gonna|going to (informal)|o
 really|really, truly; really (very)|o;o
-thank|to thank; thank you: thanks|v;n
+thank|to thank; thank you: thanks; thanks: thank you; thanks to: because of|v;n;n;n
 some|some|o
 hey|hey (greeting; getting attention)|o
 give|to give|v
@@ -121,31 +121,31 @@ could|could, was able to; could (a polite request)|o;o
 'd|would (I'd like); (had: I'd gone)|o;g
 didn|(did not, in didn't)|g
 by|by (beside); by (done by); by (no later than); by (by means of)|o;o;o;o
-mean|to mean, to signify; mean, unkind|v;o
-way|way, road; way, manner|o;o
+mean|to mean, to signify; mean, unkind; to mean, to intend; a means, a way of doing something; by means of: using|v;o;v;o;n
+way|way, road; way, manner; way, distance (a long way)|o;o;o
 something|something|o
 has|he/she/it has|f3s
 little|little, small; a little, a bit|o;o
 too|too, also; too (more than enough)|o;o
 much|much, a lot|o
-more|more|o
+more|more, a greater amount or number; (makes comparatives: more beautiful)|o;g
 because|because|o
 talk|to talk, to speak|v
 love|to love; love|v;o
-down|down|o
+down|down, to or in a lower place; down, along (down the street); down, sad|o;o;o
 very|very|o
 never|never|o
 call|to call (by phone); to call (name); a call|v;v;o
-people|people|o
-only|only|o
+people|people, persons; a people, a nation|o;o
+only|only, just, no more than; only, single (an only child)|o;o
 over|over, above; over, finished|o;o
 guy|guy, man; (guys) people, either sex|o;o
-day|day|o
+day|day, a period of 24 hours; day, daytime, not night|o;o
 please|please (polite request)|o
 should|should, ought to|o
 said|past form of say|o
 sorry|sorry (apologising); sorry (feeling pity)|o;o
-off|off|o
+off|off, away (from a place or surface); off, switched off; off, not at work (a day off); off, gone bad (of food)|o;o;o;o
 am|I am|f1s
 work|to work; work, a job; to function|v;o;v
 try|to try|v
@@ -163,12 +163,12 @@ these|these|o
 other|other|o
 stop|to stop; a stop (bus or train)|v;o
 happen|to happen|v
-first|first|o
-into|into|o
+first|first, before all others; first, before doing anything else; at first: in the beginning|o;o;n
+into|into (to the inside of); into, interested in (I'm into music)|o;o
 keep|to keep; to carry on (doing)|v;v
 find|to find|v
 ask|to ask (a question); to ask for|v;v
-still|still (even now); still, motionless|o;o
+still|still (even now); still, motionless; still, nevertheless, even so|o;o;o
 anything|anything|o
 hear|to hear|v
 god|god; oh God: exclamation of shock|o;n
@@ -179,7 +179,7 @@ put|to put, to place|v
 their|their|o
 use|to use; use, purpose|v;o
 great|great, very good; great, large|o;o
-long|long|o
+long|long, of great length; long, lasting a long time; to long for, to want very much|o;o;v
 uh|uh (hesitating)|o
 again|again|o
 thought|thought, past of think; a thought, an idea|o;o
@@ -187,38 +187,38 @@ kill|to kill|v
 maybe|maybe, perhaps|o
 must|must, to have to|o
 night|night|o
-before|before|o
-after|after|o
+before|before, earlier than; before, in front of; before, previously (I've seen it before)|o;o;o
+after|after, later than; after, behind, following; after, in search of (the police are after him)|o;o;o
 won|won, past of win; (in won't) will not|o;o
-home|home|o
-away|away|o
+home|home, where you live; home, to or at your home (go home)|o;o
+away|away, to another place; away, at a distance (two miles away); away, absent, not here|o;o;o
 girl|girl|o
 than|than|o
 name|name; to name|o;v
 friend|friend|o
 last|last, final; last, most recent; to last|o;o;v
 fuck|(vulgar) fuck; used for anger or emphasis|o;o
-better|better|o
+better|better, more good; better, recovered from illness; had better: should|o;o;n
 everything|everything|o
-new|new|o
+new|new, recently made; new, not seen or known before; new, different (a new job)|o;o;o
 start|to start; the start|v;o
 always|always|o
 feel|to feel|v
-place|place|o
-big|big|o
+place|place, a location; place, home (at my place); place, position (first place); to place, to put|o;o;o;v
+big|big, large; big, important; big, older (big brother)|o;o;o
 woman|woman|o
-old|old|o
+old|old, having lived long; old, former (my old school); old, of a given age (ten years old)|o;o;o
 money|money|o
-around|around|o
+around|around, on every side of; around, here and there; around, about, roughly|o;o;o
 doesn|(in doesn't) does not|f3s
 stay|to stay|v
 lot|a lot: much, many; lot, plot of land; the lot: all of it|n;o;n
 play|to play; a play|v;o
 kid|kid, child; to joke|o;v
 believe|to believe|v
-wrong|wrong|o
+wrong|wrong, incorrect; wrong, bad, immoral; wrong, not working properly (what's wrong)|o;o;o
 bring|to bring (here)|v
-father|father|o
+father|father, male parent; Father, title of a priest|o;o
 ever|ever, at any time|o
 move|to move|v
 boy|boy|o
@@ -228,55 +228,55 @@ listen|to listen|v
 die|to die|v
 which|which|o
 miss|to miss (feel the absence of); to miss (fail to hit); Miss (title)|v;v;o
-late|late|o
+late|late, after the expected time; late, near the end (late at night); late, dead (the late king)|o;o;o
 nice|nice, pleasant|o
 fine|fine, all right; fine, of good quality; a fine, a penalty|o;o;o
 kind|kind, type; kind, gentle|o;o
 house|house|o
 understand|to understand|v
 someone|someone|o
-being|being|o
+being|being, -ing form of be; a being, a living creature|o;o
 hand|hand; to hand, to pass|o;v
 meet|to meet|v
 coming|coming|o
 every|every|o
-through|through|o
+through|through, from one side to the other; through, by means of; through, finished (I'm through with it)|o;o;o
 lose|to lose (mislay); to lose (a game)|v;v
 remember|to remember|v
 course|course, a set of lessons; of course: certainly|o;n
 mother|mother|o
 dad|dad, father|o
 left|left, past of leave; left (the side)|o;o
-world|world|o
+world|world, the earth and its people; world, an area of activity (the art world)|o;o
 enough|enough|o
 own|own (belonging to oneself); to own|o;v
 care|to care; care, attention|v;o
 may|may (allowed to); may (possibly); May (the month)|o;o;o
-bad|bad|o
+bad|bad, not good, of poor quality; bad, wicked; bad, serious, severe (a bad cold)|o;o;o
 three|three|o
 might|might, possibly|o
-today|today|o
+today|today, this day; today, nowadays|o;o
 car|car|o
-another|another|o
-minute|minute|o
+another|another, one more; another, a different one|o;o
+minute|minute, sixty seconds; a minute, a moment (wait a minute); minute, very small|o;o;o
 turn|to turn; a turn (your go)|v;o
 same|same|o
 son|son|o
-found|found, past of find|o
+found|found, past of find; to found, to establish|o;v
 else|else, other, besides|o
-next|next|o
+next|next, following, coming after; next to: beside|o;n
 run|to run; to run (a business)|v;v
 live|to live; live (happening now, not recorded)|v;o
 mind|mind; to mind, to object|o;v
 yourself|yourself|o
 job|job, work|o
-head|head; to head, to go towards|o;v
-dead|dead|o
+head|head, top part of the body; to head, to go towards; head, leader, chief|o;v;o
+dead|dead, no longer alive; dead, not working (a dead battery); dead, completely (dead tired)|o;o;o
 family|family|o
 many|many|o
 worry|to worry; worry|v;o
 wasn|(was not, in wasn't)|g
-baby|baby|o
+baby|baby, a very young child; baby, darling (used in address)|o;o
 room|room (in a house); room, space|o;o
 mom|mom, mother|o
 watch|to watch; watch (on the wrist)|v;o
@@ -287,7 +287,7 @@ morning|morning|o
 hell|hell; what the hell: expresses annoyance|o;n
 together|together|o
 brother|brother|o
-saw|saw, past of see|o
+saw|saw, past of see; a saw, a tool for cutting wood; to saw, to cut with a saw|o;o;v
 change|to change; a change, an alteration; change (coins)|v;o;o
 pay|to pay; pay, wages|v;o
 eat|to eat|v
@@ -308,7 +308,7 @@ actually|actually, in fact|o
 shit|(vulgar) shit; used for annoyance or dismay|o;o
 seem|to seem|v
 hard|hard, difficult; hard, firm; hard, with effort|o;o;o
-happy|happy|o
+happy|happy, pleased, glad; happy, willing (happy to help)|o;o
 huh|huh? (asking to repeat; checking agreement)|o
 speak|to speak|v
 both|both|o
@@ -321,7 +321,7 @@ pretty|pretty, attractive; pretty, fairly|o;o
 wife|wife|o
 drink|to drink; a drink|v;o
 hour|hour|o
-word|word|o
+word|word, unit of language; word, a promise (you have my word); word, news (any word from him?)|o;o;o
 eye|eye|o
 such|such|o
 also|also, too|o
@@ -352,11 +352,11 @@ check|to check; to check (look at); check, the bill|v;v;o
 um|um (hesitating)|o
 soon|soon|o
 close|to close, to shut; close, near|v;o
-question|question|o
+question|question, something asked; question, a matter, an issue; to question, to ask, to doubt|o;o;v
 saying|saying; a saying, a proverb|o;o
 lie|to lie, to tell an untruth; to lie down; a lie|v;v;o
 few|few, not many|o
-heart|heart|o
+heart|heart, organ that pumps blood; heart, feelings, love; heart, centre (the heart of the city); by heart: from memory|o;o;o;n
 couldn|(could not, in couldn't)|g
 lady|lady, woman|o
 buy|to buy|v
@@ -372,37 +372,37 @@ doctor|doctor|o
 young|young|o
 police|police|o
 business|business; business, an affair|o;o
-part|part|o
-true|true|o
+part|part, piece of a whole; part, role in a play or film; to part, to separate|o;o;v
+true|true, correct, not false; true, real, genuine; true, loyal|o;o;o
 each|each|o
 point|point, an idea; to point; point, purpose|o;v;o
-easy|easy|o
+easy|easy, not difficult; easy, relaxed, calm; easy! carefully, gently|o;o;o
 deal|deal, an agreement; to deal with; a great deal: a lot|o;v;n
 hit|to hit; a hit, a success|v;o
 fire|fire; to fire (dismiss); to fire (a gun)|o;v;v
 hurt|to hurt|v
 music|music|o
-water|water|o
+water|water, the clear liquid of rain and rivers; to water (plants)|o;v
 probably|probably|o
 month|month|o
 beautiful|beautiful|o
 stuff|stuff, things|o
 person|person|o
 damn|damn (annoyance); damned|o;o
-story|story|o
-body|body|o
+story|story, account of events; story, floor of a building|o;o
+body|body, the physical form of a person or animal; body, a dead body, corpse; body, organisation (a governing body)|o;o;o
 death|death|o
 order|order, a command; order, arrangement; to order (buy, request); in order to: so as to|o;o;v;n
 number|number|o
-working|working|o
+working|working, -ing form of work; working, functioning; working, having a job|o;o;o
 pick|to pick, to choose; to pick up|v;v
 crazy|crazy, mad|o
 write|to write|v
 stand|to stand; to bear, to tolerate|v;v
 save|to save (rescue); to save (keep)|v;v
-game|game|o
-exactly|exactly|o
-under|under|o
+game|game, activity played for fun; game, a match; game, wild animals hunted for food|o;o;o
+exactly|exactly, precisely; exactly! (agreeing)|o;o
+under|under, below; under, less than (under five)|o;o
 everybody|everybody|o
 wish|to wish; a wish|v;o
 far|far; so far: until now|o;n
@@ -424,7 +424,7 @@ inside|inside|o
 set|to set, to put; set, a group|v;o
 catch|to catch|v
 different|different|o
-high|high|o
+high|high, far up, tall; high, great in amount (high prices); high, on drugs|o;o;o
 dear|dear (loved); dear (in a letter); oh dear: expresses dismay|o;o;n
 sister|sister|o
 daughter|daughter|o
@@ -433,7 +433,7 @@ somebody|somebody|o
 light|light (brightness); light, not heavy; to light (a fire)|o;o;v
 dream|dream; to dream|o;v
 reason|reason|o
-side|side|o
+side|side, edge or surface; side, team or party; side, part of the body (on your left side)|o;o;o
 making|making|o
 afraid|afraid; I'm afraid: I regret|o;n
 rest|rest, what remains; to rest|o;v
@@ -446,18 +446,18 @@ shall|shall (offering, suggesting)|o
 shot|shot, a gunshot; shot, past of shoot|o;o
 fun|fun|o
 hate|to hate|v
-against|against|o
-feeling|feeling|o
+against|against, opposed to; against, touching, leaning on (against the wall)|o;o
+feeling|feeling, -ing form of feel; a feeling, an emotion; a feeling, a belief (I have a feeling that)|o;o;o
 husband|husband|o
 dog|dog|o
 cause|cause, reason; because (informal); to cause|o;o;v
 important|important|o
-line|line|o
+line|line, long thin mark; line, a queue; line, row of words (a line of text); line, telephone connection; line, words an actor says|o;o;o;o;o
 trust|to trust; trust|v;o
 cut|to cut|v
 wear|to wear|v
-trouble|trouble|o
-power|power|o
+trouble|trouble, difficulty, problems; to trouble, to bother|o;v
+power|power, control, authority; power, strength; power, electricity (power cut)|o;o;o
 clear|clear, easy to understand; to clear|o;v
 read|to read|v
 nobody|nobody|o
@@ -477,13 +477,13 @@ sell|to sell|v
 pull|to pull|v
 blood|blood|o
 finish|to finish|v
-behind|behind|o
+behind|behind, at the back of; behind, late (behind schedule); behind, supporting|o;o;o
 almost|almost|o
 team|team|o
 able|(be able to) can, capable of|o
 anymore|anymore, any longer|o
 couple|couple, two; couple, a pair of people|o;o
-office|office|o
+office|office, room or building for work; office, position of authority (in office)|o;o
 town|town|o
 welcome|welcome; you're welcome: reply to thanks|o;n
 cool|cool (slightly cold); cool, excellent|o;o
@@ -545,7 +545,7 @@ safe|out of danger; strongbox for valuables|o;o
 six|6|o
 street|road in a town with buildings along it|o
 alive|living, not dead|o
-lead|to guide, to go in front; first place|v;o
+lead|to guide, to go in front; first place; lead, a heavy grey metal|v;o;o
 drive|to operate a vehicle; to force into a state; urge, energy|v;v;o
 boss|person in charge at work|o
 living|alive; way of earning money|o;o
@@ -648,7 +648,7 @@ age|how old someone is; period of history|o;o
 letter|written message; sign for a sound|o;o
 rather|instead, preferably; fairly, quite|o;o
 steal|to take without permission|v
-felt|felt, past of feel|o
+felt|felt, past of feel; felt, thick cloth of pressed wool|o;o
 grunt|to make a low rough sound|v
 protect|to keep safe from harm|v
 cover|to put something over; to deal with, to include; protection|v;v;o
@@ -772,7 +772,7 @@ accept|to agree to take or believe|v
 hotel|building where travellers pay to sleep|o
 deep|going a long way down; hard to understand|o;o
 idiot|fool, someone who acts without sense|o
-short|small in length or height; lasting little time|o;o
+short|small in length or height; lasting little time; shorts: short trousers|o;o;n
 jump|to push yourself off the ground|v
 table|flat top on legs; list of figures in rows|o;o
 buddy|friend, mate (informal)|o
@@ -919,7 +919,7 @@ tea|hot drink made from leaves|o
 slow|taking a long time, not fast|o
 deserve|to have earned by what you did|v
 whether|if, in either case|o
-pant|to breathe hard and fast|v
+pant|to breathe hard and fast; pants: trousers (US), underpants (UK)|v;n
 support|to hold up; to help, to back|v;v
 public|open to everyone; the people generally|o;o
 base|bottom part, foundation; military camp|o;o
@@ -1356,7 +1356,7 @@ hanging|fastened from above; execution by rope|o;o
 advice|opinion on what someone should do|o
 dump|to drop and leave behind; place for rubbish; to end a relationship with|v;o;v
 noise|loud or unwanted sound|o
-term|word for something; period of time; condition of an agreement|o;o;o
+term|word for something; period of time; condition of an agreement; in terms of: regarding|o;o;o;n
 whisper|to speak very quietly|v
 rush|to hurry; sudden movement of many people|v;o
 nor|and not|o
@@ -1397,7 +1397,7 @@ male|of the sex that does not bear young; man or boy|o;o
 plus|and, added to|o
 click|short sharp sound; to press a mouse button|o;v
 shower|wash under falling water; short fall of rain|o;o
-odd|strange; (of numbers) not even|o;o
+odd|strange; (of numbers) not even; odds: chances, likelihood|o;o;n
 season|one of the four parts of the year; set of episodes; to add flavour to|o;o;v
 among|in the middle of, surrounded by|o
 sword|weapon with a long blade|o
@@ -2132,7 +2132,7 @@ cleaning|removing dirt|o
 emperor|ruler of an empire|o
 lf|(misprint of if) if|o
 employee|person who works for a firm|o
-manner|way something is done; way of behaving|o;o
+manner|way something is done; way of behaving; manners: polite behaviour|o;o;n
 retire|to stop working at the end of a career|v
 merry|cheerful, happy|o
 squad|small group working or fighting together|o
@@ -4732,7 +4732,7 @@ forensics|scientific tests used to solve crimes|o
 refresh|to make fresh again; to bring up to date|v;v
 outcome|way something turns out|o
 verify|to check that something is true|v
-dove|bird like a small pigeon, a sign of peace|o
+dove|bird like a small pigeon, a sign of peace; dove, past of dive (American)|o;o
 carrier|person or thing that carries; ship for aircraft|o;o
 postpone|to put off to a later time|v
 voyage|long journey by sea or in space|o

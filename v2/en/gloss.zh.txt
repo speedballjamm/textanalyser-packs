@@ -30,9 +30,9 @@ me|我 (作宾语)|o
 this|这, 这个 (离说话人近的)|o
 he|他|f3s
 do|做; (构成疑问和否定: do you know?)|v;g
-for|为, 给|o
+for|为, 给 (目的、对象); 达, 持续 (一段时间); 因为; 支持, 赞成|o;o;o;o
 my|我的|o
-on|在…上|o
+on|在…上, 在…上面; 在 (某天或某日期); 关于 (某主题); 开着的, 运转中|o;o;o;o
 your|你的, 你们的|o
 was|我是 (过去); 他/她/它是 (过去)|f1s;f3s
 'm|我是|f1s
@@ -43,7 +43,7 @@ are|你/你们是; 我们/他们是|f2s2p;f1p
 don|(do not, 用于 don't)|g
 're|你/你们是; 我们/他们是|f2s2p;f1p
 with|和…一起, 用|o
-but|但是|o
+but|但是, 然而; 除了 (all but one 除一个以外全部)|o;o
 all|所有, 全部|o
 go|去|v
 so|所以, 因此; 那么, 如此 (到这种程度)|o;o
@@ -55,14 +55,14 @@ they|他们, 她们, 它们|f3p
 'll|将, 会|o
 she|她|f3s
 come|来|v
-if|如果|o
+if|如果 (在…条件下); 是否|o;o
 want|想要, 要|v
 out|出, 在外面|o
-about|关于, 有关; 大约, 差不多|o;o
-up|向上, 在上面|o
-at|在 (某地, 某时)|o
+about|关于, 有关; 大约, 差不多; about to: 即将, 正要|o;o;n
+up|向上, 在上面; 起床, 醒着; 结束了, 到了 (time's up 时间到了)|o;o;o
+at|在 (某地); 在 (某时); 向, 朝 (look at 看, throw at 扔向)|o;o;o
 him|他 (作宾语)|o
-one|一, 一个|o
+one|一, 数字 1; 一个 (指代人或物: the red one 红的那个); 人们, 任何人 (泛指)|o;o;o
 now|现在|o
 oh|哦, 啊 (惊讶, 恍然大悟)|o
 see|看见; 明白|v;v
@@ -76,7 +76,7 @@ got|得到 (get 的过去式); have got: 有|o;n
 okay|好, 好的|o
 as|像, 如同; 当…时 (同时)|o;o
 take|拿, 取|v
-good|好的|o
+good|好的, 优质的; 善良的, 乖的; 愉快的, 令人开心的; goods: 商品, 货物|o;o;o;n
 let|让, 允许|v
 did|do 的过去式|o
 who|谁|o
@@ -102,42 +102,42 @@ had|have 的过去式|o
 or|或者, 还是|o
 been|be 的过去分词|o
 need|需要|v
-thing|东西, 事情|o
+thing|东西, 物品; 事情, 事务|o;o
 our|我们的|o
 gonna|打算, 将要 (口语)|o
 really|真的, 确实; 很, 非常 (程度)|o;o
-thank|感谢, 谢谢; thank you: 谢谢你|v;n
+thank|感谢; thank you: 谢谢你; thanks: 谢谢; thanks to: 由于, 多亏|v;n;n;n
 some|一些, 有些|o
 hey|嘿 (打招呼; 引起注意)|o
 give|给|v
 could|能, 会 (过去); 可以吗 (礼貌请求)|o;o
 'd|会, 想 (I'd like); (完成时的 had: I'd gone)|o;g
 didn|(did not, 用于 didn't)|g
-mean|意思是, 表示; 刻薄的, 不友善的|v;o
-way|路, 道路; 方式, 方法|o;o
+mean|意思是, 表示; 刻薄的, 不友善的; 打算, 意图; 方法, 手段; by means of: 通过, 借助|v;o;v;o;n
+way|路, 道路; 方式, 方法; 距离, 路程 (a long way 很远)|o;o;o
 something|某事, 某物|o
 has|他/她/它有|f3s
 little|小的; 一点, 少许|o;o
 too|也, 还; 太 (过于)|o;o
 much|很多, 大量|o
-more|更多, 更|o
+more|更多, 更多的数量; 更 (构成比较级: more beautiful 更美)|o;g
 because|因为|o
 talk|说话, 谈话|v
 love|爱; 爱, 爱情|v;o
-down|向下, 在下面|o
+down|向下, 在下面; 沿着 (down the street 沿街); 沮丧的, 难过的|o;o;o
 very|很, 非常|o
 never|从不, 决不|o
 call|打电话; 叫, 称呼 (名字); 电话, 通话|v;v;o
-people|人, 人们|o
-only|只, 仅仅|o
+people|人, 人们; 民族, 国民|o;o
+only|只, 仅仅; 唯一的 (an only child 独生子女)|o;o
 over|在…上方; 结束, 完了|o;o
 guy|家伙, 男人; (guys) 各位, 大家 (不分男女)|o;o
-day|天, 日子|o
+day|天, 一日 (24 小时); 白天, 白昼|o;o
 please|请 (礼貌请求)|o
 should|应该|o
 said|say 的过去式|o
 sorry|对不起 (道歉); 遗憾, 难过 (同情)|o;o
-off|离开, 脱离|o
+off|离开, 脱离 (某处或表面); 关着的, 已关闭; 休息, 不上班 (a day off 休息日); 变质的 (指食物)|o;o;o;o
 am|我是|f1s
 try|试, 尝试|v
 any|任何, 一些|o
@@ -153,12 +153,12 @@ year|年|o
 these|这些|o
 other|其他的, 别的|o
 happen|发生|v
-first|第一, 首先|o
-into|进入, 到…里|o
+first|第一, 最先的; 首先, 先 (做别的之前); at first: 起初, 开始时|o;o;n
+into|进入, 到…里; 热衷于, 喜欢 (I'm into music 我迷音乐)|o;o
 keep|保持, 保留; 继续 (做)|v;v
 find|找到, 发现|v
 ask|问 (问题); 要求, 请求|v;v
-still|仍然, 还 (到现在); 静止的, 不动的|o;o
+still|仍然, 还 (到现在); 静止的, 不动的; 尽管如此, 不过|o;o;o
 anything|任何事物, 什么|o
 hear|听见|v
 god|神, 上帝; oh God: 表示震惊的感叹|o;n
@@ -168,7 +168,7 @@ put|放, 放置|v
 their|他们的|o
 use|用, 使用; 用途, 用处|v;o
 great|很好的, 极好的; 大的, 巨大的|o;o
-long|长的, 久的|o
+long|长的; 长久的, 持续很久的; 渴望, 非常想要|o;o;v
 uh|呃 (犹豫时)|o
 again|再, 又|o
 thought|想 (think 的过去式); 想法, 念头|o;o
@@ -176,36 +176,36 @@ kill|杀, 杀死|v
 maybe|也许, 可能|o
 must|必须, 一定要|o
 night|夜晚, 晚上|o
-before|在…之前|o
-after|在…之后|o
+before|在…之前, 早于; 在…前面; 以前, 曾经 (I've seen it before 我以前见过)|o;o;o
+after|在…之后, 晚于; 在…后面, 跟随; 追寻, 追捕 (the police are after him 警察在追捕他)|o;o;o
 won|赢 (win 的过去式); (用于 won't) 不会|o;o
-home|家|o
-away|离开, 在远处|o
+home|家, 住处; 回家, 在家 (go home 回家)|o;o
+away|离开, 到别处; 在远处, 相距 (two miles away 两英里远); 不在, 外出|o;o;o
 girl|女孩|o
 than|比|o
 name|名字; 命名, 取名|o;v
 friend|朋友|o
 fuck|(粗俗) 操; 用于表达愤怒或加强语气|o;o
-better|更好的|o
+better|更好的; 好转的, 病情好转; had better: 最好, 应该|o;o;n
 everything|一切, 所有事物|o
-new|新的|o
+new|新的, 新做的; 新的, 前所未见的; 新的, 另一个 (a new job 新工作)|o;o;o
 start|开始; 开始, 起点|v;o
 always|总是, 一直|o
 feel|感觉, 觉得|v
-place|地方|o
-big|大的|o
+place|地方, 地点; 家, 住处 (at my place 在我家); 名次, 位置 (first place 第一名); 放置, 放|o;o;o;v
+big|大的; 重要的, 重大的; 年长的 (big brother 哥哥)|o;o;o
 woman|女人|o
-old|老的, 旧的|o
+old|老的, 年老的; 以前的, 旧的 (my old school 我的母校); …岁的 (ten years old 十岁)|o;o;o
 money|钱|o
-around|周围, 到处|o
+around|周围, 在…四周; 到处, 四处; 大约, 左右|o;o;o
 doesn|(用于 doesn't) 不|f3s
 stay|待, 停留|v
 play|玩, 演奏; 戏剧|v;o
 kid|小孩, 孩子; 开玩笑|o;v
 believe|相信|v
-wrong|错的, 错误的|o
+wrong|错的, 错误的; 不道德的, 坏的; 出毛病的 (what's wrong 怎么了)|o;o;o
 bring|带来 (到这里)|v
-father|父亲|o
+father|父亲; 神父 (对神父的称呼)|o;o
 ever|曾经, 在任何时候|o
 move|移动, 搬动|v
 boy|男孩|o
@@ -215,34 +215,34 @@ listen|听|v
 die|死, 死亡|v
 which|哪一个|o
 miss|想念 (感到失去); 错过, 没打中; 小姐 (尊称)|v;v;o
-late|晚的, 迟的|o
+late|晚的, 迟的; 晚期的, 将近末尾 (late at night 深夜); 已故的 (the late king 已故国王)|o;o;o
 nice|好的, 令人愉快的|o
 kind|种类, 类型; 善良的, 亲切的|o;o
 house|房子|o
 understand|理解, 明白|v
 someone|某人|o
-being|是 (be 的现在分词)|o
+being|是 (be 的现在分词); 生物, 生命体|o;o
 meet|见面, 遇见|v
 coming|正在来|o
 every|每个|o
-through|穿过, 通过|o
+through|穿过, 从一边到另一边; 通过, 凭借; 完成了, 结束了 (I'm through with it 我受够了)|o;o;o
 lose|丢失, 遗失; 输 (比赛)|v;v
 remember|记得, 记住|v
 course|课程; of course: 当然|o;n
 mother|母亲|o
 dad|爸爸|o
 left|离开 (leave 的过去式); 左, 左边|o;o
-world|世界|o
+world|世界; 界, 领域 (the art world 艺术界)|o;o
 enough|足够的|o
 own|自己的 (属于自己); 拥有|o;v
 care|在乎, 关心; 照顾, 注意|v;o
-bad|坏的, 不好的|o
+bad|坏的, 不好的, 差的; 邪恶的; 严重的 (a bad cold 重感冒)|o;o;o
 three|三|o
 might|可能, 也许|o
-today|今天|o
+today|今天; 如今, 现在|o;o
 car|汽车, 车|o
-another|另一个|o
-minute|分钟|o
+another|再一个, 又一个; 另一个, 别的|o;o
+minute|分钟; 一会儿, 片刻 (wait a minute 等一下); 微小的, 极小的|o;o;o
 turn|转, 转动; 轮到 (某人的一次)|v;o
 wonder|想知道, 纳闷; 惊奇, 惊叹|v;o
 return|回来, 回去; 归还|v;v
@@ -276,7 +276,7 @@ safe|安全的; 保险箱|o;o
 six|六, 6|o
 street|街道|o
 alive|活着的|o
-lead|带领, 领先; 第一名, 领先地位|v;o
+lead|带领, 领先; 第一名, 领先地位; 铅|v;o;o
 drive|开车, 驾驶; 迫使 (陷入某种状态); 干劲, 动力|v;v;o
 boss|老板, 上司|o
 living|活着的; 生计|o;o
@@ -375,7 +375,7 @@ age|年龄; 时代|o;o
 letter|信; 字母|o;o
 rather|宁愿, 而不是; 相当, 颇|o;o
 steal|偷|v
-felt|感觉到 (feel 的过去式)|o
+felt|感觉到 (feel 的过去式); 毛毡|o;o
 grunt|哼, 发出低沉粗哑的声音|v
 protect|保护|v
 cover|盖住, 覆盖; 涉及, 包括; 掩护|v;v;o
@@ -493,7 +493,7 @@ accept|接受, 认可|v
 hotel|旅馆, 酒店|o
 deep|深的; 深奥的|o;o
 idiot|白痴, 蠢货|o
-short|短的, 矮的; 短暂的|o;o
+short|短的, 矮的; 短暂的; shorts: 短裤|o;o;n
 jump|跳|v
 table|桌子; 表格|o;o
 buddy|朋友, 哥们 (口语)|o
@@ -638,7 +638,7 @@ tea|茶|o
 slow|慢的|o
 deserve|应得, 值得|v
 whether|是否|o
-pant|喘气|v
+pant|喘气; pants: 裤子 (美), 内裤 (英)|v;n
 support|支撑; 支持, 帮助|v;v
 public|公开的, 公共的; 公众|o;o
 base|底部, 基础; 基地|o;o
@@ -1060,7 +1060,7 @@ pardon|(pardon?) 请再说一遍; 原谅|o;v
 hanging|悬挂着的; 绞刑|o;o
 advice|建议, 忠告|o
 noise|噪音, 响声|o
-term|术语, 说法; 期限, 学期; 条款|o;o;o
+term|术语, 说法; 期限, 学期; 条款; in terms of: 就…而言|o;o;o;n
 whisper|低声说, 耳语|v
 rush|匆忙, 赶; 人流涌动|v;o
 nor|也不|o
@@ -1101,7 +1101,7 @@ male|雄性的, 男性的; 男子|o;o
 plus|加, 加上|o
 click|咔哒声; 点击 (鼠标)|o;v
 shower|淋浴; 阵雨|o;o
-odd|奇怪的; (数字) 奇数的|o;o
+odd|奇怪的; (数字) 奇数的; odds: 可能性, 机会|o;o;n
 season|季节; 一季 (剧集); 调味|o;o;v
 among|在…中间, 被…围绕|o
 sword|剑|o
@@ -1836,7 +1836,7 @@ cleaning|清洁, 打扫|o
 emperor|皇帝|o
 lf|(if 的误印) 如果|o
 employee|雇员, 员工|o
-manner|方式, 做法; 举止, 态度|o;o
+manner|方式, 做法; 举止, 态度; manners: 礼貌, 礼仪|o;o;n
 retire|退休|v
 merry|快活的, 愉快的|o
 squad|小队, 班组|o
@@ -4436,7 +4436,7 @@ forensics|法医鉴定, 刑侦技术|o
 refresh|使恢复精神; 更新|v;v
 outcome|结果|o
 verify|核实|v
-dove|鸽子|o
+dove|鸽子 (和平的象征); dive 的过去式 (美式)|o;o
 carrier|运送者, 载体; 航空母舰|o;o
 postpone|推迟|v
 voyage|航行|o
@@ -6379,20 +6379,20 @@ they'd|他们会 (虚拟); 他们已经 (过去完成)|f3p;f3p
 going|去, 走; going to: 即将, 打算|o;n
 same|同样的, 相同的|o
 son|儿子|o
-found|find 的过去式, 找到|o
+found|find 的过去式, 找到; 建立, 创办|o;v
 else|别的, 其他的|o
-next|下一个的|o
+next|下一个的, 接下来的; next to: 在…旁边|o;n
 run|跑; 经营 (生意)|v;v
 mind|头脑, 心思; 介意, 反对|o;v
 yourself|你自己|o
 job|工作, 职业|o
-head|头; 朝…走去|o;v
-dead|死的|o
+head|头; 朝…走去; 领导, 首领|o;v;o
+dead|死的; 失灵的, 没电的 (a dead battery 没电的电池); 完全, 极其 (dead tired 累死了)|o;o;o
 family|家庭, 家人|o
 many|许多|o
 worry|担心; 担忧|v;o
 wasn|(用于 wasn't) 不是|g
-baby|婴儿|o
+baby|婴儿; 宝贝, 亲爱的 (称呼)|o;o
 room|房间; 空间, 余地|o;o
 mom|妈妈|o
 watch|看, 观看; 手表|v;o
@@ -6403,7 +6403,7 @@ morning|早上, 上午|o
 hell|地狱; what the hell: 表示恼火|o;n
 together|一起|o
 brother|兄弟|o
-saw|see 的过去式, 看见|o
+saw|see 的过去式, 看见; 锯子; 锯, 用锯子锯|o;o;v
 eat|吃|v
 end|结尾, 末端; 结束|o;v
 idea|主意, 想法|o
@@ -6420,7 +6420,7 @@ send|寄, 送, 发|v
 actually|实际上, 其实|o
 shit|(粗俗) 屎; 表示恼火或懊丧|o;o
 seem|似乎, 好像|v
-happy|快乐的|o
+happy|快乐的, 高兴的; 乐意的 (happy to help 乐意帮忙)|o;o
 huh|(请对方重说; 确认对方是否同意) 啊?|o
 speak|说, 讲|v
 both|两者都|o
@@ -6431,7 +6431,7 @@ pretty|漂亮的; 相当, 挺|o;o
 wife|妻子|o
 drink|喝; 饮料|v;o
 hour|小时|o
-word|词, 话|o
+word|词, 话; 诺言, 保证 (you have my word 我向你保证); 消息 (any word from him? 他有消息吗?)|o;o;o
 eye|眼睛|o
 such|这样的|o
 also|也, 还|o
@@ -6459,9 +6459,9 @@ myself|我自己|o
 um|(犹豫时的声音) 嗯|o
 soon|不久, 很快|o
 close|关上; 近的|v;o
-question|问题|o
+question|问题, 提问; 问题, 事项; 询问, 质疑|o;o;v
 few|很少的, 不多的|o
-heart|心|o
+heart|心, 心脏; 内心, 感情, 爱; 中心 (the heart of the city 市中心); by heart: 凭记忆, 背诵|o;o;o;n
 couldn|(用于 couldn't) 不能|g
 lady|女士, 女子|o
 buy|买|v
@@ -6476,33 +6476,33 @@ doctor|医生|o
 young|年轻的|o
 police|警察|o
 business|生意, 商业; 事情|o;o
-part|部分|o
-true|真实的|o
+part|部分; 角色 (戏剧或电影中); 分开, 分离|o;o;v
+true|真实的, 正确的; 真正的, 地道的; 忠诚的|o;o;o
 each|每个|o
-easy|容易的|o
+easy|容易的; 轻松的, 从容的; 慢点!小心, 轻点|o;o;o
 fire|火; 解雇; 开枪|o;v;v
 hurt|弄疼, 受伤|v
 music|音乐|o
-water|水|o
+water|水; 浇水 (给植物)|o;v
 probably|大概, 很可能|o
 month|月|o
 beautiful|美丽的|o
 stuff|东西|o
 person|人|o
 damn|(表示恼火) 该死; 该死的|o;o
-story|故事|o
-body|身体|o
+story|故事; 楼层|o;o
+body|身体; 尸体; 机构, 团体 (a governing body 管理机构)|o;o;o
 death|死亡|o
 number|数字, 号码|o
-working|工作的, 在运转的|o
+working|work 的现在分词; 在运转的, 能用的; 有工作的, 在职的|o;o;o
 pick|挑选; 捡起|v;v
 crazy|疯的, 发疯的|o
 write|写|v
 stand|站; 忍受|v;v
 save|救; 存, 留|v;v
-game|游戏, 比赛|o
-exactly|确切地, 正好|o
-under|在…下面|o
+game|游戏; 比赛; 猎物, 野味|o;o;o
+exactly|确切地, 正好; 正是! (表示同意)|o;o
+under|在…下面; 少于, 不到 (under five 不到五)|o;o
 everybody|每个人, 大家|o
 wish|但愿, 希望; 愿望|v;o
 shut|关上; 闭嘴 (安静)|v;o
@@ -6521,14 +6521,14 @@ inside|在里面|o
 set|放, 摆; 一套, 一组|v;o
 catch|接住, 抓住|v
 different|不同的|o
-high|高的|o
+high|高的; 高额的 (high prices 高价); 嗑药后兴奋的|o;o;o
 sister|姐妹|o
 daughter|女儿|o
 gun|枪|o
 somebody|某人|o
 dream|梦; 做梦|o;v
 reason|原因, 理由|o
-side|边, 面|o
+side|边, 面; 一方, 队; 身体一侧 (on your left side 在你左侧)|o;o;o
 making|制作, 使|o
 afraid|害怕的; I'm afraid: 恐怕|o;n
 rest|其余, 剩下的; 休息|o;v
@@ -6540,17 +6540,17 @@ shall|(提议, 建议时用) 要不要, 该不该|o
 shot|一枪, 射击; shoot 的过去式, 开枪|o;o
 fun|乐趣, 好玩|o
 hate|恨, 讨厌|v
-against|反对, 靠着|o
-feeling|感觉, 心情|o
+against|反对; 靠着, 贴着 (against the wall 靠墙)|o;o
+feeling|feel 的现在分词; 感觉, 情绪; 预感, 看法 (I have a feeling that 我有种感觉…)|o;o;o
 husband|丈夫|o
 dog|狗|o
 important|重要的|o
-line|线, 排|o
+line|线, 线条; 队伍, 排队的人; 行 (a line of text 一行文字); 电话线路; 台词|o;o;o;o;o
 trust|信任; 信任|v;o
 cut|切, 剪|v
 wear|穿, 戴|v
-trouble|麻烦|o
-power|力量, 权力|o
+trouble|麻烦, 困难, 问题; 打扰, 麻烦|o;v
+power|权力, 控制; 力量, 力气; 电力 (power cut 停电)|o;o;o
 clear|清楚的, 明白的; 清除|o;v
 read|读|v
 nobody|没有人|o
@@ -6569,13 +6569,13 @@ sell|卖|v
 pull|拉, 拽|v
 blood|血|o
 finish|完成, 结束|v
-behind|在…后面|o
+behind|在…后面; 落后, 晚于 (behind schedule 进度落后); 支持|o;o;o
 almost|几乎|o
 team|队, 团队|o
 able|(be able to) 能, 会|o
 anymore|不再|o
 couple|两个, 几个; 一对 (夫妻, 情侣)|o;o
-office|办公室|o
+office|办公室; 职位, 公职 (in office 在任)|o;o
 town|镇, 城镇|o
 welcome|欢迎; you're welcome: 不客气|o;n
 cool|凉的; 酷的, 棒的|o;o
