@@ -112,7 +112,7 @@ some|um pouco de, alguns|o
 hey|ei, oi (cumprimento; para chamar a atenção)|o
 give|dar|v
 could|podia, pôde; poderia (pedido educado)|o;o
-'d|(would: I'd like, eu gostaria); (had: I'd gone, eu tinha ido)|o;g
+'d|(would: I'd like, eu gostaria); (had: I'd gone, eu tinha ido); (did: where'd you go = aonde você foi?)|o;g;g
 didn|(did not, em didn't)|g
 mean|significar, querer dizer; mau, cruel; pretender, ter a intenção de; meio, maneira de fazer algo; by means of: por meio de|v;o;v;o;n
 way|maneira, jeito; caminho, via; distância (a long way)|o;o;o
@@ -131,7 +131,7 @@ never|nunca|o
 call|ligar (por telefone); chamar (dar nome); uma ligação|v;v;o
 people|gente, pessoas; povo, nação|o;o
 only|só, somente, apenas; único (an only child)|o;o
-over|sobre, acima; terminado, acabado|o;o
+over|sobre, acima; terminado, acabado; para o outro lado, através; durante (over the weekend: durante o fim de semana); por, sobre (a fight over money: uma briga por dinheiro); over here / over there: aqui, lá|o;o;o;o;o;n
 guy|cara, sujeito; (guys) pessoal, de qualquer sexo|o;o
 day|dia, período de 24 horas; dia, de dia (não noite)|o;o
 please|por favor (pedido educado)|o
@@ -215,10 +215,10 @@ isn|(em isn't) não é|f3s
 listen|escutar|v
 die|morrer|v
 which|qual, que|o
-miss|sentir falta de; errar (não acertar); senhorita (título)|v;v;o
+miss|sentir falta de; errar (não acertar); senhorita (título); (missing) perdido, desaparecido, que falta|v;v;o;o
 late|atrasado, tarde; tarde, no fim (late at night); falecido (the late king)|o;o;o
 nice|agradável, simpático|o
-kind|tipo, espécie; gentil, bondoso|o;o
+kind|tipo, espécie; gentil, bondoso; (kind of) meio, um pouco, mais ou menos|o;o;o
 house|casa|o
 understand|entender, compreender|v
 someone|alguém|o
@@ -251,7 +251,7 @@ found|encontrou, passado de find; fundar, estabelecer|o;v
 else|mais, outro, além disso|o
 next|próximo, seguinte; next to: ao lado de|o;n
 run|correr; dirigir (um negócio)|v;v
-mind|mente; importar-se, incomodar-se|o;v
+mind|mente; importar-se, incomodar-se; tomar cuidado com (mind the step: cuidado com o degrau)|o;v;v
 yourself|você mesmo|o
 job|emprego, trabalho|o
 head|cabeça; dirigir-se, ir em direção a; chefe, líder|o;v;o
@@ -389,7 +389,7 @@ inside|dentro, do lado de dentro|o
 set|pôr, colocar; conjunto, jogo|v;o
 catch|pegar, apanhar|v
 different|diferente|o
-high|alto, elevado (high prices); alto, elevado; chapado, drogado|o;o;o
+high|alto, elevado (high prices); alto, elevado; chapado, drogado; high school: ensino médio, escola secundária|o;o;o;n
 sister|irmã|o
 daughter|filha|o
 gun|arma, revólver|o
@@ -430,7 +430,7 @@ fall|cair; outono|v;o
 war|guerra|o
 between|entre|o
 murder|assassinato; assassinar|o;v
-pass|passar; passar (numa prova)|v;v
+pass|passar; passar (numa prova); pass away: falecer, morrer; ser aprovado (uma lei); um passe, uma autorização|v;v;n;v;o
 city|cidade|o
 truth|verdade|o
 sell|vender|v
@@ -501,7 +501,7 @@ alive|vivo, com vida|o
 lead|guiar, ir à frente; a liderança, o primeiro lugar; chumbo|v;o;o
 drive|dirigir um veículo; levar a um estado; impulso, energia|v;v;o
 boss|chefe|o
-living|vivo; o sustento, o modo de ganhar a vida|o;o
+living|vivo; o sustento, o modo de ganhar a vida; (de live) morando, vivendo (living in London: morando em Londres); living room: sala de estar|o;o;o;n
 control|controle, poder sobre algo; controlar, dominar|o;v
 blow|soprar; blow up: explodir; golpe forte|v;n;o
 parent|pai ou mãe|o
@@ -524,7 +524,7 @@ gentleman|cavalheiro|o
 perfect|perfeito, sem falhas|o
 beat|bater repetidamente; derrotar, vencer; ritmo|v;v;o
 continue|continuar, prosseguir|v
-step|passo; etapa de um processo; pisar|o;o;v
+step|passo; etapa de um processo; pisar; um degrau (the front steps: a escada da frente)|o;o;v;o
 anybody|qualquer um, alguém|o
 bitch|(ofensivo) mulher maldosa; cadela; reclamar|o;o;v
 ass|(vulgar) bunda; idiota; jumento|o;o;o
@@ -628,7 +628,7 @@ fault|culpa; defeito, falha|o;o
 rule|regra, norma; governar|o;v
 dude|cara, sujeito (informal)|o
 offer|oferecer, propor; oferta, proposta|v;o
-park|estacionar; parque|v;o
+park|estacionar; parque; car park: estacionamento|v;o;n
 weren|(em weren't) forma negativa de were|o
 given|dado, particípio de give|o
 realize|dar-se conta de, perceber|v
@@ -650,7 +650,7 @@ absolutely|absolutamente, completamente; (como resposta) com certeza|o;o
 ride|andar, viajar (a cavalo ou de veículo); passeio, viagem|v;o
 drug|remédio; droga ilegal|o;o
 present|presente, atual; presente, prenda; apresentar, mostrar; presente, que comparece|o;o;v;o
-smell|cheirar, sentir o cheiro; cheiro|v;o
+smell|cheirar, sentir o cheiro; cheiro; cheirar (it smells good: tem um cheiro bom)|v;o;v
 building|prédio, edifício|o
 yesterday|ontem|o
 box|caixa; boxear|o;v
@@ -682,7 +682,7 @@ general|geral, que abrange todos; general (militar de alta patente)|o;o
 chief|chefe, líder; principal, mais importante|o;o
 dark|escuro, sem luz; escuro (de cor); sombrio|o;o;o
 strange|estranho, pouco comum; desconhecido|o;o
-station|estação (de trem); delegacia, emissora|o;o
+station|estação (de trem); delegacia, emissora; gas station / petrol station: posto de gasolina|o;o;n
 goodbye|adeus, tchau (ao se despedir)|g
 fear|medo, temor; temer, ter medo de|o;v
 near|perto de, a pouca distância|o
@@ -695,7 +695,7 @@ shop|loja; fazer compras|o;v
 bar|bar; barra de metal; bloquear, impedir|o;o;v
 happening|acontecendo, em andamento|o
 prove|provar, demonstrar|v
-study|estudar; escritório, sala de trabalho|v;o
+study|estudar; escritório, sala de trabalho; um estudo, uma pesquisa|v;o;o
 busy|ocupado, com muito a fazer; ocupado, em uso|o;o
 'am|(em ma'am) senhora|o
 crime|crime, delito|o
@@ -713,7 +713,7 @@ search|procurar com atenção; busca|v;o
 eh|né? (pedindo concordância ou que repitam)|g
 accept|aceitar, admitir|v
 hotel|hotel|o
-deep|fundo, profundo; profundo, difícil de entender|o;o
+deep|fundo, profundo; profundo, difícil de entender; profundo, intenso (deep love: amor profundo)|o;o;o
 idiot|idiota, bobo|o
 short|curto, baixo; breve, de pouca duração; shorts: bermuda, short|o;o;n
 jump|pular, saltar|v
@@ -748,7 +748,7 @@ certainly|certamente, sem dúvida; (como resposta) claro|o;o
 prepare|preparar, aprontar-se|v
 smart|esperto, inteligente; arrumado, de boa aparência|o;o
 christmas|Natal, festa cristã de 25 de dezembro|o
-raise|levantar, erguer; criar (um filho); aumento de salário|v;v;o
+raise|levantar, erguer; criar (um filho); aumento de salário; aumentar (preços, um nível); arrecadar (dinheiro); levantar (uma questão, uma preocupação)|v;v;o;v;v;v
 unless|a menos que|o
 seven|7|o
 clothes|roupa|o
@@ -781,7 +781,7 @@ entire|inteiro, completo|o
 space|espaço, vão; o espaço (além da Terra)|o;o
 mention|mencionar, referir-se a|v
 gasp|ficar sem ar, respirar fundo de susto|v
-track|trilha, pista; faixa, música gravada; rastrear, seguir|o;o;v
+track|trilha, pista; faixa, música gravada; rastrear, seguir; keep track of: acompanhar, manter o controle de; rastros, pegadas; trilhos (de trem)|o;o;v;n;o;o
 across|do outro lado de, de um lado a outro|o
 patient|paciente (que recebe atendimento médico); paciente, que sabe esperar|o;o
 marriage|casamento, vida de casados; casamento, cerimônia|o;o
@@ -863,7 +863,7 @@ whether|se (em qualquer dos casos)|o
 pant|ofegar, respirar ofegante; pants: calça (EUA), cueca, calcinha (Reino Unido)|v;n
 support|apoiar, dar apoio; sustentar, segurar|v;v
 public|público, aberto a todos; o público, as pessoas|o;o
-base|base, parte de baixo; base militar|o;o
+base|base, parte de baixo; base militar; based in / based on: sediado em, baseado em|o;o;n
 angry|bravo, com raiva|o
 file|arquivo, pasta de papéis ou dados; arquivar; lixa (ferramenta)|o;v;o
 bear|urso; carregar, suportar|o;v
@@ -9420,7 +9420,7 @@ have|ter; (forma o perfeito: I have seen); have to: ter que, precisar|v;g;n
 no|não (recusando, discordando); nenhum, nada de|o;o
 can|poder, ser capaz de; (em can't) não poder; lata|o;o;o
 get|conseguir, obter; ficar, tornar-se; chegar; entender|v;v;v;v
-right|certo, correto; direita (o lado); (interjeição) tá bom; direito|o;o;o;o
+right|certo, correto; direita (o lado); (interjeição) tá bom; direito; right away: imediatamente, já; right now: agora mesmo; (antes de lugar ou tempo) bem, exatamente (right here: bem aqui)|o;o;o;o;n;n;o
 well|bem… (pausa); bem (de boa maneira); bem, saudável; as well: também|o;o;o;n
 will|vai (o futuro); vontade (determinação); testamento (documento deixado ao morrer)|o;o;o
 by|perto de, ao lado de; por (feito por); até (no mais tardar); por (por meio de)|o;o;o;o
@@ -9445,7 +9445,7 @@ check|verificar, conferir; checar (dar uma olhada); conta (no restaurante)|v;v;o
 saying|dizendo; ditado, provérbio|o;o
 lie|mentir; deitar-se; mentira|v;v;o
 excuse|excuse me: com licença, desculpe; desculpar; desculpa|n;v;o
-point|ponto, ideia; apontar; sentido, propósito|o;v;o
+point|ponto, ideia; apontar; sentido, propósito; um momento (at that point: naquele momento); um ponto (no placar)|o;v;o;o;o
 deal|acordo, negócio; lidar com; a great deal: muito|o;v;n
 hit|bater, atingir; sucesso|v;o
 order|ordem, comando; ordem, organização; pedir, encomendar (comprar, solicitar); in order to: para, a fim de|o;o;v;n
@@ -9463,7 +9463,7 @@ cry|chorar; gritar, chamar|v;v
 sort|tipo, espécie; ordenar, classificar; sort out: resolver, dar um jeito em|o;v;n
 black|preto, da cor mais escura; negro, de ascendência africana|o;o
 grow|crescer; cultivar; ir ficando, tornar-se aos poucos; grow up: crescer, virar adulto|v;v;v;n
-hang|pendurar; enforcar; hang out: passar o tempo, ficar junto; hang on: esperar|v;v;n;n
+hang|pendurar; enforcar; hang out: passar o tempo, ficar junto; hang on: esperar; hang up: desligar (o telefone); hang in there: aguentar firme, não desistir|v;v;n;n;n;n
 white|branco, da cor da neve; branco, de ascendência europeia|o;o
 secret|secreto; segredo|o;o
 cheer|aclamação, viva; animar, incentivar; cheer up: animar-se, alegrar-se|o;v;n
@@ -13345,3 +13345,7 @@ unforgiving|implacável, que não perdoa; duro, severo|o;o
 vehemence|veemência|o
 verily|em verdade, verdadeiramente|o
 vibes|vibe, clima (coloq.); vibrafone|o;o
+used|usou, usado (passado de use); used to: costumava (I used to smoke: eu costumava fumar); used to: acostumado a (be used to, get used to); usado, de segunda mão (a used car)|o;n;n;o
+later|mais tarde, depois; mais tarde (que), depois do previsto; see you later: até mais, até logo|o;o;n
+least|o mínimo, a menor quantidade (the least I can do: o mínimo que posso fazer); at least: pelo menos, no mínimo; at least: pelo menos, ao menos|o;n;n
+worse|pior; pior (de saúde: feeling worse)|o;o

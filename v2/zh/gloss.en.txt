@@ -57,11 +57,11 @@
 没|not (did not happen; not have)|o
 呢|(and what about…?; softens a question)|g
 但|but (shorter, more formal than 但是)|o
-怎么|how; how come|o;o
+怎么|how; how come; 怎么了: what's wrong?, what happened?|o;o;n
 到|to arrive, to reach; until; (after a verb) reaching, managing to (找到, 走到)|v;o;o
 还|still, also; yet; to give back, to return (huán)|o;o;v
 能|to be able to (capable, permitted)|v
-就是|exactly, precisely; that is|o;o
+就是|exactly, precisely; that is; (一…就是) a whole (一等就是三年: waited a whole three years)|o;o;o
 这样|like this, this way|o
 跟|with; to follow|o;v
 如果|if|o
@@ -72,7 +72,7 @@
 上|up, on; to go up; last (week, month); (after a verb) up, on, onto (关上, 爱上); to go to (school, work)|o;v;o;o;v
 得|(links a verb to how it is done); must, have to (děi); to obtain, to attain (dé)|g;o;v
 被|(marks the passive, by)|g
-看|to look at, to watch; to read; to visit (someone)|v;v;v
+看|to look at, to watch; to read; to visit (someone); to look after, to guard (看孩子, 看门) (kān); to depend on (看情况)|v;v;v;v;v
 谁|who|o
 不会|will not; cannot, does not know how to|o;o
 事|matter, thing (to deal with)|o
@@ -92,7 +92,7 @@
 这么|so, this much|o
 那个|that one, that|o
 为|for, for the sake of; because of; to be, to act as (wéi) (Classical)|o;o;v.c
-再|again (next time); then|o;o
+再|again (next time); then; (再…也) however much, no matter how|o;o;o
 里|in, inside|o
 哦|oh (I see)|o
 需要|to need|v
@@ -130,19 +130,19 @@
 而|and, but (formal link)|o
 开始|to begin, to start|v
 您|you (polite)|f2s2p
-才|only then (later than expected); only|o;o
+才|only then (later than expected); only; (emphatic) it's … who (你才傻 = you're the silly one)|o;o;f3s
 用|to use; with|v;o
 嗯|mm, uh-huh|o
 工作|work, job; to work|o;v
 呀|(softens, exclamation; the form of 啊 used after a vowel)|g
 吃|to eat|v
-当|when, as; to serve as; should; shall, will (Classical)|o;v;o;o.c
+当|when, as; to serve as; should; shall, will (Classical); to treat as, to take for (把他当朋友) (dàng)|o;v;o;o.c;v
 嘿|hey|o
 回来|to come back|v
 真|really, truly; real|o;o
 当然|of course|o
 帮|to help|v
-中|middle, centre; in, among|o;o
+中|middle, centre; in, among; to hit, to be hit by (zhòng); to win, to pass (中奖, 考中) (zhòng)|o;o;v;v
 然后|then, after that|o
 看看|to have a look|v
 地方|place|o
@@ -163,7 +163,7 @@
 所有|all|o
 妈妈|mum, mother|o
 找到|to find|v
-哪|which; where|o;o
+哪|which; where; (rhetorical) how could …? (哪有 = there's no such thing)|o;o;o
 离开|to leave|v
 不想|not to want to|o
 爱|to love; love|v;o
@@ -176,19 +176,19 @@
 必须|must, have to|o
 一点|a little (amount); one o'clock|o;o
 那些|those|o
-可|can, may; but|o;o
+可|can, may; but; really, so (emphatic: 你可来了!)|o;o;o
 明白|to understand; clear|v;o
 的话|if (at the end of a clause)|o
 认为|to think, to consider (an opinion)|v
 爸爸|dad, father|o
 下|down, under; next; to go down; (after a verb) down, off (坐下, 放下); to fall (of rain, snow); (measure word: times, strokes)|o;o;v;o;v;g
 杀|to kill|v
-点|o'clock; a bit; dot, point; to order (food)|o;o;o;v
+点|o'clock; a bit; dot, point; to order (food); to tap, to click (点开); to nod (点头)|o;o;o;v;v;v
 太|too (excessively); very|o;o
 一切|everything, all|o
 相信|to believe, to trust|v
 想要|to want (to)|v
-打|to hit; to play (a game); to make (a call)|v;v;v
+打|to hit; to play (a game); to make (a call); to hail (a taxi: 打车); to work (打工)|v;v;v;v;v
 那里|there|o
 也许|maybe, perhaps|o
 大|big, large|o
@@ -198,7 +198,7 @@
 准备|to prepare, to get ready|v
 抱歉|sorry, to feel apologetic|o
 非常|very, extremely|o
-带|to bring, to take along; belt|v;o
+带|to bring, to take along; belt; to look after, to bring up (a child); to lead, to coach|v;o;v;v
 不过|but, however; only|o;o
 出来|to come out; (after a verb) out, into view, worked out|v;o
 对不起|sorry, excuse me|o
@@ -212,7 +212,7 @@
 并|and (formal); (not) at all|o;o
 过来|to come over|v
 这种|this kind of|o
-怎么样|how is it?; how about it?|o;o
+怎么样|how is it?; how about it?; 那又怎么样: so what?; 不怎么样: not much good, so-so|o;o;n;n
 一些|some, a few|o
 见|to see, to meet; a view, an opinion (Buddhist)|v;o.b
 为了|in order to, for|o
@@ -293,7 +293,7 @@
 听到|to hear|v
 月|month; moon|o;o
 干嘛|what for?, why (colloquial)|o
-出|to go out, to come out; to produce|v;v
+出|to go out, to come out; to produce; to happen, to go wrong (出事, 出问题)|v;v;v
 今晚|tonight|o
 儿子|son|o
 他妈的|damn it, fucking (vulgar)|o
@@ -305,7 +305,7 @@
 要是|if, supposing (more colloquial than 如果)|o
 美国|the United States, America|o
 女孩|girl|o
-所|(marks what is verbed: 所说 what was said); place|g;o
+所|(marks what is verbed: 所说 what was said); place; (measure word: schools, hospitals, houses)|g;o;g
 马上|at once, right away|o
 以前|in the past, formerly|o
 写|to write|v
@@ -335,7 +335,7 @@
 小心|careful; to watch out|o;v
 还好|luckily, just as well; not bad|o;o
 总是|always, invariably|o
-行|OK, will do; to walk; a row, a line (háng); mental formation, volition (Buddhist); to practise, to carry out (formal)|o;v;o;o.b;v
+行|OK, will do; to walk; a row, a line (háng); mental formation, volition (Buddhist); to practise, to carry out (formal); a bank, a firm (银行, 支行) (háng)|o;v;o;o.b;v;o
 号|number; day of the month; size|o;o;o
 无法|to have no way to, cannot|v
 伙计|mate, buddy; shop assistant|o;o
@@ -467,7 +467,7 @@
 至少|at least|o
 闭嘴|shut up|o
 讲|to speak, to tell; to explain|v;v
-连|even (连…都); to connect|o;v
+连|even (连…都); to connect; in a row, in succession (连着三天)|o;v;o
 挺|quite, rather|o
 成功|to succeed; success|v;o
 奇怪|strange, odd|o
@@ -493,7 +493,7 @@
 才能|talent, ability; only then can|o;o
 结果|result, outcome; in the end, as it turned out|o;o
 帮忙|to help out, to lend a hand|v
-正|just, right (in the middle of doing); upright, straight|o;o
+正|just, right (in the middle of doing); upright, straight; exactly, precisely (正是, 正因为)|o;o;o
 照片|photograph|o
 参加|to take part in, to attend|v
 而已|that's all, nothing more|o
@@ -512,7 +512,7 @@
 最近|recently, lately|o
 讨厌|to hate, to find annoying; annoying|v;o
 照顾|to look after, to take care of|v
-长|long; to grow, to grow up (zhǎng)|o;v
+长|long; to grow, to grow up (zhǎng); head, chief (in titles such as 所长, 村长) (zhǎng)|o;v;o
 人类|humanity, the human race|o
 活着|to be alive, to stay alive|v
 打开|to open; to switch on|v;v
@@ -563,7 +563,7 @@
 之间|between, among|o
 主意|idea, plan|o
 保持|to keep, to maintain|v
-成|to become; (after a verb: into, as); to succeed; OK, that'll do|v;g;v;o
+成|to become; (after a verb: into, as); to succeed; OK, that'll do; ten percent (三成 = 30%)|v;g;v;o;o
 存在|to exist; existence|v;o
 高|tall, high|o
 晚安|goodnight|o
@@ -571,7 +571,7 @@
 全部|all of it, the whole lot|o
 靠|to rely on; to lean on; close to|v;v;o
 呆|to stay, to hang around; blank, dazed|v;o
-起|(after a verb: up, starting to); to rise, to get up|g;v
+起|(after a verb: up, starting to); to rise, to get up; (从…起) from … on; (V + 得起 / 不起) can / can't afford (买得起); (measure word: cases, incidents)|g;v;o;o;g
 突然|suddenly; sudden|o;o
 飞机|aeroplane|o
 解决|to solve, to settle|v
@@ -604,8 +604,8 @@
 哥哥|older brother|o
 放弃|to give up|v
 游戏|game|o
-跳|to jump; to dance|v;v
-头|head; (measure word: large animals)|o;g
+跳|to jump; to dance; (of the heart) to beat, to pound|v;v;v
+头|head; (measure word: large animals); (noun suffix: 外头 outside, 石头 stone); end, side (村东头: the east end of the village)|o;g;g;o
 秘密|secret|o
 休息|to rest, to take a break|v
 终于|finally, at last|o
@@ -654,7 +654,7 @@
 年轻|young|o
 即使|even if, even though|o
 本来|originally, in the first place|o
-本|this, the present; originally; (measure word: books)|o;o;g
+本|this, the present; originally; (measure word: books); notebook (本子)|o;o;g;o
 疯狂|insane, frantic|o
 大人|grown-up, adult; sir (to an official)|o;o
 使用|to use, to make use of|v
@@ -684,7 +684,7 @@
 阻止|to stop, to prevent|v
 消失|to disappear, to vanish|v
 随便|as you like, whatever; casual, careless|o;o
-心|heart; mind, feelings|o;o
+心|heart; mind, feelings; centre, core (菜心)|o;o;o
 第|(makes an ordinal: 第一 first)|g
 似乎|as though, one gets the impression|o
 开车|to drive|v
@@ -698,7 +698,7 @@
 三|three|o
 博士|doctor (PhD); doctorate|o;o
 姐姐|older sister|o
-总|always; general, overall|o;o
+总|always; general, overall; boss, head (王总: Mr Wang, the boss)|o;o;o
 离|away from, apart from; to leave|o;v
 放下|to put down; to let go of|v;v
 昨天|yesterday|o
@@ -736,7 +736,7 @@
 咖啡|coffee|o
 有关|related to, concerning|o
 试试|to give it a try|v
-接|to catch; to answer (a call); to pick up (someone)|v;v;v
+接|to catch; to answer (a call); to pick up (someone); to take on (a job, an order), to take over|v;v;v;v
 仍然|still, nonetheless|o
 放开|to let go of, to release|v
 几乎|almost, nearly|o
@@ -880,7 +880,7 @@
 多么|how (how lovely!)|o
 变|to change, to turn into|v
 难|difficult, hard; calamity, danger (nàn)|o;o
-分|to divide; minute; point, mark|v;o;o
+分|to divide; minute; point, mark; fen, a cent (1/100 yuan)|v;o;o;o
 哪个|which one|o
 行为|behaviour, conduct|o
 往|towards, in the direction of|o
@@ -13611,6 +13611,11 @@
 闭门羹|a cold shoulder; 吃闭门羹: to be turned away at the door|o;n
 白手起家|to build from nothing, self-made|v
 洋相|spectacle; 出洋相: to make a fool of oneself|o;n
+微信|WeChat (the messaging app); a WeChat message|o;o
+研究生|graduate student, postgraduate|o
+操场|sports ground, playground|o
+弄堂|lane, alley (Shanghai dialect)|o
+行长|bank president, head of a bank|o
 平|flat, level; peaceful|o;o
 音|sound, tone|o
 斩|to chop, behead|v

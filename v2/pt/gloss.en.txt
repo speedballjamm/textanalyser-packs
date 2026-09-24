@@ -42,14 +42,14 @@ meu|my, mine (m.)|o
 no|in the, on the (em+o)|o
 os|the (m. pl.); them|o;o
 ela|she, her|f3s
-seu|your; his, her (m.)|o;o
+seu|your; his, her (m.); Mr (form of address, from senhor: seu João)|o;o;o
 muito|very; a lot; many, much|o;o;o
 na|in the, on the (em+a)|o
 sim|yes|o
 aqui|here|o
 mais|more; most|o;o
 dizer|to say, to tell|v
-tem|has; you have|f3s;f2s2p
+tem|has; you have; there is, there are (tem gente lá fora); não tem como: there's no way|f3s;f2s2p;o;n
 foi|was; went|f3s;o
 ver|to see|v
 as|the (f. pl.); them (f.)|o;o
@@ -57,7 +57,7 @@ vai|goes; you go; is going to|f3s;f2s2p;f3s
 sua|your; his, her (f.)|o;o
 estou|(state, location) I am|f1s
 poder|to be able to, can; power|v;o
-vamos|we go; let's|f1p;o
+vamos|we go, we are going (to); let's|f1p;o
 só|only, just; alone|o;o
 tudo|everything|o
 ficar|to stay; to become; to be located|v;v;v
@@ -79,7 +79,7 @@ tenho|I have|f1s
 te|you, to you|f2s2p
 estava|he/she/it was; (state, location) I was|f3s;f1s
 querer|to want|v
-quer|wants; you want|f3s;f2s2p
+quer|wants; you want; quer dizer: that is, I mean, it means|f3s;f2s2p;n
 esse|that (before a noun)|o
 dar|to give; dar para: to be possible; dar uma volta: to go for a walk, a drive|v;n;n
 bom|good|o
@@ -103,7 +103,7 @@ quero|I want|f1s
 nosso|our, ours|o
 outro|other, another|o
 sou|(identity, characteristic) I am|f1s
-são|are; you (pl.) are|f3s;f2s2p
+são|are; you (pl.) are; Saint (in names: São Paulo)|f3s;f2s2p;o
 obrigado|thank you (said by a man; a woman says obrigada)|o
 posso|I can|f1s
 acho|I think, I reckon|f1s
@@ -192,7 +192,7 @@ parar|to stop|v
 qual|which|o
 apenas|only, just|o
 deve|must; you must|o;f2s2p
-novo|new; young|o;o
+novo|new; young; de novo: again|o;o;n
 primeiro|first|o
 chegar|to arrive; to be enough|v;v
 nem|not even; nor|o;o
@@ -201,7 +201,7 @@ fazendo|doing, making|o
 haver|there to be; to exist|o;v
 acha|thinks; you think|f3s;f2s2p
 quanto|how much|o
-fez|he/she did; I did|f3s;f1s
+fez|he/she did; you did (você)|f3s;f2s2p
 acabar|to finish; to end up; acabar de: to have just|v;v;n
 filho|son; daughter (f.)|o;o
 começar|to start, to begin|v
@@ -241,25 +241,25 @@ oi|hi|o
 pedir|to ask for, to request|v
 chamar|to call; chamar-se: to be called|v;n
 nenhum|no, none, not any|o
-vão|they go; you (pl.) go; vain|f3p;f2s2p;o
+vão|they go, they are going (to); you (pl.) go, you are going (to); vain|f3p;f2s2p;o
 certeza|certainty; com certeza: for sure|o;n
 ligar|to phone; to switch on; to care (ligar para)|v;v;v
 ok|OK|o
 tipo|kind, type; like (filler)|o;o
 lembrar|to remember (lembrar de)|v
 carro|car|o
-volta|return; turn; he/she goes back; you go back; come back!; dar uma volta: to go for a walk, a drive|o;o;f3s;f2s2p;o;n
+volta|return; turn; he/she goes back; you go back; come back!; dar uma volta: to go for a walk, a drive; por volta de: around, about (a time, a number); em volta de / à volta de: around (a place)|o;o;f3s;f2s2p;o;n;n;n
 olá|hello|o
 colocar|to put, to place|v
 realmente|really, in fact|o
 tirar|to take out, to remove; tirar uma foto: to take a photo|v;n
-menos|less, fewer; except|o;o
+menos|less, fewer; except; pelo menos: at least; mais ou menos: more or less, so-so|o;o;n;n
 continuar|to continue, to keep on|v
 trazer|to bring (here)|v
 morto|dead|o
 importar|to matter; to import|v;v
 feliz|happy|o
-tomar|to take (a drink, a decision); to drink|v;v
+tomar|to take (a drink, a decision); to drink; tomar conta de: to look after, to take care of|v;v;n
 criança|child|o
 mão|hand; dar uma mão: to give a hand, to help|o;n
 tanto|so much, so many|o
@@ -277,7 +277,7 @@ pronto|ready; done|o;o
 ah|ah, oh|o
 único|only; unique|o;o
 esquecer|to forget|v
-às|to the, at the (a+as); at (with a time)|o;o
+às|to the, at the (a+as); at (with a time); às vezes: sometimes|o;o;n
 embora|though; ir embora: to go away|o;n
 viver|to live|v
 mudar|to change; to move (house)|v;v
@@ -318,7 +318,7 @@ meio|middle; half; kind of|o;o;o
 preocupar|to worry|v
 gente|people; a gente: we (with a 3rd-person verb)|o;n
 amanhã|tomorrow|o
-mal|badly; hardly; evil|o;o;o
+mal|badly; hardly; evil; não faz mal: never mind, it doesn't matter|o;o;o;n
 enquanto|while|o
 comprar|to buy|v
 difícil|difficult, hard|o
@@ -411,8 +411,8 @@ música|music; song|o;o
 casar|to marry (casar-se)|v
 consigo|I manage; with him, with her, with you|f1s;o
 senhora|ma'am, madam; Mrs|o;o
-conta|bill, account; he/she tells, counts; you tell, count; tell!|o;f3s;f2s2p;o
-espera|wait!; waits|o;f3s
+conta|bill, account; he/she tells, counts; you tell, count; tell!; dar conta: to cope, to manage; sum, calculation (fazer contas)|o;f3s;f2s2p;o;n;o
+espera|wait!; waits; à espera de: waiting for; wait, waiting (noun)|o;f3s;n;o
 mamãe|mum, mummy|o
 guerra|war|o
 tal|such; que tal: how about|o;n
@@ -452,7 +452,7 @@ forte|strong|o
 boca|mouth|o
 lutar|to fight|v
 maneira|way, manner|o
-ponto|point; dot; spot; ponto de ônibus: bus stop|o;o;o;n
+ponto|point; dot; spot; ponto de ônibus: bus stop; em ponto: on the dot, sharp (às três em ponto)|o;o;o;n;n
 atirar|to shoot; to throw|v;v
 direito|right (entitlement); straight; properly|o;o;o
 médico|doctor|o
@@ -463,7 +463,7 @@ licença|licence; com licença: excuse me|o;n
 prometer|to promise|v
 aparecer|to appear, to show up|v
 decidir|to decide|v
-bater|to hit; to knock|v;v
+bater|to hit; to knock; bater palmas: to clap; to beat (of the heart); to slam (a door)|v;v;n;v;v
 vivo|alive; I live|o;f1s
 deixa|let me, let it; he/she leaves; you leave|o;f3s;f2s2p
 novamente|again|o
@@ -585,7 +585,7 @@ livre|free (unrestricted)|o
 escritório|office|o
 cedo|early|o
 atenção|attention; watch out!|o;o
-prova|proof, evidence; test|o;o
+prova|proof, evidence; test; he/she tries (on), tastes; try!, taste!|o;o;f3s;o
 proteger|to protect|v
 cabelo|hair|o
 maravilhoso|wonderful|o
@@ -640,7 +640,7 @@ futuro|future|o
 sentido|meaning, sense; direction|o;o
 mesa|table|o
 vítima|victim|o
-fundo|bottom; background; deep|o;o;o
+fundo|bottom; background; deep; (no fundo) deep down, basically; back, far end (of a room, a place); fund (money)|o;o;o;o;o;o
 viagem|trip, journey|o
 cliente|customer, client|o
 caixa|box; cashier, till|o;o
@@ -695,7 +695,7 @@ daí|from there; e daí: so what|o;n
 sai|he/she leaves, goes out; you leave; get out!|f3s;f2s2p;o
 pobre|poor|o
 descer|to go down, to get off|v
-mexer|to move; to stir; mexer com: to mess with|v;v;n
+mexer|to move; to stir; mexer com: to mess with; mexer em: to touch, to fiddle with (something)|v;v;n;n
 surpresa|surprise|o
 bola|ball|o
 decisão|decision|o
@@ -814,7 +814,7 @@ ambos|both|o
 atender|to answer (the phone, the door); to see to|v;v
 mover|to move|v
 missão|mission|o
-passa|passes; spends|f3s;f3s
+passa|passes; spends; se passar: to happen, to go on (o que se passa?)|f3s;f3s;n
 juro|I swear|f1s
 enganar|to deceive; enganar-se: to be wrong|v;n
 guardar|to keep; to put away|v;v

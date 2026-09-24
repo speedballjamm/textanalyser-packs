@@ -313,7 +313,7 @@ benar|||
 benar-benar|||adv.
 betul|||
 betul-betul|||adv.
-salah|||adj.;n.
+salah|||adj.;n.;pron.
 besar|||adj.
 kecil|||adj.
 panjang|||adj.
@@ -574,7 +574,7 @@ cuci|||
 masak|||
 goreng|||adj.;v.
 rebus|||adj.;v.
-bakar|||v.;adj.
+bakar|||v.;adj.;n.;n.
 potong|||
 belah|||v.;n.
 iris|||
@@ -720,7 +720,7 @@ diam|||adj.;v.
 diam-diam|||adv.
 tinggal|||
 berangkat||angkat|
-lewat|||prep.;v.
+lewat|||prep.;v.;prep.
 ikut|||
 antar|||
 jemput|||
@@ -12811,3 +12811,5 @@ pokoknya||pokok|
 makanya||maka|
 sekalipun||sekali|
 soalnya||soal|
+benah|||v.;v.
+penentuan||tentu|n.

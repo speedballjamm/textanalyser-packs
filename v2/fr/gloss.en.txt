@@ -59,7 +59,7 @@ non|no|o
 t'|you, to you|f2s2p
 avec|with|o
 plus|more; (with ne) no longer|o;o
-fait|done, made; fact|o;o
+fait|done, made; fact; ça fait: it's been (ça fait deux ans); tout à fait: quite, absolutely; (il fait) it is (weather: il fait froid)|o;o;n;n;f3s
 mon|my|o
 m'|me, to me|o
 te|you, to you|f2s2p
@@ -68,7 +68,7 @@ dire|to say, to tell|v
 moi|me (stressed)|o
 s'|himself, herself, themselves; if (s'il, s'ils)|o;o
 oui|yes|o
-va|he/she/it goes; go!|f3s;o
+va|he/she/it goes; go!; (+ infinitive) is going to (il va pleuvoir); ça va: it's fine, OK, how are you?|f3s;o;f3s;n
 aller|to go|v
 était|he/she/it was|f3s
 as|you have (sg.)|f2s2p
@@ -108,8 +108,8 @@ peux|I/you can|f1s
 avez|you have (pl., formal)|f2s2p
 autre|other|o
 vais|I go, I'm going|f1s
-alors|then, at that time; so|o;o
-bon|good (adj); well, right (interjection)|o;o
+alors|then, at that time; so; alors que: while, whereas|o;o;n
+bon|good (adj); well, right (interjection); ah bon: really?|o;o;n
 parler|to speak, to talk|v
 comment|how|o
 par|by, through|o
@@ -125,7 +125,7 @@ prendre|to take; to have (food, drink)|v;v
 jamais|never; ever|o;o
 été|been; summer|o;o
 aussi|also, too|o
-même|same; even|o;o
+même|same; even; quand même: all the same, anyway|o;o;n
 vraiment|really|o
 sa|his, her (f.)|o
 oh|oh|o
@@ -156,7 +156,7 @@ accord|agreement; d'accord: OK|o;n
 personne|person; (with ne) nobody|o;o
 faut|it is necessary, one must|f3s
 dois|I/you must|f1s
-trouver|to find; to think, to consider (that)|v;v
+trouver|to find; to think, to consider (that); se trouver: to be (somewhere), to be located|v;v;n
 regarder|to look at, to watch|v
 peut-être|maybe, perhaps|o
 seul|alone; only|o;o
@@ -210,14 +210,14 @@ chercher|to look for; aller chercher: to fetch, to pick up|v;n
 enfant|child|o
 demander|to ask; se demander: to wonder|v;n
 gens|people|o
-passé|past; spent, passed|o;o
+passé|past; spent, passed; (se passer) happened, went (ça s'est bien passé)|o;o;o
 heure|hour; time (o'clock)|o;o
 maison|house, home|o
 rester|to stay, to remain|v
 ca|that, it|o
 voilà|there it is, here you go|o
 dernier|last|o
-tenir|to hold; to keep (a promise); tenir à: to care about|v;v;n
+tenir|to hold; to keep (a promise); tenir à: to care about; (tiens !, tenez !) here you are; well, well|v;v;n;o;o
 laisser|to leave (behind); to let|v;v
 problème|problem|o
 aucun|no, none, not any|o
@@ -228,11 +228,11 @@ soir|evening|o
 cela|that (full form of ça)|o
 premier|first|o
 nom|name|o
-passer|to pass; to spend (time); to stop by; se passer: to happen|v;v;v;n
+passer|to pass; to spend (time); to stop by; se passer: to happen; se passer de: to do without|v;v;v;n;n
 toute|all (f.)|o
 donner|to give|v
 raison|reason; avoir raison: to be right|o;n
-reste|rest, remainder; I stay; he/she stays|o;f1s;f3s
+reste|rest, remainder; I stay; he/she stays; (il reste) there is … left (il reste du pain)|o;f1s;f3s;o
 monsieur|sir, Mr; gentleman|o;o
 nuit|night|o
 salut|hi; bye|o;o
@@ -245,13 +245,13 @@ bonjour|hello, good morning|o
 trouvé|found|o
 moins|less; minus; au moins: at least|o;o;n
 maman|mum, mummy|o
-passe|I pass; he/she passes; I come by, I drop in; he/she comes by|f1s;f3s;f1s;f3s
+passe|I pass; he/she passes; I come by, I drop in; he/she comes by; se passer: to happen, to go on (qu'est-ce qui se passe ?)|f1s;f3s;f1s;f3s;n
 air|air; look, appearance; avoir l'air: to seem; tune|o;o;n;o
 revenir|to come back|v
 papa|dad, daddy|o
 entre|between; I come in; he/she comes in; come in!|o;f1s;f3s;o
 travailler|to work|v
-affaire|matter, business; deal|o;o
+affaire|matter, business; deal; (affaires) things, belongings; avoir affaire à: to deal with|o;o;o;n
 famille|family|o
 main|hand|o
 peur|fear|o
@@ -272,21 +272,21 @@ trois|three|o
 assez|enough; quite|o;o
 eh|eh, well|o
 chance|luck; chance|o;o
-coup|blow, hit; go, try; tout à coup: suddenly|o;o;n
+coup|blow, hit; go, try; tout à coup: suddenly; d'un coup: all at once; valoir le coup: to be worth it; tenir le coup: to hold up, to cope; coup de feu: gunshot|o;o;n;n;n;n;n
 porte|door; I carry, I wear; he/she carries, wears|o;f1s;f3s
-fou|crazy, mad; madman|o;o
+fou|crazy, mad; madman; (je m'en fous, from foutre) I don't care|o;o;f1s
 minute|minute|o
 pris|taken|o
 manger|to eat|v
 meilleur|better, best (adj)|o
-rendre|to give back; to make (+ adj); se rendre compte: to realise|v;v;n
+rendre|to give back; to make (+ adj); se rendre compte: to realise; se rendre à: to go to|v;v;n;n
 rentrer|to go home; to come back in|v;v
 vite|quickly, fast|o
 mourir|to die|v
 merde|shit|o
 entendre|to hear|v
 vieux|old|o
-part|share, portion; he/she leaves; de la part de: on behalf of|o;f3s;n
+part|share, portion; he/she leaves; de la part de: on behalf of; quelque part: somewhere; nulle part: nowhere; à part: apart from, except|o;f3s;n;n;n;n
 hé|hey|o
 pendant|during; while|o;o
 elles|they (f.)|f3p
@@ -302,7 +302,7 @@ année|year (as a span)|o
 tant|so much, so many; tant pis: too bad|o;n
 combien|how much, how many|o
 jouer|to play|v
-sens|sense, meaning; I/you feel|o;f1s
+sens|sense, meaning; I/you feel; direction (dans tous les sens, à sens unique = one-way)|o;f1s;o
 souvenir|memory; se souvenir: to remember|o;n
 chéri|darling, dear|o
 frère|brother|o
@@ -330,19 +330,19 @@ tué|killed|o
 partie|part of a whole; round, match; left, gone (f.)|o;o;o
 mauvais|bad|o
 genre|kind, sort|o
-aide|help; I help; he/she helps|o;f1s;f3s
+aide|help; I help; he/she helps; à l'aide de: with the help of, using|o;f1s;f3s;n
 type|bloke, guy; sort|o;o
 police|police|o
 seulement|only, solely|o
 ouvrir|to open|v
 bébé|baby|o
 car|for, because (joining clauses); coach|o;o
-point|point; dot; sur le point de: about to|o;o;n
+point|point; dot; sur le point de: about to; faire le point: to take stock|o;o;n;n
 ville|town, city|o
 mois|month|o
 oublier|to forget|v
 jeune|young|o
-place|space, room; square|o;o
+place|space, room; square; à la place de: instead of; sur place: on the spot, there; en place: in place|o;o;n;n;n
 eux|them|o
 côté|side; à côté de: next to|o;n
 endroit|spot, location|o
@@ -351,7 +351,7 @@ laisse|leave it!; I leave; he/she leaves|o;f1s;f3s
 chaque|each, every|o
 sembler|to seem|v
 putain|damn, fuck; whore|o;o
-retrouver|to find again; to meet up with|v;v
+retrouver|to find again; to meet up with; se retrouver: to end up, to find oneself|v;v;n
 perdre|to lose|v
 parlé|spoken|o
 avez-vous|do you have (pl., formal)|f2s2p
@@ -360,9 +360,9 @@ beau|beautiful, handsome|o
 façon|way; de toute façon: anyway|o;n
 dormir|to sleep|v
 plein|full; plein de: lots of|o;n
-compte|account; I count; he/she counts|o;f1s;f3s
+compte|account; I count; he/she counts; se rendre compte: to realise; tenir compte de: to take into account|o;f1s;f3s;n;n
 compris|understood; including|o;o
-droit|right (entitlement); straight|o;o
+droit|right (entitlement); straight; law (the subject: faire du droit)|o;o;o
 arme|weapon|o
 belle|beautiful (f.)|o
 ni|nor, neither|o
@@ -494,7 +494,7 @@ lieu|place, venue; avoir lieu: to take place; au lieu de: instead of|o;n;n
 valoir|to be worth|v
 rêve|dream; I dream; he/she dreams|o;f1s;f3s
 pied|foot; à pied: on foot|o;n
-haut|high; top; en haut: upstairs, up there|o;o;n
+haut|high; top; en haut: upstairs, up there; à voix haute: aloud|o;o;n;n
 suffire|to be enough|v
 lequel|which one|o
 pays|country|o
@@ -502,7 +502,7 @@ expliquer|to explain|v
 suivre|to follow; to take (a course), to attend|v;v
 certains|some, certain ones|o
 ressembler|to look like, to resemble|v
-cours|lesson, course; I/you run; au cours de: during|o;f1s;n
+cours|lesson, course; I/you run; au cours de: during; en cours: under way, in progress; en cours de: in the process of|o;f1s;n;n;n
 instant|instant, split second|o
 tour|turn (nm); tower (nf)|o;o
 retourner|to go back, to return|v
@@ -533,7 +533,7 @@ apporter|to bring (a thing)|v
 préparer|to prepare|v
 quatre|four|o
 route|road|o
-faute|fault, blame; mistake|o;o
+faute|fault, blame; mistake; faute de: for lack of|o;o;n
 pire|worse, worst|o
 choix|choice|o
 pièce|room; coin; piece; play|o;o;o;o
@@ -594,7 +594,7 @@ client|customer, client|o
 hôpital|hospital|o
 écrit|written|o
 tôt|early|o
-courant|current; au courant: aware; common, everyday|o;n;o
+courant|current; au courant: aware; common, everyday; en courant: running|o;n;o;n
 dès|from, as of; dès que: as soon as|o;n
 visage|face (of a person)|o
 nul|useless, rubbish; no, not any|o;o
@@ -659,7 +659,7 @@ réveiller|to wake (someone) up|v
 plait|s'il vous plaît: please|n
 pareil|the same, alike|o
 médecin|doctor, physician|o
-sort|fate, spell; he/she goes out|o;f3s
+sort|fate, spell; he/she goes out; he/she takes out, brings out|o;f3s;f3s
 monter|to go up, to climb; to get on, to get in (a vehicle)|v;v
 bois|wood; I/you drink|o;f1s
 sinon|or else; if not|o;o
@@ -769,7 +769,7 @@ sympa|nice, friendly|o
 craindre|to fear|v
 arranger|to arrange; to sort out|v;v
 recevoir|to receive|v
-reprendre|to take back; to resume|v;v
+reprendre|to take back; to resume; à plusieurs reprises: several times, repeatedly|v;v;n
 sœur|sister|o
 inspecteur|inspector|o
 éviter|to avoid|v
@@ -791,7 +791,7 @@ impression|impression|o
 chanson|song|o
 mener|to lead|v
 arrêté|stopped; arrested|o;o
-présenter|to introduce; to present|v;v
+présenter|to introduce; to present; se présenter: to introduce oneself; to turn up, to report (to)|v;v;n;v
 journal|newspaper; diary|o;o
 témoin|witness|o
 okay|okay, all right|o
@@ -865,7 +865,7 @@ juge|judge; I judge; he/she judges|o;f1s;f3s
 drogue|drug|o
 signifier|to mean|v
 intéressant|interesting|o
-montre|watch; I show; he/she shows|o;f1s;f3s
+montre|watch; I show; he/she shows; show! (montrer)|o;f1s;f3s;o
 soleil|sun|o
 touche|key (on a keyboard); I touch; he/she touches|o;f1s;f3s
 mur|wall|o

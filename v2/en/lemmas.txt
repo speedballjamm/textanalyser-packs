@@ -52,7 +52,6 @@ thank>thanked,thanking,thanks
 give>gave,gives,giving
 mean>meaner,meanest,means,meant
 way>ways
-little>least,littlest
 much>most
 because>'cause
 talk>talked,talking,talks
@@ -62,6 +61,7 @@ call>called,calls
 people>peoples
 guy>guys
 day>days
+little>littlest
 please>pleased,pleases,pleasing
 sorry>sorrier
 work>worked,works,wrought
@@ -89,7 +89,6 @@ leave>leaves,leaving
 nothing>nothings
 sir>sirs
 put>puts,putting
-use>used,uses,using
 great>greater,greatest,greats
 long>longed,longer,longest,longs
 thought>thoughts
@@ -115,7 +114,6 @@ lot>lots
 play>played,playing,plays
 kid>kidding,kids
 believe>believed,believes,believing
-wrong>worse,wronged,wrongs
 bring>bringing,brings,brought
 father>fathered,fathers
 move>moved,moves,moving
@@ -124,7 +122,6 @@ show>showed,shown,shows
 listen>listened,listening,listens
 die>died,dies,dying
 miss>missed,misses,missing
-late>later,latest
 nice>nicer,nicest
 fine>fined,finer,fines,finest
 kind>kinder,kindest,kinds
@@ -144,12 +141,14 @@ world>worlds
 own>owned,owning,owns
 care>cared,cares,caring
 may>mays
+wrong>wronged,wrongs
 three>threes
 car>cars
 minute>minutes
 turn>turned,turns
 son>sons
 found>founded,founding
+use>uses,using
 run>ran,runs
 live>lived
 mind>minded,minding,minds
@@ -237,6 +236,7 @@ deal>dealing,deals,dealt
 hit>hits,hitting
 fire>fired,fires
 hurt>hurting,hurts
+late>latest
 water>watered,watering,waters
 month>months
 stuff>stuffed,stuffing,stuffs
@@ -4694,8 +4694,6 @@ scalp>scalped,scalping,scalps
 sculpt>sculpted,sculpting
 composition>compositions
 testicle>testicles
-cleanse>cleansed
-sedative>sedatives
 monetary>monetarier,monetariest
 inflation>inflations
 deficit>deficits
@@ -9026,3 +9024,6 @@ luncheon>luncheons
 mandible>mandibles
 passageway>passageways
 stuffy>stuffier,stuffiest
+cleanse>cleansed,cleanses
+sedative>sedatives
+spelling>spellings

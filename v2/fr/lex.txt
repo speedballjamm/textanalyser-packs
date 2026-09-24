@@ -528,7 +528,7 @@ apporter|||
 préparer|||
 quatre|||num
 route|||nf
-faute|||nf;nf
+faute|||nf;nf;prep
 pire|||
 choix|||nm
 pièce|||nf
@@ -589,7 +589,7 @@ client|||nm
 hôpital|||nm
 écrit||écrire|
 tôt|||
-courant|||nm;adj;adj
+courant|||nm;adj;adj;v
 dès|||
 visage|||nm
 nul|||

@@ -28,7 +28,7 @@ ada|there is, there are; to be there, be present; to exist|o;v;v
 tidak|no, not|o
 bukan|not, is not (of nouns); isn't it?, right? (tag question)|o;o
 bukankan|isn't it?, didn't you? (= bukankah)|o
-ya|yes; right?, OK? (tag at the end of a sentence)|o;o
+ya|yes; right?, OK? (tag at the end of a sentence); ya sudah / ya udah: oh well, fine then|o;o;n
 iya|yes (colloq.)|o
 mengiyakan|to say yes to, to agree to|v
 saya|I, me (formal)|f1s
@@ -93,7 +93,7 @@ detik|second (of time)|o
 waktu|time; when (at the time that)|o;o
 saat|moment; when|o;o
 sekarang|now|o
-nanti|later; or else, otherwise (warning: nanti kau jatuh = you'll fall)|o;o
+nanti|later; or else, otherwise (warning: nanti kau jatuh = you'll fall); to wait for, to await (menanti; dinanti = awaited)|o;o;v
 tadi|just now, earlier|o
 besok|tomorrow|o
 kemarin|yesterday|o
@@ -132,7 +132,7 @@ mengerti|to understand|v
 arti|meaning|o
 juga|also, too; quite, rather (after an adjective: lumayan juga)|o;o
 hanya|only|o
-saja|just, only; (after a question word) -ever, any at all|o;o
+saja|just, only; (after a question word) -ever, any at all; tentu saja: of course|o;o;n
 sangat|very|o
 sekali|very; once|o;o
 sekali-sekali|occasionally, once in a while|o
@@ -318,7 +318,7 @@ benar|true, correct; really, truly (after an adjective: cantik benar)|o;o
 benar-benar|really, truly, genuinely|o
 betul|correct, right|o
 betul-betul|really, truly|o
-salah|wrong; mistake|o;o
+salah|wrong; mistake; salah satu / salah seorang: one of|o;o;n
 besar|big, large|o
 kecil|small|o
 panjang|long|o
@@ -579,7 +579,7 @@ cuci|to wash|v
 masak|to cook|v
 goreng|fried; to fry|o;v
 rebus|boiled; to boil|o;v
-bakar|to burn; grilled|v;o
+bakar|to burn; grilled; bahan bakar: fuel; luka bakar: a burn (injury)|v;o;n;n
 potong|to cut|v
 belah|to split; side|v;o
 iris|to slice|v
@@ -725,7 +725,7 @@ diam|silent; to stay still|o;v
 diam-diam|secretly, quietly|o
 tinggal|to stay, live; to leave behind; to be left, remain (only)|v;v;v
 berangkat|to depart|v
-lewat|through, via; to pass by|o;v
+lewat|through, via; to pass by; past (telling the time: jam tujuh lewat lima = five past seven)|o;v;o
 ikut|to follow, to join|v
 antar|to escort, deliver|v
 jemput|to pick up|v
@@ -740,7 +740,7 @@ tanding|to compete; match|v;o
 latih|to train (latihan: exercise)|v
 didik|to educate|v
 uji|to test (ujian: exam)|v
-nilai|value; grade, score|o;o
+nilai|value; grade, score; to assess, to judge, to regard as (menilai; dinilai = judged, considered)|o;o;v
 tingkat|level, degree|o
 jaga|to guard, watch over|v
 jaga-jaga|to take precautions, be on guard; untuk jaga-jaga: just in case|v;n
@@ -1564,7 +1564,7 @@ silahkan|please, go ahead|o
 okay|okay|o
 segalanya|everything|o
 bertahan|survive, endure, hold out|o
-putri|daughter; princess|o;o
+putri|daughter; princess; women's (in sport: tim putri)|o;o;o
 omong|talk, chat (informal)|o
 omong-omong|by the way (informal)|o
 semoga|hopefully|o
@@ -1678,7 +1678,7 @@ sisa|remainder, leftover|o
 klub|club|o
 natal|Christmas|o
 jepang|Japan|o
-putra|son; prince|o;o
+putra|son; prince; men's (in sport: tim putra)|o;o;o
 kencan|date, dating|o
 timur|east|o
 barat|west|o
@@ -12816,3 +12816,5 @@ pokoknya|the main thing is, basically, anyway (colloq.)|o
 makanya|that's why, so (colloq.)|o
 sekalipun|even if, even though; even|o;o
 soalnya|the thing is, because (colloq.)|o
+benah|to put in order, to fix, to reform (membenahi); to tidy up, to sort oneself out (berbenah)|v;v
+penentuan|determination, setting (of a price, a date); deciding (laga penentuan = the deciding match)|o;o

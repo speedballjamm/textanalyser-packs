@@ -111,7 +111,7 @@ some|一些, 有些|o
 hey|嘿 (打招呼; 引起注意)|o
 give|给|v
 could|能, 会 (过去); 可以吗 (礼貌请求)|o;o
-'d|会, 想 (I'd like); (完成时的 had: I'd gone)|o;g
+'d|会, 想 (I'd like); (完成时的 had: I'd gone); (did: where'd you go = 你去哪儿了)|o;g;g
 didn|(did not, 用于 didn't)|g
 mean|意思是, 表示; 刻薄的, 不友善的; 打算, 意图; 方法, 手段; by means of: 通过, 借助|v;o;v;o;n
 way|方式, 方法; 路, 道路; 距离, 路程 (a long way 很远)|o;o;o
@@ -130,7 +130,7 @@ never|从不, 决不|o
 call|打电话; 叫, 称呼 (名字); 电话, 通话|v;v;o
 people|人, 人们; 民族, 国民|o;o
 only|只, 仅仅; 唯一的 (an only child 独生子女)|o;o
-over|在…上方; 结束, 完了|o;o
+over|在…上方; 结束, 完了; 越过，到另一边; 在…期间 (over the weekend: 周末期间); 关于，为了 (a fight over money: 为钱争吵); over here / over there: 在这边，在那边|o;o;o;o;o;n
 guy|家伙, 男人; (guys) 各位, 大家 (不分男女)|o;o
 day|天, 一日 (24 小时); 白天, 白昼|o;o
 please|请 (礼貌请求)|o
@@ -214,10 +214,10 @@ isn|(用于 isn't) 不是|f3s
 listen|听|v
 die|死, 死亡|v
 which|哪一个|o
-miss|想念 (感到失去); 错过, 没打中; 小姐 (尊称)|v;v;o
+miss|想念 (感到失去); 错过, 没打中; 小姐 (尊称); (missing) 失踪的，丢失的，缺少的|v;v;o;o
 late|晚的, 迟的; 晚期的, 将近末尾 (late at night 深夜); 已故的 (the late king 已故国王)|o;o;o
 nice|好的, 令人愉快的|o
-kind|种类, 类型; 善良的, 亲切的|o;o
+kind|种类, 类型; 善良的, 亲切的; (kind of) 有点儿，有几分|o;o;o
 house|房子|o
 understand|理解, 明白|v
 someone|某人|o
@@ -279,7 +279,7 @@ alive|活着的|o
 lead|带领, 领先; 第一名, 领先地位; 铅|v;o;o
 drive|开车, 驾驶; 迫使 (陷入某种状态); 干劲, 动力|v;v;o
 boss|老板, 上司|o
-living|活着的; 生计|o;o
+living|活着的; 生计; (live 的现在分词) 住，生活 (living in London: 住在伦敦); living room: 客厅|o;o;o;n
 control|控制权; 控制, 操纵|o;v
 blow|吹; blow up: 爆炸; 重击|v;n;o
 parent|父亲或母亲, 家长|o
@@ -302,7 +302,7 @@ gentleman|先生, 绅士 (对男子的礼貌称呼)|o
 perfect|完美的, 恰好的|o
 beat|打, 敲打; 打败; 节拍|v;v;o
 continue|继续|v
-step|脚步; 步骤; 踏, 迈步|o;o;v
+step|脚步; 步骤; 踏, 迈步; 台阶 (the front steps: 门前台阶)|o;o;v;o
 anybody|任何人|o
 bitch|(冒犯语) 泼妇, 贱人; 母狗; 抱怨|o;o;v
 ass|(粗俗) 屁股; 蠢货; 驴|o;o;o
@@ -406,7 +406,7 @@ fault|过错, 责任; 缺点, 毛病|o;o
 rule|规则; 统治|o;v
 dude|家伙, 哥们 (口语)|o
 offer|提供, 提议; 提议, 报价|v;o
-park|停车; 公园|v;o
+park|停车; 公园; car park: 停车场|v;o;n
 weren|(用于 weren't) were 的否定形式|o
 given|给 (give 的过去分词)|o
 realize|意识到, 明白|v
@@ -428,7 +428,7 @@ absolutely|完全地; (作回答) 当然|o;o
 ride|骑, 乘坐; 一程, 兜风|v;o
 drug|药; 毒品|o;o
 present|现在的, 当前的; 礼物; 展示, 介绍; 出席的|o;o;v;o
-smell|闻到; 气味|v;o
+smell|闻到; 气味; 发出气味，闻起来 (it smells good: 闻起来很香)|v;o;v
 building|建筑物|o
 yesterday|昨天|o
 box|盒子, 箱子; 拳击|o;v
@@ -460,7 +460,7 @@ general|总的, 笼统的; 将军|o;o
 chief|首领, 长官; 主要的|o;o
 dark|黑暗的; 深色的; 阴郁的|o;o;o
 strange|奇怪的, 陌生的; 不认识的|o;o
-station|车站; 局, 台 (警局, 电台)|o;o
+station|车站; 局, 台 (警局, 电台); gas station / petrol station: 加油站|o;o;n
 goodbye|(分别时说) 再见|g
 fear|恐惧, 害怕; 害怕, 担心|o;v
 near|靠近, 附近的|o
@@ -473,7 +473,7 @@ shop|商店; 购物|o;v
 bar|酒吧; 条, 棍 (金属); 阻拦|o;o;v
 happening|正在发生|o
 prove|证明|v
-study|学习, 研究; 书房|v;o
+study|学习, 研究; 书房; 研究，一项研究|v;o;o
 busy|忙的; 占用中的|o;o
 'am|(用于 ma'am) 女士|o
 crime|犯罪|o
@@ -491,7 +491,7 @@ search|搜寻, 搜查; 寻找|v;o
 eh|(征求同意或请对方重说) 嗯?|g
 accept|接受, 认可|v
 hotel|旅馆, 酒店|o
-deep|深的; 深奥的|o;o
+deep|深的; 深奥的; 深切的，强烈的 (deep love: 深爱)|o;o;o
 idiot|白痴, 蠢货|o
 short|短的, 矮的; 短暂的; shorts: 短裤|o;o;n
 jump|跳|v
@@ -526,7 +526,7 @@ certainly|当然, 无疑; (作回答) 好的, 没问题|o;o
 prepare|准备|v
 smart|聪明的; 整洁漂亮的|o;o
 christmas|圣诞节 (12月25日)|o
-raise|举起, 提高; 抚养; 加薪|v;v;o
+raise|举起, 提高; 抚养; 加薪; 提高 (价格，水平); 筹集 (资金); 提出 (问题，担忧)|v;v;o;v;v;v
 unless|除非|o
 seven|七, 7|o
 clothes|衣服|o
@@ -559,7 +559,7 @@ entire|全部的, 整个的|o
 space|空间, 空隙; 太空|o;o
 mention|提到, 提及|v
 gasp|(震惊时) 倒吸一口气|v
-track|小路, 轨道; 曲目; 追踪|o;o;v
+track|小路, 轨道; 曲目; 追踪; keep track of: 记录，掌握…的情况; 足迹，痕迹; 铁轨|o;o;v;n;o;o
 across|穿过, 横过|o
 patient|病人; 有耐心的|o;o
 marriage|婚姻; 婚礼|o;o
@@ -641,7 +641,7 @@ whether|是否|o
 pant|喘气; pants: 裤子 (美), 内裤 (英)|v;n
 support|支持, 帮助; 支撑|v;v
 public|公开的, 公共的; 公众|o;o
-base|底部, 基础; 基地|o;o
+base|底部, 基础; 基地; based in / based on: 总部在，基于|o;o;n
 angry|生气的|o
 file|档案, 文件夹; 归档; 锉刀|o;v;o
 bear|熊; 承受, 忍受|o;v
@@ -6383,7 +6383,7 @@ found|find 的过去式, 找到; 建立, 创办|o;v
 else|别的, 其他的|o
 next|下一个的, 接下来的; next to: 在…旁边|o;n
 run|跑; 经营 (生意)|v;v
-mind|头脑, 心思; 介意, 反对|o;v
+mind|头脑, 心思; 介意, 反对; 当心，注意 (mind the step: 小心台阶)|o;v;v
 yourself|你自己|o
 job|工作, 职业|o
 head|头; 朝…走去; 领导, 首领|o;v;o
@@ -6521,7 +6521,7 @@ inside|在里面|o
 set|放, 摆; 一套, 一组|v;o
 catch|接住, 抓住|v
 different|不同的|o
-high|高额的 (high prices 高价); 高的; 嗑药后兴奋的|o;o;o
+high|高额的 (high prices 高价); 高的; 嗑药后兴奋的; high school: 高中|o;o;o;n
 sister|姐妹|o
 daughter|女儿|o
 gun|枪|o
@@ -6562,7 +6562,7 @@ fall|掉下, 摔倒; 秋天|v;o
 war|战争|o
 between|在…之间|o
 murder|谋杀; 谋杀|o;v
-pass|经过, 递给; 通过 (考试)|v;v
+pass|经过, 递给; 通过 (考试); pass away: 去世，过世; (法案) 通过; 通行证，票|v;v;n;v;o
 city|城市|o
 truth|真相, 事实|o
 sell|卖|v
@@ -9420,7 +9420,7 @@ have|有; (构成完成时，如 I have seen); have to: 必须|v;g;n
 no|不 (拒绝、反对); 没有，无|o;o
 can|能，能够; (用于 can't) 不能; 罐头，罐子|o;o;o
 get|得到，获得; 变得; 到达; 明白，理解|v;v;v;v
-right|对，正确; 右 (方向); (感叹词) 好的; 权利|o;o;o;o
+right|对，正确; 右 (方向); (感叹词) 好的; 权利; right away: 马上，立刻; right now: 现在，此刻; (用在地点或时间前) 正，就 (right here: 就在这里)|o;o;o;o;n;n;o
 well|嗯…… (停顿); 好 (以好的方式); 健康，安好; as well: 也|o;o;o;n
 will|将 (表示将来); 意志 (决心); 遗嘱 (死后留下的文件)|o;o;o
 by|在……旁边 (旁边); 被，由 (被动); 在……之前 (不晚于); 通过，靠 (方式)|o;o;o;o
@@ -9445,7 +9445,7 @@ check|检查，核对; 查看 (看一看); 账单|v;v;o
 saying|说，讲; 谚语，俗话|o;o
 lie|说谎; 躺下; 谎言|v;v;o
 excuse|excuse me: 对不起，请问; 原谅; 借口|n;v;o
-point|要点，观点; 指; 意义，目的|o;v;o
+point|要点，观点; 指; 意义，目的; 时刻 (at that point: 在那时); 分，分数|o;v;o;o;o
 deal|交易，协议; 处理，应对; a great deal: 大量，很多|o;v;n
 hit|打，击; 成功之作，热门|v;o
 order|命令; 顺序，秩序; 订购，点 (购买、请求); in order to: 为了|o;o;v;n
@@ -9463,7 +9463,7 @@ cry|哭，哭泣; 喊，叫|v;v
 sort|种类，类型; 分类，整理; sort out: 解决，处理|o;v;n
 black|黑色的; 黑人的，非洲裔的|o;o
 grow|长大，增长; 种植; 逐渐变得; grow up: 长大成人|v;v;v;n
-hang|挂，悬挂; 绞死; hang out: 闲逛，消磨时间; hang on: 等一下|v;v;n;n
+hang|挂，悬挂; 绞死; hang out: 闲逛，消磨时间; hang on: 等一下; hang up: 挂电话; hang in there: 坚持住，别放弃|v;v;n;n;n;n
 white|白色的; 白人的，欧洲裔的|o;o
 secret|秘密的; 秘密|o;o
 cheer|欢呼; 鼓励，加油; cheer up: 振作起来|o;v;n
@@ -13345,3 +13345,7 @@ unforgiving|不宽容的;严酷的|o;o
 vehemence|激烈，猛烈|o
 verily|真正地，确实|o
 vibes|氛围，感觉(口语);颤音琴|o;o
+used|用了，被使用 (use 的过去式); used to: 过去常常，以前总是 (I used to smoke: 我以前抽烟); used to: 习惯于 (be used to, get used to); 二手的，用过的 (a used car)|o;n;n;o
+later|后来，以后，稍后; 更晚，晚于预定时间; see you later: 回头见|o;o;n
+least|最少，最小量 (the least I can do: 我至少能做的); at least: 至少，起码; at least: 至少，好歹|o;n;n
+worse|更坏，更差;  (病情)更重，更不舒服 (feeling worse)|o;o

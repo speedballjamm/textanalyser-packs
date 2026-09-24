@@ -59,7 +59,7 @@ they|they|f3p
 she|she|f3s
 come|to come|v
 if|if (on condition that); if, whether|o;o
-right|right, correct; right (the side); (interjection) okay; a right, an entitlement|o;o;o;o
+right|right, correct; right (the side); (interjection) okay; a right, an entitlement; right away: immediately, at once; right now: at this moment; (before a place or time) exactly, just (right here, right after)|o;o;o;o;n;n;o
 want|to want|v
 out|out, outside|o
 about|about, concerning; about, roughly; about to: on the point of|o;o;n
@@ -118,14 +118,13 @@ some|some|o
 hey|hey (greeting; getting attention)|o
 give|to give|v
 could|could, was able to; could (a polite request)|o;o
-'d|would (I'd like); (had: I'd gone)|o;g
+'d|would (I'd like); (had: I'd gone); (did: where'd you go)|o;g;g
 didn|(did not, in didn't)|g
 by|by (beside); by (done by); by (no later than); by (by means of)|o;o;o;o
 mean|to mean, to signify; mean, unkind; to mean, to intend; a means, a way of doing something; by means of: using|v;o;v;o;n
 way|way, manner; way, road; way, distance (a long way)|o;o;o
 something|something|o
 has|he/she/it has|f3s
-little|little, small; a little, a bit|o;o
 too|too, also; too (more than enough)|o;o
 much|much, a lot|o
 more|more, a greater amount or number; (makes comparatives: more beautiful)|o;g
@@ -138,9 +137,10 @@ never|never|o
 call|to call (by phone); to call (name); a call|v;v;o
 people|people, persons; a people, a nation|o;o
 only|only, just, no more than; only, single (an only child)|o;o
-over|over, above; over, finished|o;o
+over|over, above; over, finished; across (to the other side); during, throughout (over the weekend); about, concerning (a fight over money); over here / over there: in this place, in that place|o;o;o;o;o;n
 guy|guy, man; (guys) people, either sex|o;o
 day|day, a period of 24 hours; day, daytime, not night|o;o
+little|little, small; a little, a bit|o;o
 please|please (polite request)|o
 should|should, ought to|o
 said|past form of say|o
@@ -177,7 +177,6 @@ nothing|nothing|o
 sir|sir (polite address to a man)|o
 put|to put, to place|v
 their|their|o
-use|to use; use, purpose|v;o
 great|great, very good; great, large|o;o
 long|long, lasting a long time; long, of great length; to long for, to want very much|o;o;v
 uh|uh (hesitating)|o
@@ -216,7 +215,6 @@ lot|a lot: much, many; lot, plot of land; the lot: all of it|n;o;n
 play|to play; a play|v;o
 kid|kid, child; to joke|o;v
 believe|to believe|v
-wrong|wrong, incorrect; wrong, bad, immoral; wrong, not working properly (what's wrong)|o;o;o
 bring|to bring (here)|v
 father|father, male parent; Father, title of a priest|o;o
 ever|ever, at any time|o
@@ -227,11 +225,10 @@ isn|(in isn't) is not|f3s
 listen|to listen|v
 die|to die|v
 which|which|o
-miss|to miss (feel the absence of); to miss (fail to hit); Miss (title)|v;v;o
-late|late, after the expected time; late, near the end (late at night); late, dead (the late king)|o;o;o
+miss|to miss (feel the absence of); to miss (fail to hit); Miss (title); (missing) lost, absent, not to be found|v;v;o;o
 nice|nice, pleasant|o
 fine|fine, all right; fine, of good quality; a fine, a penalty|o;o;o
-kind|kind, type; kind, gentle|o;o
+kind|kind, type; kind, gentle; (kind of) rather, a bit, sort of|o;o;o
 house|house|o
 understand|to understand|v
 someone|someone|o
@@ -252,6 +249,7 @@ enough|enough|o
 own|own (belonging to oneself); to own|o;v
 care|to care; care, attention|v;o
 may|may (allowed to); may (possibly); May (the month)|o;o;o
+wrong|wrong, incorrect; wrong, bad, immoral; wrong, not working properly (what's wrong)|o;o;o
 bad|bad, not good, of poor quality; bad, wicked; bad, serious, severe (a bad cold)|o;o;o
 three|three|o
 might|might, possibly|o
@@ -265,9 +263,10 @@ son|son|o
 found|found, past of find; to found, to establish|o;v
 else|else, other, besides|o
 next|next, following, coming after; next to: beside|o;n
+use|to use; use, purpose|v;o
 run|to run; to run (a business)|v;v
 live|to live; live (happening now, not recorded)|v;o
-mind|mind; to mind, to object|o;v
+mind|mind; to mind, to object; to watch out for, to be careful of (mind the step)|o;v;v
 yourself|yourself|o
 job|job, work|o
 head|head, top part of the body; to head, to go towards; head, leader, chief|o;v;o
@@ -321,6 +320,7 @@ pretty|pretty, attractive; pretty, fairly|o;o
 wife|wife|o
 drink|to drink; a drink|v;o
 hour|hour|o
+used|used, past of use; used to: did regularly in the past (I used to smoke); used to: accustomed to (be used to, get used to); used, second-hand (a used car)|o;n;n;o
 word|word, unit of language; word, a promise (you have my word); word, news (any word from him?)|o;o;o
 eye|eye|o
 such|such|o
@@ -375,13 +375,15 @@ business|business; business, an affair|o;o
 part|part, piece of a whole; part, role in a play or film; to part, to separate|o;o;v
 true|true, correct, not false; true, real, genuine; true, loyal|o;o;o
 each|each|o
-point|point, an idea; to point; point, purpose|o;v;o
+point|point, an idea; to point; point, purpose; a moment in time (at that point); a point, a unit of score|o;v;o;o;o
 easy|easy, not difficult; easy, relaxed, calm; easy! carefully, gently|o;o;o
 deal|deal, an agreement; to deal with; a great deal: a lot|o;v;n
 hit|to hit; a hit, a success|v;o
+later|later, afterwards; later (than), after the expected time; see you later: goodbye for now|o;o;n
 fire|fire; to fire (dismiss); to fire (a gun)|o;v;v
 hurt|to hurt|v
 music|music|o
+late|late, after the expected time; late, near the end (late at night); late, dead (the late king)|o;o;o
 water|water, the clear liquid of rain and rivers; to water (plants)|o;v
 probably|probably|o
 month|month|o
@@ -424,7 +426,7 @@ inside|inside|o
 set|to set, to put; set, a group|v;o
 catch|to catch|v
 different|different|o
-high|high, great in amount (high prices); high, far up, tall; high, on drugs|o;o;o
+high|high, great in amount (high prices); high, far up, tall; high, on drugs; high school: secondary school|o;o;o;n
 dear|dear (loved); dear (in a letter); oh dear: expresses dismay|o;o;n
 sister|sister|o
 daughter|daughter|o
@@ -455,6 +457,7 @@ important|important|o
 line|line, long thin mark; line, a queue; line, row of words (a line of text); line, telephone connection; line, words an actor says|o;o;o;o;o
 trust|to trust; trust|v;o
 cut|to cut|v
+least|least, the smallest amount (the least I can do); at least: at the minimum, no fewer than; at least: anyway, if nothing else|o;n;n
 wear|to wear|v
 trouble|trouble, difficulty, problems; to trouble, to bother|o;v
 power|power, control, authority; power, strength; power, electricity (power cut)|o;o;o
@@ -470,7 +473,7 @@ supposed|supposed to: meant to, expected to; supposed, believed to be|n;o
 war|war|o
 between|between|o
 murder|murder; to murder|o;v
-pass|to pass; to pass (an exam)|v;v
+pass|to pass; to pass (an exam); pass away: to die; to be approved (a law, a bill); a pass, a ticket or permit|v;v;n;v;o
 city|city|o
 truth|truth|o
 sell|to sell|v
@@ -538,7 +541,7 @@ stick|to attach, to become fixed; thin piece of wood|v;o
 grow|to get bigger; to cultivate; to become gradually; grow up: to become an adult|v;v;v;n
 captain|officer in charge of a ship, team or unit|o
 chuckle|to laugh quietly|v
-hang|to fasten from above; to kill by rope; hang out: to spend time; hang on: to wait|v;v;n;n
+hang|to fasten from above; to kill by rope; hang out: to spend time; hang on: to wait; hang up: to end a phone call; hang in there: to keep going, not give up|v;v;n;n;n;n
 human|person; belonging to people|o;o
 em|(in 'em) them|o
 safe|out of danger; strongbox for valuables|o;o
@@ -548,7 +551,7 @@ alive|living, not dead|o
 lead|to guide, to go in front; first place; lead, a heavy grey metal|v;o;o
 drive|to operate a vehicle; to force into a state; urge, energy|v;v;o
 boss|person in charge at work|o
-living|alive; way of earning money|o;o
+living|alive; way of earning money; (living, of live) residing, making a life (living in London); living room: sitting room|o;o;o;n
 control|power over something; to direct, to keep in check|o;v
 blow|to move air; blow up: to explode; hard hit|v;n;o
 parent|mother or father|o
@@ -572,7 +575,7 @@ gentleman|polite word for a man|o
 perfect|without fault, exactly right|o
 beat|to hit repeatedly; to defeat; rhythm|v;v;o
 continue|to keep going, to carry on|v
-step|movement of the foot; stage in a process; to tread|o;o;v
+step|movement of the foot; stage in a process; to tread; a step, a stair (the front steps)|o;o;v;o
 anybody|any person|o
 secret|kept hidden from others; something kept hidden|o;o
 bitch|(offensive) spiteful woman; female dog; to complain|o;o;v
@@ -681,7 +684,7 @@ fault|responsibility for something wrong; flaw|o;o
 rule|instruction that must be followed; to govern|o;v
 dude|man, guy (informal)|o
 offer|to hold out or propose; proposal|v;o
-park|to leave a vehicle; public green space|v;o
+park|to leave a vehicle; public green space; car park: parking area|v;o;n
 weren|(in weren't) negative form of were|o
 given|given, past participle of give|o
 realize|to become aware of, to understand|v
@@ -704,7 +707,7 @@ absolutely|completely; (as an answer) certainly|o;o
 ride|to travel on a horse or in a vehicle; journey|v;o
 drug|medicine; illegal substance|o;o
 present|now, current; gift; to show or introduce; attending|o;o;v;o
-smell|to sense with the nose; odour|v;o
+smell|to sense with the nose; odour; to give off a smell (it smells good)|v;o;v
 building|structure with walls and a roof|o
 yesterday|the day before today|o
 box|container with straight sides; to fight with fists|o;v
@@ -738,7 +741,7 @@ general|affecting everyone, not detailed; senior army officer|o;o
 chief|leader; main, most important|o;o
 dark|without light; deep in colour; gloomy|o;o;o
 strange|unusual, unfamiliar; unknown|o;o
-station|stopping place for trains; base for police or broadcasting|o;o
+station|stopping place for trains; base for police or broadcasting; gas station / petrol station: filling station|o;o;n
 goodbye|(said when parting)|g
 fear|feeling caused by danger; to be afraid of|o;v
 near|close to, a short distance away|o
@@ -751,7 +754,7 @@ shop|place where goods are sold; to buy things|o;v
 bar|place selling drinks; long piece of metal; to block|o;o;v
 happening|taking place, going on|o
 prove|to show to be true|v
-study|to learn about; room for working|v;o
+study|to learn about; room for working; a study, a piece of research|v;o;o
 busy|having much to do; occupied|o;o
 'am|(in ma'am) madam|o
 crime|act against the law|o
@@ -762,6 +765,7 @@ service|help given to customers; religious ceremony; armed forces|o;o;o
 judge|official who decides legal cases; to form an opinion about|o;v
 thousand|1,000|o
 ground|surface of the earth; reason, basis|o;o
+worse|worse, more bad; worse, more ill (feeling worse)|o;o
 suppose|to think likely, to assume; supposed to: expected to, meant to|v;n
 blue|colour of a clear sky|o
 mile|unit of distance, 1.6 km|o
@@ -770,7 +774,7 @@ search|to look carefully for; hunt for something|v;o
 eh|(asking for agreement or repetition)|g
 accept|to agree to take or believe|v
 hotel|building where travellers pay to sleep|o
-deep|going a long way down; hard to understand|o;o
+deep|going a long way down; hard to understand; deep, intense, strongly felt (deep love, deep trouble)|o;o;o
 idiot|fool, someone who acts without sense|o
 short|small in length or height; lasting little time; shorts: short trousers|o;o;n
 jump|to push yourself off the ground|v
@@ -807,7 +811,7 @@ prepare|to get ready|v
 smart|clever; neat in appearance|o;o
 consider|to think carefully about; to regard as|v;v
 christmas|Christian festival on 25 December|o
-raise|to lift up; to bring up a child; increase in pay|v;v;o
+raise|to lift up; to bring up a child; increase in pay; to raise, to increase (prices, a level); to raise, to collect (money); to raise, to bring up (a question, a concern)|v;v;o;v;v;v
 unless|except if|o
 seven|7|o
 clothes|things worn on the body|o
@@ -840,7 +844,7 @@ entire|whole, complete|o
 space|empty room, gap; area beyond the earth|o;o
 mention|to say briefly, to refer to|v
 gasp|to draw breath sharply in shock|v
-track|path or course; recorded song; to follow|o;o;v
+track|path or course; recorded song; to follow; keep track of: to follow, to keep a record of; tracks, marks left on the ground; railway line, rails|o;o;v;n;o;o
 across|from one side to the other of|o
 patient|person receiving medical treatment; able to wait calmly|o;o
 marriage|state of being husband and wife; wedding|o;o
@@ -922,7 +926,7 @@ whether|if, in either case|o
 pant|to breathe hard and fast; pants: trousers (US), underpants (UK)|v;n
 support|to help, to back; to hold up|v;v
 public|open to everyone; the people generally|o;o
-base|bottom part, foundation; military camp|o;o
+base|bottom part, foundation; military camp; based in / based on: located in, founded on|o;o;n
 angry|feeling strong displeasure|o
 file|folder of papers or data; to put away in order; tool for smoothing|o;v;o
 bear|large heavy wild animal; to carry, to endure|o;v
@@ -6618,9 +6622,6 @@ composition|way parts are put together; piece of music or writing|o;o
 cruelty|being cruel; cruel act|o;o
 external|on or from the outside|o
 testicle|either of the two sex glands of a man|o
-cleanse|to make thoroughly clean or pure|v
-sedative|drug that calms and brings sleep|o
-spelling|way a word is written in letters|o
 monetary|relating to money and its supply, especially by a central bank|o
 fiscal|relating to government taxes and spending|o
 eurozone|the group of countries that use the euro|o
@@ -13288,6 +13289,9 @@ unforgiving|not forgiving; harsh|o;o
 vehemence|forcefulness|o
 verily|truly|o
 vibes|atmosphere, feeling (colloq.); vibraphone|o;o
+cleanse|to make thoroughly clean or pure|v
+sedative|drug that calms and brings sleep|o
+spelling|way a word is written in letters|o
 don't|do not|f3s
 doesn't|does not|f3s
 didn't|did not|f3s

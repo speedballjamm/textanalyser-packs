@@ -112,7 +112,7 @@ some|quelques, du, de la|o
 hey|hé (salut; pour attirer l'attention)|o
 give|donner|v
 could|pouvait, a pu; pourriez (demande polie)|o;o
-'d|(marque le conditionnel: I'd like); (avait: I'd gone)|o;g
+'d|(marque le conditionnel: I'd like); (avait: I'd gone); (did : where'd you go = où es-tu allé ?)|o;g;g
 didn|(did not, dans didn't)|g
 mean|vouloir dire, signifier; méchant, pas gentil; avoir l'intention de; moyen, manière de faire; by means of: au moyen de|v;o;v;o;n
 way|manière, façon; chemin, route; distance, trajet (un long chemin)|o;o;o
@@ -131,7 +131,7 @@ never|jamais|o
 call|appeler (au téléphone); appeler (nommer); appel|v;v;o
 people|gens, personnes; peuple, nation|o;o
 only|seulement, juste, ne... que; seul, unique (un enfant unique)|o;o
-over|au-dessus de; fini, terminé|o;o
+over|au-dessus de; fini, terminé; de l'autre côté, par-dessus; pendant (over the weekend : pendant le week-end); à propos de, pour (a fight over money : une dispute pour de l'argent); over here / over there: ici, là-bas|o;o;o;o;o;n
 guy|type, gars; (guys) les gens, l'un ou l'autre sexe|o;o
 day|jour, période de 24 heures; jour, journée (par opposition à la nuit)|o;o
 please|s'il vous plaît (demande polie)|o
@@ -215,10 +215,10 @@ isn|(dans isn't) n'est pas|f3s
 listen|écouter|v
 die|mourir|v
 which|lequel, quel|o
-miss|manquer à (ressentir l'absence); rater (ne pas atteindre); Mademoiselle (titre)|v;v;o
+miss|manquer à (ressentir l'absence); rater (ne pas atteindre); Mademoiselle (titre); (missing) perdu, disparu, manquant|v;v;o;o
 late|en retard, tard; tard (tard le soir); défunt, feu (le défunt roi)|o;o;o
 nice|sympa, agréable|o
-kind|sorte, genre; gentil, doux|o;o
+kind|sorte, genre; gentil, doux; (kind of) plutôt, un peu, en quelque sorte|o;o;o
 house|maison|o
 understand|comprendre|v
 someone|quelqu'un|o
@@ -251,7 +251,7 @@ found|trouvé, forme passée de find; fonder, établir|o;v
 else|d'autre, en plus|o
 next|prochain, suivant; next to: à côté de|o;n
 run|courir; diriger (une entreprise)|v;v
-mind|esprit; voir un inconvénient, être gêné|o;v
+mind|esprit; voir un inconvénient, être gêné; faire attention à (mind the step : attention à la marche)|o;v;v
 yourself|toi-même, vous-même|o
 job|emploi, travail|o
 head|tête; se diriger vers; chef, dirigeant|o;v;o
@@ -389,7 +389,7 @@ inside|à l'intérieur, dedans|o
 set|poser, mettre; ensemble, jeu|v;o
 catch|attraper|v
 different|différent|o
-high|élevé (des prix élevés); haut, élevé; défoncé, drogué|o;o;o
+high|élevé (des prix élevés); haut, élevé; défoncé, drogué; high school: lycée|o;o;o;n
 sister|soeur|o
 daughter|fille|o
 gun|arme à feu, pistolet|o
@@ -430,7 +430,7 @@ fall|tomber; automne|v;o
 war|guerre|o
 between|entre|o
 murder|meurtre; assassiner|o;v
-pass|passer; réussir (un examen)|v;v
+pass|passer; réussir (un examen); pass away: décéder, mourir; être adopté (une loi); un laissez-passer, un titre de transport|v;v;n;v;o
 city|ville|o
 truth|vérité|o
 sell|vendre|v
@@ -501,7 +501,7 @@ alive|vivant, en vie|o
 lead|mener, guider; tête, première place; plomb|v;o;o
 drive|conduire; pousser, réduire à; élan, énergie|v;v;o
 boss|patron, chef|o
-living|vivant; gagne-pain, moyens de vivre|o;o
+living|vivant; gagne-pain, moyens de vivre; (de live) vivant, habitant (living in London : qui vit à Londres); living room: salon, séjour|o;o;o;n
 control|contrôle, pouvoir sur; contrôler, maîtriser|o;v
 blow|souffler; blow up: exploser; coup|v;n;o
 parent|parent, père ou mère|o
@@ -524,7 +524,7 @@ gentleman|monsieur, homme bien élevé|o
 perfect|parfait|o
 beat|frapper, battre; battre, vaincre; rythme|v;v;o
 continue|continuer, poursuivre|v
-step|pas; étape; marcher, poser le pied|o;o;v
+step|pas; étape; marcher, poser le pied; une marche (the front steps : le perron)|o;o;v;o
 anybody|n'importe qui|o
 bitch|(injurieux) garce, salope; chienne; râler, se plaindre|o;o;v
 ass|(vulgaire) cul; imbécile; âne|o;o;o
@@ -628,7 +628,7 @@ fault|faute, responsabilité; défaut|o;o
 rule|règle; gouverner, régner|o;v
 dude|mec, type (familier)|o
 offer|offrir, proposer; offre, proposition|v;o
-park|se garer, stationner; parc|v;o
+park|se garer, stationner; parc; car park: parking|v;o;n
 weren|(dans weren't) forme négative de were|o
 given|donné, participe passé de give|o
 realize|se rendre compte de, réaliser|v
@@ -650,7 +650,7 @@ absolutely|absolument, tout à fait; (en réponse) certainement|o;o
 ride|monter, rouler; trajet, tour|v;o
 drug|médicament; drogue|o;o
 present|actuel, présent; cadeau; présenter, montrer; présent, là|o;o;v;o
-smell|sentir, humer; odeur|v;o
+smell|sentir, humer; odeur; sentir (it smells good : ça sent bon)|v;o;v
 building|bâtiment, immeuble|o
 yesterday|hier|o
 box|boîte, carton; boxer|o;v
@@ -682,7 +682,7 @@ general|général, d'ensemble; général (officier)|o;o
 chief|chef; principal, premier|o;o
 dark|sombre, obscur; foncé; sombre, lugubre|o;o;o
 strange|étrange, bizarre; inconnu, étranger|o;o
-station|gare; poste, station|o;o
+station|gare; poste, station; gas station / petrol station: station-service|o;o;n
 goodbye|au revoir (en se quittant)|g
 fear|peur, crainte; craindre, avoir peur de|o;v
 near|près de, proche|o
@@ -695,7 +695,7 @@ shop|magasin, boutique; faire des courses|o;v
 bar|bar; barre (de métal); barrer, bloquer|o;o;v
 happening|qui se passe, en cours|o
 prove|prouver|v
-study|étudier; bureau, cabinet de travail|v;o
+study|étudier; bureau, cabinet de travail; une étude, une recherche|v;o;o
 busy|occupé, chargé; occupé, pris|o;o
 'am|(dans ma'am) madame|o
 crime|crime, délit|o
@@ -713,7 +713,7 @@ search|chercher, fouiller; recherche, fouille|v;o
 eh|hein (pour faire approuver ou répéter)|g
 accept|accepter|v
 hotel|hôtel|o
-deep|profond; profond, difficile à saisir|o;o
+deep|profond; profond, difficile à saisir; profond, intense (deep love : amour profond)|o;o;o
 idiot|idiot, imbécile|o
 short|court, petit; bref, de courte durée; shorts: short|o;o;n
 jump|sauter|v
@@ -748,7 +748,7 @@ certainly|certainement, sûrement; (en réponse) bien sûr|o;o
 prepare|préparer, se préparer|v
 smart|intelligent, malin; élégant, soigné|o;o
 christmas|Noël|o
-raise|lever, soulever; élever (un enfant); augmentation de salaire|v;v;o
+raise|lever, soulever; élever (un enfant); augmentation de salaire; augmenter (les prix, un niveau); collecter, lever (des fonds); soulever (une question, une inquiétude)|v;v;o;v;v;v
 unless|à moins que, sauf si|o
 seven|7|o
 clothes|vêtements|o
@@ -781,7 +781,7 @@ entire|entier, tout|o
 space|espace, place; espace (au-delà de la Terre)|o;o
 mention|mentionner, signaler|v
 gasp|avoir le souffle coupé, haleter|v
-track|piste, voie; morceau, plage; suivre, pister|o;o;v
+track|piste, voie; morceau, plage; suivre, pister; keep track of: suivre, tenir le compte de; traces, empreintes; voie ferrée, rails|o;o;v;n;o;o
 across|à travers, de l'autre côté de|o
 patient|patient, malade; patient, qui sait attendre|o;o
 marriage|mariage (union); mariage, noces|o;o
@@ -863,7 +863,7 @@ whether|si, que... ou non|o
 pant|haleter, souffler; pants: pantalon (US), slip, caleçon (UK)|v;n
 support|soutenir, appuyer; soutenir, supporter|v;v
 public|public, ouvert à tous; le public, les gens|o;o
-base|base, fondement; base militaire|o;o
+base|base, fondement; base militaire; based in / based on: basé à, fondé sur|o;o;n
 angry|en colère, fâché|o
 file|dossier, fichier; classer, ranger; lime|o;v;o
 bear|ours; porter, supporter|o;v
@@ -9420,7 +9420,7 @@ have|avoir; (forme le passé composé, ex. I have seen); have to: devoir|v;g;n
 no|non (refus, désaccord); aucun, pas de|o;o
 can|pouvoir, être capable de; (dans can't) ne pas pouvoir; une boîte de conserve, une canette|o;o;o
 get|obtenir, recevoir; devenir; arriver; comprendre|v;v;v;v
-right|juste, correct; droit (le côté); (interjection) d'accord; un droit|o;o;o;o
+right|juste, correct; droit (le côté); (interjection) d'accord; un droit; right away: tout de suite, immédiatement; right now: en ce moment, maintenant; (devant un lieu ou un moment) juste, exactement (right here : ici même)|o;o;o;o;n;n;o
 well|eh bien… (hésitation); bien (de bonne manière); en bonne santé, bien portant; as well: aussi|o;o;o;n
 will|(marque le futur); volonté (détermination); un testament (document laissé au décès)|o;o;o
 by|près de (à côté); par (fait par); d'ici, au plus tard; par (au moyen de)|o;o;o;o
@@ -9445,7 +9445,7 @@ check|vérifier; regarder, jeter un œil; l'addition|v;v;o
 saying|en disant; un dicton, un proverbe|o;o
 lie|mentir; s'allonger, être couché; un mensonge|v;v;o
 excuse|excuse me: pardon, excusez-moi; excuser; une excuse|n;v;o
-point|point, idée; montrer du doigt; intérêt, but|o;v;o
+point|point, idée; montrer du doigt; intérêt, but; un moment (at that point : à ce moment-là); un point (au score)|o;v;o;o;o
 deal|accord, marché; s'occuper de, traiter; a great deal: beaucoup|o;v;n
 hit|frapper; un succès, un tube|v;o
 order|ordre, commandement; ordre, disposition; commander (acheter, demander); in order to: afin de, pour|o;o;v;n
@@ -9463,7 +9463,7 @@ cry|pleurer; crier, appeler|v;v
 sort|sorte, type; trier, classer; sort out: régler, résoudre|o;v;n
 black|de la couleur la plus foncée; à la peau noire, d'origine africaine|o;o
 grow|grandir, grossir; cultiver; devenir peu à peu; grow up: devenir adulte|v;v;v;n
-hang|suspendre, accrocher; pendre (tuer par pendaison); hang out: passer du temps, traîner; hang on: attendre|v;v;n;n
+hang|suspendre, accrocher; pendre (tuer par pendaison); hang out: passer du temps, traîner; hang on: attendre; hang up: raccrocher; hang in there: tenir bon, ne pas lâcher|v;v;n;n;n;n
 white|de la couleur de la neige; à la peau blanche, d'origine européenne|o;o
 secret|caché aux autres; chose tenue cachée|o;o
 cheer|acclamation; encourager; cheer up: reprendre courage, se remonter le moral|o;v;n
@@ -13345,3 +13345,7 @@ unforgiving|rancunier, impitoyable; rude, sans pitié|o;o
 vehemence|véhémence|o
 verily|en vérité|o
 vibes|ambiance, feeling (fam.); vibraphone|o;o
+used|utilisé (passé de use); used to: avoir l'habitude de, faisait autrefois (I used to smoke : je fumais); used to: habitué à (be used to, get used to); d'occasion (a used car)|o;n;n;o
+later|plus tard, ensuite; plus tard (que), après l'heure prévue; see you later: à plus tard|o;o;n
+least|le moins, la plus petite quantité (the least I can do : le moins que je puisse faire); at least: au moins, au minimum; at least: du moins, en tout cas|o;n;n
+worse|pire, plus mauvais; plus mal (feeling worse : se sentir plus mal)|o;o

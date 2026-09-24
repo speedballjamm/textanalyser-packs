@@ -1,16 +1,16 @@
 {
   "id": "fr",
-  "version": "1.1.21",
+  "version": "1.1.22",
   "files": {
     "lex": {
       "path": "lex.txt",
       "license": "unencumbered",
-      "sha256": "3fd83224ef4a4933ff8796545609bc0bc42015d9f84054a4be6b791112d38d42"
+      "sha256": "48a377788084f1cee5f6fde5a01379e63a060cbaeca087fdb5807db12c2d2fc2"
     },
     "gloss.en": {
       "path": "gloss.en.txt",
       "license": "unencumbered",
-      "sha256": "1c815c64cbcb75f7fc50b1c006fc14ad893b73849dc94edb12073a9da81bc14b"
+      "sha256": "9acbff59db6e9bc73b52de0c12324cc2f8655fb585635f7b6aea900a3f709248"
     },
     "ranks": {
       "path": "ranks.txt",
