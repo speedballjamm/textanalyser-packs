@@ -26,7 +26,7 @@ una|sebuah, satu (feminin)|o
 los|(maskulin jamak) menandai benda yang sudah diketahui; mereka (objek)|o;o
 te|kamu (objek); dirimu sendiri|f2s2p;o
 con|dengan|o
-para|untuk (tujuan), supaya|o
+para|untuk (tujuan), supaya; dia berhenti; berhenti!|o;f3s;o
 ser|adalah, menjadi (jati diri, sifat)|v
 hacer|melakukan, membuat|v
 está|(keadaan, lokasi) dia berada, Anda berada (formal)|f3s
@@ -55,7 +55,7 @@ le|kepadanya, kepada Anda (formal)|o
 estar|berada, dalam keadaan (keadaan, lokasi)|v
 este|ini (maskulin)|o
 esto|ini (netral)|o
-ya|sudah, sekarang; tidak lagi (dengan kata negatif)|o;o
+ya|sudah, sekarang; tidak lagi (dengan kata negatif); oh begitu, iya; ya que: karena|o;o;f1s;n
 querer|mau, ingin; mencintai|v;v
 estoy|(keadaan, lokasi) saya berada|f1s
 ahora|sekarang|o
@@ -78,7 +78,7 @@ estás|(keadaan, lokasi) kamu berada|f2s2p
 sé|(suatu fakta) saya tahu|f1s
 nos|kami (objek); diri kami sendiri|o;o
 cómo|bagaimana?|o
-deber|harus, seharusnya; berutang|o;v
+deber|harus, seharusnya; berutang; pekerjaan rumah (deberes)|o;v;o
 mucho|banyak|o
 he|(pembentuk bentuk perfek) saya sudah|f1s
 hablar|berbicara, bertutur|v
@@ -94,7 +94,7 @@ sólo|hanya (ejaan lama dari solo)|o
 venir|datang|v
 solo|hanya; sendiri, seorang diri|o;o
 pensar|berpikir|v
-señor|tuan, pak (sapaan hormat untuk laki-laki); pria terhormat|o;o
+señor|tuan, pak (sapaan hormat untuk laki-laki); pria terhormat; nyonya, ibu (feminin)|o;o;o
 todos|semua orang, semua|o
 porque|karena|o
 dar|memberi|v
@@ -120,7 +120,7 @@ quién|siapa?|o
 alguno|beberapa, apa pun|o
 tiempo|waktu; cuaca|o;o
 volver|kembali, pulang; volverse: menjadi|v;n
-chico|anak laki-laki; kecil|o;o
+chico|anak laki-laki; kecil; gadis, anak perempuan (feminin)|o;o;o
 tan|begitu, sedemikian|o
 sus|-nya, milik mereka, milik kalian|o
 dos|dua|o
@@ -137,24 +137,24 @@ siento|saya merasa; maaf|f1s;f1s
 gustar|menyenangkan (me gusta = saya suka)|v
 encontrar|menemukan; encontrarse: bertemu, merasa|v;n
 noche|malam|o
-dejar|meninggalkan; membiarkan, mengizinkan|v;v
+dejar|meninggalkan; membiarkan, mengizinkan; dejar de: berhenti; menyerah, berhenti|v;v;n;v
 dios|Tuhan|o
-hace|dia melakukan, membuat; yang lalu|f3s;o
+hace|dia melakukan, membuat; yang lalu; hace falta: dibutuhkan; cuacanya (sedang)|f3s;o;n;f3s
 has|(pembentuk bentuk perfek) kamu sudah|f2s2p
 amigo|teman, kawan|o
 mismo|sama; sendiri (penegas), justru|o;o
 vida|hidup, kehidupan|o
 también|juga|o
 esperar|menunggu; berharap, mengira akan terjadi|v;v
-hijo|putra, anak lelaki; anak|o;o
-sobre|di atas, tentang; amplop|o;o
+hijo|putra, anak lelaki; anak; putri, anak perempuan (feminin)|o;o;o
+sobre|di atas, tentang; amplop; sobre todo: terutama; sekitar (waktu)|o;o;n;o
 sin|tanpa|o
 tenemos|kami punya|f1p
 están|(keadaan, lokasi) mereka berada, kalian berada|f3p
 ti|kamu (setelah kata depan)|f2s2p
 otro|lain, satu lagi|o
 puedes|kamu bisa|f2s2p
-llevar|membawa, mengantar; mengenakan|v;v
+llevar|membawa, mengantar; mengenakan; sudah (selama suatu waktu)|v;v;v
 llegar|tiba, sampai|v
 alguien|seseorang|o
 poco|sedikit|o
@@ -169,16 +169,16 @@ años|tahun (jamak)|o
 antes|sebelum, dahulu|o
 ni|dan tidak juga, bahkan tidak|o
 llamar|menelepon, memanggil; llamarse: bernama|v;n
-hecho|sudah dilakukan, dibuat; fakta, kenyataan|o;o
+hecho|sudah dilakukan, dibuat; fakta, kenyataan; dar por hecho: menganggap pasti|o;o;n
 mis|-ku (untuk benda jamak)|o
 nosotros|kami, kita|f1p
-seguro|yakin, pasti; aman|o;o
+seguro|yakin, pasti; aman; asuransi|o;o;o
 estamos|kami berada|f1p
 conocer|kenal (seseorang, tempat), bertemu|v
 ellos|mereka|f3p
 poner|meletakkan, menaruh; ponerse: memakai, menjadi|v;n
 otra|lain, satu lagi (feminin)|o
-acuerdo|kesepakatan; de acuerdo: setuju, oke|o;n
+acuerdo|kesepakatan; de acuerdo: setuju, oke; me acuerdo: saya ingat|o;n;n
 tomar|mengambil; minum|v;v
 gente|orang-orang (dianggap tunggal)|o
 parece|tampaknya; dia terlihat|f3s;f3s
@@ -186,8 +186,8 @@ sea|(bentuk subjungtif) adalah, menjadi|f3s
 dijo|dia berkata, Anda berkata (formal)|f3s
 nadie|tidak ada seorang pun|o
 debe|dia harus, dia seharusnya|f3s
-niño|anak, anak laki-laki|o
-pasa|itu terjadi; masuklah!|f3s;o
+niño|anak, anak laki-laki; anak perempuan (feminin)|o;o
+pasa|itu terjadi; masuklah!; dia lewat, berlalu; dia menghabiskan (waktu)|f3s;o;f3s;f3s
 tal|sedemikian, semacam itu|o
 entender|mengerti, memahami|v
 momento|saat, sesaat|o
@@ -202,9 +202,9 @@ claro|jelas; tentu saja|o;o
 primero|pertama|o
 lugar|tempat|o
 dinero|uang|o
-tipo|jenis, macam; cowok, pria|o;o
+tipo|jenis, macam; cowok, pria; suku (bunga), kurs|o;o;o
 les|kepada mereka, kepada kalian|o
-hermano|saudara laki-laki|o
+hermano|saudara laki-laki; saudara perempuan (feminin)|o;o
 estado|sudah berada (bentuk ketiga dari estar); keadaan, kondisi|o;o
 vivir|hidup, tinggal|v
 trabajar|bekerja|v
@@ -212,15 +212,15 @@ madre|ibu|o
 mañana|besok; pagi|o;o
 acabar|menyelesaikan, mengakhiri; acabar de: baru saja|v;n
 morir|mati, meninggal|v
-espera|tunggu!; dia menunggu|o;f3s
+espera|tunggu!; dia menunggu; penantian, menunggu; dia berharap, mengharapkan|o;f3s;o;f3s
 vale|oke, baiklah; itu bernilai|o;f3s
 sentir|merasa; menyesali; sentirse: merasa (dalam keadaan tertentu)|v;v;n
 persona|orang|o
 donde|tempat di mana (kata penghubung)|o
 cosa|benda, hal|o
-parte|bagian, jatah|o
+parte|bagian, jatah; dia berangkat, pergi|o;f3s
 allí|di sana|o
-menos|lebih sedikit, kurang; kecuali|o;o
+menos|lebih sedikit, kurang; kecuali; menos mal: syukurlah; echar de menos: merindukan|o;o;n;n
 gran|hebat, besar (sebelum kata benda)|o
 ninguno|tidak ada satu pun|o
 tanto|begitu banyak|o
@@ -245,12 +245,12 @@ conmigo|dengan saya|o
 conseguir|mendapat, memperoleh; berhasil|v;v
 último|terakhir, penghabisan|o
 suponer|mengira, menganggap|v
-mal|dengan buruk; buruk, jelek (sebelum kata benda)|o;o
+mal|dengan buruk; buruk, jelek (sebelum kata benda); menos mal: syukurlah|o;o;n
 intentar|mencoba, berusaha|v
 pequeño|kecil|o
 terminar|menyelesaikan, mengakhiri|v
 realmente|sungguh, sebenarnya|o
-cierto|pasti, benar; suatu (tanpa disebut namanya)|o;o
+cierto|pasti, benar; suatu (tanpa disebut namanya); por cierto: ngomong-ngomong|o;o;n
 razón|alasan; tener razón: benar, tidak keliru|o;n
 serio|serius, sungguh-sungguh|o
 idea|ide, gagasan|o
@@ -274,20 +274,20 @@ comer|makan|v
 malo|buruk, jelek|o
 cualquiera|apa pun, siapa pun|o
 eh|eh, hei|o
-cuenta|tagihan, rekening; darse cuenta: menyadari|o;n
+cuenta|tagihan, rekening; darse cuenta: menyadari; dia menghitung, menceritakan; ceritakan!, hitung!|o;n;f3s;o
 familia|keluarga|o
 dicho|sudah dikatakan, sudah diberitahukan|f3s
 cuánto|berapa banyak?|o
 cambiar|mengubah, berubah|v
 amor|cinta|o
 ayudar|menolong, membantu|v
-forma|cara; bentuk, wujud|o;o
+forma|cara; bentuk, wujud; dia membentuk; forma parte de: merupakan bagian dari; de todas formas: bagaimanapun|o;o;f3s;n;n
 junto|bersama; junto a: di sebelah|o;n
 recordar|ingat, mengingat; mengingatkan|v;v
 entre|antara, di antara|o
-pasado|masa lalu, yang lalu|o
+pasado|masa lalu, yang lalu; terjadi, berlalu|o;o
 ve|dia melihat; pergilah!|f3s;o
-tío|paman; cowok, bung (Spanyol)|o;o
+tío|paman; cowok, bung (Spanyol); bibi, tante (feminin)|o;o;o
 parecer|tampak, kelihatan seperti|v
 viejo|tua, lama|o
 muerto|sudah mati, tewas|o
@@ -296,7 +296,7 @@ ustedes|kalian|f2s2p
 grande|besar; hebat|o;o
 dormir|tidur; dormirse: tertidur|v;n
 preguntar|bertanya (mengajukan pertanyaan)|v
-caso|kasus, perkara; hacer caso: menghiraukan|o;n
+caso|kasus, perkara; hacer caso: menghiraukan; me caso: saya akan menikah|o;n;n
 todavía|masih, belum juga (kata sehari-hari; aún sedikit lebih formal)|o
 cabeza|kepala|o
 lado|sisi, samping|o
@@ -309,7 +309,7 @@ ah|ah|o
 puerta|pintu|o
 cariño|kasih sayang; sayang (panggilan untuk orang tercinta)|o;o
 rápido|dengan cepat; cepat|o;o
-pregunta|pertanyaan|o
+pregunta|pertanyaan; dia bertanya|o;f3s
 jugar|bermain (permainan)|v
 significar|berarti, bermakna|v
 genial|hebat, cemerlang|o
@@ -317,12 +317,12 @@ manera|cara, gaya|o
 olvidar|lupa, melupakan; olvidarse de: melupakan (soal sesuatu)|v;n
 cuál|yang mana?|o
 feliz|bahagia, senang|o
-camino|jalan, jalur|o
+camino|jalan, jalur; saya berjalan|o;f1s
 leer|membaca|v
 supuesto|yang dianggap; por supuesto: tentu saja|o;n
 pues|yah, kalau begitu; karena|o;o
 adiós|selamat tinggal, sampai jumpa|o
-ayuda|bantuan, pertolongan|o
+ayuda|bantuan, pertolongan; dia membantu|o;f3s
 ojo|mata|o
 contra|melawan, terhadap|o
 quizá|mungkin, barangkali|o
@@ -330,7 +330,7 @@ encantar|sangat menyenangkan (me encanta = saya suka sekali)|v
 durante|selama, sewaktu|o
 comprar|membeli|v
 ocurrir|terjadi|v
-llama|dia menelepon, memanggil; telepon!|f3s;o
+llama|dia menelepon, memanggil; telepon!; se llama: bernama; nyala api|f3s;o;n;o
 mes|bulan|o
 palabra|kata|o
 listo|siap; pandai|o;o
@@ -343,14 +343,14 @@ nueva|baru (feminin)|o
 ciudad|kota|o
 dentro|di dalam|o
 casi|hampir|o
-querido|tersayang, tercinta|o
+querido|tersayang, tercinta; diinginkan, dicintai|o;o
 pagar|membayar|v
 funcionar|berfungsi, bekerja dengan baik|v
 hacia|ke arah, menuju|o
-propio|sendiri (milik sendiri); yang sebenarnya, sepantasnya|o;o
+propio|sendiri (milik sendiri); yang sebenarnya, sepantasnya; sendiri (penegas)|o;o;o
 quizás|mungkin, barangkali (sama dengan quizá, dengan -s)|o
 año|tahun|o
-pronto|segera, tak lama lagi; dengan cepat|o;o
+pronto|segera, tak lama lagi; dengan cepat; awal, lebih awal; de pronto: tiba-tiba|o;o;o;n
 muerte|kematian|o
 corazón|hati, jantung|o
 suerte|nasib, keberuntungan|o
@@ -363,10 +363,10 @@ perro|anjing|o
 cara|wajah, muka|o
 segundo|detik, yang kedua|o
 hey|hei|o
-bajo|di bawah; rendah|o;o
+bajo|di bawah; rendah; saya turun, saya menurunkan|o;o;f1s
 realidad|kenyataan; en realidad: sebenarnya|o;n
 miedo|rasa takut; tener miedo: merasa takut|o;n
-deja|biarkan!, tinggalkan!; dia meninggalkan|o;f3s
+deja|biarkan!, tinggalkan!; dia meninggalkan; dia membiarkan, mengizinkan|o;f3s;f3s
 mantener|menjaga, memelihara|v
 justo|adil; tepat, persis|o;o
 equipo|tim, kelompok; perlengkapan|o;o
@@ -381,7 +381,7 @@ cuidado|kehati-hatian (¡cuidado!: awas!)|o
 cuerpo|tubuh, badan|o
 bastante|cukup; lumayan, agak|o;o
 adelante|ke depan, maju; ¡adelante!: masuklah!|o;n
-igual|sama, setara; bagaimanapun juga|o;o
+igual|sama, setara; bagaimanapun juga; mungkin; da igual: tidak masalah|o;o;o;n
 correr|berlari|v
 tierra|tanah, bumi|o
 cinco|lima|o
@@ -389,19 +389,19 @@ cerca|dekat; cerca de: dekat dengan|o;n
 escribir|menulis|v
 enviar|mengirim|v
 déjame|biarkan saya|o
-prueba|bukti; ujian, tes|o;o
+prueba|bukti; ujian, tes; dia mencoba, mencicipi; coba!, cicipi!; pengepasan (pakaian)|o;o;f3s;o;o
 número|angka, nomor|o
 joven|muda; anak muda|o;o
 caer|jatuh; caerse: terjatuh|v;n
-contar|menceritakan; menghitung|v;v
+contar|menceritakan; menghitung; contar con: memiliki, mengandalkan|v;v;n
 fiesta|pesta|o
 cuándo|kapan?|o
 auto|mobil (Amerika Latin)|o
-haya|(bentuk subjungtif) ada; sudah|o;f3s
+haya|(bentuk subjungtif) ada; sudah; haya que: harus|o;f3s;n
 guerra|perang|o
-novio|pacar laki-laki; pengantin laki-laki|o;o
+novio|pacar laki-laki; pengantin laki-laki; pacar perempuan (feminin); pengantin perempuan (feminin)|o;o;o;o
 comenzar|mulai, memulai (lebih formal daripada empezar)|v
-fuerte|kuat; keras, berisik|o;o
+fuerte|kuat; keras, berisik; caja fuerte: brankas|o;o;n
 incluso|bahkan, termasuk|o
 aunque|meskipun, walaupun|o
 primer|pertama (sebelum kata benda maskulin)|o
@@ -413,17 +413,17 @@ oportunidad|kesempatan, peluang|o
 teléfono|telepon|o
 arriba|ke atas, di atas|o
 final|akhir; terakhir, penentu|o;o
-muchacho|anak laki-laki, pemuda|o
+muchacho|anak laki-laki, pemuda; gadis, perempuan muda (feminin)|o;o
 robar|mencuri, merampok|v
 mayor|lebih besar, lebih tua; utama|o;o
 bebé|bayi|o
 decidir|memutuskan|v
 sangre|darah|o
-medio|setengah; tengah; sarana|o;o;o
+medio|setengah; tengah; sarana; media massa (medios)|o;o;o;o
 disparar|menembak|v
 luz|cahaya, lampu|o
 vuelta|kepulangan; putaran, belokan; dar la vuelta: berbalik|o;o;n
-extraño|aneh, asing; orang tak dikenal|o;o
+extraño|aneh, asing; orang tak dikenal; saya merindukan|o;o;f1s
 recibir|menerima, mendapat|v
 cerrar|menutup|v
 posible|mungkin, bisa terjadi|o
@@ -433,12 +433,12 @@ plan|rencana|o
 escuela|sekolah|o
 diablo|iblis, setan|o
 sonar|berbunyi, berdering|v
-echar|melempar; menuang; echar de menos: merindukan|v;v;n
-subir|naik, memanjat; menaikkan|v;v
+echar|melempar; menuang; echar de menos: merindukan; echar a: mulai; echar la culpa: menyalahkan; echar la bronca: memarahi; memecat, mengusir|v;v;n;n;n;n;v
+subir|naik, memanjat; menaikkan; mengunggah|v;v;v
 habitación|kamar, kamar tidur|o
 orden|perintah; urutan|o;o
 vete|pergi sana!, keluar!|o
-culpa|kesalahan; tener la culpa: bersalah, harus disalahkan|o;n
+culpa|kesalahan; tener la culpa: bersalah, harus disalahkan; dia menyalahkan|o;n;f3s
 libro|buku|o
 ok|oke|o
 duro|keras, berat|o
@@ -473,7 +473,7 @@ hermoso|indah, cantik|o
 idiota|orang tolol; bodoh|o;o
 aquel|itu (yang jauh di sana)|o
 dame|berikan padaku|o
-andar|berjalan; berjalan, hidup (tentang mesin)|v;v
+andar|berjalan; berjalan, hidup (tentang mesin); ayolah! (anda); sedang (dalam keadaan), sibuk dengan|v;v;o;v
 equivocar|salah menduga; equivocarse: keliru, salah|v;n
 blanco|putih; kosong, tanpa tulisan; sasaran|o;o;o
 amo|saya mencintai|f1s
@@ -489,20 +489,20 @@ millón|1.000.000|o
 dólar|dolar|o
 dime|beritahu saya|o
 ocupar|menempati, menduduki; ocuparse de: mengurus|v;n
-sentido|makna, arti; maksud; arah|o;o;o
+sentido|makna, arti; maksud; arah; dirasakan|o;o;o;o
 tampoco|juga tidak|o
 oído|sudah didengar; telinga, pendengaran|o;o
 vivo|masih hidup; penuh semangat; saya tinggal|o;o;f1s
 mil|1.000|o
-sueño|mimpi; rasa mengantuk|o;o
+sueño|mimpi; rasa mengantuk; saya bermimpi|o;o;f1s
 calle|jalan (di kota)|o
 joder|(kasar) bersetubuh; sialan|v;o
 noticia|sebuah berita (noticias: berita, warta)|o
 meter|memasukkan; meterse: ikut campur|v;n
-paso|langkah; jalan lintas|o;o
+paso|langkah; jalan lintas; saya lewat, saya mampir; saya menghabiskan (waktu)|o;o;f1s;f1s
 coger|mengambil, menangkap (kasar di Amerika Latin)|v
 sitio|tempat; situs web|o;o
-abuelo|kakek|o
+abuelo|kakek; nenek (feminin)|o;o
 permitir|membolehkan, mengizinkan|v
 convertir|mengubah menjadi; convertirse en: menjadi|v;n
 médico|dokter; medis|o;o
@@ -543,15 +543,15 @@ marido|suami (khusus suami; bandingkan esposo/esposa)|o
 secreto|rahasia|o
 aceptar|menerima|v
 pueblo|kota kecil, desa; rakyat|o;o
-acerca|acerca de: tentang, mengenai|n
+acerca|acerca de: tentang, mengenai; se acerca: mendekat|n;n
 fuerza|kekuatan, tenaga|o
-cambio|perubahan, kembalian; en cambio: sebaliknya|o;n
+cambio|perubahan, kembalian; en cambio: sebaliknya; saya mengubah, saya berganti|o;n;f1s
 verte|melihatmu|v
 imaginar|membayangkan|v
 carta|surat; kartu; daftar menu|o;o;o
 referir|merujuk; referirse a: merujuk pada, memaksudkan, membicarakan|v;n
 cual|yang|o
-dado|sudah diberikan; dadu|o;o
+dado|sudah diberikan; dadu; dado cuenta: sadar|o;o;n
 resto|sisa, selebihnya|o
 mensaje|pesan|o
 viaje|perjalanan|o
@@ -566,7 +566,7 @@ error|kesalahan, keliru|o
 vuestro|milik kalian (jamak, Spanyol)|o
 salvar|menyelamatkan|v
 caballero|pria terhormat; ksatria|o;o
-falta|kekurangan; pelanggaran dalam permainan; hacer falta: dibutuhkan|o;o;n
+falta|kekurangan; pelanggaran dalam permainan; hacer falta: dibutuhkan; dia kurang, tidak ada; kesalahan (ejaan); masih tersisa|o;o;n;f3s;o;f3s
 detener|menghentikan; menangkap, menahan|v;v
 presidente|presiden|o
 cuarto|kamar; seperempat, keempat|o;o
@@ -582,7 +582,7 @@ relación|hubungan; kaitan|o;o
 ropa|pakaian, baju|o
 verdadero|benar, sejati|o
 café|kopi; kedai kopi|o;o
-bajar|turun; menurunkan|v;v
+bajar|turun; menurunkan; turun (dari kendaraan)|v;v;v
 llamado|yang disebut, bernama|o
 escapar|melarikan diri; escaparse: lolos, kabur|v;n
 aqui|di sini|o
@@ -607,7 +607,7 @@ general|umum, menyeluruh; en general: pada umumnya|o;n
 detrás|di belakang|o
 oficial|resmi; perwira, petugas|o;o
 asesinato|pembunuhan|o
-trato|kesepakatan; perlakuan|o;o
+trato|kesepakatan; perlakuan; saya mencoba, saya memperlakukan|o;o;f1s
 llamada|panggilan telepon|o
 volar|terbang|v
 tuyo|milikmu|o
@@ -623,7 +623,7 @@ futuro|masa depan|o
 aparecer|muncul, tampak|v
 casar|menikahkan; casarse: menikah|v;n
 elegir|memilih|v
-cita|janji temu; kencan; kutipan|o;o;o
+cita|janji temu; kencan; kutipan; dia mengutip|o;o;o;f3s
 maravilloso|luar biasa, menakjubkan|o
 respuesta|jawaban, balasan|o
 ayer|kemarin|o
@@ -646,7 +646,7 @@ línea|garis, baris|o
 decirle|memberitahu dia|v
 caja|kotak; kasir|o;o
 enfermo|sakit|o
-pena|rasa kasihan, sayang sekali; qué pena: sayang sekali; kesedihan|o;n;o
+pena|rasa kasihan, sayang sekali; qué pena: sayang sekali; kesedihan; valer la pena: sepadan, layak; hukuman|o;n;o;n;o
 dolor|rasa sakit, nyeri; duka|o;o
 profesor|guru, dosen|o
 atención|perhatian|o
@@ -693,7 +693,7 @@ gusto|selera, rasa; kesenangan; mucho gusto: senang berkenalan|o;o;n
 edad|umur, usia|o
 maestro|guru; ahli, maestro|o;o
 esconder|menyembunyikan; esconderse: bersembunyi|v;n
-regalo|hadiah|o
+regalo|hadiah; saya menghadiahkan|o;f1s
 ay|aduh!|o
 barco|kapal, perahu|o
 alrededor|di sekitar, di sekeliling|o
@@ -722,8 +722,8 @@ droga|obat, narkoba|o
 boda|pernikahan|o
 necesario|perlu, harus|o
 considerar|mempertimbangkan|v
-deseo|keinginan, hasrat|o
-cena|makan malam|o
+deseo|keinginan, hasrat; saya ingin, saya berharap|o;f1s
+cena|makan malam; dia makan malam|o;f3s
 jurar|bersumpah|v
 esposo|suami, pasangan|o
 tras|sesudah, di belakang|o
@@ -733,11 +733,11 @@ bienvenido|selamat datang|o
 casado|sudah menikah|o
 brazo|lengan|o
 mesa|meja|o
-dirección|arah; alamat|o;o
+dirección|arah; alamat; manajemen, pimpinan|o;o;o
 público|umum; penonton, khalayak|o;o
 mitad|setengah, separuh|o
 avión|pesawat terbang|o
-conocido|(orang, tempat) dikenal; kenalan|o;o
+conocido|(orang, tempat) dikenal; kenalan; bertemu|o;o;o
 rico|kaya; enak, gurih|o;o
 pelear|berkelahi, bertengkar|v
 centro|pusat, titik tengah; pusat kota|o;o
@@ -750,7 +750,7 @@ ataque|serangan|o
 soldado|prajurit, tentara|o
 don|Don (gelar sebelum nama depan); bakat|o;o
 horrible|mengerikan, sangat buruk|o
-pase|masuklah!; umpan, lintasan|o;o
+pase|masuklah!; umpan, lintasan; pase lo que pase: apa pun yang terjadi; itu terjadi (subjungtif)|o;o;n;f3s
 peligroso|berbahaya|o
 salvo|kecuali, selain|o
 través|a través de: melalui, menyeberangi|n
@@ -762,7 +762,7 @@ completo|lengkap, penuh|o
 asi|begini, begitu|o
 vista|pemandangan; penglihatan|o;o
 animal|hewan, binatang|o
-duda|keraguan; sin duda: tidak diragukan lagi|o;n
+duda|keraguan; sin duda: tidak diragukan lagi; dia meragukan|o;n;f3s
 interesante|menarik|o
 proteger|melindungi|v
 imposible|mustahil, tidak mungkin|o
@@ -822,7 +822,7 @@ reír|tertawa; reírse de: menertawakan|v;n
 cenar|makan malam|v
 sorprender|mengejutkan|v
 navidad|Natal|o
-nota|catatan; nilai, angka|o;o
+nota|catatan; nilai, angka; se nota: kelihatan; dia memperhatikan, merasakan|o;o;n;f3s
 sal|garam; keluar sana!|o;o
 embargo|sin embargo: namun, walau begitu|n
 recuperar|pulih, mendapatkan kembali|v
@@ -849,7 +849,7 @@ acordar|menyepakati; acordarse de: teringat akan|v;n
 ventana|jendela|o
 piso|lantai, tingkat; apartemen (Spanyol)|o;o
 evitar|menghindari|v
-fondo|dasar, bagian bawah; latar belakang; dana|o;o;o
+fondo|dasar, bagian bawah; latar belakang; dana; bagian belakang, ujung; al fondo: di bagian belakang; en el fondo: pada dasarnya; a fondo: secara menyeluruh|o;o;o;o;n;n;n
 mandar|mengirim; memerintahkan|v;v
 testigo|saksi|o
 asegurar|meyakinkan; asegurarse: memastikan|v;n
@@ -859,7 +859,7 @@ espalda|punggung|o
 media|setengah (feminin); rata-rata|o;o
 utilizar|memakai, menggunakan|v
 locura|kegilaan, kenekatan|o
-pelea|perkelahian, pertengkaran|o
+pelea|perkelahian, pertengkaran; dia berkelahi|o;f3s
 matrimonio|pernikahan; pasangan suami istri|o;o
 peligro|bahaya|o
 oler|mencium, berbau|v
@@ -910,9 +910,9 @@ dedo|jari tangan; jari kaki|o;o
 guapo|tampan, rupawan|o
 alegro|saya senang|f1s
 mar|laut|o
-cocina|dapur; masakan|o;o
+cocina|dapur; masakan; dia memasak; kompor|o;o;f3s;o
 bomba|bom; pompa|o;o
-baja|rendah (feminin)|o
+baja|rendah (feminin); dia turun, menurunkan; turun!, turunkan!|o;f3s;o
 derecha|kanan, sisi kanan|o
 infierno|neraka|o
 baile|tarian, dansa|o
@@ -934,7 +934,7 @@ luna|bulan (di langit)|o
 base|dasar, landasan|o
 enamorado|sedang jatuh cinta|o
 ángel|malaikat|o
-causa|penyebab, sebab; a causa de: karena|o;n
+causa|penyebab, sebab; a causa de: karena; dia menyebabkan|o;n;f3s
 falso|tidak benar, palsu|o
 nene|bayi, anak kecil|o
 alegrar|menyenangkan hati; alegrarse: merasa senang|v;n
@@ -946,7 +946,7 @@ carne|daging; daging tubuh|o;o
 trasero|pantat, bagian belakang|o
 posición|letak, posisi|o
 flor|bunga|o
-obra|karya; drama, sandiwara|o;o
+obra|karya; drama, sandiwara; pekerjaan konstruksi, lokasi proyek|o;o;o
 nivel|tingkat, taraf|o
 juez|hakim|o
 varios|beberapa, bermacam-macam|o
@@ -963,7 +963,7 @@ corte|potongan, sayatan; pengadilan|o;o
 adentro|di dalam|o
 enojar|membuat marah; enojarse: menjadi marah (Amerika Latin)|v;n
 resultado|hasil, akibat|o
-entero|seluruh, utuh|o
+entero|seluruh, utuh; me entero: saya mengetahui|o;n
 enseguida|segera, langsung|o
 planeta|planet|o
 cruzar|menyeberang, melintasi|v
@@ -972,7 +972,7 @@ busca|carilah!; dia mencari|o;f3s
 especie|jenis, macam; spesies|o;o
 tarjeta|kartu|o
 reina|ratu|o
-estudio|kajian, penelitian; studio|o;o
+estudio|kajian, penelitian; studio; saya belajar|o;o;f1s
 izquierda|kiri, sisi kiri|o
 chino|Tionghoa, bahasa Mandarin|o
 mencionar|menyebut, menyinggung|v
@@ -986,7 +986,7 @@ reunir|mengumpulkan; reunirse: berkumpul, bertemu|v;n
 deje|(bentuk subjungtif) membiarkan, meninggalkan|o
 excelente|sangat bagus, unggul|o
 finalmente|akhirnya|o
-invitado|tamu|o
+invitado|tamu; diundang|o;o
 partir|pergi, berangkat; membelah, membagi|v;v
 inglés|Inggris, bahasa Inggris|o
 motivo|alasan, motif|o
@@ -1003,7 +1003,7 @@ acercar|mendekatkan; acercarse: mendekat|v;n
 pertenecer|milik, termasuk dalam|v
 apenas|nyaris tidak; begitu, segera setelah|o;o
 destino|takdir, nasib; tujuan perjalanan|o;o
-visita|kunjungan|o
+visita|kunjungan; dia mengunjungi|o;f3s
 cometer|melakukan (kejahatan, kesalahan)|v
 operación|operasi|o
 juicio|persidangan; pertimbangan, penilaian|o;o
@@ -1021,7 +1021,7 @@ pareja|pasangan; rekan|o;o
 experiencia|pengalaman|o
 felicidad|kebahagiaan|o
 bala|peluru|o
-respeto|hormat, penghargaan|o
+respeto|hormat, penghargaan; saya menghormati|o;f1s
 enfrentar|menghadapi|v
 precio|harga|o
 enfadar|membuat marah; enfadarse: menjadi marah (Spanyol)|v;n
@@ -1033,7 +1033,7 @@ inocente|tidak bersalah, polos|o
 contestar|menjawab|v
 sospechoso|mencurigakan; tersangka|o;o
 irse|pergi, berangkat|v
-muestra|contoh, tanda; tunjukkan!|o;o
+muestra|contoh, tanda; tunjukkan!; dia menunjukkan|o;o;f3s
 radio|radio|o
 ejemplo|contoh; por ejemplo: misalnya|o;n
 culpable|bersalah; pelaku, orang yang bersalah|o;o
@@ -1062,13 +1062,13 @@ francés|Prancis, bahasa Prancis|o
 común|umum, biasa|o
 arrestar|menangkap, menahan|v
 demostrar|menunjukkan, membuktikan|v
-río|sungai|o
+río|sungai; me río: saya tertawa|o;n
 aguantar|menahan, tahan terhadap|v
 isla|pulau|o
 verme|melihat saya|v
 sucio|kotor|o
 respecto|respecto a: mengenai, tentang|n
-regreso|kepulangan, kembalinya|o
+regreso|kepulangan, kembalinya; saya kembali|o;f1s
 prestar|meminjamkan; prestar atención: memperhatikan|v;n
 héroe|pahlawan|o
 imbécil|orang tolol, bodoh|o
@@ -1107,14 +1107,14 @@ hacerte|melakukan padamu, membuatmu|v
 detalle|rincian, detail|o
 vistazo|pandangan sekilas; echar un vistazo: melihat sekilas|o;n
 interior|bagian dalam|o
-marcha|barisan, jalan; persneling; en marcha: sedang berjalan|o;o;n
+marcha|barisan, jalan; persneling; en marcha: sedang berjalan; se marcha: pergi|o;o;n;n
 comandante|komandan, mayor|o
 americano|Amerika, orang Amerika|o
 doble|dua kali lipat, ganda|o
 acabado|selesai, habis|o
 convencer|meyakinkan|v
 soñar|bermimpi|v
-marca|merek; tanda, bekas|o;o
+marca|merek; tanda, bekas; dia menandai, mencetak gol|o;o;f3s
 colgar|menggantung; menutup telepon|v;v
 bello|indah, elok (bahasa sastra)|o
 estudiante|pelajar, mahasiswa|o
@@ -1207,7 +1207,7 @@ rayo|sinar, berkas cahaya; petir|o;o
 nariz|hidung|o
 emergencia|keadaan darurat|o
 cubrir|menutupi, melindungi|v
-pedido|pesanan, permintaan|o
+pedido|pesanan, permintaan; diminta|o;o
 larga|panjang, lama (feminin)|o
 embarazada|hamil, mengandung|o
 justicia|keadilan|o
@@ -1268,7 +1268,7 @@ cabo|kopral; al cabo de: setelah|o;n
 cantidad|jumlah, banyaknya|o
 inmediatamente|segera, langsung|o
 necesidad|kebutuhan, keperluan|o
-amenaza|ancaman|o
+amenaza|ancaman; dia mengancam|o;f3s
 faltar|tidak ada, kurang|v
 perseguir|mengejar, memburu|v
 puro|murni; cerutu|o;o
@@ -1327,7 +1327,7 @@ socio|rekan, anggota|o
 detente|berhenti!|o
 show|pertunjukan, acara|o
 autobús|bus|o
-lucha|perjuangan, perkelahian|o
+lucha|perjuangan, perkelahian; dia berjuang, bertarung|o;f3s
 amante|kekasih|o
 adorar|memuja, sangat mencintai|v
 débil|lemah|o
@@ -1358,7 +1358,7 @@ inmediato|segera, langsung|o
 grado|derajat, tingkat|o
 siglo|abad|o
 enterrar|mengubur|v
-carga|muatan, beban; tanggung jawab|o;o
+carga|muatan, beban; tanggung jawab; dia membawa, memuat|o;o;f3s
 superar|mengatasi; melampaui|v;v
 feo|jelek, buruk rupa|o
 velocidad|kecepatan|o
@@ -1378,13 +1378,13 @@ responsabilidad|tanggung jawab|o
 espada|pedang|o
 mírame|lihat saya!|o
 pelota|bola (untuk bermain)|o
-brujo|penyihir, dukun laki-laki|o
+brujo|penyihir, dukun laki-laki; penyihir perempuan (feminin)|o;o
 artista|seniman|o
 total|jumlah seluruhnya; pokoknya, bagaimanapun|o;o
 artículo|artikel, tulisan|o
 conectar|menyambungkan, menghubungkan|v
 quedarte|tinggal, menetap|v
-mando|komando, kepemimpinan; alat kendali jarak jauh|o;o
+mando|komando, kepemimpinan; alat kendali jarak jauh; saya mengirim, saya menyuruh|o;o;f1s
 peso|berat, bobot; peso (mata uang)|o;o
 modelo|model, contoh|o
 planta|tanaman; lantai, tingkat|o;o
@@ -1409,7 +1409,7 @@ científico|ilmuwan; ilmiah|o;o
 sujeto|subjek, pokok; orang, cowok|o;o
 jardín|kebun, taman|o
 descanso|istirahat, jeda|o
-apoyo|dukungan|o
+apoyo|dukungan; saya mendukung|o;f1s
 conocerte|mengenalmu, bertemu denganmu|v
 mudar|memindahkan; mudarse: pindah rumah|v;n
 asumir|menganggap, memikul|v
@@ -1426,7 +1426,7 @@ olvídalo|lupakan saja!|o
 prisionero|tahanan, narapidana|o
 jurado|juri|o
 computador|komputer|o
-pago|pembayaran|o
+pago|pembayaran; saya membayar|o;f1s
 dejarlo|meninggalkannya, menyudahinya|v
 confundir|membingungkan; confundirse: keliru, salah paham|v;n
 domingo|hari Minggu|o
@@ -1439,7 +1439,7 @@ judío|Yahudi; orang Yahudi|o;o
 magia|sihir, kesaktian|o
 inútil|tidak berguna|o
 vergüenza|rasa malu|o
-uso|pemakaian, kegunaan|o
+uso|pemakaian, kegunaan; saya memakai|o;f1s
 empujar|mendorong|v
 declaración|pernyataan resmi|o
 arriesgar|mempertaruhkan|v
@@ -1489,7 +1489,7 @@ copia|salinan, tiruan|o
 ahi|di sana|o
 dedicar|mengabdikan, mempersembahkan; dedicarse a: berprofesi sebagai|v;n
 últimamente|belakangan ini|o
-paga|gaji, upah|o
+paga|gaji, upah; dia membayar|o;f3s
 eliminar|menyingkirkan, menghapus|v
 entrenador|pelatih|o
 límite|batas|o
@@ -1544,7 +1544,7 @@ aventura|petualangan; perselingkuhan|o;o
 entrenar|melatih, berlatih|v
 corta|pendek, singkat (feminin)|o
 rostro|wajah, muka (formal, bahasa sastra)|o
-firma|tanda tangan; perusahaan, firma|o;o
+firma|tanda tangan; perusahaan, firma; dia menandatangani; tanda tangani!|o;o;f3s;o
 homicidio|pembunuhan|o
 soltar|melepaskan, membebaskan|v
 legal|sah, menurut hukum|o
@@ -1576,7 +1576,7 @@ voluntad|kehendak, kemauan|o
 documento|dokumen, surat|o
 sensación|perasaan, sensasi|o
 helado|es krim; beku|o;o
-desayuno|sarapan|o
+desayuno|sarapan; saya sarapan|o;f1s
 crédito|kredit, pujian|o
 dígame|beritahu saya (formal)|o
 levántate|bangunlah!|o
@@ -1648,7 +1648,7 @@ lluvia|hujan|o
 internet|internet|o
 alcohol|alkohol, minuman keras|o
 atractivo|menarik, memikat|o
-cura|pastor, imam; obat, penyembuh|o;o
+cura|pastor, imam; obat, penyembuh; dia menyembuhkan|o;o;f3s
 fotografía|foto; fotografi|o;o
 cobarde|pengecut; penakut|o;o
 harto|muak, jenuh; estar harto: sudah muak|o;n
@@ -1721,7 +1721,7 @@ destrozar|menghancurkan, meremukkan|v
 uniforme|seragam|o
 comprometer|membahayakan, mempertaruhkan; comprometerse: mengikatkan diri|v;n
 contado|terhitung; al contado: tunai|o;n
-gira|tur, perjalanan keliling|o
+gira|tur, perjalanan keliling; dia berbelok, berputar|o;f3s
 relájate|santai saja!|o
 siéntese|duduklah (formal)|o
 probable|mungkin, besar kemungkinan|o
@@ -1766,14 +1766,14 @@ apretar|memeras, menekan; mengencangkan|v;v
 cero|nol|o
 canal|saluran; terusan|o;o
 proponer|mengusulkan|v
-parecido|mirip; kemiripan|o;o
+parecido|mirip; kemiripan; tampak, terasa|o;o;o
 cirugía|operasi, bedah|o
 alimentar|memberi makan|v
 decirles|mengatakan kepada mereka|v
 fortuna|keberuntungan, kekayaan|o
 lunes|Senin|o
 nación|bangsa, negara|o
-sobrino|keponakan laki-laki|o
+sobrino|keponakan laki-laki; keponakan perempuan (feminin)|o;o
 alegría|kegembiraan, kebahagiaan|o
 ira|kemarahan, murka|o
 ciudadano|warga negara|o
@@ -1860,7 +1860,7 @@ ayudarle|menolongnya|v
 fruto|buah, hasil|o
 político|politik; politikus|o;o
 impresionar|membuat terkesan|v
-entrega|pengiriman; penyerahan|o;o
+entrega|pengiriman; penyerahan; dia menyerahkan, mengantarkan|o;o;f3s
 ofender|menyinggung|v
 ruego|saya mohon; permohonan|f1s;o
 pasillo|lorong, koridor|o
@@ -1904,7 +1904,7 @@ chiste|lelucon, cerita lucu; contar un chiste: menceritakan lelucon|o;n
 perdedor|pecundang|o
 galleta|biskuit, kue kering|o
 desesperado|putus asa|o
-limpia|bersih (feminin)|o
+limpia|bersih (feminin); dia membersihkan|o;f3s
 arresto|penangkapan|o
 ambulancia|ambulans|o
 alarma|alarm|o
@@ -1919,13 +1919,13 @@ vampiro|vampir|o
 encargo|pesanan, tugas titipan|o
 despues|setelah, sesudahnya|o
 preguntarte|bertanya kepadamu|v
-nieto|cucu laki-laki|o
+nieto|cucu laki-laki; cucu perempuan (feminin)|o;o
 despacho|kantor, ruang kerja|o
 matarlo|membunuhnya|v
 impresión|kesan|o
 participar|ikut serta|v
 escritor|penulis|o
-camarero|pelayan|o
+camarero|pelayan; pelayan perempuan (feminin)|o;o
 serpiente|ular|o
 cruel|kejam|o
 marina|angkatan laut|o
@@ -1976,7 +1976,7 @@ juguete|mainan|o
 práctica|praktik, latihan|o
 adorable|menggemaskan, elok|o
 condenado|terkutuk, dihukum|o
-aviso|pemberitahuan, peringatan|o
+aviso|pemberitahuan, peringatan; saya memberi tahu, saya memperingatkan|o;f1s
 traducción|terjemahan|o
 disponible|tersedia|o
 circunstancia|keadaan|o
@@ -2009,17 +2009,17 @@ reserva|pemesanan; cadangan|o;o
 comportamiento|perilaku|o
 básicamente|pada dasarnya|o
 retroceder|mundur|v
-tratado|perjanjian|o
+tratado|perjanjian; dicoba, diperlakukan|o;o
 elegante|elegan, rapi|o
 parado|berdiri; menganggur (Spanyol)|o;o
 conferencia|kuliah, ceramah; konferensi|o;o
-quita|singkirkan!|o
+quita|singkirkan!; dia mengambil, menyingkirkan|o;f3s
 extraordinario|luar biasa|o
 virgen|perawan|o
 pedirle|meminta kepadanya|v
 deporte|olahraga|o
 generación|generasi|o
-compra|pembelian; belanja|o;o
+compra|pembelian; belanja; dia membeli|o;o;f3s
 oreja|telinga (bagian luar)|o
 ciertamente|tentu saja|o
 cubierta|penutup; geladak|o;o
@@ -2085,7 +2085,7 @@ suéltame|lepaskan aku!|o
 noble|mulia, bangsawan|o
 puerto|pelabuhan|o
 eléctrico|listrik|o
-apuesta|taruhan|o
+apuesta|taruhan; dia bertaruh|o;f3s
 escritorio|meja tulis|o
 frase|kalimat, frasa|o
 congelar|membekukan|v
@@ -2182,7 +2182,7 @@ manda|ia mengirim, memerintah; kirimkan!|f3s;o
 robot|robot|o
 garantizar|menjamin|v
 jueves|Kamis|o
-jovencito|anak muda|o
+jovencito|anak muda; nona muda (feminin)|o;o
 medianoche|tengah malam|o
 llevarme|membawaku|v
 patio|halaman, pekarangan|o
@@ -2225,7 +2225,7 @@ guía|pemandu; buku panduan|o;o
 pasta|pasta; adonan, duit|o;o
 territorio|wilayah|o
 rastrear|melacak|v
-queja|keluhan|o
+queja|keluhan; se queja: mengeluh|o;n
 ave|burung|o
 verlos|melihat mereka|v
 fabuloso|luar biasa, hebat|o
@@ -2319,7 +2319,7 @@ regalar|memberi hadiah|v
 bailarín|penari|o
 sucedido|terjadi|o
 masa|adonan; massa|o;o
-arreglo|penataan, kesepakatan; perbaikan|o;o
+arreglo|penataan, kesepakatan; perbaikan; saya memperbaiki, saya membereskan|o;o;f1s
 expediente|berkas, dosir|o
 camiseta|kaus|o
 asistir|menghadiri; membantu|v;v
@@ -2328,9 +2328,9 @@ admirar|mengagumi|v
 decente|pantas, sopan|o
 pasear|berjalan-jalan|v
 rehén|sandera|o
-monje|biksu, rahib|o
+monje|biksu, rahib; biarawati (feminin)|o;o
 literalmente|secara harfiah|o
-aprecio|penghargaan|o
+aprecio|penghargaan; saya menghargai|o;f1s
 condado|kabupaten|o
 ultimar|merampungkan; menghabisi|v;v
 sacrificio|pengorbanan|o
@@ -2344,10 +2344,10 @@ ayudarla|menolongnya|v
 herramienta|alat|o
 nacimiento|kelahiran|o
 concurso|lomba, kontes|o
-abrazo|pelukan|o
+abrazo|pelukan; saya memeluk|o;f1s
 honestamente|sejujurnya|o
 temperatura|suhu|o
-recibo|kuitansi|o
+recibo|kuitansi; saya menerima|o;f1s
 exponer|memaparkan; menguraikan|v;v
 asalto|serangan; ronde (tinju)|o;o
 ligero|ringan; cepat|o;o
@@ -2376,7 +2376,7 @@ ola|ombak, gelombang|o
 operar|mengoperasikan|v
 saludar|menyapa, memberi salam|v
 corona|mahkota|o
-sospecha|kecurigaan|o
+sospecha|kecurigaan; dia mencurigai|o;f3s
 eterno|abadi|o
 femenino|perempuan, feminin|o
 batería|baterai; drum|o;o
@@ -2463,7 +2463,7 @@ echado|diusir; berbaring|o;o
 cerebral|otak|o
 reporte|laporan (Amerika Latin)|o
 recomendar|merekomendasikan|v
-señorito|tuan muda|o
+señorito|tuan muda; nona (feminin)|o;o
 razonable|masuk akal, wajar|o
 deme|berikan kepada saya (formal)|o
 extender|memperluas, membentangkan|v
@@ -2516,7 +2516,7 @@ escándalo|skandal; keributan|o;o
 presentación|presentasi; perkenalan|o;o
 digno|layak; bermartabat|o;o
 timar|menipu|v
-falla|kesalahan, cacat|o
+falla|kesalahan, cacat; dia gagal|o;f3s
 influencia|pengaruh|o
 liga|liga; karet gelang|o;o
 partida|pertandingan, babak; keberangkatan|o;o
@@ -2524,7 +2524,7 @@ honrar|menghormati|v
 capital|ibu kota; modal|o;o
 activar|mengaktifkan|v
 excelencia|keunggulan; Yang Mulia|o;o
-viudo|duda|o
+viudo|duda; janda (feminin)|o;o
 sorprendente|mengejutkan|o
 disfraz|kostum, penyamaran|o
 expresión|ungkapan, ekspresi|o
@@ -6486,24 +6486,24 @@ codicia|ketamakan|o
 notar|memperhatikan, menyadari|v
 naturaleza|alam|o
 a|ke, di; menandai orang sebagai objek (tidak diterjemahkan)|o;o
-por|karena, demi; oleh (pelaku, sarana); melalui, lewat, sepanjang|o;o;o
+por|karena, demi; oleh (pelaku, sarana); melalui, lewat, sepanjang; por favor: tolong; por fin: akhirnya|o;o;o;n;n
 qué|apa?; betapa…! (dalam seruan)|o;o
 se|diri sendiri; orang (impersonal); kepadanya, kepada mereka (pengganti le sebelum lo, la)|o;o;o
-ver|melihat; menonton|v;v
+ver|melihat; menonton; tener que ver: berhubungan dengan|v;v;n
 como|seperti, sebagai; saya makan|o;f1s
-nada|tidak ada apa-apa; sama sekali tidak (setelah kata kerja negatif)|o;o
+nada|tidak ada apa-apa; sama sekali tidak (setelah kata kerja negatif); nada más: hanya, cuma|o;o;n
 hombre|laki-laki, pria; astaga!, hei! (sebagai seruan)|o;o
-pasar|lewat, berlalu; terjadi; menghabiskan (waktu)|v;v;v
-salir|keluar, pergi; berakhir, jadinya (baik, buruk)|v;v
+pasar|lewat, berlalu; terjadi; menghabiskan (waktu); masuk|v;v;v;v
+salir|keluar, pergi; berakhir, jadinya (baik, buruk); berharga, jatuhnya (biaya)|v;v;v
 trabajo|kerja, pekerjaan; saya bekerja|o;f1s
 mira|lihat!; dia melihat|o;f3s
 mujer|perempuan, wanita; istri|o;o
 tratar|memperlakukan; mencoba (tratar de)|v;v
 mientras|sementara, selagi; sementara itu|o;o
-escucha|dengar!; dia mendengarkan|o;f3s
-juego|permainan; saya bermain|o;f1s
+escucha|dengar!; dia mendengarkan; se escucha: terdengar|o;f3s;n
+juego|permainan; saya bermain; en juego: dipertaruhkan|o;f1s;n
 tocar|menyentuh; memainkan (alat musik); mendapat giliran (me toca)|v;v;v
-recuerdo|kenangan, ingatan; suvenir, cendera mata; saya ingat|o;o;f1s
+recuerdo|kenangan, ingatan; suvenir, cendera mata; saya ingat; saya mengingatkan; recuerdos: salam|o;o;f1s;f1s;n
 presentar|menyajikan, mempersembahkan; memperkenalkan (seseorang)|v;v
 lograr|mencapai, meraih; berhasil (+ infinitif)|v;v
 molesto|kesal; menjengkelkan; saya mengganggu|o;o;f1s
@@ -13468,4 +13468,4 @@ villanía|kejahatan, perbuatan keji|o
 zodiacal|zodiak, dari zodiak|o
 aloja|dia menampung, menginapkan; Anda menampung (formal)|f3s;f2s2p
 enrollado|tergulung; terlibat (dengan seseorang); keren (percakapan)|o;o;o
-di|saya memberi; katakan!, bilang!|f1s;o
+di|saya memberi; katakan!, bilang!; me di cuenta: saya sadar; di la vuelta: saya berbalik|f1s;o;n;n
