@@ -535,7 +535,7 @@ kampung|||
 sendiri|||adj.;pron.
 punya|||
 milik|||
-hidup|||v.;adj.;n.;adj.
+hidup|||n.;v.;adj.;adj.
 hidup-hidup|||adv.
 mati|||adj.;v.;adj.
 lahir|||
@@ -720,7 +720,7 @@ diam|||adj.;v.
 diam-diam|||adv.
 tinggal|||
 berangkat||angkat|
-lewat|||v.;prep.
+lewat|||prep.;v.
 ikut|||
 antar|||
 jemput|||

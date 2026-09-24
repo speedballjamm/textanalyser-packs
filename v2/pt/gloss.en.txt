@@ -23,7 +23,7 @@ um|a, an; one|o;o
 para|for, to (purpose); stop! (parar)|o;o
 está|(state, location) is; you are|f3s;f2s2p
 uma|a, an (f.); one|o;o
-se|if; oneself, each other|o;o
+se|oneself, each other; if|o;o
 com|with|o
 ser|to be (identity, characteristic)|v
 por|by, through; because of; for (in exchange)|o;o;o
@@ -63,11 +63,11 @@ tudo|everything|o
 ficar|to stay; to become; to be located|v;v;v
 ir|to go|v
 minha|my, mine (f.)|o
-então|then; so|o;o
+então|so; then|o;o
 pode|can; you can|o;f2s2p
 agora|now|o
 estar|to be (state, location)|v
-vou|I go; I'm going to|f1s;f1s
+vou|I'm going to; I go|f1s;f1s
 quando|when|o
 sei|I know (a fact)|f1s
 eles|they, them (m.)|f3p
@@ -77,7 +77,7 @@ falar|to speak, to talk|v
 certo|right, correct; certain; dar certo: to work out|o;o;n
 tenho|I have|f1s
 te|you, to you|f2s2p
-estava|(state, location) I was; he/she/it was|f1s;f3s
+estava|he/she/it was; (state, location) I was|f3s;f1s
 querer|to want|v
 quer|wants; you want|f3s;f2s2p
 esse|that (before a noun)|o
@@ -86,14 +86,14 @@ bom|good|o
 algum|some, any|o
 sabe|knows; you know|f3s;f2s2p
 já|already; now|o;o
-era|(identity, characteristic) I was; he/she/it was|f1s;f3s
+era|he/she/it was; (identity, characteristic) I was|f3s;f1s
 mesmo|same; even; really|o;o;o
 nos|us, to us; in the (em+os)|o;o
 quem|who|o
 ou|or|o
 ao|to the, at the (a+o)|o
 nada|nothing|o
-disse|I said; he/she said|f1s;f3s
+disse|he/she said; I said|f3s;f1s
 há|there is, there are; ago|o;o
 todo|all, whole|o
 lá|there|o
@@ -174,7 +174,7 @@ parece|seems; you seem|f3s;f2s2p
 claro|clear; of course|o;o
 oh|oh|o
 depois|after, afterwards|o
-tinha|I had; he/she had|f1s;f3s
+tinha|he/she had; I had|f3s;f1s
 conhecer|to know (be acquainted with); to meet|v;v
 coisas|things|o
 antes|before|o
@@ -201,7 +201,7 @@ fazendo|doing, making|o
 haver|there to be; to exist|o;v
 acha|thinks; you think|f3s;f2s2p
 quanto|how much|o
-fez|I did; he/she did|f1s;f3s
+fez|he/she did; I did|f3s;f1s
 acabar|to finish; to end up; acabar de: to have just|v;v;n
 filho|son; daughter (f.)|o;o
 começar|to start, to begin|v
@@ -314,7 +314,7 @@ pequeno|small, little|o
 dentro|inside|o
 olho|eye; I look|o;f1s
 legal|cool, nice; legal|o;o
-meio|half; middle; kind of|o;o;o
+meio|middle; half; kind of|o;o;o
 preocupar|to worry|v
 gente|people; a gente: we (with a 3rd-person verb)|o;n
 amanhã|tomorrow|o
@@ -330,7 +330,7 @@ garota|girl|o
 pessoa|person|o
 jeito|way, manner; knack; de jeito nenhum: no way|o;o;n
 medo|fear|o
-forma|shape, form; way|o;o
+forma|way; shape, form|o;o
 cada|each, every|o
 pessoal|people, folks; personal|o;o
 pagar|to pay|v
@@ -369,7 +369,7 @@ importante|important|o
 receber|to receive, to get|v
 palavra|word|o
 última|last (f.)|o
-for|(if, when) I am; he/she is; goes|f1s;f3s;f3s
+for|he/she is; (if, when) I am; goes|f3s;f1s;f3s
 conversar|to talk, to chat|v
 bonito|pretty, good-looking|o
 corpo|body|o
@@ -409,7 +409,7 @@ escola|school|o
 escutar|to listen to|v
 música|music; song|o;o
 casar|to marry (casar-se)|v
-consigo|with him, with her, with you; I manage|o;f1s
+consigo|I manage; with him, with her, with you|f1s;o
 senhora|ma'am, madam; Mrs|o;o
 conta|bill, account; he/she tells, counts; you tell, count; tell!|o;f3s;f2s2p;o
 espera|wait!; waits|o;f3s
@@ -526,7 +526,7 @@ segurança|safety, security; guard|o;o
 sonho|dream; I dream|o;f1s
 criar|to create; to raise (a child)|v;v
 fechar|to close, to shut|v
-chega|that's enough!; arrives|o;f3s
+chega|arrives; that's enough!|f3s;o
 falta|lack; foul; is missing; sentir falta de: to miss|o;o;f3s;n
 teu|your, yours (m., informal)|o
 responder|to answer|v
@@ -618,7 +618,7 @@ resposta|answer|o
 aonde|where to|o
 desaparecer|to disappear|v
 prisão|prison; arrest|o;o
-apresentar|to introduce; to present|v;v
+apresentar|to present; to introduce|v;v
 puta|whore (vulgar); puta que pariu: fucking hell|o;n
 local|place; local|o;o
 erro|mistake, error|o

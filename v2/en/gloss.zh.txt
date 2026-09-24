@@ -16,7 +16,7 @@ i|我 (说话的人)|f1s
 the|特指已知的人或事物 (汉语没有冠词)|o
 to|到, 向 (朝着, 给予); (动词标记: to go)|v;v
 a|一, 一个 (不特指)|o
-'s|是; 有; 的 (所属)|f3s;f3s;o
+'s|的 (所属); 是; 有|o;f3s;f3s
 it|它 (已提到的事物)|f3s
 that|那, 那个 (较远的); (引导从句)|o;o
 and|和, 而且|o
@@ -39,7 +39,7 @@ was|我是 (过去); 他/她/它是 (过去)|f1s;f3s
 know|知道 (事实); 认识 (人)|v;v
 not|不, 非|o
 be|是|v
-are|你/你们是; 我们/他们是|f2s2p;f1p
+are|我们/他们是; 你/你们是|f1p;f2s2p
 don|(do not, 用于 don't)|g
 're|你/你们是; 我们/他们是|f2s2p;f1p
 with|和…一起, 用|o
@@ -96,13 +96,13 @@ us|我们 (作宾语)|o
 would|会, 将 (过去将来)|o
 them|他们 (作宾语)|o
 where|哪里|o
-were|你/你们是 (过去); 我们/他们是 (过去)|f2s2p;f1p
+were|我们/他们是 (过去); 你/你们是 (过去)|f1p;f2s2p
 then|然后, 之后; 那么 (既然如此)|o;o
 had|have 的过去式|o
 or|或者, 还是|o
 been|be 的过去分词|o
 need|需要|v
-thing|东西, 物品; 事情, 事务|o;o
+thing|事情, 事务; 东西, 物品|o;o
 our|我们的|o
 gonna|打算, 将要 (口语)|o
 really|真的, 确实; 很, 非常 (程度)|o;o
@@ -114,7 +114,7 @@ could|能, 会 (过去); 可以吗 (礼貌请求)|o;o
 'd|会, 想 (I'd like); (完成时的 had: I'd gone)|o;g
 didn|(did not, 用于 didn't)|g
 mean|意思是, 表示; 刻薄的, 不友善的; 打算, 意图; 方法, 手段; by means of: 通过, 借助|v;o;v;o;n
-way|路, 道路; 方式, 方法; 距离, 路程 (a long way 很远)|o;o;o
+way|方式, 方法; 路, 道路; 距离, 路程 (a long way 很远)|o;o;o
 something|某事, 某物|o
 has|他/她/它有|f3s
 little|小的; 一点, 少许|o;o
@@ -168,7 +168,7 @@ put|放, 放置|v
 their|他们的|o
 use|用, 使用; 用途, 用处|v;o
 great|很好的, 极好的; 大的, 巨大的|o;o
-long|长的; 长久的, 持续很久的; 渴望, 非常想要|o;o;v
+long|长久的, 持续很久的; 长的; 渴望, 非常想要|o;o;v
 uh|呃 (犹豫时)|o
 again|再, 又|o
 thought|想 (think 的过去式); 想法, 念头|o;o
@@ -179,7 +179,7 @@ night|夜晚, 晚上|o
 before|在…之前, 早于; 在…前面; 以前, 曾经 (I've seen it before 我以前见过)|o;o;o
 after|在…之后, 晚于; 在…后面, 跟随; 追寻, 追捕 (the police are after him 警察在追捕他)|o;o;o
 won|赢 (win 的过去式); (用于 won't) 不会|o;o
-home|家, 住处; 回家, 在家 (go home 回家)|o;o
+home|回家, 在家 (go home 回家); 家, 住处|o;o
 away|离开, 到别处; 在远处, 相距 (two miles away 两英里远); 不在, 外出|o;o;o
 girl|女孩|o
 than|比|o
@@ -267,7 +267,7 @@ expect|预料, 期待; 要求|v;v
 outside|在…外面|o
 king|国王|o
 funny|好笑, 滑稽; 古怪, 可疑|o;o
-stick|棍子, 树枝; 粘住, 卡住|o;v
+stick|粘住, 卡住; 棍子, 树枝|v;o
 captain|船长, 队长, 上尉|o
 chuckle|轻声笑, 咯咯笑|v
 human|人, 人类; 人的|o;o
@@ -280,13 +280,13 @@ lead|带领, 领先; 第一名, 领先地位; 铅|v;o;o
 drive|开车, 驾驶; 迫使 (陷入某种状态); 干劲, 动力|v;v;o
 boss|老板, 上司|o
 living|活着的; 生计|o;o
-control|控制, 操纵; 控制权|v;o
+control|控制权; 控制, 操纵|o;v
 blow|吹; blow up: 爆炸; 重击|v;n;o
 parent|父亲或母亲, 家长|o
 dinner|正餐, 晚饭|o
 ahead|在前面, 向前|o
 surprise|意外的事, 惊喜; 使吃惊, 突袭|o;v
-state|状态, 状况; 国家, 政府; 正式陈述|o;o;v
+state|国家, 政府; 状态, 状况; 正式陈述|o;o;v
 company|公司; 陪伴|o;o
 force|力, 力量; 强迫; 部队|o;v;o
 fly|飞; 苍蝇|v;o
@@ -395,7 +395,7 @@ fool|傻瓜; 欺骗|o;v
 calling|打电话; 呼喊|o;o
 choose|选择|v
 horse|马|o
-lock|锁; 锁上|o;v
+lock|锁上; 锁|v;o
 bag|袋子, 包|o
 less|更少|o
 teach|教|v
@@ -406,13 +406,13 @@ fault|过错, 责任; 缺点, 毛病|o;o
 rule|规则; 统治|o;v
 dude|家伙, 哥们 (口语)|o
 offer|提供, 提议; 提议, 报价|v;o
-park|公园; 停车|o;v
+park|停车; 公园|v;o
 weren|(用于 weren't) were 的否定形式|o
 given|给 (give 的过去分词)|o
 realize|意识到, 明白|v
 future|未来, 将来|o
 quick|快的|o
-straight|直的; 径直地, 立刻; 坦率的|o;o;o
+straight|径直地, 立刻; 直的; 坦率的|o;o;o
 ooh|(惊讶或高兴的感叹) 哦|g
 class|班级; 课; 阶级; 品质, 档次|o;o;o;o
 mark|痕迹, 记号; 打分; 标示…的位置|o;v;v
@@ -639,7 +639,7 @@ slow|慢的|o
 deserve|应得, 值得|v
 whether|是否|o
 pant|喘气; pants: 裤子 (美), 内裤 (英)|v;n
-support|支撑; 支持, 帮助|v;v
+support|支持, 帮助; 支撑|v;v
 public|公开的, 公共的; 公众|o;o
 base|底部, 基础; 基地|o;o
 angry|生气的|o
@@ -6468,7 +6468,7 @@ buy|买|v
 gotta|(have got to) 必须, 得|o
 ago|以前|o
 anyone|任何人|o
-sound|声音; 听起来|o;v
+sound|听起来; 声音|v;o
 until|直到|o
 sit|坐|v
 become|变成, 成为|v
@@ -6495,7 +6495,7 @@ body|身体; 尸体; 机构, 团体 (a governing body 管理机构)|o;o;o
 death|死亡|o
 number|数字, 号码|o
 working|work 的现在分词; 在运转的, 能用的; 有工作的, 在职的|o;o;o
-pick|挑选; 捡起|v;v
+pick|捡起; 挑选|v;v
 crazy|疯的, 发疯的|o
 write|写|v
 stand|站; 忍受|v;v
@@ -6521,7 +6521,7 @@ inside|在里面|o
 set|放, 摆; 一套, 一组|v;o
 catch|接住, 抓住|v
 different|不同的|o
-high|高的; 高额的 (high prices 高价); 嗑药后兴奋的|o;o;o
+high|高额的 (high prices 高价); 高的; 嗑药后兴奋的|o;o;o
 sister|姐妹|o
 daughter|女儿|o
 gun|枪|o
@@ -6537,7 +6537,7 @@ quite|相当, 挺; 完全|o;o
 anyway|反正, 无论如何|o
 ain|(用于 ain't) 不是, 没有|g
 shall|(提议, 建议时用) 要不要, 该不该|o
-shot|一枪, 射击; shoot 的过去式, 开枪|o;o
+shot|shoot 的过去式, 开枪; 一枪, 射击|o;o
 fun|乐趣, 好玩|o
 hate|恨, 讨厌|v
 against|反对; 靠着, 贴着 (against the wall 靠墙)|o;o
@@ -6581,7 +6581,7 @@ welcome|欢迎; you're welcome: 不客气|o;n
 cool|凉的; 酷的, 棒的|o;o
 sign|标志, 迹象; 签名|o;v
 free|免费的; 自由的|o;o
-spend|花 (钱); 度过 (时间)|v;v
+spend|度过 (时间); 花 (钱)|v;v
 fact|事实|o
 yours|你的, 你们的|o
 dance|跳舞; 舞会, 一支舞|v;o
@@ -9421,7 +9421,7 @@ no|不 (拒绝、反对); 没有，无|o;o
 can|能，能够; (用于 can't) 不能; 罐头，罐子|o;o;o
 get|得到，获得; 变得; 到达; 明白，理解|v;v;v;v
 right|对，正确; 右 (方向); (感叹词) 好的; 权利|o;o;o;o
-well|好 (以好的方式); 嗯…… (停顿); 健康，安好; as well: 也|o;o;o;n
+well|嗯…… (停顿); 好 (以好的方式); 健康，安好; as well: 也|o;o;o;n
 will|将 (表示将来); 意志 (决心); 遗嘱 (死后留下的文件)|o;o;o
 by|在……旁边 (旁边); 被，由 (被动); 在……之前 (不晚于); 通过，靠 (方式)|o;o;o;o
 work|工作; 工作，职业; 运转，起作用|v;o;v

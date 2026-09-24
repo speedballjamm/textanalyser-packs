@@ -15,7 +15,7 @@ i|I (the speaker)|f1s
 the|the (one already known)|o
 to|to (towards, giving to); to (marks a verb: to go)|v;v
 a|a, one (not a particular one)|o
-'s|is; has; 's (belonging to)|f3s;f3s;o
+'s|'s (belonging to); is; has|o;f3s;f3s
 it|it (a thing already mentioned)|f3s
 that|that (that one, over there); that (introduces a clause)|o;o
 and|and|o
@@ -40,7 +40,7 @@ was|I was; he/she/it was|f1s;f3s
 know|to know (a fact); to know (a person)|v;v
 not|not|o
 be|to be|v
-are|you are; we/they are|f2s2p;f1p
+are|we/they are; you are|f1p;f2s2p
 don|(do not, in don't)|g
 're|you are; we/they are|f2s2p;f1p
 can|can, to be able to; (in can't) cannot; a can, a tin|o;o;o
@@ -70,7 +70,7 @@ one|one, the number 1; one, a single thing or person (the red one); one, you, pe
 now|now|o
 oh|oh (surprise, realisation)|o
 see|to see; to understand|v;v
-well|well (in a good way); well… (pausing); well, healthy; as well: also|o;o;o;n
+well|well… (pausing); well (in a good way); well, healthy; as well: also|o;o;o;n
 her|her|o
 how|how|o
 think|to think|v
@@ -103,13 +103,13 @@ us|us|o
 would|would|o
 them|them|o
 where|where|o
-were|you were; we/they were|f2s2p;f1p
+were|we/they were; you were|f1p;f2s2p
 then|then, after that; then, in that case|o;o
 had|past form of have|o
 or|or|o
 been|been|o
 need|to need|v
-thing|thing, an object; thing, a matter, an affair|o;o
+thing|thing, a matter, an affair; thing, an object|o;o
 our|our|o
 gonna|going to (informal)|o
 really|really, truly; really (very)|o;o
@@ -122,7 +122,7 @@ could|could, was able to; could (a polite request)|o;o
 didn|(did not, in didn't)|g
 by|by (beside); by (done by); by (no later than); by (by means of)|o;o;o;o
 mean|to mean, to signify; mean, unkind; to mean, to intend; a means, a way of doing something; by means of: using|v;o;v;o;n
-way|way, road; way, manner; way, distance (a long way)|o;o;o
+way|way, manner; way, road; way, distance (a long way)|o;o;o
 something|something|o
 has|he/she/it has|f3s
 little|little, small; a little, a bit|o;o
@@ -179,7 +179,7 @@ put|to put, to place|v
 their|their|o
 use|to use; use, purpose|v;o
 great|great, very good; great, large|o;o
-long|long, of great length; long, lasting a long time; to long for, to want very much|o;o;v
+long|long, lasting a long time; long, of great length; to long for, to want very much|o;o;v
 uh|uh (hesitating)|o
 again|again|o
 thought|thought, past of think; a thought, an idea|o;o
@@ -190,7 +190,7 @@ night|night|o
 before|before, earlier than; before, in front of; before, previously (I've seen it before)|o;o;o
 after|after, later than; after, behind, following; after, in search of (the police are after him)|o;o;o
 won|won, past of win; (in won't) will not|o;o
-home|home, where you live; home, to or at your home (go home)|o;o
+home|home, to or at your home (go home); home, where you live|o;o
 away|away, to another place; away, at a distance (two miles away); away, absent, not here|o;o;o
 girl|girl|o
 than|than|o
@@ -364,7 +364,7 @@ gotta|(have got to) must, have to|o
 ago|ago|o
 excuse|excuse me: sorry, may I; to excuse; an excuse|n;v;o
 anyone|anyone|o
-sound|sound; to sound, to seem|o;v
+sound|to sound, to seem; sound|v;o
 until|until|o
 sit|to sit|v
 become|to become|v
@@ -395,7 +395,7 @@ death|death|o
 order|order, a command; order, arrangement; to order (buy, request); in order to: so as to|o;o;v;n
 number|number|o
 working|working, -ing form of work; working, functioning; working, having a job|o;o;o
-pick|to pick, to choose; to pick up|v;v
+pick|to pick up; to pick, to choose|v;v
 crazy|crazy, mad|o
 write|to write|v
 stand|to stand; to bear, to tolerate|v;v
@@ -424,7 +424,7 @@ inside|inside|o
 set|to set, to put; set, a group|v;o
 catch|to catch|v
 different|different|o
-high|high, far up, tall; high, great in amount (high prices); high, on drugs|o;o;o
+high|high, great in amount (high prices); high, far up, tall; high, on drugs|o;o;o
 dear|dear (loved); dear (in a letter); oh dear: expresses dismay|o;o;n
 sister|sister|o
 daughter|daughter|o
@@ -443,7 +443,7 @@ book|book; to book, to reserve|o;v
 anyway|anyway|o
 ain|(am not, is not, are not — in ain't)|g
 shall|shall (offering, suggesting)|o
-shot|shot, a gunshot; shot, past of shoot|o;o
+shot|shot, past of shoot; shot, a gunshot|o;o
 fun|fun|o
 hate|to hate|v
 against|against, opposed to; against, touching, leaning on (against the wall)|o;o
@@ -490,7 +490,7 @@ cool|cool (slightly cold); cool, excellent|o;o
 sign|sign; to sign|o;v
 touch|to touch; touch; in touch: in contact|v;o;n
 free|free, at no cost; free, not trapped|o;o
-spend|to spend (money); to spend (time)|v;v
+spend|to spend (time); to spend (money)|v;v
 fact|fact|o
 yours|yours, belonging to you|o
 dance|to dance; a dance|v;o
@@ -534,7 +534,7 @@ expect|to think something will happen; to require|v;v
 outside|beyond the walls of, not inside|o
 king|male ruler of a country|o
 funny|making you laugh; odd, suspicious|o;o
-stick|thin piece of wood; to attach, to become fixed|o;v
+stick|to attach, to become fixed; thin piece of wood|v;o
 grow|to get bigger; to cultivate; to become gradually; grow up: to become an adult|v;v;v;n
 captain|officer in charge of a ship, team or unit|o
 chuckle|to laugh quietly|v
@@ -549,13 +549,13 @@ lead|to guide, to go in front; first place; lead, a heavy grey metal|v;o;o
 drive|to operate a vehicle; to force into a state; urge, energy|v;v;o
 boss|person in charge at work|o
 living|alive; way of earning money|o;o
-control|to direct, to keep in check; power over something|v;o
+control|power over something; to direct, to keep in check|o;v
 blow|to move air; blow up: to explode; hard hit|v;n;o
 parent|mother or father|o
 dinner|main meal of the day|o
 ahead|in front, further forward|o
 surprise|unexpected event; to catch off guard|o;v
-state|condition; nation, government; to say formally|o;o;v
+state|nation, government; condition; to say formally|o;o;v
 company|business firm; being with others|o;o
 force|physical power; to make someone do something; armed body|o;v;o
 fly|to move through the air; small insect|v;o
@@ -669,7 +669,7 @@ fool|stupid person; to trick|o;v
 calling|phoning; shouting to|o;o
 choose|to pick from several options|v
 horse|large animal ridden by people|o
-lock|fastening opened with a key; to fasten|o;v
+lock|to fasten; fastening opened with a key|v;o
 bag|container carried in the hand|o
 less|smaller in amount, not so much|o
 teach|to give lessons, to show how|v
@@ -681,13 +681,13 @@ fault|responsibility for something wrong; flaw|o;o
 rule|instruction that must be followed; to govern|o;v
 dude|man, guy (informal)|o
 offer|to hold out or propose; proposal|v;o
-park|public green space; to leave a vehicle|o;v
+park|to leave a vehicle; public green space|v;o
 weren|(in weren't) negative form of were|o
 given|given, past participle of give|o
 realize|to become aware of, to understand|v
 future|time to come|o
 quick|fast, taking little time|o
-straight|not bent; directly, at once; honest|o;o;o
+straight|directly, at once; not bent; honest|o;o;o
 ooh|(exclamation of surprise or pleasure)|g
 class|group taught together; lesson; social rank; quality|o;o;o;o
 mark|spot or line left on something; to grade; to show the position of|o;v;v
@@ -920,7 +920,7 @@ slow|taking a long time, not fast|o
 deserve|to have earned by what you did|v
 whether|if, in either case|o
 pant|to breathe hard and fast; pants: trousers (US), underpants (UK)|v;n
-support|to hold up; to help, to back|v;v
+support|to help, to back; to hold up|v;v
 public|open to everyone; the people generally|o;o
 base|bottom part, foundation; military camp|o;o
 angry|feeling strong displeasure|o

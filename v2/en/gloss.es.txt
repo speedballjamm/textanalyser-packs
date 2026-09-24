@@ -16,7 +16,7 @@ i|yo (quien habla)|f1s
 the|el, la, los, las (el ya conocido)|o
 to|a, hacia (dirección, dar a); (marca el infinitivo: to go, ir)|v;v
 a|un, una (no uno en particular)|o
-'s|es, está; ha, tiene; de (posesión)|f3s;f3s;o
+'s|de (posesión); es, está; ha, tiene|o;f3s;f3s
 it|lo, ello (algo ya mencionado)|f3s
 that|ese, aquel (aquel de allá); que (introduce una oración)|o;o
 and|y|o
@@ -37,7 +37,7 @@ was|yo era, estaba; él/ella/eso era, estaba|f1s;f3s
 know|saber (un hecho); conocer (a una persona)|v;v
 not|no|o
 be|ser, estar|v
-are|tú eres, estás; nosotros somos, ellos son|f2s2p;f1p
+are|nosotros somos, ellos son; tú eres, estás|f1p;f2s2p
 with|con|o
 but|pero, sin embargo; menos, excepto (todos menos uno)|o;o
 all|todo, todos|o
@@ -92,13 +92,13 @@ us|nos, nosotros|o
 would|(marca el condicional: haría)|o
 them|los, las, ellos|o
 where|dónde, donde|o
-were|tú eras, estabas; nosotros éramos, ellos eran|f2s2p;f1p
+were|nosotros éramos, ellos eran; tú eras, estabas|f1p;f2s2p
 then|entonces, después; entonces, en ese caso|o;o
 had|forma pasada de have|o
 or|o|o
 been|sido, estado|o
 need|necesitar|v
-thing|cosa, objeto; cosa, asunto|o;o
+thing|cosa, asunto; cosa, objeto|o;o
 our|nuestro|o
 gonna|va a (informal)|o
 really|realmente, de verdad; muy, bien|o;o
@@ -109,7 +109,7 @@ give|dar|v
 could|podía, pude; podría (pedido cortés)|o;o
 'd|(would: I'd like, quisiera); (had: I'd gone, me había ido)|o;g
 mean|significar, querer decir; malo, cruel; querer, tener la intención de; medio, forma de hacer algo; by means of: por medio de|v;o;v;o;n
-way|camino, vía; manera, modo; distancia, trecho (un largo camino)|o;o;o
+way|manera, modo; camino, vía; distancia, trecho (un largo camino)|o;o;o
 something|algo|o
 has|él/ella/eso tiene, ha|f3s
 little|pequeño, chico; un poco|o;o
@@ -163,7 +163,7 @@ put|poner, colocar|v
 their|su (de ellos)|o
 use|usar; uso, utilidad|v;o
 great|genial, muy bueno; grande, enorme|o;o
-long|largo; largo, que dura mucho; anhelar, desear mucho|o;o;v
+long|largo, que dura mucho; largo; anhelar, desear mucho|o;o;v
 uh|eh (al dudar)|o
 again|otra vez, de nuevo|o
 thought|pensó, pasado de think; un pensamiento, una idea|o;o
@@ -173,7 +173,7 @@ must|deber, tener que|o
 night|noche|o
 before|antes de; delante de; antes (ya lo he visto antes)|o;o;o
 after|después de; detrás de, tras; en busca de (la policía lo busca)|o;o;o
-home|casa, hogar; a casa, en casa (ir a casa)|o;o
+home|a casa, en casa (ir a casa); casa, hogar|o;o
 away|lejos, a otro lugar; a distancia (a dos millas); fuera, ausente|o;o;o
 girl|niña, muchacha|o
 than|que (en comparaciones)|o
@@ -323,7 +323,7 @@ buy|comprar|v
 gotta|(have got to) deber, tener que|o
 ago|hace (tiempo atrás)|o
 anyone|alguien, cualquiera|o
-sound|sonido; sonar, parecer|o;v
+sound|sonar, parecer; sonido|v;o
 until|hasta|o
 sit|sentarse|v
 become|volverse, llegar a ser|v
@@ -350,7 +350,7 @@ body|cuerpo; cadáver; organismo (un órgano de gobierno)|o;o;o
 death|muerte|o
 number|número|o
 working|trabajando; que funciona; con empleo, que trabaja|o;o;o
-pick|escoger, elegir; recoger, levantar|v;v
+pick|recoger, levantar; escoger, elegir|v;v
 crazy|loco|o
 write|escribir|v
 stand|estar de pie, pararse; soportar, aguantar|v;v
@@ -375,7 +375,7 @@ inside|adentro, dentro|o
 set|poner, colocar; conjunto, juego|v;o
 catch|atrapar, agarrar|v
 different|diferente, distinto|o
-high|alto; elevado (precios altos); drogado, colocado|o;o;o
+high|elevado (precios altos); alto; drogado, colocado|o;o;o
 sister|hermana|o
 daughter|hija|o
 gun|pistola, arma|o
@@ -390,7 +390,7 @@ four|cuatro|o
 quite|bastante, algo; del todo, completamente|o;o
 anyway|de todos modos|o
 shall|(al ofrecer o sugerir: shall we?, ¿vamos?)|o
-shot|un disparo; disparó, pasado de shoot|o;o
+shot|disparó, pasado de shoot; un disparo|o;o
 fun|diversión|o
 hate|odiar|v
 against|contra, en contra de; contra, apoyado en (contra la pared)|o;o
@@ -434,7 +434,7 @@ welcome|bienvenido; you're welcome: de nada|o;n
 cool|fresco (algo frío); genial, excelente|o;o
 sign|letrero, señal; firmar|o;v
 free|gratis, sin costo; libre, no atrapado|o;o
-spend|gastar (dinero); pasar (tiempo)|v;v
+spend|pasar (tiempo); gastar (dinero)|v;v
 fact|hecho|o
 don't|no (forma la negación)|f3s
 doesn't|no (negación con he/she/it)|f3s
@@ -522,7 +522,7 @@ expect|esperar que algo pase; exigir|v;v
 outside|afuera de, fuera de|o
 king|rey|o
 funny|gracioso, chistoso; raro, sospechoso|o;o
-stick|palo, vara; pegar, quedarse pegado|o;v
+stick|pegar, quedarse pegado; palo, vara|v;o
 captain|capitán (de un barco, equipo o unidad)|o
 chuckle|reírse por lo bajo|v
 human|ser humano; humano, de las personas|o;o
@@ -535,13 +535,13 @@ lead|guiar, ir adelante; el primer lugar; plomo|v;o;o
 drive|manejar, conducir; llevar a un estado; impulso, energía|v;v;o
 boss|jefe|o
 living|vivo; el sustento, cómo se gana la vida|o;o
-control|controlar, dominar; control, poder sobre algo|v;o
+control|control, poder sobre algo; controlar, dominar|o;v
 blow|soplar; blow up: explotar; golpe fuerte|v;n;o
 parent|padre o madre|o
 dinner|la comida principal del día, cena|o
 ahead|adelante, más adelante|o
 surprise|sorpresa; sorprender, agarrar desprevenido|o;v
-state|estado, condición; estado, nación; declarar formalmente|o;o;v
+state|estado, nación; estado, condición; declarar formalmente|o;o;v
 company|empresa, compañía; compañía, estar acompañado|o;o
 force|fuerza física; obligar a alguien; cuerpo armado|o;v;o
 fly|volar; mosca|v;o
@@ -650,7 +650,7 @@ fool|tonto; engañar|o;v
 calling|llamando (por teléfono); llamando a gritos|o;o
 choose|escoger, elegir|v
 horse|caballo|o
-lock|cerradura, chapa; cerrar con llave|o;v
+lock|cerrar con llave; cerradura, chapa|v;o
 bag|bolsa, bolso|o
 less|menos|o
 teach|enseñar|v
@@ -661,13 +661,13 @@ fault|culpa; defecto, falla|o;o
 rule|regla, norma; gobernar|o;v
 dude|tipo, güey (informal)|o
 offer|ofrecer, proponer; oferta, propuesta|v;o
-park|parque; estacionar|o;v
+park|estacionar; parque|v;o
 weren|(en weren't) forma negativa de were|o
 given|dado, participio de give|o
 realize|darse cuenta de, comprender|v
 future|el futuro|o
 quick|rápido, breve|o
-straight|derecho, no torcido; directamente, enseguida; honesto|o;o;o
+straight|directamente, enseguida; derecho, no torcido; honesto|o;o;o
 ooh|(exclamación de sorpresa o placer)|g
 class|clase, grupo de alumnos; clase, lección; clase social; clase, calidad|o;o;o;o
 mark|marca, mancha; calificar; señalar el lugar de|o;v;v
@@ -894,7 +894,7 @@ slow|lento, despacio|o
 deserve|merecer|v
 whether|si (en cualquiera de los casos)|o
 pant|jadear, respirar agitado; pants: pantalones (EE. UU.), calzoncillos (R. U.)|v;n
-support|sostener, sujetar; apoyar, respaldar|v;v
+support|apoyar, respaldar; sostener, sujetar|v;v
 public|público, abierto a todos; el público, la gente|o;o
 base|base, parte de abajo; base militar|o;o
 angry|enojado, molesto|o
@@ -9421,7 +9421,7 @@ no|no (para rechazar o negar); ningún, ninguna|o;o
 can|poder, ser capaz de; (en can't) no poder; una lata|o;o;o
 get|conseguir, obtener; volverse, ponerse; llegar; entender|v;v;v;v
 right|correcto, cierto; derecho (el lado); (interjección) está bien, de acuerdo; un derecho|o;o;o;o
-well|bien (de buena manera); bueno… (al hacer una pausa); bien, sano; as well: también|o;o;o;n
+well|bueno… (al hacer una pausa); bien (de buena manera); bien, sano; as well: también|o;o;o;n
 will|(forma el futuro: I will go, iré); voluntad (determinación); testamento (documento que se deja al morir)|o;o;o
 by|junto a (al lado); por (hecho por); para (a más tardar); por, mediante (por medio de)|o;o;o;o
 work|trabajar; trabajo, empleo; funcionar|v;o;v

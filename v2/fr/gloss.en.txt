@@ -351,7 +351,7 @@ laisse|leave it!; I leave; he/she leaves|o;f1s;f3s
 chaque|each, every|o
 sembler|to seem|v
 putain|damn, fuck; whore|o;o
-retrouver|to meet up with; to find again|v;v
+retrouver|to find again; to meet up with|v;v
 perdre|to lose|v
 parlé|spoken|o
 avez-vous|do you have (pl., formal)|f2s2p
@@ -409,7 +409,7 @@ enfin|finally, at last; well, I mean|o;o
 mari|husband|o
 garder|to keep; to look after|v;v
 payer|to pay|v
-nouvelle|news; new (f.); short story|o;o;o
+nouvelle|new (f.); news; short story|o;o;o
 rappeler|to remind; to call back; se rappeler: to remember|v;v;n
 parti|left, gone; party (political)|o;o
 photo|photo|o
@@ -483,7 +483,7 @@ service|service; favour|o;o
 derrière|behind|o
 ben|well, um|o
 capitaine|captain|o
-tirer|to pull; to shoot|v;v
+tirer|to shoot; to pull|v;v
 foutre|to shove, to chuck; s'en foutre: not to care|v;n
 envie|urge, craving; avoir envie de: to want; I envy; he/she envies|o;n;f1s;f3s
 porter|to carry; to wear|v;v
@@ -735,7 +735,7 @@ blessé|injured, hurt|o
 patient|patient|o
 dix|ten|o
 probablement|probably|o
-conseil|advice; council|o;o
+conseil|council; advice|o;o
 cheval|horse|o
 invité|guest; invited|o;o
 empêcher|to prevent|v
@@ -760,7 +760,7 @@ présent|present, current|o
 contrôle|control; check; I control; he/she controls|o;o;f1s;f3s
 oncle|uncle|o
 table|table|o
-neuf|new (brand new); nine|o;o
+neuf|nine; new (brand new)|o;o
 anniversaire|birthday; anniversary|o;o
 con|prick; stupid (vulgar)|o;o
 veux-tu|do you want (sg.)|f2s2p

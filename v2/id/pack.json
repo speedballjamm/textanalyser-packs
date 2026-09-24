@@ -1,17 +1,17 @@
 {
   "id": "id",
-  "version": "1.1.65",
+  "version": "1.1.67",
   "minApp": "0.2.5",
   "files": {
     "lex": {
       "path": "lex.txt",
       "license": "unencumbered",
-      "sha256": "1af34a0934b9cd5ed401563e1661801d1fb71263a9a8ca776624134ef2ff20a9"
+      "sha256": "af163e268f806ff000f3adf80af58d7b3c91498e9166c503fc777377a5f3d32f"
     },
     "gloss.en": {
       "path": "gloss.en.txt",
       "license": "unencumbered",
-      "sha256": "88cc838ca565c4926d1bb91be0a744cd65ff72b4f5db3ae4ab9c11c31835d6f1"
+      "sha256": "60f45ff362f7b45f4d3a1f1342e673d58910e2ea59ecac67ccf1959464a85602"
     },
     "ranks": {
       "path": "ranks.txt",

@@ -540,7 +540,7 @@ kampung|village; hometown|o;o
 sendiri|alone, by oneself; own, self|o;o
 punya|to have, to own; belonging to, -'s (colloq.: punya siapa? = whose?)|v;o
 milik|possession, belonging to|o
-hidup|to live; on, working (of a device); life; alive|v;o;o;o
+hidup|life; to live; on, working (of a device); alive|o;v;o;o
 hidup-hidup|alive (while still living)|o
 mati|dead; to die; off, out (of a device)|o;v;o
 lahir|to be born|v
@@ -591,7 +591,7 @@ buang|to throw away|v
 buang-buang|to waste (time, money)|v
 sampah|garbage, rubbish|o
 pilih|to choose; to vote|v;v
-tentu|certain, sure; of course|o;o
+tentu|of course; certain, sure|o;o
 tunjuk|to point, to show|v
 tanda|sign, mark|o
 bukti|proof, evidence|o
@@ -725,7 +725,7 @@ diam|silent; to stay still|o;v
 diam-diam|secretly, quietly|o
 tinggal|to stay, live; to leave behind; to be left, remain (only)|v;v;v
 berangkat|to depart|v
-lewat|to pass by; through, via|v;o
+lewat|through, via; to pass by|o;v
 ikut|to follow, to join|v
 antar|to escort, deliver|v
 jemput|to pick up|v
@@ -5263,7 +5263,7 @@ menabung|to save money|v
 mengolah|to process, work on|v
 mengobrol|to chat|v
 mengarang|to compose, write, make up|v
-kehilangan|loss; to lose|o;v
+kehilangan|to lose; loss|v;o
 kesempatan|opportunity, chance|o
 kehidupan|life|o
 kekuatan|strength, power|o

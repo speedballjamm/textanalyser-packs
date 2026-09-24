@@ -35,7 +35,7 @@
 他们|they, them|f3p
 啊|(softens, exclamation)|g
 要|to want; will; must|v;o;o
-会|to know how to (learned skill); will; to meet, to gather|v;o;v
+会|will; to know how to (learned skill); to meet, to gather|o;v;v
 也|also, too; (ends a statement) (Classical)|o;o.c
 来|to come; (after a verb) towards the speaker (拿来, 带来); (before a verb) to take something on, let me (我来)|v;o;v
 和|and; with|o;o
@@ -45,7 +45,7 @@
 一个|one (+ measure word); a|o;o
 对|correct, right; towards; to face|o;o;v
 没有|not to have; there is not; did not|o;o;f3s
-让|to let, to allow; to make (someone do)|v;v
+让|to make (someone do); to let, to allow|v;v
 把|(moves the object in front of the verb); (measure word: things with handles)|g;g
 做|to do, to make|v
 不是|is not; no|f3s;o
@@ -203,7 +203,7 @@
 出来|to come out; (after a verb) out, into view, worked out|v;o
 对不起|sorry, excuse me|o
 天|day; sky; a god, a heavenly being (Buddhist)|o;o;o.b
-时|time, hour; when|o;o
+时|when; time, hour|o;o
 大家|everyone|o
 与|and, with (formal)|o
 有人|someone; there is someone|o;o
@@ -212,7 +212,7 @@
 并|and (formal); (not) at all|o;o
 过来|to come over|v
 这种|this kind of|o
-怎么样|how about it?; how is it?|o;o
+怎么样|how is it?; how about it?|o;o
 一些|some, a few|o
 见|to see, to meet; a view, an opinion (Buddhist)|v;o.b
 为了|in order to, for|o
@@ -220,7 +220,7 @@
 女人|woman|o
 只有|only; only if|o;o
 快点|hurry up|o
-比|to compare; than|v;o
+比|than; to compare|o;v
 一次|once, one time|o
 发现|to discover, to find out|v
 得到|to get, to obtain|v
@@ -234,7 +234,7 @@
 是不是|is it or not?; right?|f3s;o
 而且|moreover, and also|o
 喂|hello (on the phone); hey (wèi); to feed (wèi)|o;o;v
-前|front; before, ago|o;o
+前|before, ago; front|o;o
 生活|life; to live|o;v
 男人|man|o
 之前|before, previously|o
@@ -273,7 +273,7 @@
 继续|to continue, to carry on|v
 或|or (formal, written)|o
 再见|goodbye|o
-电话|telephone; phone call|o;o
+电话|phone call; telephone|o;o
 如何|how, in what way (formal)|o
 到底|in the end, after all; (what on earth…?)|o;g
 最后|last, final; in the end|o;o
@@ -340,7 +340,7 @@
 无法|to have no way to, cannot|v
 伙计|mate, buddy; shop assistant|o;o
 不到|not up to, less than|o
-送|to give (as a gift); to see off; to deliver|v;v;v
+送|to deliver; to give (as a gift); to see off|v;v;v
 帮助|to help; help|v;o
 办法|way, method of dealing with something|o
 玩|to play, to have fun|v
@@ -359,7 +359,7 @@
 有没有|is there?, do you have? (yes-no question)|f3s
 兄弟|brother; buddy|o;o
 已|already (formal, short for 已经); having finished, after (Classical)|o;o.c
-安全|safe; safety|o;o
+安全|safety; safe|o;o
 其实|actually, in fact|o
 拜托|please, I'm begging you; to ask a favour|o;v
 计划|plan; to plan|o;v
@@ -410,7 +410,7 @@
 岁|years of age|o
 就要|about to, going to|o
 打算|to intend to, to plan|v
-完|to finish, to run out; (after a verb: done)|v;g
+完|(after a verb: done); to finish, to run out|g;v
 故事|story|o
 当时|at the time, back then|o
 几个|a few, several|o
@@ -450,7 +450,7 @@
 忙|busy|o
 开心|happy, in good spirits|o
 关系|relationship, connection|o
-抓|to grab; to catch, to arrest|v;v
+抓|to catch, to arrest; to grab|v;v
 女士|lady, madam (polite address)|o
 学校|school|o
 样子|appearance, look; manner|o;o
@@ -569,9 +569,9 @@
 晚安|goodnight|o
 解释|to explain; explanation|v;o
 全部|all of it, the whole lot|o
-靠|to lean on; to rely on; close to|v;v;o
+靠|to rely on; to lean on; close to|v;v;o
 呆|to stay, to hang around; blank, dazed|v;o
-起|to rise, to get up; (after a verb: up, starting to)|v;g
+起|(after a verb: up, starting to); to rise, to get up|g;v
 突然|suddenly; sudden|o;o
 飞机|aeroplane|o
 解决|to solve, to settle|v
@@ -643,7 +643,7 @@
 冷静|calm; to calm down|o;v
 怕|to fear, to be scared of; I'm afraid (that)|v;f1s
 厉害|impressive, formidable; severe|o;o
-直接|direct, straight; directly|o;o
+直接|directly; direct, straight|o;o
 办公室|office|o
 停|to stop, to halt; to park|v;v
 鬼|ghost; damned|o;o
@@ -712,7 +712,7 @@
 正常|normal|o
 以及|as well as, and|o
 重新|again, afresh|o
-研究|to research, to look into; research|v;o
+研究|research; to research, to look into|o;v
 正确|correct, right|o
 附近|nearby, in the area|o
 不然|or if not, else|o
@@ -880,7 +880,7 @@
 多么|how (how lovely!)|o
 变|to change, to turn into|v
 难|difficult, hard; calamity, danger (nàn)|o;o
-分|minute; point, mark; to divide|o;o;v
+分|to divide; minute; point, mark|v;o;o
 哪个|which one|o
 行为|behaviour, conduct|o
 往|towards, in the direction of|o
