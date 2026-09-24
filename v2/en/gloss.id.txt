@@ -1895,7 +1895,7 @@ mass|kumpulan besar, massa; Misa, kebaktian Katolik; massa, jumlah zat dalam ben
 pot|panci, periuk; ganja (informal)|o;o
 midnight|tengah malam, pukul dua belas malam|o
 snap|patah berbunyi; membentak; jepretan, foto|v;v;o
-aside|ke samping, ke pinggir|v
+aside|ke samping, ke pinggir|o
 pie|pai, kue berisi|o
 governor|gubernur, kepala penjara|o
 scoff|mencemooh, mengejek; melahap|v;v
@@ -1945,7 +1945,7 @@ billion|1.000.000.000|o
 assault|serangan brutal, penganiayaan; menyerang|o;v
 grateful|bersyukur, berterima kasih|o
 kidnap|menculik|v
-extremely|sangat, teramat|v
+extremely|sangat, teramat|o
 blast|ledakan; embusan angin kencang; meledakkan|o;o;v
 express|mengungkapkan, menyatakan; ekspres, kereta atau layanan cepat|v;o
 capable|mampu, sanggup; cakap, terampil|o;o
@@ -3821,7 +3821,7 @@ torch|senter (Inggris); obor|o;o
 portrait|potret, lukisan atau foto orang|o
 demonstrate|memperagakan, menunjukkan dengan jelas; berunjuk rasa|v;v
 mutter|menggerutu, berbicara lirih tak jelas|v
-somewhat|agak, sedikit banyak|v
+somewhat|agak, sedikit banyak|o
 mumble|berkomat-kamit, berbicara tak jelas|v
 stir|mengaduk; bergerak sedikit; membangkitkan perasaan|v;v;v
 messenger|kurir, pembawa pesan|o
@@ -4367,7 +4367,7 @@ elbow|siku|o
 contribute|menyumbang, memberi bagian; ikut menyebabkan, turut mewujudkan|v;v
 rumour|rumour, ejaan Inggris dari rumor|o
 transplant|mencangkokkan organ dari satu tubuh ke tubuh lain; memindahkan tanaman|v;v
-equally|sama-sama, sama besarnya; secara merata, dalam bagian yang sama|v;o
+equally|sama-sama, sama besarnya; secara merata, dalam bagian yang sama|o;o
 flaw|cacat, kekurangan yang merusak|o
 belonging|(belongings) barang milik; rasa memiliki tempat, rasa diterima|o;o
 shipment|kiriman barang; pengiriman barang|o;o
@@ -9116,7 +9116,7 @@ federalism|federalisme|o
 hereditary|turun-temurun, keturunan|o
 humankind|umat manusia|o
 ingenuity|kecerdikan, daya cipta|o
-insofar|(dalam insofar as) sejauh|v
+insofar|(dalam insofar as) sejauh|o
 insurer|perusahaan asuransi|o
 intolerance|intoleransi; intoleransi (makanan)|o;o
 invasive|invasif (menyebar merugikan); invasif (masuk ke tubuh)|o;o
@@ -9484,7 +9484,7 @@ bore|membuat bosan; mengebor; bentuk lampau bear|v;v;o
 account|rekening; laporan, penuturan; akun; account for: menjelaskan|o;o;o;n
 rid|get rid of: menyingkirkan, membuang; membebaskan dari|n;v
 copy|salinan, tiruan; menyalin; eksemplar|o;v;o
-further|lebih jauh, lebih lanjut; tambahan, lebih|v;o
+further|lebih jauh, lebih lanjut; tambahan, lebih|o;o
 freak|orang atau hal aneh; freak out: panik, kalap|o;n
 apart|terpisah, berjauhan; apart from: selain, kecuali|o;n
 cheat|curang, menipu; cheat on: berselingkuh dari|v;n
@@ -9800,7 +9800,7 @@ goblin|makhluk kecil jelek yang nakal|o
 personage|tokoh penting|o
 temperament|watak, perangai; kecenderungan murung atau emosional|o;o
 unspoken|tak terucapkan, dipahami tanpa dikatakan|o
-whither|ke mana|v
+whither|ke mana|o
 displease|membuat kesal, tidak menyenangkan|v
 recoil|mundur tersentak (karena takut atau jijik); hentakan senjata api|v;o
 respectful|penuh hormat, sopan|o
@@ -9816,7 +9816,7 @@ railing|pagar, pegangan tangga|o
 ramble|mengoceh tak tentu arah; berjalan-jalan santai di pedesaan|v;v
 dedication|pengabdian, dedikasi; kata persembahan dalam buku|o;o
 exertion|pengerahan tenaga atau pikiran|o
-thither|ke sana|v
+thither|ke sana|o
 cavern|gua besar|o
 facade|bagian depan bangunan, fasad; kedok, penampilan palsu|o;o
 harshly|dengan keras, dengan kejam|o
@@ -10045,7 +10045,7 @@ epiphany|pencerahan tiba-tiba; Epifani (hari raya Kristen tiga Raja, 6 Januari)|
 excerpt|kutipan, cuplikan (dari buku, film)|o
 flux|perubahan terus-menerus|o
 galley|dapur kapal; kapal kuno yang didayung|o;o
-hither|ke sini; hither and thither: ke sana kemari|v;n
+hither|ke sini; hither and thither: ke sana kemari|o;n
 jag|ujung tajam, gerigi; serangan, luapan (a crying jag = tangis yang tak berhenti)|o;o
 mesmerize|memukau, menghipnotis|v
 porridge|bubur (gandum oat dengan air atau susu)|o

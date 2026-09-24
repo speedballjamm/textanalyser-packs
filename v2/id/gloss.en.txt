@@ -101,7 +101,7 @@ dulu|before, first (in time)|o
 dahulu|before, formerly|o
 sudah|already; (marks a completed action)|o;g
 sudahi|to end, to stop|v
-sudahkan|have you already...? (= sudahkah)|f3s
+sudahkan|have you already...? (= sudahkah)|f2s2p
 berkesudahan|coming to an end (usu. tak berkesudahan, endless)|o
 telah|already (formal)|o
 belum|not yet|o
@@ -6256,7 +6256,7 @@ terbesar|biggest, largest|o
 terbakar|burnt, on fire|o
 terbunuh|killed|o
 terkadang|sometimes|o
-tergantung|depends on; hanging, suspended|o;o
+tergantung|depends on; hanging, suspended|f3s;o
 terutama|especially, mainly|o
 tertangkap|caught, captured|o
 tersenyum|to smile|v
@@ -12718,7 +12718,7 @@ lepas pantai|offshore|o
 lanjut usia|elderly|o
 kerja bakti|communal work, community service|o
 buka puasa|to break the fast; iftar|v;o
-sedikit banyak|to some extent, more or less|v
+sedikit banyak|to some extent, more or less|o
 jalan tikus|back alley, rat run|o
 telur dadar|omelette|o
 gawat darurat|emergency|o

@@ -1882,7 +1882,7 @@ mass|masse, tas; messe; masse (d'un corps)|o;o;o
 pot|casserole, marmite; herbe, cannabis (familier)|o;o
 midnight|minuit|o
 snap|casser net, se briser; parler sèchement; photo, cliché|v;v;o
-aside|de côté, à l'écart|v
+aside|de côté, à l'écart|o
 pie|tarte, tourte|o
 governor|gouverneur, directeur (de prison)|o
 scoff|se moquer, railler; bouffer, engloutir|v;v
@@ -1932,7 +1932,7 @@ billion|1 000 000 000|o
 assault|agression, attaque; agresser, attaquer|o;v
 grateful|reconnaissant|o
 kidnap|enlever, kidnapper|v
-extremely|extrêmement|v
+extremely|extrêmement|o
 blast|explosion, déflagration; souffle, rafale; faire sauter|o;o;v
 express|exprimer; express, rapide|v;o
 capable|capable de; compétent, doué|o;o
@@ -3813,7 +3813,7 @@ torch|lampe de poche (britannique); torche, flambeau|o;o
 portrait|portrait|o
 demonstrate|démontrer, montrer clairement; manifester|v;v
 mutter|marmonner, grommeler|v
-somewhat|quelque peu, un peu|v
+somewhat|quelque peu, un peu|o
 mumble|marmonner, bredouiller|v
 stir|remuer, tourner; bouger légèrement, remuer; susciter, éveiller|v;v;v
 messenger|messager, coursier|o
@@ -4359,7 +4359,7 @@ elbow|coude|o
 contribute|contribuer, apporter sa part; contribuer à, concourir à|v;v
 rumour|rumour, orthographe britannique de rumor|o
 transplant|greffer, transplanter; repiquer, transplanter|v;v
-equally|également, autant; à parts égales|v;o
+equally|également, autant; à parts égales|o;o
 flaw|défaut, imperfection|o
 belonging|(belongings) affaires, effets personnels; sentiment d'appartenance|o;o
 shipment|cargaison, envoi; expédition, envoi|o;o
@@ -9116,7 +9116,7 @@ federalism|fédéralisme|o
 hereditary|héréditaire|o
 humankind|humanité, genre humain|o
 ingenuity|ingéniosité|o
-insofar|(dans insofar as) dans la mesure où|v
+insofar|(dans insofar as) dans la mesure où|o
 insurer|assureur|o
 intolerance|intolérance; intolérance (alimentaire)|o;o
 invasive|envahissant, invasif; invasif (qui pénètre dans le corps)|o;o
@@ -9484,7 +9484,7 @@ bore|ennuyer; percer, forer; passé de bear (porter)|v;v;o
 account|compte (d'argent); récit, compte rendu; compte (sur un service en ligne); account for: expliquer|o;o;o;n
 rid|get rid of: se débarrasser de; débarrasser de|n;v
 copy|copie, reproduction; copier; exemplaire (d'un livre, d'un journal)|o;v;o
-further|plus loin, davantage; supplémentaire|v;o
+further|plus loin, davantage; supplémentaire|o;o
 freak|personne ou chose bizarre; freak out: paniquer, perdre les pédales|o;n
 apart|séparé, éloigné l'un de l'autre; apart from: à part, sauf|o;n
 cheat|tricher; cheat on: tromper|v;n
@@ -9800,7 +9800,7 @@ goblin|lutin, gobelin|o
 personage|personnage (important)|o
 temperament|tempérament, caractère; humeur changeante|o;o
 unspoken|tacite, sous-entendu|o
-whither|où (vers quel lieu)|v
+whither|où (vers quel lieu)|o
 displease|déplaire à, mécontenter|v
 recoil|reculer (de peur, de dégoût); recul (d'une arme)|v;o
 respectful|respectueux|o
@@ -9816,7 +9816,7 @@ railing|grille, rambarde|o
 ramble|divaguer, parler sans suite; se promener à la campagne|v;v
 dedication|dévouement, engagement; dédicace|o;o
 exertion|effort|o
-thither|là, vers ce lieu|v
+thither|là, vers ce lieu|o
 cavern|caverne|o
 facade|façade; façade, fausse apparence|o;o
 harshly|durement, sévèrement|o
@@ -10045,7 +10045,7 @@ epiphany|révélation soudaine; Épiphanie (6 janvier)|o;o
 excerpt|extrait|o
 flux|changement perpétuel|o
 galley|cuisine (d'un navire); galère|o;o
-hither|ici; hither and thither: çà et là|v;n
+hither|ici; hither and thither: çà et là|o;n
 jag|pointe, aspérité; crise de (a crying jag)|o;o
 mesmerize|fasciner, hypnotiser|v
 porridge|porridge, bouillie d'avoine|o

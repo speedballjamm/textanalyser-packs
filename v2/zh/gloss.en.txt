@@ -14,7 +14,7 @@
 我|I, me|f1s
 你|you (singular)|f2s2p
 了|(completed action; or a change of state)|g
-是|to be (am, is, are); yes|v;o
+是|to be (am, is, are); yes; this, that (Classical)|v;o;o
 在|at, in, on; (marks an action in progress)|o;g
 我们|we, us|f1p
 他|he, him|f3s
@@ -35,8 +35,8 @@
 他们|they, them|f3p
 啊|(softens, exclamation)|g
 要|to want; will; must|v;o;o
-会|to know how to (learned skill); will|v;o
-也|also, too|o
+会|to know how to (learned skill); will; to meet, to gather|v;o;v
+也|also, too; (ends a statement) (Classical)|o;o
 来|to come|v
 和|and; with|o;o
 那|that; then (in that case)|o;o
@@ -70,14 +70,14 @@
 个|(measure word: general, default)|g
 这里|here|o
 上|up, on; to go up; last (week, month)|o;v;o
-得|(links a verb to how it is done); must, have to|g;o
+得|(links a verb to how it is done); must, have to; to obtain, to attain (dé)|g;o;v
 被|(marks the passive, by)|g
 看|to look at, to watch; to read; to visit (someone)|v;v;v
 谁|who|o
 不会|will not; cannot, does not know how to|o;o
 事|matter, thing (to deal with)|o
 自己|oneself, own|o
-着|(ongoing state)|g
+着|(ongoing state); to cling to, attachment (zhuó) (Buddhist); to put on, to wear (zhuó)|g;v;v
 告诉|to tell (someone)|v
 过|(has ever done, experienced); to cross, to pass; to spend (time), to celebrate|g;v;v
 已经|already|o
@@ -91,7 +91,7 @@
 不要|don't; not to want|o;o
 这么|so, this much|o
 那个|that one, that|o
-为|for, for the sake of; because of|o;o
+为|for, for the sake of; because of; to be, to act as (wéi) (Classical)|o;o;v
 再|again (next time); then|o;o
 里|in, inside|o
 哦|oh (I see)|o
@@ -115,7 +115,7 @@
 找|to look for; to give change|v;v
 应该|should, ought to|o
 请|please; to invite; to ask; to treat (pay for someone)|o;v;v;v
-等|to wait; and so on|v;o
+等|to wait; and so on; equal; plural after a pronoun, and others (Classical)|v;o;o;o
 死|to die; dead; extremely|v;o;o
 那么|so, in that case; that much|o;o
 多|many, much; more; how (in questions)|o;o;o
@@ -136,7 +136,7 @@
 工作|work, job; to work|o;v
 呀|(softens, exclamation; the form of 啊 used after a vowel)|g
 吃|to eat|v
-当|when, as; to serve as|o;v
+当|when, as; to serve as; should; shall, will (Classical)|o;v;o;o
 嘿|hey|o
 回来|to come back|v
 真|really, truly; real|o;o
@@ -146,7 +146,7 @@
 然后|then, after that|o
 看看|to have a look|v
 地方|place|o
-将|will, shall (formal)|o
+将|will, shall (formal); to lead, to take along (Classical)|o;v
 没事|it's nothing, never mind; to be all right, unhurt; to be free (nothing to do)|f3s;v;v
 一定|certainly, definitely; a certain (degree, amount)|o;o
 希望|to hope; hope|v;o
@@ -171,7 +171,7 @@
 该|should; that (aforementioned); to be (someone's) turn|o;o;v
 发生|to happen, to occur|v
 更|more, even more|o
-起来|to get up, to stand up; (starts and continues); (after a verb) seems, when done (looks, sounds)|v;g;o
+起来|to get up, to stand up; (starts and continues); (after a verb) seems, when done (looks, sounds)|v;g;f3s
 最|most, -est|o
 必须|must, have to|o
 一点|a little (amount); one o'clock|o;o
@@ -202,7 +202,7 @@
 不过|but, however; only|o;o
 出来|to come out; (after a verb) out, into view, worked out|v;o
 对不起|sorry, excuse me|o
-天|day; sky|o;o
+天|day; sky; a god, a heavenly being (Buddhist)|o;o;o
 时|time, hour; when|o;o
 大家|everyone|o
 与|and, with (formal)|o
@@ -214,7 +214,7 @@
 这种|this kind of|o
 怎么样|how about it?; how is it?|o;o
 一些|some, a few|o
-见|to see, to meet|v
+见|to see, to meet; a view, an opinion (Buddhist)|v;o
 为了|in order to, for|o
 感觉|to feel; feeling|v;o
 女人|woman|o
@@ -255,7 +255,7 @@
 世界|world|o
 那样|like that, that way|o
 认识|to know, be acquainted with (a person)|v
-住|to live, to stay; to stop; (after a verb) firmly, fast|v;v;o
+住|to live, to stay; to stop; (after a verb) firmly, fast; to abide, to dwell on (Buddhist)|v;v;o;v
 新|new|o
 肯定|definitely, certainly; to affirm|o;v
 最好|had better, best to; the best|f3s;o
@@ -320,7 +320,7 @@
 成为|to become (a role or a state)|v
 回去|to go back|v
 别人|other people, someone else|o
-以|with, by means of; in order to|o;o
+以|with, by means of; in order to; because, since (Classical)|o;o;o
 其他|other, the rest|o
 家伙|guy, fellow; thing|o;o
 之后|after, afterwards|o
@@ -335,7 +335,7 @@
 小心|careful; to watch out|o;v
 还好|luckily, just as well; not bad|o;o
 总是|always, invariably|o
-行|OK, will do; to walk; a row, a line (háng); mental formation, volition (Buddhist)|o;v;o;o
+行|OK, will do; to walk; a row, a line (háng); mental formation, volition (Buddhist); to practise, to carry out (formal)|o;v;o;o;v
 号|number; day of the month; size|o;o;o
 无法|to have no way to, cannot|v
 伙计|mate, buddy; shop assistant|o;o
@@ -358,7 +358,7 @@
 女儿|daughter|o
 有没有|is there?, do you have? (yes-no question)|f3s
 兄弟|brother; buddy|o;o
-已|already (formal, short for 已经)|o
+已|already (formal, short for 已经); having finished, after (Classical)|o;o
 安全|safe; safety|o;o
 其实|actually, in fact|o
 拜托|please, I'm begging you; to ask a favour|o;v
@@ -402,7 +402,7 @@
 回|to return, to go back; (measure word: times)|v;g
 喔|(oh, I see)|g
 夫人|madam, Mrs; (someone's) wife (formal)|o;o
-之|(possessive, the literary 的)|g
+之|(possessive, the literary 的); him, her, it (as an object) (Classical)|g;o
 进去|to go in|v
 疯|mad, crazy; to go mad|o;v
 睡|to sleep|v
@@ -627,7 +627,7 @@
 替|for, on behalf of; to replace|o;v
 开枪|to fire a gun, to shoot|v
 音乐|music|o
-耶|(yay; softens a statement)|g
+耶|(yay; softens a statement); (question particle) (Classical)|g;o
 糟糕|awful, terrible; oh no|o;o
 武器|weapon|o
 来自|to come from|v
@@ -722,7 +722,7 @@
 比较|fairly, rather; to compare|o;v
 字幕|subtitles|o
 门|door, gate|o
-者|(the one who does: 记者 reporter)|g
+者|(the one who does: 记者 reporter); as for, the one that is (marks a topic) (Classical)|g;o
 不够|not enough, short of|o
 加入|to join; to add in|v;v
 安静|quiet, calm|o
@@ -742,7 +742,7 @@
 几乎|almost, nearly|o
 代表|to represent; a representative|v;o
 陪|to accompany, to keep company|v
-若|if (formal)|o
+若|if (formal); whether… or, either (Classical)|o;o
 书|book|o
 国王|king|o
 打扰|to disturb, to bother|v
@@ -879,7 +879,7 @@
 老天|good heavens, my God|o
 多么|how (how lovely!)|o
 变|to change, to turn into|v
-难|difficult, hard|o
+难|difficult, hard; calamity, danger (nàn)|o;o
 分|minute; point, mark; to divide|o;o;v
 哪个|which one|o
 行为|behaviour, conduct|o
@@ -984,7 +984,7 @@
 根据|according to; a basis|o;o
 吓|to frighten, to startle|v
 权利|right, entitlement|o
-生|to be born; to give birth to; raw, unfamiliar|v;v;o
+生|to be born; to give birth to; raw, unfamiliar; to arise, to give rise to (Classical)|v;v;o;v
 队|team, squad|o
 没用|useless, no good|o
 路上|on the way, en route|o
@@ -1193,7 +1193,7 @@
 陛下|Your Majesty|o
 球|ball|o
 通常|usually, normally|o
-名|name; (measure word: people); place (in a ranking)|o;g;o
+名|name; (measure word: people); place (in a ranking); to be called (Classical)|o;g;o;v
 命运|fate, destiny|o
 旅行|to travel; a trip|v;o
 吹|to blow; to boast|v;v
@@ -1257,7 +1257,7 @@
 浪费|to waste|v
 怪物|monster, freak|o
 靠近|to get close to; near|v;o
-尽|to the utmost; to use up|v;v
+尽|to the utmost; to use up|o;v
 蛋糕|cake|o
 于是|so, thereupon|o
 床上|in bed, on the bed|o
@@ -1546,7 +1546,7 @@
 惩罚|to punish; punishment|v;o
 单独|alone, on one's own|o
 愿|to be willing to; to wish|v;v
-白|white; in vain, for nothing|o;o
+白|white; in vain, for nothing; to tell, to address (a superior) (Classical)|o;o;v
 特工|secret agent|o
 分开|to separate, to part|v
 空间|space, room|o
@@ -1723,7 +1723,7 @@
 推|to push; to put off|v;v
 权力|power, authority|o
 军|army, military|o
-方便|convenient; to be free to|o;v
+方便|convenient; to be free to; skilful means (Buddhist)|o;v;o
 凭|to rely on; on what grounds|v;o
 耳朵|ear|o
 重点|the main point, the focus|o
@@ -1947,7 +1947,7 @@
 熟悉|familiar with, to know well|o
 笑话|joke; to laugh at|o;v
 楼|building; floor, storey|o;o
-法|law; method, way; French (in 法国); object of mind, phenomenon (Buddhist)|o;o;o;o
+法|law; method, way; French (in 法国); object of mind, phenomenon (Buddhist); the Dharma, the Buddha's teaching (Buddhist)|o;o;o;o;o
 咯|(that's how it is)|g
 市场|market|o
 损失|loss; to lose (money, resources)|o;v
@@ -2054,12 +2054,12 @@
 需|to need, to require|v
 有空|to be free, to have time|v
 视频|video|o
-说法|way of putting it; a claim|o;o
+说法|way of putting it; a claim; to preach the Dharma (Buddhist)|o;o;v
 左|left|o
 牛|cow, ox; awesome, impressive (slang)|o;o
 保安|security guard|o
 千万|whatever you do (千万别); ten million|o;o
-即|namely, that is; even if|o;o
+即|namely, that is; even if; at once, then (Classical)|o;o;o
 海滩|beach|o
 收集|to collect, to gather|v
 背|back (of the body); to carry on the back; to recite|o;v;v
@@ -2162,7 +2162,7 @@
 公开|public, open; to make public|o;v
 文化|culture|o
 慰|(in 安慰: to comfort)|g
-至于|as for; to the point of|o;v
+至于|as for; to the point of|o;o
 黄金|gold|o
 去死吧|go to hell, drop dead|o
 耐心|patience; patient|o;o
@@ -2234,7 +2234,7 @@
 报|to report; newspaper; to repay|v;o;v
 迷人|charming, captivating|o
 师傅|master craftsman; mate (polite address)|o;o
-非法|illegal|o
+非法|illegal; not the Dharma (Buddhist)|o;o
 乐趣|fun, enjoyment|o
 屋子|room; house|o;o
 苹果|apple|o
@@ -2380,7 +2380,7 @@
 主席|chairman, president (of a body)|o
 酷|cool, stylish; cruel|o;o
 墙|wall|o
-念|to read aloud; to miss; a thought; to study (at school)|v;v;o;v
+念|to read aloud; to miss; a thought; to study (at school); to keep in mind, to recollect (Buddhist)|v;v;o;v;v
 趁|while, taking advantage of|o
 老头|old man, old fellow|o
 养|to raise, to keep (animals); to support|v;v
@@ -2705,7 +2705,7 @@
 高级|high-grade, senior|o
 妇女|women (as a group)|o
 雪|snow|o
-烦恼|worry, trouble; vexed|o;o
+烦恼|worry, trouble; vexed; affliction, defilement (Buddhist)|o;o;o
 很久以前|a long time ago|o
 晓得|to know (colloquial)|v
 以上|above, over|o
@@ -2813,7 +2813,7 @@
 厌倦|to be tired of, to be sick of|v
 甜蜜|sweet, happy (of a relationship)|o
 报复|to retaliate, to get back at|v
-成就|achievement, accomplishment|o
+成就|achievement, accomplishment; to accomplish, to attain|o;v
 秘书|secretary|o
 猜猜|have a guess|f3s
 不得|must not, may not|o
@@ -2848,7 +2848,7 @@
 迅速|swift, rapid|o
 阶段|stage, phase|o
 达成|to reach (an agreement)|v
-雨|rain|o
+雨|rain; to rain down (yù) (Classical)|o;v
 访问|to visit (officially); to interview|v;v
 古怪|odd, eccentric|o
 给予|to give, to grant (formal)|v
@@ -2946,7 +2946,7 @@
 比如说|for instance|o
 猎人|hunter|o
 路线|route; line (political)|o;o
-不住|(cannot — after a verb: 忍不住)|g
+不住|(cannot — after a verb: 忍不住); not abiding in, not dwelling on (Buddhist)|g;o
 舰队|fleet (naval)|o
 谢天谢地|thank goodness|o
 明确|clear-cut, explicit; to make clear|o;v
@@ -3131,7 +3131,7 @@
 即便|even supposing (formal)|o
 发挥|to bring into play, to make the most of|v
 碎片|fragment, shard|o
-至今|to this day, so far|v
+至今|to this day, so far|o
 谋杀案|murder case|o
 原则|principle|o
 黑鬼|black person (racial slur)|o
@@ -3380,7 +3380,7 @@
 奶油|cream|o
 领域|field, domain|o
 香烟|cigarette|o
-值|to be worth; value|v;o
+值|to be worth; value; to meet with, to encounter (Classical)|v;o;v
 政策|policy|o
 包裹|parcel, package; to wrap up|o;v
 坟墓|grave, tomb|o
@@ -3442,7 +3442,7 @@
 自愿|voluntarily, of one's own accord|o
 白宫|the White House|o
 摔|to fall over; to throw down, to smash|v;v
-痴|besotted, obsessed; idiotic|o;o
+痴|besotted, obsessed; idiotic; delusion (Buddhist)|o;o;o
 位子|seat, place|o
 整整|a full, a whole (整整三天)|o
 真理|truth (a fundamental one)|o
@@ -3515,7 +3515,7 @@
 烫|scalding hot; to iron|o;v
 补偿|to compensate; compensation|v;o
 面试|interview (for a job); to interview|o;v
-尽情|to one's heart's content|v
+尽情|to one's heart's content|o
 掌声|applause|o
 缺乏|to lack; a shortage of|v;o
 购买|to purchase, to buy|v
@@ -3636,8 +3636,8 @@
 查查|to look into, to check|v
 谎|(a lie: 撒谎, 谎言)|g
 沙滩|sandy beach|o
-相|each other, mutually; appearance|o;o
-香|fragrant; tasty; incense|o;o;o
+相|each other, mutually; appearance; mark, characteristic (xiàng) (Buddhist)|o;o;o
+香|fragrant; tasty; incense; smell, as a sense object (Buddhist)|o;o;o;o
 准时|on time, punctual|o
 成交|to close a deal, it's a deal|v
 糟透了|absolutely awful|o
@@ -3811,7 +3811,7 @@
 阴影|shadow; a dark cloud over someone|o;o
 删除|to delete, to remove|v
 弄清楚|to clear up, to work out|v
-云|cloud|o
+云|cloud; to say (Classical)|o;v
 人手|manpower, hands|o
 症|(an illness: 症状, 癌症)|g
 贵族|aristocrat, the nobility|o
@@ -4025,7 +4025,7 @@
 盘子|plate, dish|o
 大地|the earth, the land|o
 大多|mostly, for the most part|o
-电|electricity; to give a shock|o;v
+电|electricity; to give a shock; lightning (Classical)|o;v;o
 作者|author, writer|o
 修复|to repair, to restore|v
 十字架|cross, crucifix|o
@@ -4051,7 +4051,7 @@
 消除|to eliminate, to dispel|v
 问候|to send greetings, to ask after|v
 中学|secondary school|o
-乐|happy; music|o;o
+乐|happy; music; bliss, joy (Buddhist)|o;o;o
 交通|traffic; transport|o;o
 土豆|potato|o
 审讯|to interrogate; interrogation|v;o
@@ -4150,7 +4150,7 @@
 裸体|naked; nude|o;o
 排练|to rehearse; rehearsal|v;o
 畜生|beast, animal (as an insult)|o
-可否|may I, is it all right to|o
+可否|may I, is it all right to|f1s
 客厅|living room|o
 打招呼|to say hello, to greet|v
 电报|telegram|o
@@ -4432,7 +4432,7 @@
 游客|tourist, visitor|o
 游行|parade, march; to demonstrate|o;v
 男女|men and women|o
-乘|to ride, to take (transport); to multiply|v;v
+乘|to ride, to take (transport); to multiply; a vehicle, a path to liberation (Buddhist)|v;v;o
 得以|to be able to, so as to|v
 机长|captain (of an aircraft)|o
 泄露|to leak, to give away (a secret)|v
@@ -4655,7 +4655,7 @@
 追逐|to chase after, to pursue|v
 卡片|card|o
 治|to treat (an illness); to govern|v;v
-解脱|to free oneself, to get away from|v
+解脱|to free oneself, to get away from; liberation (Buddhist)|v;o
 凶|fierce, vicious|o
 督察|inspector; to supervise|o;v
 纯|pure, unmixed|o
@@ -4806,7 +4806,7 @@
 传闻|hearsay, it is rumoured|o
 希|(in 希望: to hope)|g
 极度|extremely, utterly|o
-活该|serves you right|o
+活该|serves you right|f3s
 轻轻|lightly, gently|o
 逻辑|logic|o
 无罪|innocent, not guilty|o
@@ -4913,7 +4913,7 @@
 宣誓|to swear an oath|v
 平等|equal; equality|o;o
 草莓|strawberry|o
-颇|quite, rather (formal)|o
+颇|quite, rather (formal); are there any…? (opens a question) (Classical)|o;f3s
 大战|great war, major battle|o
 暖和|warm, mild|o
 隐形|invisible; stealth|o;o
@@ -5988,7 +5988,7 @@
 黄油|butter|o
 住所|residence, dwelling|o
 坠落|to fall, to plummet|v
-施|to carry out, to apply|v
+施|to carry out, to apply; to give, to bestow (Buddhist)|v;v
 服务器|server (computer)|o
 跌|to fall, to drop|v
 难题|difficult problem, a poser|o
@@ -6023,7 +6023,7 @@
 茉莉|jasmine|o
 过时|out of date, obsolete|o
 销毁|to destroy (evidence, goods)|v
-土|earth, soil; unsophisticated|o;o
+土|earth, soil; unsophisticated; a land, a realm (Buddhist)|o;o;o
 堆|pile, heap; to pile up|o;v
 孙女|granddaughter|o
 总裁|president, chief executive|o
@@ -6114,10 +6114,10 @@
 车牌|number plate|o
 及其|and its, and their|o
 奇特|peculiar, singular|o
-意|meaning, intention|o
+意|meaning, intention; mind, the thinking faculty (Buddhist)|o;o
 振作起来|to pull oneself together|v
 菜鸟|novice, rookie|o
-设|to set up, to establish|v
+设|to set up, to establish; if, supposing (Classical)|v;o
 金融|finance, financial|o
 危害|to endanger, to harm|v
 总督|governor, viceroy|o
@@ -8142,7 +8142,7 @@
 概率论|probability theory|o
 橡皮|eraser; rubber|o;o
 欠缺|to be lacking; shortcoming|v;o
-欲绝|to the point of collapse; 悲痛欲绝: heartbroken|v;n
+欲绝|to the point of collapse; 悲痛欲绝: heartbroken|o;n
 歹徒|thug, criminal|o
 殖民|colonial; to colonize|o;v
 毒害|to poison, harm|v
@@ -8766,7 +8766,7 @@
 带宽|bandwidth|o
 磁盘|disk|o
 艰巨|arduous, formidable|o
-莫非|could it be that…?|o
+莫非|could it be that…?|f3s
 西南|southwest|o
 惨叫|to scream; blood-curdling cry|v;o
 果断|decisive, resolute|o
@@ -11284,7 +11284,7 @@
 高山|high mountain|o
 不谢|you're welcome, don't mention it|f2s2p
 两难|dilemma|o
-人身|person, personal (safety, freedom)|o
+人身|person, personal (safety, freedom); the human body|o;o
 倡导者|advocate, proponent|o
 全景|panorama|o
 分部|branch, division|o
@@ -12322,7 +12322,7 @@
 似地|(as if, like: after a noun or clause)|g
 光彩|splendour, lustre; honourable|o;o
 单枪匹马|single-handed, alone|o
-可知|it can be seen; do you know|f3s;f3s
+可知|it can be seen; do you know|f3s;f2s2p
 唯恐|for fear that|o
 嫌弃|to dislike, to turn one's nose up at|v
 心悸|palpitations; fear|o;o
@@ -12535,7 +12535,7 @@
 纤细|slender, fine|o
 纯净|pure|o
 考上|to pass an entrance exam (and get in)|v
-自顾自|each minding their own business; to oneself|o;v
+自顾自|each minding their own business; to oneself|o;o
 车夫|driver, carter|o
 较量|to measure strength, to contest|v
 连累|to implicate, to drag in|v
@@ -13574,7 +13574,7 @@
 愁眉不展|to look worried, knit one's brows|v
 所向披靡|invincible, sweeping all before one|o
 打道回府|to go back home, head back|v
-无以复加|to the utmost, in the extreme|v
+无以复加|to the utmost, in the extreme|o
 欢天喜地|overjoyed, jubilant|o
 海市蜃楼|mirage; illusion|o;o
 石破天惊|earth-shattering, astounding|o
@@ -13635,7 +13635,7 @@
 摩|to rub|v
 俱|all, together|o
 巧|skilful; coincidental|o;o
-解|to untie, to solve; to explain|v;v
+解|to untie, to solve; to explain; to understand|v;v;v
 款|sum of money; style|o;o
 雾|fog, mist|o
 戒|to give up (a habit); ring|v;o
@@ -13808,7 +13808,7 @@
 困|to trap; sleepy|v;o
 玉|jade|o
 蟹|crab|o
-劫|to rob; a calamity|v;o
+劫|to rob; a calamity; kalpa, an aeon (Buddhist)|v;o;o
 幅|width; (measure word: paintings)|o;g
 移|to move, to shift|v
 瓜|melon, gourd|o
@@ -13827,7 +13827,7 @@
 萎|to wither|v
 鼠|mouse, rat|o
 捣|to pound; to make trouble|v;v
-品|goods; quality; to taste|o;o;v
+品|goods; quality; to taste; a chapter (of a sutra) (Buddhist)|o;o;v;o
 辉|splendour, radiance|o
 闷|stuffy; bored, depressed|o;o
 似|to resemble, like|v
@@ -14011,7 +14011,7 @@
 勤|diligent, hardworking|o
 壮|strong, robust|o
 孙|grandchild|o
-故|reason, cause; old, former|o;o
+故|reason, cause; old, former; therefore, so (Classical)|o;o;o
 棋|chess, board game|o
 眶|eye socket|o
 弃|to abandon, to discard|v
@@ -14030,7 +14030,7 @@
 袭|to raid, to attack; to inherit|v;v
 捆|to tie, bind; bundle|v;o
 漆|paint, lacquer; pitch-black|o;o
-缘|the fate that brings people together; edge|o;o
+缘|the fate that brings people together; edge; condition (Buddhist)|o;o;o
 伍|rank, company (of soldiers)|o
 衫|shirt, garment|o
 避|to avoid, to keep away from|v
@@ -14207,7 +14207,7 @@
 危|danger; perilous|o;o
 旺|prosperous, flourishing|o
 民|the people, civilian|o
-寻|to look for, to seek|v
+寻|to look for, to seek; at once, presently (Classical)|v;o
 靴|boot|o
 扬|to raise, lift; to spread, publicise|v;v
 掀|to lift (a cover), raise|v
@@ -14457,7 +14457,7 @@
 姿|posture, bearing|o
 皂|soap; black|o;o
 窜|to flee, scurry|v
-观|to look at; view, outlook|v;o
+观|to look at; view, outlook; to contemplate, contemplation (Buddhist)|v;o;v
 遵|to abide by, to follow|v
 唤|to call, to summon|v
 幼|young, infant|o
@@ -14757,7 +14757,7 @@
 凰|phoenix (female)|o
 凸|convex, protruding|o
 刊|periodical, publication; to print|o;v
-刹|(in 刹车: brake); an instant|g;o
+刹|(in 刹车: brake); an instant; a land, a realm (Buddhist)|g;o;o
 剔|to pick out, remove|v
 剿|to exterminate, suppress (bandits)|v
 务|affair, business; must|o;o
@@ -15052,7 +15052,7 @@
 泯|to vanish, die out|v
 泳|to swim|v
 泻|to pour out, flow; diarrhoea|v;o
-浊|muddy, turbid|o
+浊|muddy, turbid; defilement (Buddhist)|o;o
 济|to help; to cross a river|v;v
 浏|浏览: to browse|n
 涉|to wade; to involve|v;v
@@ -15523,3 +15523,272 @@
 三世|the three times: past, present and future (Buddhist)|n
 空相|the character of emptiness (Buddhist)|o
 垢|dirt, stain; defilement|o;o
+须菩提|Subhuti, a disciple of the Buddha (Buddhist)|o
+舍利弗|Shariputra, a disciple of the Buddha (Buddhist)|o
+舍卫国|Shravasti, a city in ancient India (Buddhist)|o
+舍卫|Shravasti, a city in ancient India (Buddhist)|o
+舍利|relics of the Buddha, sarira (Buddhist); a mynah bird (Buddhist)|o;o
+释迦牟尼|Shakyamuni, the historical Buddha (Buddhist)|o
+阿弥陀|Amitabha, the buddha of the Pure Land (Buddhist)|o
+阿弥陀佛|Amitabha Buddha, the buddha of the Pure Land (Buddhist)|o
+须陀洹|stream-enterer, the first stage of the path (Buddhist)|o
+斯陀含|once-returner, the second stage of the path (Buddhist)|o
+阿那含|non-returner, the third stage of the path (Buddhist)|o
+阿罗汉|arhat, one who has reached nirvana (Buddhist)|o
+比丘尼|a Buddhist nun, bhikkhuni (Buddhist)|o
+优婆塞|a lay Buddhist man, upasaka (Buddhist)|o
+优婆夷|a lay Buddhist woman, upasika (Buddhist)|o
+摩诃|great, maha- (Buddhist)|o
+摩诃萨|mahasattva, a great being (Buddhist)|o
+三昧|samadhi, meditative absorption (Buddhist)|o
+阿兰那|aranya, a quiet place for practice (Buddhist)|o
+阿僧祇|asamkhyeya, an incalculable number (Buddhist)|o
+那由他|nayuta, an immense number (Buddhist)|o
+阿鞞跋致|never falling back on the path, avaivartika (Buddhist)|o
+南无|homage to, namo (Buddhist)|o
+娑婆|Saha, this world of suffering (Buddhist)|o
+娑罗|sala tree (Buddhist)|o
+达摩|Bodhidharma; dharma (in names) (Buddhist)|o;o
+婆罗门|brahmin, a member of the priestly caste|o
+辟支佛|pratyekabuddha, a solitary buddha (Buddhist)|o
+恒河|the Ganges|o
+须弥|Sumeru, the mountain at the centre of the world (Buddhist)|o
+须弥山|Mount Sumeru, the mountain at the centre of the world (Buddhist)|o
+歌利王|King Kali (Buddhist)|o
+曼陀罗华|mandarava, a flower of the heavens (Buddhist)|o
+迦陵频伽|kalavinka, a bird with a beautiful voice (Buddhist)|o
+阿修罗|asura, a warring demigod (Buddhist)|o
+夜叉|yaksha, a demon (Buddhist); a fierce, ugly person|o;o
+罗刹|rakshasa, a flesh-eating demon (Buddhist)|o
+乾闼婆|gandharva, a heavenly musician (Buddhist)|o
+迦楼罗|garuda, a mythical bird (Buddhist)|o
+紧那罗|kinnara, a heavenly musician (Buddhist)|o
+摩睺罗伽|mahoraga, a great serpent spirit (Buddhist)|o
+毗沙门|Vaishravana, guardian king of the north (Buddhist)|o
+释提桓因|Shakra, lord of the gods (Buddhist)|o
+目犍连|Maudgalyayana, a disciple of the Buddha (Buddhist)|o
+迦叶|Kashyapa, a disciple of the Buddha (Buddhist)|o
+迦旃延|Katyayana, a disciple of the Buddha (Buddhist)|o
+离婆多|Revata, a disciple of the Buddha (Buddhist)|o
+周利槃陀伽|Cudapanthaka, a disciple of the Buddha (Buddhist)|o
+难陀|Nanda, a disciple of the Buddha (Buddhist)|o
+阿难陀|Ananda, the Buddha's attendant (Buddhist)|o
+罗睺罗|Rahula, the Buddha's son (Buddhist)|o
+憍梵波提|Gavampati, a disciple of the Buddha (Buddhist)|o
+宾头卢颇罗堕|Pindola Bharadvaja, a disciple of the Buddha (Buddhist)|o
+迦留陀夷|Kalodayin, a disciple of the Buddha (Buddhist)|o
+劫宾那|Kapphina, a disciple of the Buddha (Buddhist)|o
+薄拘罗|Vakkula, a disciple of the Buddha (Buddhist)|o
+文殊师利|Manjushri, the bodhisattva of wisdom (Buddhist)|o
+阿逸多|Ajita, another name of Maitreya (Buddhist)|o
+乾陀诃提|Gandhahastin, a bodhisattva (Buddhist)|o
+阿閦鞞|Akshobhya, the buddha of the east (Buddhist)|o
+世尊|the World-Honoured One, the Buddha (Buddhist)|o
+如来|Tathagata, the Thus-Come One, the Buddha (Buddhist)|o
+观世音|Guanyin, Avalokiteshvara, the bodhisattva of compassion (Buddhist)|o
+观音|Guanyin, the bodhisattva of compassion (Buddhist)|o
+无尽意|Akshayamati, a bodhisattva (Buddhist)|o
+燃灯佛|Dipankara, a buddha of the past (Buddhist)|o
+法王子|prince of the Dharma, a bodhisattva (Buddhist)|o
+帝释|Shakra, lord of the gods (Buddhist)|o
+梵王|King Brahma (Buddhist)|o
+自在天|Ishvara, a god (Buddhist)|o
+大自在天|Maheshvara, the great lord god (Buddhist)|o
+执金刚|vajra-bearer, a guardian deity (Buddhist)|o
+转轮圣王|a wheel-turning king, a universal monarch (Buddhist)|o
+祇树给孤独园|the Jeta Grove, Anathapindika's park (Buddhist)|o
+极乐|utmost joy; the Land of Utmost Bliss, Sukhavati (Buddhist)|o;o
+普门|the Universal Gate (Buddhist)|o
+善男子|good man, son of a good family (Buddhist)|o
+善女人|good woman, daughter of a good family (Buddhist)|o
+凡夫|an ordinary person, the unenlightened (Buddhist)|o
+声闻|shravaka, a hearer of the teaching (Buddhist)|o
+四众|the four assemblies: monks, nuns, laymen and laywomen (Buddhist)|n
+圣众|the holy assembly (Buddhist)|o
+居士|a lay Buddhist; a scholar living in retirement|o;o
+宰官|an official, a magistrate (Classical)|o
+仁者|you, kind sir (Classical); a benevolent person|f2s2p;o
+非人|inhuman; a non-human being, a spirit (Buddhist)|o;o
+寿者|a lasting self, a soul (Buddhist)|o
+布施|to give, almsgiving, generosity (Buddhist)|v
+忍辱|patience under insult, forbearance (Buddhist)|o
+受持|to receive and uphold (a teaching) (Buddhist)|v
+读诵|to read and recite (a scripture) (Buddhist)|v
+奉持|to uphold respectfully (Buddhist)|v
+信受|to accept in faith (Buddhist)|v
+信解|faith and understanding (Buddhist)|o
+护念|to protect and keep in mind (Buddhist)|v
+付嘱|to entrust, to charge (someone with a task) (Classical)|v
+谛听|to listen attentively (Classical)|v
+降伏|to subdue, to tame|v
+念佛|to recite the Buddha's name, to keep the Buddha in mind (Buddhist)|v
+发愿|to make a vow (Buddhist)|v
+往生|to be reborn (in a pure land) (Buddhist)|v
+灭度|to lead across to nirvana; nirvana (Buddhist)|v;o
+度脱|to deliver, to liberate (Buddhist)|v
+授记|to predict a disciple's future buddhahood (Buddhist)|v
+荷担|to shoulder, to bear (Classical)|v
+顶礼|to bow down in reverence (Buddhist)|v
+瞻仰|to look up to with reverence|v
+合掌|to join the palms (in greeting or prayer)|v
+偏袒|to take sides, to be partial; to bare one shoulder in reverence (Buddhist)|v;v
+乞食|to beg for food; the alms round (Buddhist)|v;o
+经行|walking meditation (Buddhist)|o
+示现|to manifest, to appear (Buddhist)|v
+演说|a speech; to expound (a teaching)|o;v
+解说|to explain; commentary|v;o
+执持|to hold, to keep hold of|v
+通达|to understand thoroughly|v
+精进|diligence, vigorous effort (Buddhist)|o
+饶益|to benefit, to enrich (Classical)|v
+功德|merit, virtue (Buddhist)|o
+福德|merit, blessings (Buddhist)|o
+庄严|solemn, dignified; to adorn, adornment (Buddhist)|o;v
+清净|quiet, clean; pure, undefiled (Buddhist)|o;o
+具足|complete, fully endowed with (Buddhist)|o
+无量|immeasurable, boundless|o
+思量|to consider, to ponder|v
+希有|rare, wondrous (Classical)|o
+甚深|very deep, profound (Classical)|o
+虚妄|false, illusory|o
+无我|selfless; no-self, non-self (Buddhist)|o;o
+无诤|free from strife (Buddhist)|o
+无畏|fearless; fearlessness (Buddhist)|o;o
+无等等|unequalled (Buddhist)|o
+不退转|never falling back (Buddhist)|o
+威神|awe-inspiring spiritual power (Buddhist)|o
+端正|upright; well-proportioned, good-looking|o;o
+巍巍|lofty, towering|o
+唐捐|to go to waste, in vain (Classical)|v
+离欲|free from desire (Buddhist)|o
+佛法|the Buddha's teaching, the Dharma (Buddhist)|o
+大乘|Mahayana, the Great Vehicle (Buddhist)|o
+因缘|fate, chance; causes and conditions (Buddhist)|o;o
+果报|karmic retribution (Buddhist)|o
+罪报|retribution for wrongdoing (Buddhist)|o
+善根|roots of goodness (Buddhist)|o
+实相|true reality, the true mark of things (Buddhist)|o
+法相|the characteristics of phenomena (Buddhist)|o
+非相|no mark, not a characteristic (Buddhist)|o
+一合相|a composite whole (Buddhist)|o
+有为|promising, capable; conditioned, compounded (Buddhist)|o;o
+无为|inaction; unconditioned (Buddhist)|o;o
+断灭|annihilation (Buddhist)|o
+贪着|attachment, clinging (Buddhist)|o
+如如|suchness, thusness (Buddhist)|o
+婬欲|lust, sexual desire (Buddhist)|o
+瞋恚|anger, hatred (Buddhist)|o
+愚痴|folly, delusion (Buddhist)|o
+苦恼|distressed, vexed; suffering|o;o
+恶道|an evil path, a lower rebirth (Buddhist)|o
+三恶道|the three lower paths of rebirth (Buddhist)|o
+恶趣|a lower realm of rebirth (Buddhist)|o
+五浊|the five defilements (Buddhist)|o
+恶世|an evil age (Buddhist)|o
+末世|the final age, the latter days (Buddhist)|o
+五根|the five spiritual faculties (Buddhist)|o
+五力|the five spiritual powers (Buddhist)|o
+一生补处|one life away from buddhahood (Buddhist)|o
+无余涅槃|nirvana without remainder (Buddhist)|o
+卵生|born from an egg, oviparous|o
+胎生|born from a womb, viviparous|o
+湿生|born from moisture (Buddhist)|o
+化生|born by transformation (Buddhist)|o
+梦幻泡影|as unreal as a dream or a bubble|o
+三千大千世界|a billion-world universe (Buddhist)|o
+佛土|a buddha-land (Buddhist)|o
+十方|the ten directions, everywhere (Buddhist)|o
+四维|the four intermediate directions (Classical)|o
+七宝|the seven treasures (Buddhist)|o
+恒河沙|the sands of the Ganges, a countless number (Buddhist)|o
+微尘|a mote of dust, a particle (Buddhist)|o
+莲华|lotus flower (Buddhist)|o
+罗网|a net; a jewelled net (Buddhist)|o;o
+栏楯|a railing, a balustrade (Classical)|o
+周匝|all around (Classical)|o
+璎珞|a jewelled necklace (Buddhist)|o
+砗磲|giant clam shell, one of the seven treasures (Buddhist)|o
+玛瑙|agate|o
+真珠|pearl (older spelling of 珍珠)|o
+珍宝|treasure, jewels|o
+楼阁|a many-storeyed pavilion|o
+车轮|wheel (of a cart)|o
+孔雀|peacock|o
+白鹤|white crane|o
+共命之鸟|jivajivaka, a two-headed bird (Buddhist)|o
+师子|lion (older spelling of 狮子)|o
+昼夜|day and night|o
+法音|the sound of the Dharma (Buddhist)|o
+法雨|the rain of the Dharma (Buddhist)|o
+梵音|a pure voice; the Buddha's voice (Buddhist)|o;o
+海潮音|the sound of the ocean tide (Buddhist)|o
+甘露|sweet dew; amrita, the nectar of the Dharma (Buddhist)|o;o
+慧日|the sun of wisdom (Buddhist)|o
+法眼|the Dharma eye (Buddhist)|o
+慧眼|discernment; the wisdom eye (Buddhist)|o;o
+天眼|the heavenly eye (Buddhist)|o
+佛眼|the buddha eye (Buddhist)|o
+四句偈|a four-line verse (Buddhist)|o
+广长舌相|the broad, long tongue, a mark of a buddha (Buddhist)|o
+命终|the end of life, death (Classical)|o
+弘誓|a great vow (Buddhist)|o
+怖畏|fear, dread (Classical)|o
+依怙|someone to rely on, a refuge (Classical)|o
+诤讼|a dispute, a lawsuit (Classical)|o
+枷锁|shackles, fetters|o
+杻械|manacles and fetters (Classical)|o
+卧具|bedding (Classical)|o
+衣裓|the front fold of a robe, used to carry flowers (Buddhist)|o
+思议|to conceive of, to imagine (Classical)|v
+云何|how, why; what (Classical)|o;o
+于意云何|what do you think? (Classical)|o
+尔时|at that time (Classical)|o
+复次|furthermore, moreover (Classical)|o
+善哉|excellent!, well said! (Classical)|o
+假使|if, supposing|o
+汝|you (Classical)|f2s2p
+尔|you (Classical); so, thus; that|f2s2p;o;o
+曰|to say, to be called (Classical)|v
+莫|do not (Classical); none, no one|f3s;o
+哉|(exclamation) (Classical)|o
+咸|salty; all, entirely (Classical)|o;o
+愍|to pity, to have compassion for (Classical)|v
+诤|to dispute, to argue (Classical)|v
+讫|to finish (Classical)|v
+诳|to deceive, to lie (Classical)|v
+赍|to carry, to bring (Classical)|v
+澍|to pour down, timely rain (Classical)|v
+蚖|a venomous snake (Classical)|o
+诵|to recite, to chant|v
+偈|a verse, gatha (Buddhist)|o
+僧|monk; the Sangha, the monastic community (Buddhist)|o;o
+钵|a bowl; alms bowl (Buddhist)|o;o
+梵|Sanskrit, Indian; Brahma; pure (Buddhist)|o;o;o
+瞋|anger (Buddhist)|o
+幢|(measure word: buildings); a banner, a pennant (Buddhist)|g;o
+贤|virtuous, worthy; a sage|o;o
+兰|orchid|o
+唐|Tang (the dynasty; a surname); in vain (Classical)|o;o
+筏|raft|o
+杖|a staff, a stick|o
+雹|hail|o
+蝎|scorpion|o
+涕|tears; nasal mucus|o;o
+恚|anger, hatred|o
+婬|lust (variant of 淫)|o
+谛|truth; attentively|o;o
+卵|egg, ovum|o
+袒|to bare (the shoulder)|v
+楯|railing|o
+匝|a full circle, around|o
+昼|daytime|o
+瞻|to look up at|v
+怙|to rely on|v
+巍|lofty|o
+枷|cangue, a wooden collar|o
+杻|manacles|o
+弘|great, vast; to promote|o;v
+璎|necklace of gems|o
+珞|string of beads|o
+蝮|viper|o
+舫|boat|o

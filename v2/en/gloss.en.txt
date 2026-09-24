@@ -1146,7 +1146,7 @@ department|section of a company or government|o
 double|twice as much; to make twice as much|o;v
 accord|agreement; own accord: willingly|o;n
 favorite|liked best; person or thing liked best|o;o
-further|to a greater distance or degree; more, additional|v;o
+further|to a greater distance or degree; more, additional|o;o
 correct|right, with no mistakes; to put right|o;v
 otherwise|if not, or else; in other ways|o;o
 pray|to speak to God|v
@@ -1957,7 +1957,7 @@ mass|large amount gathered; Catholic service; matter in a body|o;o;o
 pot|deep round cooking container; marijuana (informal)|o;o
 midnight|twelve o'clock at night|o
 snap|to break with a sharp sound; to speak sharply; photograph|v;v;o
-aside|to one side, out of the way|v
+aside|to one side, out of the way|o
 pie|baked dish of pastry with a filling|o
 governor|person who rules a state or runs a prison|o
 scoff|to speak with scorn; to eat greedily|v;v
@@ -2007,7 +2007,7 @@ billion|1,000,000,000|o
 assault|violent attack; to attack|o;v
 grateful|thankful for what was done|o
 kidnap|to take a person away by force|v
-extremely|to a very great degree|v
+extremely|to a very great degree|o
 blast|explosion; rush of air; to blow up|o;o;v
 express|to put into words; fast train or service|v;o
 capable|able to do something; skilled|o;o
@@ -3889,7 +3889,7 @@ torch|hand light with a battery (British); burning stick|o;o
 portrait|painting or photograph of a person|o
 demonstrate|to show clearly; to march in protest|v;v
 mutter|to speak low and unclearly, often in complaint|v
-somewhat|to some degree, rather|v
+somewhat|to some degree, rather|o
 mumble|to speak so words are hard to make out|v
 stir|to move a liquid round with a spoon; to move slightly; to rouse feeling|v;v;v
 messenger|person who carries a message|o
@@ -4435,7 +4435,7 @@ elbow|joint in the middle of the arm|o
 contribute|to give a share; to help bring about|v;v
 rumour|rumour, British spelling of rumor|o
 transplant|to move an organ from one body to another; to move a plant|v;v
-equally|to the same degree; in equal shares|v;o
+equally|to the same degree; in equal shares|o;o
 flaw|fault that spoils something|o
 belonging|(belongings) things you own; feeling of being at home|o;o
 shipment|goods sent; sending of them|o;o
@@ -8857,7 +8857,7 @@ temperament|nature, character; tendency to moods|o;o
 ubiquitous|found everywhere|o
 unspoken|understood without being said|o
 vicinity|surrounding area, neighbourhood|o
-whither|to where|v
+whither|to where|o
 xenophobic|hostile to foreigners|o
 arithmetic|calculation with numbers|o
 avoidance|keeping away from something|o
@@ -8936,7 +8936,7 @@ schema|outline, model; mental framework|o;o
 supervisory|overseeing, managing|o
 taper|to narrow gradually; to reduce gradually|v;v
 teaser|short preview; puzzle|o;o
-thither|to there|v
+thither|to there|o
 abstraction|general idea not tied to concrete things|o
 advancement|progress; promotion|o;o
 aide|assistant, helper|o
@@ -9593,7 +9593,7 @@ gratefully|with thanks|o
 hereditary|passed down from parents|o
 humankind|all human beings|o
 ingenuity|cleverness, inventiveness|o
-insofar|(in insofar as) to the extent that|v
+insofar|(in insofar as) to the extent that|o
 insurer|insurance company|o
 intolerance|unwillingness to accept others; inability to digest a food|o;o
 invasive|spreading harmfully; entering the body|o;o
@@ -9918,7 +9918,7 @@ frontal|at the front; direct|o;o
 galley|ship's kitchen; ancient ship rowed by oars|o;o
 geoengineering|large-scale deliberate change to the climate|o
 hallmark|distinctive feature|o
-hither|to here; hither and thither: here and there|v;n
+hither|to here; hither and thither: here and there|o;n
 humorous|funny|o
 initialize|to set to a starting value|v
 investigative|investigating, probing|o

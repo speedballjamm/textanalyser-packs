@@ -1,6 +1,6 @@
 {
   "id": "en",
-  "version": "1.0.94",
+  "version": "1.0.95",
   "files": {
     "lex": {
       "path": "lex.txt",
@@ -10,7 +10,7 @@
     "gloss.en": {
       "path": "gloss.en.txt",
       "license": "unencumbered",
-      "sha256": "87acaad3f3aeb96eb4899203822cf5791bbaeb924267a98f91e77399d751b6e7"
+      "sha256": "63dd2c66089d5649884208bf03d7b5279d594a5be09d4b0bd3cbfae37e0cfb77"
     },
     "ranks": {
       "path": "ranks.txt",
@@ -40,7 +40,7 @@
     "gloss.id": {
       "path": "gloss.id.txt",
       "license": "unencumbered",
-      "sha256": "2a57d1b83f4bd9b07affbd85e5a9684d2d915b4e30ca2e066f18f3d1bffd6dd6"
+      "sha256": "cc7099bb5d8e8ef6d0ee68534efd9f56691310b21fd986a2a46992506600c279"
     },
     "phrases.id": {
       "path": "phrases.id.txt",
@@ -50,7 +50,7 @@
     "gloss.zh": {
       "path": "gloss.zh.txt",
       "license": "unencumbered",
-      "sha256": "92d4536d55c2e6f16fc2e69b4aa340e0e5cab114c23c23fee4a2d3a0bcac0fe3"
+      "sha256": "2740b112e4cac9b915c2ed6eb8fd89105fbb7e9ae202680d4ba04db6af6fddd3"
     },
     "phrases.zh": {
       "path": "phrases.zh.txt",
@@ -60,7 +60,7 @@
     "gloss.es": {
       "path": "gloss.es.txt",
       "license": "unencumbered",
-      "sha256": "143a63a5a4d21b72b0b5109652e7b1a11eaa8d19dbd9e1913040af6c32b0b874"
+      "sha256": "89a6c1dd98c8317f52bbe642f054ea8a40936319b1d5149cfccc3fc403898f7a"
     },
     "phrases.es": {
       "path": "phrases.es.txt",
@@ -70,7 +70,7 @@
     "gloss.fr": {
       "path": "gloss.fr.txt",
       "license": "unencumbered",
-      "sha256": "7c67d097861889b90a0c8eda936c3b123de4b64b6d4950e0d6d15f977d9921ac"
+      "sha256": "6c439d571abc5ea7da9db12da478fe33f69a62fb3a1e4e62aa513d56afe49123"
     },
     "phrases.fr": {
       "path": "phrases.fr.txt",
@@ -80,7 +80,7 @@
     "gloss.pt": {
       "path": "gloss.pt.txt",
       "license": "unencumbered",
-      "sha256": "338e8a49a87b9875f5b82e8970bd639f50de6850c1ead816467c4579521c9c5e"
+      "sha256": "e9c0670cc48dd5ceaaa7a674ff9a47e16920c5bb2818031d208f2bbb39599ee0"
     },
     "phrases.pt": {
       "path": "phrases.pt.txt",

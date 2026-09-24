@@ -63,7 +63,7 @@ fait|done, made; fact|o;o
 mon|my|o
 m'|me, to me|o
 te|you, to you|f2s2p
-au|to the, at the (à+le)|v
+au|to the, at the (à+le)|o
 dire|to say, to tell|v
 moi|me (stressed)|o
 s'|himself, herself, themselves|o
@@ -150,7 +150,7 @@ homme|man|o
 mes|my (pl.)|o
 vie|life|o
 sûr|sure, certain|o
-leur|their; to them|o;v
+leur|their; to them|o;o
 avait|he/she/it had|f3s
 accord|agreement; d'accord: OK|o;n
 personne|person; (with ne) nobody|o;o
@@ -190,7 +190,7 @@ connaître|to know (be acquainted with)|v
 sortir|to go out, to exit|v
 crois|I/you believe|f1s
 après|after; d'après: according to|o;n
-aux|to the, at the (à+les)|v
+aux|to the, at the (à+les)|o
 partir|to leave, to depart; à partir de: from|v;n
 ouais|yeah|o
 ok|OK|o
@@ -354,7 +354,7 @@ putain|damn, fuck; whore|o;o
 retrouver|to meet up with; to find again|v;v
 perdre|to lose|v
 parlé|spoken|o
-avez-vous|do you have (pl., formal)|f3s
+avez-vous|do you have (pl., formal)|f2s2p
 longtemps|a long time|o
 beau|beautiful, handsome|o
 façon|way; de toute façon: anyway|o;n
@@ -417,7 +417,7 @@ photo|photo|o
 bureau|office; desk|o;o
 loin|far|o
 boulot|job, work (colloquial)|o
-as-tu|do you have (sg.)|f3s
+as-tu|do you have (sg.)|f2s2p
 possible|possible|o
 donne|give!; I/you give|o;f1s
 aura|he/she/it will have|f3s
@@ -537,7 +537,7 @@ faute|fault, blame; mistake|o;o
 pire|worse, worst|o
 choix|choice|o
 pièce|room; coin; piece; play|o;o;o;o
-êtes-vous|are you (pl., formal)|f3s
+êtes-vous|are you (pl., formal)|f2s2p
 plaisir|pleasure|o
 lit|bed; he/she reads|o;f3s
 bas|low; bottom; en bas: downstairs|o;o;n
@@ -556,7 +556,7 @@ drôle|funny; drôle de: strange, odd|o;n
 humain|human|o
 descendre|to go down, to come down; to get off; to take down|v;v;v
 faux|false, wrong; fake|o;o
-es-tu|are you (sg.)|f3s
+es-tu|are you (sg.)|f2s2p
 ensuite|afterwards, subsequently|o
 oublié|forgotten|o
 rire|to laugh|v
@@ -612,7 +612,7 @@ cacher|to hide|v
 poser|to put down; to ask (a question)|v;v
 manque|lack; I/you miss|o;f1s
 balle|bullet; small ball|o;o
-puis-je|may I|o
+puis-je|may I|f1s
 épouser|to marry (someone)|v
 roi|king|o
 avis|view; à mon avis: in my opinion|o;n
@@ -652,7 +652,7 @@ retard|delay; en retard: late|o;n
 chanter|to sing|v
 crime|crime|o
 surtout|especially, above all|o
-voulez-vous|do you want (pl., formal)|f3s
+voulez-vous|do you want (pl., formal)|f2s2p
 patron|boss, owner|o
 pleurer|to cry|v
 vérifier|to check|v
@@ -764,7 +764,7 @@ table|table|o
 neuf|new (brand new); nine|o;o
 anniversaire|birthday; anniversary|o;o
 con|prick; stupid (vulgar)|o;o
-veux-tu|do you want (sg.)|f3s
+veux-tu|do you want (sg.)|f2s2p
 simplement|simply|o
 sympa|nice, friendly|o
 craindre|to fear|v
@@ -878,7 +878,7 @@ ciel|sky; heaven|o;o
 moitié|half|o
 intérêt|interest|o
 étrange|strange, odd|o
-vas-tu|are you going (sg.)|f3s
+vas-tu|are you going (sg.)|f2s2p
 discuter|to discuss, to talk|v
 selon|according to|o
 classe|class|o
@@ -900,7 +900,7 @@ tue|he/she/it kills|f3s
 don|gift, talent|o
 mignon|cute|o
 capable|capable|o
-fais-tu|are you doing (sg.)|f3s
+fais-tu|are you doing (sg.)|f2s2p
 privé|private|o
 parole|spoken word; les paroles: lyrics|o;n
 ressentir|to feel (an emotion)|v
@@ -922,7 +922,7 @@ réunion|meeting|o
 tiré|pulled; shot|o;o
 tourner|to turn; to film (a movie)|v;v
 projet|project, plan|o
-allez-vous|are you going (pl., formal)|f3s
+allez-vous|are you going (pl., formal)|f2s2p
 parier|to bet|v
 cuisine|kitchen; cooking|o;o
 celui-ci|this one|o
@@ -949,7 +949,7 @@ bête|silly; animal|o;o
 lu|read|o
 excellent|excellent|o
 fiche|card, form; s'en ficher: not to care|o;n
-faites-vous|are you doing (pl., formal)|f3s
+faites-vous|are you doing (pl., formal)|f2s2p
 appartement|flat, apartment|o
 spécial|special|o
 pourtant|yet, however|o
@@ -967,7 +967,7 @@ enfer|hell|o
 couper|to cut|v
 pute|whore|o
 base|base, basis|o
-pouvez-vous|can you (pl., formal)|o
+pouvez-vous|can you (pl., formal)|f2s2p
 intelligent|intelligent|o
 bruit|noise|o
 suspect|suspect|o
@@ -1177,7 +1177,7 @@ séparer|to separate|v
 conversation|conversation|o
 coincé|stuck|o
 réel|actual, real|o
-savez-vous|(a fact) do you know (pl., formal)|f3s
+savez-vous|(a fact) do you know (pl., formal)|f2s2p
 tourne|I/you turn|f1s
 grand-mère|grandmother|o
 portable|mobile phone|o
@@ -1215,7 +1215,7 @@ couteau|knife|o
 avancer|to move forward|v
 salope|bitch|o
 accompagner|to go with|v
-peux-tu|can you (sg.)|o
+peux-tu|can you (sg.)|f2s2p
 réalité|reality|o
 certainement|certainly|o
 ange|angel|o
@@ -1277,7 +1277,7 @@ coupe|cut; cup|o;o
 renvoyer|to send back; to fire|v;v
 admettre|to admit|v
 grand-père|grandfather|o
-ai-je|do I have|f3s
+ai-je|do I have|f1s
 envers|towards (a person); à l'envers: upside down, inside out|o;n
 étoile|star (in the sky)|o
 voleur|thief|o
@@ -1296,7 +1296,7 @@ manqué|missed|o
 université|university|o
 dépendre|to depend|v
 carrière|career|o
-pensez-vous|do you think (pl., formal)|f3s
+pensez-vous|do you think (pl., formal)|f2s2p
 art|art|o
 entreprise|business, firm|o
 gay|gay|o
@@ -1388,7 +1388,7 @@ arrêt|stop (a bus stop); halt, stopping|o;o
 blesser|to hurt, to injure|v
 interroger|to question|v
 proposer|to suggest; to offer|v;v
-suis-je|am I|f3s
+suis-je|am I|f1s
 interdit|forbidden|o
 étudier|to study|v
 foutu|damned; done for|o;o
@@ -1452,7 +1452,7 @@ mètre|metre|o
 bref|brief; in short|o;o
 direct|direct; en direct: live|o;n
 assistant|assistant|o
-sais-tu|(a fact) do you know (sg.)|f3s
+sais-tu|(a fact) do you know (sg.)|f2s2p
 lait|milk|o
 professionnel|professional|o
 amusant|entertaining, fun|o
@@ -1460,7 +1460,7 @@ joueur|player|o
 pain|bread|o
 foi|faith|o
 paie|pay; I/you pay|o;f1s
-dois-je|must I|o
+dois-je|must I|f1s
 talent|talent|o
 présence|presence|o
 limite|limit|o
@@ -1478,7 +1478,7 @@ assassin|assassin, murderer|o
 amène|I/you bring|f1s
 toit|roof|o
 discours|speech|o
-penses-tu|do you think (sg.)|f3s
+penses-tu|do you think (sg.)|f2s2p
 magie|magic|o
 odeur|smell|o
 justement|precisely, exactly|o
@@ -1582,7 +1582,7 @@ mine|mine; look, expression|o;o
 particulier|particular; en particulier: in particular|o;n
 traitement|treatment|o
 samedi|Saturday|o
-peut-on|can we, can one|o
+peut-on|can we, can one|f1p
 scientifique|scientist; scientific|o;o
 miracle|miracle|o
 côte|coast; rib; côte à côte: side by side|o;o;n
@@ -1643,7 +1643,7 @@ vision|vision|o
 tableau|painting; board|o;o
 casse|I/you break|f1s
 volonté|will, willpower|o
-sont-ils|are they|f3s
+sont-ils|are they|f3p
 crois-moi|believe me|o
 nôtre|ours|o
 siège|seat; headquarters|o;o
@@ -2036,7 +2036,7 @@ piscine|swimming pool|o
 accueillir|to welcome|v
 lâche-moi|let go of me|o
 témoigner|to testify|v
-ont-ils|do they have|f3s
+ont-ils|do they have|f3p
 conférence|conference; lecture|o;o
 sucre|sugar|o
 chanceux|lucky|o
@@ -2075,7 +2075,7 @@ abri|shelter|o
 atterrir|to land|v
 sec|dry|o
 bye|bye|o
-pourriez-vous|could you (pl., formal)|o
+pourriez-vous|could you (pl., formal)|f2s2p
 essence|petrol; essence|o;o
 bite|dick|o
 coller|to stick|v
@@ -2176,7 +2176,7 @@ pot|pot, jar|o
 liaison|affair; link|o;o
 honnêtement|honestly|o
 furieux|furious|o
-étais-tu|were you (sg.)|f3s
+étais-tu|were you (sg.)|f2s2p
 classique|classic, classical|o
 démissionner|to resign|v
 emprunter|to borrow; to take (a route)|v;v
@@ -2203,7 +2203,7 @@ surface|surface|o
 récompense|reward|o
 comte|count (title)|o
 plante|plant|o
-dis-tu|do you say (sg.)|f3s
+dis-tu|do you say (sg.)|f2s2p
 vierge|virgin; blank|o;o
 bêtise|nonsense; a silly thing|o;o
 malheur|misfortune|o
@@ -2263,7 +2263,7 @@ miroir|mirror|o
 saisir|to grab; to grasp|v;v
 déclencher|to trigger, to set off|v
 tasse|cup|o
-dites-vous|do you say (pl., formal)|f3s
+dites-vous|do you say (pl., formal)|f2s2p
 soi|oneself|o
 degré|degree|o
 uniquement|only, exclusively|o
@@ -2373,7 +2373,7 @@ vengeance|revenge|o
 élever|to raise, to bring up|v
 bloqué|stuck, blocked|o
 boss|boss|o
-allons-nous|are we going|f3s
+allons-nous|are we going|f1p
 convaincu|convinced|o
 voyant|warning light; seeing|o;o
 ticket|ticket|o
@@ -2409,7 +2409,7 @@ bagarre|fight, brawl|o
 exécuter|to carry out; to execute|v;v
 organisation|organisation|o
 bibliothèque|library|o
-sommes-nous|are we|f3s
+sommes-nous|are we|f1p
 est-à-dire|c'est-à-dire: that is to say|n
 connait|(a person, a place) he/she knows|f3s
 proposé|suggested|o
@@ -2532,7 +2532,7 @@ golf|golf|o
 empereur|emperor|o
 aube|dawn|o
 sommet|summit, top|o
-etes-vous|are you (pl., formal)|f3s
+etes-vous|are you (pl., formal)|f2s2p
 fait-il|is he doing; is it (weather)|f3s;f3s
 tradition|tradition|o
 agression|assault|o
@@ -2570,7 +2570,7 @@ emménager|to move in|v
 œuvre|work (of art); mettre en œuvre: to implement|o;n
 rond|round; circle|o;o
 remarque|remark; I/you notice|o;f1s
-étiez-vous|were you (pl., formal)|f3s
+étiez-vous|were you (pl., formal)|f2s2p
 quoique|although|o
 financier|financial|o
 expression|expression|o
@@ -2613,7 +2613,7 @@ cave|cellar|o
 éducation|education; upbringing, manners|o;o
 bâtard|bastard (insult); illegitimate child|o;o
 auparavant|before, previously|o
-peut-il|can he|o
+peut-il|can he|f3s
 gris|grey|o
 kidnapper|to kidnap|v
 album|album|o
@@ -2653,14 +2653,14 @@ commission|commission|o
 faites-moi|make me (pl., formal)|o
 bouffer|to eat, to scoff|v
 conscient|aware; conscious|o;o
-voyez-vous|do you see (pl., formal)|f3s
+voyez-vous|do you see (pl., formal)|f2s2p
 production|production|o
 demi-heure|half an hour|o
 apparence|appearance, outward look|o
 clan|clan|o
 user|to wear out|v
 libéré|freed|o
-pourrais-je|could I|o
+pourrais-je|could I|f1s
 colline|hill|o
 jeunesse|youth|o
 peindre|to paint|v
@@ -2785,7 +2785,7 @@ difficulté|difficulty|o
 discret|discreet|o
 écrivain|writer|o
 bible|bible|o
-devrais-je|should I|o
+devrais-je|should I|f1s
 sucer|to suck|v
 essentiel|essential|o
 ouah|wow; woof (a dog)|o;o
@@ -2808,7 +2808,7 @@ petit-déjeuner|breakfast|o
 union|union|o
 satellite|satellite|o
 toast|toast|o
-avons-nous|do we have|f3s
+avons-nous|do we have|f1p
 métal|metal|o
 serment|oath|o
 coucou|hi there|o
@@ -2882,13 +2882,13 @@ délire|delirium; nonsense|o;o
 finale|final (sport)|o
 issue|outcome; exit|o;o
 pénis|penis|o
-crois-tu|do you believe (sg.)|f3s
+crois-tu|do you believe (sg.)|f2s2p
 décoller|to take off|v
 chrétien|Christian|o
 voyou|thug|o
 révolution|revolution|o
 casino|casino|o
-pouvons-nous|can we|o
+pouvons-nous|can we|f1p
 mexicain|Mexican|o
 œufs|eggs|o
 comté|county|o
@@ -3085,7 +3085,7 @@ montre-moi|show me|o
 quatrième|fourth|o
 souvenez-vous|remember (pl., formal)|o
 rupture|break-up|o
-parlez-vous|do you speak (pl., formal)|f3s
+parlez-vous|do you speak (pl., formal)|f2s2p
 culotte|knickers|o
 menacer|to threaten|v
 cadre|frame; executive; setting|o;o;o
@@ -3127,7 +3127,7 @@ coordonner|to coordinate|v
 représentant|representative|o
 défoncé|smashed; high|o;o
 publicité|advertising|o
-vais-je|am I going|f3s
+vais-je|am I going|f1s
 grec|Greek|o
 ordonner|to order (someone to do), to command|v
 sel|salt|o
@@ -3160,7 +3160,7 @@ adversaire|opponent|o
 réalisateur|director (film)|o
 laissez-nous|leave us (pl., formal)|o
 renseigner|to give information to, to direct|v
-connaissez-vous|(a person, a place) do you know (pl., formal)|f3s
+connaissez-vous|(a person, a place) do you know (pl., formal)|f2s2p
 four|oven|o
 musical|musical|o
 pardonne-moi|forgive me|o
@@ -3169,7 +3169,7 @@ traîne|I/you drag|f1s
 arrangement|arrangement|o
 exagérer|to exaggerate|v
 voeu|wish|o
-croyez-vous|do you believe (pl., formal)|f3s
+croyez-vous|do you believe (pl., formal)|f2s2p
 rappelez-vous|call to mind, remember (pl., formal)|o
 hélicoptère|helicopter|o
 traquer|to track down|v
@@ -3246,7 +3246,7 @@ pige|I/you get it|f1s
 cuire|to cook (food, in heat), to bake|v
 cercueil|coffin|o
 ressortir|to go out again; to stand out|v;v
-a-t-on|do we have|f3s
+a-t-on|do we have|f1p
 loyauté|loyalty|o
 techniquement|technically|o
 écarter|to move aside; to rule out|v;v
@@ -3337,7 +3337,7 @@ secondaire|secondary|o
 conte|tale|o
 juillet|July|o
 déchiré|torn|o
-va-t-on|are we going|f3s
+va-t-on|are we going|f1p
 retenu|held back|o
 arabe|Arab, Arabic|o
 registre|register|o
@@ -3524,7 +3524,7 @@ obscurité|darkness|o
 informé|informed|o
 tournage|filming, shoot|o
 avoué|admitted|o
-fait-on|do we do|f3s
+fait-on|do we do|f1p
 morgue|morgue|o
 brute|brute|o
 octobre|October|o
@@ -3556,7 +3556,7 @@ rappelle-toi|call to mind, remember (sg.)|o
 distraire|to distract; to entertain|v;v
 drame|drama|o
 foire|fair, trade fair|o
-auquel|to which|v
+auquel|to which|o
 éveillé|awake|o
 quelqu'un|someone, somebody|o
 graine|seed|o
@@ -3637,7 +3637,7 @@ fondation|foundation|o
 vulnérable|vulnerable|o
 immunité|immunity|o
 minimum|minimum|o
-serait-ce|would it be|o
+serait-ce|would it be|f3s
 terriblement|terribly|o
 revue|magazine, review|o
 offenser|to offend|v
@@ -3710,12 +3710,12 @@ soir-là|ce soir-là: that evening|n
 laser|laser|o
 réjouir|se réjouir: to be delighted|n
 infecté|infected|o
-pourrais-tu|could you (sg.)|o
+pourrais-tu|could you (sg.)|f2s2p
 barrière|barrier|o
 colonie|colony|o
 aperçu|glimpse, overview|o
 détacher|to detach, to untie|v
-parles-tu|do you speak (sg.)|f3s
+parles-tu|do you speak (sg.)|f2s2p
 achat|purchase|o
 maillot|jersey, shirt|o
 ambassade|embassy|o
@@ -3840,7 +3840,7 @@ quasiment|almost, practically|o
 radar|radar|o
 automne|autumn|o
 vanter|to praise; se vanter: to boast|v;n
-aurait-il|would he have|o
+aurait-il|would he have|f3s
 contenter|to satisfy; se contenter de: to make do with|v;n
 désordre|mess, disorder|o
 refait|redone|o
@@ -4043,7 +4043,7 @@ antécédent|history, past record|o
 sou|penny, cent (old coin)|o
 inverse|opposite, reverse|o
 fouille|search|o
-vois-tu|do you see (sg.)|f3s
+vois-tu|do you see (sg.)|f2s2p
 frangin|brother, bro|o
 tristesse|sadness|o
 aigle|eagle|o
@@ -4169,7 +4169,7 @@ stock|stock|o
 provoqué|caused|o
 identification|identification|o
 décor|set, scenery|o
-saviez-vous|did you know (pl., formal)|f3s
+saviez-vous|did you know (pl., formal)|f2s2p
 têtu|stubborn|o
 ultime|ultimate, final|o
 maïs|sweetcorn, maize|o
@@ -4194,7 +4194,7 @@ donnez-lui|give him (pl., formal)|o
 script|script|o
 trempé|soaked|o
 définir|to define|v
-sentez-vous|do you feel (pl., formal)|f3s
+sentez-vous|do you feel (pl., formal)|f2s2p
 solo|solo|o
 gène|gene|o
 ressort|spring; I/you go out again|o;f1s
@@ -4249,7 +4249,7 @@ fumier|manure; bastard|o;o
 soi-disant|so-called; supposedly|o;o
 arrogant|arrogant|o
 assommer|to knock out|v
-aurais-je|would I have|o
+aurais-je|would I have|f1s
 pousse-toi|move over|o
 maigre|thin, skinny|o
 multiple|multiple|o
@@ -4257,7 +4257,7 @@ employer|to use; to employ|v;v
 agresseur|attacker|o
 typique|typical|o
 accompli|accomplished|o
-diriez-vous|would you say (pl., formal)|o
+diriez-vous|would you say (pl., formal)|f2s2p
 migraine|migraine|o
 parasite|parasite|o
 verser|to pour; to pay in|v;v
@@ -4423,7 +4423,7 @@ ado|teenager (colloquial short form)|o
 fontaine|fountain|o
 juridique|legal (relating to the law), judicial|o
 vapeur|steam|o
-auriez-vous|would you have (pl., formal)|o
+auriez-vous|would you have (pl., formal)|f2s2p
 exploiter|to exploit; to run|v;v
 œuf|egg|o
 messe|Mass (the church service)|o
@@ -4439,7 +4439,7 @@ coréen|Korean|o
 brouillard|fog|o
 corriger|to correct|v
 occupez-vous|occupez-vous de: take care of (pl., formal)|n
-oses-tu|do you dare (sg.)|f3s
+oses-tu|do you dare (sg.)|f2s2p
 cinquante|fifty|o
 obscur|obscure, dark|o
 phare|lighthouse; headlight|o;o
@@ -4476,7 +4476,7 @@ imaginaire|imaginary|o
 paré|ready; adorned|o;o
 compliquer|to complicate|v
 honnêteté|honesty|o
-voudriez-vous|would you like (pl., formal)|o
+voudriez-vous|would you like (pl., formal)|f2s2p
 costaud|burly, strong|o
 diviser|to divide|v
 perruque|wig|o
@@ -4575,7 +4575,7 @@ cargaison|cargo|o
 plancher|floor|o
 pressentiment|foreboding|o
 refermer|to close again|v
-sont-elles|are they (f.)|f3s
+sont-elles|are they (f.)|f3p
 immortel|immortal|o
 cape|cape|o
 distinguer|to distinguish, to make out|v
@@ -4614,7 +4614,7 @@ vachement|really, dead|o
 lessive|washing; detergent|o;o
 éternellement|forever|o
 fraise|strawberry|o
-sens-tu|do you feel (sg.)|f3s
+sens-tu|do you feel (sg.)|f2s2p
 durée|duration|o
 gelée|jelly; frost|o;o
 gémissement|moan|o
@@ -4749,7 +4749,7 @@ vidé|emptied|o
 glisse|I/you slip|f1s
 soviétique|Soviet|o
 informateur|informant|o
-pourrait-il|could he|o
+pourrait-il|could he|f3s
 résumer|to summarise|v
 aborder|to approach; to tackle|v;v
 tremblement|trembling; tremblement de terre: earthquake|o;n
@@ -4783,7 +4783,7 @@ attache|tie, fastening|o
 collecte|collection (of money), fundraising|o
 évacuation|evacuation|o
 décoration|decoration|o
-dirais-tu|would you say (sg.)|o
+dirais-tu|would you say (sg.)|f2s2p
 envahir|to invade|v
 comptoir|counter|o
 remuer|to stir, to move|v
@@ -4799,7 +4799,7 @@ ados|teenagers|o
 hotel|hotel|o
 rédiger|to write, to draft|v
 gin|gin|o
-vont-ils|are they going|f3s
+vont-ils|are they going|f3p
 réviser|to revise|v
 collant|sticky; clingy|o;o
 manoir|manor|o
@@ -4873,7 +4873,7 @@ encercler|to encircle, to surround|v
 nouille|noodle|o
 prépare-toi|get ready|o
 waouh|wow, whoa (French spelling)|o
-venez-vous|are you coming (pl., formal)|f3s
+venez-vous|are you coming (pl., formal)|f2s2p
 vieillard|old man|o
 indic|informant, snitch|o
 démission|resignation (from a job, a post)|o
@@ -4897,7 +4897,7 @@ violon|violin|o
 laisse-nous|leave us|o
 montage|assembly; editing|o;o
 hot-dog|hot dog|o
-doit-on|must we|o
+doit-on|must we|f1p
 arrive-t-il|is he arriving; is it happening|f3s;f3s
 ruelle|alley|o
 embrasse-moi|kiss me|o
@@ -4958,13 +4958,13 @@ chimie|chemistry|o
 dis-nous|tell us|o
 fourgon|van, wagon|o
 fourni|supplied|o
-osez-vous|do you dare (pl., formal)|f3s
+osez-vous|do you dare (pl., formal)|f2s2p
 routier|road (adj)|o
 dégoûter|to disgust|v
 détente|relaxation; trigger|o;o
 reconstruire|to rebuild|v
 imposteur|impostor|o
-serait-il|would he be|o
+serait-il|would he be|f3s
 défiler|to march past; to scroll|v;v
 retrait|withdrawal|o
 spécifique|specific|o
@@ -4976,7 +4976,7 @@ manifestation|protest, demonstration; appearance|o;o
 impoli|rude|o
 néanmoins|nevertheless|o
 sixième|sixth|o
-viens-tu|are you coming (sg.)|f3s
+viens-tu|are you coming (sg.)|f2s2p
 cellulaire|cell (adj)|o
 hangar|shed, hangar|o
 composer|to dial; to compose|v;v
@@ -5051,7 +5051,7 @@ adoption|adoption|o
 lavé|washed|o
 formé|trained; formed|o;o
 arbitre|referee|o
-peut-elle|can she|o
+peut-elle|can she|f3s
 veut-il|does he want|f3s
 déterminé|determined|o
 guise|à ta guise: as you like|n
@@ -5061,13 +5061,13 @@ redescendre|to go back down|v
 démontrer|to demonstrate|v
 application|application (of a rule); diligence; app|o;o;o
 médium|medium|o
-voudrais-tu|would you like (sg.)|o
+voudrais-tu|would you like (sg.)|f2s2p
 fouet|whip|o
 convoi|convoy|o
 miette|crumb|o
 greffe|transplant; graft|o;o
 blâme|blame|o
-est-on|are we|f3s
+est-on|are we|f1p
 dauphin|dolphin|o
 doyen|dean|o
 diversion|diversion|o
@@ -5218,7 +5218,7 @@ infliger|to inflict|v
 schéma|diagram|o
 bœuf|beef; ox|o;o
 baptiser|to christen|v
-font-ils|do they do|f3s
+font-ils|do they do|f3p
 noel|Christmas|o
 pdg|CEO|o
 baver|to drool|v
@@ -5237,7 +5237,7 @@ glorieux|glorious|o
 magnétique|magnetic|o
 égaré|lost, stray|o
 proprio|landlord, owner|o
-appelez-vous|do you call yourself (pl., formal)|f3s
+appelez-vous|do you call yourself (pl., formal)|f2s2p
 session|session (a sitting, a term)|o
 superficiel|superficial|o
 barbare|barbaric; barbarian|o;o
@@ -5399,7 +5399,7 @@ gravement|gravely, severely|o
 ringard|naff, corny|o
 coque|shell; hull|o;o
 master|master's degree|o
-devrions-nous|should we|o
+devrions-nous|should we|f1p
 brèche|breach|o
 détonateur|detonator|o
 enjeu|what is at stake, the stakes|o
@@ -5464,7 +5464,7 @@ modifié|modified|o
 primitif|primitive|o
 revenant|ghost, one who comes back|o
 tampon|stamp; tampon|o;o
-devons-nous|must we|o
+devons-nous|must we|f1p
 pair|peer|o
 puant|stinking|o
 implant|implant|o
@@ -5598,7 +5598,7 @@ réconfort|comfort, solace|o
 abusé|abused; taken in|o;o
 satisfaction|satisfaction|o
 appui|support, backing (a prop, a rest)|o
-connais-tu|(a person, a place) do you know (sg.)|f3s
+connais-tu|(a person, a place) do you know (sg.)|f2s2p
 décharger|to unload|v
 hôtesse|hostess|o
 olympique|Olympic|o
@@ -5675,7 +5675,7 @@ calmement|calmly|o
 mécanisme|mechanism|o
 sentier|path|o
 hacker|hacker|o
-aviez-vous|did you have (pl., formal)|f3s
+aviez-vous|did you have (pl., formal)|f2s2p
 terminale|final year (at school)|o
 loterie|lottery|o
 probabilité|probability|o
@@ -5739,10 +5739,10 @@ vitrine|shop window|o
 matos|gear, kit|o
 arnaquer|to swindle|v
 injustice|injustice|o
-appelles-tu|do you call (sg.)|f3s
+appelles-tu|do you call (sg.)|f2s2p
 contrarier|to annoy; to thwart|v;v
 désaccord|disagreement|o
-faisons-nous|are we doing|f3s
+faisons-nous|are we doing|f1p
 reproche|reproach|o
 dialogue|dialogue|o
 évolué|evolved|o
@@ -5808,7 +5808,7 @@ tue-moi|kill me|o
 emballé|wrapped; thrilled|o;o
 volontairement|deliberately, willingly|o
 cascade|waterfall; stunt|o;o
-faisiez-vous|were you doing (pl., formal)|f3s
+faisiez-vous|were you doing (pl., formal)|f2s2p
 galère|hassle; galley|o;o
 morveux|brat|o
 combine|scheme, fiddle|o
@@ -5910,7 +5910,7 @@ tyran|tyrant|o
 béguin|crush|o
 hystérique|hysterical|o
 menaçant|threatening|o
-aurais-tu|would you have (sg.)|o
+aurais-tu|would you have (sg.)|f2s2p
 tarif|rate, fare|o
 blouse|overall, blouse|o
 loisir|leisure|o
@@ -6056,7 +6056,7 @@ renifler|to sniff|v
 grincheux|grumpy|o
 porte-bonheur|lucky charm|o
 baisse-toi|get down|o
-feriez-vous|would you do (pl., formal)|o
+feriez-vous|would you do (pl., formal)|f2s2p
 gitan|gypsy|o
 limonade|lemonade|o
 bourgeois|middle-class|o
@@ -6141,7 +6141,7 @@ dégénéré|degenerate|o
 comparaison|comparison|o
 creux|hollow|o
 envoye|sent|o
-peuvent-ils|can they|o
+peuvent-ils|can they|f3p
 sieur|sir|o
 souche|stump; strain|o;o
 surf|surfing|o
@@ -6150,7 +6150,7 @@ ketchup|ketchup|o
 pâtisserie|cake shop; pastry|o;o
 ghetto|ghetto|o
 probation|probation|o
-trouvez-vous|do you find (pl., formal)|f3s
+trouvez-vous|do you find (pl., formal)|f2s2p
 clochard|tramp, homeless man|o
 partisan|supporter|o
 urbain|urban|o
@@ -6245,7 +6245,7 @@ emballage|packaging|o
 emprunt|loan|o
 inciter|to encourage, to incite|v
 intello|nerd|o
-savais-tu|did you know (sg.)|f3s
+savais-tu|did you know (sg.)|f2s2p
 trompette|trumpet|o
 critère|criterion|o
 rive|bank, shore|o
@@ -6286,7 +6286,7 @@ héroïque|heroic|o
 mature|mature|o
 rebours|compte à rebours: countdown|n
 bouffon|buffoon|o
-prenez-vous|do you take (pl., formal)|f3s
+prenez-vous|do you take (pl., formal)|f2s2p
 relaxe|acquittal|o
 nécessité|necessity|o
 poire|pear|o
@@ -6313,7 +6313,7 @@ chandelle|candle (tall, tapered)|o
 ducon|dickhead|o
 érection|erection|o
 trappe|trapdoor|o
-désirez-vous|do you wish, would you care for (pl., formal)|f3s
+désirez-vous|do you wish, would you care for (pl., formal)|f2s2p
 diagnostiquer|to diagnose|v
 inconvénient|drawback|o
 mécanicien|mechanic|o
@@ -6321,9 +6321,9 @@ pellicule|film|o
 bavardage|chatter|o
 crocodile|crocodile|o
 secrètement|secretly|o
-aimez-vous|do you like (pl., formal)|f3s
+aimez-vous|do you like (pl., formal)|f2s2p
 balistique|ballistics|o
-pourrait-on|could we|o
+pourrait-on|could we|f1p
 superviser|to supervise|v
 tracteur|tractor|o
 éclairage|lighting|o
@@ -6337,14 +6337,14 @@ montre-lui|show him, show her|o
 crampe|cramp|o
 organique|organic (of chemistry, of matter)|o
 sachet|sachet, bag|o
-entendez-vous|do you hear (pl., formal)|f3s
+entendez-vous|do you hear (pl., formal)|f2s2p
 manoeuvre|manoeuvre|o
 visé|targeted|o
 chimio|chemo|o
 courbe|curve|o
 grands-parents|grandparents|o
 maximal|maximum (adj)|o
-pourrions-nous|could we|o
+pourrions-nous|could we|f1p
 trouvez-moi|find me (pl., formal)|o
 absorber|to absorb|v
 parceque|because|o
@@ -6387,7 +6387,7 @@ colombe|dove|o
 complétement|completely|o
 croûte|crust|o
 embarras|embarrassment; predicament|o;o
-ferais-tu|would you do (sg.)|o
+ferais-tu|would you do (sg.)|f2s2p
 investigation|investigation (formal, technical)|o
 surfer|to surf|v
 enflammer|to set alight|v
@@ -6417,7 +6417,7 @@ encontre|à l'encontre de: against|n
 piller|to loot|v
 aspirateur|vacuum cleaner|o
 regarde-la|look at her|o
-seriez-vous|would you be (pl., formal)|o
+seriez-vous|would you be (pl., formal)|f2s2p
 écossais|Scottish|o
 expo|exhibition (colloquial short form)|o
 kung-fu|kung fu|o
@@ -6459,7 +6459,7 @@ musclé|muscular|o
 agitation|agitation|o
 escalade|climbing; escalation|o;o
 sot|foolish|o
-auxquelles|to which (f. pl.)|v
+auxquelles|to which (f. pl.)|o
 dites-le-moi|tell me (pl., formal)|o
 sans-abri|homeless person|o
 toxine|toxin|o
@@ -6471,7 +6471,7 @@ détaillé|detailed|o
 momie|mummy|o
 ohé|hey there|o
 pc|PC|o
-sait-on|do we know|f3s
+sait-on|do we know|f1p
 agacer|to annoy|v
 aveugler|to blind|v
 épatant|splendid, terrific (dated)|o
@@ -6831,7 +6831,7 @@ corral|corral, pen|o
 viable|viable|o
 arménien|Armenian|o
 proportion|proportion|o
-auxquels|to which, to whom (à+lesquels)|v
+auxquels|to which, to whom (à+lesquels)|o
 distinction|distinction|o
 perçu|perceived; collected (of tax)|o;o
 politiquement|politically|o

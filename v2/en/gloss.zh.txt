@@ -1661,7 +1661,7 @@ mass|大量, 大批; 弥撒; 质量|o;o;o
 pot|锅; 大麻 (口语)|o;o
 midnight|午夜, 半夜十二点|o
 snap|啪地折断; 厉声说; 快照|v;v;o
-aside|到一边, 在旁边|v
+aside|到一边, 在旁边|o
 pie|派, 馅饼|o
 scoff|嘲笑; 狼吞虎咽|v;v
 stink|发臭|v
@@ -1710,7 +1710,7 @@ billion|十亿|o
 assault|袭击; 袭击, 殴打|o;v
 grateful|感激的|o
 kidnap|绑架|v
-extremely|极其, 非常|v
+extremely|极其, 非常|o
 blast|爆炸; 气浪, 强风; 炸毁|o;o;v
 governor|州长, 监狱长|o
 express|表达; 快车, 快递|v;o
@@ -3593,7 +3593,7 @@ torch|手电筒 (英式说法); 火把|o;o
 portrait|肖像|o
 demonstrate|清楚地表明; 游行示威|v;v
 mutter|嘟囔, 咕哝|v
-somewhat|有点, 稍微|v
+somewhat|有点, 稍微|o
 mumble|含糊地说|v
 stir|搅拌; 微微动一下; 激起 (情绪)|v;v;v
 messenger|送信人, 信使|o
@@ -4138,7 +4138,7 @@ elbow|肘|o
 contribute|捐助, 出一份力; 促成|v;v
 rumour|rumour, rumor 的英式拼法, 谣言|o
 transplant|移植 (器官); 移栽|v;v
-equally|同样地; 平均地|v;o
+equally|同样地; 平均地|o;o
 flaw|瑕疵, 缺陷|o
 belonging|(belongings) 随身物品; 归属感|o;o
 shipment|货物; 运送|o;o
@@ -9116,7 +9116,7 @@ federalism|联邦制|o
 hereditary|遗传的,世袭的|o
 humankind|人类|o
 ingenuity|独创性,聪明才智|o
-insofar|(用于insofar as)在……范围内|v
+insofar|(用于insofar as)在……范围内|o
 insurer|保险公司|o
 intolerance|不宽容,偏执;不耐受(食物)|o;o
 invasive|入侵性的;侵入性的|o;o
@@ -9484,7 +9484,7 @@ bore|使厌烦; 钻孔; bear 的过去式|v;v;o
 account|账户; 叙述，描述; 账号 (网络服务的用户资料); account for: 解释，说明|o;o;o;n
 rid|get rid of: 摆脱，除掉; 使摆脱，清除|n;v
 copy|复制品，副本; 复制，抄写; 一本，一份 (书或报纸)|o;v;o
-further|更远，进一步; 更多的，另外的|v;o
+further|更远，进一步; 更多的，另外的|o;o
 freak|怪人，怪物; freak out: 失控，吓坏|o;n
 apart|分开，相隔; apart from: 除了|o;n
 cheat|作弊，欺骗; cheat on: 对……不忠，出轨|v;n
@@ -9800,7 +9800,7 @@ goblin|小妖精，哥布林|o
 personage|要人，名人|o
 temperament|性情，气质; 易激动，情绪化|o;o
 unspoken|心照不宣的，未说出口的|o
-whither|去哪里，往何处|v
+whither|去哪里，往何处|o
 displease|使不快，使生气|v
 recoil|(因恐惧或厌恶) 退缩，往后跳; (枪的) 后坐力|v;o
 respectful|恭敬的，尊重人的|o
@@ -9816,7 +9816,7 @@ railing|栏杆，扶手|o
 ramble|东拉西扯，漫无边际地说; 漫步 (在乡间)|v;v
 dedication|奉献，献身精神; 献词 (书的)|o;o
 exertion|费力，努力 (体力或脑力)|o
-thither|到那里，向那边|v
+thither|到那里，向那边|o
 cavern|大洞穴|o
 facade|建筑正面; 假象，表面|o;o
 harshly|严厉地，残酷地|o
@@ -10045,7 +10045,7 @@ epiphany|顿悟，恍然大悟; 主显节 (基督教节日，1月6日)|o;o
 excerpt|摘录，节选 (书或电影的)|o
 flux|不断变化，动荡|o
 galley|船上厨房; 桨帆船 (古代用桨划的船)|o;o
-hither|到这里; hither and thither: 到处，四处|v;n
+hither|到这里; hither and thither: 到处，四处|o;n
 jag|尖角，锯齿状突出物; 一阵 (如 a crying jag 一阵痛哭)|o;o
 mesmerize|迷住，使着迷，催眠|v
 porridge|粥，燕麦粥|o

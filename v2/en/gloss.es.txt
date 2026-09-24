@@ -1915,7 +1915,7 @@ mass|masa, gran cantidad; misa católica; masa de un cuerpo|o;o;o
 pot|olla, cazuela; mota, marihuana (informal)|o;o
 midnight|medianoche|o
 snap|romperse con un chasquido; contestar de mal modo; foto|v;v;o
-aside|a un lado, aparte|v
+aside|a un lado, aparte|o
 pie|pay, pastel de masa con relleno|o
 scoff|burlarse, hablar con desprecio; tragar, comer con ansia|v;v
 stink|apestar, oler muy mal|v
@@ -1964,7 +1964,7 @@ billion|1.000.000.000|o
 assault|agresión violenta; agredir, atacar|o;v
 grateful|agradecido|o
 kidnap|secuestrar|v
-extremely|extremadamente, sumamente|v
+extremely|extremadamente, sumamente|o
 blast|explosión; ráfaga de aire; volar, hacer estallar|o;o;v
 express|expresar, poner en palabras; expreso, rápido|v;o
 capable|capaz de hacer algo; capaz, hábil|o;o
@@ -3840,7 +3840,7 @@ torch|linterna de pilas (británico); antorcha|o;o
 portrait|retrato|o
 demonstrate|demostrar con claridad; manifestarse, marchar en protesta|v;v
 mutter|mascullar, hablar bajo y entre dientes|v
-somewhat|algo, un tanto|v
+somewhat|algo, un tanto|o
 mumble|balbucear, hablar sin que se entienda|v
 stir|revolver con una cuchara; moverse un poco; despertar emociones|v;v;v
 messenger|mensajero|o
@@ -4383,7 +4383,7 @@ elbow|codo|o
 contribute|contribuir, aportar una parte; contribuir a que algo ocurra|v;v
 rumour|rumour, rumor en grafía británica|o
 transplant|trasplantar un órgano; trasplantar una planta|v;v
-equally|igualmente, en el mismo grado; por partes iguales|v;o
+equally|igualmente, en el mismo grado; por partes iguales|o;o
 flaw|defecto, falla que echa a perder algo|o
 belonging|(belongings) las pertenencias; pertenencia, sentirse parte|o;o
 shipment|envío, la mercancía mandada; envío, el mandarla|o;o
@@ -9116,7 +9116,7 @@ federalism|federalismo|o
 hereditary|hereditario|o
 humankind|humanidad, género humano|o
 ingenuity|ingenio, inventiva|o
-insofar|(en insofar as) en la medida en que|v
+insofar|(en insofar as) en la medida en que|o
 insurer|aseguradora|o
 intolerance|intolerancia; intolerancia (a un alimento)|o;o
 invasive|invasor, invasivo; invasivo (que penetra en el cuerpo)|o;o
@@ -9484,7 +9484,7 @@ bore|aburrir; perforar, taladrar; bore, pasado de bear (soportar)|v;v;o
 account|cuenta (de dinero); relato, versión de los hechos; cuenta, perfil (de un servicio en línea); account for: explicar, justificar|o;o;o;n
 rid|get rid of: deshacerse de; librar de|n;v
 copy|copia; copiar; ejemplar|o;v;o
-further|más lejos, más allá; más, adicional|v;o
+further|más lejos, más allá; más, adicional|o;o
 freak|bicho raro, fenómeno; freak out: perder el control, enloquecer|o;n
 apart|separados, aparte; apart from: aparte de, excepto|o;n
 cheat|hacer trampa; cheat on: ser infiel a, engañar a|v;n
@@ -9800,7 +9800,7 @@ goblin|duende, trasgo (criatura pequeña, fea y traviesa)|o
 personage|personaje, persona importante|o
 temperament|temperamento, carácter; carácter cambiante, tendencia a los cambios de humor|o;o
 unspoken|tácito, sobreentendido|o
-whither|adónde, hacia donde|v
+whither|adónde, hacia donde|o
 displease|disgustar, desagradar|v
 recoil|retroceder (con miedo o asco); retroceso, culatazo (de un arma)|v;o
 respectful|respetuoso|o
@@ -9816,7 +9816,7 @@ railing|baranda, barandilla, reja|o
 ramble|divagar, hablar sin rumbo; pasear por el campo|v;v
 dedication|dedicación, compromiso; dedicatoria (de un libro)|o;o
 exertion|esfuerzo (físico o mental)|o
-thither|allí, hacia allá|v
+thither|allí, hacia allá|o
 cavern|caverna, cueva grande|o
 facade|fachada (de un edificio); fachada, apariencia falsa|o;o
 harshly|duramente, con severidad, cruelmente|o
@@ -10045,7 +10045,7 @@ epiphany|epifanía, revelación repentina; Epifanía, Día de Reyes (6 de enero)
 excerpt|extracto, fragmento (de un libro, una película)|o
 flux|cambio continuo, flujo|o
 galley|cocina (de un barco); galera (barco antiguo de remos)|o;o
-hither|aquí, hacia acá; hither and thither: de aquí para allá|v;n
+hither|aquí, hacia acá; hither and thither: de aquí para allá|o;n
 jag|punta afilada, saliente; ataque, racha (un ataque de llanto)|o;o
 mesmerize|hipnotizar, fascinar por completo|v
 porridge|avena cocida, gachas de avena|o

@@ -26,7 +26,7 @@ qué|what?; how…! (in exclamations)|o;o
 me|me; myself|o;o
 una|a, one (f.)|o
 los|the (m. pl.); them|o;o
-se|-self, -selves; one, people (impersonal); to him, to her, to them (replacing le before lo, la)|o;o;v
+se|-self, -selves; one, people (impersonal); to him, to her, to them (replacing le before lo, la)|o;o;o
 te|you; yourself|f2s2p;o
 con|with|o
 para|for (purpose), in order to|o
@@ -53,10 +53,10 @@ del|of the (de + el)|o
 como|like, as; I eat|o;f1s
 aquí|here|o
 haber|to have (auxiliary); there to be|v;o
-al|to the (a + el)|v
+al|to the (a + el)|o
 más|more, most|o
 ir|to go; irse: to leave|v;n
-le|to him, to her, to you (formal)|v
+le|to him, to her, to you (formal)|o
 estar|to be (state, location)|v
 este|this (m.)|o
 esto|this (neuter)|o
@@ -215,7 +215,7 @@ primero|first|o
 lugar|place|o
 dinero|money|o
 tipo|type, kind; guy|o;o
-les|to them, to you (pl.)|v
+les|to them, to you (pl.)|o
 hermano|brother|o
 estado|state, condition; been|o;o
 vivir|to live|v
@@ -2232,7 +2232,7 @@ patio|yard, courtyard|o
 determinar|to determine|v
 diles|tell them|o
 dibujo|drawing|o
-muera|may I/he/she die|o
+muera|may I/he/she die|f1s
 negativo|negative|o
 coma|coma (medical); eat! (formal), that he/she/it eat; comma|o;o;o
 colina|hill|o
@@ -2302,7 +2302,7 @@ asegúrate|make sure|o
 diseñar|to design|v
 darles|to give them|v
 signo|sign|o
-abra|open! (formal); may I/he open|o;o
+abra|open! (formal); may I/he open|o;f1s
 hundir|to sink|v
 técnica|technique|o
 máscara|mask|o
@@ -2872,7 +2872,7 @@ oxígeno|oxygen|o
 prioridad|priority|o
 misil|missile|o
 algun|some, any|o
-empiece|begin (formal); may I/he begin|o;o
+empiece|begin (formal); may I/he begin|o;f1s
 ponerle|to put on it, to give him|v
 basar|to base|v
 tómalo|take it|o
@@ -3548,7 +3548,7 @@ circular|to circulate; to drive|v;v
 meterse|to get into; to meddle|v;v
 sirena|siren; mermaid|o;o
 beca|scholarship, grant|o
-salve|may I/he save|o
+salve|may I/he save|f1s
 turista|tourist|o
 sándwich|sandwich|o
 talla|size|o

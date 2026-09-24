@@ -1883,7 +1883,7 @@ mass|massa, grande quantidade; missa católica; massa de um corpo|o;o;o
 pot|panela funda; maconha (informal)|o;o
 midnight|meia-noite|o
 snap|partir-se com um estalo; responder de modo ríspido; foto|v;v;o
-aside|de lado, à parte|v
+aside|de lado, à parte|o
 pie|torta de massa com recheio|o
 governor|governador de um estado ou diretor de uma prisão|o
 scoff|zombar, falar com desprezo; devorar, comer com sofreguidão|v;v
@@ -1933,7 +1933,7 @@ billion|1.000.000.000|o
 assault|agressão violenta; agredir, atacar|o;v
 grateful|grato, agradecido|o
 kidnap|sequestrar|v
-extremely|extremamente|v
+extremely|extremamente|o
 blast|explosão; rajada de ar; explodir, detonar|o;o;v
 express|exprimir, pôr em palavras; expresso, rápido|v;o
 capable|capaz de fazer algo; capaz, competente|o;o
@@ -3815,7 +3815,7 @@ torch|lanterna de pilhas (britânico); tocha|o;o
 portrait|retrato|o
 demonstrate|demonstrar com clareza; manifestar-se, marchar em protesto|v;v
 mutter|resmungar, falar baixo e entre dentes|v
-somewhat|um tanto, meio|v
+somewhat|um tanto, meio|o
 mumble|balbuciar, falar sem que se entenda|v
 stir|mexer um líquido com a colher; mexer-se um pouco; despertar sentimentos|v;v;v
 messenger|mensageiro|o
@@ -4361,7 +4361,7 @@ elbow|cotovelo|o
 contribute|contribuir, dar uma parte; contribuir para que algo aconteça|v;v
 rumour|rumour, grafia britânica de rumor|o
 transplant|transplantar um órgão; transplantar uma planta|v;v
-equally|igualmente, no mesmo grau; em partes iguais|v;o
+equally|igualmente, no mesmo grau; em partes iguais|o;o
 flaw|defeito, falha que estraga algo|o
 belonging|(belongings) os pertences; pertencimento, o sentir-se em casa|o;o
 shipment|remessa, a mercadoria enviada; remessa, o envio|o;o
@@ -9116,7 +9116,7 @@ federalism|federalismo|o
 hereditary|hereditário|o
 humankind|humanidade|o
 ingenuity|engenhosidade, criatividade|o
-insofar|(em insofar as) na medida em que|v
+insofar|(em insofar as) na medida em que|o
 insurer|seguradora|o
 intolerance|intolerância; intolerância (alimentar)|o;o
 invasive|invasor (que se espalha); invasivo (que penetra no corpo)|o;o
@@ -9484,7 +9484,7 @@ bore|entediar; perfurar; passado de bear|v;v;o
 account|conta (de dinheiro); relato; conta (em serviço online); account for: explicar|o;o;o;n
 rid|get rid of: livrar-se de; livrar de|n;v
 copy|cópia; copiar; exemplar (de livro ou jornal)|o;v;o
-further|mais longe, mais adiante; mais, adicional|v;o
+further|mais longe, mais adiante; mais, adicional|o;o
 freak|esquisito, aberração; freak out: surtar, pirar|o;n
 apart|separado, afastado; apart from: exceto, fora|o;n
 cheat|trapacear, colar; cheat on: trair|v;n
@@ -9800,7 +9800,7 @@ goblin|duende, gnomo malvado|o
 personage|personalidade, figura importante|o
 temperament|temperamento, índole; gênio instável, tendência a mudar de humor|o;o
 unspoken|implícito, subentendido|o
-whither|para onde|v
+whither|para onde|o
 displease|desagradar, aborrecer|v
 recoil|recuar (de medo ou nojo); coice, recuo (de uma arma)|v;o
 respectful|respeitoso|o
@@ -9816,7 +9816,7 @@ railing|grade, corrimão|o
 ramble|divagar, falar sem rumo; fazer caminhada pelo campo|v;v
 dedication|dedicação, empenho; dedicatória|o;o
 exertion|esforço (físico ou mental)|o
-thither|para lá|v
+thither|para lá|o
 cavern|caverna, gruta|o
 facade|fachada (frente de um prédio); fachada, aparência falsa|o;o
 harshly|severamente, com dureza|o
@@ -10045,7 +10045,7 @@ epiphany|epifania, revelação repentina; Epifania, Dia de Reis (6 de janeiro)|o
 excerpt|trecho, excerto (de livro, filme)|o
 flux|fluxo, mudança constante|o
 galley|cozinha de navio; galé (navio antigo a remo)|o;o
-hither|para cá; hither and thither: para lá e para cá|v;n
+hither|para cá; hither and thither: para lá e para cá|o;n
 jag|ponta afiada; acesso, crise (a crying jag)|o;o
 mesmerize|hipnotizar, fascinar completamente|v
 porridge|mingau de aveia|o

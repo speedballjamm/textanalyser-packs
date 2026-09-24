@@ -48,10 +48,10 @@ poder|bisa, dapat|v
 del|dari (de + el)|o
 aquí|di sini|o
 haber|(pembentuk bentuk perfek) sudah; ada|v;o
-al|ke (a + el)|v
+al|ke (a + el)|o
 más|lebih, paling|o
 ir|pergi; irse: pergi meninggalkan tempat|v;n
-le|kepadanya, kepada Anda (formal)|v
+le|kepadanya, kepada Anda (formal)|o
 estar|berada, dalam keadaan (keadaan, lokasi)|v
 este|ini (maskulin)|o
 esto|ini (netral)|o
@@ -203,7 +203,7 @@ primero|pertama|o
 lugar|tempat|o
 dinero|uang|o
 tipo|jenis, macam; cowok, pria|o;o
-les|kepada mereka, kepada kalian|v
+les|kepada mereka, kepada kalian|o
 hermano|saudara laki-laki|o
 estado|keadaan, kondisi; sudah berada (bentuk ketiga dari estar)|o;o
 vivir|hidup, tinggal|v
@@ -2189,7 +2189,7 @@ patio|halaman, pekarangan|o
 determinar|menentukan|v
 diles|katakan kepada mereka|o
 dibujo|gambar|o
-muera|semoga saya/dia mati|o
+muera|semoga saya/dia mati|f1s
 negativo|negatif|o
 coma|koma (medis); makanlah (formal), semoga ia makan; koma (tanda baca)|o;o;o
 colina|bukit|o
@@ -2258,7 +2258,7 @@ asegúrate|pastikan|o
 diseñar|merancang|v
 darles|memberi mereka|v
 signo|tanda|o
-abra|bukalah! (formal); semoga saya/dia membuka|o;o
+abra|bukalah! (formal); semoga saya/dia membuka|o;f1s
 hundir|menenggelamkan|v
 técnica|teknik|o
 máscara|topeng|o
@@ -2807,7 +2807,7 @@ oxígeno|oksigen|o
 prioridad|prioritas|o
 misil|rudal|o
 algun|suatu, beberapa|o
-empiece|mulailah (formal); semoga saya/dia mulai|o;o
+empiece|mulailah (formal); semoga saya/dia mulai|o;f1s
 ponerle|memasangkan padanya, memberinya|v
 basar|mendasarkan|v
 tómalo|ambillah|o
@@ -3483,7 +3483,7 @@ circular|beredar; berkendara|v;v
 meterse|masuk ke; ikut campur|v;v
 sirena|sirene; putri duyung|o;o
 beca|beasiswa|o
-salve|semoga saya/dia menyelamatkan|o
+salve|semoga saya/dia menyelamatkan|f1s
 turista|turis|o
 sándwich|roti lapis|o
 talla|ukuran|o
@@ -6489,7 +6489,7 @@ naturaleza|alam|o
 a|ke, di; menandai orang sebagai objek (tidak diterjemahkan)|o;o
 por|oleh (pelaku, sarana); melalui, lewat, sepanjang; karena, demi|o;o;o
 qué|apa?; betapa…! (dalam seruan)|o;o
-se|diri sendiri; orang (impersonal); kepadanya, kepada mereka (pengganti le sebelum lo, la)|o;o;v
+se|diri sendiri; orang (impersonal); kepadanya, kepada mereka (pengganti le sebelum lo, la)|o;o;o
 ver|melihat; menonton|v;v
 como|seperti, sebagai; saya makan|o;f1s
 nada|tidak ada apa-apa; sama sekali tidak (setelah kata kerja negatif)|o;o
