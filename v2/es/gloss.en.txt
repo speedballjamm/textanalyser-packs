@@ -21,7 +21,7 @@ es|(identity, characteristic) he/she/it is, you are (formal)|f3s
 en|in, on, at|o
 lo|it, him (object); the (neuter)|f3s;o
 un|a, one (m.)|o
-por|by (agent, means); through, along; because of, for|o;o;o
+por|because of, for; by (agent, means); through, along|o;o;o
 qué|what?; how…! (in exclamations)|o;o
 me|me; myself|o;o
 una|a, one (f.)|o
@@ -94,11 +94,11 @@ ella|she|f3s
 quiero|I want|f1s
 fue|he/she/it was; went; fue a: went to|f3s;o;n
 gracias|thanks|o
-era|(identity, characteristic) I was; he/she/it was|f1s;f3s
+era|(identity, characteristic) he/she/it was; I was|f3s;f1s
 soy|(identity, characteristic) I am|f1s
 sólo|only (older spelling of solo)|o
 venir|to come|v
-solo|alone; only|o;o
+solo|only; alone|o;o
 pensar|to think|v
 señor|sir, Mr.; gentleman|o;o
 todos|everyone, all|o
@@ -113,7 +113,7 @@ uno|one|o
 voy|I go, I'm going|f1s
 día|day|o
 sabes|(a fact) you know|f2s2p
-estaba|(state, location) I was; he/she/it was|f1s;f3s
+estaba|(state, location) he/she/it was; I was|f3s;f1s
 puede|he/she/it can, you can (formal)|f3s
 eres|(identity, characteristic) you are|f2s2p
 creer|to believe, to think|v
@@ -138,7 +138,7 @@ dónde|where?|o
 va|he/she/it goes, you go (formal)|f3s
 oh|oh|o
 favor|favor; por favor: please|o;n
-pasar|to happen; to pass, to go by; to spend (time)|v;v;v
+pasar|to pass, to go by; to happen; to spend (time)|v;v;v
 mí|me (after a preposition)|o
 quieres|you want|f2s2p
 siento|I feel; I'm sorry|f1s;f1s
@@ -172,13 +172,13 @@ cosas|things|o
 siempre|always|o
 hasta|until, up to; even|o;o
 ahí|there (near you)|o
-seguir|to follow; to keep on, to continue|v;v
+seguir|to keep on, to continue; to follow|v;v
 oír|to hear|v
 años|years|o
 antes|before|o
 ni|nor, not even|o
 llamar|to call; llamarse: to be called|v;n
-hecho|fact; done, made|o;o
+hecho|done, made; fact|o;o
 mis|my (pl.)|o
 nosotros|we, us|f1p
 seguro|sure, certain; safe|o;o
@@ -217,7 +217,7 @@ dinero|money|o
 tipo|type, kind; guy|o;o
 les|to them, to you (pl.)|o
 hermano|brother|o
-estado|state, condition; been|o;o
+estado|been; state, condition|o;o
 vivir|to live|v
 trabajar|to work|v
 madre|mother|o
@@ -273,7 +273,7 @@ tarde|late; afternoon|o;o
 hacerlo|to do it|v
 cada|each, every|o
 quien|who (relative)|o
-demasiado|too much, too many; too|o;o
+demasiado|too; too much, too many|o;o
 preocupar|to worry; preocuparse: to be worried|v;n
 traer|to bring|v
 contigo|with you|o
@@ -293,7 +293,7 @@ cuánto|how much?, how many?|o
 cambiar|to change|v
 amor|love|o
 ayudar|to help|v
-forma|form, shape; way|o;o
+forma|way; form, shape|o;o
 junto|together; junto a: next to|o;n
 recordar|to remember; to remind|v;v
 entre|between, among|o
@@ -321,7 +321,7 @@ historia|story; history|o;o
 ah|ah|o
 puerta|door|o
 cariño|affection; darling|o;o
-rápido|fast, quick; quickly|o;o
+rápido|quickly; fast, quick|o;o
 pregunta|question|o
 jugar|to play (a game)|v
 significar|to mean|v
@@ -377,7 +377,7 @@ perro|dog|o
 cara|face|o
 segundo|second|o
 hey|hey|o
-bajo|low; under, beneath|o;o
+bajo|under, beneath; low|o;o
 realidad|reality; en realidad: actually|o;n
 miedo|fear; tener miedo: to be afraid|o;n
 deja|leave!, let (deja: leave it, stop); he/she/it leaves|o;f3s
@@ -439,7 +439,7 @@ sangre|blood|o
 medio|half; middle; means|o;o;o
 disparar|to shoot, to fire|v
 luz|light|o
-vuelta|turn; return; dar la vuelta: to turn around|o;o;n
+vuelta|return; turn; dar la vuelta: to turn around|o;o;n
 extraño|strange, odd; stranger|o;o
 recibir|to receive, to get|v
 cerrar|to close, to shut|v
@@ -509,7 +509,7 @@ dime|tell me|o
 ocupar|to occupy; ocuparse de: to take care of|v;n
 sentido|sense; meaning; direction|o;o;o
 tampoco|neither, not either|o
-oído|ear, hearing; heard|o;o
+oído|heard; ear, hearing|o;o
 vivo|alive; lively; I live|o;o;f1s
 mil|thousand|o
 sueño|dream; sleepiness|o;o

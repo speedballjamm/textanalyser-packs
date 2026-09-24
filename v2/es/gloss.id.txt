@@ -88,11 +88,11 @@ ella|dia (perempuan)|f3s
 quiero|saya mau|f1s
 fue|dia adalah (bentuk lampau); dia pergi (bentuk lampau); fue a: pergi untuk, pergi ke|f3s;o;n
 gracias|terima kasih|o
-era|(jati diri, sifat) saya adalah (bentuk lampau); dia adalah (bentuk lampau)|f1s;f3s
+era|(jati diri, sifat) dia adalah (bentuk lampau); saya adalah (bentuk lampau)|f3s;f1s
 soy|(jati diri, sifat) saya adalah|f1s
 sólo|hanya (ejaan lama dari solo)|o
 venir|datang|v
-solo|sendiri, seorang diri; hanya|o;o
+solo|hanya; sendiri, seorang diri|o;o
 pensar|berpikir|v
 señor|tuan, pak (sapaan hormat untuk laki-laki); pria terhormat|o;o
 todos|semua orang, semua|o
@@ -107,7 +107,7 @@ uno|satu|o
 voy|saya pergi, saya akan pergi|f1s
 día|hari|o
 sabes|(suatu fakta) kamu tahu|f2s2p
-estaba|(keadaan, lokasi) saya berada (bentuk lampau); dia berada (bentuk lampau)|f1s;f3s
+estaba|(keadaan, lokasi) dia berada (bentuk lampau); saya berada (bentuk lampau)|f3s;f1s
 puede|dia bisa, Anda bisa (formal)|f3s
 eres|(jati diri, sifat) kamu adalah|f2s2p
 creer|percaya, mengira|v
@@ -163,13 +163,13 @@ cosas|barang-barang, hal-hal|o
 siempre|selalu|o
 hasta|sampai, hingga; bahkan|o;o
 ahí|di situ (dekat kamu)|o
-seguir|mengikuti; terus, melanjutkan|v;v
+seguir|terus, melanjutkan; mengikuti|v;v
 oír|mendengar|v
 años|tahun (jamak)|o
 antes|sebelum, dahulu|o
 ni|dan tidak juga, bahkan tidak|o
 llamar|menelepon, memanggil; llamarse: bernama|v;n
-hecho|fakta, kenyataan; sudah dilakukan, dibuat|o;o
+hecho|sudah dilakukan, dibuat; fakta, kenyataan|o;o
 mis|-ku (untuk benda jamak)|o
 nosotros|kami, kita|f1p
 seguro|yakin, pasti; aman|o;o
@@ -205,7 +205,7 @@ dinero|uang|o
 tipo|jenis, macam; cowok, pria|o;o
 les|kepada mereka, kepada kalian|o
 hermano|saudara laki-laki|o
-estado|keadaan, kondisi; sudah berada (bentuk ketiga dari estar)|o;o
+estado|sudah berada (bentuk ketiga dari estar); keadaan, kondisi|o;o
 vivir|hidup, tinggal|v
 trabajar|bekerja|v
 madre|ibu|o
@@ -261,7 +261,7 @@ tarde|terlambat; siang, sore|o;o
 hacerlo|melakukannya|v
 cada|masing-masing, setiap|o
 quien|yang, orang yang|o
-demasiado|terlalu banyak; terlalu|o;o
+demasiado|terlalu; terlalu banyak|o;o
 preocupar|membuat khawatir; preocuparse: merasa khawatir|v;n
 traer|membawa (ke sini)|v
 contigo|denganmu|o
@@ -281,7 +281,7 @@ cuánto|berapa banyak?|o
 cambiar|mengubah, berubah|v
 amor|cinta|o
 ayudar|menolong, membantu|v
-forma|bentuk, wujud; cara|o;o
+forma|cara; bentuk, wujud|o;o
 junto|bersama; junto a: di sebelah|o;n
 recordar|ingat, mengingat; mengingatkan|v;v
 entre|antara, di antara|o
@@ -308,7 +308,7 @@ historia|cerita, kisah; sejarah|o;o
 ah|ah|o
 puerta|pintu|o
 cariño|kasih sayang; sayang (panggilan untuk orang tercinta)|o;o
-rápido|cepat; dengan cepat|o;o
+rápido|dengan cepat; cepat|o;o
 pregunta|pertanyaan|o
 jugar|bermain (permainan)|v
 significar|berarti, bermakna|v
@@ -363,7 +363,7 @@ perro|anjing|o
 cara|wajah, muka|o
 segundo|detik, yang kedua|o
 hey|hei|o
-bajo|rendah; di bawah|o;o
+bajo|di bawah; rendah|o;o
 realidad|kenyataan; en realidad: sebenarnya|o;n
 miedo|rasa takut; tener miedo: merasa takut|o;n
 deja|biarkan!, tinggalkan!; dia meninggalkan|o;f3s
@@ -422,7 +422,7 @@ sangre|darah|o
 medio|setengah; tengah; sarana|o;o;o
 disparar|menembak|v
 luz|cahaya, lampu|o
-vuelta|putaran, belokan; kepulangan; dar la vuelta: berbalik|o;o;n
+vuelta|kepulangan; putaran, belokan; dar la vuelta: berbalik|o;o;n
 extraño|aneh, asing; orang tak dikenal|o;o
 recibir|menerima, mendapat|v
 cerrar|menutup|v
@@ -491,7 +491,7 @@ dime|beritahu saya|o
 ocupar|menempati, menduduki; ocuparse de: mengurus|v;n
 sentido|makna, arti; maksud; arah|o;o;o
 tampoco|juga tidak|o
-oído|telinga, pendengaran; sudah didengar|o;o
+oído|sudah didengar; telinga, pendengaran|o;o
 vivo|masih hidup; penuh semangat; saya tinggal|o;o;f1s
 mil|1.000|o
 sueño|mimpi; rasa mengantuk|o;o
@@ -6486,14 +6486,14 @@ codicia|ketamakan|o
 notar|memperhatikan, menyadari|v
 naturaleza|alam|o
 a|ke, di; menandai orang sebagai objek (tidak diterjemahkan)|o;o
-por|oleh (pelaku, sarana); melalui, lewat, sepanjang; karena, demi|o;o;o
+por|karena, demi; oleh (pelaku, sarana); melalui, lewat, sepanjang|o;o;o
 qué|apa?; betapa…! (dalam seruan)|o;o
 se|diri sendiri; orang (impersonal); kepadanya, kepada mereka (pengganti le sebelum lo, la)|o;o;o
 ver|melihat; menonton|v;v
 como|seperti, sebagai; saya makan|o;f1s
 nada|tidak ada apa-apa; sama sekali tidak (setelah kata kerja negatif)|o;o
 hombre|laki-laki, pria; astaga!, hei! (sebagai seruan)|o;o
-pasar|terjadi; lewat, berlalu; menghabiskan (waktu)|v;v;v
+pasar|lewat, berlalu; terjadi; menghabiskan (waktu)|v;v;v
 salir|keluar, pergi; berakhir, jadinya (baik, buruk)|v;v
 trabajo|kerja, pekerjaan; saya bekerja|o;f1s
 mira|lihat!; dia melihat|o;f3s
