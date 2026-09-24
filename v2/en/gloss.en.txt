@@ -29,7 +29,7 @@ me|me|o
 this|this (this one, near me)|o
 he|he|f3s
 do|to do; (makes questions and negatives: do you know?)|v;g
-for|for (intended for); for (a length of time); for, because; for, in favour of|o;o;o;o
+for|for (intended for); for (a length of time); for, because; for, in favour of; for, on behalf of (works for a bank)|o;o;o;o;o
 have|to have; (makes the perfect: I have seen); have to: must|v;g;n
 my|my|o
 on|on, on top of; on (a day or date); on, about (a subject); on, switched on, working|o;o;o;o
@@ -48,9 +48,9 @@ with|with|o
 but|but, however; but, except (all but one)|o;o
 all|all, everything|o
 go|to go|v
-so|so, therefore; so (to that degree)|o;o
+so|so, therefore; so (to that degree); so (in order that)|o;o;o
 get|to get, to obtain; to become; to arrive; to understand|v;v;v;v
-just|just, only; just (a moment ago)|o;o
+just|just, only; just (a moment ago); just, simply (for emphasis: it just stopped)|o;o;o
 there|there (that place); there is: exists|o;n
 here|here (this place)|o
 like|like, similar to; to enjoy|o;v
@@ -66,17 +66,17 @@ about|about, concerning; about, roughly; about to: on the point of|o;o;n
 up|up, to or in a higher place; up, out of bed, awake; up, over, finished (time's up)|o;o;o
 at|at (a place); at (a time); at, towards (look at, throw at)|o;o;o
 him|him|o
-one|one, the number 1; one, a single thing or person (the red one); one, you, people in general|o;o;o
+one|one, the number 1; one, a single thing or person (the red one); one, you, people in general; one, a certain (one evening)|o;o;o;o
 now|now|o
 oh|oh (surprise, realisation)|o
-see|to see; to understand|v;v
+see|to see; to understand; to find out, to check (see if)|v;v;v
 well|well… (pausing); well (in a good way); well, healthy; as well: also|o;o;o;n
 her|her|o
 how|how|o
 think|to think|v
 will|will (the future); will (determination); a will (document left at death)|o;o;o
 yeah|yeah, yes|o
-look|to look; look! (pay attention)|v;o
+look|to look; look! (pay attention); a look, a glance; a look, an expression, appearance|v;o;o;o
 've|(have: I've seen, you've gone)|g
 got|got, past of get; have got: to have|o;n
 okay|okay, all right|o
@@ -97,7 +97,7 @@ when|when|o
 going|going; going to: about to|o;n
 an|a, one (before a vowel sound)|o
 man|man; (interjection) expresses surprise|o;o
-back|back (to where it was); back (of the body)|o;o
+back|back (to where it was); back (of the body); the back, the rear or reverse side (of a page, a room)|o;o;o
 say|to say|v
 us|us|o
 would|would|o
@@ -117,7 +117,7 @@ thank|to thank; thank you: thanks; thanks: thank you; thanks to: because of|v;n;
 some|some|o
 hey|hey (greeting; getting attention)|o
 give|to give|v
-could|could, was able to; could (a polite request)|o;o
+could|could, was able to; could (a polite request); could, might (it could be)|o;o;o
 'd|would (I'd like); (had: I'd gone); (did: where'd you go)|o;g;g
 didn|(did not, in didn't)|g
 by|by (beside); by (done by); by (no later than); by (by means of)|o;o;o;o
@@ -375,7 +375,7 @@ business|business; business, an affair|o;o
 part|part, piece of a whole; part, role in a play or film; to part, to separate|o;o;v
 true|true, correct, not false; true, real, genuine; true, loyal|o;o;o
 each|each|o
-point|point, an idea; to point; point, purpose; a moment in time (at that point); a point, a unit of score|o;v;o;o;o
+point|point, an idea; to point; point, purpose; a moment in time (at that point); a point, a unit of score; a place, a spot (a meeting point)|o;v;o;o;o;o
 easy|easy, not difficult; easy, relaxed, calm; easy! carefully, gently|o;o;o
 deal|deal, an agreement; to deal with; a great deal: a lot|o;v;n
 hit|to hit; a hit, a success|v;o
@@ -461,14 +461,14 @@ least|least, the smallest amount (the least I can do); at least: at the minimum,
 wear|to wear|v
 trouble|trouble, difficulty, problems; to trouble, to bother|o;v
 power|power, control, authority; power, strength; power, electricity (power cut)|o;o;o
-clear|clear, easy to understand; to clear|o;v
+clear|clear, easy to understand; to clear; clear, transparent (clear water)|o;v;o
 read|to read|v
 nobody|nobody|o
 ring|ring (jewellery); to ring|o;v
 mr|Mr (title for a man)|o
 though|though, although; though, however|o;o
 throw|to throw|v
-fall|to fall; fall, autumn|v;o
+fall|to fall; fall, autumn; a fall, a drop (a fall in prices)|v;o;o
 supposed|supposed to: meant to, expected to; supposed, believed to be|n;o
 war|war|o
 between|between|o
@@ -924,7 +924,7 @@ slow|taking a long time, not fast|o
 deserve|to have earned by what you did|v
 whether|if, in either case|o
 pant|to breathe hard and fast; pants: trousers (US), underpants (UK)|v;n
-support|to help, to back; to hold up|v;v
+support|to help, to back; to hold up; support, help (customer support)|v;v;o
 public|open to everyone; the people generally|o;o
 base|bottom part, foundation; military camp; based in / based on: located in, founded on|o;o;n
 angry|feeling strong displeasure|o
@@ -1242,7 +1242,7 @@ cup|small container for drinking|o
 beach|sandy or stony shore by the sea|o
 excited|feeling eager and stirred up|o
 van|covered road vehicle for goods|o
-language|words a people speak; way of expressing|o;o
+language|words a people speak; way of expressing; bad language, swearing|o;o;o
 hall|large room for meetings; passage inside a door|o;o
 introduce|to make people known to each other; to bring in for the first time|v;v
 itself|(reflexive of it) its own self|o
@@ -1250,7 +1250,7 @@ acting|performing a part; holding a post for a time|o;o
 divorce|legal end of a marriage; to end a marriage|o;v
 beauty|quality of being lovely to look at|o
 shock|sudden upsetting surprise; to upset badly|o;v
-tight|fitting closely, hard to move; with little money to spare|o;o
+tight|fitting closely, hard to move; with little money or time to spare; strict, firm (tight security)|o;o;o
 event|something that happens; organised occasion|o;o
 shame|painful feeling of having done wrong; pity|o;o
 program|plan of events; set of instructions for a computer; broadcast show|o;o;o
@@ -1283,7 +1283,7 @@ dry|with no water in or on it; to remove water from|o;v
 crack|narrow break or line; to break with a sharp sound; sharp remark|o;v;o
 sweetheart|person you love; (used in address) dear|o;o
 load|amount carried; to put a load into; to fill a gun|o;v;v
-medical|to do with treating illness|v
+medical|to do with treating illness|o
 suffer|to feel pain or hardship; to put up with|v;v
 whom|(object form of who)|g
 commander|officer in charge|o
@@ -1311,7 +1311,7 @@ fuckin|(vulgar) = fucking, used for emphasis|o
 unite|to join together|v
 responsible|having the duty for; being the cause of; sensible|o;o;o
 justice|fair treatment; the law and its courts|o;o
-military|to do with soldiers and war; the armed forces|v;o
+military|to do with soldiers and war; the armed forces|o;o
 main|chief, most important|o
 hill|raised piece of ground, lower than a mountain|o
 request|to ask for politely; polite asking|v;o
@@ -1319,7 +1319,7 @@ whoever|any person who|o
 post|job or position; mail; upright pole; to send by mail|o;o;o;v
 minister|head of a government department; church leader|o;o
 bridge|structure carrying a road over water|o
-bullshit|(vulgar) nonsense, lies|o
+bullshit|(vulgar) nonsense, lies; (vulgar) to bullshit, to lie to|o;v
 gate|door in a wall or fence|o
 remove|to take away or take off|v
 necessary|needed, that must be done|o
@@ -1429,7 +1429,7 @@ effect|change produced by something|o
 regret|to be sorry about; feeling of being sorry|v;o
 oil|thick slippery liquid used for fuel or cooking|o
 horrible|very unpleasant, causing disgust|o
-purpose|reason for doing something; on purpose: deliberately|o;n
+purpose|reason for doing something; on purpose: deliberately; sense of purpose, determination|o;n;o
 hook|bent piece of metal for hanging or catching|o
 planning|deciding in advance what to do|o
 subject|topic being dealt with; area of study; person under a ruler|o;o;o
@@ -1443,7 +1443,7 @@ plate|flat dish for food|o
 prisoner|person kept locked up|o
 earn|to get by working; to deserve|v;v
 nonsense|words or behaviour with no sense|o
-whistle|high sound made by blowing; to make it|o;v
+whistle|high sound made by blowing; to make it; a whistle, the small instrument blown to make it|o;v;o
 mix|to put together into one; to combine|v;v
 contract|written agreement; to make smaller or tighter|o;v
 original|first, earliest; new and not copied|o;o
@@ -1552,7 +1552,7 @@ perform|to do a task; to act or play before an audience|v;v
 cheap|costing little; of poor quality|o;o
 coat|outer garment with sleeves; layer of paint|o;o
 direction|way something faces or moves; instruction|o;o
-social|to do with people mixing together|v
+social|to do with people mixing together|o
 brilliant|very clever; very bright; excellent|o;o;o
 sale|selling of goods; time when prices are cut|o;o
 rip|to tear roughly|v
@@ -1749,7 +1749,7 @@ yard|ground beside a building; unit of length, 0.9 m|o;o
 goin|going (informal spelling)|o
 gather|to bring or come together; to understand|v;v
 role|part played by an actor; part someone takes in life|o;o
-legal|allowed by law; to do with the law|o;v
+legal|allowed by law; to do with the law|o;o
 revenge|harm done in return for harm suffered|o
 competition|contest; trying to beat others|o;o
 mystery|thing that cannot be explained|o
@@ -1783,7 +1783,7 @@ rate|speed at which something happens; charge made; to judge the quality of|o;o;
 chocolate|sweet brown food made from cocoa|o
 royal|of a king or queen|o
 expert|person who knows a subject deeply|o
-text|written words; message sent by phone|o;o
+text|written words; message sent by phone; to text, to send a message by phone|o;o;v
 capture|to take prisoner, to catch|v
 witch|woman said to have magic powers|o
 honour|honour, British spelling of honor|o
@@ -1802,7 +1802,7 @@ gut|belly, bowels; (guts) courage; felt without thinking|o;o;o
 jacket|short coat|o
 snake|long legless animal that slides along|o
 complain|to say you are not satisfied|v
-romantic|to do with love; full of feeling and imagination|v;o
+romantic|to do with love; full of feeling and imagination|o;o
 sexy|attractive in a sexual way|o
 dragon|large fire-breathing beast in stories|o
 re|(misprint of 're) short for are|o
@@ -1829,7 +1829,7 @@ insurance|payments made so losses will be covered|o
 spy|person who secretly gathers information; to watch secretly|o;v
 toy|thing made for a child to play with|o
 regular|happening at even times; usual, ordinary|o;o
-political|to do with government and power|v
+political|to do with government and power|o
 license|official permission; document giving it|o;o
 cloud|mass of water drops floating in the sky|o
 citizen|member of a country with rights there|o
@@ -1924,7 +1924,7 @@ explosion|sudden violent bursting|o
 vision|ability to see; picture in the mind; wise view of the future|o;o;o
 wise|showing good sense from experience|o
 yellow|colour of the sun and of butter|o
-sexual|to do with sex|v
+sexual|to do with sex|o
 wherever|in or to any place that|o
 row|line of things side by side; noisy quarrel; to move a boat with oars|o;o;v
 experiment|test done to find something out|o
@@ -2164,7 +2164,7 @@ valley|low land between hills|o
 nasty|unpleasant; spiteful|o;o
 salt|white substance used to flavour food|o
 expose|to uncover; to make a secret known|v;v
-flag|cloth with a country's colours on it|o
+flag|cloth with a country's colours on it; to flag, to mark for attention|o;v
 policy|plan of action of a government or firm; insurance contract|o;o
 slap|to hit with the open hand|v
 maid|woman servant|o
@@ -2272,7 +2272,7 @@ ash|grey powder left after burning|o
 network|system of connected people or machines|o
 gear|equipment for an activity; setting of a vehicle's engine speed|o;o
 district|area of a town or country|o
-industry|making of goods in factories; hard work|o;o
+industry|making of goods in factories; an industry, a branch of business (the tech industry); hard work|o;o;o
 pin|thin pointed piece of metal; to fasten with one|o;v
 bay|part of the sea curving into the land|o
 coincidence|two things happening together by chance|o
@@ -2618,7 +2618,7 @@ homework|schoolwork done at home|o
 blessing|God's favour asked for; approval; something to be glad of|o;o;o
 practically|almost, very nearly; in a useful sensible way|o;o
 steel|hard strong metal made from iron|o
-financial|to do with money|v
+financial|to do with money|o
 ease|freedom from effort or pain; to make less painful|o;v
 distract|to take someone's attention away|v
 footstep|sound or mark of a foot walking|o
@@ -2645,7 +2645,7 @@ beef|meat of cattle; complaint (informal)|o;o
 environment|surroundings we live in; the natural world|o;o
 payment|money paid; act of paying|o;o
 scar|mark left on the skin by a wound|o
-commercial|to do with trade; advertisement on radio or television|v;o
+commercial|to do with trade; advertisement on radio or television|o;o
 hip|joint where the leg meets the body|o
 landing|coming down to the ground; floor at the top of stairs|o;o
 shield|thing carried to guard against blows; to protect|o;v
@@ -2698,7 +2698,7 @@ bishop|senior priest over an area|o
 salad|dish of raw vegetables|o
 underground|below the surface of the earth; secret|o;o
 brick|block of baked clay for building|o
-religious|to do with religion; devout|v;o
+religious|to do with religion; devout|o;o
 tick|light regular sound of a clock; small mark; small biting insect|o;o;o
 western|of or from the west; film about the American West|o;o
 surveillance|close watch kept on someone|o
@@ -2708,7 +2708,7 @@ booth|small closed space for one person|o
 underneath|below, under|o
 belly|front part of the body below the chest|o
 echo|sound sent back from a surface|o
-moral|to do with right and wrong; lesson of a story|v;o
+moral|to do with right and wrong; lesson of a story|o;o
 scout|person sent ahead to gather information; to search for talent|o;v
 surgeon|doctor who operates on patients|o
 incredibly|extremely; in a way hard to believe|o;o
@@ -2748,7 +2748,7 @@ someplace|somewhere (American)|o
 conscience|sense of right and wrong inside you|o
 rebel|person who fights against those in power; to rise against|o;v
 possession|owning; thing owned|o;o
-sweep|to clean with a brush; to move quickly over a wide area|v;v
+sweep|to clean with a brush; to move quickly over a wide area; to carry away (swept away by the flood)|v;v;v
 electric|worked by or carrying electricity|o
 pleasant|nice, giving pleasure|o
 mar|to spoil the look of|v
@@ -2955,7 +2955,7 @@ custom|way of doing things handed down; (customs) checks on goods at a border|o;
 discovery|finding something for the first time|o
 slice|thin flat piece cut from something|o
 mill|building where grain is ground or goods are made|o
-scientific|to do with science; done by careful method|v;o
+scientific|to do with science; done by careful method|o;o
 slut|(offensive) woman said to have many sexual partners|o
 chaos|complete disorder|o
 pursue|to chase; to carry on with|v;v
@@ -3591,7 +3591,7 @@ shepherd|person who looks after sheep|o
 unexpected|not looked for, coming as a surprise|o
 ensure|to make certain|v
 assassin|person who kills a leader|o
-visual|to do with seeing|v
+visual|to do with seeing|o
 arse|(vulgar) buttocks|o
 profession|job needing long training|o
 opponent|person on the other side in a contest or argument|o
@@ -3613,7 +3613,7 @@ fracture|break in a bone; to break|o;v
 inn|small country hotel or pub|o
 poke|to push with a finger or something pointed|v
 coal|hard black rock burned as fuel|o
-genetic|to do with genes and what is passed on at birth|v
+genetic|to do with genes and what is passed on at birth|o
 misery|great unhappiness or suffering|o
 hiss|(long sharp s sound, as of a snake)|g
 imitate|to copy the way someone acts or speaks|v
@@ -3837,8 +3837,8 @@ kindly|in a kind way; (please) be good enough to|o;o
 pimp|man who lives off prostitutes|o
 nickname|name used instead of the real one|o
 resort|place people go for holidays; resort to: to turn to as a last course|o;n
-glue|sticky substance for joining things|o
-martial|to do with war; martial arts: fighting sports|v;n
+glue|sticky substance for joining things; to glue, to stick with glue|o;v
+martial|to do with war; martial arts: fighting sports|o;n
 nigga|(offensive, used mainly among black speakers) fellow, mate|o
 puppet|doll moved by strings; person controlled by another|o;o
 upside|(upside down) with the top at the bottom; good side of a situation|o;o
@@ -3904,7 +3904,7 @@ password|secret word that lets you in|o
 programme|programme, British spelling of program|o
 brandy|strong drink made from wine|o
 dime|ten-cent coin (American)|o
-electrical|to do with electricity|v
+electrical|to do with electricity|o
 philosophy|study of the nature of life and knowledge; way of thinking|o;o
 invasion|entering a country by force|o
 bluff|to pretend you are stronger than you are; steep cliff|v;o
@@ -3923,7 +3923,7 @@ formal|following set rules and manners; official|o;o
 strictly|exactly, in the true sense; in a strict way|o;o
 dimension|measurement of length, width or height; aspect of a matter|o;o
 hallway|passage inside the front door|o
-technical|to do with the skills of a trade or science|v
+technical|to do with the skills of a trade or science|o
 devastate|to destroy completely; to upset deeply|v;v
 rival|person competing against you|o
 oblige|to force by duty; to do a favour for|v;v
@@ -4145,7 +4145,7 @@ intel|secret information gathered (informal)|o
 growth|growing; increase in size or amount|o;o
 casualty|person hurt or killed; hospital department for emergencies|o;o
 volcano|mountain that throws out hot molten rock|o
-economic|to do with money and trade; making a profit|v;o
+economic|to do with money and trade; making a profit|o;o
 theirs|belonging to them|o
 firework|device that burns with coloured lights and bangs|o
 aspect|one side of a matter; way something looks|o;o
@@ -4463,7 +4463,7 @@ sadly|in a sad way; sad to say|o;o
 tab|small flap or label; bill in a bar (American)|o;o
 importantly|in a way that matters; more importantly: what matters more|o;n
 cooler|box that keeps drinks cold; less warm|o;o
-industrial|to do with making goods in factories|v
+industrial|to do with making goods in factories|o
 vibrate|to shake rapidly to and fro|v
 slim|thin in an attractive way; small, faint|o;o
 stray|to wander away; lost animal with no home|v;o
@@ -4499,7 +4499,7 @@ pea|small round green seed eaten as a vegetable|o
 hostile|unfriendly, acting like an enemy|o
 realm|kingdom; area of activity or knowledge|o;o
 vomit|to bring up food from the stomach|v
-cultural|to do with the arts and way of life of a people|v
+cultural|to do with the arts and way of life of a people|o
 inquiry|official investigation; question asked|o;o
 cheque|written order to a bank to pay money (British)|o
 lyric|words of a song; short poem of feeling|o;o
@@ -4550,7 +4550,7 @@ psych|(psych out) to unnerve; psychology (informal)|v;o
 conscious|awake and aware; done on purpose|o;o
 deliberately|on purpose; slowly and carefully|o;o
 clone|living thing grown from the cells of another; exact copy|o;o
-psychological|to do with the mind|v
+psychological|to do with the mind|o
 cope|to manage in spite of difficulty|v
 grandchild|child of your son or daughter|o
 follower|person who supports a leader or belief|o
@@ -4564,7 +4564,7 @@ grown-up|adult|o
 tidy|neat and in order; to put in order|o;v
 tow|to pull a vehicle behind another|v
 mainly|for the most part|o
-biological|to do with living things|v
+biological|to do with living things|o
 submarine|ship that travels under water|o
 precinct|police district (American); area closed to traffic|o;o
 fugitive|person running from the law|o
@@ -4768,7 +4768,7 @@ province|division of a country|o
 jelly|soft sweet food that wobbles; fruit spread with no pieces|o;o
 critic|person who judges books, films or art; person who finds fault|o;o
 satisfaction|pleasure at getting what you wanted|o
-historical|to do with history; that really existed|v;o
+historical|to do with history; that really existed|o;o
 altar|table used in religious services|o
 swedish|of Sweden; the Swedish language|o;o
 cane|hollow stem of certain plants; stick used for walking or beating|o;o
@@ -5355,7 +5355,7 @@ dome|rounded roof|o
 establishment|business or institution; setting up of something|o;o
 sixteen|16|o
 pioneer|first person to settle a land or try something new|o
-dental|to do with the teeth|v
+dental|to do with the teeth|o
 commence|to begin|v
 sixty|60|o
 mm-mm|(sound meaning no)|g
@@ -5383,7 +5383,7 @@ greatly|very much|o
 hardware|tools and metal goods; the machinery of a computer|o;o
 irresponsible|acting with no thought for the results|o
 summit|top of a mountain; meeting of heads of state|o;o
-audio|to do with sound|v
+audio|to do with sound|o
 cloak|loose sleeveless coat; to hide|o;v
 mineral|natural substance dug from the ground|o
 sweaty|covered with sweat|o
@@ -5406,7 +5406,7 @@ prejudice|opinion formed without knowing the facts, often unfair|o
 bacteria|tiny living things that can cause disease|o
 vocal|of the voice; speaking out freely|o;o
 sanctuary|safe place; holy part of a temple|o;o
-surgical|to do with operations|v
+surgical|to do with operations|o
 elderly|rather old|o
 eyebrow|line of hair above the eye|o
 purely|only, entirely|o
@@ -5629,18 +5629,18 @@ fiber|thin thread; rough part of food that helps digestion|o;o
 runaway|person who has run away; out of control|o;o
 sow|to put seed in the ground; female pig|v;o
 clapping|(sound of hands struck together)|g
-psychiatric|to do with treating illness of the mind|v
+psychiatric|to do with treating illness of the mind|o
 compensation|money paid to make up for loss or harm|o
 roughly|about, not exactly; not gently|o;o
 snuck|snuck, past of sneak|o
 yawn|to open the mouth wide when tired|v
 arch|curved structure over an opening; to bend into a curve|o;v
 diver|person who swims under water|o
-environmental|to do with the natural surroundings|v
+environmental|to do with the natural surroundings|o
 mam|mother (British dialect)|o
 preach|to give a religious talk; to urge others to be good|v;v
 beacon|light set up as a signal or guide|o
-diplomatic|to do with relations between countries; tactful|v;o
+diplomatic|to do with relations between countries; tactful|o;o
 loading|putting a load on or in|o
 psychopath|person with no conscience who may act violently|o
 reef|ridge of rock or coral near the surface of the sea|o
@@ -6327,7 +6327,7 @@ immense|very large indeed|o
 tumble|to fall over and over|v
 badger|black and white burrowing animal; to pester with questions|o;v
 receiver|part of a phone you listen to; device that picks up signals; person who takes stolen goods|o;o;o
-pharmaceutical|to do with the making of medicines|v
+pharmaceutical|to do with the making of medicines|o
 elimination|getting rid of; knocking out of a contest|o;o
 gulp|to swallow quickly in large mouthfuls|v
 pineapple|large tropical fruit with a rough skin and sweet flesh|o
@@ -6392,7 +6392,7 @@ stabilize|to make steady|v
 rodeo|show of riding wild horses and roping cattle|o
 typewriter|machine that prints letters as keys are struck|o
 administer|to run an organisation; to give out medicine or justice|v;v
-cardiac|to do with the heart|v
+cardiac|to do with the heart|o
 tavern|inn where drink is served|o
 refine|to make pure; to improve by small changes|v;v
 velvet|thick soft cloth with a raised surface|o
@@ -6448,7 +6448,7 @@ measurement|size found by measuring; act of measuring|o;o
 override|to set aside another's decision; to take manual control|v;v
 contagious|passing easily from one person to another|o
 frequently|often|o
-operational|working and ready for use; to do with operations|o;v
+operational|working and ready for use; to do with operations|o;o
 basil|sweet-smelling herb used in cooking|o
 deport|to send a foreigner out of the country|v
 'to|(misprint of to) to|o

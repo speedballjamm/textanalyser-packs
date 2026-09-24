@@ -13600,7 +13600,7 @@
 听天由命|to leave it to fate, resign oneself|v
 咬紧牙关|to grit one's teeth, endure|v
 寄予厚望|to place great hopes on|v
-得心应手|to do with skill and ease|v
+得心应手|to do with skill and ease|o
 循规蹈矩|to follow the rules, conventional|v
 情有可原|excusable, understandable|o
 赶尽杀绝|to exterminate, show no mercy|v

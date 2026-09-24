@@ -30,7 +30,6 @@ me|我 (作宾语)|o
 this|这, 这个 (离说话人近的)|o
 he|他|f3s
 do|做; (构成疑问和否定: do you know?)|v;g
-for|为, 给 (目的、对象); 达, 持续 (一段时间); 因为; 支持, 赞成|o;o;o;o
 my|我的|o
 on|在…上, 在…上面; 在 (某天或某日期); 关于 (某主题); 开着的, 运转中|o;o;o;o
 your|你的, 你们的|o
@@ -46,8 +45,6 @@ with|和…一起, 用|o
 but|但是, 然而; 除了 (all but one 除一个以外全部)|o;o
 all|所有, 全部|o
 go|去|v
-so|所以, 因此; 那么, 如此 (到这种程度)|o;o
-just|只, 仅仅; 刚刚 (不久前)|o;o
 there|那里 (那个地方); there is: 有, 存在|o;n
 here|这里 (这个地方)|o
 like|像, 如同; 喜欢|o;v
@@ -62,15 +59,12 @@ about|关于, 有关; 大约, 差不多; about to: 即将, 正要|o;o;n
 up|向上, 在上面; 起床, 醒着; 结束了, 到了 (time's up 时间到了)|o;o;o
 at|在 (某地); 在 (某时); 向, 朝 (look at 看, throw at 扔向)|o;o;o
 him|他 (作宾语)|o
-one|一, 数字 1; 一个 (指代人或物: the red one 红的那个); 人们, 任何人 (泛指)|o;o;o
 now|现在|o
 oh|哦, 啊 (惊讶, 恍然大悟)|o
-see|看见; 明白|v;v
 her|她的, 她 (作宾语)|o
 how|怎么, 如何|o
 think|想, 认为|v
 yeah|是啊, 对|o
-look|看; 瞧! (提醒注意)|v;o
 've|(完成时的 have: I've seen, you've gone)|g
 got|得到 (get 的过去式); have got: 有|o;n
 okay|好, 好的|o
@@ -90,7 +84,6 @@ make|做, 制造; 使, 迫使 (做某事)|v;v
 when|什么时候, 当…时|o
 an|一, 一个 (用于元音前)|o
 man|男人; (感叹词) 表示惊讶|o;o
-back|回, 回到原处; 背 (身体部位)|o;o
 say|说|v
 us|我们 (作宾语)|o
 would|会, 将 (过去将来)|o
@@ -110,7 +103,6 @@ thank|感谢; thank you: 谢谢你; thanks: 谢谢; thanks to: 由于, 多亏|v;
 some|一些, 有些|o
 hey|嘿 (打招呼; 引起注意)|o
 give|给|v
-could|能, 会 (过去); 可以吗 (礼貌请求)|o;o
 'd|会, 想 (I'd like); (完成时的 had: I'd gone); (did: where'd you go = 你去哪儿了)|o;g;g
 didn|(did not, 用于 didn't)|g
 mean|意思是, 表示; 刻薄的, 不友善的; 打算, 意图; 方法, 手段; by means of: 通过, 借助|v;o;v;o;n
@@ -639,7 +631,6 @@ slow|慢的|o
 deserve|应得, 值得|v
 whether|是否|o
 pant|喘气; pants: 裤子 (美), 内裤 (英)|v;n
-support|支持, 帮助; 支撑|v;v
 public|公开的, 公共的; 公众|o;o
 base|底部, 基础; 基地; based in / based on: 总部在，基于|o;o;n
 angry|生气的|o
@@ -944,7 +935,6 @@ cup|杯子|o
 beach|海滩|o
 excited|兴奋的|o
 van|货车, 面包车|o
-language|语言; 表达方式|o;o
 hall|大厅, 礼堂; 门厅, 走廊|o;o
 introduce|介绍 (使相识); 首次引入|v;v
 itself|(it 的反身形式) 它自己|o
@@ -952,7 +942,6 @@ acting|表演; 代理的|o;o
 divorce|离婚; 与…离婚|o;v
 beauty|美, 美丽|o
 shock|震惊, 打击; 使震惊|o;v
-tight|紧的; 手头紧的|o;o
 event|事件; 活动|o;o
 shame|羞愧; 憾事, 可惜|o;o
 program|节目安排, 计划; 程序; 节目|o;o;o
@@ -986,7 +975,7 @@ dry|干的; 弄干, 擦干|o;v
 crack|裂缝; 咔嚓一声裂开; 讽刺话|o;v;o
 sweetheart|心上人; (称呼) 亲爱的|o;o
 load|负载, 装载量; 装载; 装子弹|o;v;v
-medical|医疗的, 医学的|v
+medical|医疗的, 医学的|o
 suffer|受苦, 遭受; 忍受|v;v
 whom|(who 的宾格)|g
 commander|指挥官|o
@@ -1013,7 +1002,7 @@ fuckin|(粗俗) = fucking, 加强语气|o
 unite|联合, 团结|v
 responsible|负责的; 造成…的; 有责任心的|o;o;o
 justice|公正; 司法, 法律|o;o
-military|军事的; 军方, 军队|v;o
+military|军事的; 军方, 军队|o;o
 main|主要的|o
 hill|小山, 山丘|o
 request|请求, 要求; 请求|v;o
@@ -1021,7 +1010,6 @@ whoever|无论谁, 任何…的人|o
 post|职位; 邮件; 柱子; 邮寄|o;o;o;v
 minister|部长, 大臣; 牧师|o;o
 bridge|桥|o
-bullshit|(粗俗) 胡扯, 鬼话|o
 gate|大门|o
 remove|移开, 去掉|v
 necessary|必要的|o
@@ -1129,7 +1117,6 @@ effect|影响, 效果|o
 regret|后悔, 遗憾; 悔意, 遗憾|v;o
 oil|油|o
 horrible|可怕的, 令人厌恶的|o
-purpose|目的; on purpose: 故意地|o;n
 hook|钩子|o
 planning|计划, 规划|o
 subject|话题; 学科; 臣民|o;o;o
@@ -1143,7 +1130,6 @@ plate|盘子|o
 prisoner|囚犯|o
 earn|挣得; 赢得, 应得|v;v
 nonsense|胡说, 荒唐事|o
-whistle|口哨声; 吹口哨|o;v
 mix|混合; 结合|v;v
 contract|合同; 收缩|o;v
 original|最初的, 原来的; 新颖的, 原创的|o;o
@@ -1252,7 +1238,7 @@ perform|做, 执行; 表演, 演出|v;v
 cheap|便宜的; 劣质的|o;o
 coat|大衣, 外套; 一层 (漆)|o;o
 direction|方向; 指示, 说明|o;o
-social|社交的, 社会的|v
+social|社交的, 社会的|o
 brilliant|才华出众的; 明亮的; 极好的|o;o;o
 sale|销售; 减价期|o;o
 rip|撕破, 扯开|v
@@ -1449,7 +1435,7 @@ yard|院子; 码 (长度单位, 0.9 米)|o;o
 goin|going 的口语拼法, 去|o
 gather|聚集, 收集; 明白, 推测|v;v
 role|角色; 作用, 身份|o;o
-legal|合法的; 法律的|o;v
+legal|合法的; 法律的|o;o
 revenge|报复, 复仇|o
 competition|比赛; 竞争|o;o
 mystery|谜, 神秘的事|o
@@ -1483,7 +1469,6 @@ rate|速度, 比率; 费用, 价格; 评价, 评级|o;o;v
 chocolate|巧克力|o
 royal|王室的|o
 expert|专家|o
-text|文字; 短信|o;o
 capture|俘获, 捉住|v
 witch|女巫|o
 honour|honour, honor 的英式拼法, 荣誉|o
@@ -1502,7 +1487,7 @@ gut|肚子, 肠子; (guts) 胆量; 凭直觉的|o;o;o
 jacket|夹克, 短外套|o
 snake|蛇|o
 complain|抱怨, 投诉|v
-romantic|爱情的, 浪漫的; 充满想象和感情的|v;o
+romantic|爱情的, 浪漫的; 充满想象和感情的|o;o
 sexy|性感的|o
 dragon|龙|o
 re|('re 的误印) are 的缩写|o
@@ -1529,7 +1514,7 @@ insurance|保险|o
 spy|间谍; 暗中监视|o;v
 toy|玩具|o
 regular|定时的, 有规律的; 通常的, 普通的|o;o
-political|政治的|v
+political|政治的|o
 license|许可; 执照|o;o
 cloud|云|o
 citizen|公民|o
@@ -1624,7 +1609,7 @@ explosion|爆炸|o
 vision|视力; 幻象, 想象; 远见|o;o;o
 wise|明智的, 有见识的|o
 yellow|黄色的|o
-sexual|性的|v
+sexual|性的|o
 wherever|无论在哪里, 无论到哪里|o
 row|一排, 一行; 争吵; 划船|o;o;v
 experiment|实验|o
@@ -1864,7 +1849,6 @@ valley|山谷|o
 nasty|讨厌的, 恶劣的; 刻毒的|o;o
 salt|盐|o
 expose|暴露, 使露出; 揭发|v;v
-flag|旗|o
 policy|政策, 方针; 保险单|o;o
 slap|打耳光, 掌击|v
 maid|女仆|o
@@ -1972,7 +1956,6 @@ ash|灰, 灰烬|o
 network|网络|o
 gear|装备, 用具; 排挡|o;o
 district|地区, 区|o
-industry|工业; 勤奋|o;o
 pin|大头针, 别针; 别住, 钉住|o;v
 bay|海湾|o
 coincidence|巧合|o
@@ -2318,7 +2301,7 @@ homework|家庭作业|o
 blessing|祝福; 赞同; 幸事|o;o;o
 practically|几乎, 差不多; 讲求实际地|o;o
 steel|钢|o
-financial|财务的, 金融的|v
+financial|财务的, 金融的|o
 ease|安逸, 轻松; 缓解, 减轻|o;v
 distract|分散注意力|v
 footstep|脚步声, 脚印|o
@@ -2345,7 +2328,7 @@ beef|牛肉; 不满, 意见 (口语)|o;o
 environment|环境; 自然环境|o;o
 payment|款项; 付款|o;o
 scar|伤疤|o
-commercial|商业的; 广告|v;o
+commercial|商业的; 广告|o;o
 hip|髋, 胯|o
 landing|着陆; 楼梯平台|o;o
 shield|盾, 护罩; 保护|o;v
@@ -2398,7 +2381,7 @@ bishop|主教|o
 salad|沙拉|o
 underground|地下的; 秘密的|o;o
 brick|砖|o
-religious|宗教的; 虔诚的|v;o
+religious|宗教的; 虔诚的|o;o
 tick|滴答声; 对钩; 蜱虫|o;o;o
 western|西方的; 西部片|o;o
 surveillance|监视|o
@@ -2408,7 +2391,7 @@ booth|小隔间, 亭|o
 underneath|在…下面|o
 belly|肚子, 腹部|o
 echo|回声|o
-moral|道德的; 寓意|v;o
+moral|道德的; 寓意|o;o
 scout|侦察员; 物色 (人才)|o;v
 surgeon|外科医生|o
 incredibly|极其; 难以置信地|o;o
@@ -2448,7 +2431,6 @@ someplace|某个地方 (美式说法)|o
 conscience|良心|o
 rebel|反叛者; 反抗|o;v
 possession|拥有; 所有物|o;o
-sweep|扫; 席卷, 掠过|v;v
 electric|电动的, 带电的|o
 pleasant|令人愉快的|o
 mar|损坏…的外观|v
@@ -2655,7 +2637,7 @@ custom|风俗, 习俗; (customs) 海关|o;o
 discovery|发现|o
 slice|一片, 一块|o
 mill|磨坊, 工厂|o
-scientific|科学的; 严谨的|v;o
+scientific|科学的; 严谨的|o;o
 slut|(冒犯语) 荡妇|o
 chaos|混乱|o
 pursue|追赶; 继续从事|v;v
@@ -3291,7 +3273,7 @@ shepherd|牧羊人|o
 unexpected|意外的|o
 ensure|确保|v
 assassin|刺客|o
-visual|视觉的|v
+visual|视觉的|o
 arse|(粗俗) 屁股|o
 profession|专业性职业|o
 opponent|对手|o
@@ -3313,7 +3295,7 @@ fracture|骨折; 折断|o;v
 inn|小旅店, 乡村酒馆|o
 poke|戳, 捅|v
 coal|煤|o
-genetic|遗传的, 基因的|v
+genetic|遗传的, 基因的|o
 misery|痛苦, 悲惨|o
 hiss|(蛇般的嘶嘶声) 嘶|g
 imitate|模仿|v
@@ -3537,8 +3519,7 @@ kindly|亲切地; 请, 劳驾|o;o
 pimp|拉皮条的人|o
 nickname|绰号|o
 resort|度假胜地; resort to: 诉诸, 求助于|o;n
-glue|胶水|o
-martial|战争的; martial arts: 武术|v;n
+martial|战争的; martial arts: 武术|o;n
 nigga|(冒犯语, 多用于黑人之间) 兄弟, 哥们|o
 puppet|木偶; 傀儡|o;o
 upside|(upside down) 颠倒的; 好的一面|o;o
@@ -3604,7 +3585,7 @@ password|密码|o
 programme|programme, program 的英式拼法, 节目|o
 brandy|白兰地|o
 dime|一角硬币 (美国)|o
-electrical|电的, 用电的|v
+electrical|电的, 用电的|o
 philosophy|哲学; 人生观|o;o
 invasion|入侵|o
 bluff|虚张声势; 峭壁|v;o
@@ -3623,7 +3604,7 @@ formal|正式的, 讲究礼节的; 官方的|o;o
 strictly|严格来说, 确切地说; 严格地|o;o
 dimension|尺寸; 方面|o;o
 hallway|门厅, 走廊|o
-technical|技术的, 专业的|v
+technical|技术的, 专业的|o
 devastate|彻底摧毁; 使深受打击|v;v
 rival|对手|o
 oblige|迫使; 帮…的忙|v;v
@@ -3845,7 +3826,7 @@ intel|情报 (口语)|o
 growth|生长; 增长|o;o
 casualty|伤亡者; 急诊科|o;o
 volcano|火山|o
-economic|经济的; 有利可图的|v;o
+economic|经济的; 有利可图的|o;o
 theirs|他们的|o
 firework|烟花|o
 aspect|方面; 外观, 样子|o;o
@@ -4162,7 +4143,7 @@ sadly|伤心地; 遗憾的是|o;o
 tab|标签, 拉环; 酒水账单 (美式说法)|o;o
 importantly|重要地; more importantly: 更重要的是|o;n
 cooler|冷藏箱; 较凉的|o;o
-industrial|工业的|v
+industrial|工业的|o
 vibrate|振动|v
 slim|苗条的; 微小的, 渺茫的|o;o
 stray|走失, 走散; 走失的动物|v;o
@@ -4198,7 +4179,7 @@ pea|豌豆|o
 hostile|敌意的, 敌对的|o
 realm|王国; 领域|o;o
 vomit|呕吐|v
-cultural|文化的|v
+cultural|文化的|o
 inquiry|调查; 询问|o;o
 cheque|支票 (英式说法)|o
 lyric|歌词; 抒情短诗|o;o
@@ -4250,7 +4231,7 @@ psych|(psych out) 使心理崩溃; 心理学 (口语)|v;o
 conscious|清醒的, 有知觉的; 有意的|o;o
 deliberately|故意地; 从容不迫地|o;o
 clone|克隆生物; 一模一样的复制品|o;o
-psychological|心理的|v
+psychological|心理的|o
 cope|应付, 对付|v
 grandchild|孙子女, 外孙子女|o
 follower|追随者, 信徒|o
@@ -4264,7 +4245,7 @@ grown-up|成年人|o
 tidy|整洁的; 整理|o;v
 tow|拖 (车)|v
 mainly|主要地|o
-biological|生物的|v
+biological|生物的|o
 submarine|潜艇|o
 precinct|警区 (美式说法); 步行区|o;o
 fugitive|逃犯|o
@@ -4468,7 +4449,7 @@ province|省|o
 jelly|果冻; 果酱 (无果肉)|o;o
 critic|评论家; 批评者|o;o
 satisfaction|满足感|o
-historical|历史的; 真实存在过的|v;o
+historical|历史的; 真实存在过的|o;o
 altar|祭坛, 圣坛|o
 swedish|瑞典的; 瑞典语|o;o
 cane|藤, 秆; 手杖, 藤条|o;o
@@ -5055,7 +5036,7 @@ dome|圆顶|o
 establishment|机构, 企业; 建立|o;o
 sixteen|十六, 16|o
 pioneer|开拓者, 先驱|o
-dental|牙齿的|v
+dental|牙齿的|o
 commence|开始|v
 sixty|六十, 60|o
 mm-mm|(表示否定的声音) 嗯嗯|g
@@ -5083,7 +5064,7 @@ greatly|大大地, 非常|o
 hardware|五金工具; 硬件|o;o
 irresponsible|不负责任的|o
 summit|山顶; 首脑会议|o;o
-audio|音频的|v
+audio|音频的|o
 cloak|斗篷; 掩饰|o;v
 mineral|矿物|o
 sweaty|满是汗的|o
@@ -5106,7 +5087,7 @@ prejudice|偏见|o
 bacteria|细菌|o
 vocal|嗓音的; 直言不讳的|o;o
 sanctuary|避难所; 圣所|o;o
-surgical|外科手术的|v
+surgical|外科手术的|o
 elderly|上了年纪的|o
 eyebrow|眉毛|o
 purely|纯粹, 完全|o
@@ -5329,18 +5310,18 @@ fiber|纤维; 膳食纤维|o;o
 runaway|离家出走者; 失控的|o;o
 sow|播种; 母猪|v;o
 clapping|(拍手的声音) 掌声|g
-psychiatric|精神病治疗的|v
+psychiatric|精神病治疗的|o
 compensation|赔偿金|o
 roughly|大约; 粗暴地|o;o
 snuck|sneak 的过去式, 偷偷地走|o
 yawn|打哈欠|v
 arch|拱门; 使弯成拱形|o;v
 diver|潜水员|o
-environmental|环境的|v
+environmental|环境的|o
 mam|妈 (英国方言)|o
 preach|布道; 说教, 劝人向善|v;v
 beacon|灯塔, 信号灯|o
-diplomatic|外交的; 圆通得体的|v;o
+diplomatic|外交的; 圆通得体的|o;o
 loading|装载|o
 psychopath|反社会的人, 变态狂|o
 reef|礁|o
@@ -6027,7 +6008,7 @@ immense|极大的|o
 tumble|摔倒, 翻滚|v
 badger|獾; 纠缠不休地追问|o;v
 receiver|听筒; 接收器; 销赃者|o;o;o
-pharmaceutical|制药的|v
+pharmaceutical|制药的|o
 elimination|清除; 淘汰|o;o
 gulp|大口吞咽|v
 pineapple|菠萝|o
@@ -6092,7 +6073,7 @@ stabilize|使稳定|v
 rodeo|牛仔竞技表演|o
 typewriter|打字机|o
 administer|管理; 施予 (药物, 司法)|v;v
-cardiac|心脏的|v
+cardiac|心脏的|o
 tavern|酒馆|o
 refine|提纯; 改进, 完善|v;v
 velvet|天鹅绒|o
@@ -6147,7 +6128,7 @@ measurement|尺寸; 测量|o;o
 override|推翻 (决定); 手动接管|v;v
 contagious|会传染的|o
 frequently|经常|o
-operational|可以运行的; 作战的, 运作的|o;v
+operational|可以运行的; 作战的, 运作的|o;o
 basil|罗勒|o
 deport|驱逐出境|v
 'to|(to 的误印) 到|o
@@ -6551,14 +6532,12 @@ cut|切, 剪|v
 wear|穿, 戴|v
 trouble|麻烦, 困难, 问题; 打扰, 麻烦|o;v
 power|权力, 控制; 力量, 力气; 电力 (power cut 停电)|o;o;o
-clear|清楚的, 明白的; 清除|o;v
 read|读|v
 nobody|没有人|o
 ring|戒指; 打电话, 响铃|o;v
 mr|Mr, 先生 (对男子的称呼)|o
 though|虽然; 不过, 然而|o;o
 throw|扔, 抛|v
-fall|掉下, 摔倒; 秋天|v;o
 war|战争|o
 between|在…之间|o
 murder|谋杀; 谋杀|o;v
@@ -9445,7 +9424,6 @@ check|检查，核对; 查看 (看一看); 账单|v;v;o
 saying|说，讲; 谚语，俗话|o;o
 lie|说谎; 躺下; 谎言|v;v;o
 excuse|excuse me: 对不起，请问; 原谅; 借口|n;v;o
-point|要点，观点; 指; 意义，目的; 时刻 (at that point: 在那时); 分，分数|o;v;o;o;o
 deal|交易，协议; 处理，应对; a great deal: 大量，很多|o;v;n
 hit|打，击; 成功之作，热门|v;o
 order|命令; 顺序，秩序; 订购，点 (购买、请求); in order to: 为了|o;o;v;n
@@ -13349,3 +13327,25 @@ used|用了，被使用 (use 的过去式); used to: 过去常常，以前总是
 later|后来，以后，稍后; 更晚，晚于预定时间; see you later: 回头见|o;o;n
 least|最少，最小量 (the least I can do: 我至少能做的); at least: 至少，起码; at least: 至少，好歹|o;n;n
 worse|更坏，更差;  (病情)更重，更不舒服 (feeling worse)|o;o
+for|为, 给 (目的、对象); 达, 持续 (一段时间); 因为; 支持, 赞成; 为, 替 (为银行工作)|o;o;o;o;o
+so|所以, 因此; 那么, 如此 (到这种程度); 以便, 为了|o;o;o
+just|只, 仅仅; 刚刚 (不久前); 就, 简直 (加强语气: 就这么停了)|o;o;o
+one|一, 数字 1; 一个 (指代人或物: the red one 红的那个); 人们, 任何人 (泛指); 某, 有一 (有一天晚上)|o;o;o;o
+see|看见; 明白; 查看, 弄清 (看看是否)|v;v;v
+look|看; 瞧! (提醒注意); 一眼, 一瞥; 神情, 表情, 样子|v;o;o;o
+back|回, 回到原处; 背 (身体部位); 背面, 后部 (纸张、房间)|o;o;o
+could|能, 会 (过去); 可以吗 (礼貌请求); 可能 (有可能)|o;o;o
+point|要点，观点; 指; 意义，目的; 时刻 (at that point: 在那时); 分，分数; 地点, 点 (集合点)|o;v;o;o;o;o
+clear|清楚的, 明白的; 清除; 透明的, 清澈的 (清澈的水)|o;v;o
+fall|掉下, 摔倒; 秋天; 下跌, 下降 (价格下跌)|v;o;o
+support|支持, 帮助; 支撑; 支持, 服务 (客户服务)|v;v;o
+language|语言; 表达方式; 脏话, 粗话|o;o;o
+tight|紧的; 手头紧的, 时间紧的; 严格的, 严密的 (严密的安保)|o;o;o
+bullshit|(粗俗) 胡扯, 鬼话; (粗俗) 忽悠, 骗|o;v
+purpose|目的; on purpose: 故意地; 决心, 目标感|o;n;o
+whistle|口哨声; 吹口哨; 哨子|o;v;o
+text|文字; 短信; 发短信|o;o;v
+flag|旗; 标记, 标出 (以引起注意)|o;v
+industry|工厂制造, 工业生产; 行业, 产业 (科技行业); 勤奋|o;o;o
+sweep|扫; 席卷, 掠过; 冲走, 卷走 (被洪水冲走)|v;v;v
+glue|胶水; 粘, 粘贴|o;v

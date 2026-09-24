@@ -16,7 +16,7 @@ di|in, at|o
 ke|to, toward|o
 dari|from; than (in comparison)|o;o
 ini|this|o
-itu|that; the (one already known)|o;o
+itu|that, the (one already known)|o
 dengan|with|o
 untuk|for|o
 diperuntukkan|intended for, designated for|o
@@ -28,7 +28,7 @@ ada|there is, there are; to be there, be present; to exist|o;v;v
 tidak|no, not|o
 bukan|not, is not (of nouns); isn't it?, right? (tag question)|o;o
 bukankan|isn't it?, didn't you? (= bukankah)|o
-ya|yes; right?, OK? (tag at the end of a sentence); ya sudah / ya udah: oh well, fine then|o;o;n
+ya|yes; right?, OK? (tag at the end of a sentence); ya sudah / ya udah: oh well, fine then; well, … (filler opening a remark)|o;o;n;o
 iya|yes (colloq.)|o
 mengiyakan|to say yes to, to agree to|v
 saya|I, me (formal)|f1s
@@ -160,7 +160,7 @@ setiap|every|o
 tiap|each|o
 beberapa|several, some|o
 masing|each (masing-masing)|o
-lain|other, different|o
+lain|other, different; selain: besides, other than|o;n
 lain-lain|others, the rest; dan lain-lain: and so on, et cetera|o;n
 sama|same; with, and (colloquial); satu sama lain: each other, one another; to, at (a person) (colloq.: bilang sama dia, marah sama aku); by (the doer of a passive) (colloq.: dipukul sama dia)|o;o;n;o;o
 sama-sama|not at all, you're welcome (reply to thanks); both, together, alike|o;o
@@ -300,7 +300,7 @@ main-main|to mess around, fool around; joking, not serious|v;o
 ajar|to teach (belajar: to learn)|v
 baca|to read|v
 tulis|to write|v
-hitung|to count, calculate|v
+hitung|to count, calculate; memperhitungkan: to take into account|v;n
 beli|to buy|v
 jual|to sell|v
 bayar|to pay|v
@@ -389,7 +389,7 @@ pedas|spicy|o
 gurih|savoury|o
 anak|child|o
 kanak-kanak|child, children; taman kanak-kanak: kindergarten|o;n
-ibu|mother; ma'am|o;o
+ibu|mother; ma'am; a woman, a lady|o;o;o
 bapak|father; sir|o;o
 ayah|father|o
 kakak|older sibling|o
@@ -668,7 +668,7 @@ lampu|lamp, light|o
 listrik|electricity|o
 mesin|machine, engine|o
 mobil|car|o
-motor|motorcycle|o
+motor|motorcycle; bermotor: motorised (kendaraan bermotor: motor vehicle)|o;n
 sepeda|bicycle|o
 bus|bus|o
 kereta|train; carriage|o;o
@@ -805,9 +805,9 @@ tambah|to add|v
 ganti|to replace, change|v
 ubah|to change|v
 merubah|to change (nonstandard spelling of mengubah)|v
-kali|time(s), occurrence; maybe, I guess (colloq., at the end of a clause); times, multiplied by|o;o;o
+kali|time(s), occurrence; maybe, I guess (colloq., at the end of a clause); times, multiplied by; river (Jakarta, Javanese: Kali Ciliwung)|o;o;o;o
 perkalian|multiplication|o
-jumlah|amount, total|o
+jumlah|amount, total; sejumlah: a number of, several|o;n
 hasil|result, product|o
 akibat|result, consequence|o
 tuju|to head toward (tujuan: goal, purpose)|v
@@ -1216,7 +1216,7 @@ krisis|crisis|o
 korupsi|corruption|o
 tuhan|God|o
 allah|God (Islam)|o
-doa|prayer|o
+doa|prayer; to pray for (mendoakan)|o;v
 sembah|to worship|v
 puasa|to fast; fasting|v;o
 salat|(Islamic) prayer|o
@@ -1228,7 +1228,7 @@ neraka|hell|o
 dosa|sin|o
 pahala|(spiritual) reward|o
 iman|faith|o
-makam|grave|o
+makam|grave; memakamkan / dimakamkan: to bury, to be buried|o;n
 kubur|grave; to bury|o;v
 demam|fever|o
 batuk|cough|o
@@ -1350,7 +1350,7 @@ judul|title|o
 tema|theme|o
 topik|topic|o
 isu|issue|o
-rupa|form, appearance|o
+rupa|form, appearance; serupa: similar, alike|o;n
 sosok|figure, silhouette|o
 gagah|dashing, strong|o
 kokoh|sturdy|o
@@ -1441,7 +1441,7 @@ sih|actually, though (softening: nggak tahu sih); … anyway?, … then? (in que
 dong|come on, … will you (urging: ayo dong); of course, obviously (in replies: iya dong)|o;o
 deh|all right then, OK (settling: ya udah deh); just, do (urging: coba deh = just try it)|o;o
 kan|right?, you know (particle); after all (reminding: kan sudah kubilang = I told you so)|o;o
-nih|here, this (colloq.); here you are (handing something over)|o;o
+nih|here, this (colloq.); here you are (handing something over); now, you see (colloq., pressing a remark at the end of a clause)|o;o;o
 tuh|there, that (colloq.); see?, look (pointing something out)|o;o
 lho|hey!, what? (surprise); you know (warning or reminding: nanti telat lho)|o;f2s2p
 loh|hey!, what? (surprise); you know (warning or reminding: nanti telat loh)|o;f2s2p
@@ -2105,7 +2105,7 @@ rute|route|o
 karna|because (colloq., alt. spelling of karena)|o
 lipat|fold|o
 infeksi|infection|o
-sidang|trial, hearing; session|o;o
+sidang|trial, hearing; session; thesis defence (colloq., for sidang skripsi)|o;o;o
 tato|tattoo|o
 singgung|touch on; offend|o;o
 positif|positive|o
@@ -2298,7 +2298,7 @@ ras|race (ethnicity)|o
 festival|festival|o
 hina|insult, despise|o
 ronde|round (of a match/fight)|o
-bak|like, as (colloq.); water tub|o;o
+bak|like, as (colloq.); water tub; open cargo bed (of a pickup truck); mobil bak: pickup truck|o;o;o;n
 amunisi|ammunition|o
 grand|grand|o
 show|show|o
@@ -3267,7 +3267,7 @@ sekop|shovel|o
 cekik|strangle|o
 horor|horror|o
 enggak|not (colloq., alt. of nggak)|o
-potret|photo, portrait|o
+potret|photo, portrait; to photograph (memotret)|o;v
 impas|even, break-even|o
 karma|karma|o
 supernatural|supernatural|o
@@ -5252,7 +5252,7 @@ mengakui|to admit, acknowledge|v
 akui|to admit, acknowledge|v
 diakui|to be acknowledged, admitted|v
 mengamati|to observe, watch closely|v
-bersama|together, along with|o
+bersama|together, along with; shared, joint, mutual|o;o
 berdiri|to stand; to be founded|v;v
 berhenti|to stop, halt|v
 mengumumkan|to announce|v

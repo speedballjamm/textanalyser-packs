@@ -11,7 +11,7 @@ di|||
 ke|||
 dari|||
 ini|||
-itu|||pron.;part.
+itu|||pron.
 dengan|||
 untuk|||
 diperuntukkan||untuk|v.
@@ -2293,7 +2293,7 @@ ras|||
 festival|||
 hina|||
 ronde|||
-bak|||prep.;n.
+bak|||prep.;n.;n.;n.
 amunisi|||
 grand|||
 show|||
@@ -5247,7 +5247,7 @@ mengakui||aku|v.
 akui||aku|v.
 diakui||aku|v.
 mengamati||amat|v.
-bersama||sama|adv.
+bersama||sama|adv.;adj.
 berdiri||diri|
 berhenti||henti|v.
 mengumumkan||umum|v.
