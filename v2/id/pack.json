@@ -1,6 +1,6 @@
 {
   "id": "id",
-  "version": "1.1.63",
+  "version": "1.1.64",
   "minApp": "0.2.5",
   "files": {
     "lex": {
@@ -11,7 +11,7 @@
     "gloss.en": {
       "path": "gloss.en.txt",
       "license": "unencumbered",
-      "sha256": "bf2717a73082a11918c6042be23f6b8b9d93b890a0e1952d3f2695f8d34aee80"
+      "sha256": "c2d0922cb39e3d52e6fa4f79d7f977e77164398be7bab507072605b0d9e1d02a"
     },
     "ranks": {
       "path": "ranks.txt",

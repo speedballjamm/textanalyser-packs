@@ -2564,7 +2564,7 @@ ulah|mischief, prank, behavior|o
 jitu|accurate, on target|o
 waras|sane|o
 psikiater|psychiatrist|o
-biksu|monk (Buddhist)|o
+biksu|monk (Buddhist)|o.b
 aktivitas|activity|o
 bubuk|powder|o
 desah|sigh|o
