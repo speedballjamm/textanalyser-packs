@@ -10,7 +10,7 @@
 #
 # Glosses on this file only are generated with an LLM and are not derived from
 # any licensed corpus. See NOTICE at the repo root.
-的|(possessive; links a description to a noun); (at the end of a sentence; with 是: stresses who, when or how it happened)|g;g
+的|(possessive; links a description to a noun); (at the end of a sentence: affirms or describes; with 是…的: stresses who, when or how)|g;g
 我|I, me|f1s
 你|you (singular)|f2s2p
 了|(completed action; or a change of state)|g
