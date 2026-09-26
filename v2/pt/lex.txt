@@ -21,7 +21,7 @@ uma|||
 se|||
 com|||prep
 ser|||v
-por|||prep;prep;prep
+por|||prep;prep;prep;prep
 ele|||pron
 isso|||pron
 em|||prep

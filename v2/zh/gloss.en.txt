@@ -10,7 +10,7 @@
 #
 # Glosses on this file only are generated with an LLM and are not derived from
 # any licensed corpus. See NOTICE at the repo root.
-的|(possessive; links a description to a noun)|g
+的|(possessive; links a description to a noun); (at the end of a sentence; with 是: stresses who, when or how it happened)|g;g
 我|I, me|f1s
 你|you (singular)|f2s2p
 了|(completed action; or a change of state)|g
@@ -20,16 +20,16 @@
 他|he, him|f3s
 吗|(makes a yes/no question)|g
 不|not (general negation)|o
-什么|what; something|o;o
+什么|what; something; (listing) such as, things like|o;o;o
 好|good, well; OK; very, so (before an adjective)|o;o;o
 有|to have; there is|v;o
 就|then, right away (sooner than expected); precisely|o;o
 吧|(suggestion; assumption)|g
 她|she, her|f3s
-说|to say, to speak|v
+说|to say, to speak; to tell off, to criticise|v;v
 这|this|o
 知道|to know (a fact)|v
-都|all, both; already|o;o
+都|all, both; already; even (连…都)|o;o;o
 去|to go; (after a verb) away, off (拿去, 送去)|v;o
 很|very (often just links an adjective)|o
 他们|they, them|f3p
@@ -52,7 +52,7 @@
 给|to give; for, to (someone)|v;o
 你们|you (plural)|f2s2p
 可以|may, can (permitted); OK, not bad|o;o
-这个|this one, this|o
+这个|this one, this; (hesitating) um, er|o;o
 现在|now|o
 没|not (did not happen; not have)|o
 呢|(and what about…?; softens a question)|g
@@ -61,15 +61,15 @@
 到|to arrive, to reach; until; (after a verb) reaching, managing to (找到, 走到)|v;o;o
 还|still, also; yet; to give back, to return (huán)|o;o;v
 能|to be able to (capable, permitted)|v
-就是|exactly, precisely; that is; (一…就是) a whole (一等就是三年: waited a whole three years)|o;o;o
+就是|exactly, precisely; that is; (一…就是) a whole (一等就是三年: waited a whole three years); only, it's just that (就是累: only it's tiring)|o;o;o;o
 这样|like this, this way|o
 跟|with; to follow|o;v
 如果|if|o
 它|it|f3s
-走|to walk, to go; to leave|v;v
+走|to walk, to go; to leave; to pass away (euphemism)|v;v;v
 个|(measure word: general, default)|g
 这里|here|o
-上|up, on; to go up; last (week, month); (after a verb) up, on, onto (关上, 爱上); to go to (school, work)|o;v;o;o;v
+上|up, on; to go up; last (week, month); (after a verb) up, on, onto (关上, 爱上); to go to (school, work); to appear on (the news, TV: 上新闻)|o;v;o;o;v;v
 得|(links a verb to how it is done); must, have to (děi); to obtain, to attain (dé)|g;o;v
 被|(marks the passive, by)|g
 看|to look at, to watch; to read; to visit (someone); to look after, to guard (看孩子, 看门) (kān); to depend on (看情况)|v;v;v;v;v
@@ -92,7 +92,7 @@
 这么|so, this much|o
 那个|that one, that|o
 为|for, for the sake of; because of; to be, to act as (wéi) (Classical)|o;o;v.c
-再|again (next time); then; (再…也) however much, no matter how|o;o;o
+再|again (next time); then; (再…也) however much, no matter how; further (再往前: further on)|o;o;o;o
 里|in, inside|o
 哦|oh (I see)|o
 需要|to need|v
@@ -116,7 +116,7 @@
 应该|should, ought to|o
 请|please; to invite; to ask; to treat (pay for someone)|o;v;v;v
 等|to wait; and so on; equal; plural after a pronoun, and others (Classical)|v;o;o;o.c
-死|to die; dead; extremely|v;o;o
+死|to die; dead; extremely; rigid, inflexible|v;o;o;o
 那么|so, in that case; that much|o;o
 多|many, much; more; how (in questions)|o;o;o
 一起|together|o
@@ -188,7 +188,7 @@
 一切|everything, all|o
 相信|to believe, to trust|v
 想要|to want (to)|v
-打|to hit; to play (a game); to make (a call); to hail (a taxi: 打车); to work (打工)|v;v;v;v;v
+打|to hit; to play (a game); to make (a call); to hail (a taxi: 打车); to work (打工); to beat, to whisk (打蛋)|v;v;v;v;v;v
 那里|there|o
 也许|maybe, perhaps|o
 大|big, large|o
@@ -227,7 +227,7 @@
 两个|two (+ measure word)|o
 很多|a lot of, many|o
 任何|any|o
-小|small, little; young|o;o
+小|small, little; young; (before a name) little (小王: young Wang)|o;o;o
 没错|that's right|o
 以为|to think (mistakenly)|v
 年|year|o
@@ -350,7 +350,7 @@
 喝|to drink|v
 晚上|evening, at night|o
 好好|properly, thoroughly|o
-开|to open; to turn on; to drive|v;v;v
+开|to open; to turn on; to drive; (after a verb) apart, open (分开, 挤不开)|v;v;v;o
 打电话|to make a phone call|v
 如此|so, like this (formal)|o
 里面|inside, in there|o
@@ -453,7 +453,7 @@
 抓|to catch, to arrest; to grab|v;v
 女士|lady, madam (polite address)|o
 学校|school|o
-样子|appearance, look; manner|o;o
+样子|appearance, look; manner; state, situation (这个样子: such a state)|o;o;o
 原因|reason, cause|o
 电影|film, movie|o
 笑|to laugh; to smile|v;v
@@ -537,7 +537,7 @@
 进入|to enter, to go into|v
 咱们|we, us (you and I)|f1p
 伤害|to hurt, to harm; harm|v;o
-拉|to pull, to drag|v
+拉|to pull, to drag; to bring in (business, customers)|v;v
 拍|to pat, to slap; to shoot (a photo, a film)|v;v
 身体|body; health|o;o
 曾|once, formerly (literary)|o
@@ -985,7 +985,7 @@
 吓|to frighten, to startle|v
 权利|right, entitlement|o
 生|to be born; to give birth to; raw, unfamiliar; to arise, to give rise to (Classical)|v;v;o;v.c
-队|team, squad|o
+队|team, squad; line, queue (排队)|o;o
 没用|useless, no good|o
 路上|on the way, en route|o
 接近|to approach; close to|v;o
@@ -1405,7 +1405,7 @@
 机场|airport|o
 制造|to manufacture, to create|v
 执行|to carry out, to execute|v
-冲|to rush, to charge; to rinse|v;v
+冲|to rush, to charge; to rinse, to wash away|v;v
 不许|not permitted, don't you dare|o
 似的|like, as if (X 似的)|o
 非常感谢|thank you very much|o
@@ -1587,7 +1587,7 @@
 导致|to lead to, to result in|v
 好运|good luck|o
 窗户|window|o
-抽|to draw out, to pull out; to smoke (a cigarette)|v;v
+抽|to draw out, to pull out; to smoke (a cigarette); to twitch, to jerk|v;v;v
 痛|pain; to ache|o;v
 魔法|magic, sorcery|o
 世纪|century|o
@@ -1983,7 +1983,7 @@
 抢劫|to rob; robbery|v;o
 快要|about to, soon|o
 退出|to withdraw, to quit|v
-台|platform, stage; station (broadcast); (measure word: machines)|o;o;g
+台|platform, stage; station (broadcast); (measure word: machines, operations, performances)|o;o;g
 机器人|robot|o
 开火|to open fire|v
 作用|effect, function|o
@@ -2174,7 +2174,7 @@
 退休|to retire|v
 神圣|sacred, holy|o
 地下|underground|o
-打击|to strike, to crack down on; a blow|v;o
+打击|to strike, to crack down on; a blow; to discourage, to knock (someone's confidence)|v;o;v
 稍|a little, somewhat (formal)|o
 内部|internal, inside|o
 咦|(eh?, huh?)|g
@@ -2273,7 +2273,7 @@
 采访|to interview (as a journalist)|v
 强奸|to rape|v
 部长|minister (government); head of department|o;o
-修|to repair; to build (roads, bridges); to trim; to study|v;v;v;v
+修|to repair; to build (roads, bridges); to trim; to study; to compile (a history, a family tree: 修族谱)|v;v;v;v;v
 后期|later period; post-production|o;o
 蛇|snake|o
 科|branch of study, department|o
@@ -2596,7 +2596,7 @@
 理想|ideal; an ideal|o;o
 棒极了|brilliant!, terrific|o
 瞎|blind; aimlessly, at random|o;o
-烤|to roast, to bake, to grill|v
+烤|to roast, to bake, to grill; to warm (by a fire: 烤火, 烤手)|v;v
 自豪|proud (of an achievement)|o
 天天|every day, day after day|o
 孤单|lonely, all alone|o
@@ -2904,7 +2904,7 @@
 喽|(there we are, that's that)|g
 要不是|if it weren't for|o
 侮辱|to insult; an insult|v;o
-圈|circle, ring; to circle|o;v
+圈|circle, ring; to circle; (measure word: laps, rounds)|o;v;g
 航班|flight (scheduled)|o
 上周|last week|o
 码头|dock, wharf|o
@@ -3332,7 +3332,7 @@
 亦|also, too (formal)|o
 一团糟|a complete mess|o
 现象|phenomenon|o
-扎|to prick, to stick in; to pitch (a tent)|v;v
+扎|to prick, to stick in; to pitch (a tent); to tie (hair, plaits: 扎辫子) (zā)|v;v;v
 基金|fund|o
 工程|engineering; a project|o;o
 王国|kingdom|o
@@ -3885,7 +3885,7 @@
 巡逻|to patrol|v
 吸烟|smoking (formal, as on a sign)|o
 亮|bright; to shine; to show|o;v;v
-封|to seal; (measure word: letters)|v;g
+封|to seal; (measure word: letters); to confer (a title) on|v;g;v
 珍贵|precious, valuable|o
 偶像|idol|o
 前途|prospects, future|o
@@ -5928,7 +5928,7 @@
 私事|private matter, personal business|o
 箱|case, chest (in compounds)|o
 认定|to be convinced, to firmly hold|v
-垫|cushion, mat; to pad|o;v
+垫|cushion, mat; to pad; to pay for someone (for now: 垫付)|o;v;v
 很难说|hard to say|o
 找死|to be asking for it|v
 没理由|there's no reason to|o
@@ -6447,6 +6447,7 @@
 体系|system|o
 利率|interest rate|o
 点头|to nod|v
+有的|some (of them) (有的…有的: some … others)|o
 吧啦吧啦|blah blah (colloq.)|o
 回旋|to circle, wheel; room for manoeuvre|v;o
 木马|wooden horse; Trojan horse (malware)|o;o
@@ -7449,6 +7450,7 @@
 当代|contemporary|o
 愿景|vision, prospect|o
 融合|to fuse, merge|v
+生产力|productive forces, productivity|o
 权威|authority; authoritative|o;o
 倒闭|to go bankrupt, close down|v
 减速|to slow down|v
@@ -8706,6 +8708,7 @@
 自治|autonomy, self-government|o
 行政区|administrative region|o
 首长|senior official, chief|o
+华人|ethnic Chinese person (esp. overseas)|o
 享有|to enjoy (rights, prestige)|v
 办理|to handle, process|v
 君主|monarch|o
@@ -11348,6 +11351,7 @@
 驴子|donkey|o
 黑桃|spades (cards)|o
 龙虎|dragon and tiger (powerful rivals, heroes)|o
+冰雹|hail, hailstones|o
 两极分化|polarisation|o
 乌贼|cuttlefish, squid|o
 伤疤|scar|o
@@ -11719,6 +11723,7 @@
 酒杯|wine glass|o
 饮用水|drinking water|o
 鲑鱼|salmon|o
+这会儿|now, at the moment|o
 两端|both ends|o
 严密|tight, close, strict|o
 亲信|trusted aide, confidant|o
@@ -11767,6 +11772,7 @@
 胜算|chance of winning|o
 螃蟹|crab|o
 诽谤|to slander, to libel|v
+分工|division of labour; to divide the work|o;v
 也罢|all right, never mind; whether … or|o;o
 凶猛|fierce, ferocious|o
 吃力|strenuous, laborious|o
@@ -11783,6 +11789,7 @@
 萝卜|radish|o
 郁闷|gloomy, depressed, fed up|o
 顷刻|in an instant|o
+公安|public security; the police|o;o
 二重|double, twofold|o
 依仗|to rely on, to count on|v
 停顿|to pause; pause|v;o
@@ -11885,6 +11892,7 @@
 迟迟|slow, tardy (to do something)|o
 闪避|to dodge|v
 魔女|witch, sorceress|o
+发布会|press conference, launch event|o
 云层|layer of clouds|o
 交织|to interweave|v
 光滑|smooth, glossy|o
@@ -12264,6 +12272,7 @@
 调侃|to tease, to ridicule|v
 轰动|to cause a sensation, to stir|v
 迷雾|dense fog; mystery|o;o
+办事处|office, agency (local branch)|o
 一席之地|a place, a foothold (in a field)|o
 一目了然|clear at a glance|o
 一见钟情|love at first sight|o
@@ -12320,11 +12329,13 @@
 难上加难|harder still, extremely difficult|o
 顾名思义|as the name suggests|o
 高举|to hold high|v
+失利|to lose (a match), to suffer a setback|v
 一丁点|a tiny bit|o
 似地|(as if, like: after a noun or clause)|g
 光彩|splendour, lustre; honourable|o;o
 单枪匹马|single-handed, alone|o
 可知|it can be seen; do you know|f3s;f2s2p
+后生|young man, youngster|o
 唯恐|for fear that|o
 嫌弃|to dislike, to turn one's nose up at|v
 心悸|palpitations; fear|o;o
@@ -12712,7 +12723,7 @@
 树干|tree trunk|o
 残缺|incomplete, fragmentary|o
 毒素|toxin|o
-池子|pool, pond|o
+池子|pool, pond; basin, sink|o;o
 烟尘|smoke and dust|o
 父子|father and son|o
 眼圈|rim of the eye; 红了眼圈: eyes turned red|o;n
@@ -13057,6 +13068,8 @@
 防弹衣|bulletproof vest|o
 阻击|to block, intercept (enemy)|v
 风度|poise, bearing, grace|o
+财物|money and property, belongings|o
+线下|offline, in person (vs online)|o
 一味|blindly, persistently|o
 且不说|let alone, not to mention|o
 五脏六腑|internal organs; innermost being|o;o
@@ -13099,6 +13112,8 @@
 远走高飞|to go far away, flee|v
 跃跃欲试|eager to have a go|o
 鬼鬼祟祟|sneaky, furtive|o
+借机|to seize the opportunity|v
+背面|back, reverse side|o
 争先恐后|to scramble to be first|v
 栩栩如生|lifelike, vivid|o
 碎尸万段|to hack to pieces (as a threat)|v
@@ -13124,6 +13139,7 @@
 破口大骂|to curse loudly, hurl abuse|v
 笨手笨脚|clumsy|o
 非同小可|no small matter, extremely serious|o
+外卖|takeaway, food delivery|o
 一劳永逸|once and for all|o
 一拥而上|to rush forward in a crowd, swarm in|v
 一无所获|to gain nothing, come away empty-handed|v
@@ -13178,6 +13194,8 @@
 疑神疑鬼|paranoid, suspicious of everything|o
 空空如也|completely empty|o
 置若罔闻|to turn a deaf ear to|v
+法医|forensic doctor, coroner|o
+义气|loyalty (to one's friends)|o
 与生俱来|innate, inborn|o
 勇往直前|to press forward bravely|v
 喷嚏|sneeze; 打喷嚏: to sneeze|o;n
@@ -13188,6 +13206,7 @@
 灯火通明|brightly lit|o
 风驰电掣|at lightning speed|o
 默不作声|silent, without saying a word|o
+过道|corridor, aisle, passageway|o
 一蹴而就|to succeed in one step, overnight (usu. negated)|v
 兹事体大|this is a serious matter|o
 坐以待毙|to wait passively for death, sit and do nothing|v
@@ -13201,6 +13220,8 @@
 沾沾自喜|smug, pleased with oneself|o
 瞌睡|drowsiness; 打瞌睡: to doze off, nod off|o;n
 至高无上|supreme, paramount|o
+老伴|husband or wife (of an old couple)|o
+记性|memory (the ability to remember)|o
 长途跋涉|long, arduous journey|o
 一头雾水|confused, baffled|o
 万无一失|foolproof, perfectly safe|o
@@ -13225,6 +13246,7 @@
 花言巧语|sweet talk, smooth words|o
 装模作样|to put on an act, pretend|v
 齐头并进|to advance side by side, in parallel|v
+护工|care worker, nursing aide|o
 一触即发|on a hair trigger, about to break out|o
 久仰大名|I've long heard of you (polite greeting)|f1s
 凶多吉少|the outlook is grim, likely to end badly|o
@@ -13259,6 +13281,7 @@
 痴人说梦|a pipe dream, wishful nonsense|o
 胆战心惊|terrified, trembling with fear|o
 首屈一指|second to none, the very best|o
+原告|plaintiff|o
 七情六欲|all human emotions and desires|o
 不卑不亢|neither servile nor arrogant, dignified|o
 单打独斗|to go it alone|v
@@ -13287,6 +13310,7 @@
 轩然大波|a great uproar, a storm (of controversy)|o
 那还用说|needless to say, of course|o
 顺理成章|logical, a natural consequence|o
+轿子|sedan chair|o
 一瘸一拐|limping, hobbling|o
 一饮而尽|to drain in one gulp|v
 不像话|outrageous, unacceptable|o
@@ -13331,6 +13355,7 @@
 起死回生|to bring back from the dead, revive|v
 跌跌撞撞|stumbling, staggering|o
 骂骂咧咧|cursing and grumbling|o
+心率|heart rate|o
 一笔勾销|to write off, cancel entirely|v
 公之于众|to make public|v
 前所未见|never seen before, unprecedented|o
@@ -13390,6 +13415,7 @@
 走投无路|at a dead end, with nowhere to turn|o
 身经百战|battle-hardened, very experienced|o
 远道而来|to come from afar|v
+结账|to pay the bill, to settle up|v
 三头六臂|superhuman abilities|o
 不省人事|unconscious|o
 不谋而合|to agree without prior consultation, coincide|v
@@ -13421,6 +13447,7 @@
 言下之意|implication, what is implied|o
 言简意赅|concise and to the point|o
 高枕无忧|to rest easy, free of worries|v
+市委|municipal Party committee|o
 一扫而空|to sweep away completely, clear out|v
 东张西望|to look around, glance about|v
 乌合之众|a rabble, mob|o
@@ -13444,6 +13471,7 @@
 面不改色|without batting an eye, unflinching|o
 风生水起|thriving, flourishing|o
 齐聚一堂|to gather together in one place|v
+发票|invoice, receipt|o
 一落千丈|to plummet, decline sharply|v
 力不从心|unable to do what one wishes, not up to it|o
 变幻莫测|unpredictable, ever-changing|o
@@ -13451,6 +13479,8 @@
 形同虚设|useless, existing in name only|o
 风起云涌|surging, rising in great waves|o
 高谈阔论|to hold forth, talk grandly|v
+租户|tenant|o
+粤语|Cantonese (language)|o
 一往无前|to press on fearlessly|v
 一筹莫展|at a complete loss, helpless|o
 一鼓作气|in one go, pressing on without letup|o
@@ -13476,6 +13506,7 @@
 瓮声瓮气|in a low muffled voice|o
 看得起|to think highly of, respect|v
 肃然起敬|to feel deep respect|v
+行情|market conditions, prices|o
 马马虎虎|so-so; careless|o;o
 一语不发|without a word|o
 井井有条|orderly, shipshape|o
@@ -13585,10 +13616,12 @@
 连滚带爬|scrambling away in a panic|o
 连绵不绝|continuous, unending|o
 重色轻友|to put a lover before friends|v
+孝子|filial son; son in mourning (at a funeral)|o;o
 小题大做|to make a fuss over nothing|v
 稍纵即逝|fleeting, gone in an instant|o
 脱胎换骨|to be completely transformed, reborn|v
 鹤立鸡群|to stand out from the crowd|v
+煽情|to stir up emotions; sentimental, mawkish|v;o
 冷眼旁观|to watch coldly from the sidelines|v
 出类拔萃|outstanding, head and shoulders above the rest|o
 卑躬屈膝|servile, to bow and scrape|o
@@ -13596,6 +13629,8 @@
 死于非命|to die a violent death|v
 血流成河|rivers of blood, bloodbath|o
 闻风丧胆|terrified at the mere mention|o
+椅背|back of a chair|o
+香案|incense altar|o
 养家糊口|to support one's family, make a living|v
 听天由命|to leave it to fate, resign oneself|v
 咬紧牙关|to grit one's teeth, endure|v
@@ -13608,13 +13643,46 @@
 精疲力竭|exhausted, worn out|o
 只字不提|not to mention a single word about|o
 潜移默化|to influence imperceptibly|v
+胆囊|gall bladder|o
+夹子|clip, clamp, tongs|o
+横幅|banner (horizontal)|o
 闭门羹|a cold shoulder; 吃闭门羹: to be turned away at the door|o;n
 白手起家|to build from nothing, self-made|v
+审判长|presiding judge|o
+包涵|to excuse, to bear with (polite)|v
+朗读|to read aloud|v
 洋相|spectacle; 出洋相: to make a fool of oneself|o;n
-微信|WeChat (the messaging app); a WeChat message|o;o
-研究生|graduate student, postgraduate|o
-操场|sports ground, playground|o
+常委会|standing committee|o
+服务区|service area (on a motorway)|o
+具名|to put one's name to, to be named|v
+冷冷清清|deserted and quiet, desolate|o
+界碑|boundary marker|o
+座谈会|forum, discussion meeting|o
+发胶|hair gel, hairspray|o
+白鹭|egret|o
+腰椎|lumbar vertebra, lower spine|o
+垫付|to pay for someone in advance|v
+警灯|police light, siren light|o
+糖原|glycogen|o
+庙会|temple fair|o
+老伴儿|husband or wife (of an old couple)|o
+随葬品|burial goods, grave goods|o
+边角料|offcuts, scraps|o
+防卫过当|excessive self-defence (legal)|o
+保洁|cleaning (service); cleaner|o;o
+封盖|to block (a shot, basketball)|v
+大后天|in three days' time|o
+椎间盘|intervertebral disc|o
+带货|to promote goods (online, livestream selling)|v
+焊缝|weld seam|o
+总包|main contractor (general contracting)|o
+监舍|prison cell, cellblock|o
+捧哏|straight man (in crosstalk)|o
+毛肚|tripe (beef, in hotpot)|o
 弄堂|lane, alley (Shanghai dialect)|o
+微信|WeChat (the messaging app); a WeChat message|o;o
+操场|sports ground, playground|o
+研究生|graduate student, postgraduate|o
 行长|bank president, head of a bank|o
 平|flat, level; peaceful|o;o
 音|sound, tone|o
@@ -13678,6 +13746,7 @@
 脑|brain|o
 鹿|deer|o
 酸|sour; acid; aching|o;o;o
+捧|to hold in both hands; to flatter|v;v
 章|chapter; seal, badge|o;o
 剧|drama, play; severe|o;o
 厄|misfortune, hardship|o
@@ -14140,6 +14209,7 @@
 怒|anger, rage|o
 赤|red; bare|o;o
 伫|to stand still, stand long|v
+囊|bag, pouch|o
 始|to begin|v
 婊|(in 婊子: bitch)|g
 限|limit; to restrict|o;v
@@ -14804,6 +14874,7 @@
 咙|(in 喉咙: throat)|g
 咨|to consult, to seek advice|v
 咫|咫尺: very close|n
+哏|joke, funny line|o
 哮|(in 咆哮: to roar); wheeze|g;o
 哺|to feed, nurse|v
 售|to sell|v
@@ -14864,6 +14935,7 @@
 嫉|to envy, to be jealous|v
 嫡|legitimate, of the main line|o
 嫣|bright, charming|o
+孝|filial piety; mourning|o;o
 孱|frail, weak|o
 孵|to hatch, incubate|v
 宇|space, the universe; eaves|o;o
@@ -15026,6 +15098,7 @@
 械|implement, weapon; machine|o;o
 棘|thorn; thorny (棘手)|o;o
 棱|edge, ridge|o
+椎|vertebra|o
 概|general, approximate; outline|o;o
 榄|(in 橄榄: olive)|g
 榈|棕榈: palm tree|n
@@ -15208,6 +15281,7 @@
 篡|to usurp; to falsify|v;v
 篷|awning, canopy; sail|o;o
 粟|millet|o
+粤|Guangdong, Cantonese|o
 粹|pure, unadulterated|o
 糙|coarse, rough|o
 纠|to correct; to entangle|v;v
@@ -15458,6 +15532,7 @@
 隧|tunnel|o
 隶|to be subordinate to; a servant|v;o
 雳|霹雳: thunderbolt|n
+雹|hail|o
 霄|sky, heaven|o
 霆|thunderclap|o
 霹|霹雳: thunderbolt|n
@@ -15498,6 +15573,7 @@
 鹏|roc (mythical bird)|o
 鹦|parrot (as in 鹦鹉)|o
 鹫|vulture|o
+鹭|egret, heron|o
 麋|elk, moose; 麋鹿: Père David's deer|o;n
 麒|麒麟: qilin, Chinese unicorn|n
 麟|麒麟: qilin, Chinese unicorn|n
@@ -15778,7 +15854,6 @@
 唐|Tang (the dynasty; a surname); in vain (Classical)|o;o.c
 筏|raft|o
 杖|a staff, a stick|o
-雹|hail|o
 蝎|scorpion|o
 涕|tears; nasal mucus|o;o
 恚|anger, hatred|o

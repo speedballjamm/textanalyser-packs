@@ -11,7 +11,7 @@
 # Glosses on this file only are generated with an LLM and are not derived from
 # any licensed corpus. See NOTICE at the repo root.
 de|of, from|o
-que|that, which; than|o;o
+que|that, which; than; (heading a clause) because, since, or plain emphasis (sí que, oye que)|o;o;o
 no|no, not|o
 a|to, at; marks a person as the object (not translated)|o;o
 la|the (f.); her, it|o;o
@@ -109,7 +109,7 @@ son|(identity, characteristic) they are, you are (pl.)|f3p
 tienes|you have|f2s2p
 nuestro|our|o
 creo|I think, I believe|f1s
-uno|one|o
+uno|one; unos / unas: some, a few|o;n
 voy|I go, I'm going|f1s
 día|day|o
 sabes|(a fact) you know|f2s2p
@@ -126,7 +126,7 @@ verdad|truth; right? (tag question)|o;o
 quién|who?|o
 alguno|some, any|o
 tiempo|time; weather|o;o
-volver|to return, to come back; volverse: to become|v;n
+volver|to return, to come back; volverse: to become, to turn around|v;n
 chico|boy; small; girl (f.)|o;o;o
 tan|so, as|o
 sus|his, her, their, your (pl.)|o
@@ -163,7 +163,7 @@ ti|you (after a preposition)|f2s2p
 otro|other, another|o
 puedes|you can|f2s2p
 llevar|to carry, to take; to wear; to have been (for a time)|v;v;v
-llegar|to arrive|v
+llegar|to arrive; to reach (as far as)|v;v
 salir|to go out, to leave; to turn out (well, badly); to cost, to come to|v;v;v
 alguien|someone|o
 poco|little, few|o
@@ -516,7 +516,7 @@ sueño|dream; sleepiness; I dream|o;o;f1s
 calle|street|o
 joder|to fuck (vulgar); damn it|v;o
 noticia|piece of news (noticias: the news)|o
-meter|to put in, to insert; meterse: to get involved|v;n
+meter|to put in, to insert; meterse: to get involved, to get into|v;n
 paso|step; passage; I pass, I come by; I spend (time)|o;o;f1s;f1s
 coger|to take, to catch (vulgar in Latin America)|v
 sitio|place, spot; website|o;o
@@ -1163,7 +1163,7 @@ tardar|to take time, to be late|v
 absoluto|absolute; en absoluto: not at all|o;n
 trago|drink, swig|o
 encargar|to order; encargarse de: to take charge of|v;n
-menudo|a menudo: often|n
+menudo|small, slight; a menudo: often|o;n
 fantasma|ghost|o
 papa|potato (Latin America); pope|o;o
 camión|truck; bus (Mexico)|o;o
@@ -5044,7 +5044,7 @@ sustituir|to substitute, to replace|v
 batallón|battalion|o
 carbono|carbon|o
 moverte|to move (yourself), to get moving|v
-caña|cane, reed|o
+caña|cane, reed; small glass of beer|o;o
 potente|powerful (of an engine, a drug), potent|o
 semestre|semester|o
 liar|to roll (a cigarette); to muddle|v;v

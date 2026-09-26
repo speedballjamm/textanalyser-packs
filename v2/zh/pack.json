@@ -1,31 +1,31 @@
 {
   "id": "zh",
-  "version": "1.1.54",
+  "version": "1.1.56",
   "files": {
     "lex": {
       "path": "lex.txt",
       "license": "unencumbered",
-      "sha256": "6bdc799ff7991c2fa1cbf39d23579dcfd72dd70bc077258f23ff7dfbbcae0172"
+      "sha256": "4b4bc67c8356ef8a1e32cb6105186e16ce217b9400d9fccc43616ad40f8fd23b"
     },
     "gloss.en": {
       "path": "gloss.en.txt",
       "license": "unencumbered",
-      "sha256": "1b42968fc9232adfddde855735391793b37e9e8a7a922d95a0ffd1ac3331cc32"
+      "sha256": "18b2371e95e4983412e90049d9f016532583cdd650a093a66a454f4113d233f8"
     },
     "ranks": {
       "path": "ranks.txt",
       "license": "CC-BY-SA-4.0",
-      "sha256": "162d4f852a29424f5bac4a2e6462760992433dc8133b60aff6a8b5c5d999b4f7"
+      "sha256": "c95328170405a55afcf30a836d1c53d263bdaf2973300ef8a22836bc29945152"
     },
     "readings": {
       "path": "readings.txt",
       "license": "CC-BY-SA-4.0",
-      "sha256": "778be8c39c9f1c9e03514f4c9479b880ca07a0c10d51471fb0ad7c10a6bd0713"
+      "sha256": "cfb52f26db794853797fb1b36fe89b124be81e3b52d36bd6003d127d35262767"
     },
     "variants": {
       "path": "variants.txt",
       "license": "CC-BY-SA-4.0",
-      "sha256": "cc7072d9406d4f3584fce9baa01bcc567bc58400659c637944d001458d419760"
+      "sha256": "1a9fe279383405d4fe568aaef8795f3f564be5604db1bbfae85f30392c131b2b"
     },
     "sample": {
       "path": "sample.txt",

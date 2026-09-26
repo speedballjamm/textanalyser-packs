@@ -10,7 +10,7 @@
 #
 # Glosses on this file only are generated with an LLM and are not derived from
 # any licensed corpus. See NOTICE at the repo root.
-de|of, from|o
+de|of, from; some (partitive: de l'eau, de nombreux); (links a verb to an infinitive: essayer de partir)|o;o;g
 je|I|f1s
 est|he/she/it is; east (n.)|f3s;o
 pas|not; step|o;o
@@ -29,7 +29,7 @@ l'|the|o
 ne|not (with pas, plus, jamais)|o
 les|the (pl.); them|o;o
 j'|I|f1s
-en|in, to (a country, a month); of it, some|o;o
+en|in, to (a country, a month); of it, some; while, by (+ -ant: en marchant); made of (en bois, en plastique)|o;o;o;o
 on|we (in speech); one, they (impersonal)|f1p;o
 ça|that, it|o
 une|a, one (f.)|o
@@ -73,7 +73,7 @@ aller|to go|v
 était|he/she/it was|f3s
 as|you have (sg.)|f2s2p
 ils|they (m.)|f3p
-sur|on, on top of; about (a topic)|o;o
+sur|on, on top of; about (a topic); out of (un sur dix)|o;o;o
 quoi|what|o
 pouvoir|to be able to, can; power (n.)|v;o
 votre|your (pl., formal)|o
@@ -112,7 +112,7 @@ alors|then, at that time; so; alors que: while, whereas|o;o;n
 bon|good (adj); well, right (interjection); ah bon: really?|o;o;n
 parler|to speak, to talk|v
 comment|how|o
-par|by, through|o
+par|by, through; par terre: on the ground|o;n
 notre|our|o
 ou|or|o
 quelque|some|o
@@ -264,7 +264,7 @@ mec|guy, bloke|o
 voiture|car|o
 gars|lad, fellow|o
 travail|work, job|o
-tête|head|o
+tête|head; face, look (faire la tête)|o;o
 dû|had to; owed|f3s;o
 fils|son|o
 prêt|ready; loan|o;o
@@ -455,7 +455,7 @@ propre|own; clean|o;o
 plan|plan|o
 parent|parent; relative|o;o
 marche|it works; step, walk|f3s;o
-finir|to finish|v
+finir|to finish; finir par: to end up (doing)|v;n
 guerre|war|o
 servir|to serve; to be useful; se servir de: to use|v;v;n
 près|near, close; à peu près: about, roughly|o;n
@@ -822,7 +822,7 @@ colère|anger|o
 papier|paper|o
 boîte|box; club|o;o
 décider|to decide|v
-proche|nearby, close (adj)|o
+proche|nearby, close (adj); close relative or friend (n.)|o;o
 forme|shape, form; en forme: fit, in shape|o;n
 coin|corner|o
 paraître|to appear, to look; il paraît que: apparently|v;n
@@ -853,7 +853,7 @@ vaisseau|spaceship; vessel|o;o
 bar|bar|o
 dedans|inside|o
 information|information|o
-poste|post, position; set|o;o
+poste|post, position; set; station (poste de police, de soins)|o;o;o
 choisir|to choose|v
 prouver|to prove|v
 chacun|each one, everyone|o
@@ -1256,7 +1256,7 @@ sexuel|sexual|o
 gâteau|cake|o
 ha|ha|o
 contrôler|to inspect; to control|v;v
-policier|police officer|o
+policier|police officer; police, detective (roman policier)|o;o
 nerveux|nervous|o
 crise|crisis|o
 mémoire|memory (the faculty)|o
@@ -1939,7 +1939,7 @@ véhicule|vehicle|o
 officiel|official|o
 débrouiller|se débrouiller: to manage, to cope|n
 obéir|to obey|v
-réserve|reserve|o
+réserve|reserve; storeroom|o;o
 escalier|stairs|o
 gratuit|free (costing nothing)|o
 tenu|held|o
@@ -2115,7 +2115,7 @@ foule|crowd|o
 ascenseur|lift|o
 océan|ocean|o
 rouler|to roll; to drive along|v;v
-volant|steering wheel|o
+volant|steering wheel; flying (soucoupe volante)|o;o
 attaché|attached, tied|o
 visiter|to visit|v
 concours|competition, contest|o
@@ -2223,7 +2223,7 @@ mardi|Tuesday|o
 parking|car park|o
 procédure|procedure|o
 échanger|to exchange|v
-pis|tant pis: too bad, never mind|n
+pis|tant pis: too bad, never mind; (colloquial, opening a sentence) and then, and anyway|n;o
 humanité|humanity|o
 renoncer|to give up, to renounce|v
 tape|I tap; he/she taps; I type; he/she types; I hit; he/she hits|f1s;f3s;f1s;f3s;f1s;f3s
@@ -2840,7 +2840,7 @@ habituel|usual|o
 taule|jail, nick|o
 collection|collection|o
 sacrifier|to sacrifice|v
-commerce|trade|o
+commerce|trade; shop, business|o;o
 demi-tour|faire demi-tour: to turn back|n
 parle-moi|talk to me|o
 flotte|fleet|o
@@ -3072,7 +3072,7 @@ particulièrement|particularly|o
 cookie|cookie|o
 cicatrice|scar|o
 raser|to shave; to raze|v;v
-carton|cardboard; box|o;o
+carton|cardboard; box; card (in sport: carton rouge)|o;o;o
 flash|flash|o
 scanner|to scan; scanner|v;o
 engagement|commitment|o
@@ -4181,7 +4181,7 @@ substance|substance|o
 taureau|bull|o
 toxique|toxic|o
 arraché|torn off|o
-dresser|to train; to draw up|v;v
+dresser|to train; to draw up; to set, to lay out (a table, dishes)|v;v;v
 réparation|repair|o
 pharmacie|chemist's|o
 satané|damn, blasted|o
@@ -10676,7 +10676,7 @@ slovène|Slovenian|o
 testostérone|testosterone|o
 vaillant|brave, valiant|o
 vicus|vicus (Roman village)|o
-éclipser|to eclipse, overshadow|v
+éclipser|to eclipse, overshadow; s'éclipser: to slip away|v;n
 abasourdi|stunned, dumbfounded|o
 acharner|to go at relentlessly (s'acharner); s'acharner sur: to hound|v;n
 affectation|posting, assignment; affectation, pretence|o;o

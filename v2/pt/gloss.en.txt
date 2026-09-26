@@ -26,7 +26,7 @@ uma|a, an (f.); one|o;o
 se|oneself, each other; if|o;o
 com|with|o
 ser|to be (identity, characteristic)|v
-por|by, through; because of; for (in exchange)|o;o;o
+por|by, through; because of; for (in exchange); per (por hora, por dia)|o;o;o;o
 ele|he, him|f3s
 isso|that (on its own, without a noun)|o
 em|in, on, at|o
@@ -100,7 +100,7 @@ lá|there|o
 onde|where|o
 vir|to come|v
 quero|I want|f1s
-nosso|our, ours|o
+nosso|our, ours; (Nossa!, alone) wow!, gosh!|o;o
 outro|other, another|o
 sou|(identity, characteristic) I am|f1s
 são|are; you (pl.) are; Saint (in names: São Paulo)|f3s;f2s2p;o
@@ -545,7 +545,7 @@ comida|food|o
 milhão|million|o
 explicar|to explain|v
 preso|arrested, locked up; prisoner|o;o
-trás|para trás: backwards; atrás de: behind|n;n
+trás|para trás: backwards; atrás de: behind; por trás: from behind, behind|n;n;n
 calma|calm; calm down!|o;o
 passado|past; last (week)|o;o
 sentar|to sit down (sentar-se)|v
@@ -1274,7 +1274,7 @@ temporada|season (of a show)|o
 encher|to fill; encher o saco: to annoy|v;n
 fonte|source; fountain|o;o
 confirmar|to confirm|v
-projeto|project|o
+projeto|project; bill (draft law)|o;o
 pescoço|neck|o
 feio|ugly|o
 apagar|to switch off; to erase|v;v
@@ -3965,7 +3965,7 @@ particularmente|particularly|o
 barraca|tent; stall|o;o
 maré|tide|o
 residente|resident|o
-farol|lighthouse; headlight|o;o
+farol|lighthouse; headlight; traffic light|o;o;o
 oriental|eastern|o
 extraterrestre|alien|o
 arranhão|scratch|o
@@ -6283,7 +6283,7 @@ protestante|Protestant|o
 pegajoso|sticky|o
 funerária|funeral home|o
 tremor|tremor, shaking|o
-calhar|calhar de: to happen to|n
+calhar|calhar de: to happen to; se calhar: maybe, perhaps|n;n
 forasteiro|outsider, stranger|o
 lula|squid|o
 melão|melon|o
